@@ -2,7 +2,8 @@
 
 **Slug:** `galatasaray`  
 **Son tarama:** 2026-08-26  
-**Kaynak:** hukuk.gsu.edu.tr aday öğrenci + AKTS + 2025-2026 bahar ara sınav programı
+**Kaynak:** hukuk.gsu.edu.tr aday öğrenci + AKTS + 2025-2026 bahar ara sınav programı  
+**Durum:** borçlar-genel üçlüsü curated (graf+örtü+NotebookLM, 2026-09-11)
 
 ## Kimlik
 

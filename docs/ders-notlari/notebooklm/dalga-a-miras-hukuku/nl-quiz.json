@@ -1,0 +1,106 @@
+{
+  "guz": [
+    "Zümre kapısı sistemi ile sağ kalan eşin yasal miras payı birbiriyle karıştırılmamalıdır; birinci zümrede (altsoy) mirasçı varken ikinci zümre (ana-baba) mirasa çağrılmaz, sağ kalan eş ise altsoy ile birlikte 1/4, ana-baba zümresi ile birlikte 1/2, büyükana-büyükbaba zümresi ile birlikte 3/4 miras payı alır.",
+    "Yasal miras payı ile saklı pay oranları birbirine karıştırılmamalıdır; altsoyun saklı payı yasal miras payının 1/2'sidir, kardeşlerin saklı payı ise 2007 yılında yapılan kanun değişikliğiyle kaldırılmıştır.",
+    "El yazılı vasiyetname ile resmî vasiyetnamenin şekil şartları birbiriyle karıştırılmamalıdır; el yazılı vasiyetnamenin baştan sona mirasbırakanın kendi el yazısıyla yazılması, yıl, ay ve gün gösterilerek imzalanması gerekirken resmî vasiyetname iki tanığın katılmasıyla resmî memur tarafından düzenlenir.",
+    "Vasiyetname ile miras sözleşmesinin ehliyet ve şekil kuralları karıştırılmaktadır; vasiyet yapabilmek için ayırt etme gücüne sahip olmak ve 15 yaşını doldurmak yeterliyken miras sözleşmesi için ayırt etme gücü, erginlik ve kısıtlı olmamak şart olup resmî vasiyetname şeklinde düzenlenmesi zorunludur."
+  ],
+  "bahar": [
+    "Ölüme bağlı tasarrufun iptali davası ile tenkis davası birbirine karıştırılmamalıdır; ehliyetsizlik, irade sakatlığı, hukuka veya ahlaka aykırılık ve şekil eksikliği durumlarında tasarrufun iptali istenirken saklı payı ihlal eden tasarruflarda saklı payı aşan kısmın indirilmesi için tenkis davası açılır.",
+    "Tenkis davası açma süresi ile mirasın reddi süresi karıştırılmaktadır; tenkis davası saklı payın zedelendiğinin öğrenilmesinden itibaren 1 yıl ve her halde 10 yıl içinde açılabilirken mirası ret süresi mirasbırakanın ölümünün öğrenilmesinden itibaren 3 aydır.",
+    "Sözlü veya yazılı iradi ret beyanı ile borca batıklık durumundaki ret varsayımı birbiriyle karıştırılmamalıdır; iradi ret için 3 ay içinde sulh mahkemesine beyanda bulunulması gerekirken mirasbırakanın ölüm tarihinde ödemeden aczi açıkça belli veya resmen tespit edilmişse miras kanun gereği reddedilmiş sayılır.",
+    "Tereke üzerindeki elbirliği mülkiyeti ile paylaşma sonrası paylı mülkiyet karıştırılmaktadır; mirasın açılmasıyla paylaşmaya kadar mirasçılar terekeye elbirliğiyle sahip olurlar ve birlikte tasarruf ederler, ancak paylaşma gerçekleştikten veya paylı mülkiyete dönüştürüldükten sonra her mirasçı kendi payı üzerinde tasarruf edebilir."
+  ],
+  "mcq": {
+    "yasal-mirascilik": {
+      "q": "Sağ kalan eş, mirasbırakanın altsoyu ile birlikte mirasçı olduğunda yasal miras payı ne kadardır?",
+      "choices": [
+        "Mirasın dörtte biri (1/4)",
+        "Mirasın yarısı (1/2)",
+        "Mirasın üçte biri (1/3)",
+        "Mirasın tamamı"
+      ],
+      "answer": 0,
+      "reason": "Sağ kalan eş altsoy ile birlikte mirasçı olduğunda yasal miras payı mirasın 1/4'üdür. TMK m.499"
+    },
+    "sakli-pay": {
+      "q": "Türk Medeni Kanunu uyarınca aşağıdaki mirasçılardan hangisinin saklı payı bulunmamaktadır ve altsoyun saklı pay oranı nedir?",
+      "choices": [
+        "Altsoyun saklı payı yoktur; kardeşin saklı payı yasal payının 1/2'sidir.",
+        "Kardeşin saklı payı yoktur; altsoyun saklı payı yasal miras payının yarısıdır (1/2).",
+        "Ana ve babanın saklı payı yoktur; altsoyun saklı payı yasal miras payının tamamıdır.",
+        "Eşin saklı payı yoktur; altsoyun saklı payı yasal miras payının 1/4'üdür."
+      ],
+      "answer": 1,
+      "reason": "Altsoyun saklı payı yasal miras payının yarısıdır (1/2); kardeşlerin saklı payı ise 2007 değişikliğiyle kaldırılmıştır. TMK m.506"
+    },
+    "olume-bagli-tasarruf": {
+      "q": "El yazılı vasiyetnamenin geçerli olabilmesi için kanunen aranılan zorunlu şekil şartları nelerdir?",
+      "choices": [
+        "İki tanık huzurunda noterde düzenlenmesi ve imzalanması zorunludur.",
+        "Baştan sona mirasbırakanın el yazısıyla yazılmış, yapıldığı yıl, ay ve gün gösterilmiş ve imzalanmış olması zorunludur.",
+        "Resmî memur tarafından yazılıp iki tanık huzurunda okunup imzalanması zorunludur.",
+        "Metnin bilgisayarla yazılması, tarih konulması ve noter tarafından onaylanması yeterlidir."
+      ],
+      "answer": 1,
+      "reason": "El yazılı vasiyetnamenin yapıldığı yıl, ay ve gün gösterilerek başından sonuna kadar mirasbırakanın el yazısıyla yazılmış ve imzalanmış olması zorunludur. TMK m.538"
+    },
+    "miras-sozlesmesi": {
+      "q": "Miras sözleşmesi yapabilmek için aranan ehliyet şartları ve geçerlilik şekli hakkında aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Ayırt etme gücü ve 15 yaşını doldurmuş olmak yeterlidir, yazılı şekilde yapılması geçerlidir.",
+        "Ayırt etme gücüne sahip, ergin ve kısıtlı olmamak gerekir; geçerli olması için resmî vasiyetname şeklinde düzenlenmesi zorunludur.",
+        "Sadece ayırt etme gücünün bulunması yeterli olup el yazılı şekilde de yapılabilir.",
+        "Ergin olmak yeterlidir, tanıksız şekilde noterde onaylanması geçerlilik için kafidir."
+      ],
+      "answer": 1,
+      "reason": "Miras sözleşmesi için ayırt etme gücü, erginlik ve kısıtlı olmamak gerekir (TMK m.503); resmî vasiyetname şeklinde düzenlenmesi zorunludur (TMK m.545). TMK m.503, TMK m.545"
+    },
+    "iptal": {
+      "q": "Aşağıdakilerden hangisi Türk Medeni Kanunu m.557 uyarınca ölüme bağlı tasarrufun iptali sebeplerinden biri değildir?",
+      "choices": [
+        "Tasarrufun mirasbırakanın tasarruf ehliyeti bulunmadığı bir sırada yapılmış olması",
+        "Tasarrufun yanılma, aldatma, korkutma veya zorlama sonucunda yapılmış olması",
+        "Tasarrufun saklı paylı mirasçıların saklı payını ihlal edecek miktarda yapılmış olması",
+        "Tasarrufun kanunda öngörülen şekillere uyulmadan yapılmış olması"
+      ],
+      "answer": 2,
+      "reason": "Saklı payın ihlali iptal sebebi değil, tenkis davasının konusudur; ehliyetsizlik, irade sakatlığı, hukuka/ahlaka aykırılık ve şekle aykırılık iptal sebebidir. TMK m.557"
+    },
+    "tenkis": {
+      "q": "Saklı paylarının karşılığını alamayan mirasçıların açacağı tenkis davası için öngörülen hak düşürücü süreler nelerdir?",
+      "choices": [
+        "Saklı payın zedelendiğinin öğrenilmesinden itibaren 1 yıl ve her halde vasiyetnamelerde açılma, diğerlerinde mirasın açılması tarihinden itibaren 10 yıl",
+        "Mirasın açılmasından itibaren 3 ay içinde",
+        "Öğrenmeden itibaren 6 ay ve her halde 5 yıl içinde",
+        "Öğrenmeden itibaren 2 yıl ve her halde 20 yıl içinde"
+      ],
+      "answer": 0,
+      "reason": "Tenkis davası açma hakkı, saklı payın zedelendiğinin öğrenildiği tarihten başlayarak 1 yıl ve her halde vasiyetnamelerde açılma, diğer tasarruflarda mirasın açılması tarihinden itibaren 10 yıl geçmekle düşer. TMK m.571"
+    },
+    "ret": {
+      "q": "Mirasın reddine ilişkin genel ret süresi ve mirasbırakanın borca batıklığı durumundaki hukuki durum hakkında hangisi doğrudur?",
+      "choices": [
+        "Ret süresi 1 yıldır; borca batıklık durumunda da yazılı başvuru şarttır.",
+        "Miras 3 ay içinde reddolunabilir; ölümü tarihinde mirasbırakanın ödemeden aczi açıkça belli veya resmen tespit edilmiş ise miras reddedilmiş sayılır.",
+        "Ret süresi 6 aydır; sulh mahkemesine sözlü veya yazılı beyanda bulunulmadıkça miras reddedilmiş sayılmaz.",
+        "Ret süresi 10 yıldır; borca batıklıkta sulh hâkimi kendiliğinden mirası tasfiye eder."
+      ],
+      "answer": 1,
+      "reason": "Miras 3 ay içinde reddedilebilir (TMK m.606); mirasbırakanın ödemeden aczi açıkça belli veya resmen tespit edilmişse miras reddedilmiş sayılır (TMK m.605/2). TMK m.605, TMK m.606"
+    },
+    "tereke-paylasma": {
+      "q": "Birden çok mirasçının bulunması halinde, mirasın geçmesiyle birlikte paylaşmaya kadar terekedeki haklar üzerindeki mülkiyet rejiminin niteliği nedir?",
+      "choices": [
+        "Mirasçılar terekedeki haklar üzerinde elbirliğiyle (iştirak halinde) malik olurlar ve birlikte tasarruf ederler.",
+        "Mirasçılar kendiliğinden paylı mülkiyet sahibi olurlar ve kendi payları üzerinde tek başına tasarruf edebilirler.",
+        "Tereke devlet mülkiyetine geçer ve resmî tasfiye memuru tarafından yönetilir.",
+        "Her mirasçı terekedeki tek bir mal üzerinde bağımsız mülkiyet hakkı kazanır."
+      ],
+      "answer": 0,
+      "reason": "Mirasçılar terekeye elbirliğiyle sahip olurlar ve sözleşme veya kanundan doğan temsil yetkisi saklı kalmak üzere bütün haklar üzerinde birlikte tasarruf ederler. TMK m.640"
+    }
+  },
+  "intro": "Sınav puanı sloganı yazmaktan değil kapıyı ayırmaktan düşer. Aşağıdaki tuzaklar resmi lafza ve graf unsura dayanır; slayt cümlesi değildir.",
+  "uyari": "Kaynak, unsur ve süre aynı torbaya konmaz. OBS ve öğretim elemanı bağlayıcıdır."
+}

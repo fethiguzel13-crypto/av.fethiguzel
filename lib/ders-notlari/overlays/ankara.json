@@ -44,5 +44,571 @@
             "url": "https://www.law.ankara.edu.tr/ders-programi/",
             "note": "takvim görseli"
         }
-    ]
+    ],
+    "byCourse": {
+        "medeni-baslangic": {
+            "cityHook": "Cebeci yurdunda kira sözleşmesine imza atan on yedi yaşındaki öğrenci",
+            "mehaz": "İsviçre ZGB hattı, Cebeci şerh geleneği",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Klasik yazılı final ağırlıklı; ara sınav %20–40, final %40–60 (dönem ilanı esas).",
+                "format": "Uzun cevap: TMK maddesi + unsur + olaya yedirme. Cebeci dogmatik geleneği şerh ve (varsa) Yargıtay satırı bekler.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde hangi TMK kapısının işlediğini yazın: uygulama (m.1), dürüstlük (m.2) veya iyiniyet (m.3).",
+                    "Boşluk, belirsizlik ve takdiri aynı torbaya koymayın; hak ehliyeti ile fiil ehliyetini karıştırmayın.",
+                    "OBS ve sorumlu öğretim elemanının duyurusu bu notun üstündedir."
+                ]
+            },
+            "syllabusOrder": [
+                "hukuk kavramı ve medeni hukuk sistemleri",
+                "yürürlük kaynakları, uygulanma, yorum",
+                "kanun hükmü ve hâkimin takdir yetkisi",
+                "kanun boşluğu",
+                "hak kavramı ve türleri",
+                "hukuki işlemler",
+                "kazanma/kaybetme, iyiniyet",
+                "dürüstlük kuralı",
+                "korunma ve ispat",
+                "kişilik, ehliyet, ad, hısımlık, yerleşim"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği TMK m.1 kapısını önce yazar: kanun sözü ve özü, sonra örf, en sonda hâkimin hukuk yaratması.",
+                "HKZ-104 açık ders haftalık başlıkları konu haritasıdır; slayt cümlesi kullanılmaz.",
+                "Hukuka giriş notu kavram zeminidir; bu paket başlangıç hükümlerini madde madde işler."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                },
+                {
+                    "title": "HKZ-104 Medeni (haftalık)",
+                    "url": "https://acikders.ankara.edu.tr/course/view.php?id=5044",
+                    "note": "Giriş/medeni omurga başlıkları; slayt metni alınmadı"
+                },
+                {
+                    "title": "Hukuk Başlangıcı — açık ders (id=1613)",
+                    "url": "https://acikders.ankara.edu.tr/course/view.php?id=1613",
+                    "note": "14 haftalık başlık iskeleti; çapraz kavram zemini"
+                }
+            ]
+        },
+        "ceza-genel": {
+            "cityHook": "Cebeci'de bir kasten yaralama ve meşru savunma tartışması",
+            "mehaz": "Cebeci şerh geleneği; TCK lafzı bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Klasik yazılı final ağırlıklı; oran dönem ilanı esas.",
+                "format": "Uzun cevap: TCK maddesi + tipiklik + hukuka aykırılık + kusur.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde tipikliği yazın; meşru savunmayı kasttan önce kapamayın.",
+                    "Kast ile olası kastı, teşebbüs ile icraya başlamayı karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "kanunilik",
+                "kast ve taksir",
+                "hukuka uygunluk",
+                "teşebbüs",
+                "iştirak ve içtima",
+                "yaptırım"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği tipikliği önce yazar.",
+                "Borçlar ve medeni notlar ayrı derslerdir.",
+                "Slayt cümlesi alınmaz."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
+        },
+        "medeni-usul": {
+            "cityHook": "Cebeci'de bir tapu iptali davasının görev ve yetki tartışması",
+            "mehaz": "Cebeci şerh geleneği; HMK lafzı bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Klasik yazılı final ağırlıklı; oran dönem ilanı esas.",
+                "format": "Uzun cevap: HMK maddesi + dava şartı + usul işlemi + sonuç.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde görev mi yetki mi olduğunu yazın.",
+                    "Dava şartı ile ilk itirazı, istinaf ile temyizi karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "görev",
+                "yetki",
+                "dava şartları",
+                "dilekçeler",
+                "tahkikat ve delil",
+                "hüküm ve kanun yolu"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği görev-yetki kapısını önce yazar.",
+                "Borçlar ve ceza notları ayrı derslerdir.",
+                "Slayt cümlesi alınmaz."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
+        },
+        "esya-hukuku": {
+            "cityHook": "Cebeci'de bir tapu iptali ve zilyetlik koruması",
+            "mehaz": "Cebeci şerh geleneği; TMK eşya lafzı bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TMK maddesi + ayni hak unsuru + olaya yedirme.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde zilyetlik mi mülkiyet mi olduğunu yazın.",
+                    "Sicile güven ile yolsuz tescili, paylı mülkiyet ile elbirliğini karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "zilyetlik",
+                "tapu",
+                "mülkiyet",
+                "paylı mülkiyet",
+                "irtifak",
+                "ipotek",
+                "taşınır rehni",
+                "kat mülkiyeti"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği zilyetlik-mülkiyet kapısını önce yazar.",
+                "Usul ve borçlar ayrı derslerdir."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
+        },
+        "icra-iflas": {
+            "cityHook": "Cebeci'de bir kira ilamı ve icra emri",
+            "mehaz": "Cebeci şerh geleneği; İİK lafzı bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: İİK maddesi + takip yolu + olaya yedirme.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde ilamlı mı ilamsız mı olduğunu yazın.",
+                    "İtirazın iptali ile kaldırılmasını, haciz ile istihkakı karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "ilamlı icra",
+                "ilamsız takip",
+                "itiraz",
+                "haciz",
+                "istihkak",
+                "cebri satış",
+                "sıra cetveli",
+                "iflas"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği takip yolunu önce yazar.",
+                "Usul ve borçlar ayrı derslerdir."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
+        },
+        "aile-hukuku": {
+            "cityHook": "Cebeci'de bir boşanma ve velayet tartışması",
+            "mehaz": "Cebeci şerh geleneği; TMK aile lafzı bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TMK maddesi + aile kurumu + olaya yedirme.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde evlilik bağı mı mal rejimi mi olduğunu yazın.",
+                    "Mutlak butlan ile nispi butlanı, yoksulluk nafakası ile tedbir nafakasını karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "nişan",
+                "evlenme",
+                "butlan",
+                "boşanma",
+                "mal rejimi",
+                "velayet",
+                "nafaka"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği evlilik bağını önce yazar.",
+                "Usul ve borçlar ayrı derslerdir."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
+        },
+        "miras-hukuku": {
+            "cityHook": "Cebeci'de bir vasiyetname ve saklı pay tartışması",
+            "mehaz": "Cebeci şerh geleneği; TMK miras lafzı bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TMK maddesi + miras kurumu + olaya yedirme.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde yasal mirasçı mı atanmış mirasçı mı olduğunu yazın.",
+                    "Tenkis ile iptali, ret ile feragati karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "yasal mirasçılık",
+                "saklı pay",
+                "ölüme bağlı tasarruf",
+                "miras sözleşmesi",
+                "iptal",
+                "tenkis",
+                "ret",
+                "tereke paylaşma"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği zümreyi önce yazar.",
+                "Aile ve borçlar ayrı derslerdir."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
+        },
+        "borclar-ozel": {
+            "cityHook": "Cebeci'de ikinci el bir araç satımı ve ayıp bildirimi",
+            "mehaz": "Cebeci şerh geleneği; TBK özel sözleşme lafzı bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TBK maddesi + sözleşme türü + olaya yedirme.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde hangi özel sözleşmenin kurulduğunu yazın.",
+                    "Ayıp ile seçimlik hakları, kira ile eseri, hizmet ile vekâleti karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "satış",
+                "bağışlama",
+                "kira",
+                "eser",
+                "hizmet",
+                "vekâlet",
+                "kefalet",
+                "ödünç"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği sözleşme türünü önce yazar.",
+                "Borçlar genel ayrı derstir; borcun kaynağı bu kâğıtta aranmaz."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
+        },
+        "is-hukuku": {
+            "cityHook": "Cebeci'de bir işyeri feshinin geçersizliği ve işe iade",
+            "mehaz": "Cebeci şerh geleneği; 4857 ve 1475 m.14 lafzı bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: 4857 maddesi + fesih türü + olaya yedirme.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde iş güvencesi kapsamı mı haklı fesih mi olduğunu yazın.",
+                    "Kıdem ile ihbarı, belirli süre ile belirsiz süreyi karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "iş sözleşmesi",
+                "süre ve tür",
+                "fesih",
+                "kıdem ve ihbar",
+                "ücret ve süre",
+                "iş sağlığı"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği kapsam ve fesih kapısını önce yazar.",
+                "TBK hizmeti ayrı derstir; bu kâğıtta 4857 konuşur."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
+        },
+        "ceza-ozel": {
+            "cityHook": "Cebeci'de bir kasten öldürme ve nitelikli hâl tartışması",
+            "mehaz": "Cebeci şerh geleneği; TCK özel lafız bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TCK maddesi + suç tipi + olaya yedirme.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde hangi suç tipinin kurulduğunu yazın.",
+                    "81 ile 82'yi, 86 ile 87'yi, zimmet ile görevi kötüye kullanmayı karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "kasten öldürme",
+                "kasten yaralama",
+                "hakaret",
+                "hırsızlık",
+                "dolandırıcılık",
+                "uyuşturucu",
+                "zimmet",
+                "görevi kötüye kullanma"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği tipi önce yazar.",
+                "Ceza genel ayrı derstir; tipiklik bu kâğıtta suç unsurunun yerine geçmez."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
+        },
+        "ticari-isletme": {
+            "cityHook": "Cebeci'de bir bakkalın tacir sıfatı ve sicil tartışması",
+            "mehaz": "Cebeci şerh geleneği; TTK birinci kitap lafzı bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + tacir/işletme kapısı + olaya yedirme.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde tacir sıfatı mı ticari iş mi olduğunu yazın.",
+                    "Esnaf sınırı ile taciri, sicil ile unvanı karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "ticari iş",
+                "ticari işletme",
+                "tacir",
+                "sicil",
+                "unvan",
+                "haksız rekabet",
+                "basiret ve temsil"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği tacir kapısını önce yazar.",
+                "Şirketler ve borçlar genel ayrı derslerdir."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
+        },
+        "ticaret-sirketler": {
+            "cityHook": "Cebeci'de bir anonim şirket genel kurulunun iptali",
+            "mehaz": "Cebeci şerh geleneği; TTK şirketler lafzı bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + şirket türü + olaya yedirme.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde kişi şirketi mi sermaye şirketi mi olduğunu yazın.",
+                    "Yönetim kurulu ile genel kurulu, AŞ ile limitedi karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "ticaret şirketleri",
+                "kollektif-komandit",
+                "anonim",
+                "organlar",
+                "sermaye-pay",
+                "limited",
+                "sona erme"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği şirket türünü önce yazar.",
+                "Ticari işletme ayrı derstir; tacir sıfatı bu kâğıdın kapısı değildir."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
+        },
+        "ceza-muhakemesi": {
+            "cityHook": "Cebeci'de bir tutuklama ve adli kontrol tartışması",
+            "mehaz": "Cebeci şerh geleneği; CMK lafzı bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: CMK maddesi + evre + olaya yedirme.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde soruşturma mı kovuşturma mı olduğunu yazın.",
+                    "İfade ile sorguyu, tutuklama ile adli kontrolü karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "soruşturma",
+                "koruma tedbirleri",
+                "ifade ve sorgu",
+                "kovuşturma",
+                "delil",
+                "hüküm ve kanun yolu"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği evreyi önce yazar.",
+                "Ceza genel ve özel ayrı derslerdir."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
+        },
+        "kiymetli-evrak": {
+            "cityHook": "Cebeci'de bir bono ve ciro tartışması",
+            "mehaz": "Cebeci şerh geleneği; TTK kıymetli evrak lafzı bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + senet türü + olaya yedirme.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde poliçe mi bono mu çek mi olduğunu yazın.",
+                    "Ciro ile teslimi, nama ile emreyi karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "kıymetli evrak",
+                "poliçe",
+                "bono",
+                "ciro",
+                "çek",
+                "def'i",
+                "başvuru",
+                "karşılıksız çek"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği senet türünü önce yazar.",
+                "Ticari işletme ve şirketler ayrı derslerdir."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
+        }
+    }
 }

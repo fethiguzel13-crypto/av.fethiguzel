@@ -1,0 +1,152 @@
+{
+  "guz": [
+    "Sınav kâğıdında borç ilişkisi incelenirken ilk cümleye kaynağın (sözleşme TBK m.1, haksız fiil TBK m.49, sebepsiz zenginleşme TBK m.77) açıkça yazılmaması ve borç ilişkisinin tek bir para borcu sanılıp haklar ve yan yükümler demeti olarak okunmaması.",
+    "İcabın yorumunda İrade Teorisi ile Güven Teorisi'nin açıkça adlandırılmaması; şaka, ön görüşme veya icaba davet ile bağlanma iradesi taşıyan gerçek icabın ayırt edilememesi.",
+    "Esaslı hata (TBK m.31) ile saik hatasının (TBK m.32) karıştırılması; iptal hakkının 1 yıllık hak düşürücü süre (TBK m.39) içinde kullanılmadığında sözleşmenin ayakta kalacağının unutulması.",
+    "Doğrudan temsil (TBK m.40) ile dolaylı temsilin sınavda vekâlet sözleşmesiyle karıştırılması ve şirket organı ile temsilcinin/vekilin birbirine karıştırılması.",
+    "Genel işlem koşulunda şaşırtıcı kayıtların ve açık bilgilendirme eksikliğinin yazılmamış sayılma (TBK m.21) yaptırımına tabi olduğunu unutup doğrudan iptal veya geçersizlik tartışması açmak."
+  ],
+  "bahar": [
+    "Para borçlarında götürülecek borç kuralı (TBK m.89/1) ile parça ve çeşit borçlarının ifa yeri kurallarının karıştırılması.",
+    "Ayıp ile temerrüdün karıştırılması; temerrütte TBK m.123 uyarınca ihtar/süre verilmeden acele dönme hakkı kullanılmaya çalışılması ve imkânsızlığın temerrüdü düşürdüğünün atlanması.",
+    "Başlangıçtaki imkânsızlık (butlan) ile sonraki imkânsızlığın (TBK m.136) ve aşırı ifa güçlüğünün (TBK m.138) birbirine karıştırılması.",
+    "Haksız fiil (TBK m.49) ile sözleşmeye aykırılık yarışmasında talep hakkının seçilebileceğinin ve sebepsiz zenginleşmenin (TBK m.77) kusur aranmayan yedek bir kaynak olduğunun unutulması.",
+    "Zamanaşımının (TBK m.146, 147) borcu söndürmeyip def'i doğurduğunu ve hâkimce resen gözetilemeyeceğini (TBK m.161); hak düşürücü sürenin ise resen dikkate alındığını karıştırmak."
+  ],
+  "mcq": {
+    "borc-iliskisi": {
+      "q": "Marmara Göztepe sınav uygulamasında bir somut olayda borç ilişkisinin varlığı incelenirken kâğıdın ilk cümlesinde yapılması gereken ve borç ilişkisinin niteliğini belirleyen doğru yaklaşım hangisidir?",
+      "choices": [
+        "Borç ilişkisini sadece tek bir para borcu olarak tanımlayıp hemen zamanaşımı hesabına geçmek.",
+        "Hukuki sebebin (sözleşme TBK m.1, haksız fiil TBK m.49 veya sebepsiz zenginleşme TBK m.77) belirlenerek haklar, yan yükümler ve savunmalar demeti olarak okunması.",
+        "Borç ilişkisinin yalnızca kanundan doğabileceğini savunarak sözleşmesel bağı reddetmek.",
+        "Edimin imkânsız olup olmadığına bakılmaksızın doğrudan ifa temerrüdü ihtarı çekmek."
+      ],
+      "answer": 1,
+      "reason": "Hâkim görüş ve Marmara ekolü uyarınca borç ilişkisi tek bir para borcu değil; haklar, yan yükümler ve savunmaların toplandığı bir demettir ve sınav kâğıdının ilk cümlesinde kaynağın sözleşmesel mi kanunî mi olduğu yazılmalıdır."
+    },
+    "sozlesmenin-kurulmasi": {
+      "q": "TBK m.8 uyarınca, bir mağazanın vitrininde fiyatı gösterilerek mal sergilenmesi durumu hukuksal nitelikçe ne sayılır?",
+      "choices": [
+        "Ön görüşme talebi sayılır.",
+        "İcaba davet sayılır.",
+        "Aksi açıkça ve kolaylıkla anlaşılmadıkça öneri (icap) sayılır.",
+        "Örtülü kabul sayılır."
+      ],
+      "answer": 2,
+      "reason": "TBK m.8/f.2 hükmü gereğince, fiyatını göstererek mal sergilenmesi veya tarife/fiyat listesi gönderilmesi, aksi açıkça ve kolaylıkla anlaşılmadıkça öneri sayılır."
+    },
+    "irade-sakatliklari": {
+      "q": "Sözleşme kurulurken irade sakatlığına (hata, hile, korkutma) maruz kalan tarafın sözleşmeyle bağlı olmama hakkını kullanması ile ilgili olarak TBK m.39'a göre geçerli olan kural hangisidir?",
+      "choices": [
+        "İrade sakatlığı sözleşmeyi kendiliğinden hükümsüz kılar, hak kullanım süresi yoktur.",
+        "Yanılma veya aldatmayı öğrendiği ya da korkutmanın etkisi kalktığı andan itibaren 1 yıl içinde bildirimde bulunulmazsa sözleşme onanmış sayılır.",
+        "Sözleşme her zaman 10 yıllık genel zamanaşımı süresi içinde iptal edilebilir.",
+        "İptal hakkı sadece mahkemede dava açılarak kullanılabilir, tek taraflı bildirimle kullanılamaz."
+      ],
+      "answer": 1,
+      "reason": "TBK m.39 uyarınca yanılma/aldatmayı öğrenme veya korkutmanın kalkmasından itibaren 1 yıl içinde bağlı olunmadığı bildirilmezse veya verilen geri istenmezse sözleşme onanmış sayılır."
+    },
+    "temsil": {
+      "q": "TBK m.40 hükmü uyarınca, temsilcinin yaptığı hukuki işlemin sonuçlarının doğrudan doğruya temsil olunana ait olabilmesi için kural olarak ne gereklidir?",
+      "choices": [
+        "Temsilcinin yetkili olması ve işlemi başkası adına ve hesabına yaptığını (temsil sıfatını) bildirmesi.",
+        "Temsilcinin işlemi kendi adına fakat temsil olunan hesabına yapması.",
+        "Temsil olunanın işlem anında bizzat hazır bulunması.",
+        "İşlemin mutlaka resmi şekilde yapılması."
+      ],
+      "answer": 0,
+      "reason": "TBK m.40/f.1 gereğince yetkili temsilcinin başkası adına ve hesabına yaptığı hukuki işlemin sonuçları doğrudan temsil olunanı bağlar; temsilci bu sıfatı bildirmelidir."
+    },
+    "genel-islem-kosullari": {
+      "q": "TBK m.21 uyarınca, karşı tarafın menfaatine aykırı genel işlem koşullarının sözleşme kapsamına girmesi ve geçerli olması için hangi şart aranır?",
+      "choices": [
+        "Noter huzurunda onaylanmış olması.",
+        "Düzenleyenin karşı tarafa açıkça bilgi verip içeriğini öğrenme imkânı sağlaması ve karşı tarafın kabul etmesi.",
+        "Sözleşmenin altına 'tüm maddeleri okudum' ibaresinin matbu yazılması.",
+        "Düzenleyenin sözleşmeyi tek taraflı değiştirme yetkisini saklı tutması."
+      ],
+      "answer": 1,
+      "reason": "TBK m.21 uyarınca düzenleyen açıkça bilgi verip öğrenme imkânı sağlamaz ve karşı taraf kabul etmezse, veya işin özelliğine yabancı ise bu koşullar yazılmamış sayılır."
+    },
+    "ifa": {
+      "q": "TBK m.89 hükmü uyarınca, aksine bir anlaşma olmaması durumunda para borçlarının ifa yeri neresidir?",
+      "choices": [
+        "Borçlunun doğum sırasındaki yerleşim yeri.",
+        "Sözleşmenin kurulduğu sırada borç konusunun bulunduğu yer.",
+        "Alacaklının ödeme zamanındaki yerleşim yeri.",
+        "Herhangi bir banka şubesi."
+      ],
+      "answer": 2,
+      "reason": "TBK m.89/1-b.1 uyarınca aksine anlaşma yoksa para borçları alacaklının ödeme zamanındaki yerleşim yerinde ifa edilir (götürülecek borç)."
+    },
+    "temerrut": {
+      "q": "Muaccel bir borçta borçlunun temerrüde düşürülmesi hususunda TBK m.117 uyarınca kural olarak ne gereklidir?",
+      "choices": [
+        "Alacaklının borçluya ihtarda bulunması.",
+        "Doğrudan icra takibi yapılması.",
+        "Borçlunun kusurlu olduğunun mahkemece tespiti.",
+        "Aradan 10 yıl geçmesi."
+      ],
+      "answer": 0,
+      "reason": "TBK m.117/f.1 gereğince muaccel bir borcun borçlusu, alacaklının ihtarıyla temerrüde düşer; kanunda belirtilen istisnalar saklıdır."
+    },
+    "ifa-imkansizligi": {
+      "q": "Sözleşme kurulduktan sonra borcun ifasının borçlunun sorumlu tutulamayacağı sebeplerle imkânsızlaşması durumunda TBK m.136 uyarınca hukuki sonuç ne olur?",
+      "choices": [
+        "Sözleşme başlangıçtan itibaren batıl olur.",
+        "Borç sona erer; karşılıklı sözleşmede borçtan kurtulan borçlu aldığı edimi sebepsiz zenginleşme hükümleriyle geri verir.",
+        "Borçlu alacaklıya aynen ifa tazminatı ödemek zorunda kalır.",
+        "Zamanaşımı süresi yeniden işlemeye başlar."
+      ],
+      "answer": 1,
+      "reason": "TBK m.136/f.1-2 gereğince borçlunun sorumlu olmadığı sonraki imkânsızlık borcu sona erdirir ve alınan edim sebepsiz zenginleşme kurallarınca geri verilir."
+    },
+    "haksiz-fiil": {
+      "q": "TBK m.49 uyarınca haksız fiilden doğan sorumluluğun temel kurucu unsurları hangisinde eksiksiz verilmiştir?",
+      "choices": [
+        "Yalnızca zarar ve borçlunun temerrüdü.",
+        "Fiil, hukuka aykırılık, kusur, zarar ve uygun illiyet bağı.",
+        "Geçersiz sözleşme ve sebepsiz zenginleşme.",
+        "Yalnızca kasten yapılan ahlaka aykırı fiil."
+      ],
+      "answer": 1,
+      "reason": "TBK m.49 ve doktrin uyarınca haksız fiil sorumluluğu için fiil, hukuka aykırılık, kusur, zarar ve illiyet bağı unsurlarının birlikte bulunması gerekir."
+    },
+    "sebepsiz-zenginlesme": {
+      "q": "TBK m.78 uyarınca, borçlanmadığı edimi kendi isteğiyle yerine getiren kimsenin bu edimi geri isteyebilmesi için neyi ispat etmesi şarttır?",
+      "choices": [
+        "Karşı tarafın kötüniyetli olduğunu.",
+        "Zararın haksız fiilden kaynaklandığını.",
+        "Kendisini borçlu sanarak yerine getirdiğini.",
+        "Zamanaşımının kesildiğini."
+      ],
+      "answer": 2,
+      "reason": "TBK m.78/f.1 hükmüne göre borçlanmadığı edimi ödeyen kimse, bunu ancak kendisini borçlu sanarak yerine getirdiğini ispat ederse geri isteyebilir."
+    },
+    "sona-erme": {
+      "q": "TBK m.132 uyarınca ibra sözleşmesiyle borcun ortadan kaldırılması hususunda şekil kuralı nedir?",
+      "choices": [
+        "Borcu doğuran işlem kanunen şekle tabi olsa bile ibra sözleşmesi şekle bağlı olmaksızın yapılabilir.",
+        "İbra mutlaka asıl işlemin bağlı olduğu şekle uygun yapılmalıdır.",
+        "İbra sadece resmi senetle yapılabilir.",
+        "İbra yazılı yapılmadıkça geçersizdir."
+      ],
+      "answer": 0,
+      "reason": "TBK m.132 gereğince borcu doğuran işlem kanunen veya taraflarca belli bir şekle bağlı tutulmuş olsa bile borç, tarafların şekle bağlı olmaksızın yapacakları ibra sözleşmesiyle söndürülebilir."
+    },
+    "zamanasimi": {
+      "q": "TBK m.161 uyarınca zamanaşımının mahkemede ileri sürülmesi ve uygulanması ile ilgili kural hangisidir?",
+      "choices": [
+        "Hâkim zamanaşımını kendiliğinden (resen) göz önüne almak zorundadır.",
+        "Zamanaşımı ileri sürülmedikçe hâkim bunu kendiliğinden göz önüne alamaz.",
+        "Zamanaşımı hakkı sona erdirdiği için dava reddedilir.",
+        "Zamanaşımı süresi kamu düzeninden olup resen incelenir."
+      ],
+      "answer": 1,
+      "reason": "TBK m.161 hükmüne göre zamanaşımı bir def'i niteliğinde olduğundan, taraflarca ileri sürülmedikçe hâkim bunu kendiliğinden göz önüne alamaz."
+    }
+  },
+  "intro": "Marmara Göztepe yazılısında teori ile pratik aynı torbada durur. Tuzaklar TBK lafzı ve graf unsura dayanır.",
+  "uyari": "İcap ile davet, temerrüt ile ayıp, zamanaşımı ile hak düşürücü süre aynı torbaya konmaz. MEOBS bağlayıcıdır."
+}

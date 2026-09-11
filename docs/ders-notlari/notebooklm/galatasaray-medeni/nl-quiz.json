@@ -1,0 +1,130 @@
+{
+  "guz": [
+    "Boşluk doldurma (TMK m.1) ile takdir yetkisinin (TMK m.4) karıştırılması: hâkim boşlukta kural koyar; taktirde kanun çerçeve tanımıştır.",
+    "Örf ve âdetin kanunun açık hükmünü bertaraf edeceği yanılgısı: örf yalnız uygulanabilir hüküm yoksa gelir (TMK m.1).",
+    "Dürüstlük kuralı (TMK m.2) ile iyiniyetin (TMK m.3) karıştırılması: ilki objektif davranış, ikincisi subjektif özen ve karinedir.",
+    "Hakkın kötüye kullanılmasının hakkın varlığını sona erdirdiği sanılması: m.2 korunmayı durdurur, hakkı silmez.",
+    "Hak ehliyeti ile fiil ehliyetinin karıştırılması: hak ehliyeti doğumla (m.8), fiil ehliyeti ayırt etme gücü–erginlik–kısıtlı olmama (m.10)."
+  ],
+  "bahar": [
+    "Genel hükümlerin (TMK m.5) özel hükümleri geçersiz kıldığı sanılması: genel hüküm uygun düştüğü ölçüde yedektir.",
+    "Resmî belgenin aksinin ispatının resmî şekle bağlı olduğu yanılgısı: m.7 aksine hüküm yoksa şekle bağlı değildir.",
+    "Kişilik ihlalinde manevi tazminatın serbestçe devredilebileceği sanılması: m.25/2 kabul veya miras bırakanın ileri sürmesi şarttır.",
+    "Yerleşim yeri ile adres veya geçici bulunmanın karıştırılması: öğretim/sağlık/bakım/ceza kurumu yeni yerleşim kazandırmaz (m.22); tek yerleşim ilkesi (m.19).",
+    "Adın değiştirilmesinin kişisel durumu değiştireceği yanılgısı: m.27 kişisel durumu değiştirmez; zarar gören 1 yıl içinde kaldırma davası açabilir."
+  ],
+  "mcq": {
+    "uygulama": {
+      "q": "Hâkimin kanunu uygulaması ve kaynaklar hiyerarşisine ilişkin TMK m. 1 hükmü uyarınca aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Hâkim, kanunda açık hüküm bulunsa dahi örf ve adet hukukunu öncelikle uygular.",
+        "Bilimsel görüşler ve yargı kararları hâkim için bağlayıcı asli kaynak niteliğindedir.",
+        "Kanunda uygulanabilir bir hüküm yoksa hâkim, örf ve adet hukukuna, o da yoksa kendisi kanun koyucu olsaydı nasıl bir kural koyacak idiyse ona göre karar verir.",
+        "Hâkimin kanun boşluğunda koyduğu kural genel ve soyut bir kanun hükmü statüsü kazanır."
+      ],
+      "answer": 2,
+      "reason": "TMK m. 1/2 uyarınca kanunda uygulanabilir bir hüküm bulunmadığında sırasıyla örf ve adet hukuku ile hâkimin hukuk yaratması devreye girer. Öğreti ve yargı kararları yararlanılan yardımcı kaynaklardır."
+    },
+    "durustluk": {
+      "q": "TMK m. 2'de düzenlenen dürüstlük kuralı ve hakkın kötüye kullanılması yasağı hakkında hangisi doğrudur?",
+      "choices": [
+        "Dürüstlük kuralı sadece hakların kazanılması anında dikkate alınan subjektif bir ilkedir.",
+        "Bir hakkın açıkça kötüye kullanılması durumunda hukuk düzeni bu kullanımı korumaz.",
+        "Hakkın kötüye kullanılması hakkın varlığını tamamen sona erdirir.",
+        "Borç ifa edilirken dürüstlük kuralına uyulmaması işlem emredici hükümlere aykırı olmadıkça sonuç doğurmaz."
+      ],
+      "answer": 1,
+      "reason": "TMK m. 2 uyarınca herkes haklarını kullanırken ve borçlarını yerine getirirken dürüstlük kurallarına uymak zorundadır; hakkın açıkça kötüye kullanılmasını hukuk düzeni korumaz."
+    },
+    "iyiniyet": {
+      "q": "TMK m. 3 uyarınca iyiniyet kurumuna ilişkin aşağıdaki ifadelerden hangisi kanun lafzına uygundur?",
+      "choices": [
+        "İyiniyetin korunduğu hâllerde özen gösterme yükümlülüğü aranmaz.",
+        "Durumun gereklerine göre kendisinden beklenen özeni göstermeyen kimse iyiniyet iddiasında bulunamaz.",
+        "Kanun iyiniyete sonuç bağlamışsa iyiniyetin varlığını iddia eden taraf iyiniyetli olduğunu ispatlamak zorundadır.",
+        "İyiniyet, borçların ifasında uyulması gereken objektif bir davranım kuralıdır."
+      ],
+      "answer": 1,
+      "reason": "TMK m. 3/2 uyarınca durumun gereklerine göre kendisinden beklenen özeni göstermeyen kimse iyiniyet iddiasında bulunamaz; özen eksikliği iyiniyet karinesini çürütür."
+    },
+    "hakim-takdiri": {
+      "q": "TMK m. 4 uyarınca hâkimin takdir yetkisini kullanmasına ilişkin aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Hâkim, takdir yetkisini kullanırken kanun boşluğunu doldurarak kural koyar.",
+        "Hâkim takdir yetkisini hiçbir hukuki sınırlamaya tabi olmadan keyfî olarak kullanabilir.",
+        "Kanunun takdir yetkisi tanıdığı veya haklı sebepleri göz önünde tutmayı emrettiği konularda hâkim, hukuka ve hakkaniyete göre karar verir.",
+        "Hâkimin takdir yetkisine dayanarak verdiği kararlar gerekçelendirilmek zorunda değildir."
+      ],
+      "answer": 2,
+      "reason": "TMK m. 4 uyarınca kanunun takdir yetkisi tanıdığı veya durumun gereklerini yahut haklı sebepleri göz önünde tutmayı emrettiği konularda hâkim hukuka ve hakkaniyete göre karar verir."
+    },
+    "ehliyet": {
+      "q": "TMK hükümleri uyarınca ayırt etme gücüne sahip küçükler ve kısıtlıların (sınırlı ehliyetsizler) hukuki durumuna ilişkin hangisi doğrudur?",
+      "choices": [
+        "Yasal temsilcilerinin rızası olmadan hiçbir hukuki işlem yapamazlar.",
+        "Karşılıksız kazanmada ve kişiye sıkı sıkıya bağlı hakları kullanmada yasal temsilcinin rızası gerekli değildir.",
+        "İşledikleri haksız fiillerden ayırt etme güçleri olsa dahi sorumlu tutulamazlar.",
+        "Kendi fiilleriyle borç altına girebilmek için mahkeme kararıyla tam ehliyetli kılınmaları şarttır."
+      ],
+      "answer": 1,
+      "reason": "TMK m. 16/1 uyarınca ayırt etme gücüne sahip küçükler ve kısıtlılar karşılıksız kazanmada ve kişiye sıkı sıkıya bağlı hakları kullanmada yasal temsilcinin rızasına muhtaç değildirler."
+    },
+    "genel-hukumler": {
+      "q": "TMK m. 5 uyarınca genel nitelikli hükümlerin uygulanması hakkında hangisi doğrudur?",
+      "choices": [
+        "TMK ve TBK'nın genel nitelikli hükümleri özel kanunlardaki hükümleri ilga eder.",
+        "Genel nitelikli hükümler, uygun düştüğü ölçüde tüm özel hukuk ilişkilerine uygulanır.",
+        "Özel kanunda hüküm bulunsa dahi genel hükümler öncelikle uygulanır.",
+        "Borçlar Kanununun genel hükümleri sadece Borçlar Kanunu kapsamındaki akitlere uygulanır."
+      ],
+      "answer": 1,
+      "reason": "TMK m. 5 uyarınca Medeni Kanun ve Borçlar Kanununun genel nitelikli hükümleri, uygun düştüğü ölçüde tüm özel hukuk ilişkilerine uygulanır."
+    },
+    "ispat": {
+      "q": "TMK m. 7 uyarınca resmî belgelerle ispat kuralına ilişkin aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Resmî sicil ve senetlerin içeriğinin doğru olmadığının ispatı mutlak olarak resmî senetle yapılmalıdır.",
+        "Resmî sicil ve senetlerin doğruluğu aksi ispat edilemez kesin bir kanıttır.",
+        "Resmî sicil ve senetler belgeledikleri olguların doğruluğuna kanıt oluşturur; aksinin ispatı kanunda başka hüküm yoksa herhangi bir şekle bağlı değildir.",
+        "Resmî sicil kayıtlarında ispat yükü her zaman sicil kaydının aksini iddia edene yüklenemez."
+      ],
+      "answer": 2,
+      "reason": "TMK m. 7 uyarınca resmî sicil ve senetler belgeledikleri olguların doğruluğuna kanıt oluşturur ve içeriğinin doğru olmadığının ispatı kanunlarda başka hüküm bulunmadıkça şekle bağlı değildir."
+    },
+    "kisilik": {
+      "q": "TMK m. 25 uyarınca kişilik hakkı ihlal edilen kişinin açabileceği davalara ve manevi tazminata ilişkin hangisi doğrudur?",
+      "choices": [
+        "Manevi tazminat istemi her durumda mirasçılara kendiliğinden geçer ve devredilebilir.",
+        "Manevi tazminat istemi, karşı tarafça kabul edilmiş olmadıkça devredilemez; miras bırakan tarafından ileri sürülmüş olmadıkça mirasçılara geçmez.",
+        "Saldırı sona ermişse hukuka aykırılığın tespiti davası açılamaz.",
+        "Kişiliğin korunması davası sadece davanın açıldığı yer mahkemesinde görülebilir."
+      ],
+      "answer": 1,
+      "reason": "TMK m. 25/2 uyarınca manevi tazminat istemi karşı tarafça kabul edilmiş olmadıkça devredilemez; miras bırakan tarafından ileri sürülmüş olmadıkça mirasçılara geçmez."
+    },
+    "yerlesim": {
+      "q": "TMK m. 19 ve m. 22 hükümleri çerçevesinde yerleşim yerine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+      "choices": [
+        "Bir kimseden aynı zamanda birden fazla yerleşim yeri edinmesi beklenir.",
+        "Bir öğretim kurumuna devam etmek için bir yerde bulunma yeni yerleşim yeri edinme sonucunu doğurur.",
+        "Yerleşim yeri bir kimsenin sürekli kalma niyetiyle oturduğu yerdir; eğitim, sağlık veya bakım kurumunda bulunma yeni yerleşim yeri kazandırmaz.",
+        "Önceki yerleşim yeri terk edildiğinde yeni yerleşim yeri edinilmese de önceki yerleşim yeri geçerliliğini korur."
+      ],
+      "answer": 2,
+      "reason": "TMK m. 19/1 ve m. 22 uyarınca yerleşim yeri sürekli kalma niyetiyle oturulan yerdir ve eğitim, sağlık veya bakım kurumunda bulunma yeni yerleşim yeri edinme sonucunu doğurmaz."
+    },
+    "ad": {
+      "q": "TMK m. 27 uyarınca adın değiştirilmesi kurumuna ilişkin aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Adın değiştirilmesi kişisel durumu doğrudan değiştirir.",
+        "Adın değiştirilmesi ancak haklı sebeplere dayanılarak hâkimden istenebilir ve ad değişmekle kişisel durum değişmez.",
+        "Adın değiştirilmesinden zarar gören kimse kararın kaldırılmasını her zaman süresiz olarak dava edebilir.",
+        "Adın değiştirilmesi kararı nüfus siciline işlenmez."
+      ],
+      "answer": 1,
+      "reason": "TMK m. 27/1 ve m. 27/3 uyarınca adın değiştirilmesi haklı sebeplere dayanılarak hâkimden istenebilir ve ad değişmekle kişisel durum değişmez."
+    }
+  },
+  "intro": "GSÜ kâğıdında Fransızca terim süs, TMK Türkçe bağlar.",
+  "uyari": "Mehaz karşılaştırması lafzı aydınlatır."
+}

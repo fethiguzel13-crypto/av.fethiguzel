@@ -99,14 +99,26 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.8,
   }));
 
-  // Eski “X avukat” ilçe URL’leri sitemap’ten çıkarıldı (308 → /bolge-yazi/…)
+  const { BOLGELER } = await import('@/lib/profile');
   const ilceRoutes: MetadataRoute.Sitemap = [
     {
       url: `${baseUrl}/avukat-fethi-guzel`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
-      priority: 0.9,
+      priority: 0.95,
     },
+    {
+      url: `${baseUrl}/hizmet-bolgeleri`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    },
+    ...BOLGELER.map((b) => ({
+      url: `${baseUrl}/${b.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: b.merkezOfis ? 0.92 : 0.72,
+    })),
   ];
 
   const categoryRoutes: MetadataRoute.Sitemap = lawCategories.map((cat) => ({

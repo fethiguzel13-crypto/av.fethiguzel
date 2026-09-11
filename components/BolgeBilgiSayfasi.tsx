@@ -50,10 +50,40 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
     '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Ana Sayfa', item: `${SITE_URL}/` },
-      { '@type': 'ListItem', position: 2, name: 'Vatandaş rehberi', item: `${SITE_URL}/bilgi` },
+      { '@type': 'ListItem', position: 2, name: 'Bölgesel bilgilendirme', item: `${SITE_URL}/hizmet-bolgeleri` },
       { '@type': 'ListItem', position: 3, name: veri.h1, item: pageUrl },
     ],
   };
+
+  const officeLd = veri.merkezOfis
+    ? {
+        '@context': 'https://schema.org',
+        '@type': 'LegalService',
+        name: 'Av. Fethi Güzel Hukuk Bürosu',
+        url: pageUrl,
+        image: `${SITE_URL}${PROFILE.photo}`,
+        email: PROFILE.email,
+        address: {
+          '@type': 'PostalAddress',
+          streetAddress: PROFILE.office.street,
+          addressLocality: PROFILE.office.locality,
+          addressRegion: PROFILE.office.region,
+          postalCode: PROFILE.office.postalCode,
+          addressCountry: 'TR',
+        },
+        geo: {
+          '@type': 'GeoCoordinates',
+          latitude: PROFILE.office.latitude,
+          longitude: PROFILE.office.longitude,
+        },
+        areaServed: { '@type': 'City', name: veri.yerlesim },
+        employee: {
+          '@type': 'Person',
+          name: PROFILE.name,
+          url: `${SITE_URL}/avukat-fethi-guzel`,
+        },
+      }
+    : null;
 
   return (
     <div className="bg-cream min-h-screen">
@@ -61,6 +91,9 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
+      {officeLd ? (
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(officeLd) }} />
+      ) : null}
 
       <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-3xl lg:max-w-4xl mx-auto">
         <nav aria-label="Breadcrumb" className="mb-6 text-xs text-charcoal/40">
@@ -68,8 +101,8 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
             Ana sayfa
           </Link>
           <span className="mx-2">/</span>
-          <Link href="/bilgi" className="hover:text-accent">
-            Bilgi
+          <Link href="/hizmet-bolgeleri" className="hover:text-accent">
+            Bölgesel bilgilendirme
           </Link>
           <span className="mx-2">/</span>
           <span className="text-charcoal/60">{veri.yerlesim}</span>
@@ -185,6 +218,32 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
             ))}
           </div>
         </section>
+
+        {veri.merkezOfis && (
+          <section className="mb-10 rounded-2xl border border-charcoal/[0.08] bg-white p-6">
+            <h2 className="text-base font-heading font-bold text-charcoal mb-2">Büro adresi</h2>
+            <p className="text-sm text-charcoal/70 leading-relaxed mb-1">
+              {PROFILE.name}
+            </p>
+            <p className="text-sm text-charcoal/60 leading-relaxed">
+              {PROFILE.office.streetLines.join(', ')}
+              <br />
+              {PROFILE.office.locality} / {PROFILE.office.region} {PROFILE.office.postalCode}
+              <br />
+              {PROFILE.office.landmark}
+            </p>
+            <p className="text-xs text-charcoal/45 mt-3">
+              Kimlik ve adres bilgisi; iş edinme çağrısı veya sonuç vaadi değildir.{' '}
+              <Link href="/avukat-fethi-guzel" className="text-accent font-semibold hover:underline">
+                Profil sayfası
+              </Link>
+              {' · '}
+              <Link href="/on-form" className="text-accent font-semibold hover:underline">
+                Ön değerlendirme formu
+              </Link>
+            </p>
+          </section>
+        )}
 
         <section className="mb-10 rounded-2xl border border-charcoal/[0.08] bg-white p-6">
           <h2 className="text-base font-heading font-bold text-charcoal mb-2">Kaynak ve iletişim</h2>

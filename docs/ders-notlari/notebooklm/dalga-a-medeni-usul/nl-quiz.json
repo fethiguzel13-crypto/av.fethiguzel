@@ -1,0 +1,108 @@
+{
+  "guz": [
+    "Görev ve Yetki Ayrımı: Görev kuralları kamu düzeninden olup davanın her aşamasında resen gözetilirken (HMK m. 1), kesin olmayan yetki kamu düzeninden değildir ve yalnızca cevap dilekçesinde ilk itiraz olarak ileri sürülebilir (HMK m. 19/2).",
+    "Kesin Yetki ve Yetki Sözleşmesi: Taşınmazın aynına ilişkin davalarda taşınmazın bulunduğu yer mahkemesi kesin yetkilidir ve yetki kamu düzenine ilişkindir (HMK m. 12); kesin olmayan yetki hallerinde ise davalı süresinde itiraz etmezse mahkeme yetkili hale gelir ve taraflar yetki sözleşmesi yapabilir (HMK m. 19/4).",
+    "Dava Şartı ve İlk İtiraz Ayrımı: Kesin yetki bir dava şartı olup davanın her aşamasında mahkemece resen araştırılırken (HMK m. 114/1-ç, m. 115/1); kesin olmayan yetki itirazı bir ilk itirazdır ve cevap dilekçesinde ileri sürülmezse dinlenemez (HMK m. 116/1-a, m. 117/1).",
+    "İddianın Genişletilmesi Yasağı ve Islah: Taraflar cevaba cevap ve ikinci cevap dilekçeleriyle iddia ve savunmalarını serbestçe değiştirebilirler (HMK m. 141/1); dilekçeler teatisi tamamlandıktan sonra ise iddia/savunma ancak karşı tarafın açık muvafakati veya bir defaya mahsus ıslah ile genişletilebilir (HMK m. 141/2, m. 176/2).",
+    "Dava Dilekçesinde Süreli Eksiklikler: Dava dilekçesindeki taraf kimlikleri veya imza gibi eksikliklerde 1 haftalık kesin süre verilirken (HMK m. 119/2); dava konusunun değeri veya hukuki sebeplerin gösterilmemesi dava dilekçesini doğrudan geçersiz kılıp davanın açılmamış sayılması sonucunu doğurmaz (HMK m. 119/1)."
+  ],
+  "bahar": [
+    "Tahkikat ve Ön İnceleme İlişkisi: Ön inceleme aşaması tamamlanmadan, dava şartları ve ilk itirazlar hakkında karar verilmeden tahkikata geçilemez ve tahkikat duruşması günü verilemez (HMK m. 137/2).",
+    "Senetle İspat Zorunluluğu ve Tanık Kuralı: Belirli parasal sınırı aşan hukuki işlemler senetle ispat olunmalıdır (HMK m. 200/1); karşı tarafın açık muvafakati olmadıkça tanık dinlenemez ve miktar ödeme ile sınırın altına düşse dahi senetsiz ispat edilemez (HMK m. 200/2).",
+    "Bilirkişiye Başvuru Sınırı: Genel bilgi/tecrübe veya hâkimlik mesleğinin gerektirdiği hukuki bilgiyle çözümlenebilecek konularda bilirkişiye başvurulamaz (HMK m. 266) ve hâkim bilirkişinin oy ve görüşünü serbestçe değerlendirir (HMK m. 282).",
+    "İstinaf ve Temyiz Denetim Kapsamı: İstinaf hem olgu (vakıa) hem hukuk denetimi yapan bir kanun yoluyken (HMK m. 341); temyiz sadece hukukilik denetimi yapar ve Yargıtay kanunun açık hükmüne aykırılıkları resen de inceleyebilir (HMK m. 361, m. 369/1).",
+    "Maddi Anlamda Kesin Hüküm Şartları: Kesin hüküm oluşması için her iki davanın taraflarının, dava sebeplerinin ve talep sonucunun aynı olması gerekir (HMK m. 303/1); müteselsil borçlulardan biri hakkında verilen karar diğer borçlular bakımından kesin hüküm oluşturmaz (HMK m. 303/5)."
+  ],
+  "mcq": {
+    "gorev": {
+      "q": "Hukuk Muhakemeleri Kanunu'na (HMK m. 1) göre mahkemelerin görevine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+      "choices": [
+        "Görev kuralları kamu düzeninden olmayıp tarafların yetki sözleşmesiyle değiştirilebilir.",
+        "Mahkemelerin görevi ancak kanunla düzenlenir ve göreve ilişkin kurallar kamu düzenindendir.",
+        "Görevsizlik itirazı sadece cevap dilekçesinde ilk itiraz olarak ileri sürülebilir.",
+        "Dava konusunun değerine bakılmaksızın tüm malvarlığı davalarında sulh hukuk mahkemesi görevlidir."
+      ],
+      "answer": 1,
+      "reason": "HMK m. 1/1 uyarınca mahkemelerin görevi ancak kanunla düzenlenir ve göreve ilişkin kurallar kamu düzenindendir. Bu nedenle yargılamanın her aşamasında mahkemece resen gözetilir."
+    },
+    "yetki": {
+      "q": "HMK hükümleri uyarınca yetki kurallarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "choices": [
+        "Genel yetkili mahkeme, davanın açıldığı tarihteki davalının yerleşim yeri mahkemesidir.",
+        "Taşınmazın aynından doğan davalarda taşınmazın bulunduğu yer mahkemesi kesin yetkilidir.",
+        "Yetkinin kesin olmadığı davalarda davalı yetki itirazını davanın sonuna kadar her zaman ileri sürebilir.",
+        "Yetkinin kesin olmadığı davalarda süresinde yetki itirazında bulunulmazsa davanın açıldığı mahkeme yetkili hâle gelir."
+      ],
+      "answer": 2,
+      "reason": "HMK m. 19/2 uyarınca yetkinin kesin olmadığı davalarda yetki itirazı sadece cevap dilekçesinde ileri sürülebilir. Davanın sonuna kadar her zaman ileri sürülebilen ise kesin yetki itirazıdır (HMK m. 19/1)."
+    },
+    "dava-sartlari": {
+      "q": "HMK m. 114 ve m. 116 hükümleri dikkate alındığında, aşağıdakilerden hangisi bir 'dava şartı' olmayıp 'ilk itiraz' niteliğindedir?",
+      "choices": [
+        "Mahkemenin görevli olması",
+        "Kesin yetkinin bulunduğu hâllerde mahkemenin yetkili olması",
+        "Davacının dava açmakta hukuki yararının bulunması",
+        "Kesin yetki kuralının bulunmadığı hâllerde yetki itirazı"
+      ],
+      "answer": 3,
+      "reason": "HMK m. 116/1-a gereğince kesin yetki kuralının bulunmadığı hâllerde yapılan yetki itirazı bir ilk itirazdır. Görev, kesin yetki ve hukuki yarar ise HMK m. 114/1 uyarınca dava şartlarındandır."
+    },
+    "dilekce": {
+      "q": "HMK m. 141 ve m. 176 hükümleri çerçevesinde iddianın ve savunmanın genişletilmesi veya değiştirilmesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "choices": [
+        "Taraflar cevaba cevap ve ikinci cevap dilekçeleri ile serbestçe iddia veya savunmalarını genişletebilirler.",
+        "Dilekçeler teatisi bittikten sonra ıslah yoluna aynı davada birden fazla kez başvurulabilir.",
+        "Dava dilekçesindeki hukuki sebeplerin eksik olması halinde dava açılmamış sayılır.",
+        "Cevap dilekçesini verme süresi dava dilekçesinin tebliğinden itibaren bir aydır."
+      ],
+      "answer": 0,
+      "reason": "HMK m. 141/1 uyarınca taraflar cevaba cevap ve ikinci cevap dilekçeleriyle serbestçe iddia ve savunmalarını genişletebilirler. HMK m. 176/2 uyarınca aynı davada ancak bir kez ıslah yapılabilir; cevap süresi ise m. 127/1 gereğince 2 haftadır."
+    },
+    "tahkikat": {
+      "q": "HMK m. 137 ve m. 184 uyarınca ön inceleme ve tahkikat aşamalarına ilişkin aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Ön inceleme aşaması tamamlanmadan ve gerekli kararlar alınmadan tahkikata geçilemez.",
+        "Ön incelemede dava şartları incelenmez, dava şartları doğrudan tahkikatın sonunda ele alınır.",
+        "Hâkim tahkikatı bitirdiğini tefhim etmeden doğrudan nihai hükmü açıklayabilir.",
+        "Ön inceleme duruşması kural olarak sınırsız sayıda ertelenebilir."
+      ],
+      "answer": 0,
+      "reason": "HMK m. 137/2 uyarınca ön inceleme tamamlanmadan ve gerekli kararlar alınmadan tahkikata geçilemez ve tahkikat için duruşma günü verilemez."
+    },
+    "delil": {
+      "q": "HMK m. 189, m. 200 ve m. 266 hükümleri uyarınca deliller ve ispat hukukuna ilişkin aşağıdakilerden hangisi yanlıştır?",
+      "choices": [
+        "Hukuka aykırı olarak elde edilmiş olan deliller mahkemece ispatta dikkate alınamaz.",
+        "Senetle ispatı gereken hususlarda karşı tarafın açık muvafakati olsa dahi tanık dinlenemez.",
+        "Hâkimlik mesleğinin gerektirdiği hukuki bilgiyle çözümlenmesi mümkün olan konularda bilirkişiye başvurulamaz.",
+        "İspat yükü, kanunda özel düzenleme yoksa, iddia edilen vakıaya bağlanan hukuki sonuçtan lehine hak çıkaran tarafa aittir."
+      ],
+      "answer": 1,
+      "reason": "HMK m. 200/2 uyarınca senetle ispatı gereken hususlarda karşı tarafın açık muvafakati hâlinde tanık dinlenebilir. Bu sebeple 'açık muvafakat olsa dahi tanık dinlenemez' ifadesi yanlıştır."
+    },
+    "hukum": {
+      "q": "HMK m. 294, m. 297 ve m. 303 uyarınca hüküm ve kesin hükme ilişkin aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Gerekçeli karar, tefhim edilen hüküm sonucuna aykırı olabilir.",
+        "Maddi anlamda kesin hüküm bulunabilmesi için tarafların, dava sebeplerinin ve talep sonucunun aynı olması gerekir.",
+        "Müteselsil borçlulardan biri hakkında oluşan kesin hüküm otomatik olarak diğer tüm borçlular hakkında da geçerlidir.",
+        "Hüküm fıkrasında gerekçeye ait sözler aynen tekrarlanmalıdır."
+      ],
+      "answer": 1,
+      "reason": "HMK m. 303/1 gereğince maddi anlamda kesin hüküm oluşabilmesi için tarafların, dava sebeplerinin ve talep sonucunun aynı olması şarttır. HMK m. 303/5 uyarınca müteselsil borçlulardan biri hakkında verilen karar diğer borçlular hakkında kesin hüküm teşkil etmez."
+    },
+    "kanun-yolu": {
+      "q": "HMK m. 341, m. 345, m. 361 ve m. 369 hükümleri dikkate alındığında istinaf ve temyiz kanun yolları için aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "İstinaf sadece hukukilik denetimi yaparken temyiz hem olgu hem hukuk denetimi yapar.",
+        "İstinaf ve temyiz başvurusu için genel süre ilamın tebliğinden itibaren iki haftadır.",
+        "Yargıtay temyiz incelemesinde tarafların ileri sürdüğü sebeplerle kesin olarak bağlıdır, başka aykırılıklara bakamaz.",
+        "Bölge Adliye Mahkemesi kararlarına karşı süresiz olarak temyiz yoluna başvurulabilir."
+      ],
+      "answer": 1,
+      "reason": "HMK m. 345/1 ve m. 361/1 uyarınca hem istinaf hem temyiz başvuru süresi ilamın usulen tebliğinden itibaren 2 haftadır. Yargıtay kanunun açık hükmüne aykırılıkları resen de inceleyebilir (HMK m. 369/1)."
+    }
+  },
+  "intro": "Kâğıdın ilk cümlesinde görev mi yetki mi olduğunu yazın. Tuzaklar HMK lafzı ve graf unsura dayanır.",
+  "uyari": "Dava şartı ile ilk itiraz, istinaf ile temyiz, senetle ispat ile tanık aynı torbaya konmaz."
+}

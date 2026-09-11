@@ -2,7 +2,8 @@
 
 **Slug:** `dokuz-eylul`  
 **Son tarama:** 2026-08-26  
-**Kaynak:** hukuk.deu.edu.tr fakülte kimliği (OBS izlence login; scrape yok)
+**Kaynak:** hukuk.deu.edu.tr fakülte kimliği (OBS izlence login; scrape yok)  
+**Durum:** borçlar-genel üçlüsü curated (graf+örtü+NotebookLM, 2026-09-11)
 
 ## Kimlik
 

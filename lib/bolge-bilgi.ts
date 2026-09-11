@@ -47,21 +47,22 @@ export const BOLGE_BILGILERI: BolgeBilgi[] = [
     il: 'Van',
     merkezOfis: true,
     dizinAd: 'Erciş hukuki bilgilendirme',
-    title: 'Erciş’te Sık Karşılaşılan Hukuki Konular | Bilgilendirme',
+    title: 'Av. Fethi Güzel — Erciş / Van | Büro adresi ve hukuki bilgilendirme',
     description:
-      'Erciş ve çevresinde miras, aile, icra, taşınmaz ve iş uyuşmazlıklarına dair sade hukuki bilgilendirme. Genel rehber — sonuç vaadi yok.',
+      'Av. Fethi Güzel’in bürosu Van ili Erciş ilçesindedir. Miras, aile, icra ve taşınmaz konularında genel hukuki bilgilendirme. Sonuç vaadi ve reklam yok.',
     keywords: [
+      'Av. Fethi Güzel',
+      'Fethi Güzel Erciş',
+      'Erciş avukat',
+      'Van Erciş hukuk bürosu',
       'Erciş miras paylaşımı',
-      'Erciş boşanma süreci',
       'Erciş icra takibi',
-      'Van Erciş hukuki bilgi',
-      'taşınmaz uyuşmazlığı bilgilendirme',
     ],
-    h1: 'Erciş’te sık karşılaşılan hukuki konular',
-    eyebrow: 'Bölgesel bilgilendirme · Erciş / Van',
+    h1: 'Av. Fethi Güzel — Erciş’te hukuki bilgilendirme',
+    eyebrow: 'Büro bu yerleşimde · Erciş / Van',
     lead: [
-      'Erciş, Van ilinde hem tarımsal hem de kentsel işlemlerin yoğunlaştığı bir yerleşimdir. Tapu devri, miras intikali, aile hukuku ve icra dosyaları günlük hayatta en sık sorulan konuların başında gelir.',
-      'Bu metin reklam veya iş edinme metni değildir. Amaç, sık aranan hukuki kavramları sade dilde açıklamak ve site içindeki mevzuat ile vatandaş rehberlerine yönlendirmektir.',
+      'Av. Fethi Güzel’in avukatlık bürosu Van ili Erciş ilçesinde, Van Yolu Mahallesi Zenginler İş Hanı’ndadır. Bu sayfa iş edinme metni değildir; ofisin bulunduğu yerleşimde sık sorulan hukuki konuları sade dilde açıklar.',
+      'Erciş’te tapu devri, miras intikali, aile hukuku ve icra dosyaları günlük hayatta en sık sorulan konuların başında gelir. Aşağıdaki metin mevzuat ve vatandaş rehberlerine yönlendirir; “en iyi avukat” veya sonuç vaadi içermez.',
     ],
     sections: [
       {
@@ -110,7 +111,7 @@ export const BOLGE_BILGILERI: BolgeBilgi[] = [
       },
       {
         q: 'Ofis adresi nedir?',
-        a: 'Merkez ofis Erciş / Van’dadır. Adres ve iletişim bilgileri profil sayfasında yer alır. Bu sayfa konum tanıtımı değil, hukuki bilgilendirmedir.',
+        a: 'Van Yolu Mah. Karayusuf Bey Bulvarı, Zenginler İş Hanı Kat 5 Daire 33, Erciş / Van. Girişte ETSA Et Lokantası ve Manolya Pastanesi. Bu sayfa konum tanıtımı değil, hukuki bilgilendirmedir.',
       },
     ],
     relatedBilgi: [
@@ -118,8 +119,10 @@ export const BOLGE_BILGILERI: BolgeBilgi[] = [
       { label: 'Veraset ilamı', href: '/bilgi/veraset-ilami-nasil-alinir' },
       { label: 'Kıdem tazminatı', href: '/bilgi/kidem-tazminati-nasil-alinir' },
       { label: 'Arabuluculuk', href: '/rehber/arabuluculuk' },
+      { label: 'Erciş nüfus ve tapu intikali', href: '/bolge-yazi/ercis-nufus-veraset-tapu-intikali' },
     ],
     links: [
+      { label: 'Avukat profili', href: '/avukat-fethi-guzel' },
       { label: 'TMK', href: '/mevzuat/tmk' },
       { label: 'TBK', href: '/mevzuat/tbk' },
       { label: 'İİK', href: '/mevzuat/iik' },

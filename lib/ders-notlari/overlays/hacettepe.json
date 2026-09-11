@@ -35,5 +35,474 @@
             "url": "https://hukuk.hacettepe.edu.tr/",
             "note": "fakülte kimliği"
         }
-    ]
+    ],
+    "byCourse": {
+        "medeni-baslangic": {
+            "cityHook": "Beytepe yurdunda kira imzası ve ehliyet tartışması",
+            "mehaz": "Ankara hattı; TMK m.1 kapısı Bologna çıktısıyla okunur",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran ders bilgi formunda.",
+                "format": "Klasik yazılı, öğrenme çıktısı fiili görünür: yorumlar, ayırır, uygular.",
+                "tips": [
+                    "Hacettepe kâğıdında TMK kapısını (m.1 / m.2 / m.3) ilk cümlede yazın.",
+                    "Dürüstlük ile iyiniyeti, hak ehliyeti ile fiil ehliyetini ayırın.",
+                    "Ders bilgi formu OBS'deki oranın üstündedir."
+                ]
+            },
+            "syllabusOrder": [
+                "uygulama ve kaynaklar",
+                "dürüstlük, iyiniyet, takdir",
+                "ehliyet",
+                "kişilik, ad, yerleşim"
+            ],
+            "schoolNotes": [
+                "Hacettepe medeni başlangıçta öğrenme çıktısı fiili kâğıtta görünür.",
+                "Borçlar genel ayrı derstir.",
+                "Slayt kullanılmaz."
+            ]
+        },
+        "ceza-genel": {
+            "cityHook": "Beytepe'de bir kasten yaralama ve teşebbüs",
+            "mehaz": "Ankara hattı; TCK lafzı Bologna çıktısıyla okunur",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran ders bilgi formunda.",
+                "format": "Klasik yazılı; öğrenme çıktısı fiili görünür.",
+                "tips": [
+                    "Hacettepe kâğıdında tipikliği yorumlar, hukuka uygunluğu ayırır, yaptırımı uygular.",
+                    "Olası kast ile bilinçli taksiri karıştırmayın.",
+                    "Ders bilgi formu bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "kanunilik",
+                "kast taksir",
+                "hukuka uygunluk",
+                "teşebbüs",
+                "yaptırım"
+            ],
+            "schoolNotes": [
+                "Hacettepe ceza genelinde öğrenme çıktısı fiili kâğıtta görünür.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "Hacettepe Hukuk Fakültesi",
+                    "url": "https://hukuk.hacettepe.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "medeni-usul": {
+            "cityHook": "Beytepe'de bir tüketici davasının görev ve dilekçe tartışması",
+            "mehaz": "Ankara hattı; HMK lafzı Bologna çıktısıyla okunur",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran ders bilgi formunda.",
+                "format": "Klasik yazılı; öğrenme çıktısı fiili görünür.",
+                "tips": [
+                    "Hacettepe kâğıdında görev-yetkiyi ayırır, dilekçeyi uygular, kanun yolunu yorumlar.",
+                    "Dava şartı ile ilk itirazı karıştırmayın.",
+                    "Ders bilgi formu bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "görev",
+                "yetki",
+                "dilekçe",
+                "delil",
+                "kanun yolu"
+            ],
+            "schoolNotes": [
+                "Hacettepe usulünde öğrenme çıktısı fiili kâğıtta görünür.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "Hacettepe Hukuk Fakültesi",
+                    "url": "https://hukuk.hacettepe.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "esya-hukuku": {
+            "cityHook": "Beytepe yurdunda depozito ve taşınır rehni",
+            "mehaz": "Ankara hattı; TMK eşya lafzı Bologna çıktısıyla okunur",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TMK maddesi + ayni hak unsuru + olaya yedirme.",
+                "tips": [
+                    "Hacettepe kâğıdında zilyetliği ayırır, tapuyu uygular, rehin sonucunu yazar.",
+                    "Elbirliği ile paylı mülkiyeti karıştırmayın.",
+                    "Ders bilgi formu bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "zilyetlik",
+                "tapu",
+                "mülkiyet",
+                "paylı mülkiyet",
+                "irtifak",
+                "ipotek",
+                "taşınır rehni",
+                "kat mülkiyeti"
+            ],
+            "schoolNotes": [
+                "Hacettepe eşyada öğrenme çıktısı fiili kâğıtta görünür.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "Hacettepe Hukuk Fakültesi",
+                    "url": "https://hukuk.hacettepe.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "icra-iflas": {
+            "cityHook": "Beytepe'de öğrenci borcu ilamsız takip",
+            "mehaz": "Ankara hattı; İİK lafzı Bologna çıktısıyla okunur",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: İİK maddesi + takip yolu + olaya yedirme.",
+                "tips": [
+                    "Hacettepe kâğıdında takip yolunu ayırır, itirazı uygular, haciz sonucunu yazar.",
+                    "İlamlı 7 gün ile ilamsız 7 günü aynı kapı sanmayın.",
+                    "Ders bilgi formu bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "ilamlı icra",
+                "ilamsız takip",
+                "itiraz",
+                "haciz",
+                "istihkak",
+                "cebri satış",
+                "sıra cetveli",
+                "iflas"
+            ],
+            "schoolNotes": [
+                "Hacettepe icrada öğrenme çıktısı fiili kâğıtta görünür.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "Hacettepe Hukuk Fakültesi",
+                    "url": "https://hukuk.hacettepe.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "aile-hukuku": {
+            "cityHook": "Beytepe'de öğrenci evliliği ve mal rejimi",
+            "mehaz": "Ankara hattı; TMK aile lafzı Bologna çıktısıyla okunur",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TMK maddesi + aile kurumu + olaya yedirme.",
+                "tips": [
+                    "Hacettepe kâğıdında evlilik bağını ayırır, mal rejimini uygular, nafaka sonucunu yazar.",
+                    "Tedbir nafakası ile yoksulluk nafakasını karıştırmayın.",
+                    "Ders bilgi formu bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "nişan",
+                "evlenme",
+                "butlan",
+                "boşanma",
+                "mal rejimi",
+                "velayet",
+                "nafaka"
+            ],
+            "schoolNotes": [
+                "Hacettepe ailede öğrenme çıktısı fiili kâğıtta görünür.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "Hacettepe Hukuk Fakültesi",
+                    "url": "https://hukuk.hacettepe.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "miras-hukuku": {
+            "cityHook": "Beytepe'de saklı pay ve tenkis",
+            "mehaz": "Ankara hattı; TMK miras lafzı Bologna çıktısıyla okunur",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TMK maddesi + miras kurumu + olaya yedirme.",
+                "tips": [
+                    "Hacettepe kâğıdında zümreyi ayırır, saklı payı uygular, tenkis sonucunu yazar.",
+                    "İptal ile tenkisi karıştırmayın.",
+                    "Ders bilgi formu bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "yasal mirasçılık",
+                "saklı pay",
+                "ölüme bağlı tasarruf",
+                "miras sözleşmesi",
+                "iptal",
+                "tenkis",
+                "ret",
+                "tereke paylaşma"
+            ],
+            "schoolNotes": [
+                "Hacettepe mirasta öğrenme çıktısı fiili kâğıtta görünür.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "Hacettepe Hukuk Fakültesi",
+                    "url": "https://hukuk.hacettepe.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "borclar-ozel": {
+            "cityHook": "Beytepe'de öğrenci evi kirası ve depozito",
+            "mehaz": "Ankara hattı; TBK özel lafız Bologna çıktısıyla okunur",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TBK maddesi + sözleşme türü + olaya yedirme.",
+                "tips": [
+                    "Hacettepe kâğıdında türü ayırır, ayıbı uygular, seçimlik hakkı yazar.",
+                    "Konut kirası belirsiz süre feshini genel kira ile karıştırmayın.",
+                    "Ders bilgi formu bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "satış",
+                "bağışlama",
+                "kira",
+                "eser",
+                "hizmet",
+                "vekâlet",
+                "kefalet",
+                "ödünç"
+            ],
+            "schoolNotes": [
+                "Hacettepe özel borçlarda öğrenme çıktısı fiili kâğıtta görünür.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "Hacettepe Hukuk Fakültesi",
+                    "url": "https://hukuk.hacettepe.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "is-hukuku": {
+            "cityHook": "Beytepe hastanesinde bir hemşirenin işe iadesi",
+            "mehaz": "Ankara hattı; 4857 lafzı Bologna çıktısıyla okunur",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: 4857 maddesi + fesih türü + olaya yedirme.",
+                "tips": [
+                    "Hacettepe kâğıdında kapsamı ayırır, geçerli nedeni uygular, işe iade sonucunu yazar.",
+                    "Haklı fesih 25 ile iş güvencesi 18-21'i karıştırmayın.",
+                    "Ders bilgi formu bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "iş sözleşmesi",
+                "süre ve tür",
+                "fesih",
+                "kıdem ve ihbar",
+                "ücret ve süre",
+                "iş sağlığı"
+            ],
+            "schoolNotes": [
+                "Hacettepe iş hukukunda öğrenme çıktısı fiili kâğıtta görünür.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "Hacettepe Hukuk Fakültesi",
+                    "url": "https://hukuk.hacettepe.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "ceza-ozel": {
+            "cityHook": "Beytepe yurdunda bir hakaret ve isnadın ispatı",
+            "mehaz": "Ankara hattı; TCK özel lafız Bologna çıktısıyla okunur",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TCK maddesi + suç tipi + olaya yedirme.",
+                "tips": [
+                    "Hacettepe kâğıdında tipi ayırır, niteliği uygular, neticeyi yazar.",
+                    "Hakaret ile sövme kırmasını karıştırmayın.",
+                    "Ders bilgi formu bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "kasten öldürme",
+                "kasten yaralama",
+                "hakaret",
+                "hırsızlık",
+                "dolandırıcılık",
+                "uyuşturucu",
+                "zimmet",
+                "görevi kötüye kullanma"
+            ],
+            "schoolNotes": [
+                "Hacettepe özel cezada öğrenme çıktısı fiili kâğıtta görünür.",
+                "Ceza genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "Hacettepe Hukuk Fakültesi",
+                    "url": "https://hukuk.hacettepe.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "ticari-isletme": {
+            "cityHook": "Beytepe'de öğrenci kırtasiyesi ve ticari iş",
+            "mehaz": "Ankara hattı; TTK lafzı Bologna çıktısıyla okunur",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + tacir/işletme kapısı + olaya yedirme.",
+                "tips": [
+                    "Hacettepe kâğıdında işletmeyi ayırır, taciri uygular, sicil sonucunu yazar.",
+                    "Ticari dava ile genel mahkemeyi karıştırmayın.",
+                    "Ders bilgi formu bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "ticari iş",
+                "ticari işletme",
+                "tacir",
+                "sicil",
+                "unvan",
+                "haksız rekabet",
+                "basiret ve temsil"
+            ],
+            "schoolNotes": [
+                "Hacettepe ticari işletmede öğrenme çıktısı fiili kâğıtta görünür.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "Hacettepe Hukuk Fakültesi",
+                    "url": "https://hukuk.hacettepe.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "ticaret-sirketler": {
+            "cityHook": "Beytepe'de öğrenci limitedi ve müdür",
+            "mehaz": "Ankara hattı; TTK şirketler lafzı Bologna çıktısıyla okunur",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + şirket türü + olaya yedirme.",
+                "tips": [
+                    "Hacettepe kâğıdında türü ayırır, organı uygular, sorumluluk sonucunu yazar.",
+                    "Sona erme ile tasfiyeyi karıştırmayın.",
+                    "Ders bilgi formu bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "ticaret şirketleri",
+                "kollektif-komandit",
+                "anonim",
+                "organlar",
+                "sermaye-pay",
+                "limited",
+                "sona erme"
+            ],
+            "schoolNotes": [
+                "Hacettepe şirketlerde öğrenme çıktısı fiili kâğıtta görünür.",
+                "Ticari işletme ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "Hacettepe Hukuk Fakültesi",
+                    "url": "https://hukuk.hacettepe.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "ceza-muhakemesi": {
+            "cityHook": "Beytepe'de öğrenci ifadesi ve müdafi",
+            "mehaz": "Ankara hattı; CMK lafzı Bologna çıktısıyla okunur",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: CMK maddesi + evre + olaya yedirme.",
+                "tips": [
+                    "Hacettepe kâğıdında evreyi ayırır, tedbiri uygular, hükmü yazar.",
+                    "Hükmün açıklanmasının geri bırakılmasını beraat ile karıştırmayın.",
+                    "Ders bilgi formu bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "soruşturma",
+                "koruma tedbirleri",
+                "ifade ve sorgu",
+                "kovuşturma",
+                "delil",
+                "hüküm ve kanun yolu"
+            ],
+            "schoolNotes": [
+                "Hacettepe CMK'da öğrenme çıktısı fiili kâğıtta görünür.",
+                "Ceza genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "Hacettepe Hukuk Fakültesi",
+                    "url": "https://hukuk.hacettepe.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "kiymetli-evrak": {
+            "cityHook": "Beytepe'de öğrenci çeki ve ibraz",
+            "mehaz": "Ankara hattı; TTK lafzı Bologna çıktısıyla okunur",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + senet türü + olaya yedirme.",
+                "tips": [
+                    "Hacettepe kâğıdında türü ayırır, ciroyu uygular, başvuru sonucunu yazar.",
+                    "Zamanaşımını ibraz süresi ile karıştırmayın.",
+                    "Ders bilgi formu bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "kıymetli evrak",
+                "poliçe",
+                "bono",
+                "ciro",
+                "çek",
+                "def'i",
+                "başvuru",
+                "karşılıksız çek"
+            ],
+            "schoolNotes": [
+                "Hacettepe kıymetli evrakta öğrenme çıktısı fiili kâğıtta görünür.",
+                "Ticari işletme ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "Hacettepe Hukuk Fakültesi",
+                    "url": "https://hukuk.hacettepe.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        }
+    }
 }

@@ -1,0 +1,108 @@
+{
+  "guz": [
+    "İdarenin düzenleyici işlemleriyle yeni bir suç ihdas edilebileceğini veya geniş yorum adı altında kıyas yapılabileceğini savunmak.",
+    "Olası kastta neticenin göze alındığını/kabullendiğini, bilinçli taksirde ise neticenin öngörülmesine rağmen istenmediğini birbiriyle karıştırmak.",
+    "Meşru savunmada sınır heyecan, korku veya telaşla aşıldığında faile taksirli suç cezası verilmesi gerektiğini zannetmek.",
+    "Doğrudan doğruya icraya başlama (elverişli hareket) ile hazırlık hareketlerini karıştırıp henüz icra aşamasına gelmemiş eylemi suça teşebbüs saymak.",
+    "Gönüllü vazgeçmenin, icrası tamamlanmış olan bağımsız suçların da ceza sorumluluğunu tamamen ortadan kaldırdığını iddia etmek."
+  ],
+  "bahar": [
+    "Zaten suç işleme kararı almış olan kişiye araç sağlamayı azmettirme olarak nitelendirmek.",
+    "Tek bir fiil ile birden fazla farklı suç oluştuğunda fikri içtima yerine zincirleme suç hükümlerinin uygulanacağını sanmak.",
+    "12 yaşını doldurmuş ancak 15 yaşını doldurmamış çocukların her durumda tam ceza sorumluluğuna sahip olduğunu savunmak.",
+    "Bilinçli taksirle işlenen suçlarda verilen uzun süreli hapis cezasının TCK m. 50/4 uyarınca adli para cezasına çevrilebileceğini varsaymak.",
+    "Tekerrür hükümlerinin uygulanabilmesi için önceki mahkûmiyete ilişkin cezanın mutlaka infaz edilmiş olması şartını aramak."
+  ],
+  "mcq": {
+    "kanunilik": {
+      "q": "TCK m. 2 hükmünde düzenlenen 'Suçta ve cezada kanunîlik ilkesi' ve kıyas yasağına ilişkin aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Kanunların suç ve ceza içeren hükümleri kıyasa yol açacak biçimde geniş yorumlanabilir.",
+        "İdarenin düzenleyici işlemleriyle (tüzük, yönetmelik vb.) doğrudan yeni bir suç ve ceza ihdas edilebilir.",
+        "Kanunun açıkça suç saymadığı bir fiil için kimseye ceza verilemez ve ceza içeren hükümlerde kıyas yapılamaz.",
+        "Hakimler takdir yetkilerini kullanarak kıyas yoluyla kanunda bulunmayan yeni güvenlik tedbirlerine hükmedebilir."
+      ],
+      "answer": 2,
+      "reason": "TCK m. 2/1 uyarınca kanunun açıkça suç saymadığı bir fiil için kimseye ceza verilemez ve güvenlik tedbiri uygulanamaz. TCK m. 2/3 gereğince suç ve ceza içeren hükümlerin uygulanmasında kıyas yapılamaz ve bu hükümler kıyasa yol açacak biçimde geniş yorumlanamaz."
+    },
+    "kast-taksir": {
+      "q": "Olası kast ile bilinçli taksir ayrımı bakımından TCK hükümleri çerçevesinde aşağıdakilerden hangisi söylenebilir?",
+      "choices": [
+        "Bilinçli taksirde fail neticenin gerçekleşmesini bilerek ve isteyerek kabul eder.",
+        "Olası kastta kişi, suçun kanuni tanımındaki unsurların gerçekleşebileceğini öngörmesine rağmen fiili işler (neticeyi kabullenir).",
+        "Olası kast halinde ceza artırılırken, bilinçli taksirde verilecek ceza yarı oranında indirilir.",
+        "Bilinçli taksirde netice hiç öngörülmemiştir; basit taksirde ise netice öngörülmüştür."
+      ],
+      "answer": 1,
+      "reason": "TCK m. 21/2 uyarınca kişinin suçun kanuni tanımındaki unsurların gerçekleşebileceğini öngörmesine rağmen fiili işlemesi halinde olası kast vardır. TCK m. 22/3'te ise bilinçli taksir, kişinin öngördüğü neticeyi istememesine karşın neticenin gerçekleşmesi olarak düzenlenmiştir."
+    },
+    "hukuka-uygunluk": {
+      "q": "Meşru savunmada sınırın aşılmasına ilişkin TCK m. 27/2 hükmü uyarınca aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Sınırın aşılması her durumda faile orantılı bir ceza verilmesini gerektirir.",
+        "Meşru savunmada sınırın aşılması mazur görülebilecek bir heyecan, korku veya telaştan ileri gelmiş ise faile ceza verilmez.",
+        "Heyecan veya korkuyla sınır aşıldığında faile taksirli suçtan dolayı indirimli ceza verilir.",
+        "Meşru savunma sınırının aşılması durumunda hukuka uygunluk nedeni geçerliliğini korur ve sınır hiç aşılmamış sayılır."
+      ],
+      "answer": 1,
+      "reason": "TCK m. 27/2 açık lafzına göre meşru savunmada sınırın aşılması mazur görülebilecek bir heyecan, korku veya telaştan ileri gelmiş ise faile ceza verilmez."
+    },
+    "tesebbus": {
+      "q": "Suça teşebbüsün (TCK m. 35) varlığı ve icraya başlama koşulu bakımından aşağıdakilerden hangisi kanuni kuraldır?",
+      "choices": [
+        "Hazırlık hareketlerine başlandığı andan itibaren suça teşebbüsten ceza verilir.",
+        "Failin işlemeyi kastettiği bir suçu elverişli hareketlerle doğrudan doğruya icraya başlayıp elinde olmayan nedenlerle tamamlayamamış olması gerekir.",
+        "İcra hareketlerine başlandıktan sonra işlenen fiilde elverişsiz araç kullanılması halinde de tam ceza verilir.",
+        "Gönüllü vazgeçme durumunda fail tamamlanmış olan önceki fiillerinden de hiçbir şekilde sorumlu tutulamaz."
+      ],
+      "answer": 1,
+      "reason": "TCK m. 35/1 uyarınca kişinin suça teşebbüsten sorumlu tutulabilmesi için işlemeyi kastettiği bir suçu elverişli hareketlerle doğrudan doğruya icraya başlayıp elinde olmayan nedenlerle tamamlayamamış olması gerekir."
+    },
+    "istirak": {
+      "q": "Suça iştirak biçimlerinden 'azmettirme' (TCK m. 38) ile 'yardım etme' (TCK m. 39) arasındaki temel fark aşağıdakilerden hangisinde doğru ifade edilmiştir?",
+      "choices": [
+        "Azmettirmede failde önceden var olan suç işleme kararı kuvvetlendirilir.",
+        "Suç işleme kararı olmayan bir kişide bu kararın oluşturulması azmettirmedir; var olan karara destek olunması, yol gösterilmesi veya araç sağlanması ise yardım etmedir.",
+        "Suça yardım eden kişi her durumda asli fail ile tamamen aynı ceza ile cezalandırılır.",
+        "Azmettirenin cezalandırılabilmesi için ana suçun mutlaka tamamlanmış olması şarttır, teşebbüs aşamasında kalması yetmez."
+      ],
+      "answer": 1,
+      "reason": "Azmettirme (TCK m. 38), suç işleme düşüncesi olmayan bir kimsede bu kararın sıfırdan oluşturulmasıdır. TCK m. 39/2 gereğince suç işlemeye teşvik etmek, kararı kuvvetlendirmek veya araç sağlamak ise yardım etme sayılır. TCK m. 40/3 gereğince iştirakten sorumluluk için suçun en azından teşebbüs aşamasına varmış olması yeterlidir."
+    },
+    "ictima": {
+      "q": "Suçların içtimaında 'zincirleme suç' (TCK m. 43) ve 'fikri içtima' (TCK m. 44) hükümleri bakımından aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Fikri içtima, bir suç işleme kararı kapsamında değişik zamanlarda aynı suçun işlenmesidir.",
+        "Zincirleme suçta birden fazla farklı fiille tek bir suç oluşturulur ve ceza yarı oranında indirilir.",
+        "Fikri içtimada işlenen tek bir fiil ile birden fazla farklı suçun oluşması söz konusudur ve fail bunlardan en ağır cezayı gerektiren suçtan cezalandırılır.",
+        "Kasten öldürme ve yağma suçlarında zincirleme suç hükümleri kesintisiz uygulanır."
+      ],
+      "answer": 2,
+      "reason": "TCK m. 44 gereğince işlediği tek bir fiil ile birden fazla farklı suçun oluşmasına sebebiyet veren kişi en ağır cezayı gerektiren suçtan cezalandırılır (fikri içtima). TCK m. 43/3 uyarınca kasten öldürme, kasten yaralama, işkence ve yağma suçlarında zincirleme suç hükümleri uygulanmaz."
+    },
+    "kusurluluk-yas": {
+      "q": "TCK m. 31 uyarınca yaş küçüklüğünün ceza sorumluluğuna etkisi hakkında aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Fiili işlediği sırada 12 yaşını doldurmamış çocukların ceza sorumluluğu tamdır fakat cezaları indirilir.",
+        "15 yaşını doldurmuş olup da 18 yaşını doldurmamış kişilerin ceza ehliyeti hiçbir şekilde yoktur.",
+        "12 yaşını doldurmuş ancak 15 yaşını doldurmamış çocuklarda işlediği fiilin hukuki anlam ve sonuçlarını algılama veya davranışlarını yönlendirme yeteneğinin gelişip gelişmediğine bakılır.",
+        "Sağır ve dilsizlerin yaş küçüklüğü süreleri normal çocuklarla birebir aynı yaş dilimlerinde hesaplanır."
+      ],
+      "answer": 2,
+      "reason": "TCK m. 31/1 gereğince 12 yaşını doldurmamış çocukların ceza sorumluluğu yoktur. TCK m. 31/2 uyarınca 12-15 yaş grubunda ise algılama ve davranışlarını yönlendirme yeteneğinin varlığı araştırılır."
+    },
+    "yaptirim": {
+      "q": "Kısa süreli hapis cezasına seçenek yaptırımlar (TCK m. 50) bakımından aşağıdakilerden hangisi kanuni bir kuraldır?",
+      "choices": [
+        "Taksirli suçlardan verilen uzun süreli hapis cezaları bilinçli taksir halinde de adli para cezasına çevrilebilir.",
+        "Suç tanımında hapis cezası ile adlî para cezasının seçenek olarak öngörüldüğü hallerde, hapis cezasına hükmedilmişse bu ceza artık adlî para cezasına çevrilmez.",
+        "Daha önce hapis cezasına mahkûm edilmiş kişiler için 30 günlük kısa süreli hapis cezası adli para cezasına çevrilemez.",
+        "Seçenek yaptırımlara çevrilen kısa süreli hapis cezası ödenmediğinde doğrudan hükmün açıklanmasının geri bırakılmasına karar verilir."
+      ],
+      "answer": 1,
+      "reason": "TCK m. 50/2 uyarınca suç tanımında hapis cezası ile adlî para cezasının seçenek olarak öngörüldüğü hallerde, hapis cezasına hükmedilmişse bu ceza artık adlî para cezasına çevrilmez. TCK m. 50/4 uyarınca taksirli suçlarda uzun süreli ceza adli para cezasına çevrilebilirse de bilinçli taksir halinde bu kural uygulanmaz."
+    }
+  },
+  "intro": "Kâğıdın ilk cümlesinde tipiklik durur. Tuzaklar TCK lafzı ve graf unsura dayanır.",
+  "uyari": "Olası kast ile bilinçli taksir, teşebbüs ile hazırlık, zincirleme ile fikri içtima aynı torbaya konmaz."
+}

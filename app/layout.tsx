@@ -79,6 +79,9 @@ export const metadata: Metadata = {
     'vatandaş rehberi',
     'ücretsiz mevzuat',
     'hukuk portalı',
+    'Erciş avukat',
+    'Van Erciş',
+    'Av. Fethi Güzel Erciş',
   ],
   authors: [{ name: 'Av. Fethi Güzel', url: siteUrl }],
   creator: 'Av. Fethi Güzel',
@@ -213,6 +216,7 @@ const personSchema = {
   sameAs: [
     siteUrl,
     `${siteUrl}/avukat-fethi-guzel`,
+    `${siteUrl}/ercis-avukat`,
     `${siteUrl}/akademik-profil`,
     `${siteUrl}/eserlerim`,
     'https://www.seckin.com.tr/kitap/614840900',
@@ -254,7 +258,7 @@ const orgSchema = {
   logo: `${siteUrl}/icon-512.png`,
   image: `${siteUrl}/images/av-fethi-guzel-van-ercis-avukat.jpg`,
   description:
-    'Mevzuat bankası, akademik şerhler, günlük içtihat ve hukuki hesaplama araçları sunan dijital hukuk portalı ve avukatlık bürosu.',
+    'Van ili Erciş ilçesinde avukatlık bürosu. Mevzuat bankası, akademik şerhler, günlük içtihat ve hukuki hesaplama araçları sunan dijital hukuk portalı.',
   email: 'fethiguzel@hotmail.com',
   priceRange: '$$',
   address: {
@@ -287,10 +291,12 @@ const orgSchema = {
     'Ticaret hukuku',
     'Arabuluculuk',
   ],
+  hasMap: `https://www.google.com/maps/search/?api=1&query=${PROFILE.office.mapQuery}`,
   founder: { '@id': `${siteUrl}/#person` },
   sameAs: [
     siteUrl,
     `${siteUrl}/avukat-fethi-guzel`,
+    `${siteUrl}/ercis-avukat`,
     `${siteUrl}/akademik-profil`,
     `${siteUrl}/eserlerim`,
     'https://www.seckin.com.tr/kitap/614840900',

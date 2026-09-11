@@ -19,6 +19,7 @@
         "borç ilişkisi",
         "sözleşmenin kurulması",
         "geçersizlik ve irade sakatlıkları",
+        "temsil ve genel işlem koşulları",
         "ifa",
         "temerrüt",
         "haksız fiil",
@@ -35,5 +36,474 @@
             "url": "https://hukuk.deu.edu.tr/",
             "note": "fakülte kimliği; izlence OBS"
         }
-    ]
+    ],
+    "byCourse": {
+        "medeni-baslangic": {
+            "cityHook": "Alsancak'ta on yedi yaşındaki öğrencinin kira imzası ve ehliyet tartışması",
+            "mehaz": "Ege/İzmir dogmatik hattı; TMK lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav %30–40, final %50–60 (OBS).",
+                "format": "Klasik yazılı: TMK maddesi + unsur + İzmir pratik olayı.",
+                "tips": [
+                    "DEÜ kâğıdında önce TMK kapısını yazın: m.1 uygulama, m.2 dürüstlük, m.3 iyiniyet.",
+                    "Boşluk ile takdiri, hak ehliyeti ile fiil ehliyetini karıştırmayın.",
+                    "OBS ve öğretim elemanı bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "uygulama ve kaynaklar",
+                "dürüstlük ve iyiniyet",
+                "takdir",
+                "ehliyet",
+                "kişilik, ad, yerleşim"
+            ],
+            "schoolNotes": [
+                "DEÜ medeni başlangıç dönemlik Bologna hattındadır; TMK m.1 kapısı önce yazılır.",
+                "Borçlar genel ayrı derstir.",
+                "Slayt cümlesi alınmaz."
+            ]
+        },
+        "ceza-genel": {
+            "cityHook": "Alsancak'ta taksirle yaralama ve hukuka uygunluk",
+            "mehaz": "Ege/İzmir dogmatiği; TCK lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final (OBS).",
+                "format": "Klasik yazılı: madde + unsur + İzmir pratik olayı.",
+                "tips": [
+                    "DEÜ kâğıdında önce tipikliği yazın.",
+                    "Kast ile taksiri, içtima ile iştiraki ayırın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "kanunilik",
+                "kast taksir",
+                "hukuka uygunluk",
+                "teşebbüs iştirak",
+                "yaptırım"
+            ],
+            "schoolNotes": [
+                "DEÜ ceza genel dönemlik Bologna hattındadır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
+        },
+        "medeni-usul": {
+            "cityHook": "Alsancak'ta bir alacak davasının yetki ve delil tartışması",
+            "mehaz": "Ege/İzmir dogmatiği; HMK lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final (OBS).",
+                "format": "Klasik yazılı: madde + unsur + İzmir pratik olayı.",
+                "tips": [
+                    "DEÜ kâğıdında önce görev-yetkiyi yazın.",
+                    "Senetle ispat ile tanık yasağını ayırın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "görev yetki",
+                "dava şartları",
+                "delil",
+                "kanun yolu"
+            ],
+            "schoolNotes": [
+                "DEÜ medeni usul dönemlik Bologna hattındadır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
+        },
+        "esya-hukuku": {
+            "cityHook": "Alsancak'ta taşınır satımı ve zilyetlik devri",
+            "mehaz": "Ege/İzmir dogmatiği; TMK eşya lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TMK maddesi + ayni hak unsuru + olaya yedirme.",
+                "tips": [
+                    "DEÜ kâğıdında önce zilyetlik-mülkiyet kapısını yazın.",
+                    "Teslim ile tescili karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "zilyetlik",
+                "tapu",
+                "mülkiyet",
+                "paylı mülkiyet",
+                "irtifak",
+                "ipotek",
+                "taşınır rehni",
+                "kat mülkiyeti"
+            ],
+            "schoolNotes": [
+                "DEÜ eşya dönemlik Bologna hattındadır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
+        },
+        "icra-iflas": {
+            "cityHook": "Alsancak'ta taşınır haczi ve istihkak",
+            "mehaz": "Ege/İzmir dogmatiği; İİK lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: İİK maddesi + takip yolu + olaya yedirme.",
+                "tips": [
+                    "DEÜ kâğıdında önce takip yolunu yazın.",
+                    "İstihkak 96-99 kapılarını karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "ilamlı icra",
+                "ilamsız takip",
+                "itiraz",
+                "haciz",
+                "istihkak",
+                "cebri satış",
+                "sıra cetveli",
+                "iflas"
+            ],
+            "schoolNotes": [
+                "DEÜ icra dönemlik Bologna hattındadır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
+        },
+        "aile-hukuku": {
+            "cityHook": "Alsancak'ta bir evlenme ehliyeti ve butlan",
+            "mehaz": "Ege/İzmir dogmatiği; TMK aile lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TMK maddesi + aile kurumu + olaya yedirme.",
+                "tips": [
+                    "DEÜ kâğıdında önce evlilik bağını yazın.",
+                    "Mutlak butlan ile boşanmayı karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "nişan",
+                "evlenme",
+                "butlan",
+                "boşanma",
+                "mal rejimi",
+                "velayet",
+                "nafaka"
+            ],
+            "schoolNotes": [
+                "DEÜ aile dönemlik Bologna hattındadır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
+        },
+        "miras-hukuku": {
+            "cityHook": "Alsancak'ta miras sözleşmesi ve iptal",
+            "mehaz": "Ege/İzmir dogmatiği; TMK miras lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TMK maddesi + miras kurumu + olaya yedirme.",
+                "tips": [
+                    "DEÜ kâğıdında önce zümreyi yazın.",
+                    "Miras sözleşmesi ile vasiyeti karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "yasal mirasçılık",
+                "saklı pay",
+                "ölüme bağlı tasarruf",
+                "miras sözleşmesi",
+                "iptal",
+                "tenkis",
+                "ret",
+                "tereke paylaşma"
+            ],
+            "schoolNotes": [
+                "DEÜ miras dönemlik Bologna hattındadır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
+        },
+        "borclar-ozel": {
+            "cityHook": "Alsancak'ta bir yazlık kira ve ayıp",
+            "mehaz": "Ege/İzmir dogmatiği; TBK özel sözleşme lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TBK maddesi + sözleşme türü + olaya yedirme.",
+                "tips": [
+                    "DEÜ kâğıdında önce sözleşme türünü yazın.",
+                    "Hizmet ile vekâleti, kullanım ödüncü ile kirayı karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "satış",
+                "bağışlama",
+                "kira",
+                "eser",
+                "hizmet",
+                "vekâlet",
+                "kefalet",
+                "ödünç"
+            ],
+            "schoolNotes": [
+                "DEÜ özel borçlar dönemlik Bologna hattındadır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
+        },
+        "is-hukuku": {
+            "cityHook": "Alsancak'ta bir sezonluk iş ve belirli süre",
+            "mehaz": "Ege/İzmir dogmatiği; 4857 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: 4857 maddesi + fesih türü + olaya yedirme.",
+                "tips": [
+                    "DEÜ kâğıdında önce kapsamı yazın.",
+                    "Deneme süresini belirsiz süre feshinin yerine koymayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "iş sözleşmesi",
+                "süre ve tür",
+                "fesih",
+                "kıdem ve ihbar",
+                "ücret ve süre",
+                "iş sağlığı"
+            ],
+            "schoolNotes": [
+                "DEÜ iş hukuku dönemlik Bologna hattındadır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
+        },
+        "ceza-ozel": {
+            "cityHook": "Alsancak'ta bir kasten yaralama ve neticesi sebebiyle ağırlaşmış hâl",
+            "mehaz": "Ege/İzmir dogmatiği; TCK özel lafız bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TCK maddesi + suç tipi + olaya yedirme.",
+                "tips": [
+                    "DEÜ kâğıdında önce suç tipini yazın.",
+                    "86 ile 87'yi, 81 ile 83'ü karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "kasten öldürme",
+                "kasten yaralama",
+                "hakaret",
+                "hırsızlık",
+                "dolandırıcılık",
+                "uyuşturucu",
+                "zimmet",
+                "görevi kötüye kullanma"
+            ],
+            "schoolNotes": [
+                "DEÜ özel ceza dönemlik Bologna hattındadır.",
+                "Ceza genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
+        },
+        "ticari-isletme": {
+            "cityHook": "Alsancak'ta bir esnaf işletmesi ve tacir sınırı",
+            "mehaz": "Ege/İzmir dogmatiği; TTK birinci kitap lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + tacir/işletme kapısı + olaya yedirme.",
+                "tips": [
+                    "DEÜ kâğıdında önce işletme-esnaf kapısını yazın.",
+                    "Tescilsiz olguyu iyiniyetli üçüncü kişiye karşı ileri sürmeyin.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "ticari iş",
+                "ticari işletme",
+                "tacir",
+                "sicil",
+                "unvan",
+                "haksız rekabet",
+                "basiret ve temsil"
+            ],
+            "schoolNotes": [
+                "DEÜ ticari işletme dönemlik Bologna hattındadır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
+        },
+        "ticaret-sirketler": {
+            "cityHook": "Alsancak'ta bir kollektif şirket ve sınırsız sorumluluk",
+            "mehaz": "Ege/İzmir dogmatiği; TTK şirketler lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + şirket türü + olaya yedirme.",
+                "tips": [
+                    "DEÜ kâğıdında önce şirket türünü yazın.",
+                    "Komandite ile komanditeri karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "ticaret şirketleri",
+                "kollektif-komandit",
+                "anonim",
+                "organlar",
+                "sermaye-pay",
+                "limited",
+                "sona erme"
+            ],
+            "schoolNotes": [
+                "DEÜ şirketler dönemlik Bologna hattındadır.",
+                "Ticari işletme ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
+        },
+        "ceza-muhakemesi": {
+            "cityHook": "Alsancak'ta bir arama ve elkoyma",
+            "mehaz": "Ege/İzmir dogmatiği; CMK lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: CMK maddesi + evre + olaya yedirme.",
+                "tips": [
+                    "DEÜ kâğıdında önce evreyi yazın.",
+                    "Hâkim kararı ile gecikmesinde sakıncayı karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "soruşturma",
+                "koruma tedbirleri",
+                "ifade ve sorgu",
+                "kovuşturma",
+                "delil",
+                "hüküm ve kanun yolu"
+            ],
+            "schoolNotes": [
+                "DEÜ CMK dönemlik Bologna hattındadır.",
+                "Ceza genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
+        },
+        "kiymetli-evrak": {
+            "cityHook": "Alsancak'ta bir hamile yazılı senet ve zayi",
+            "mehaz": "Ege/İzmir dogmatiği; TTK kıymetli evrak lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + senet türü + olaya yedirme.",
+                "tips": [
+                    "DEÜ kâğıdında önce senet türünü yazın.",
+                    "Nama yazılıyı emre yazılı ile karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "kıymetli evrak",
+                "poliçe",
+                "bono",
+                "ciro",
+                "çek",
+                "def'i",
+                "başvuru",
+                "karşılıksız çek"
+            ],
+            "schoolNotes": [
+                "DEÜ kıymetli evrak dönemlik Bologna hattındadır.",
+                "Ticari işletme ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
+        }
+    }
 }

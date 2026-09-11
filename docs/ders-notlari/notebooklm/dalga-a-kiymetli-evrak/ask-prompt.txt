@@ -1,0 +1,37 @@
+Sadece JSON üret. Markdown yok, künye yok, fakülte adı yok. Kaynak olarak yalnız TTK ve Çek Kanunu resmi lafzı ile graf unsura dayan.
+
+Şema:
+{
+  "guz": ["tuzak cümlesi", "tuzak cümlesi", "tuzak cümlesi", "tuzak cümlesi"],
+  "bahar": ["tuzak cümlesi", "tuzak cümlesi", "tuzak cümlesi", "tuzak cümlesi"],
+  "mcq": {
+    "ke-kavram": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"},
+    "polise": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"},
+    "bono": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"},
+    "cir-teslim": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"},
+    "cek": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"},
+    "defi": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"},
+    "basvuru": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"},
+    "karsiliksiz": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... ÇekK m.N"}
+  }
+}
+
+Kurallar:
+- answer 0-3 tamsayıdır.
+- Her q dört choices; tek doğru.
+- reason yalnız kaynakta geçen maddeyi söyler. Uydurma yok.
+- Tacir sıfatı ve şirket organları yazılmaz.
+
+Güz tuzakları:
+1) kıymetli evrak tanımı ve nama/emre/hamiline (TTK m.645-647, m.651)
+2) poliçe unsurları ve kabul (TTK m.671, m.672, m.695)
+3) bono poliçeden farkı (TTK m.776, m.777): keşideci asıl borçlu
+4) ciro ve teslim (TTK m.681, m.683)
+
+Bahar tuzakları:
+1) çek unsurları ve ibraz (TTK m.780, m.795, m.796)
+2) def'iler (TTK m.687, m.825)
+3) başvuru hakkı ve zamanaşımı (TTK m.714, m.722, m.726, m.728)
+4) karşılıksız çek Çek Kanunu (ÇekK m.1, m.2, m.3, m.5) — TTK unsur eksikliğinden ayrı
+
+MCQ odakları kaynak maddelerine bağlansın.

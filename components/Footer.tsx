@@ -69,6 +69,12 @@ export default function Footer() {
                   >
                     Google Haritalar&apos;da Aç →
                   </a>
+                  <Link
+                    href="/ercis-avukat"
+                    className="block mt-2 text-cream/50 text-xs font-bold uppercase tracking-widest hover:text-accent"
+                  >
+                    Erciş hukuki bilgilendirme
+                  </Link>
                 </div>
               </div>
 

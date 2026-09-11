@@ -1,0 +1,46 @@
+Sadece JSON üret. Markdown yok, künye yok, fakülte adı yok. Kaynak olarak yalnız TBK resmi lafzı ve graf unsura dayan.
+
+Şema:
+{
+  "guz": ["tuzak cümlesi", "tuzak cümlesi", "tuzak cümlesi", "tuzak cümlesi"],
+  "bahar": ["tuzak cümlesi", "tuzak cümlesi", "tuzak cümlesi", "tuzak cümlesi"],
+  "mcq": {
+    "satim": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TBK m.N"},
+    "bagislama": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TBK m.N"},
+    "kira": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TBK m.N"},
+    "eser": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TBK m.N"},
+    "hizmet": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TBK m.N"},
+    "vekalet": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TBK m.N"},
+    "kefalet": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TBK m.N"},
+    "odunc": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TBK m.N"}
+  }
+}
+
+Kurallar:
+- answer 0-3 tamsayıdır (doğru şık indeksi).
+- Her q dört choices içerir; tek doğru vardır.
+- reason yalnız kaynakta geçen TBK madde numarasını söyler. Kaynakta olmayan madde uydurulmaz.
+- Tuzak cümlesi hangi iki kurumun karıştırıldığını ve doğru lafzı söyler.
+- Borçlar genel kapısı (borcun kaynağı: sözleşme / haksız fiil / sebepsiz zenginleşme) yazılmaz.
+
+Güz tuzakları (tam bu ayrımlar):
+1) ayıp bildirimi (TBK m.223) / ayıpta alıcının seçimlik hakları (TBK m.227: onarım, değişim, bedelden indirim, dönme)
+2) taşınır satışı kural olarak şekilsiz (TBK m.207) / taşınmaz satışı resmi şekil (TBK m.237)
+3) bağışlama tanımı ve karşılıksızlık (TBK m.285-286) / taşınmaz bağışlama vaadi resmi şekil (TBK m.288)
+4) kira kullanım bırakır mülkiyet geçirmez (TBK m.299) / eser sonuç borcu (TBK m.470); konut ve çatılı işyeri kirasında belirsiz süreli kira kiraya veren tarafından ancak 347'deki sebeplerle sona erdirilir
+
+Bahar tuzakları:
+1) hizmette bağımlılık (TBK m.393) / vekâlette menfaate uygun iş görme, ücret kural değil (TBK m.502)
+2) vekilin özen ve talimata uyma borcu (TBK m.506) / hesabı verme (TBK m.508)
+3) kefalette yazılı şekil ve azami miktar (TBK m.583) / eşin rızası (TBK m.584); müteselsil kefalet adi kefaletten ayrılır (TBK m.589)
+4) kullanım ödüncü karşılıksız kullanma, mülkiyet geçmez (TBK m.379) / tüketim ödüncü misli şey, mülkiyet geçer, faiz bu türe özgüdür (TBK m.386-388)
+
+MCQ odakları:
+- satim: m.227 seçimlik haklar veya m.223 bildirim; m.237 taşınmaz şekli
+- bagislama: m.285 tanım veya m.288 taşınmaz şekli
+- kira: m.299 tanım (mülkiyet geçmez) veya m.347 konut kirası sona erme
+- eser: m.470 sonuç borcu; m.474-475 ayıp; m.480 götürü/yaklaşık bedel
+- hizmet: m.393 bağımlılık; vekâletle karışmama
+- vekalet: m.502 ücret kuralı; m.506 özen
+- kefalet: m.583 şekil+miktar; m.584 eş rızası
+- odunc: m.379 kullanım / m.386 tüketim ayrımı

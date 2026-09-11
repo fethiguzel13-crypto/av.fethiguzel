@@ -1,0 +1,152 @@
+{
+  "guz": [
+    "Sınav kâğıdında borç ilişkisini sadece tek bir edim borcu sanıp hukuki kaynağı (sözleşme TBK m.1, haksız fiil m.49, sebepsiz zenginleşme m.77) belirlemeden analize başlamak. Haklar demeti (bundle of rights and obligations) gereği kaynak seçilmeden unsur yazılmaz.",
+    "İcabın (offer) bağlanma iradesi içermesi zorunluluğunu gözden kaçırarak davet veya ön görüşmeyi icap kabul etmek. İrade teorisi ile güven teorisi (objective test of intention) sınavda açıkça adlandırılmalıdır.",
+    "Saik hatasını (mistake in motive) doğrudan esaslı yanılma sanmak. Saik hatası kural olarak esaslı değildir; ancak TBK m.32 koşulları (sözleşmenin temeli sayılması ve karşı tarafça bilinebilir olması) sağlandığında esaslı yanılmaya dönüşür.",
+    "Doğrudan temsil (TBK m.40) ile dolaylı temsil (indirect agency / vekâlet) ayrımını karıştırmak. Yetkisiz temsilcinin (unauthorized agent) yaptığı işlemin askıda geçersiz olduğunu unutup doğrudan borç doğduğunu yazmak.",
+    "Müzakere edilmiş bireysel kayıtlar ile önceden tek yanlı hazırlanmış GİK'i (standard terms) karıştırmak. Karşı tarafın aleyhine olan koşulda açık bilgi ve öğrenme imkânı verilmediğinde (TBK m.21) yazılmamış sayılma (unusual clause) sonucunu atlamak."
+  ],
+  "bahar": [
+    "Alacaklının dürüstlük kuralına aykırı olmaksızın kısmi ifayı reddetme hakkını (TBK m.84) ve para borçlarının aksi kararlaştırılmadıkça alacaklının yerleşim yerinde (TBK m.89/1 - götürülecek borç) ifa edileceğini gözden kaçırmak.",
+    "Vadenin gelmesiyle (muacceliyet, TBK m.90) temerrüdü (TBK m.117) aynı sanmak. Karşılıklı borçlarda ihtar ve süre verilmeden (m.123) veya m.124 istisnası olmadan acele sözleşmeden dönme (m.125) hakkının kullanılamayacağı tuzağı.",
+    "Başlangıçtaki objektif imkânsızlığı (butlan) sonraki imkânsızlık (TBK m.136) ile karıştırmak. Ayrıca TBK m.138 aşırı ifa güçlüğünü (hardship) imkânsızlık sanmak.",
+    "Hukuka aykırılık unsurunda normun koruma amacını (scope of duty) incelememek ve kusursuz sorumluluk hallerinde kusur aramak. TBK m.56 manevi tazminatını maddi zararın basit bir uzantısı saymak.",
+    "Zamanaşımının borcu sona erdirmediğini, yalnızca dava edilebilirliği kesen bir def'i (affirmative defense, TBK m.161) olduğunu unutup hâkimin re'sen göz önüne alacağını sanmak."
+  ],
+  "mcq": {
+    "borc-iliskisi": {
+      "q": "Borç ilişkisinin hukuki niteliği ve bileşenleri hakkında aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Borç ilişkisi yalnızca tek bir alacak hakkından ibaret olup yan yükümleri kapsamaz.",
+        "Borç ilişkisi, taraflar arasında haklar, edimler, yan yükümler ve savunmaları içeren bir haklar demetidir; kaynak (TBK m.1, m.49 veya m.77) belirlenmeden edim analizi yapılamaz.",
+        "Haksız fiil ile sözleşmeden doğan borçların hukuki sebepleri tamamen özdeştir.",
+        "Borç ilişkisinin varlığı halinde borçlunun edimi ifa etmemesi her durumda doğrudan sebepsiz zenginleşme doğurur."
+      ],
+      "answer": 1,
+      "reason": "TBK m.1, m.49 ve m.77 uyarınca borç ilişkisi edim, hak, yan yüküm ve savunmaları içeren bir organik bağ ve haklar demetidir (bundle of rights). Bilkent ekolünde kaynağın nitelendirilmesi sınav kâğıdının ilk adımıdır."
+    },
+    "sozlesmenin-kurulmasi": {
+      "q": "Bir Mağazada fiyatı gösterilerek sergilenen malın hukuki niteliği TBK m.8/2 gereğince nedir?",
+      "choices": [
+        "Aksi açıkça ve kolaylıkla anlaşılmadıkça öneri (icap) sayılır.",
+        "Kural olarak sadece icaba davet (invitation to treat) kabul edilir.",
+        "Örtülü kabul sayılır ve sözleşmeyi kendiliğinden kurar.",
+        "Hazır olmayanlar arasında yapılmış bir öneri kabul edilir."
+      ],
+      "answer": 0,
+      "reason": "TBK m.8/2 uyarınca fiyatını göstererek mal sergilenmesi aksi açıkça anlaşılmadıkça öneri sayılır. Güven teorisi (objective test of intention) uyarınca muhatabın dürüstlük kuralı çerçevesindeki algısı esastır."
+    },
+    "irade-sakatliklari": {
+      "q": "Sözleşme yapılırken saik hatasına (mistake in motive) düşülmesi halinde durum TBK m.32 uyarınca nasıl değerlendirilir?",
+      "choices": [
+        "Saikte yanılma her zaman esaslı yanılmadır ve sözleşmeyi kendiliğinden geçersiz kılar.",
+        "Saikte yanılma kural olarak esaslı yanılma sayılmaz; ancak yanılanın saiki sözleşmenin temeli sayması, bunun dürüstlük kuralına uygun olması ve karşı tarafça bilinebilir olması halinde esaslı yanılma kabul edilir.",
+        "Saikte yanılan taraf sözleşmeyi iptal edemez, yalnızca tazminat isteyebilir.",
+        "Saikte yanılma durumunda iptal hakkı 10 yıllık zamanaşımına tabidir."
+      ],
+      "answer": 1,
+      "reason": "TBK m.32 uyarınca saikte yanılma kural olarak esaslı değildir. Ancak yanılanın saiki temel sayması, bunun iş ilişkilerinde dürüstlük kuralına uygun olması ve karşı tarafça bilinebilir olması durumunda esaslı sayılır."
+    },
+    "temsil": {
+      "q": "Yetkisiz temsilcinin başkası adına yaptığı hukuki işlemin hukuki sonucu TBK m.46 uyarınca nedir?",
+      "choices": [
+        "İşlem baştan itibaren kesin olarak hükümsüzdür, hiçbir şekilde geçerlilik kazanamaz.",
+        "İşlem temsil olunandan bağımsız olarak yetkisiz temsilciyi bağlar.",
+        "İşlem askıda geçersizdir; temsil olunan tarafından onandığı takdirde temsil olunanı bağlar.",
+        "İşlem derhal doğrudan doğruya temsil olunan üzerinde hüküm doğurur."
+      ],
+      "answer": 2,
+      "reason": "TBK m.46 gereğince yetkisiz temsilcinin (unauthorized agent) yaptığı işlem askıda geçersiz olup, temsil olunanın açık veya örtülü onaması ile geçerlilik kazanır."
+    },
+    "genel-islem-kosullari": {
+      "q": "Karşı tarafın aleyhine olan genel işlem koşullarının sözleşme kapsamına girmesi TBK m.21 uyarınca hangi şarta bağlıdır?",
+      "choices": [
+        "Sözleşmenin noter huzurunda imzalanmasına.",
+        "Düzenleyenin karşı tarafa bu koşulların varlığı hakkında açıkça bilgi verip içeriğini öğrenme imkânı sağlamasına ve karşı tarafın da kabul etmesine.",
+        "Sözleşmede cezai şart bulunmamasına.",
+        "Genel işlem koşullarının metnin en altında dipnot olarak gösterilmesine."
+      ],
+      "answer": 1,
+      "reason": "TBK m.21 uyarınca karşı tarafın menfaatine aykırı genel işlem koşulları (standard terms), açıkça bilgi verilip öğrenme olanağı sağlanmadıkça ve kabul edilmedikçe yazılmamış sayılır (unusual clause)."
+    },
+    "ifa": {
+      "q": "Aksine bir anlaşma bulunmadığı takdirde para borçlarının ifa yeri TBK m.89/1 uyarınca neresidir?",
+      "choices": [
+        "Sözleşmenin kurulduğu sırada borç konusunun bulunduğu yer.",
+        "Borcun doğumu sırasında borçlunun yerleşim yeri.",
+        "Alacaklının ödeme zamanındaki yerleşim yeri.",
+        "Borçlunun ödeme zamanındaki yerleşim yeri."
+      ],
+      "answer": 2,
+      "reason": "TBK m.89/1 uyarınca aksi kararlaştırılmadıkça para borçları alacaklının ödeme zamanındaki yerleşim yerinde (götürülecek borç / dette portable) ifa edilir."
+    },
+    "temerrut": {
+      "q": "Muaccel bir borcun borçlusunun temerrüde düşmesi için TBK m.117/1 gereğince kural olarak ne gereklidir?",
+      "choices": [
+        "Borcun muaccel olması kendiliğinden temerrüt doğurur.",
+        "Borçluya alacaklı tarafından ihtar çekilmesi gereklidir.",
+        "Alacaklının mahkemeye başvurarak dava açması şarttır.",
+        "Borçlunun ağır kusurlu olması gerekir."
+      ],
+      "answer": 1,
+      "reason": "TBK m.117/1 uyarınca muaccel bir borcun borçlusu alacaklının ihtarıyla temerrüde düşer. İfa günü sözleşmede birlikte belirlenmedikçe veya kanuni istisna olmadıkça ihtar şarttır."
+    },
+    "ifa-imkansizligi": {
+      "q": "Borcun ifası borçlunun sorumlu tutulamayacağı sebeplerle sonradan imkânsızlaşırsa TBK m.136 uyarınca ne gerçekleşir?",
+      "choices": [
+        "Borçlu gecikme tazminatı ödemekle yükümlü olur.",
+        "Borç sona erer; karşılıklı borç yükleyen sözleşmelerde borçtan kurtulan taraf aldığı edimi sebepsiz zenginleşme hükümleri uyarınca geri verir.",
+        "Sözleşme başlangıçtan itibaren geçersiz hale gelir.",
+        "Borçlu edimini başka bir borçla yenilemek zorundadır."
+      ],
+      "answer": 1,
+      "reason": "TBK m.136 uyarınca borçlunun sorumlu olmadığı sonraki imkânsızlık (subsequent impossibility) borcu sona erdirir ve karşılıklı edimler sebepsiz zenginleşme kurallarınca iade edilir."
+    },
+    "haksiz-fiil": {
+      "q": "Kusurlu ve hukuka aykırı bir fiille başkasına zarar verenin hukuki sorumluluğu TBK m.49/1 uyarınca hangisidir?",
+      "choices": [
+        "Kusursuz sorumluluk ilkesi gereği kusuru aranmaksızın sorumludur.",
+        "Doğanal zararı gidermekle yükümlüdür.",
+        "Zarar gören kusuru ispat etmek zorunda değildir.",
+        "Yalnızca manevi tazminat ödemekle yükümlüdür."
+      ],
+      "answer": 1,
+      "reason": "TBK m.49/1 uyarınca kusurlu ve hukuka aykırı bir fiille başkasına zarar veren, bu zararı gidermekle yükümlüdür (tort liability). İspat yükü m.50 uyarınca zarar görendedir."
+    },
+    "sebepsiz-zenginlesme": {
+      "q": "Haklı bir sebep olmaksızın başkasının malvarlığından zenginleşen kimsenin hukuki durumu TBK m.77 uyarınca nasıldır?",
+      "choices": [
+        "Zenginleşen yalnızca kötüniyetli ise iade ile yükümlüdür.",
+        "Zenginleşmeyi geri vermekle yükümlüdür; zenginleşmenin geçerli olmayan veya sona ermiş sebebe dayanması da bu yükümlülüğü doğurur.",
+        "İade yükümlülüğü için haksız fiil kusuru aranır.",
+        "Zamanaşımına uğramış borcun ödenmesi halinde de zenginleşme geri istenebilir."
+      ],
+      "answer": 1,
+      "reason": "TBK m.77 gereğince haklı bir sebep olmaksızın başkasının malvarlığından veya emeğinden zenginleşen (unjust enrichment), zenginleşmeyi geri vermekle yükümlüdür."
+    },
+    "sona-erme": {
+      "q": "İbra sözleşmesiyle borcun ortadan kaldırılmasında şekil kuralı TBK m.132 uyarınca nasıldır?",
+      "choices": [
+        "Asıl borç hangi şekle bağlıysa ibra da aynı şekle tabidir.",
+        "Borcu doğuran işlem kanunen veya taraflarca belli bir şekle bağlı tutulmuş olsa bile borç, şekle bağlı olmaksızın yapılabilen ibra sözleşmesiyle tamamen veya kısmen ortadan kaldırılabilir.",
+        "İbra yalnızca yazılı yapıldığında geçerli olur.",
+        "İbra sözleşmesi noter onayı olmadan hüküm doğurmaz."
+      ],
+      "answer": 1,
+      "reason": "TBK m.132 uyarınca borcu doğuran işlem kanunen veya taraflarca belli bir şekle bağlı tutulmuş olsa bile borç, şekle bağlı olmaksızın yapılabilen ibra sözleşmesiyle tamamen veya kısmen ortadan kaldırılabilir."
+    },
+    "zamanasimi": {
+      "q": "Zamanaşımının mahkemece dikkate alınması TBK m.161 uyarınca hangi kurala tabidir?",
+      "choices": [
+        "Zamanaşımı kamu düzeninden olup hâkim tarafından re'sen göz önüne alınır.",
+        "Zamanaşımı ileri sürülmedikçe, hâkim bunu kendiliğinden göz önüne alamaz.",
+        "Hak düşürücü süre gibi davanın her aşamasında kendiliğinden incelenir.",
+        "Zamanaşımı def'i sadece ilk itiraz olarak ileri sürülebilir."
+      ],
+      "answer": 1,
+      "reason": "TBK m.161 gereğince zamanaşımı ileri sürülmedikçe (def'i niteliği / affirmative defense) hâkim bunu kendiliğinden göz önüne alamaz. Hak düşürücü süreden temel farkı budur."
+    }
+  },
+  "intro": "Bilkent kâğıdında issue spotting unsur listesinin yerine geçmez.",
+  "uyari": "Karşılaştırmalı cümle TBK şartını aydınlatır; künye uydurulmaz."
+}

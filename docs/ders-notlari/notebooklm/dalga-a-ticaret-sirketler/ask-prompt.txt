@@ -1,0 +1,43 @@
+Sadece JSON üret. Markdown yok, künye yok, fakülte adı yok. Kaynak olarak yalnız TTK resmi lafzı ve graf unsura dayan.
+
+Şema:
+{
+  "guz": ["tuzak cümlesi", "tuzak cümlesi", "tuzak cümlesi", "tuzak cümlesi"],
+  "bahar": ["tuzak cümlesi", "tuzak cümlesi", "tuzak cümlesi"],
+  "mcq": {
+    "sirket-kavrami": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"},
+    "kollektif-komandit": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"},
+    "anonim": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"},
+    "organlar": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"},
+    "sermaye-pay": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"},
+    "limited": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"},
+    "sona-erme-sirket": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"}
+  }
+}
+
+Kurallar:
+- answer 0-3 tamsayıdır (doğru şık indeksi).
+- Her q dört choices içerir; tek doğru vardır.
+- reason yalnız kaynakta geçen TTK madde numarasını söyler. Kaynakta olmayan madde uydurulmaz.
+- Tuzak cümlesi hangi iki kurumun karıştırıldığını ve doğru lafzı söyler.
+- Ticari işletme (tacir sıfatı) ve borçlar genel bu derste yazılmaz.
+
+Güz tuzakları:
+1) ticaret şirketleri tüzel kişilik ve tür listesi (TTK m.124) / adi şirket (TBK); kişi şirketi-sermaye şirketi
+2) kollektif sınırsız sorumluluk (TTK m.211, m.232) / komandit komandite-komanditer (TTK m.304, m.309)
+3) anonim şirket tanımı, sermaye ve kuruluş (TTK m.329, m.330, m.338, m.339)
+4) organlar: yönetim kurulu temsil (TTK m.365, m.370) / genel kurul yetkisi (TTK m.408, m.421); yönetim kurulu üyeliği (TTK m.359)
+
+Bahar tuzakları:
+1) pay ve sermaye; esas sözleşmede sermaye (TTK m.339); payın devri ve haklar (TTK m.480, m.481, m.461, m.507)
+2) limited şirket tanımı, ortak sayısı, esas sermaye, müdür (TTK m.573, m.574, m.577, m.595, m.623)
+3) AŞ sona erme sebepleri ve tasfiye (TTK m.529, m.536, m.543) / limited sona erme (TTK m.636)
+
+MCQ odakları:
+- sirket-kavrami: m.124 türler ve tüzel kişilik
+- kollektif-komandit: kollektif sınırsız sorumluluk vs komanditer sınırlı
+- anonim: m.329 tanım veya m.338 asgari sermaye/kurucu
+- organlar: m.365 yönetim / m.408 genel kurul
+- sermaye-pay: pay devri veya rüçhan
+- limited: m.573 tanım veya müdür m.623
+- sona-erme-sirket: m.529 sona erme veya tasfiye

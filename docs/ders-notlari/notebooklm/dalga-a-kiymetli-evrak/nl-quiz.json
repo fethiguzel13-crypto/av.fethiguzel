@@ -1,0 +1,106 @@
+{
+  "guz": [
+    "Kıymetli evrakın devri için ciro her zaman tek başına yeterlidir, senet zilyetliğinin devri şart değildir.",
+    "Vadesi gösterilmeyen poliçe zorunlu unsur eksikliği nedeniyle kesin olarak geçersiz sayılır.",
+    "Bonoda kabul kurumu bulunur ve muhatap asıl borçlu sıfatıyla sorumlu tutulur.",
+    "Beyaz ciro poliçenin ön yüzüne sadece imza atılarak geçerli bir şekilde yapılabilir."
+  ],
+  "bahar": [
+    "Çek üzerine yazılan vade kaydı çeki geçersiz kılar ve kambiyo senedi niteliğini yok eder.",
+    "Borçlu, önceki hamillerle arasındaki kişisel def'ileri iyiniyetli hamil dahil herkese karşı ileri sürebilir.",
+    "Senet üzerine konulan protestosuz kaydı hamili poliçeyi süresinde ibraz etme yükümlülüğünden de kurtarır.",
+    "Çekte kanuni şekil noksanlığı olsa dahi ibrazında karşılıksız kalırsa Çek Kanunu yaptırımları uygulanır."
+  ],
+  "mcq": {
+    "ke-kavram": {
+      "q": "Kıymetli evrakın devri ve mülkiyetin geçirilmesi ile ilgili olarak Türk Ticaret Kanunu m.647 uyarınca aşağıdakilerden hangisi her hâlde şarttır?",
+      "choices": [
+        "Senet üzerindeki zilyetliğin devri",
+        "Noter onaylı devir sözleşmesi yapılmalıdır",
+        "Borçlunun devre açık muvafakati gereklidir",
+        "Mahkemeden devir izni alınmalıdır"
+      ],
+      "answer": 0,
+      "reason": "Kıymetli evrakın devri için her hâlde senet üzerindeki zilyetliğin devri şarttır. TTK m.647"
+    },
+    "polise": {
+      "q": "Türk Ticaret Kanunu m.672 uyarınca vadesi gösterilmemiş olan bir poliçenin hukuki durumu aşağıdakilerden hangisidir?",
+      "choices": [
+        "Senet kesin olarak geçersiz sayılır",
+        "Görüldüğünde ödenmesi şart edilmiş sayılır",
+        "Düzenlenme tarihinden bir yıl sonra muaccel olur",
+        "Düzenleyenin yerleşim yerinde derhal iptal edilir"
+      ],
+      "answer": 1,
+      "reason": "Vadesi gösterilmeyen poliçe görüldüğünde ödenmesi şart edilmiş sayılır. TTK m.672"
+    },
+    "bono": {
+      "q": "Türk Ticaret Kanunu m.776 uyarınca bono metninde yer alması gereken asli unsur aşağıdakilerden hangisidir?",
+      "choices": [
+        "Muhatabın kabul beyanı",
+        "Kayıtsız ve şartsız belirli bir bedeli ödemek vaadi",
+        "Banka şubesinin idari onay kodu",
+        "İflas etmeme taahhüdü"
+      ],
+      "answer": 1,
+      "reason": "Bono metninde kayıtsız ve şartsız belirli bir bedeli ödemek vaadi yer alır. TTK m.776"
+    },
+    "cir-teslim": {
+      "q": "Türk Ticaret Kanunu m.683 uyarınca poliçenin arkasına veya alonj üzerine sadece cirantanın imzasının atılması suretiyle yapılan ciro türü aşağıdakilerden hangisidir?",
+      "choices": [
+        "Temlik cirosu",
+        "Beyaz ciro",
+        "Rehin cirosu",
+        "Tahsil cirosu"
+      ],
+      "answer": 1,
+      "reason": "Lehine ciro yapılan gösterilmeyip sadece imza atılması beyaz cirodur. TTK m.683"
+    },
+    "cek": {
+      "q": "Türk Ticaret Kanunu m.795 uyarınca çekin muacceliyeti ve ödenmesi ile ilgili kanuni kural aşağıdakilerden hangisidir?",
+      "choices": [
+        "Çek sadece vade gününde ödenir",
+        "Çek görüldüğünde ödenir; buna aykırı kayıtlar yazılmamış sayılır",
+        "İleri tarihli çekler ibraz edilse de ödenmez",
+        "Düzenlenme gününden önce ibraz edilen çek tamamen geçersizdir"
+      ],
+      "answer": 1,
+      "reason": "Çek görüldüğünde ödenir ve buna aykırı kayıt yazılmamış hükmündedir. TTK m.795"
+    },
+    "defi": {
+      "q": "Türk Ticaret Kanunu m.687 uyarınca borçlu, kişisel ilişkilerine dayanan def'ileri iyiniyetli hamiline karşı hangi hâlde ileri sürebilir?",
+      "choices": [
+        "Her zaman ve kısıtlama olmaksızın",
+        "Hamil senedi iktisap ederken bile bile borçlunun zararına hareket etmişse",
+        "Borçlu protesto çekmişse",
+        "Senette gidersiz kaydı varsa"
+      ],
+      "answer": 1,
+      "reason": "Kişisel def'iler ancak hamil senedi iktisap ederken bile bile borçlunun zararına hareket etmişse ileri sürülebilir. TTK m.687"
+    },
+    "basvuru": {
+      "q": "Türk Ticaret Kanunu m.722 uyarınca senet üzerine konulan 'gidersiz' veya 'protestosuz' kaydının hukuki etkisi aşağıdakilerden hangisidir?",
+      "choices": [
+        "Hamili süresinde ibraz yükümlülüğünden de kurtarır",
+        "Hamili başvurma hakkını kullanmak için protesto düzenleme yükümünden kurtarır",
+        "Senedi tamamen hükümsüz kılar",
+        "Tüm cirantaların müracaat borçluluğunu derhal sona erdirir"
+      ],
+      "answer": 1,
+      "reason": "Protestosuz kaydı hamili protesto düzenleme yükümünden kurtarır. TTK m.722"
+    },
+    "karsiliksiz": {
+      "q": "5941 sayılı Çek Kanunu m.5 uyarınca kanuni ibraz süresi içinde ibrazında 'karşılıksızdır' işlemi yapılmasına sebebiyet veren kişi hakkında uygulanacak idari/cezai yaptırım nedir?",
+      "choices": [
+        "Hamilin şikâyeti üzerine adli para cezası ve çek düzenleme/çek hesabı açma yasağı",
+        "Sadece idari kınama cezası",
+        "Doğrudan ve şikâyete bağlı olmaksızın ağır hapis cezası",
+        "Disiplin para cezası"
+      ],
+      "answer": 0,
+      "reason": "Karşılıksız çek işlemi yapılmasına sebebiyet veren kişi hakkında hamilin şikâyeti üzerine adli para cezası ve çek düzenleme ve çek hesabı açma yasağına hükmolunur. CEK m.5"
+    }
+  },
+  "intro": "Sınav puanı sloganı yazmaktan değil senet türünü ayırmaktan düşer. Aşağıdaki tuzaklar resmi lafza ve graf unsura dayanır; slayt cümlesi değildir.",
+  "uyari": "Ticari işletme ve şirketler bu kâğıdın asıl kapısı değildir. Senet türü, ciro, def'i ve başvuru yazılır. OBS bağlayıcıdır."
+}

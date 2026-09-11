@@ -135,6 +135,7 @@ export function bolgeBySlug(slug: string): Bolge | undefined {
 export const SOCIAL_SAME_AS = [
     SITE_URL,
     `${SITE_URL}/avukat-fethi-guzel`,
+    `${SITE_URL}/ercis-avukat`,
     `${SITE_URL}/akademik-profil`,
     `${SITE_URL}/eserlerim`,
     PROFILE.book.url,

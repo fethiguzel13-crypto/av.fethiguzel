@@ -11,12 +11,14 @@ const photoPath = PROFILE.photo
 const photoAbs = `${SITE_URL}${photoPath}`
 
 export const metadata: Metadata = {
-    title: 'Avukat Fethi Güzel | Özel Hukuk · e-Duruşma · Akademik Profil',
+    title: 'Avukat Fethi Güzel | Erciş / Van · Özel Hukuk · e-Duruşma',
     description:
-        'Av. Fethi Güzel — avukat ve arabulucu. Özel hukuk doktora çalışmaları, yayımlanmış e-duruşma kitabı, iyi düzeyde İngilizce. Mevzuat şerhi, dava vekilliği, arabuluculuk.',
+        'Av. Fethi Güzel — Van ili Erciş ilçesinde avukat ve arabulucu. Özel hukuk doktora çalışmaları, yayımlanmış e-duruşma kitabı, iyi düzeyde İngilizce. Mevzuat şerhi, dava vekilliği, arabuluculuk.',
     keywords: [
         'Fethi Güzel',
         'Avukat Fethi Güzel',
+        'Erciş avukat',
+        'Van Erciş',
         'özel hukuk doktora',
         'e-duruşma kitabı',
         'İngilizce bilen avukat',

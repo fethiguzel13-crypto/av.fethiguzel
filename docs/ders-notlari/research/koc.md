@@ -2,7 +2,8 @@
 
 **Slug:** `koc`  
 **Son tarama:** 2026-08-26  
-**Kaynak:** law.ku.edu.tr
+**Kaynak:** law.ku.edu.tr  
+**Durum:** borçlar-genel üçlüsü curated (graf+örtü+NotebookLM, 2026-09-11)
 
 ## Kimlik
 

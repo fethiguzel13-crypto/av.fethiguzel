@@ -1,0 +1,82 @@
+{
+  "guz": [
+    "Soruşturma ile kovuşturma evreleri karıştırılmaktadır; soruşturma suç şüphesinin öğrenilmesinden iddianamenin kabulüne kadar olan evre iken, kovuşturma iddianamenin kabulüyle başlar (CMK m.2, m.170, m.172, m.173).",
+    "Tutuklama ile ceza yaptırımı veya yakalama-gözaltı karıştırılmaktadır; tutuklama bir ceza olmayıp adli kontrolün yetersiz kaldığı hallerde uygulanan ölçülü bir koruma tedbiridir (CMK m.90-91, m.100-101, m.109).",
+    "İfade alma ile sorgu karıştırılmaktadır; ifade kolluk veya savcı tarafından, sorgu ise hâkim veya mahkeme tarafından yapılan dinleme işlemidir (CMK m.2, m.147-148, m.149-150)."
+  ],
+  "bahar": [
+    "Kovuşturma evresi ile duruşma hazırlığı karıştırılmaktadır; kovuşturma iddianamenin kabulüyle başlar ve duruşma kural olarak alenidir (CMK m.175, m.191, m.193).",
+    "Delil serbestisi ile hukuka aykırı delil kullanımı karıştırılmaktadır; hâkim vicdani kanaatiyle delilleri serbestçe takdir etse de hukuka aykırı elde edilen deliller hükme esas alınamaz (CMK m.206, m.217).",
+    "Hüküm çeşitleri ile HAGB veya kanun yolları karıştırılmaktadır; beraat ve mahkûmiyet kararları hüküm sayılırken HAGB kurulan hükmün hukuki sonuç doğurmamasını ifade eder ve kanun yollarına tabidir (CMK m.223, m.231, m.272, m.286)."
+  ],
+  "mcq": {
+    "sorusturma": {
+      "q": "Ceza Muhakemesi Kanunu m.2 uyarınca, kanuna göre yetkili mercilerce suç şüphesinin öğrenilmesinden iddianamenin kabulüne kadar geçen evre aşağıdakilerden hangisidir?",
+      "choices": [
+        "Soruşturma",
+        "Kovuşturma",
+        "Sorgu",
+        "Duruşma"
+      ],
+      "answer": 0,
+      "reason": "Suç şüphesinin öğrenilmesinden iddianamenin kabulüne kadar geçen evre soruşturmadır CMK m.2."
+    },
+    "koruma": {
+      "q": "CMK m.100 uyarınca, şüpheli veya sanık hakkında tutuklama kararı verilebilmesi için öncelikli olarak aranan temel şart aşağıdakilerden hangisidir?",
+      "choices": [
+        "Kuvvetli suç şüphesinin varlığını gösteren somut delillerin ve bir tutuklama nedeninin bulunması",
+        "Şüphelinin suçunu kolluk önünde ikrar etmiş olması",
+        "Hakkında daha önce verilmiş kesinleşmiş bir mahkûmiyet kararı bulunması",
+        "İşlenen fiilin disiplin hapsini gerektirmesi"
+      ],
+      "answer": 0,
+      "reason": "Tutuklama kararı verilebilmesi için kuvvetli suç şüphesini gösteren somut deliller ve tutuklama nedeni bulunmalıdır CMK m.100."
+    },
+    "ifade-sorgu": {
+      "q": "CMK m.148 uyarınca, ifade alma ve sorguda yasak usullerle elde edilen ifadeler hakkında aşağıdaki kurallardan hangisi geçerlidir?",
+      "choices": [
+        "Rıza ile verilmiş olsa da delil olarak değerlendirilemez",
+        "Şüpheli sonradan kabul ederse geçerli sayılır",
+        "Sadece hafif suçlarda hükme esas alınabilir",
+        "Kolluk amirinin kararıyla delil olarak kabul edilir"
+      ],
+      "answer": 0,
+      "reason": "Yasak usullerle elde edilen ifadeler rıza ile verilmiş olsa da delil olarak değerlendirilemez CMK m.148."
+    },
+    "kovusturma": {
+      "q": "Ceza Muhakemesi Kanunu m.175 uyarınca, kamu davası ne zaman açılmış olur ve kovuşturma evresi başlar?",
+      "choices": [
+        "İddianamenin kabulüyle",
+        "Kolluğun fezleke düzenlemesiyle",
+        "Şüphelinin gözaltına alınmasıyla",
+        "İhbar veya şikâyette bulunulmasıyla"
+      ],
+      "answer": 0,
+      "reason": "İddianamenin kabulüyle kamu davası açılmış olur ve kovuşturma evresi başlar CMK m.175."
+    },
+    "delil-cmk": {
+      "q": "Ceza Muhakemesi Kanunu m.217/2 uyarınca yüklenen suçun ispatı hususunda geçerli ilke aşağıdakilerden hangisidir?",
+      "choices": [
+        "Yüklenen suç, hukuka uygun bir şekilde elde edilmiş her türlü delille ispat edilebilir",
+        "Hukuka aykırı elde edilen deliller hâkimin takdiriyle hükme esas alınabilir",
+        "Yalnızca resmi makamlarca düzenlenen belgeler delil kabul edilir",
+        "Soruşturmada tartışılmayan deliller kovuşturmada doğrudan hükme esas alınır"
+      ],
+      "answer": 0,
+      "reason": "Yüklenen suç ancak hukuka uygun bir şekilde elde edilmiş delillerle ispat edilebilir CMK m.217."
+    },
+    "hukum-yol": {
+      "q": "CMK m.223 uyarınca aşağıdakilerden hangisi duruşmanın sona erdiği açıklandıktan sonra verilen hüküm türlerinden biridir?",
+      "choices": [
+        "Beraat",
+        "Gözaltı kararı",
+        "Tutuklama kararı",
+        "Arama ve elkoyma kararı"
+      ],
+      "answer": 0,
+      "reason": "Beraat, ceza verilmesine yer olmadığı, mahkûmiyet, güvenlik tedbiri, davanın reddi ve düşmesi kararları hükümdür CMK m.223."
+    }
+  },
+  "intro": "Sınav puanı sloganı yazmaktan değil evreyi ayırmaktan düşer. Aşağıdaki tuzaklar resmi lafza ve graf unsura dayanır; slayt cümlesi değildir.",
+  "uyari": "Ceza genel ve özel bu kâğıdın asıl kapısı değildir. Evre, tedbir, delil ve kanun yolu yazılır. OBS bağlayıcıdır."
+}

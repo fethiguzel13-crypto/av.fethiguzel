@@ -72,4 +72,7 @@ Curated omurga (TBK genel + AÜHF dogmatik gelenek): kaynaklar → kuruluş (ica
 | borclar-genel-donem-2 | curated (graf+örtü) | 2026-08-26 |
 | borclar-genel-yillik | curated (graf+örtü) | 2026-08-26 |
 | hukuka-giris | curated | 2026-08-05 |
+| medeni-baslangic-donem-1 | curated (graf+örtü+NotebookLM) | 2026-09-11 |
+| medeni-baslangic-donem-2 | curated (graf+örtü+NotebookLM) | 2026-09-11 |
+| medeni-baslangic-yillik | curated (graf+örtü+NotebookLM) | 2026-09-11 |
 | diğer ankara__* | template/premium (taslak) | — |

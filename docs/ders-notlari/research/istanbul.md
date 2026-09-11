@@ -2,7 +2,8 @@
 
 **Slug:** `istanbul`  
 **Son tarama:** 2026-08-26  
-**Kaynak:** EBS müfredat + kamuya açık güz ders programı PDF (slayt yok)
+**Kaynak:** EBS müfredat + kamuya açık güz ders programı PDF (slayt yok)  
+**Durum:** borçlar-genel üçlüsü curated (graf+örtü+NotebookLM, 2026-09-11)
 
 ## Kimlik
 

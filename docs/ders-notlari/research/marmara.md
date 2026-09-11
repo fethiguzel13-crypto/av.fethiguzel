@@ -2,7 +2,8 @@
 
 **Slug:** `marmara`  
 **Son tarama:** 2026-08-26  
-**Kaynak:** MEOBS HUK201 + fakülte ders içerikleri sayfası
+**Kaynak:** MEOBS HUK201 + fakülte ders içerikleri sayfası  
+**Durum:** borçlar-genel üçlüsü curated (graf+örtü+NotebookLM, 2026-09-11)
 
 ## Kimlik
 

@@ -2,7 +2,8 @@
 
 **Slug:** `bilkent`  
 **Son tarama:** 2026-08-26  
-**Kaynak:** law.bilkent.edu.tr
+**Kaynak:** law.bilkent.edu.tr  
+**Durum:** borçlar-genel üçlüsü curated (graf+örtü+NotebookLM, 2026-09-11)
 
 ## Kimlik
 

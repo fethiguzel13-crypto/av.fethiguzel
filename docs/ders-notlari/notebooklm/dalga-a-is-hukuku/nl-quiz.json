@@ -1,0 +1,82 @@
+{
+  "intro": "Sınav puanı sloganı yazmaktan değil fesih kapısını ayırmaktan düşer. Aşağıdaki tuzaklar resmi lafza ve graf unsura dayanır; slayt cümlesi değildir.",
+  "uyari": "TBK hizmeti (m.393) bu kâğıdın asıl kapısı değildir. 4857 kapsamı, fesih türü ve 1475 m.14 yazılır. OBS bağlayıcıdır.",
+  "guz": [
+    "İş sözleşmesinin tanımı ile şekli karıştırılmamalıdır; işçi bağımlı işgörür, işveren ücret öder ve kural olarak özel şekil aranmaz, süresi bir yıl ve daha fazla olan sözleşmeler yazılı yapılır (İşK m.8). Asıl işveren-alt işveren ilişkisinde asıl işveren alt işverenin işçilerine karşı o işyeriyle ilgili yükümlülüklerden birlikte sorumludur; muvazaada işçiler başlangıçtan itibaren asıl işverenin işçisi sayılır (İşK m.2).",
+    "Belirli süre ile belirsiz süre karıştırılmamalıdır; süreye bağlı olmayan ilişki belirsiz sürelidir, belirli süre ancak objektif koşula bağlı yazılı sözleşmede kurulur ve esaslı neden olmadıkça zincirleme belirli süre baştan belirsiz sayılır (İşK m.11).",
+    "Süreli fesih, iş güvencesi ve haklı fesih karıştırılmamalıdır; belirsiz süreli sözleşmede bildirim süreleri kıdeme göre iki ila sekiz haftadır ve uymayan taraf süre ücretini tazminat olarak öder (İşK m.17) oysa otuz veya daha fazla işçili işyerinde en az altı aylık kıdemli belirsiz süreli işçide geçerli sebep aranır (İşK m.18) ve işveren 25/II şartları saklı kalmak üzere davranış/verim feshinde savunma almadan feshedemez (İşK m.19)."
+  ],
+  "bahar": [
+    "İhbar ile kıdem karıştırılmamalıdır; ihbar, belirsiz süreli sözleşmede bildirim süresine uyulmamanın karşılığıdır (İşK m.17) oysa kıdem tazminatı 1475 s. m.14'te sayılan sona erme hâllerinde her tam yıl için 30 günlük ücret tutarında doğar ve her istifada kendiliğinden doğmaz.",
+    "Fazla çalışma ile fazla sürelerle çalışma karıştırılmamalıdır; fazla çalışma haftalık kırkbeş saati aşan çalışmadır ve saat ücreti yüzde elli zamlıdır, sözleşmeyle kırkbeş saatin altında belirlenen süreyi aşıp kırkbeş saate kadar olan kısım fazla sürelerle çalışmadır ve yüzde yirmibeş zamlıdır; işçi onayı gerekir, yıllık üst sınır ikiyüz yetmiş saattir (İşK m.41).",
+    "İşverenin İSGK m.4 genel yükümlülüğü uzman kişi veya kuruluştan hizmet alınmasıyla düşmez; risk değerlendirmesi işverenin borcudur (İSGK m.10) ve tedbir maliyeti çalışana yansıtılamaz."
+  ],
+  "mcq": {
+    "is-sozlesmesi": {
+      "q": "4857 sayılı İş Kanunu m.8 ve m.2 uyarınca iş sözleşmesi ve asıl işveren-alt işveren ilişkisi hakkında hangisi doğrudur?",
+      "choices": [
+        "İş sözleşmesi her durumda noter şekline bağlıdır; alt işveren asıl işverenin yerine geçer.",
+        "İş sözleşmesi kural olarak özel şekle tabi değildir; süresi bir yıl ve daha fazla olanlar yazılı yapılır. Asıl işveren, alt işverenin işçilerine karşı o işyeriyle ilgili yükümlülüklerden birlikte sorumludur.",
+        "Yazılı olmayan iş sözleşmesi kesin hükümsüzdür.",
+        "Asıl iş serbestçe bölünüp alt işverenlere verilebilir; muvazaa yaptırımı yoktur."
+      ],
+      "answer": 1,
+      "reason": "İşK m.8 kural olarak şekilsizliği ve bir yıllık yazılı şekli koyar. m.2 asıl-alt işveren müteselsil sorumluluğunu ve muvazaada asıl işveren işçiliği sayılmasını düzenler."
+    },
+    "sure-tur": {
+      "q": "İşK m.11 uyarınca belirli süreli iş sözleşmesi hakkında hangisi doğrudur?",
+      "choices": [
+        "İşveren dilediği her işte belirli süreli sözleşme yapabilir; yenileme belirsiz süreye dönüşmez.",
+        "Belirli süreli sözleşme objektif koşullara bağlı olarak yazılı yapılır; esaslı neden olmadıkça zincirleme yenileme sözleşmeyi baştan belirsiz süreli kılar.",
+        "Belirli süreli sözleşme yalnız sözlü kurulur.",
+        "Belirsiz süreli sayılma için işçinin ayrıca dava açması şarttır, kanun kendiliğinden dönüştürmez."
+      ],
+      "answer": 1,
+      "reason": "İşK m.11 objektif koşul, yazılılık ve esaslı nedensiz zincirlemenin baştan belirsiz sayılmasını emreder."
+    },
+    "fesih": {
+      "q": "İşK m.18-21 uyarınca iş güvencesi hakkında hangisi doğrudur?",
+      "choices": [
+        "Her işçinin feshinde geçerli sebep aranır, işyeri büyüklüğü ve kıdem şartı yoktur.",
+        "Otuz veya daha fazla işçili işyerinde en az altı aylık kıdemi olan belirsiz süreli işçinin feshinde geçerli sebep aranır; işçi fesih bildiriminin tebliğinden itibaren bir ay içinde işe iade talebiyle arabulucuya başvurmak zorundadır.",
+        "İşe iade davası doğrudan mahkemede açılır, arabuluculuk yoktur.",
+        "Geçerli sebep ispatı işçiye aittir."
+      ],
+      "answer": 1,
+      "reason": "İşK m.18 eşik ve geçerli sebebi, m.20 bir aylık arabuluculuk başvurusunu ve ispatın işverende olduğunu düzenler."
+    },
+    "kidem-ihbar": {
+      "q": "İhbar tazminatı ile kıdem tazminatı ayrımı hakkında hangisi doğrudur?",
+      "choices": [
+        "İkisi de her feshin zorunlu sonucudur; istifa da kıdem doğurur.",
+        "İhbar, belirsiz süreli sözleşmede bildirim süresine uyulmamanın karşılığıdır (İşK m.17). Kıdem, 1475 s. m.14'te sayılan sona erme hâllerinde her tam yıl için 30 günlük ücret tutarında doğar.",
+        "Kıdem tazminatı 4857 m.17'dedir; 1475 yürürlükten kalkmıştır.",
+        "İhbar tazminatı yalnız haklı feshin sonucudur."
+      ],
+      "answer": 1,
+      "reason": "İşK m.17 bildirim süreleri ve uyulmamanın tazminatını, 1475 m.14 kıdemin hâllerini ve 30 günlük esası koyar. 1475 m.14 hâlâ yürürlüktedir."
+    },
+    "ucret-sure": {
+      "q": "İşK m.41 uyarınca fazla çalışma hakkında hangisi doğrudur?",
+      "choices": [
+        "Fazla çalışma onayı aranmaz ve yıllık sınırı yoktur.",
+        "Fazla çalışma haftalık kırkbeş saati aşan çalışmadır, saat ücreti yüzde elli zamlıdır; işçi onayı gerekir ve yıllık süre ikiyüz yetmiş saati aşamaz.",
+        "Sözleşmeyle kırkbeş saatin altında belirlenen süreyi aşan her saat yüzde elli zamlı fazla çalışmadır.",
+        "Fazla çalışmada serbest zaman seçeneği yoktur, yalnız zamlı ücret ödenir."
+      ],
+      "answer": 1,
+      "reason": "İşK m.41 fazla çalışmayı 45 saat üzeri ve %50 zam olarak, fazla sürelerle çalışmayı %25 zam olarak, onayı ve 270 saat tavanını düzenler."
+    },
+    "is-guvenligi": {
+      "q": "6331 sayılı İSGK m.4 uyarınca işverenin genel yükümlülüğü hakkında hangisi doğrudur?",
+      "choices": [
+        "Uzman kişi veya kuruluştan hizmet alınması işverenin sorumluluğunu ortadan kaldırır.",
+        "İşveren çalışanların işle ilgili sağlık ve güvenliğini sağlamakla yükümlüdür; dışarıdan hizmet alınması sorumluluğu kaldırmaz ve tedbir maliyeti çalışana yansıtılamaz.",
+        "Risk değerlendirmesi yalnız elliden fazla işçili işyerlerinde zorunludur.",
+        "Çalışanın İSG yükümlülüğü işverenin sorumluluğunu sona erdirir."
+      ],
+      "answer": 1,
+      "reason": "İSGK m.4/2 dış hizmetin sorumluluğu kaldırmadığını, m.4/3 çalışan yükümlülüğünün işveren sorumluluğunu etkilemediğini, m.4/4 maliyet yasağını koyar. Risk değerlendirmesi m.10'dadır."
+    }
+  }
+}

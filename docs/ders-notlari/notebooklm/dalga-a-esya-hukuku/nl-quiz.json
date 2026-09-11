@@ -1,0 +1,108 @@
+{
+  "guz": [
+    "Zilyetlik fiilî bir hâkimiyet halidir; ayni hak olan mülkiyet hakkından farklı olup mülkiyet iddiası bulunmasa dahi zilyetlik koruma davalarıyla korunabilir.",
+    "Tapu siciline iyiniyetle dayanarak ayni hak kazanan üçüncü kişinin kazanımı korunur (TMK m. 1023); ancak tescilin yolsuz olduğunu bilen veya bilmesi gereken kişiler bu korumadan yararlanamaz (TMK m. 1024).",
+    "Paylı mülkiyette paydaşlar belirli paylara sahiptir ve paylarını devredebilirler; elbirliği mülkiyetinde ise pay yoktur, hak ortaklığa giren malın tamamına yaygındır (TMK m. 688, m. 701).",
+    "Taşınmaz mülkiyetinin devrini amaçlayan sözleşmeler resmi şekilde yapılmadıkça geçersizdir; tescilsiz kazanma halleri (miras, mahkeme kararı vb.) hariç taşınmaz mülkiyeti tescille kazanılır (TMK m. 705, m. 706).",
+    "Paylı mülkiyette olağanüstü yönetim işleri ve malın tamamı üzerinde tasarruf için oybirliği gerekirken (TMK m. 692), önemli yönetim işlerinde hem pay hem paydaş çoğunluğu aranır (TMK m. 691)."
+  ],
+  "bahar": [
+    "İntifa hakkı taşınır, taşınmaz veya haklar üzerinde kurulabilen sınırlı bir ayni haktır (TMK m. 794); kişisel alacak hakkı doğuran kira sözleşmesinden farklı olarak herkese karşı ileri sürülebilir.",
+    "İpotek kurulurken alacak miktarının Türk parası olarak belirli olması veya alacağın üst sınırının gösterilmesi zorunludur (belirlilik ilkesi - TMK m. 851).",
+    "Taşınır rehni kural olarak zilyetliğin alacaklıya devri (teslim) ile kurulur; zilyetlik fiilen yalnız rehnedenin hâkimiyetinde kaldığı sürece rehin hakkı doğmaz (TMK m. 939).",
+    "Taşınmaz rehninde ve mülkiyetinde aleniyet tescil ile sağlandığı halde (TMK m. 705, m. 856), taşınır rehninde aleniyet kural olarak teslimle zilyetlik devri üzerinden gerçekleşir.",
+    "Kat mülkiyetinde bağımsız bölümler üzerinde bağımsız/özel mülkiyet hakkı bulunurken, ortak yerlerde arsa payı oranında ortak mülkiyet esası uygulanır (KMK m. 1, m. 3, m. 16)."
+  ],
+  "mcq": {
+    "zilyetlik": {
+      "q": "Zilyetlik ile mülkiyet hakkı arasındaki farklar ve zilyetliğin korunması davaları hakkında TMK hükümlerine göre aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Zilyetlik bir ayni hak olup, zilyet olan kimse mülkiyet iddiasında bulunmadıkça zilyetlik davalarını açamaz.",
+        "Başkasının zilyet bulunduğu bir şeyi gasbeden kimse, o şey üzerinde üstün bir hakka sahip olduğunu iddia etse bile kural olarak onu geri vermekle yükümlüdür.",
+        "Zilyetlik sadece taşınmazlar üzerinde kurulabilir; taşınırlar üzerinde asli veya fer'i zilyetlik doğmaz.",
+        "Zilyetliği saldırıya uğrayan kimse, saldırıda bulunanın hak iddiası karşısında hiçbir şekilde dava açamaz."
+      ],
+      "answer": 1,
+      "reason": "TMK m. 982 uyarınca zilyetliği gasbeden kimse üstün bir hak iddia etse dahi kural olarak şeyi geri vermekle yükümlüdür. Zilyetlik ayni hak değil fiilî hâkimiyettir."
+    },
+    "tapu": {
+      "q": "Tapu siciline güven ilkesi ve yolsuz tescil kapsamında TMK m. 1023 ve m. 1024 uyarınca aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Yolsuz tescile dayanarak ayni hak kazanan 3. kişinin kazanımı, tescilin yolsuz olduğunu bilse dahi her durumda korunur.",
+        "Bağlayıcı olmayan bir hukukî işleme dayanan veya hukukî sebepten yoksun bulunan tescil yolsuz olup, bunu bilen veya bilmesi gereken 3. kişiler bu tescile dayanamaz.",
+        "Tapu sicilinin tutulmasından doğan zararlardan Devletin hiçbir hukuki sorumluluğu bulunmamaktadır.",
+        "Yolsuz tescil nedeniyle ayni hakkı zedelenen kişi hiçbir zaman tapu sicilinin düzeltilmesi davası açamaz."
+      ],
+      "answer": 1,
+      "reason": "TMK m. 1024 uyarınca bağlayıcı olmayan hukuki işleme dayanan tescil yolsuzdur ve bunu bilen/bilmesi gereken 3. kişiler bu tescile dayanamaz. TMK m. 1023 ise sadece iyiniyetli 3. kişileri korur."
+    },
+    "mulkiyet": {
+      "q": "Mülkiyet hakkının kapsamı (bütünleyici parça/eklenti) ve taşınmaz mülkiyetinin kazanılması ile ilgili hangisi doğrudur?",
+      "choices": [
+        "Malik, asıl şeyin bütünleyici parçalarına malik olamaz; bütünleyici parçalar bağımsız mülkiyete konudur.",
+        "Taşınmaz mülkiyetinin devrini amaçlayan sözleşmelerin geçerliliği resmi şekilde düzenlenmiş olmalarına bağlıdır.",
+        "Miras veya mahkeme kararıyla taşınmaz mülkiyetinin kazanılması için mutlaka tescilin tamamlanması şarttır; tescilden önce mülkiyet kazanılamaz.",
+        "Mülkiyet hakkı malike sadece kullanma yetkisi verir; yararlanma ve tasarruf yetkisi sınırlı ayni hak sahiplerindedir."
+      ],
+      "answer": 1,
+      "reason": "TMK m. 706 uyarınca taşınmaz mülkiyetinin devrini amaçlayan sözleşmeler resmi şekilde yapılmalıdır. Bütünleyici parça asıl şeyin mülkiyetine tabidir (TMK m. 684) ve miras/mahkeme kararı ile mülkiyet tescilden önce kazanılır (TMK m. 705)."
+    },
+    "payli-mulkiyet": {
+      "q": "Paylı mülkiyet ve elbirliği mülkiyeti ayrımı ile paylı mülkiyette yönetim kuralları hakkında aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Elbirliği mülkiyetinde her bir paydaşın pay oranı tapu kütüğünde açıkça gösterilir ve pay rehnedilebilir.",
+        "Paylı malın tamamı üzerinde tasarruf işlemleri yapılması, aksi kararlaştırılmadıkça bütün paydaşların kabulüne (oybirliğine) bağlıdır.",
+        "Paylı mülkiyette önemli yönetim işleri için sadece sayıca paydaş çoğunluğu yeterli olup pay çoğunluğuna bakılmaz.",
+        "Paylı mülkiyet konusu taşınmazda paylaşmayı isteme hakkı sözleşmeyle süresiz olarak tamamen kaldırılabilir."
+      ],
+      "answer": 1,
+      "reason": "TMK m. 692 uyarınca paylı malın tamamı üzerinde tasarruf oybirliği gerektirir. Elbirliği mülkiyetinde belirli pay yoktur (TMK m. 701). Önemli yönetim işlerinde hem pay hem paydaş çoğunluğu aranır (TMK m. 691)."
+    },
+    "irtifak": {
+      "q": "İrtifak hakları, intifa hakkı ve oturma hakkı kurallarına ilişkin aşağıdakilerden hangisi kanuni lafza uygundur?",
+      "choices": [
+        "Yapma borçları taşınmaz lehine irtifak hakkına tek başına ve başlı başına konu oluşturabilir.",
+        "İntifa hakkı sadece taşınmazlar üzerinde kurulabilir; taşınırlar veya haklar üzerinde intifa tesisi imkansızdır.",
+        "Oturma hakkı bir binadan veya onun bir bölümünden konut olarak yararlanma yetkisi verir; başkasına devredilemez ve mirasçılara geçmez.",
+        "İrtifak hakkının kurulması için tapu kütüğüne tescil zorunluluğu yoktur."
+      ],
+      "answer": 2,
+      "reason": "TMK m. 823 gereğince oturma hakkı konut olarak yararlanma yetkisi verir, devredilemez ve mirasçılara geçmez. TMK m. 779'a göre yapma borçları başlı başına irtifak konusu olamaz; TMK m. 780 gereğince tescil şarttır."
+    },
+    "ipotek": {
+      "q": "Taşınmaz rehni ve ipotekte alacağın güvence altına alınması ve belirlilik ilkesi hakkında aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Henüz doğmamış veya doğması olası alacaklar hiçbir şekilde ipotekle güvence altına alınamaz.",
+        "Taşınmaz rehni, miktarı Türk parası ile gösterilen belli bir alacak için kurulabilir; miktar belli değilse alacaklının istemlerini karşılayacak üst sınır belirtilir.",
+        "İpotek konusu taşınmazın mutlaka asıl borçlunun mülkiyetinde bulunması şarttır; üçüncü kişinin taşınmazı ipotek edilemez.",
+        "İpotekli taşınmazın devri durumunda borçlu derhal ve kendiliğinden borcundan kurtulur."
+      ],
+      "answer": 1,
+      "reason": "TMK m. 851 (belirlilik ilkesi) uyarınca rehin tutarı Türk parası olarak veya miktar belirsizse üst sınır gösterilerek kurulur. TMK m. 881 uyarınca henüz doğmamış alacaklar için de ipotek kurulabilir ve taşınmazın borçlunun mülkiyetinde olması gerekmez."
+    },
+    "tasinir-rehin": {
+      "q": "Taşınır rehni ilkeleri ve zilyetliğin devri koşulları hususunda aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Taşınırlar fiilen yalnız rehnedenin hâkimiyetinde kaldığı sürece de teslime bağlı rehin hakkı geçerli olarak doğar.",
+        "Kanunda öngörülen ayrık durumlar dışında taşınırlar, ancak zilyetliğin alacaklıya devri (teslim) suretiyle rehnedilebilir.",
+        "Zilyetlik devredilmeden hiçbir taşınır mal veya hayvan üzerinde rehin kurulması mümkün değildir.",
+        "Hapis hakkının kullanılması için borcun muaccel olması şartı aranmaz."
+      ],
+      "answer": 1,
+      "reason": "TMK m. 939 uyarınca kanuni ayrık durumlar dışında taşınır rehni zilyetliğin alacaklıya devri ile kurulur; taşınır fiilen yalnız rehnedende kaldıkça rehin doğmaz. TMK m. 940 sicilli taşınır/hayvan rehni istisnalarını düzenler."
+    },
+    "kat-mulkiyeti": {
+      "q": "Kat Mülkiyeti Kanunu çerçevesinde bağımsız bölümler ve ortak yerler rejimine ilişkin aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Kat mülkiyeti, anagayrimenkulün bağımsız bölümleri üzerinde bağımsız mülkiyet hakkı; ortak yerlerde ise arsa payı oranında ortak mülkiyet hakkı sağlar.",
+        "Kat malikleri kendi bağımsız bölümünü kullanmadıklarını beyan ederek genel gider payını ödemekten kaçınabilirler.",
+        "Kat mülkiyetinde ortak yerler üzerinde kat maliklerinin hiçbir ortak mülkiyet veya kullanma hakkı yoktur.",
+        "Bir kat maliki, diğer kat maliklerinin rızası olmaksızın ortak yerlerde dilediği inşaat ve dış badana değişikliğini yapabilir."
+      ],
+      "answer": 0,
+      "reason": "KMK m. 1, m. 2, m. 3 ve m. 16 maddelerine göre kat mülkiyeti bağımsız bölümlerde özel mülkiyet, ortak yerlerde arsa payı oranında ortak mülkiyet kurar. KMK m. 20/c uyarınca faydalanmama gerekçe gösterilerek avans/gider ödemekten kaçınılamaz."
+    }
+  },
+  "intro": "Kâğıdın ilk cümlesinde zilyetlik mi mülkiyet mi olduğunu yazın. Tuzaklar TMK/KMK lafzı ve graf unsura dayanır.",
+  "uyari": "Sicile güven ile yolsuz tescil, paylı mülkiyet ile elbirliği, intifa ile kira aynı torbaya konmaz."
+}

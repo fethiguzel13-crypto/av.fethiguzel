@@ -23,6 +23,7 @@
         "irade sakatlıkları",
         "temsil",
         "sözleşmenin hükümsüzlüğü",
+        "genel işlem koşulları",
         "sebepsiz zenginleşme",
         "zamanaşımı"
     ],
@@ -42,5 +43,480 @@
             "url": "https://hukuk.marmara.edu.tr/ogrenci/ders/ders-icerikleri-ve-mufredat",
             "note": "yıllık/dönemlik ayrımı"
         }
-    ]
+    ],
+    "byCourse": {
+        "medeni-baslangic": {
+            "cityHook": "Kadıköy'de on yedi yaşındaki öğrencinin kira imzası ve ehliyet tartışması",
+            "mehaz": "Marmara pratik çalışma hattı; TMK m.1 kapısı önce yazılır",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Teorik + pratik; ara sınav + final (OBS).",
+                "format": "Klasik yazılı + pratik: TMK maddesi + unsur + Göztepe olayı.",
+                "tips": [
+                    "Marmara kâğıdında TMK kapısını (m.1 / m.2 / m.3) ilk cümlede yazın.",
+                    "Boşluk ile takdiri, hak ehliyeti ile fiil ehliyetini karıştırmayın.",
+                    "MEOBS ve fakülte duyurusu bu notun üstündedir."
+                ]
+            },
+            "syllabusOrder": [
+                "uygulama ve kaynaklar",
+                "dürüstlük, iyiniyet, takdir",
+                "ehliyet",
+                "ispat",
+                "kişilik, ad, yerleşim"
+            ],
+            "schoolNotes": [
+                "Marmara pratik çalışmayı teorinin yanına koyar; TMK lafzı bağlar.",
+                "HUK201 borçlar genel ayrı derstir.",
+                "Slayt kopyalanmaz."
+            ]
+        },
+        "ceza-genel": {
+            "cityHook": "Kadıköy'de bir kasten yaralama ve meşru savunma",
+            "mehaz": "Marmara pratik hattı; TCK lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Teorik + pratik; ara sınav + final.",
+                "format": "Klasik yazılı + pratik: TCK maddesi + unsur + Göztepe olayı.",
+                "tips": [
+                    "Marmara kâğıdında tipiklik ve hukuka uygunluk aynı torbada durmaz.",
+                    "Teşebbüste icraya başlamayı yazın.",
+                    "MEOBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "kanunilik",
+                "kast taksir",
+                "hukuka uygunluk",
+                "teşebbüs",
+                "yaptırım"
+            ],
+            "schoolNotes": [
+                "Marmara pratik çalışmayı teorinin yanına koyar.",
+                "HUK201 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "MÜHF ders içerikleri ve müfredat",
+                    "url": "https://hukuk.marmara.edu.tr/ogrenci/ders/ders-icerikleri-ve-mufredat",
+                    "note": "yıllık/dönemlik ayrımı"
+                }
+            ]
+        },
+        "medeni-usul": {
+            "cityHook": "Kadıköy'de bir kira davasının dilekçe ve ıslah tartışması",
+            "mehaz": "Marmara pratik hattı; HMK lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Teorik + pratik; ara sınav + final.",
+                "format": "Klasik yazılı + pratik: HMK maddesi + unsur + Göztepe olayı.",
+                "tips": [
+                    "Marmara kâğıdında dilekçe unsurunu vakıaya bağlayın.",
+                    "Islah ile iddianın genişletilmesini karıştırmayın.",
+                    "MEOBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "görev",
+                "yetki",
+                "dilekçe",
+                "tahkikat",
+                "hüküm"
+            ],
+            "schoolNotes": [
+                "Marmara pratik çalışmayı teorinin yanına koyar.",
+                "HUK201 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "MÜHF ders içerikleri ve müfredat",
+                    "url": "https://hukuk.marmara.edu.tr/ogrenci/ders/ders-icerikleri-ve-mufredat",
+                    "note": "yıllık/dönemlik ayrımı"
+                }
+            ]
+        },
+        "esya-hukuku": {
+            "cityHook": "Kadıköy'de kat karşılığı inşaat ve kat mülkiyeti",
+            "mehaz": "Marmara pratik hattı; TMK ve KMK lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TMK maddesi + ayni hak unsuru + olaya yedirme.",
+                "tips": [
+                    "Marmara kâğıdında kat mülkiyeti ile paylı mülkiyeti ayırın.",
+                    "İpotek belirliliğini yazın.",
+                    "MEOBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "zilyetlik",
+                "tapu",
+                "mülkiyet",
+                "paylı mülkiyet",
+                "irtifak",
+                "ipotek",
+                "taşınır rehni",
+                "kat mülkiyeti"
+            ],
+            "schoolNotes": [
+                "Marmara pratik çalışmayı teorinin yanına koyar.",
+                "HUK201 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "MÜHF ders içerikleri ve müfredat",
+                    "url": "https://hukuk.marmara.edu.tr/ogrenci/ders/ders-icerikleri-ve-mufredat",
+                    "note": "yıllık/dönemlik ayrımı"
+                }
+            ]
+        },
+        "icra-iflas": {
+            "cityHook": "Kadıköy'de kat karşılığı alacak ve sıra cetveli",
+            "mehaz": "Marmara pratik hattı; İİK lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: İİK maddesi + takip yolu + olaya yedirme.",
+                "tips": [
+                    "Marmara kâğıdında satış talebi ile haczi ayırın.",
+                    "Aciz vesikası ile sıra cetvelini karıştırmayın.",
+                    "MEOBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "ilamlı icra",
+                "ilamsız takip",
+                "itiraz",
+                "haciz",
+                "istihkak",
+                "cebri satış",
+                "sıra cetveli",
+                "iflas"
+            ],
+            "schoolNotes": [
+                "Marmara pratik çalışmayı teorinin yanına koyar.",
+                "HUK201 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "MÜHF ders içerikleri ve müfredat",
+                    "url": "https://hukuk.marmara.edu.tr/ogrenci/ders/ders-icerikleri-ve-mufredat",
+                    "note": "yıllık/dönemlik ayrımı"
+                }
+            ]
+        },
+        "aile-hukuku": {
+            "cityHook": "Kadıköy'de katılma alacağı ve ev eşyası",
+            "mehaz": "Marmara pratik hattı; TMK aile lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TMK maddesi + aile kurumu + olaya yedirme.",
+                "tips": [
+                    "Marmara kâğıdında edinilmiş mal ile kişisel malı ayırın.",
+                    "Velayet ile nafakayı aynı torbaya koymayın.",
+                    "MEOBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "nişan",
+                "evlenme",
+                "butlan",
+                "boşanma",
+                "mal rejimi",
+                "velayet",
+                "nafaka"
+            ],
+            "schoolNotes": [
+                "Marmara pratik çalışmayı teorinin yanına koyar.",
+                "HUK201 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "MÜHF ders içerikleri ve müfredat",
+                    "url": "https://hukuk.marmara.edu.tr/ogrenci/ders/ders-icerikleri-ve-mufredat",
+                    "note": "yıllık/dönemlik ayrımı"
+                }
+            ]
+        },
+        "miras-hukuku": {
+            "cityHook": "Kadıköy'de tereke paylaşması ve elbirliği",
+            "mehaz": "Marmara pratik hattı; TMK miras lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TMK maddesi + miras kurumu + olaya yedirme.",
+                "tips": [
+                    "Marmara kâğıdında tereke ile kişisel malı ayırın.",
+                    "Ret süresini tenkis süresine karıştırmayın.",
+                    "MEOBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "yasal mirasçılık",
+                "saklı pay",
+                "ölüme bağlı tasarruf",
+                "miras sözleşmesi",
+                "iptal",
+                "tenkis",
+                "ret",
+                "tereke paylaşma"
+            ],
+            "schoolNotes": [
+                "Marmara pratik çalışmayı teorinin yanına koyar.",
+                "HUK201 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "MÜHF ders içerikleri ve müfredat",
+                    "url": "https://hukuk.marmara.edu.tr/ogrenci/ders/ders-icerikleri-ve-mufredat",
+                    "note": "yıllık/dönemlik ayrımı"
+                }
+            ]
+        },
+        "borclar-ozel": {
+            "cityHook": "Kadıköy'de kat karşılığı inşaat ve eser ayıbı",
+            "mehaz": "Marmara pratik hattı; TBK özel sözleşme lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TBK maddesi + sözleşme türü + olaya yedirme.",
+                "tips": [
+                    "Marmara kâğıdında eseri satıştan, kirayı ödünçten ayırın.",
+                    "Götürü bedel ile yaklaşık bedeli karıştırmayın.",
+                    "MEOBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "satış",
+                "bağışlama",
+                "kira",
+                "eser",
+                "hizmet",
+                "vekâlet",
+                "kefalet",
+                "ödünç"
+            ],
+            "schoolNotes": [
+                "Marmara pratik çalışmayı teorinin yanına koyar.",
+                "HUK201 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "MEOBS HUK201 Borçlar Genel Hukuku I",
+                    "url": "https://meobs.marmara.edu.tr/Ders/borclar-genel-hukuku-i/huk201-9675-51",
+                    "note": "haftalık başlık omurgası; slayt yok"
+                },
+                {
+                    "title": "MÜHF ders içerikleri ve müfredat",
+                    "url": "https://hukuk.marmara.edu.tr/ogrenci/ders/ders-icerikleri-ve-mufredat",
+                    "note": "yıllık/dönemlik ayrımı"
+                }
+            ]
+        },
+        "is-hukuku": {
+            "cityHook": "Kadıköy'de bir çağrı üzerine çalışma ve ücret",
+            "mehaz": "Marmara pratik hattı; 4857 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: 4857 maddesi + fesih türü + olaya yedirme.",
+                "tips": [
+                    "Marmara kâğıdında belirli süreyi belirsiz süreden ayırın.",
+                    "Fazla çalışma onayını yıllık izinle karıştırmayın.",
+                    "MEOBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "iş sözleşmesi",
+                "süre ve tür",
+                "fesih",
+                "kıdem ve ihbar",
+                "ücret ve süre",
+                "iş sağlığı"
+            ],
+            "schoolNotes": [
+                "Marmara pratik çalışmayı teorinin yanına koyar.",
+                "HUK201 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "MÜHF ders içerikleri ve müfredat",
+                    "url": "https://hukuk.marmara.edu.tr/ogrenci/ders/ders-icerikleri-ve-mufredat",
+                    "note": "yıllık/dönemlik ayrımı"
+                }
+            ]
+        },
+        "ceza-ozel": {
+            "cityHook": "Kadıköy'de bir zimmet ve kamu görevi",
+            "mehaz": "Marmara pratik hattı; TCK özel lafız bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TCK maddesi + suç tipi + olaya yedirme.",
+                "tips": [
+                    "Marmara kâğıdında zimmeti görevi kötüye kullanmadan ayırın.",
+                    "Nitelikli öldürmeyi temel tipi ile karıştırmayın.",
+                    "MEOBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "kasten öldürme",
+                "kasten yaralama",
+                "hakaret",
+                "hırsızlık",
+                "dolandırıcılık",
+                "uyuşturucu",
+                "zimmet",
+                "görevi kötüye kullanma"
+            ],
+            "schoolNotes": [
+                "Marmara pratik çalışmayı teorinin yanına koyar.",
+                "HUK201 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "MÜHF ders içerikleri ve müfredat",
+                    "url": "https://hukuk.marmara.edu.tr/ogrenci/ders/ders-icerikleri-ve-mufredat",
+                    "note": "yıllık/dönemlik ayrımı"
+                }
+            ]
+        },
+        "ticari-isletme": {
+            "cityHook": "Kadıköy'de bir unvan ve haksız rekabet",
+            "mehaz": "Marmara pratik hattı; TTK birinci kitap lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + tacir/işletme kapısı + olaya yedirme.",
+                "tips": [
+                    "Marmara kâğıdında unvanı markadan, sicili tapudan ayırın.",
+                    "Basiretli iş adamı özenini TBK m.2 ile karıştırmayın.",
+                    "MEOBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "ticari iş",
+                "ticari işletme",
+                "tacir",
+                "sicil",
+                "unvan",
+                "haksız rekabet",
+                "basiret ve temsil"
+            ],
+            "schoolNotes": [
+                "Marmara pratik çalışmayı teorinin yanına koyar.",
+                "HUK201 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "MÜHF ders içerikleri ve müfredat",
+                    "url": "https://hukuk.marmara.edu.tr/ogrenci/ders/ders-icerikleri-ve-mufredat",
+                    "note": "yıllık/dönemlik ayrımı"
+                }
+            ]
+        },
+        "ticaret-sirketler": {
+            "cityHook": "Kadıköy'de kat karşılığı AŞ ve organ çatışması",
+            "mehaz": "Marmara pratik hattı; TTK şirketler lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + şirket türü + olaya yedirme.",
+                "tips": [
+                    "Marmara kâğıdında genel kurul ile yönetim kurulunu ayırın.",
+                    "Limited tek ortaklılığı kollektifle karıştırmayın.",
+                    "MEOBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "ticaret şirketleri",
+                "kollektif-komandit",
+                "anonim",
+                "organlar",
+                "sermaye-pay",
+                "limited",
+                "sona erme"
+            ],
+            "schoolNotes": [
+                "Marmara pratik çalışmayı teorinin yanına koyar.",
+                "HUK201 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "MÜHF ders içerikleri ve müfredat",
+                    "url": "https://hukuk.marmara.edu.tr/ogrenci/ders/ders-icerikleri-ve-mufredat",
+                    "note": "yıllık/dönemlik ayrımı"
+                }
+            ]
+        },
+        "ceza-muhakemesi": {
+            "cityHook": "Kadıköy'de bir müdafi ve sorgu",
+            "mehaz": "Marmara pratik hattı; CMK lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: CMK maddesi + evre + olaya yedirme.",
+                "tips": [
+                    "Marmara kâğıdında ifadeyi sorgudan ayırın.",
+                    "Tutuklama nedenini yakalama ile karıştırmayın.",
+                    "MEOBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "soruşturma",
+                "koruma tedbirleri",
+                "ifade ve sorgu",
+                "kovuşturma",
+                "delil",
+                "hüküm ve kanun yolu"
+            ],
+            "schoolNotes": [
+                "Marmara pratik çalışmayı teorinin yanına koyar.",
+                "HUK201 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "MÜHF ders içerikleri ve müfredat",
+                    "url": "https://hukuk.marmara.edu.tr/ogrenci/ders/ders-icerikleri-ve-mufredat",
+                    "note": "yıllık/dönemlik ayrımı"
+                }
+            ]
+        },
+        "kiymetli-evrak": {
+            "cityHook": "Kadıköy'de bir emre yazılı senet ve aval",
+            "mehaz": "Marmara pratik hattı; TTK kıymetli evrak lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + senet türü + olaya yedirme.",
+                "tips": [
+                    "Marmara kâğıdında bonoyu poliçeden ayırın.",
+                    "Karşılıksız çeki TTK unsur eksikliği ile karıştırmayın.",
+                    "MEOBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "kıymetli evrak",
+                "poliçe",
+                "bono",
+                "ciro",
+                "çek",
+                "def'i",
+                "başvuru",
+                "karşılıksız çek"
+            ],
+            "schoolNotes": [
+                "Marmara pratik çalışmayı teorinin yanına koyar.",
+                "HUK201 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "MÜHF ders içerikleri ve müfredat",
+                    "url": "https://hukuk.marmara.edu.tr/ogrenci/ders/ders-icerikleri-ve-mufredat",
+                    "note": "yıllık/dönemlik ayrımı"
+                }
+            ]
+        }
+    }
 }

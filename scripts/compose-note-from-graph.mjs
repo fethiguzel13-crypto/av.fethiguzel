@@ -157,6 +157,19 @@ function kanunLabel(id) {
     return KANUN_LABEL[String(id || '').toLowerCase()] || String(id || '').toUpperCase();
 }
 
+function overlayForCourse(base, courseCode) {
+    const extra = base?.byCourse?.[courseCode];
+    if (!extra) return base;
+    return {
+        ...base,
+        ...extra,
+        examBox: { ...(base.examBox || {}), ...(extra.examBox || {}) },
+        syllabusOrder: extra.syllabusOrder || base.syllabusOrder,
+        schoolNotes: extra.schoolNotes || base.schoolNotes,
+        sources: extra.sources || base.sources,
+    };
+}
+
 function voiceOf(overlay, uni) {
     return {
         campus: overlay.campus || uni.city,
@@ -625,7 +638,7 @@ function composeOne(uniSlug, courseCode, skipIndex = false) {
     if (!existsSync(graphPath)) throw new Error(`graf yok: ${courseCode}`);
     if (!existsSync(overlayPath)) throw new Error(`örtü yok: ${uniSlug}`);
     const graph = loadJson(graphPath);
-    const overlay = loadJson(overlayPath);
+    const overlay = overlayForCourse(loadJson(overlayPath), courseCode);
     const uni = loadUni(uniSlug);
     const ragStore = getRagStore();
     const notesDir = join(ROOT, 'lib/ders-notlari/generated/notes');

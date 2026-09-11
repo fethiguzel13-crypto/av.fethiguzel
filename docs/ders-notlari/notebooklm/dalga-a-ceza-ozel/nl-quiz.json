@@ -1,0 +1,105 @@
+{
+  "intro": "Sınav puanı sloganı yazmaktan değil suç tipini ayırmaktan düşer. Aşağıdaki tuzaklar resmi lafza ve graf unsura dayanır; slayt cümlesi değildir.",
+  "uyari": "Ceza genel (tipiklik, kanunilik) bu kâğıdın asıl kapısı değildir. Tip, nitelikli hâl ve netice yazılır. OBS bağlayıcıdır.",
+  "guz": [
+    "Kasten öldürmenin temel tipi ile nitelikli hâlleri ve ihmali işlenişi karıştırılmamalıdır; bir insanı kasten öldüren müebbet hapis ile cezalandırılır (TCK m.81), tasarlamanın, canavarca his veya eziyetin, üstsoy-altsoy-eş-kardeşin, çocuğun, kadına karşı işlenmenin ve töre/kan gütme saikinin varlığı ağırlaştırılmış müebbet getirir (TCK m.82) oysa ihmali davranışta yükümlülük ihmalinin icrai davranışa eşdeğer olması aranır (TCK m.83).",
+    "Kasten yaralama ile neticesi sebebiyle ağırlaşmış yaralama karıştırılmamalıdır; kasten başkasının vücuduna acı veren veya sağlığını bozan kişi m.86/1'e girer, basit tıbbi müdahaleyle giderilebilecek hafiflikte şikâyet aranır (m.86/2) oysa duyunun sürekli zayıflaması, yüzde sabit iz veya yaşamı tehlikeye sokma m.87 ile cezayı artırır.",
+    "Hakaret, somut fiil veya olgu isnadı ya da sövmek suretiyle onur, şeref ve saygınlığa saldırıdır; gıyapta cezalandırma en az üç kişiyle ihtilatı ister (TCK m.125). Sövme kırması ayrı bir suç tipi değil aynı maddenin ikinci seçeneğidir.",
+    "Hırsızlık zilyedin rızası olmadan başkasına ait taşınır malı yarar sağlamak maksadıyla bulunduğu yerden almaktır (TCK m.141); nitelikli hâller m.142'dedir. Rıza ve taşınır unsuru dolandırıcılıktaki hileli aldatmadan ayırır."
+  ],
+  "bahar": [
+    "Dolandırıcılık hileli davranışlarla bir kimseyi aldatıp zararına yarar sağlamaktır (TCK m.157); hırsızlıktaki rızasız alma burada yoktur, mağdur hileyle rıza gösterir. Nitelikli dolandırıcılık m.158'dedir.",
+    "Uyuşturucu imal ve ticareti (TCK m.188) ile kullanmak için satın alma, kabul, bulundurma veya kullanma (TCK m.191) karıştırılmamalıdır; birincisi imal-ithal-ihraç ve ticarettir, ikincisi kullanma maksadına bağlı kişisel fiildir.",
+    "Zimmet, kamu görevlisinin görevi nedeniyle zilyetliğindeki veya korumakla yükümlü olduğu malı kendisinin veya başkasının zimmetine geçirmesidir (TCK m.247); görevi kötüye kullanma ise kanunda ayrıca suç olarak tanımlanan hâller dışında görevin gereklerine aykırı hareket veya ihmal ile mağduriyet, kamu zararı ya da haksız menfaat doğurur (TCK m.257). Zimmet özel, 257 genel ve tali tiptir."
+  ],
+  "mcq": {
+    "kasten-oldurme": {
+      "q": "TCK m.81 ve m.82 uyarınca kasten öldürme hakkında hangisi doğrudur?",
+      "choices": [
+        "Temel tip ile nitelikli hâl aynı cezayı doğurur.",
+        "Temel tipte müebbet hapis vardır; tasarlayarak, üstsoy-altsoy-eş veya kardeşe, çocuğa ya da kadına karşı işlenmesi ağırlaştırılmış müebbet hapis gerektirir.",
+        "İhmali öldürme her zaman m.81'in temel tipine girer, eşdeğerlik aranmaz.",
+        "Töre saiki nitelikli hâl değildir."
+      ],
+      "answer": 1,
+      "reason": "TCK m.81 müebbet, m.82 nitelikli hâllerde ağırlaştırılmış müebbet öngörür. İhmali işleniş m.83'te eşdeğerlik ister."
+    },
+    "kasten-yaralama": {
+      "q": "TCK m.86 ve m.87 uyarınca kasten yaralama hakkında hangisi doğrudur?",
+      "choices": [
+        "Basit tıbbi müdahaleyle giderilebilecek yaralama da resen kovuşturulur, şikâyet aranmaz.",
+        "Temel tip m.86/1'dir; fiilin etkisi basit tıbbi müdahaleyle giderilebilecek kadar hafifse şikâyet aranır (m.86/2). Duyunun sürekli zayıflaması, yüzde sabit iz veya yaşamı tehlikeye sokma neticesi sebebiyle ağırlaşmış yaralamadır (m.87).",
+        "Yüzde sabit iz temel tipe girer, ceza artmaz.",
+        "m.87 yalnız ölüm neticesinde uygulanır."
+      ],
+      "answer": 1,
+      "reason": "TCK m.86/2 şikâyeti, m.87 neticesi sebebiyle ağırlaşmayı (işlev zayıflaması, sabit iz, yaşam tehlikesi) düzenler."
+    },
+    "hakaret": {
+      "q": "TCK m.125 uyarınca hakaret hakkında hangisi doğrudur?",
+      "choices": [
+        "Hakaret yalnız yüz yüze sövmekle oluşur; somut olgu isnadı suç değildir.",
+        "Somut fiil veya olgu isnadı ya da sövmek suretiyle onur, şeref ve saygınlığa saldırı yeterlidir; gıyapta cezalandırma en az üç kişiyle ihtilatı ister.",
+        "Gıyapta hakaret her durumda cezalandırılır, ihtilat aranmaz.",
+        "Hakaret yalnız adlî para cezasını gerektirir, hapis yoktur."
+      ],
+      "answer": 1,
+      "reason": "TCK m.125/1 isnat veya sövme seçeneklerini ve gıyapta üç kişilik ihtilatı koyar."
+    },
+    "hirizlik": {
+      "q": "TCK m.141 uyarınca hırsızlık suçunun temel tipi hangisidir?",
+      "choices": [
+        "Hileyle rıza alarak başkasının malvarlığından yarar sağlamak.",
+        "Zilyedinin rızası olmadan başkasına ait taşınır bir malı kendisine veya başkasına yarar sağlamak maksadıyla bulunduğu yerden almak.",
+        "Görevi nedeniyle zilyetliğindeki kamu malını zimmete geçirmek.",
+        "Taşınmazı zilyedin rızası olmadan işgal etmek."
+      ],
+      "answer": 1,
+      "reason": "TCK m.141 rızasızlık, başkasına ait taşınır, yarar maksadı ve yerinden almayı kurucu yapar. Hile dolandırıcılık, zimmet 247'dir."
+    },
+    "dolandiricilik": {
+      "q": "TCK m.157 uyarınca dolandırıcılık hırsızlıktan hangi unsurla ayrılır?",
+      "choices": [
+        "Her iki suçta da rıza yoktur; fark yalnız cezadadır.",
+        "Dolandırıcılıkta hileli davranışlarla aldatma vardır; mağdur hileyle rıza gösterir ve zarar ile yarar doğar.",
+        "Dolandırıcılık yalnız kamu malına karşı işlenir.",
+        "Dolandırıcılıkta taşınır malın yerinden alınması şarttır."
+      ],
+      "answer": 1,
+      "reason": "TCK m.157 hile, aldatma, zarar ve yararı kurar. Hırsızlıktaki rızasız alma burada yoktur."
+    },
+    "uyusturucu": {
+      "q": "TCK m.188 ve m.191 ayrımı hakkında hangisi doğrudur?",
+      "choices": [
+        "Kullanmak için bulundurma da imal ve ticaret suçuna girer.",
+        "Ruhsatsız imal, ithal veya ihraç m.188 ticaret/imal tipidir; kullanmak için satın alma, kabul, bulundurma veya kullanma m.191'dir.",
+        "m.191 yalnız ilk kez kullananlara özgüdür, bulundurma her zaman m.188'dir.",
+        "İki madde aynı fiili düzenler, fark yalnız cezadadır."
+      ],
+      "answer": 1,
+      "reason": "TCK m.188 imal-ithal-ihracı, m.191 kullanma maksadına bağlı kişisel fiili ayırır."
+    },
+    "zimmet": {
+      "q": "TCK m.247 uyarınca zimmet suçunun faili ve konusu hakkında hangisi doğrudur?",
+      "choices": [
+        "Herhangi bir kimse başkasının taşınırını alarak zimmet işler.",
+        "Kamu görevlisi, görevi nedeniyle zilyetliği kendisine devredilmiş veya koruma ve gözetimiyle yükümlü olduğu malı kendisinin veya başkasının zimmetine geçirirse suç oluşur.",
+        "Zimmet yalnız özel sektör muhasebecisine özgüdür.",
+        "Malın geçici kullanılıp iade edilmesi zimmeti ortadan kaldırır, ceza hiç uygulanmaz."
+      ],
+      "answer": 1,
+      "reason": "TCK m.247/1 kamu görevlisi ve görevi nedeniyle zilyetlik/koruma unsurunu koyar. m.247/3 geçici kullanmada indirim öngörür, tipi yok etmez."
+    },
+    "gorevi-kotuye": {
+      "q": "TCK m.257 uyarınca görevi kötüye kullanma hakkında hangisi doğrudur?",
+      "choices": [
+        "Zimmet de dahil her kamu görevlisi suçu m.257'ye girer.",
+        "Kanunda ayrıca suç olarak tanımlanan hâller dışında, görevin gereklerine aykırı hareket veya ihmal ile mağduriyet, kamu zararı ya da haksız menfaat doğuran kamu görevlisi m.257'ye girer.",
+        "m.257 için zarar veya menfaat aranmaz, salt aykırılık yeter.",
+        "İhmal suretiyle işlenen fiil cezalandırılmaz, yalnız icrai aykırılık vardır."
+      ],
+      "answer": 1,
+      "reason": "TCK m.257 tali tiptir: ayrıca tanımlanan suçlar (zimmet gibi) dışındadır. İcrai aykırılık /1, ihmal /2'dedir; mağduriyet, kamu zararı veya haksız menfaat aranır."
+    }
+  }
+}

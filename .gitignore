@@ -62,6 +62,8 @@ logs/
 
 # local build noise
 start-out.txt
+**/__pycache__/
+*.pyc
 
 # Üyelik deposu (şifre hash + e-posta)
 /data/uyelik/store.json

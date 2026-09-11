@@ -1,0 +1,97 @@
+{
+  "guz": [
+    "Nişanlanmanın evlenmeye zorlamak için dava hakkı vermediğinin ve ceza şartının dava edilemeyeceğinin (TMK m.119), evlenmenin bağlayıcı sonuçları ile karıştırılması.",
+    "Mutlak butlan sebeplerinin (evli olma, sürekli ayırt etme yoksunluğu, hısımlık, akıl hastalığı - TMK m.145) nispi butlan sebepleri (yanılma, aldatma, korkutma, geçici ayırt etme yoksunluğu - TMK m.148-149) ile karıştırılması.",
+    "Evlilik birliğinin temelinden sarsılması nedeniyle çekişmeli boşanma (TMK m.166/1) ile en az bir yıl sürmüş evliliklerde aranan ve hâkimin tarafları bizzat dinlemesini gerektiren anlaşmalı boşanmanın (TMK m.166/3) karıştırılması.",
+    "Batıl bir evlenmenin ancak hâkim kararıyla sona ereceği (TMK m.156) gerçeğinin göz ardı edilerek mutlak butlanla batıl evlenmenin kendiliğinden hükümsüz sayılacağının sanılması.",
+    "Kadın için öngörülen 300 günlük bekleme süresinin (TMK m.132) nişanlılık dönemi şartı veya erkek için de geçerli bir evlenme engeli olarak yanlış değerlendirilmesi."
+  ],
+  "bahar": [
+    "Kişisel malın gelirlerinin (TMK m.219/b.4) kişisel mal sanılarak edinilmiş mal grubuna girdiğinin unutulması.",
+    "Manevi tazminat alacaklarının kanun gereğince kişisel mal (TMK m.220/b.3) sayılmasına karşın edinilmiş mal grubuna dahil edilmesi.",
+    "Boşanma veya ayrılık davası süresince hâkimin re'sen aldığı geçici tedbir nafakası (TMK m.169) ile boşanma sonrasında süresiz ödenen yoksulluk nafakasının (TMK m.175) şartlarının karıştırılması.",
+    "Çocuğun bakım borcu olan iştirak nafakası ve velayet hakkının (TMK m.182, m.335) eşe bağlanan yoksulluk nafakası (TMK m.175) ile karıştırılması.",
+    "Velayete sahip ana veya babanın yeniden evlenmesinin velayeti kendiliğinden kaldırmayacağı (TMK m.349) kuralının, evlenmenin otomatik velayeti kaldırma sebebi olduğu algısıyla karıştırılması."
+  ],
+  "mcq": {
+    "nisan": {
+      "q": "TMK m.119 uyarınca, nişanlılık hükümleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "choices": [
+        "Nişanlılık, taraflara evlenmeye zorlamak amacıyla dava açma hakkı verir.",
+        "Nişanlılık evlenmeye zorlamak için dava hakkı vermez; evlenmeden kaçınma hâli için öngörülen cayma tazminatı veya ceza şartı dava edilemez.",
+        "Nişanın bozulmasından doğan dava hakları, sona ermenin üzerinden beş yıl geçmekle zamanaşımına uğrar.",
+        "Nişanlanma, yasal temsilcinin rızası olmasa dahi küçüğü her durumda tam olarak bağlar."
+      ],
+      "answer": 1,
+      "reason": "TMK m.119 uyarınca nişanlılık evlenmeye zorlamak için dava hakkı vermez ve cayma tazminatı dava edilemez. TMK m.123'e göre zamanaşımı bir yıldır, m.118'e göre yasal temsilci rızası yoksa küçüğü bağlamaz."
+    },
+    "evlenme": {
+      "q": "TMK m.124 ve m.142 hükümleri çerçevesinde evlenme ehliyeti ve evlenmenin oluşumu ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Erkek veya kadın 15 yaşını doldurmadıkça olağanüstü durumlarda dahi evlenemez, evlenme dinî törenle oluşur.",
+        "Erkek veya kadın 17 yaşını doldurmadıkça evlenemez; ancak hâkim olağanüstü durumlarda ve pek önemli bir sebeple 16 yaşını doldurmuş olanın evlenmesine izin verebilir.",
+        "Evlenme töreni gizli yapılır ve dinî tören yapılmadan evlenme hukuken geçerlilik kazanmaz.",
+        "Amca, dayı, hala ve teyze ile yeğenleri arasında evlenme yasağı bulunmamaktadır."
+      ],
+      "answer": 1,
+      "reason": "TMK m.124 gereğince evlenme yaşı olağan olarak 17'dir; olağanüstü durumlarda 16 yaşını doldurmuş olanlar için hâkim kararıyla izin verilebilir. Evlenme, tarafların olumlu sözlü cevaplarını verdikleri anda oluşur (TMK m.142) ve amca/dayı/hala/teyze ile yeğen arasında evlenme yasaktır (TMK m.129)."
+    },
+    "butlan": {
+      "q": "TMK m.145 ve m.156 hükümleri uyarınca evliliğin butlanı ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Mutlak butlan hâlinde evlenme kendiliğinden hükümsüzdür, hâkim kararına gerek yoktur.",
+        "Geçici bir sebeple ayırt etme gücünden yoksunluk mutlak butlan sebebidir.",
+        "Batıl bir evlilik ancak hâkimin kararıyla sona erer; mutlak butlan hâlinde bile evlenme, hâkimin kararına kadar geçerli bir evliliğin bütün sonuçlarını doğurur.",
+        "Mutlak butlanla batıl olan evliliklerde doğan çocuklar evlilik dışı doğmuş sayılırlar."
+      ],
+      "answer": 2,
+      "reason": "TMK m.156 uyarınca batıl bir evlilik ancak hâkim kararıyla sona erer ve karara kadar geçerli bir evliliğin sonuçlarını doğurur. Geçici ayırt etme gücünden yoksunluk nisbi butlan sebebidir (TMK m.148) ve m.157 uyarınca çocuklar evlilik içinde doğmuş sayılır."
+    },
+    "bosanma": {
+      "q": "TMK m.166/3 uyarınca evlilik birliğinin temelinden sarsılması sebebiyle anlaşmalı boşanma kararı verilebilmesi için aşağıdaki şartlardan hangisi zorunludur?",
+      "choices": [
+        "Evliliğin en az üç yıl sürmüş olması.",
+        "Evliliğin en az bir yıl sürmüş olması, eşlerin birlikte başvurması veya bir eşin diğerinin davasını kabul etmesi ve hâkimin tarafları bizzat dinlemesi.",
+        "Davalının boşanmaya sebep olan olaylarda kusurunun davacıdan daha ağır olduğunun ispatlanması.",
+        "Zina veya hayata kast gibi özel boşanma sebeplerinden birinin gerçekleşmiş olması."
+      ],
+      "answer": 1,
+      "reason": "TMK m.166/3 uyarınca anlaşmalı boşanma için evliliğin en az bir yıl sürmüş olması, eşlerin birlikte başvurması veya davanın kabulü ve hâkimin tarafları bizzat dinleyerek iradelerinin serbestçe açıklandığına kanaat getirmesi şarttır."
+    },
+    "mal-rejimi": {
+      "q": "TMK m.219 ve m.220 hükümleri çerçevesinde edinilmiş mallara katılma rejiminde aşağıdakilerden hangisi edinilmiş mal sayılır?",
+      "choices": [
+        "Eşlerden birinin yalnız kişisel kullanımına yarayan eşya.",
+        "Mal rejiminin başlangıcında eşlerden birine ait bulunan malvarlığı değerleri.",
+        "Çalışmanın karşılığı olan edinimler ile kişisel malların gelirleri.",
+        "Bir eşin miras yoluyla elde ettiği malvarlığı değerleri ve manevî tazminat alacakları."
+      ],
+      "answer": 2,
+      "reason": "TMK m.219 uyarınca çalışmanın karşılığı olan edinimler ile kişisel malların gelirleri edinilmiş maldır. Kişisel kullanım eşyası, miras kalan mallar ve manevi tazminat alacakları ise TMK m.220 gereğince kişisel maldır."
+    },
+    "velayet": {
+      "q": "TMK m.335 ve m.349 hükümleri uyarınca velayet kurumu ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Velayete sahip ana veya babanın yeniden evlenmesi velayetin kendiliğinden kaldırılması sonucunu doğurur.",
+        "Ergin olmayan çocuk ana ve babasının velayeti altındadır; velayete sahip ana veya babanın yeniden evlenmesi tek başına velayetin kaldırılmasını gerektirmez.",
+        "Evlilik birliği devam ederken velayet sadece anaya aittir, babanın velayet hakkı bulunmaz.",
+        "Velayeti kaldırılan ana ve babanın çocuk bakım ve eğitim giderlerine katılma borcu tamamen sona erer."
+      ],
+      "answer": 1,
+      "reason": "TMK m.335 uyarınca ergin olmayan çocuk ana ve babasının velayeti altındadır. TMK m.349'a göre velayete sahip ana veya babanın yeniden evlenmesi velayetin kaldırılmasını gerektirmez."
+    },
+    "nafaka": {
+      "q": "TMK m.175 uyarınca boşanma sonrasında istenebilecek yoksulluk nafakası ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Yoksulluk nafakası isteyebilmek için talepte bulunan eşin tamamen kusursuz olması ve diğer eşin ağır kusurlu olması şarttır.",
+        "Boşanma yüzünden yoksulluğa düşecek taraf, kusuru daha ağır olmamak koşuluyla geçimi için malî gücü oranında süresiz olarak nafaka isteyebilir; nafaka yükümlüsünün kusuru aranmaz.",
+        "Yoksulluk nafakası yalnızca dava süresince geçerli geçici bir önlemdir.",
+        "Yoksulluk nafakası alacaklısı yeniden evlense dahi nafaka hiçbir şekilde kendiliğinden kalkmaz."
+      ],
+      "answer": 1,
+      "reason": "TMK m.175 uyarınca yoksulluk nafakasında aranan şart talepte bulunanın kusurunun daha ağır olmamasıdır ve nafaka yükümlüsünün kusuru aranmaz. TMK m.169 tedbir nafakasını düzenler; m.176/2 uyarınca alacaklının yeniden evlenmesiyle nafaka kendiliğinden kalkar."
+    }
+  },
+  "intro": "Kâğıdın ilk cümlesinde evlilik bağı mı mal rejimi mi olduğunu yazın. Tuzaklar TMK lafzı ve graf unsura dayanır.",
+  "uyari": "Mutlak butlan ile nispi butlan, tedbir nafakası ile yoksulluk nafakası, edinilmiş mal ile kişisel mal aynı torbaya konmaz."
+}

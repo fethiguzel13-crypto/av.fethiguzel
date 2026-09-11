@@ -1,0 +1,152 @@
+{
+  "guz": [
+    "Borç İlişkisi ile Edim Borcunu Aynı Sayma Sığlığı: Sınav kâğıdında borç ilişkisini yalnızca 'tek bir edim borcu' olarak tanımlamak en sık yapılan hatadır. Dokuzçeşmeler dogmatiğinde hâkim görüş borç ilişkisini tek bir edim bağı değil; alacak hakkı, yan yükümlülükler, borçlunun savunmaları ve yenilik doğuran haklar demeti olarak okur.",
+    "Kurulma Denetlenmeden İrade Sakatlığına Geçme: İcap ve kabulün uyuşup uyuşmadığı (TBK m. 1-2) incelenmeden doğrudan iptal veya irade sakatlığı tartışması açmak puan kaybettirir. Sakatlık ancak kurulmuş bir sözleşmede tartışılabilir.",
+    "Saik Hatasını Doğrudan Esaslı Hata Sanma: Saikte yanılma TBK m. 32 uyarınca kural olarak esaslı yanılma sayılmaz. Saikin temel sayılması, dürüstlük kuralına uygun olması ve karşı tarafça bilinebilir bulunması şartları aranmalıdır.",
+    "Doğrudan Temsil ile Dolaylı Temsil ve Vekâleti Karıştırma: TBK m. 40 gereğince doğrudan temsil yetkisiyle yapılan işlem doğrudan temsil olunanda hüküm doğurur; dolaylı temsil veya vekâlet ilişkisiyle karıştırılmamalıdır.",
+    "GİK'te 'Müzakere Edildi' Matbu Kaydına Kanma: Sözleşmeye veya matbu forma konulan 'Maddeleri tek tek okudum, müzakere ettim' kaydı, TBK m. 20/f.4 uyarınca o hükmü tek başına Genel İşlem Koşulu olmaktan çıkarmaz."
+  ],
+  "bahar": [
+    "Temerrütte İhtar ve Süre Vermeden Acele Dönme: Karşılıklı borç yükleyen sözleşmelerde ihtar çekilmeden veya TBK m. 123 uyarınca uygun süre verilmeden (m. 124 istisnaları hariç) aceleyle sözleşmeden dönülemez.",
+    "Başlangıçtaki İmkânsızlık ile Sonraki İmkânsızlığı Karıştırma: Başlangıçtaki imkânsızlık kesin hükümsüzlük (butlan) hattına aittir; borçlunun sorumlu olmadığı sonraki imkânsızlık ise TBK m. 136 uyarınca borcu sona erdirir. Aşırı ifa güçlüğü (m. 138) ise imkânsızlık değildir.",
+    "Alsancak Taşınır Satımındaki Ayıbı Temerrüt Sanma: Alsancak'taki taşınır satışında teslim edilen malın ayıplı çıkması borçlu temerrüdü değildir; temerrüt muaccel edimin zamanında ifa edilmemesidir, ayıpta ise satıma özgü özel rejim işler.",
+    "Zamanaşımını Borcu Söndüren Hak Düşürücü Süre Sanma: Zamanaşımı borcu söndürmez, alacağın dava edilebilirliğini kesen bir def'idir (TBK m. 161). Hâkim tarafından resen göz önüne alınamaz.",
+    "İbranın Şekle Tabi Olduğunu Zannetme: Asıl borç kanunen şekle tabi tutulmuş olsa dahi, TBK m. 132 uyarınca ibra sözleşmesi şekle bağlı olmaksızın yapılabilir."
+  ],
+  "mcq": {
+    "borc-iliskisi": {
+      "q": "Dokuzçeşmeler Borçlar Hukuku dogmatiğine göre borç ilişkisinin niteliği ve kaynakları ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Borç ilişkisi yalnızca borçlunun yerine getirmekle yükümlü olduğu tek bir para ediminden ibarettir.",
+        "Borç ilişkisi; alacak hakkı, yan yükümlülükler, borçlunun savunmaları ve yenilik doğuran hakları kapsayan bir hak ve yükümlülükler demetidir.",
+        "Haksız fiil ve sebepsiz zenginleşme borç ilişkisi kavramının dışında kalan müstakil ceza kurallarıdır.",
+        "Borç ilişkisinde kaynak belirtilmeden yalnız edimin türünün yazılması kâfi görülür."
+      ],
+      "answer": 1,
+      "reason": "DEÜ ekolünde borç ilişkisi tek bir edim bağı değil, taraflar arasındaki haklar ve yükümlülükler demetidir; kaynağın sözleşme (TBK m. 1), haksız fiil (TBK m. 49) veya sebepsiz zenginleşme (TBK m. 77) olarak somutlaştırılması gerekir."
+    },
+    "sozlesmenin-kurulmasi": {
+      "q": "Alsancak'taki bir antikacıda sergilenen saatin satın alınması sürecinde icap ve kabul kurallarıyla ilgili hangisi TBK m. 1-11 hükümleri uyarınca doğrudur?",
+      "choices": [
+        "Vitrinde fiyatı gösterilerek saatin sergilenmesi kural olarak sadece bir icaba davet sayılır.",
+        "Fiyatı gösterilerek mal sergilenmesi, aksi açıkça ve kolaylıkla anlaşılmadıkça öneri (icap) sayılır.",
+        "Ismarlanmayan bir malın Alsancak'taki adrese gönderilmesi icap niteliğindedir ve alıcı bunu saklamakla yükümlüdür.",
+        "Hazır olanlar arasında yapılan süresiz icap, karşı tarafça düşünüldüğü sürece icapta bulunanı bağlamaya devam eder."
+      ],
+      "answer": 1,
+      "reason": "TBK m. 8/f.2 uyarınca fiyatını göstererek mal sergilenmesi aksi açıkça anlaşılmadıkça öneri sayılır. TBK m. 7 gereğince ısmarlanmayan şeyin gönderilmesi öneri sayılmaz."
+    },
+    "irade-sakatliklari": {
+      "q": "Sözleşmede irade sakatlıklarından saikte yanılma (saik hatası) ile ilgili aşağıdakilerden hangisi TBK m. 32 uyarınca doğrudur?",
+      "choices": [
+        "Saikte yanılma her durumda esaslı hata sayılır ve sözleşmeyi kendiliğinden hükümsüz kılar.",
+        "Saikte yanılma kural olarak esaslı yanılma sayılmaz; ancak yanılınan saik sözleşmenin temeli sayılmış, dürüstlük kuralına uygun ve karşı tarafça bilinebilir ise esaslı kabul edilir.",
+        "Saik hatasına düşen taraf, hatayı öğrendiği andan itibaren 10 yıl içinde sözleşmeyi iptal edebilir.",
+        "Hileye maruz kalan taraf yanılması esaslı değilse sözleşmeyle bağlı kalmak zorundadır."
+      ],
+      "answer": 1,
+      "reason": "TBK m. 32 uyarınca saikte yanılma kural olarak esaslı değildir; temel sayılma, dürüstlük kuralı ve karşı tarafça bilinebilirlik şartları ile esaslılaşır. İptal hakkı ise TBK m. 39 gereği 1 yıldır."
+    },
+    "temsil": {
+      "q": "Temsil hukuku hükümleri uyarınca doğrudan temsil ilişkisine dair aşağıdakilerden hangisi TBK m. 40 uyarınca doğrudur?",
+      "choices": [
+        "Temsilcinin başkası adına yaptığı hukuki işlemin sonuçları her zaman önce temsilcinin kendi malvarlığında doğar.",
+        "Yetkili bir temsilci tarafından başkası adına ve hesabına yapılan hukuki işlemin sonuçları doğrudan doğruya temsil olunanı bağlar.",
+        "Temsil yetkisi sona eren temsilci yetki belgesini saklamakla yükümlüdür, iade etmez.",
+        "Yetkisiz temsilcinin yaptığı işlem temsil olunan onamasa dahi başlangıçtan itibaren geçerlidir."
+      ],
+      "answer": 1,
+      "reason": "TBK m. 40/f.1 gereğince yetkili temsilcinin başkası adına ve hesabına yaptığı işlemin hukuki sonuçları doğrudan doğruya temsil olunana ait olur. Yetkisiz temsil ise onay verilmedikçe temsil olunanı bağlamaz (TBK m. 46)."
+    },
+    "genel-islem-kosullari": {
+      "q": "Genel işlem koşullarının (GİK) denetimi ve hükümsüzlüğü hakkında TBK m. 20-25 uyarınca aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Sözleşmeye konulan 'Tüm genel işlem koşullarını okudum ve kabul ettim' matbu kaydı, o hükümleri GİK olmaktan çıkarır.",
+        "Düzenleyenin karşı tarafa bilgi verip içeriğini öğrenme imkânı sağlamadığı veya sözleşmenin niteliğine yabancı olan GİK yazılmamış sayılır.",
+        "Bir genel işlem koşulu yazılmamış sayıldığında sözleşmenin tamamı her zaman kendiliğinden geçersiz olur.",
+        "Birden çok anlama gelen GİK hükümleri her zaman düzenleyenin lehine yorumlanır."
+      ],
+      "answer": 1,
+      "reason": "TBK m. 21 uyarınca açık bilgi verilmeyen veya işin niteliğine yabancı koşullar yazılmamış sayılır. TBK m. 22 uyarınca diğer hükümler geçerliliğini korur; TBK m. 23 gereğince belirsizlik düzenleyenin aleyhine yorumlanır."
+    },
+    "ifa": {
+      "q": "Borçların ifasında ifa yeri ve şekline ilişkin TBK m. 83-89 hükümleri kapsamında hangisi doğrudur?",
+      "choices": [
+        "Borçlu her borcu mutlaka bizzat kendisi ifa etmek zorundadır; üçüncü kişinin ifası kabul edilemez.",
+        "Aksine anlaşma yoksa para borçları alacaklının ödeme zamanındaki yerleşim yerinde (götürülecek borç) ifa edilir.",
+        "Borcun tamamı muaccel olsa dahi alacaklı kısmi ifayı hiçbir durumda reddedemez.",
+        "Parça borçları alacaklının yerleşim yerinde ifa edilmesi gereken borçlardandır."
+      ],
+      "answer": 1,
+      "reason": "TBK m. 89/1 uyarınca aksine anlaşma yoksa para borçları alacaklının ödeme zamanındaki yerleşim yerinde ifa edilir. TBK m. 83 uyarınca şahsen ifa zorunluluğu kural değildir; TBK m. 84 gereğince alacaklı kısmi ifayı reddedebilir."
+    },
+    "temerrut": {
+      "q": "Borçlu temerrüdünün koşulları ve sonuçları hakkında TBK m. 117-125 uyarınca aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Muaccel bir borcun borçlusu, alacaklının ihtarı olmadan da her durumda kendiliğinden temerrüde düşer.",
+        "Kural olarak muaccel bir borcun borçlusu alacaklının ihtarıyla temerrüde düşer; süre verilmesi veya süre verilmesini gerektirmeyen hallerde alacaklı seçimlik haklarını kullanabilir.",
+        "Temerrüde düşen borçlu beklenmedik halden doğan zararlardan hiçbir şekilde sorumlu tutulamaz.",
+        "Temerrüt faizine kural olarak ayrıca temerrüt faizi (bileşik faiz) yürütülür."
+      ],
+      "answer": 1,
+      "reason": "TBK m. 117/f.1 gereği muaccel borçta temerrüt için ihtar kuraldır. TBK m. 119 uyarınca temerrüde düşen borçlu beklenmedik halden sorumludur ve TBK m. 121/f.2 uyarınca temerrüt faizine ayrıca faiz yürütülemez."
+    },
+    "ifa-imkansizligi": {
+      "q": "Sonraki ifa imkânsızlığı ile ilgili TBK m. 136 hükmü uyarınca aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Borcun ifası borçlunun sorumlu tutulamayacağı bir sebeple sonradan imkânsızlaşırsa borç sona erer.",
+        "Başlangıçtaki objektif imkânsızlık ile sonraki imkânsızlık aynı hukuki sonuca tabidir ve tazminat doğurur.",
+        "Aşırı ifa güçlüğü doğuran her ekonomik kriz otomatik olarak TBK m. 136 anlamında ifa imkânsızlığı sayılır.",
+        "İmkânsızlık nedeniyle borçtan kurtulan borçlu karşı taraftan aldığı edimi geri vermekle yükümlü değildir."
+      ],
+      "answer": 0,
+      "reason": "TBK m. 136 uyarınca borçlunun sorumlu olmadığı sonraki imkânsızlık borcu sona erdirir. Karşı edim sebepsiz zenginleşme hükümleriyle geri verilir. Aşırı ifa güçlüğü m. 138 rejimi olup m. 136 imkânsızlığı değildir."
+    },
+    "haksiz-fiil": {
+      "q": "Haksız fiilden doğan sorumluluk kuralları kapsamında TBK m. 49-56 hükümleri uyarınca hangisi doğrudur?",
+      "choices": [
+        "Zarar gören, haksız fiilde zarar verenin kusurunu ve zararı ispat etmekle yükümlü değildir.",
+        "Kusurlu ve hukuka aykırı bir fiille başkasına zarar veren bu zararı gidermekle yükümlüdür; zarar gören zararını ve kusuru ispat yükü altındadır.",
+        "Manevi tazminat her bedensel zararda otomatik olarak maddi zararın yüzdelik bir uzantısı olarak hesaplanır.",
+        "Haksız fiil sorumluluğu ile sözleşmeye aykırılık sorumluluğu hiçbir şekilde yarışamaz."
+      ],
+      "answer": 1,
+      "reason": "TBK m. 49 uyarınca haksız fiil sorumluluğu doğar ve TBK m. 50 uyarınca zarar gören zararını ve kusuru ispatla yükümlüdür. Sözleşme sorumluluğu ile haksız fiil yarışabilir."
+    },
+    "sebepsiz-zenginlesme": {
+      "q": "Sebepsiz zenginleşmeden doğan iade borcu ve zamanaşımı hakkında TBK m. 77-82 uyarınca aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Borçlanılmamış edimi edada bulunan kimse, kendisini borçlu sanmasa dahi ödediğini her zaman geri isteyebilir.",
+        "Haklı bir sebep olmaksızın zenginleşen iadeyle yükümlüdür; istem hakkı öğrenmeden itibaren 2 yıl ve her halde 10 yılda zamanaşımına uğrar.",
+        "Hukuka veya ahlaka aykırı bir sonucun gerçekleşmesi amacıyla verilen şey her zaman veren tarafından aynen geri istenir.",
+        "İyiniyetli sebepsiz zenginleşen elden çıkardığı kısımdan da her durumda sorumludur."
+      ],
+      "answer": 1,
+      "reason": "TBK m. 77 zenginleşmenin iadesini düzenler, TBK m. 82 uyarınca zamanaşımı 2 ve 10 yıldır. TBK m. 78 uyarınca borçlanılmamış edimin geri istenmesinde borçlu sanma şarttır; TBK m. 81 uyarınca hukuka/ahlaka aykırı amaçla verilen geri istenemez."
+    },
+    "sona-erme": {
+      "q": "Borcu sona erdiren hallerden ibra ve yenileme (tecdit) ile ilgili TBK m. 132-135 hükümleri uyarınca hangisi doğrudur?",
+      "choices": [
+        "İbra sözleşmesinin geçerliliği, asıl borcun tabi olduğu resmi veya yazılı şekle uymasına bağlıdır.",
+        "Borç tarafların şekle bağlı olmaksızın yapacakları ibra sözleşmesiyle ortadan kaldırılabilir; yenileme ise açık irade gerektirir.",
+        "Mevcut bir borç için kambiyo senedi düzenlenmesi açık anlaşma olmasa da borcu kendiliğinden yeniler.",
+        "Alacaklı ve borçlu sıfatlarının birleşmesi borcu sadece zamanaşımına uğratır, sona erdirmez."
+      ],
+      "answer": 1,
+      "reason": "TBK m. 132 uyarınca ibra sözleşmesi şekle bağlı değildir. TBK m. 133 gereğince yenileme ancak açık irade ile olur. Birleşme ise TBK m. 135 uyarınca borcu sona erdirir."
+    },
+    "zamanasimi": {
+      "q": "Zamanaşımı kuralları ve TBK m. 146-161 hükümleri çerçevesinde aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Zamanaşımı alacak hakkını tamamen ortadan kaldıran bir sona erme sebebidir ve hâkimce resen gözetilir.",
+        "Zamanaşımı alacağın dava edilebilirliğini kesen bir def'idir; hâkim tarafından ileri sürülmedikçe kendiliğinden göz önüne alınamaz.",
+        "Kanunda belirlenen zamanaşımı süreleri tarafların sözleşmedeki açık anlaşmasıyla uzatılabilir.",
+        "Zamanaşımının durması halinde işlemekte olan süre tamamen sıfırlanır ve baştan işlemeye başlar."
+      ],
+      "answer": 1,
+      "reason": "TBK m. 161 uyarınca zamanaşımı bir def'idir ve hâkimce kendiliğinden göz önüne alınamaz. TBK m. 148 gereğince zamanaşımı süreleri sözleşmeyle değiştirilemez. Durma ise sürenin kaldığı yerden devam etmesidir (TBK m. 153)."
+    }
+  },
+  "intro": "DEÜ Dokuzçeşmeler kâğıdında önce kaynak yazılır. Tuzaklar TBK lafzı ve graf unsura dayanır.",
+  "uyari": "Alsancak ayıbı temerrüt sanılmaz. OBS bağlayıcıdır."
+}

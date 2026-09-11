@@ -1,0 +1,43 @@
+Sadece JSON üret. Markdown yok, künye yok, fakülte adı yok. Kaynak olarak yalnız TTK resmi lafzı ve graf unsura dayan.
+
+Şema:
+{
+  "guz": ["tuzak cümlesi", "tuzak cümlesi", "tuzak cümlesi", "tuzak cümlesi"],
+  "bahar": ["tuzak cümlesi", "tuzak cümlesi", "tuzak cümlesi"],
+  "mcq": {
+    "ticari-is": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"},
+    "ticari-isletme": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"},
+    "tacir": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"},
+    "sicil": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"},
+    "unvan": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"},
+    "haksiz-rekabet": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"},
+    "ticari-islemler": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TTK m.N"}
+  }
+}
+
+Kurallar:
+- answer 0-3 tamsayıdır (doğru şık indeksi).
+- Her q dört choices içerir; tek doğru vardır.
+- reason yalnız kaynakta geçen TTK madde numarasını söyler. Kaynakta olmayan madde uydurulmaz.
+- Tuzak cümlesi hangi iki kurumun karıştırıldığını ve doğru lafzı söyler.
+- Borçlar genel kapısı (borcun kaynağı) ve şirket organları yazılmaz.
+
+Güz tuzakları:
+1) ticari iş karinesi (TTK m.3) / tacir sıfatı (TTK m.12): ticari işletmeyi ilgilendiren iş ticari iştir; tacir işletmeyi kendi adına işleten kişidir
+2) ticari işletme tanımı ve esnaf sınırı (TTK m.11) / tacir (TTK m.12)
+3) tacir olmanın hükümleri: basiretli iş adamı, ücret isteme, iflas (TTK m.18, m.20) / ticari dava (TTK m.4)
+4) ticaret sicili tescil ve ilan, üçüncü kişilere etki (TTK m.24, m.26, m.32, m.36) / unvan (TTK m.39)
+
+Bahar tuzakları:
+1) ticaret unvanı çekirdek ve kullanma (TTK m.39, m.41, m.45) / işletme adı ve marka; unvan kural olarak işletmeyle birlikte devredilir (TTK m.49)
+2) haksız rekabet genel kloz (TTK m.54) / örnek liste (TTK m.55); dava hakları (TTK m.56)
+3) basiretli iş adamı özeni (TTK m.18) / ticari mümessil ve temsil (kaynaktaki ilgili madde)
+
+MCQ odakları:
+- ticari-is: m.3 ticari iş; m.4 ticari dava; m.8 faiz; m.19 teselsül
+- ticari-isletme: m.11 tanım ve esnaf sınırı
+- tacir: m.12 kendi adına işletme; m.16 tüzel kişi; m.18 basiret
+- sicil: m.26 tescil; m.36 üçüncü kişilere etki
+- unvan: m.39 çekirdek; m.41 kullanma; m.49 devir
+- haksiz-rekabet: m.54 genel; m.55 haller; m.56 davalar
+- ticari-islemler: m.18 basiret; temsil yüzü kaynak maddesi

@@ -1,0 +1,40 @@
+Sadece JSON üret. Markdown yok, künye yok, fakülte adı yok. Kaynak olarak yalnız CMK resmi lafzı ve graf unsura dayan.
+
+Şema:
+{
+  "guz": ["tuzak cümlesi", "tuzak cümlesi", "tuzak cümlesi"],
+  "bahar": ["tuzak cümlesi", "tuzak cümlesi", "tuzak cümlesi"],
+  "mcq": {
+    "sorusturma": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... CMK m.N"},
+    "koruma": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... CMK m.N"},
+    "ifade-sorgu": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... CMK m.N"},
+    "kovusturma": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... CMK m.N"},
+    "delil-cmk": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... CMK m.N"},
+    "hukum-yol": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... CMK m.N"}
+  }
+}
+
+Kurallar:
+- answer 0-3 tamsayıdır (doğru şık indeksi).
+- Her q dört choices içerir; tek doğru vardır.
+- reason yalnız kaynakta geçen CMK madde numarasını söyler. Kaynakta olmayan madde uydurulmaz.
+- Tuzak cümlesi hangi iki kurumun karıştırıldığını ve doğru lafzı söyler.
+- Ceza genel (tipiklik) ve ceza özel suç tipleri yazılmaz.
+
+Güz tuzakları:
+1) soruşturma (CMK m.2, m.160-161) / kovuşturma: suç şüphesinin öğrenilmesinden iddianamenin kabulüne kadar soruşturma; iddianame m.170, KYOK m.172, itiraz m.173
+2) tutuklama (CMK m.100-101) / yakalama-gözaltı (m.90-91) / adli kontrol (m.109): tutuklama ceza değildir; ölçülülük
+3) ifade / sorgu (CMK m.147-148): ifade kolluk/savcı, sorgu hâkim/mahkeme; yasak usuller m.148; müdafi m.149-150
+
+Bahar tuzakları:
+1) kovuşturma ve duruşma (CMK m.175, m.191, m.193): iddianamenin kabulüyle başlar; duruşma kural olarak alenidir
+2) delil serbestisi ve yasaklar (CMK m.217, m.206): hâkim vicdani kanaat; hukuka aykırı elde edilen delil hükme esas alınamaz
+3) hüküm çeşitleri (CMK m.223) / HAGB (m.231) / istinaf (m.272) / temyiz (m.286)
+
+MCQ odakları:
+- sorusturma: m.2 tanım veya m.170 iddianame / m.172 KYOK
+- koruma: m.100 tutuklama nedeni veya m.109 adli kontrol
+- ifade-sorgu: m.147 haklar veya m.148 yasak usul
+- kovusturma: m.175 iddianamenin kabulü
+- delil-cmk: m.217 hukuka aykırı delil
+- hukum-yol: m.223 hüküm çeşitleri veya m.272 istinaf

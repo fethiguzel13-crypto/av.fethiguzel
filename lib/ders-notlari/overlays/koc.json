@@ -35,5 +35,474 @@
             "url": "https://law.ku.edu.tr/",
             "note": "fakülte kimliği"
         }
-    ]
+    ],
+    "byCourse": {
+        "medeni-baslangic": {
+            "cityHook": "Rumelifeneri'nde küçüğün kira imzası ve ehliyet",
+            "mehaz": "Karşılaştırmalı / ABD case usulü; bağlayıcı metin TMK'dır",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final + ödev (izlence).",
+                "format": "Hypo + issue spotting: vakıayı soruna ayır, TMK maddesini bağla.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim TMK maddesinin yerine geçmez.",
+                    "Policy cümlesi unsur ve lafızdan sonra gelir.",
+                    "İlk cümle TMK kapısını söyler."
+                ]
+            },
+            "syllabusOrder": [
+                "application of the code",
+                "good faith",
+                "capacity",
+                "personality, name, domicile"
+            ],
+            "schoolNotes": [
+                "Koç medeni başlangıçta hypo usulü künye uydurmayı serbest bırakmaz.",
+                "TMK resmi lafzı FSEK m. 31 ile serbesttir.",
+                "Borçlar genel ayrı derstir."
+            ]
+        },
+        "ceza-genel": {
+            "cityHook": "Rumelifeneri'nde kasten yaralama hypo'su",
+            "mehaz": "Karşılaştırmalı / ABD case; bağlayıcı metin TCK'dır",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final + ödev.",
+                "format": "Hypo + issue spotting: vakıayı soruna ayır, TCK maddesini bağla.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim TCK maddesinin yerine geçmez.",
+                    "Policy cümlesi unsur ve lafızdan sonra gelir.",
+                    "Tipiklik kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "legality",
+                "mens rea",
+                "justifications",
+                "inchoate offences",
+                "sentencing"
+            ],
+            "schoolNotes": [
+                "Koç ceza genelinde hypo usulü künye uydurmayı serbest bırakmaz.",
+                "TCK resmi lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "medeni-usul": {
+            "cityHook": "Rumelifeneri'nde bir alacak hypo'sunun dilekçe ve istinaf tartışması",
+            "mehaz": "Karşılaştırmalı / ABD civil procedure; bağlayıcı metin HMK'dır",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final + ödev.",
+                "format": "Hypo + issue spotting: vakıayı soruna ayır, HMK maddesini bağla.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim HMK maddesinin yerine geçmez.",
+                    "Policy cümlesi unsur ve lafızdan sonra gelir.",
+                    "Görev-yetki kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "jurisdiction",
+                "pleadings",
+                "discovery and proof",
+                "judgment",
+                "appeals"
+            ],
+            "schoolNotes": [
+                "Koç usulünde hypo künye uydurmayı serbest bırakmaz.",
+                "HMK resmi lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "esya-hukuku": {
+            "cityHook": "Rumelifeneri'nde ipotek hypo'su",
+            "mehaz": "Karşılaştırmalı property/security; bağlayıcı metin TMK'dır",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TMK maddesi + ayni hak unsuru + olaya yedirme.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim TMK maddesinin yerine geçmez.",
+                    "Policy cümlesi unsur ve lafızdan sonra gelir.",
+                    "Zilyetlik-mülkiyet kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "zilyetlik",
+                "tapu",
+                "mülkiyet",
+                "paylı mülkiyet",
+                "irtifak",
+                "ipotek",
+                "taşınır rehni",
+                "kat mülkiyeti"
+            ],
+            "schoolNotes": [
+                "Koç eşyada hypo künye uydurmayı serbest bırakmaz.",
+                "TMK resmi lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "icra-iflas": {
+            "cityHook": "Rumelifeneri'nde iflas hypo'su",
+            "mehaz": "Karşılaştırmalı bankruptcy; bağlayıcı metin İİK'dır",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: İİK maddesi + takip yolu + olaya yedirme.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim İİK maddesinin yerine geçmez.",
+                    "Policy cümlesi unsur ve lafızdan sonra gelir.",
+                    "Takip yolu kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "ilamlı icra",
+                "ilamsız takip",
+                "itiraz",
+                "haciz",
+                "istihkak",
+                "cebri satış",
+                "sıra cetveli",
+                "iflas"
+            ],
+            "schoolNotes": [
+                "Koç icrada hypo künye uydurmayı serbest bırakmaz.",
+                "İİK resmi lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "aile-hukuku": {
+            "cityHook": "Rumelifeneri'nde boşanma hypo'su",
+            "mehaz": "Karşılaştırmalı family law; bağlayıcı metin TMK'dır",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TMK maddesi + aile kurumu + olaya yedirme.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim TMK maddesinin yerine geçmez.",
+                    "Policy cümlesi unsur ve lafızdan sonra gelir.",
+                    "Evlilik bağı kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "nişan",
+                "evlenme",
+                "butlan",
+                "boşanma",
+                "mal rejimi",
+                "velayet",
+                "nafaka"
+            ],
+            "schoolNotes": [
+                "Koç ailede hypo künye uydurmayı serbest bırakmaz.",
+                "TMK resmi lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "miras-hukuku": {
+            "cityHook": "Rumelifeneri'nde tenkis hypo'su",
+            "mehaz": "Karşılaştırmalı succession; bağlayıcı metin TMK'dır",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TMK maddesi + miras kurumu + olaya yedirme.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim TMK maddesinin yerine geçmez.",
+                    "Policy cümlesi unsur ve lafızdan sonra gelir.",
+                    "Zümre kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "yasal mirasçılık",
+                "saklı pay",
+                "ölüme bağlı tasarruf",
+                "miras sözleşmesi",
+                "iptal",
+                "tenkis",
+                "ret",
+                "tereke paylaşma"
+            ],
+            "schoolNotes": [
+                "Koç mirasta hypo künye uydurmayı serbest bırakmaz.",
+                "TMK resmi lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "borclar-ozel": {
+            "cityHook": "Rumelifeneri'nde kefalet hypo'su",
+            "mehaz": "Karşılaştırmalı suretyship; bağlayıcı metin TBK'dır",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TBK maddesi + sözleşme türü + olaya yedirme.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim TBK maddesinin yerine geçmez.",
+                    "Policy cümlesi unsur ve lafızdan sonra gelir.",
+                    "Sözleşme türü kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "satış",
+                "bağışlama",
+                "kira",
+                "eser",
+                "hizmet",
+                "vekâlet",
+                "kefalet",
+                "ödünç"
+            ],
+            "schoolNotes": [
+                "Koç özel borçlarda hypo künye uydurmayı serbest bırakmaz.",
+                "TBK resmi lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "is-hukuku": {
+            "cityHook": "Rumelifeneri'nde kıdem hypo'su",
+            "mehaz": "Karşılaştırmalı labor; bağlayıcı metin 4857 ve 1475 m.14'tür",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: 4857 maddesi + fesih türü + olaya yedirme.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim 1475 m.14'ün yerine geçmez.",
+                    "Policy cümlesi unsur ve lafızdan sonra gelir.",
+                    "Fesih kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "iş sözleşmesi",
+                "süre ve tür",
+                "fesih",
+                "kıdem ve ihbar",
+                "ücret ve süre",
+                "iş sağlığı"
+            ],
+            "schoolNotes": [
+                "Koç iş hukukunda hypo künye uydurmayı serbest bırakmaz.",
+                "Kanun lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "ceza-ozel": {
+            "cityHook": "Rumelifeneri'nde kasten öldürme hypo'su",
+            "mehaz": "Karşılaştırmalı homicide; bağlayıcı metin TCK'dır",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TCK maddesi + suç tipi + olaya yedirme.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim TCK maddesinin yerine geçmez.",
+                    "Policy cümlesi unsur ve lafızdan sonra gelir.",
+                    "Suç tipi kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "kasten öldürme",
+                "kasten yaralama",
+                "hakaret",
+                "hırsızlık",
+                "dolandırıcılık",
+                "uyuşturucu",
+                "zimmet",
+                "görevi kötüye kullanma"
+            ],
+            "schoolNotes": [
+                "Koç özel cezada hypo künye uydurmayı serbest bırakmaz.",
+                "TCK resmi lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "ticari-isletme": {
+            "cityHook": "Rumelifeneri'nde haksız rekabet hypo'su",
+            "mehaz": "Karşılaştırmalı unfair competition; bağlayıcı metin TTK'dır",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + tacir/işletme kapısı + olaya yedirme.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim TTK maddesinin yerine geçmez.",
+                    "Policy cümlesi unsur ve lafızdan sonra gelir.",
+                    "Tacir kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "ticari iş",
+                "ticari işletme",
+                "tacir",
+                "sicil",
+                "unvan",
+                "haksız rekabet",
+                "basiret ve temsil"
+            ],
+            "schoolNotes": [
+                "Koç ticari işletmede hypo künye uydurmayı serbest bırakmaz.",
+                "TTK resmi lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "ticaret-sirketler": {
+            "cityHook": "Rumelifeneri'nde limited hypo'su",
+            "mehaz": "Karşılaştırmalı LLC; bağlayıcı metin TTK'dır",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + şirket türü + olaya yedirme.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim TTK maddesinin yerine geçmez.",
+                    "Policy cümlesi unsur ve lafızdan sonra gelir.",
+                    "Şirket türü kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "ticaret şirketleri",
+                "kollektif-komandit",
+                "anonim",
+                "organlar",
+                "sermaye-pay",
+                "limited",
+                "sona erme"
+            ],
+            "schoolNotes": [
+                "Koç şirketlerde hypo künye uydurmayı serbest bırakmaz.",
+                "TTK resmi lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "ceza-muhakemesi": {
+            "cityHook": "Rumelifeneri'nde tutuklama hypo'su",
+            "mehaz": "Karşılaştırmalı detention; bağlayıcı metin CMK'dır",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: CMK maddesi + evre + olaya yedirme.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim CMK maddesinin yerine geçmez.",
+                    "Policy cümlesi unsur ve lafızdan sonra gelir.",
+                    "Evre kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "soruşturma",
+                "koruma tedbirleri",
+                "ifade ve sorgu",
+                "kovuşturma",
+                "delil",
+                "hüküm ve kanun yolu"
+            ],
+            "schoolNotes": [
+                "Koç CMK'da hypo künye uydurmayı serbest bırakmaz.",
+                "CMK resmi lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "kiymetli-evrak": {
+            "cityHook": "Rumelifeneri'nde çek hypo'su",
+            "mehaz": "Karşılaştırmalı cheque; bağlayıcı metin TTK ve ÇekK'dır",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + senet türü + olaya yedirme.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim TTK maddesinin yerine geçmez.",
+                    "Policy cümlesi unsur ve lafızdan sonra gelir.",
+                    "Senet türü kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "kıymetli evrak",
+                "poliçe",
+                "bono",
+                "ciro",
+                "çek",
+                "def'i",
+                "başvuru",
+                "karşılıksız çek"
+            ],
+            "schoolNotes": [
+                "Koç kıymetli evrakta hypo künye uydurmayı serbest bırakmaz.",
+                "Kanun lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        }
+    }
 }

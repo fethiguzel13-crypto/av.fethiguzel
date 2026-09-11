@@ -1,0 +1,94 @@
+{
+  "guz": [
+    "Ticari iş karinesi ile tacir sıfatı karıştırılmaktadır; TTK m.3 uyarınca bu Kanunda düzenlenen hususlarla bir ticari işletmeyi ilgilendiren bütün işlem ve fiiller ticari iş sayılırken, TTK m.12 uyarınca bir ticari işletmeyi kısmen de olsa kendi adına işleten kişiye tacir denir.",
+    "Ticari işletme tanımı ve esnaf sınırı ile tacir sıfatı karıştırılmaktadır; TTK m.11 uyarınca ticari işletme esnaf işletmesi için öngörülen sınırı aşan düzeyde gelir sağlamayı hedef tutan bağımsız ve devamlı faaliyet iken, TTK m.12 uyarınca bu işletmeyi kendi adına işleten kişi tacirdir.",
+    "Tacir olmanın hükümleri ile ticari dava niteliği karıştırılmaktadır; TTK m.18 ve m.20 uyarınca iflasa tabi olma, basiretli hareket etme ve uygun ücret isteme tacir olmanın hükümleri iken, TTK m.4 uyarınca her iki tarafın ticari işletmesiyle ilgili hususlardan doğan davalar ticari davadır.",
+    "Ticaret sicili tescil ve ilanının üçüncü kişilere etkisi ile ticaret unvanı kullanma yükümlülüğü karıştırılmaktadır; TTK m.36 uyarınca sicil kayıtları tescil ve ilanla üçüncü kişilere karşı sonuç doğururken, TTK m.39 uyarınca ticaret unvanı tacirin işletmesiyle ilgili işlemlerde kullanmak zorunda olduğu addır."
+  ],
+  "bahar": [
+    "Ticaret unvanının devri ile işletme adı ve marka karıştırılmaktadır; TTK m.39 ve m.41 uyarınca çekirdek ve eklerden oluşan ticaret unvanı, TTK m.49 gereğince işletmeden ayrı olarak başkasına devredilemez ve aksi açıkça kabul edilmedikçe işletmenin devriyle birlikte devredilmiş sayılır.",
+    "Haksız rekabet genel klozu ile örnek haksız rekabet halleri ve dava hakları karıştırılmaktadır; TTK m.54 uyarınca aldatıcı veya dürüstlük kuralına aykırı davranışlar genel olarak haksız rekabet oluştururken, TTK m.55 dürüstlük kuralına aykırı başlıca halleri sayar, TTK m.56 ise açılabilecek tespit, men, refi ve tazminat davalarını düzenler.",
+    "Basiretli iş adamı gibi hareket etme yükümlülüğü ile ticari mümessilin temsil yetkisi karıştırılmaktadır; TTK m.18 uyarınca basiretli hareket etme tacirin kendi ticari faaliyetlerindeki şahsi özen borcu iken, ticari mümessil işletme sahibinin adına işletmeyi yönetmeye ve ticari işlemleri yürütmeye yetkili kılınan temsilcidir."
+  ],
+  "mcq": {
+    "ticari-is": {
+      "q": "Türk Ticaret Kanunu m. 3 uyarınca ticari işlerin belirlenmesindeki temel kural aşağıdakilerden hangisidir?",
+      "choices": [
+        "Bu Kanunda düzenlenen hususlarla bir ticari işletmeyi ilgilendiren bütün işlem ve fiiller ticari işlerdendir.",
+        "Sadece her iki tarafı da tacir olan kişilerin yaptığı sözleşmeler ticari iş sayılır.",
+        "Esnaf işletmesini ilgilendiren her türlü hukuki işlem doğrudan ticari iş kabul edilir.",
+        "Yalnızca Türk Borçlar Kanunu kapsamında tanzim edilen sözleşmeler ticari iş sayılır."
+      ],
+      "answer": 0,
+      "reason": "Bu Kanunda düzenlenen hususlarla bir ticari işletmeyi ilgilendiren bütün işlem ve fiiller ticari işlerdendir. TTK m.3"
+    },
+    "ticari-isletme": {
+      "q": "Türk Ticaret Kanunu m. 11 uyarınca ticari işletmenin kanuni tanımı aşağıdakilerden hangisidir?",
+      "choices": [
+        "Ticari işletme, esnaf işletmesi için öngörülen sınırı aşan düzeyde gelir sağlamayı hedef tutan faaliyetlerin devamlı ve bağımsız şekilde yürütüldüğü işletmedir.",
+        "Ticari işletme, kazanç sağlama amacı gütmeyen ve esnaf sınırları içinde kalan her türlü faaliyettir.",
+        "Ticari işletme, devredilmesi durumunda malvarlığı unsurlarının her birinin ayrı ayrı devir işlemine tabi tutulması zorunlu olan yapıdır.",
+        "Ticari işletme ile esnaf işletmesi arasındaki sınır her somut olayda yerel mahkeme hakimi tarafından serbestçe belirlenir."
+      ],
+      "answer": 0,
+      "reason": "Ticari işletme, esnaf işletmesi için öngörülen sınırı aşan düzeyde gelir sağlamayı hedef tutan faaliyetlerin devamlı ve bağımsız şekilde yürütüldüğü işletmedir. TTK m.11"
+    },
+    "tacir": {
+      "q": "Türk Ticaret Kanunu m. 12 uyarınca gerçek kişilerde tacir sıfatının kazanılmasına ilişkin temel unsur aşağıdakilerden hangisidir?",
+      "choices": [
+        "Bir ticari işletmeyi, kısmen de olsa, kendi adına işleten kişiye tacir denir.",
+        "Bir ticari işletmeyi başkası adına yöneten ve işleten her temsilci fiilen tacir sıfatını kazanır.",
+        "Sadece ticaret siciline tescil edilen ancak işletmesini fiilen hiç açmamış kişiler tacir sayılır.",
+        "Bir ticari işletmede ücret karşılığı çalışan tüm işçiler kendiliğinden tacir kabul edilir."
+      ],
+      "answer": 0,
+      "reason": "Bir ticari işletmeyi, kısmen de olsa, kendi adına işleten kişiye tacir denir. TTK m.12"
+    },
+    "sicil": {
+      "q": "Türk Ticaret Kanunu m. 36 uyarınca ticaret sicili kayıtlarının üçüncü kişilere etkisi hakkında aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Ticaret sicili kayıtları üçüncü kişiler hakkında, tescilin Türkiye Ticaret Sicili Gazetesinde ilan edildiği günü izleyen iş gününden itibaren hukuki sonuçlarını doğurur.",
+        "İlan edilen sicil kayıtlarını bilmediğini iddia eden üçüncü kişilerin bu iddiası her zaman mahkemelerce kabul olunur.",
+        "Tescili zorunlu olduğu halde tescil edilmemiş hususlar iyiniyetli üçüncü kişilere karşı her durumda ileri sürülebilir.",
+        "Sicil kayıtları tescil edildiği anda ilan edilmesine gerek kalmaksızın tüm üçüncü kişiler hakkında derhal sonuç doğurur."
+      ],
+      "answer": 0,
+      "reason": "Ticaret sicili kayıtları nerede bulunurlarsa bulunsunlar, üçüncü kişiler hakkında, tescilin Türkiye Ticaret Sicili Gazetesinde ilan edildiği günü izleyen iş gününden itibaren hukuki sonuçlarını doğurur. TTK m.36"
+    },
+    "unvan": {
+      "q": "Türk Ticaret Kanunu m. 49 uyarınca ticaret unvanının devrine ilişkin kural aşağıdakilerden hangisidir?",
+      "choices": [
+        "Ticaret unvanı işletmeden ayrı olarak başkasına devredilemez.",
+        "Ticaret unvanı işletmeden tamamen bağımsız şekilde tek başına satılabilir veya devredilebilir.",
+        "İşletmenin devri halinde ticaret unvanı hiçbir zaman devredilmiş sayılamaz.",
+        "Ticaret unvanı sadece tüzel kişi tacirler tarafından işletmesiz olarak devredilebilir."
+      ],
+      "answer": 0,
+      "reason": "Ticaret unvanı işletmeden ayrı olarak başkasına devredilemez. TTK m.49"
+    },
+    "haksiz-rekabet": {
+      "q": "Türk Ticaret Kanunu m. 54 uyarınca haksız rekabet hükümlerinin temel amacı ve ilkesi aşağıdakilerden hangisidir?",
+      "choices": [
+        "Haksız rekabete ilişkin hükümlerin amacı, bütün katılanların menfaatine, dürüst ve bozulmamış rekabetin sağlanmasıdır.",
+        "Haksız rekabet hükümlerinin tek amacı piyasadaki tekel konumundaki şirketlerin haklarını korumaktır.",
+        "Rakipler arasında yapılan tüm fiyat indirimlerini haksız rekabet sayarak yasaklamaktır.",
+        "Sadece tüketicilerin cezai sorumluluklarını düzenlemektir."
+      ],
+      "answer": 0,
+      "reason": "Haksız rekabete ilişkin bu Kısım hükümlerinin amacı, bütün katılanların menfaatine, dürüst ve bozulmamış rekabetin sağlanmasıdır. TTK m.54"
+    },
+    "ticari-islemler": {
+      "q": "Türk Ticaret Kanunu m. 18 uyarınca tacirin ticaretine ait faaliyetlerindeki özen yükümlülüğü aşağıdakilerden hangisidir?",
+      "choices": [
+        "Her tacirin, ticaretine ait bütün faaliyetlerinde basiretli bir iş adamı gibi hareket etmesi gerekir.",
+        "Tacir, ticari faaliyetlerinde yalnızca ortalama bir vatandaşın göstermesi gereken makul özenle yükümlüdür.",
+        "Tacirin basiretli hareket etme yükümlülüğü sadece adli mahkemelerde dava açtığı durumlarda geçerlidir.",
+        "Tüzel kişi tacirler basiretli bir iş adamı gibi hareket etme ödevinden tamamen muaftır."
+      ],
+      "answer": 0,
+      "reason": "Her tacirin, ticaretine ait bütün faaliyetlerinde basiretli bir iş adamı gibi hareket etmesi gerekir. TTK m.18"
+    }
+  },
+  "intro": "Sınav puanı sloganı yazmaktan değil tacir kapısını ayırmaktan düşer. Aşağıdaki tuzaklar resmi lafza ve graf unsura dayanır; slayt cümlesi değildir.",
+  "uyari": "Borçlar genel ve şirket organları bu kâğıdın asıl kapısı değildir. Tacir, işletme, sicil ve unvan yazılır. OBS bağlayıcıdır."
+}

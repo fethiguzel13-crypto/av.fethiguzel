@@ -1,0 +1,108 @@
+{
+  "guz": [
+    "İlamlı icrada icra emrine karşı zamanaşımı def'i icra dairesine değil, 7 gün içinde icra mahkemesine başvurularak icranın geri bırakılması talebiyle ileri sürülür; ilamsız takipteki gibi icra dairesine yapılan itiraz takibi kendiliğinden durdurmaz.",
+    "Yabancı devletler aleyhine ilamlı icra takibi (uluslararası antlaşmalar ve borçlu devlete ait mallar saklı kalmak kaydıyla) yapılabilmekte iken, ilamsız takip yapılması İİK m. 42 uyarınca emredici şekilde yasaktır.",
+    "İtirazın tebliğinden itibaren itirazın iptali davası genel mahkemede 1 yıl içinde açılabilirken; itirazın kesin veya geçici kaldırılması talebi icra mahkemesinde İİK m. 68 belgeleriyle 6 ay içinde istenmelidir. 6 aylık süre geçirilirse aynı alacak için yeniden ilamsız takip yapılamaz.",
+    "İtirazın iptali davasında haksız çıkan borçlu veya kötü niyetli alacaklı aleyhine %20'den aşağı olmamak üzere icra inkar/kötüniyet tazminatına hükmedilir; borçlunun itirazının kaldırılması talebinin kabulü veya reddinde de aynı tazminat oranı icra mahkemesince uygulanır.",
+    "Haciz isteme hakkı ödeme emrinin tebliğinden itibaren 1 yıl geçmekle düşer; ancak borçlunun takibe itiraz etmesi veya dava açılması durumunda, itiraz/davadan hükmün kesinleşmesine kadar geçen süre 1 yıllık haciz isteme süresinin hesabında dikkate alınmaz."
+  ],
+  "bahar": [
+    "Mahcuz mal borçlunun zilyetliğinde ise (m. 97) 3. kişi veya borçlu 7 gün içinde istihkak iddiasında bulunmalı ve icra mahkemesi takibin talikine veya devamına karar verdikten sonra 3. kişi 7 gün içinde istihkak davası açmalıdır. Mal 3. kişinin zilyetliğinde ise (m. 99) mal muhafaza altına alınmaz; icra müdürü alacaklıya icra mahkemesinde dava açması için 7 gün süre verir.",
+    "Haczedilen malın satılması hacizden itibaren 1 yıl içinde istenmeli ve kıymet takdiri ile satış giderleri peşin yatırılmalıdır (m. 106). Gider yatırılmazsa satış talebi vaki olmamış sayılır; kanuni müddet içinde satış istenmezse o mal üzerindeki haciz kalkar (m. 110). 7343 ile gider senaryosu m.110'dan m.106'ya taşınmıştır.",
+    "Sıra cetveline karşı itiraz alacağın esasına ve miktarına ilişkinse 7 gün içinde genel mahkemede dava açılmalı; itiraz sadece alacaklıların sırasına ilişkinse 7 gün içinde icra mahkemesine şikayet yoluna başvurulmalıdır.",
+    "Kesin aciz vesikası borcun ikrarını mutazammın senet sayılır ve alacaklıya iptal davası (m. 277) açma yetkisi verir; ancak aciz vesikasına bağlanan alacak miktarı için faiz istenemez ve alacak borçluya karşı 20 yılda zamanaşımına uğrar.",
+    "İflas takibinde yetkili icra dairesi yazılı anlaşma ile belirlenebilirse de, iflas davaları için yetki sözleşmesi yapılamaz ve dava mutlaka borçlunun muamele merkezinin bulunduğu yer Asliye Ticaret Mahkemesinde açılır (m. 154). İflasa karar verildikten sonra iflas davasından feragat geçersizdir (m. 165)."
+  ],
+  "mcq": {
+    "ilamli": {
+      "q": "İlamlı icra takibinde borçlunun icra emrinin tebliğinden sonra borcun zamanaşımına uğradığı iddiasıyla başvuracağı hukuki yol ve süresi hakkında aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "İcra dairesine 7 gün içinde verilecek itiraz dilekçesiyle takip kendiliğinden durur.",
+        "Dilekçe ile 7 gün içinde icra mahkemesine başvurularak icranın geri bırakılması istenmelidir.",
+        "Genel mahkemelerde 1 yıl içinde menfi tespit davası açılması zorunludur.",
+        "İlamlı icrada zamanaşımı def'inde bulunulması kanunen mümkün değildir."
+      ],
+      "answer": 1,
+      "reason": "İİK m. 33 uyarınca borçlu, icra emrinin tebliği üzerine yedi gün içinde dilekçe ile icra mahkemesine başvurarak borcun zamanaşımına uğradığı iddiasıyla icranın geri bırakılmasını isteyebilir. İlamlı icrada icra dairesine yapılan itiraz takibi kendiliğinden durdurmaz."
+    },
+    "ilamsiz": {
+      "q": "İlamsız icra takibinin kapsamı ve usulü ile ilgili aşağıda verilen kurallardan hangisi İİK m. 42 ve m. 62 hükümlerine göre doğrudur?",
+      "choices": [
+        "Yabancı devletler aleyhine ve idari yargının görev alanına giren konularda ilamsız takip yoluna başvurulamaz.",
+        "İlamsız takipte ödeme emrine itiraz süresi 15 gündür ve doğrudan Asliye Hukuk Mahkemesine yapılır.",
+        "Borçlunun ödeme emrine itiraz etmesi takibi durdurmaz, alacaklı haciz istemeye devam edebilir.",
+        "İlamsız takip başlatılabilmesi için alacağın mutlaka bir mahkeme ilamına dayanması şarttır."
+      ],
+      "answer": 0,
+      "reason": "İİK m. 42 fıkra 2 ve 3 uyarınca yabancı devlet aleyhine ve idari yargının görev alanına giren konularda ilamsız takip yoluna başvurulamaz. İlamsız takipte ödeme emrine itiraz süresi 7 gündür, icra dairesine yapılır ve takibi durdurur."
+    },
+    "itiraz": {
+      "q": "İlamsız takipte borçlunun ödeme emrine itiraz etmesi üzerine alacaklının takibi devam ettirmek için başvurabileceği yollar hakkında aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Alacaklı elinde hiçbir belge olmasa dahi sadece icra mahkemesinden itirazın kaldırılmasını isteyebilir.",
+        "İtirazın iptali davası itirazın tebliğinden itibaren 6 ay içinde icra mahkemesinde açılmalıdır.",
+        "İtirazın kesin kaldırılması 6 ay içinde İİK m. 68 belgeleriyle icra mahkemesinden istenebilir; itirazın iptali davası ise 1 yıl içinde genel mahkemede açılır.",
+        "İtirazın iptali davasında haksız çıkan taraf aleyhine tazminat oranı sabit %50 olarak uygulanır."
+      ],
+      "answer": 2,
+      "reason": "İİK m. 67 uyarınca alacaklı 1 yıl içinde genel mahkemede itirazın iptali davası açabilir. İİK m. 68 uyarınca alacaklının takibi onaylı veya imzası ikrar edilmiş senet yahut resmi belgeye dayanıyorsa 6 ay içinde icra mahkemesinden itirazın kaldırılmasını isteyebilir; her iki yolda da tazminat en az %20'dir."
+    },
+    "haciz": {
+      "q": "İİK m. 78 uyarınca haciz isteme hakkı ve haciz süresinin hesabı ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Haciz istemek hakkı ödeme emrinin tebliği tarihinden itibaren 1 sene geçmekle düşer; itiraz veya dava halinde geçen zaman bu süreye dahil edilmez.",
+        "Borçlu ödeme emrine itiraz etse bile 1 yıllık haciz isteme süresi kesintisiz işlemeye devam eder.",
+        "Haciz talep süresi geçirilirse takip tamamen hükümsüz kalır ve bir daha yenileme talebinde bulunulamaz.",
+        "Haciz talebi ödeme emri tebliğ edilmeden önce de her zaman icra müdüründen istenebilir."
+      ],
+      "answer": 0,
+      "reason": "İİK m. 78 uyarınca haciz istemek hakkı ödeme emrinin tebliği tarihinden itibaren bir sene geçmekle düşer. Ancak itiraz veya dava halinde bunların vukuundan hükmün kesinleşmesine kadar geçen zaman hesaba katılmaz."
+    },
+    "istihkak": {
+      "q": "Haczedilen malın borçlunun değil, 3. kişinin zilyetliğinde bulunması durumunda (İİK m. 99) uygulanan istihkak usulü hakkında aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "İcra müdürü malı derhal muhafaza altına alır ve 3. kişiye icra mahkemesinde dava açması için 7 gün verir.",
+        "3. kişi yedieminliği kabul ederse mal muhafaza altına alınmaz; icra müdürü alacaklıya icra mahkemesinde istihkak davası açması için 7 gün süre verir.",
+        "İspat yükü her durumda borçluya aittir ve dava Asliye Hukuk Mahkemesinde görülür.",
+        "Alacaklı süresinde dava açmazsa 3. kişinin istihkak iddiası reddedilmiş sayılır."
+      ],
+      "answer": 1,
+      "reason": "İİK m. 99 uyarınca haczedilen şey 3. kişi nezdinde bulunursa ve kişi yedieminliği kabul ederse mal muhafaza altına alınmaz; icra müdürü alacaklıya icra mahkemesinde istihkak davası açması için 7 gün süre verir. Süresinde dava açılmazsa 3. kişinin iddiası kabul edilmiş sayılır."
+    },
+    "satis": {
+      "q": "Hacizli malların paraya çevrilmesi ve haczin kalkması (İİK m. 106 ve m. 110) hükümlerine göre aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Satış talebi hacizden itibaren 2 yıl içinde istenebilir ve giderlerin yatırılması zorunlu değildir.",
+        "Giderler peşin yatırılmazsa satış talebi vaki olmamış sayılır (m. 106); kanuni müddet içinde satış istenmezse o mal üzerindeki haciz kalkar (m. 110).",
+        "Taşınmaz satışında haciz hiçbir zaman kendiliğinden kalkmaz.",
+        "Satış talebi bir defa geri alındığında mal üzerindeki haciz derhal kalkar."
+      ],
+      "answer": 1,
+      "reason": "7343 sayılı Kanun m.106'ya gider yatırılmazsa talebin vaki olmamış sayılmasını yazdı. m.110 haczin kalkmasını yalnız kanuni müddet içinde satış istenmemesine (veya talebin geri alınıp yenilenmemesine) bağlar."
+    },
+    "sira-cetveli": {
+      "q": "Satış tutarının bütün alacaklıların alacağını ödemeye yetmemesi üzerine düzenlenen sıra cetveline itiraz (İİK m. 142) ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Sıra cetveline karşı tüm itirazlar tek merci olan İcra Mahkemesine şikayet yoluyla yapılır.",
+        "İtiraz alacağın esasına ve miktarına ilişkinse 7 gün içinde genel mahkemede dava açılmalı; yalnız sıraya ilişkinse 7 gün içinde icra mahkemesine şikayet edilmelidir.",
+        "Sıra cetveline itiraz süresi 30 gündür ve Asliye Ticaret Mahkemesinde görülür.",
+        "Aciz vesikası alan alacaklı kalan alacak miktarı için faiz işletmeye devam eder."
+      ],
+      "answer": 1,
+      "reason": "İİK m. 142 uyarınca sıra cetvelinin tebliğinden itibaren 7 gün içinde itiraz alacağın esas ve miktarına ilişkinse genel mahkemede dava açılır; yalnız sıraya ilişkinse icra mahkemesine şikayet olunur. Ayrıca İİK m. 143 uyarınca aciz vesikasında yazılı alacak miktarı için faiz istenemez."
+    },
+    "iflas": {
+      "q": "İflas takibi, yetkili merci ve iflasın açılması usulü (İİK m. 154, m. 156, m. 165) ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Taraflar yetki sözleşmesi ile iflas davasının bakılacağı Ticaret Mahkemesini serbestçe değiştirebilirler.",
+        "İflas istemek hakkı ödeme emrinin tebliğinden itibaren 1 yıl sonra düşer; iflas davası borçlunun muamele merkezindeki Ticaret Mahkemesinde açılır ve iflas kararı verildikten sonra feragat geçersizdir.",
+        "İflas takibi doğrudan icra mahkemesi hakimi tarafından verilen kararla açılır.",
+        "Ödeme emrine itiraz edilmesi halinde alacaklı icra dairesinden itirazın kaldırılmasını isteyerek iflası açtırır."
+      ],
+      "answer": 1,
+      "reason": "İİK m. 154 uyarınca iflas davaları için yetki sözleşmesi yapılamaz ve dahi mutlaka borçlunun muamele merkezinin bulunduğu yer Ticaret Mahkemesinde açılır. İİK m. 156 uyarınca iflas isteme hakkı 1 yılda düşer. İİK m. 165 uyarınca iflas hükümle açılır ve karardan sonra feragat geçersizdir."
+    }
+  },
+  "intro": "Kâğıdın ilk cümlesinde ilamlı mı ilamsız mı olduğunu yazın. Tuzaklar İİK lafzı ve graf unsura dayanır.",
+  "uyari": "İtirazın iptali ile kaldırılması, haciz ile istihkak, m.106 vaki olmamış sayılma ile m.110 haczin kalkması aynı torbaya konmaz."
+}

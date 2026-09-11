@@ -2,7 +2,7 @@
 
 **Slug:** `ankara-yildirim-beyazit`  
 **Son tarama:** 2026-08-05  
-**Durum:** curated nota geçiş başladı (borçlar-genel)
+**Durum:** borçlar-genel üçlüsü curated (graf+örtü+NotebookLM, 2026-09-11)
 
 ## Kimlik
 
@@ -36,8 +36,9 @@
 
 ## Not üretim önceliği
 
-1. `borclar-genel` — curated (2026-08-05)
-2. `medeni-baslangic`, `ceza-genel`, `esya`, `icra-iflas`
+1. `borclar-genel` — curated üçlü (Güz / Bahar / yıllık, 2026-09-11)
+2. `medeni-baslangic` — curated üçlü (graf+örtü+TMK quiz, 2026-09-11)
+3. `ceza-genel`, `esya`, `icra-iflas`
 3. Usul / ticaret
 
 ## Yasaklar

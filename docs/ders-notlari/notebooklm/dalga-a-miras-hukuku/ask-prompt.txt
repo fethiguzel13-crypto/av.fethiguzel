@@ -1,0 +1,45 @@
+Sadece JSON üret. Markdown yok, künye yok, fakülte adı yok. Kaynak olarak yalnız TMK resmi lafzı ve graf unsura dayan.
+
+Şema:
+{
+  "guz": ["tuzak cümlesi", "tuzak cümlesi", "tuzak cümlesi", "tuzak cümlesi"],
+  "bahar": ["tuzak cümlesi", "tuzak cümlesi", "tuzak cümlesi", "tuzak cümlesi"],
+  "mcq": {
+    "yasal-mirascilik": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TMK m.N"},
+    "sakli-pay": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TMK m.N"},
+    "olume-bagli-tasarruf": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TMK m.N"},
+    "miras-sozlesmesi": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TMK m.N"},
+    "iptal": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TMK m.N"},
+    "tenkis": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TMK m.N"},
+    "ret": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TMK m.N"},
+    "tereke-paylasma": {"q":"...","choices":["...","...","...","..."],"answer":0,"reason":"... TMK m.N"}
+  }
+}
+
+Kurallar:
+- answer 0-3 tamsayıdır (doğru şık indeksi).
+- Her q dört choices içerir; tek doğru vardır.
+- reason TMK madde numarası söyler.
+- Tuzak cümlesi hangi iki kurumun karıştırıldığını ve doğru lafzı söyler.
+
+Güz tuzakları (tam bu ayrımlar):
+1) zümre kapısı / eş payı (TMK m.495-499: birinci zümre varken ikinci çağrılmaz; eş altsoy ile 1/4, ana-baba ile 1/2, büyükana-baba ile 3/4)
+2) saklı pay / yasal pay (TMK m.506: altsoy yasal payın 1/2'si; kardeş saklı payı 2007'de mülga)
+3) el yazılı vasiyet (TMK m.538: baştan sona el yazısı + yıl ay gün + imza) / resmi vasiyet (TMK m.532: iki tanık + resmi memur)
+4) vasiyet (TMK m.502: 15 yaş + ayırt etme) / miras sözleşmesi (TMK m.503 erginlik; m.545 resmi vasiyetname şeklinde)
+
+Bahar tuzakları:
+1) iptal (TMK m.557: ehliyetsizlik, irade sakatlığı, hukuka/ahlaka aykırılık, şekle aykırılık) / tenkis (TMK m.560: saklı payı aşan tasarruf)
+2) tenkis hak düşürücü süre (TMK m.571: öğrenmeden 1 yıl, her halde 10 yıl) / ret süresi (TMK m.606: üç ay)
+3) ret beyanı / borca batıklıkta ret varsayımı (TMK m.605/2)
+4) tereke elbirliği (TMK m.640: paylaşmaya kadar birlikte tasarruf) / paylaşma sonrası pay
+
+MCQ odakları:
+- yasal-mirascilik: eşin zümreye göre payı (m.499)
+- sakli-pay: oranlar ve kardeşin saklı paylı olmaması (m.506)
+- olume-bagli-tasarruf: el yazılı vasiyet şekli (m.538) veya resmi vasiyet (m.532)
+- miras-sozlesmesi: ehliyet (m.503) veya şekil (m.545)
+- iptal: m.557 sebepleri; şekle aykırılık iptal sebebidir, tenkis değildir
+- tenkis: m.560 koşulları ve m.571 süre
+- ret: m.606 üç ay; m.605/2 aciz varsayımı
+- tereke-paylasma: m.640 elbirliği

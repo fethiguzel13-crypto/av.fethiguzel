@@ -1,0 +1,106 @@
+{
+  "intro": "Sınav puanı sloganı yazmaktan değil sözleşme türünü ayırmaktan düşer. Aşağıdaki tuzaklar resmi lafza ve graf unsura dayanır; slayt cümlesi değildir.",
+  "uyari": "Borcun kaynağı (sözleşme / haksız fiil / sebepsiz) borçlar genel kapısıdır. Bu kâğıtta tür, şekil, ayıp ve süre yazılır. OBS bağlayıcıdır.",
+  "guz": [
+    "Ayıp bildirimi ile seçimlik haklar karıştırılmamalıdır; alıcı satılanı işlerin olağan akışına göre imkân bulunur bulunmaz gözden geçirip ayıbı uygun sürede bildirmezse satılanı kabul etmiş sayılır (TBK m.223), bildirimden sonra kullanacağı haklar ise dönme, bedel indirimi, ücretsiz onarım ve imkân varsa ayıpsız benzerle değişimdir (TBK m.227).",
+    "Satışın tanımı ile taşınmaz satışının şekli karıştırılmamalıdır; satış satılanın zilyetlik ve mülkiyetini devir ile bedel ödeme borçlarını karşı karşıya getirir (TBK m.207) oysa taşınmaz satışı ve satış vaadi resmî şekilde düzenlenmedikçe geçerli olmaz, önalım sözleşmesi ise yazılı şekille yeter (TBK m.237).",
+    "Bağışlamanın karşılıksızlığı ile taşınmaz bağışlama vaadinin şekli karıştırılmamalıdır; bağışlama sağlararası karşılıksız kazandırmadır (TBK m.285) ve bağışlama sözü verme kural olarak yazılı, taşınmaz veya ayni hak vaadi ise resmî şekle bağlıdır; şekle aykırı vaadin ifası elden bağış sayılır ama resmî şekle bağlı bağışlamada bu hüküm işlemez (TBK m.288).",
+    "Kira ile eser ve satış karıştırılmamalıdır; kira kullanımın veya semerenin bırakılması karşılığı bedeldir, mülkiyet geçmez (TBK m.299) oysa eser yüklenicinin bir sonuç meydana getirmesidir (TBK m.470) ve konut ile çatılı işyerinde kiraya veren süre bitimine dayanarak sözleşmeyi sona erdiremez (TBK m.347)."
+  ],
+  "bahar": [
+    "Hizmet ile vekâlet karıştırılmamalıdır; hizmette işçi işverene bağımlı olarak işgörür ve ücret kuraldır (TBK m.393) oysa vekâlette vekil bir işi görmeyi üstlenir ve ücrete ancak sözleşme veya teamül varsa hak kazanır (TBK m.502).",
+    "Vekilin şahsen ifa ve özen borcu (TBK m.506) hizmetteki bağımlı işgörmenin yerine geçmez; vekâlet menfaate uygun işgörme, hizmet bağımlılık ve ücret üzerine kurulur.",
+    "Kefaletin nitelikli yazılı şekli ile eş rızası karıştırılmamalıdır; sözleşmenin geçerliliği yazılı şekil, azamî miktar, kefalet tarihi ve müteselsil ise bu sıfatın kefilin el yazısıyla belirtilmesine bağlıdır (TBK m.583) ayrıca eşin yazılı rızası kural olarak kuruluştan önce veya en geç kuruluş anında aranır (TBK m.584).",
+    "Kullanım ödüncü ile tüketim ödüncü karıştırılmamalıdır; kullanım ödüncünde şey karşılıksız kullanılır ve aynı şey geri verilir, mülkiyet geçmez (TBK m.379) oysa tüketim ödüncünde para veya tüketilebilen şey devredilir ve aynı nitelik ve miktarda geri verilir (TBK m.386); ticari olmayan tüketim ödüncünde faiz kararlaştırılmadıkça istenemez (TBK m.387)."
+  ],
+  "mcq": {
+    "satim": {
+      "q": "TBK m.227 uyarınca satıcının ayıptan sorumlu olduğu hâllerde alıcının seçimlik hakları hakkında hangisi doğrudur?",
+      "choices": [
+        "Alıcı yalnızca bedel indirimi isteyebilir; dönme hakkı tüketici işlemine özgüdür.",
+        "Alıcı dönme, ayıp oranında bedel indirimi, aşırı masraf değilse ücretsiz onarım ve imkân varsa ayıpsız benzerle değişim haklarından birini kullanabilir; genel hükümlere göre tazminat saklıdır.",
+        "Satıcı ayıpsız benzeri verse bile alıcının dönme hakkı her durumda devam eder.",
+        "Ayıp bildirimi yapılmasa bile seçimlik haklar on yıl boyunca kullanılabilir."
+      ],
+      "answer": 1,
+      "reason": "TBK m.227 dört seçimlik hakkı sayar ve tazminatı saklı tutar. Satıcı ayıpsız benzeri hemen verip zararın tamamını gidererek seçimlik hakları önleyebilir. Bildirim m.223 külfetidir."
+    },
+    "bagislama": {
+      "q": "TBK m.288 uyarınca bağışlama sözü vermenin şekli hakkında hangisi doğrudur?",
+      "choices": [
+        "Her bağışlama sözü verme resmî şekle bağlıdır.",
+        "Bağışlama sözü verme kural olarak yazılı şekle, taşınmaz veya ayni hak vaadi ise resmî şekle bağlıdır; resmî şekle bağlı vaatte şekle aykırılığın ifayla düzelmesi kuralı işlemez.",
+        "Şekle aykırı taşınmaz bağışlama vaadi ifa edilirse elden bağışlama hükmündedir.",
+        "Bağışlama sözü verme sözlü olarak da geçerlidir; şekil yalnızca ispat içindir."
+      ],
+      "answer": 1,
+      "reason": "TBK m.288/1 yazılı şekli, m.288/2 taşınmaz ve ayni hak vaadinde resmî şekli arar. m.288/3 ifayla düzeltmeyi resmî şekle bağlı bağışlamalarda dışlar."
+    },
+    "kira": {
+      "q": "TBK m.347 uyarınca konut ve çatılı işyeri kiralarında belirli süreli sözleşmenin sona ermesi hakkında hangisi doğrudur?",
+      "choices": [
+        "Kiraya veren, süre bitiminde herhangi bir sebep göstermeksizin sözleşmeyi sona erdirebilir.",
+        "Kiracı süre bitiminden en az onbeş gün önce bildirimde bulunmadıkça sözleşme aynı koşullarla bir yıl uzar; kiraya veren süre bitimine dayanarak sözleşmeyi sona erdiremez.",
+        "Belirli süreli konut kirası süre dolunca kendiliğinden sona erer, bildirim aranmaz.",
+        "On yıllık uzama kuralı yalnız işyeri kirasına özgüdür, konuta uygulanmaz."
+      ],
+      "answer": 1,
+      "reason": "TBK m.347/1 kiracının 15 gün kuralını ve kiraya verenin süre bitimine dayanarak sona erdirememesini düzenler. On yıllık uzama istisnası aynı fıkradadır."
+    },
+    "eser": {
+      "q": "TBK m.470 ve m.480 uyarınca eser sözleşmesi ve götürü bedel hakkında hangisi doğrudur?",
+      "choices": [
+        "Eser sözleşmesinde yüklenici faaliyet borcu altına girer; bedel her zaman yaklaşık belirlenir.",
+        "Eser sözleşmesi bir eser meydana getirme karşılığı bedeldir; götürü bedelde yüklenici kural olarak artırma isteyemez, işsahibi de eserin daha az emek gerektirmesi hâlinde bedelin tamamını öder.",
+        "Götürü bedelde işsahibi, eser daha az emek gerektirmişse bedeli indirebilir.",
+        "Eser sözleşmesi kiradan farksızdır çünkü her ikisinde de bir şeyin kullanılması bırakılır."
+      ],
+      "answer": 1,
+      "reason": "TBK m.470 sonuç borcudur. m.480/1 götürü bedelde artırma yasağını, m.480/3 işsahibinin tam bedel ödeme borcunu koyar."
+    },
+    "hizmet": {
+      "q": "TBK m.393 uyarınca hizmet sözleşmesini vekâletten ayıran unsur hangisidir?",
+      "choices": [
+        "Hizmette ücret kural değildir; vekâlette ücret her zaman zorunludur.",
+        "Hizmet sözleşmesinde işçi işverene bağımlı olarak işgörür ve işveren zamana veya yapılan işe göre ücret öder.",
+        "Hizmet sözleşmesi yalnız tam süreli çalışmayı kapsar; kısmi süre vekâlete girer.",
+        "Hizmette şahsen ifa yoktur; iş her zaman alt yükleniciye bırakılır."
+      ],
+      "answer": 1,
+      "reason": "TBK m.393 bağımlılık ve ücreti kurucu unsur yapar. Kısmi süreli düzenli ifa da hizmettir. Vekâlette ücret m.502/3 ile sözleşme veya teamüle bağlıdır."
+    },
+    "vekalet": {
+      "q": "TBK m.502 uyarınca vekâlet sözleşmesinde ücret hakkında hangisi doğrudur?",
+      "choices": [
+        "Vekil her durumda ücrete hak kazanır; aksi kararlaştırılamaz.",
+        "Sözleşme veya teamül varsa vekil ücrete hak kazanır.",
+        "Vekâlet ancak ücretli olarak kurulur, aksi hâlde bağışlamadır.",
+        "Ücret yalnız avukatlık sözleşmesinde doğar, TBK'da düzenlenmemiştir."
+      ],
+      "answer": 1,
+      "reason": "TBK m.502/3 açıkça sözleşme veya teamül varsa ücret doğacağını söyler. Kural, ücretsiz vekâlettir."
+    },
+    "kefalet": {
+      "q": "TBK m.583 ve m.584 uyarınca kefalet sözleşmesinin geçerliliği hakkında hangisi doğrudur?",
+      "choices": [
+        "Kefalet sözlü olarak da geçerlidir; miktar sonradan hâkimce belirlenir.",
+        "Yazılı şekil, azamî miktar ve kefalet tarihi şarttır; müteselsil kefalet ile azamî miktar ve tarih kefilin el yazısıyla belirtilir. Evli kefile kural olarak eşin, kuruluştan önce veya en geç kuruluş anında verdiği yazılı rıza da gerekir.",
+        "Eşin rızası her ticari kefalette de zorunludur, istisna yoktur.",
+        "Şekil yalnız ispat şartıdır; el yazısı aranmaz."
+      ],
+      "answer": 1,
+      "reason": "TBK m.583 nitelikli yazılı şekli, m.584 eş rızasını ve zamanını düzenler. m.584/3 ticari/esnaf kefaletinde rıza istisnası vardır."
+    },
+    "odunc": {
+      "q": "TBK m.379, m.386 ve m.387 uyarınca ödünç türleri hakkında hangisi doğrudur?",
+      "choices": [
+        "Kullanım ödüncünde mülkiyet ödünç alana geçer ve faiz kuraldır.",
+        "Kullanım ödüncünde şey karşılıksız kullanılır ve aynı şey geri verilir; tüketim ödüncünde para veya tüketilebilen şey devredilir. Ticari olmayan tüketim ödüncünde faiz kararlaştırılmadıkça istenemez.",
+        "İki ödünç türü de kira hükmündedir çünkü bedel ödenir.",
+        "Tüketim ödüncünde faiz hiçbir zaman istenemez, ticari olsa bile."
+      ],
+      "answer": 1,
+      "reason": "TBK m.379 karşılıksız kullanım ve iade, m.386 misli şeyin devri, m.387 ticari olmayan tüketimde faiz için anlaşma şartı koyar. Ticari tüketimde faiz kararlaştırılmasa da istenebilir."
+    }
+  }
+}

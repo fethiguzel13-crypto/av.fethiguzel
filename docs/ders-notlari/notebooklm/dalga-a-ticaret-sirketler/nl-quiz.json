@@ -1,0 +1,94 @@
+{
+  "guz": [
+    "Ticaret şirketleri (kollektif, komandit, anonim, limited, kooperatif) ile adi şirket karıştırılmamalıdır; adi şirket TBK kapsamında tüzel kişiliği bulunmayan bir ortaklık iken, TTK m.124 uyarınca ticaret şirketleri tüzel kişiliğe sahip olup şahıs ve sermaye şirketleri olarak ayrılır.",
+    "Kollektif şirket ile komandit şirket karıştırılmamalıdır; kollektif şirkette tüm ortakların sorumluluğu şirket alacaklılarına karşı sınırsız iken (TTK m.211), komandit şirkette komandite ortak sınırsız, komanditer ortak ise belirli bir sermaye ile sınırlı sorumludur (TTK m.304).",
+    "Anonim şirket ile şahıs şirketleri karıştırılmamalıdır; anonim şirket sermayesi belirli ve paylara bölünmüş olup borçlarından yalnız malvarlığıyla sorumlu iken (TTK m.329), kurulabilmesi için en az bir kurucunun varlığı yeterlidir (TTK m.338).",
+    "Yönetim kurulu ile genel kurul yetkileri karıştırılmamalıdır; anonim şirket yönetim kurulu tarafından yönetilir ve temsil olunurken (TTK m.365), esas sözleşme değişikliği ve organ seçimi gibi devredilemez yetkiler genel kurula aittir (TTK m.408)."
+  ],
+  "bahar": [
+    "Pay bedeli borcu ile rüçhan hakkı karıştırılmamalıdır; pay sahibine esas sözleşmeyle pay bedeli dışında borç yükletilemez iken (TTK m.480), rüçhan hakkı mevcut pay sahiplerinin yeni çıkarılan payları alma hakkıdır (TTK m.461).",
+    "Limited şirket ile anonim şirket ortak sayısı ve yönetim yapısı karıştırılmamalıdır; limited şirkette ortak sayısı elliyi aşamaz (TTK m.574), en azından bir ortağın yönetim hakkının ve temsil yetkisinin bulunması şarttır (TTK m.623).",
+    "Anonim şirket ve limited şirkette sona erme yolları karıştırılmamalıdır; anonim şirket sürenin dolması veya genel kurul kararıyla sona ererken (TTK m.529), limited şirkette haklı sebeplerin varlığında her ortak mahkemeden şirketin feshini isteyebilir (TTK m.636)."
+  ],
+  "mcq": {
+    "sirket-kavrami": {
+      "q": "TTK m. 124 uyarınca aşağıdakilerden hangisi kanunda açıkça sayılan sermaye şirketlerinden biridir?",
+      "choices": [
+        "Anonim şirket",
+        "Kollektif şirket",
+        "Adi şirket",
+        "Adi komandit şirket"
+      ],
+      "answer": 0,
+      "reason": "TTK m.124"
+    },
+    "kollektif-komandit": {
+      "q": "Komandit şirkette ortakların hukuki durumuna ilişkin olarak TTK m. 304 uyarınca aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Komanditer ortağın sorumluluğu belirli bir sermaye ile sınırlandırılmıştır.",
+        "Komandite ortağın sorumluluğu belirli bir sermaye ile sınırlandırılmıştır.",
+        "Kollektif ortaklar gibi tüm komandit ortaklar sınırsız sorumludur.",
+        "Komanditer ortaklar sadece tüzel kişilerden oluşur."
+      ],
+      "answer": 0,
+      "reason": "TTK m.304"
+    },
+    "anonim": {
+      "q": "TTK m. 338 uyarınca anonim şirketin kurulabilmesi için en az kaç kurucunun varlığı şarttır?",
+      "choices": [
+        "Bir veya daha fazla kurucu",
+        "En az beş kurucu",
+        "En az iki kurucu",
+        "En az üç kurucu"
+      ],
+      "answer": 0,
+      "reason": "TTK m.338"
+    },
+    "organlar": {
+      "q": "TTK m. 365 uyarınca anonim şirketin yönetimi ve temsili kural olarak hangi organa aittir?",
+      "choices": [
+        "Yönetim kurulu",
+        "Genel kurul",
+        "Denetim organı",
+        "Tasfiye memurları"
+      ],
+      "answer": 0,
+      "reason": "TTK m.365"
+    },
+    "sermaye-pay": {
+      "q": "TTK m. 461 uyarınca anonim şirkette rüçhan hakkına ilişkin olarak aşağıdakilerden hangisi doğrudur?",
+      "choices": [
+        "Her pay sahibi, yeni çıkarılan payları mevcut paylarının sermayeye oranına göre alma hakkını haizdir.",
+        "Rüçhan hakkı hiçbir şekilde başkasına devredilemez.",
+        "Genel kurul gerekçesiz olarak oy çokluğuyla rüçhan hakkını kaldırabilir.",
+        "Rüçhan hakkı sadece yönetim kurulu üyelerine tanınır."
+      ],
+      "answer": 0,
+      "reason": "TTK m.461"
+    },
+    "limited": {
+      "q": "TTK m. 574 uyarınca limited şirkette ortakların sayısı en fazla kaç olabilir?",
+      "choices": [
+        "Elliyi aşamaz.",
+        "Yüzü aşamaz.",
+        "Sınırsızdır.",
+        "Yirmi beş ile sınırlıdır."
+      ],
+      "answer": 0,
+      "reason": "TTK m.574"
+    },
+    "sona-erme-sirket": {
+      "q": "TTK m. 529 uyarınca aşağıdakilerden hangisi anonim şirketin kanuni sona erme sebeplerinden biridir?",
+      "choices": [
+        "İflasına karar verilmesi",
+        "Ortak sayısının bire düşmesi",
+        "Yönetim kurulu üye sayısının eksilmesi",
+        "Sermayenin üçte birinin kaybedilmesi"
+      ],
+      "answer": 0,
+      "reason": "TTK m.529"
+    }
+  },
+  "intro": "Sınav puanı sloganı yazmaktan değil şirket türünü ayırmaktan düşer. Aşağıdaki tuzaklar resmi lafza ve graf unsura dayanır; slayt cümlesi değildir.",
+  "uyari": "Ticari işletme (tacir sıfatı) bu kâğıdın asıl kapısı değildir. Tür, organ, pay ve sona erme yazılır. OBS bağlayıcıdır."
+}

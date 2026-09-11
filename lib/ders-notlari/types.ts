@@ -122,6 +122,10 @@ export type NoteExamBox = {
   tips: string[];
 };
 
+export type FacultyOverlayCoursePatch = Partial<
+  Omit<FacultyOverlay, 'uniSlug' | 'byCourse'>
+>;
+
 export type FacultyOverlay = {
   uniSlug: string;
   calendar: CalendarModel;
@@ -133,6 +137,8 @@ export type FacultyOverlay = {
   campus?: string;
   cityHook?: string;
   mehaz?: string;
+  /** Ders koduna göre örtü yaması — borçlar ipuçlarının medeni nota sızmasını keser. */
+  byCourse?: Record<string, FacultyOverlayCoursePatch>;
 };
 
 export type NoteDiagram =
