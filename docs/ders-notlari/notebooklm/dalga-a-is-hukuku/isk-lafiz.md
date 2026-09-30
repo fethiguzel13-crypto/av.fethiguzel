@@ -243,6 +243,8 @@ yükümlüdür.
 dikkate alınarak hangi işlerde uzaktan çalışmanın yapılamayacağı, verilerin korunması ve
 paylaşılmasına ilişkin işletme kurallarının uygulanması ile diğer hususlar Çalışma ve Sosyal
 Güvenlik Bakanlığı tarafından çıkarılan yönetmelikle belirlenir.
+6/5/2016 tarihli ve 6715 sayılı Kanunun 2 nci maddesiyle bu madde başlığı “Çağrı üzerine çalışma”
+iken metne işlendiği şekilde değiştirilmiştir.
 
 
 ## IS-KANUNU m.15
@@ -255,8 +257,6 @@ Madde 15 - Taraflarca iş sözleşmesine bir deneme kaydı konulduğunda, bunun 
 en çok iki ay olabilir. Ancak deneme süresi toplu iş sözleşmeleriyle dört aya kadar uzatılabilir.
 Deneme süresi içinde taraflar iş sözleşmesini bildirim süresine gerek olmaksızın ve
 tazminatsız feshedebilir. İşçinin çalıştığı günler için ücret ve diğer hakları saklıdır.
-6/5/2016 tarih ve 6715 sayılı Kanınun 2 nci maddesiyle bu madde başlığı “Çağrı üzerine çalışma”
-iken metne işlendiği şekilde değiştirilmiştir.
 
 
 ## IS-KANUNU m.17

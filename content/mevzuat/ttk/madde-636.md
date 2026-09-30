@@ -31,8 +31,6 @@ hükmedebilir.
 (4) Fesih davası açıldığında mahkeme taraflardan birinin istemi üzerine gerekli
 önlemleri alabilir.
 (5) Sona ermenin sonuçlarına anonim şirketlere ilişkin hükümler uygulanır.
-Bu maddenin “II - İflasın bildirilmesi veya ertelenmesi” olan başlığı, 28/2/2018 tarihli ve 7101
-sayılı Kanunun 63 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 
 ---
 

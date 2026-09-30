@@ -96,7 +96,7 @@
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Özel hukuk uyuşmazlığı HMK'ya, idari işlem İYUK'a gider.",
+                "m.5 kamu ile özel hukuku ayırmaz. Bu Kanun ve Borçlar Kanununun genel hükümlerinin özel hukuk ilişkilerine uygulanacağını söyler.",
                 "Karma kurumlar (kamulaştırma, icra) sınav tuzağıdır."
             ]
         },
@@ -126,7 +126,7 @@
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Hak ehliyeti her insanda vardır.",
+                "m.2 dürüstlük ve hakkın kötüye kullanılmasıdır. m.8 hak ehliyeti ve kişiliğin kazanılmasıdır. Mutlak ve nisbî ayrım bu iki maddenin kenar başlığı değildir.",
                 "Kötüye kullanma, hakkın varlığını değil korunmasını keser."
             ]
         },
@@ -142,7 +142,7 @@
             ],
             "organicLinks": [
                 "Hukuki işlem, haksız fiilden irade ile ayrılır.",
-                "TBK m.1 sözleşmenin kurulmasını taşır."
+                "TBK m.26 sözleşme özgürlüğünü emredici sınıra bağlar. İçerik serbestisi m.26, kurulma m.1'dedir."
             ],
             "statuteRefs": [
                 {
@@ -156,12 +156,16 @@
                 {
                     "kanunId": "tbk",
                     "maddeNo": "12"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "26"
                 }
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "İcap-kabul, çok taraflı işlemin kurulma yoludur.",
-                "Şekil, kanuni veya iradi olabilir."
+                "İcap ve kabul, çok taraflı işlemin kurulma yoludur.",
+                "Şekil kural olarak serbesttir. Kanunun öngördüğü şekil ile tarafların kararlaştırdığı şekil ayrıdır (m.12)."
             ]
         },
         {
@@ -181,17 +185,17 @@
             "statuteRefs": [
                 {
                     "kanunId": "tck",
-                    "maddeNo": "1"
+                    "maddeNo": "2"
                 },
                 {
                     "kanunId": "tck",
-                    "maddeNo": "2"
+                    "maddeNo": "7"
                 }
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Kıyas fail aleyhine işlemez.",
-                "Lehe kanun geçmişe yürür."
+                "Kıyas fail aleyhine işlemez. Bu ilke m.2'dedir.",
+                "İşlendiği zamanki kanun ile sonraki kanun farklıysa failin lehine olan uygulanır (m.7/2). İnfaz rejimine ilişkin hükümler, erteleme, koşullu salıverilme ve tekerrür hariç derhal uygulanır (m.7/3)."
             ]
         },
         {
@@ -206,22 +210,26 @@
             ],
             "organicLinks": [
                 "Aynı fiil ceza ve tazminatı birlikte doğurabilir.",
-                "Butlan ile iptal, geçmişe etkiyle ayrılır."
+                "Kesin hükümsüz işlem kendiliğinden hüküm doğurmaz. İptal, bozucu bir hakla ileri sürülür."
             ],
             "statuteRefs": [
                 {
                     "kanunId": "tck",
-                    "maddeNo": "1"
+                    "maddeNo": "45"
                 },
                 {
-                    "kanunId": "tck",
-                    "maddeNo": "2"
+                    "kanunId": "tbk",
+                    "maddeNo": "27"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "49"
                 }
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Suç ve ceza kanuniliğe bağlıdır.",
-                "Özel hukuk yaptırımı TBK/TMK'dadır."
+                "Suç karşılığında uygulanan cezalar hapis ve adlî para cezasıdır (TCK m.45).",
+                "Kesin hükümsüzlük TBK m.27, kusurlu ve hukuka aykırı fiille verilen zarar TBK m.49'dadır."
             ]
         },
         {
@@ -236,7 +244,7 @@
                 "kıyas yasağı"
             ],
             "organicLinks": [
-                "Yorum, boşluk doldurmadan (m.1 c.2) ayrıdır.",
+                "Yorum, boşluk doldurmadan (m.1 ikinci cümle) ayrıdır.",
                 "Ceza kanuniliği kıyası keser."
             ],
             "statuteRefs": [
@@ -251,7 +259,7 @@
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Takdir yetkisi yorumun kardeşi, boşluğun değil.",
+                "m.4 hâkimin takdir yetkisidir, yorum yöntemi listesi değildir. Lafız ve öz m.1'dedir.",
                 "Hakkaniyet, kanunun çizdiği çerçevede işler."
             ]
         },
@@ -267,7 +275,7 @@
             ],
             "organicLinks": [
                 "Hak ehliyeti fiil ehliyetinden ayrıdır.",
-                "Ayırt etme gücü yoksa irade beyanı kural olarak sonuç doğurmaz."
+                "Ayırt etme gücü yoksa fiil, kanundaki ayrık durumlar saklı kalmak üzere, hukuki sonuç doğurmaz (m.15)."
             ],
             "statuteRefs": [
                 {
@@ -284,13 +292,25 @@
                 },
                 {
                     "kanunId": "tmk",
+                    "maddeNo": "11"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "13"
+                },
+                {
+                    "kanunId": "tmk",
+                    "maddeNo": "15"
+                },
+                {
+                    "kanunId": "tmk",
                     "maddeNo": "16"
                 }
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Tam ehliyetsizin işlemi kural olarak hükümsüzdür.",
-                "Sınırlı ehliyetsiz yasal temsilciyle işlem yapar."
+                "Ayırt etme gücüne sahip ve kısıtlı olmayan her ergin kişinin fiil ehliyeti vardır (m.10). Erginlik m.11, ayırt etme gücü m.13'tedir.",
+                "Ayırt etme gücüne sahip küçükler ve kısıtlılar sınırlı ehliyetsizdir (m.16)."
             ]
         },
         {
@@ -319,7 +339,7 @@
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Resmî sicil karinesi aksi ispat edilinceye kadar işler.",
+                "Resmî sicil ve senetler, belgeledikleri olguların doğruluğuna kanıt oluşturur. Aksini ispat, başka hüküm yoksa şekle bağlı değildir (m.7).",
                 "İmza inkârı usulü HMK'dadır."
             ]
         }

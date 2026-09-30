@@ -20,7 +20,7 @@ institutions:
     maddeler: ['8', '9', '10', '11', '12']
   - id: ayipli-hizmet
     title: Ayıplı hizmet
-    maddeler: ['13', '14', '15']
+    maddeler: ['13', '14', '15', '16']
   - id: mesafeli
     title: Mesafeli sözleşmeler ve cayma
     maddeler: ['48', '49', '50']
@@ -29,7 +29,7 @@ institutions:
     maddeler: ['5']
   - id: taksitli
     title: Taksitle satış ve finansman
-    maddeler: ['16', '17', '18', '30']
+    maddeler: ['17', '18', '30']
   - id: uyusmazlik
     title: Tüketici uyuşmazlığı
     maddeler: ['68', '70', '73', '77']

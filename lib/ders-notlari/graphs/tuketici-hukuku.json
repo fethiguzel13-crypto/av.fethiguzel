@@ -26,7 +26,7 @@
             ],
             "organicLinks": [
                 "Tüketici sıfatı yoksa TKHK kapanır, TBK açılır.",
-                "Emredicilik, aleyhe sözleşme kaydını düşürür."
+                "Sözleşme koşulları süre içinde tüketici aleyhine değiştirilemez. Haksız şartın yaptırımı ayrı maddedir."
             ],
             "statuteRefs": [
                 {
@@ -107,7 +107,7 @@
                 "hizmet",
                 "ayıp",
                 "seçimlik hak",
-                "bedel"
+                "zamanaşımı"
             ],
             "organicLinks": [
                 "Hizmet, maldan teslimsiz oluşuyla ayrılır.",
@@ -125,6 +125,10 @@
                 {
                     "kanunId": "tkhk",
                     "maddeNo": "15"
+                },
+                {
+                    "kanunId": "tkhk",
+                    "maddeNo": "16"
                 }
             ],
             "caseRefs": [],
@@ -171,7 +175,7 @@
         {
             "id": "haksiz-sart",
             "title": "Haksız şart",
-            "definition": "Tüketiciyle müzakere edilmeden sözleşmeye konulan, tüketici aleyhine dengesizlik yaratan şart haksızdır ve geçersiz sayılabilir.",
+            "definition": "Tüketiciyle müzakere edilmeden sözleşmeye konulan ve dürüstlük kuralına aykırı biçimde tüketici aleyhine dengesizlik yaratan şart haksızdır. Haksız şart kesin olarak hükümsüzdür; sözleşmenin kalan hükümleri ayakta kalır.",
             "elements": [
                 "müzakere edilmeme",
                 "dengesizlik",
@@ -179,8 +183,8 @@
                 "geçersizlik"
             ],
             "organicLinks": [
-                "Haksız şart, TBK genel işlem koşulunun tüketici yüzüdür.",
-                "Dava, şartın yazılmamış sayılmasıdır."
+                "Haksız şart, TBK genel işlem koşulundan yaptırımla ayrılır.",
+                "Yaptırım yazılmamış sayılma değil, kesin hükümsüzlüktür."
             ],
             "statuteRefs": [
                 {
@@ -190,8 +194,8 @@
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Yorum kuşkusunda tüketici lehine bakılır.",
-                "Liste, karine sağlar; genel kloz da işler."
+                "Açık olmayan veya birden çok anlama gelen hüküm tüketici lehine yorumlanır.",
+                "Standart şartın müzakere edildiğini sözleşmeyi düzenleyen ispatlar."
             ]
         },
         {
@@ -210,10 +214,6 @@
                 "Bağlı kredide satıcı ve banka birlikte sorumlu olabilir."
             ],
             "statuteRefs": [
-                {
-                    "kanunId": "tkhk",
-                    "maddeNo": "16"
-                },
                 {
                     "kanunId": "tkhk",
                     "maddeNo": "17"

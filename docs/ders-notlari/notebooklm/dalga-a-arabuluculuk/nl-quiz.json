@@ -1,0 +1,106 @@
+{
+  "intro": "Sınav puanı sloganı yazmaktan değil sürecin iradi mi dava şartı mı olduğunu ayırmaktan düşer. Aşağıdaki tuzaklar 6325 sayılı Kanun lafzına dayanır; slayt cümlesi değildir.",
+  "uyari": "Hangi uyuşmazlıkta dava şartı olduğu ilgili kanunda aranır. 6325 m.18/A, dava şartını kendisi saymaz; ilgili kanun dava şartı demişse usulü düzenler. Künye uydurulmaz. OBS bağlayıcıdır.",
+  "guz": [
+    "Arabuluculuk, tarafların üzerinde serbestçe tasarruf edebilecekleri iş veya işlemlerden doğan özel hukuk uyuşmazlıklarında uygulanır; yabancılık unsuru bunu kapatmaz. Aile içi şiddet iddiasını içeren uyuşmazlık elverişli değildir (6325 m.1). Taraflar başvurmak, sürdürmek, sonuçlandırmak veya vazgeçmekte serbesttir; bu serbestlik, dava şartı olarak arabuluculuğa ilişkin m.18/A saklıdır (6325 m.3). Taraflar süreç boyunca eşit haklara sahiptir.",
+    "Gizlilik kuraldır; taraflarca aksi kararlaştırılmadıkça arabulucu, faaliyet çerçevesinde elde ettiği bilgi, belge ve kayıtları gizli tutar. Taraflar ve görüşmelere katılanlar da gizliliğe uyar (6325 m.4). Uyuşmazlık hakkında dava veya tahkim açıldığında, taraflar, arabulucu ve katılanlar belli beyan ve belgeleri delil olarak ileri süremez ve bunlar hakkında tanıklık yapamaz (6325 m.5).",
+    "Arabulucu yargıç değildir; niteliği gereği yalnız hâkim tarafından yapılabilecek işlemleri yapamaz (6325 m.15). Taraflarla ayrı ayrı veya birlikte görüşebilir (6325 m.8).",
+    "Arabulucu, faaliyetinin karşılığı ücret ve masrafları isteyebilir (6325 m.7). Süreç, dava açılmadan önce, tarafların ilk toplantıya davet edilmesi ve süreci sürdürme konusunda anlaşmanın tutanakla belgelendiği tarihten işler. Bu sürecin başlamasından sona ermesine kadar geçen süre, zamanaşımı ve hak düşürücü süre hesabına katılmaz (6325 m.16)."
+  ],
+  "bahar": [
+    "Arabulucu seçildikten sonra tarafları en kısa sürede ilk toplantıya davet eder. Taraflar, emredici hukuka aykırı olmamak kaydıyla usulü serbestçe kararlaştırabilir (6325 m.15). Faaliyet, tarafların anlaşması, arabulucunun daha fazla çabanın gereksiz olduğunu tespit etmesi, bir tarafın çekildiğini bildirmesi veya tarafların birlikte sona erdirmesiyle biter (6325 m.17).",
+    "Anlaşmanın kapsamını taraflar belirler. Belge düzenlenirse taraflar ve arabulucu imzalar (6325 m.18). İcra edilebilirlik şerhi, dava açılmadan önce arabulucunun görev yaptığı yer sulh hukuk mahkemesinden, dava sırasında ise davanın görüldüğü mahkemeden istenir.",
+    "Dava şartı, 6325 m.18/A'nın kendiliğinden saydığı bir uyuşmazlık listesi değildir. İlgili kanunlarda arabulucuya başvuru dava şartı kabul edilmişse bu usul uygulanır. Davacı, anlaşmaya varılamadığına ilişkin son tutanağın aslını veya arabulucunun onaylı örneğini dava dilekçesine ekler. Eklenmezse mahkeme bir haftalık kesin süre verir; süre boşa çıkarsa dava dilekçesi tebliğe çıkarılmadan dava usulden reddedilir. Arabulucuya başvurulmadan dava açıldığı anlaşılırsa da dava usulden reddedilir (6325 m.18/A).",
+    "İradi arabuluculukta vazgeçmek serbesttir. Dava şartında m.18/A saklıdır (6325 m.3). Bu iki kapı aynı cümlede yazılır."
+  ],
+  "mcq": {
+    "iradi": {
+      "q": "6325 sayılı Kanun m.1 ve m.3 uyarınca arabuluculuğun kapsamı hakkında hangisi doğrudur?",
+      "choices": [
+        "Kanun bütün kamu hukuku uyuşmazlıklarına uygulanır. Aile içi şiddet de arabuluculuğa elverişlidir.",
+        "Kanun, tarafların üzerinde serbestçe tasarruf edebilecekleri özel hukuk uyuşmazlıklarına uygulanır. Aile içi şiddet iddiasını içeren uyuşmazlık elverişli değildir. Başvurmak ve vazgeçmek serbesttir; dava şartı olarak arabuluculukta m.18/A saklıdır.",
+        "Yabancılık unsuru taşıyan uyuşmazlık kanunun dışındadır.",
+        "Taraflar süreçte eşit hakka sahip değildir."
+      ],
+      "answer": 1,
+      "reason": "6325 m.1 kapsamı serbestçe tasarruf edilen özel hukuk uyuşmazlığına bağlar ve aile içi şiddeti elverişsiz sayar. m.3 iradi olmayı ve m.18/A saklılığını, ayrıca eşitliği düzenler."
+    },
+    "gizlilik": {
+      "q": "6325 sayılı Kanun m.4 ve m.5 uyarınca gizlilik hakkında hangisi doğrudur?",
+      "choices": [
+        "Arabulucu elde ettiği her belgeyi kendiliğinden mahkemeye sunar. Taraflar gizliliğe bağlı değildir.",
+        "Aksi kararlaştırılmadıkça arabulucu, faaliyet çerçevesinde elde ettiği bilgi ve belgeleri gizli tutar. Taraflar ve katılanlar da gizliliğe uyar. Dava veya tahkimde belli beyan ve belgeler delil olarak ileri sürülemez.",
+        "Gizlilik yalnız ceza davasında uygulanır.",
+        "Gizlilik sözleşmesi noterden yapılmadıkça hüküm doğurmaz."
+      ],
+      "answer": 1,
+      "reason": "6325 m.4 gizliliği kural, aksini tarafların kararına bağlar. m.5 dava ve tahkimde belli beyan ve belgelerin delil ve tanıklık konusu yapılmasını yasaklar."
+    },
+    "arabulucu": {
+      "q": "6325 sayılı Kanun m.15 uyarınca arabulucunun yetkisi hakkında hangisi doğrudur?",
+      "choices": [
+        "Arabulucu, hâkim gibi ihtiyati tedbir verebilir ve davayı karara bağlar.",
+        "Niteliği gereği yalnız hâkim tarafından yapılabilecek işlemler arabulucu tarafından yapılamaz. Arabulucu, seçildikten sonra tarafları en kısa sürede ilk toplantıya davet eder.",
+        "Usulü yalnız arabulucu belirler; tarafların kararlaştırma hakkı yoktur.",
+        "İlk toplantıya davet zorunlu değildir."
+      ],
+      "answer": 1,
+      "reason": "6325 m.15/4 yargısal yetkiyi arabulucuya kapatır. m.15/1 ilk toplantıya en kısa sürede daveti, m.15/2 tarafların emredici hukuka aykırı olmamak kaydıyla usulü kararlaştırmasını düzenler."
+    },
+    "ucret-arabulucu": {
+      "q": "6325 sayılı Kanun m.7 ve m.16 uyarınca ücret ve süre hakkında hangisi doğrudur?",
+      "choices": [
+        "Arabulucu ücret isteyemez. Süreç başvurunun yapıldığı gün başlar ve zamanaşımı işlemeye devam eder.",
+        "Arabulucu, faaliyetinin karşılığı ücret ve masrafları isteyebilir. Dava açılmadan önceki süreç, ilk toplantıya davet ve süreci sürdürme anlaşmasının tutanakla belgelendiği tarihten işler. Başlangıçtan sona ermeye kadar geçen süre zamanaşımı ve hak düşürücü süre hesabına katılmaz.",
+        "Süreç, arabulucunun sicile kaydolduğu gün başlar.",
+        "Hak düşürücü süre arabuluculukta durmaz."
+      ],
+      "answer": 1,
+      "reason": "6325 m.7 ücret ve masraf istemini tanır. m.16 sürecin başlangıcını tutanak tarihine bağlar ve bu süreyi zamanaşımı ile hak düşürücü süre hesabının dışında bırakır."
+    },
+    "ilk-toplanti": {
+      "q": "6325 sayılı Kanun m.17 uyarınca arabuluculuğun sona ermesi hakkında hangisi doğrudur?",
+      "choices": [
+        "Faaliyet yalnız mahkeme kararıyla sona erer.",
+        "Faaliyet, tarafların anlaşması, arabulucunun daha fazla çabanın gereksiz olduğunu taraflara danışarak tespit etmesi, bir tarafın çekildiğini bildirmesi veya tarafların birlikte sona erdirmesiyle biter.",
+        "Bir tarafın çekilmesi süreci kendiliğinden durdurmaz.",
+        "Anlaşmaya varmak süreci sona erdirmez."
+      ],
+      "answer": 1,
+      "reason": "6325 m.17 sona erme hâllerini anlaşma, arabulucunun tespit etmesi, çekilme bildirimi ve tarafların birlikte sona erdirmesi olarak sayar."
+    },
+    "surec": {
+      "q": "6325 sayılı Kanun m.16 uyarınca sürecin başlaması hakkında hangisi doğrudur?",
+      "choices": [
+        "Dava açılmadan önce süreç, başvuru dilekçesinin arabulucuya ulaştığı anda başlar.",
+        "Dava açılmadan önce süreç, tarafların ilk toplantıya davet edilmesi ve süreci sürdürme konusunda anlaşmanın tutanakla belgelendiği tarihten başlar. Bu süre zamanaşımı ve hak düşürücü süre hesabına katılmaz.",
+        "Dava sırasında mahkemenin daveti, taraflar kabul etmese de süreci başlatır.",
+        "Süre hesabı yalnız hak düşürücü süreyi durdurur, zamanaşımını durdurmaz."
+      ],
+      "answer": 1,
+      "reason": "6325 m.16/1 dava öncesi başlangıcı davet ve tutanaklı anlaşmaya bağlar. m.16/2 başlangıçtan sona ermeye kadar geçen süreyi hem zamanaşımı hem hak düşürücü süre hesabının dışında bırakır."
+    },
+    "anlasma": {
+      "q": "6325 sayılı Kanun m.18 uyarınca anlaşma belgesi hakkında hangisi doğrudur?",
+      "choices": [
+        "Anlaşmanın kapsamını arabulucu tek başına belirler. İcra edilebilirlik şerhi her hâlde Yargıtaydan istenir.",
+        "Anlaşmanın kapsamını taraflar belirler. Belge düzenlenirse taraflar ve arabulucu imzalar. İcra edilebilirlik şerhi, dava açılmadan önce arabulucunun görev yaptığı yer sulh hukuk mahkemesinden, dava sırasında davanın görüldüğü mahkemeden istenir.",
+        "Anlaşma belgesi imzalanmasa da kendiliğinden ilam hükmündedir.",
+        "Şerh yalnız icra mahkemesinden istenir."
+      ],
+      "answer": 1,
+      "reason": "6325 m.18 kapsamı taraflara, imzayı taraflar ve arabulucuya, şerh merciini ise dava öncesi sulh hukuk mahkemesine ve dava sırasında davayı gören mahkemeye bağlar."
+    },
+    "dava-sarti": {
+      "q": "6325 sayılı Kanun m.18/A uyarınca dava şartı olarak arabuluculuk hakkında hangisi doğrudur?",
+      "choices": [
+        "Madde, dava şartı olan bütün uyuşmazlıkları kendisi sayar. Son tutanak eklenmezse dava esastan reddedilir.",
+        "İlgili kanunlarda başvuru dava şartı kabul edilmişse bu usul uygulanır. Davacı, anlaşmaya varılamadığına ilişkin son tutanağı dava dilekçesine ekler. Eklenmezse mahkeme bir haftalık kesin süre verir; gereği yapılmazsa dava dilekçesi tebliğe çıkarılmadan dava usulden reddedilir.",
+        "Arabulucuya başvurulmadan açılan dava görülmeye devam eder.",
+        "Kesin süre üç aydır ve hâkim uzatabilir."
+      ],
+      "answer": 1,
+      "reason": "6325 m.18/A dava şartını ilgili kanunlara bırakır. Son tutanağın eklenmemesinde bir haftalık kesin süre ve usulden ret, başvurmadan açılan davada da usulden ret öngörür."
+    }
+  }
+}

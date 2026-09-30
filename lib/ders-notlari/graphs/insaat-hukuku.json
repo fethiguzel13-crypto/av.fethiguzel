@@ -57,7 +57,7 @@
         {
             "id": "bedel-insaat",
             "title": "Bedel ve fiyat",
-            "definition": "Götürü bedel ile yaklaşık bedel ayrı rejimlerdir. Yaklaşık bedelde aşım, haber verme ve dönme kapısı açar; götürülde artış kural olarak kapanır.",
+            "definition": "Götürü bedelde yüklenici, fazla emek ve masrafı gerekse bile artırım isteyemez; öngörülemeyen güçlükte uyarlama veya dönme vardır. Yaklaşık bedel aşırı aşılacaksa işsahibi sözleşmeden dönebilir.",
             "elements": [
                 "götürü",
                 "yaklaşık",
@@ -236,7 +236,7 @@
         {
             "id": "kamulastirma-insaat",
             "title": "Kamulaştırma ve inşaat arsası",
-            "definition": "Kamu yararı kararı, arsa üzerindeki inşaatı kesebilir. Bedel, yapı değerini de taşıyabilir; kamulaştırmasız el atma ayrı davadır.",
+            "definition": "İdare, yükümlü olduğu kamu hizmeti için gerekli taşınmazı bedelini nakden ve peşin, kanundaki hâllerde taksitle ödeyerek kamulaştırabilir. Tapuda kayıtlı taşınmazda satın alma usulü önce gelir.",
             "elements": [
                 "kamu yararı",
                 "bedel",

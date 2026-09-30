@@ -18,7 +18,7 @@
         {
             "id": "kanunilik",
             "title": "Kanunilik ve zaman bakımından uygulama",
-            "definition": "Suç ve ceza ancak kanunda açıkça yazılmakla doğar. Kıyas yasağı ve lehe kanunun geçmişe yürümesi ayrı kapılardır.",
+            "definition": "Suç ve ceza ancak kanunda açıkça yazılmakla doğar. İşlendiği zamanki kanun ile sonraki kanun farklıysa failin lehine olan uygulanır. İnfaz rejimi, erteleme, koşullu salıverilme ve tekerrür hariç derhal uygulanır.",
             "elements": [
                 "kanunilik",
                 "kıyas yasağı",
@@ -27,7 +27,7 @@
             ],
             "organicLinks": [
                 "Kanunilik, idare işlemiyle suç yaratmayı keser.",
-                "Lehe kanun, derdest davada da bakılır."
+                "Lehe kanun m.7/2'dedir. İnfaz rejiminin derhal uygulanması m.7/3'tedir ve lehe kanun sanılmaz."
             ],
             "statuteRefs": [
                 {
@@ -46,7 +46,7 @@
             "caseRefs": [],
             "doctrineSplit": [
                 "Kıyas, fail aleyhine işlemez.",
-                "Zaman bakımından uygulama icra hareketinin bittiği ana bakabilir."
+                "Failin lehine olan kanun uygulanır ve infaz olunur (m.7/2). İnfaz rejimine ilişkin hükümler, erteleme, koşullu salıverilme ve tekerrür hariç derhal uygulanır (m.7/3)."
             ]
         },
         {
@@ -87,7 +87,7 @@
         {
             "id": "hukuka-uygunluk",
             "title": "Hukuka uygunluk nedenleri",
-            "definition": "Kanunun hükmü, meşru savunma, zorunluluk hâli, hakkın kullanılması ve ilgilinin rızası tipi ortadan kaldırabilir. Sınırın aşılması ayrı rejimdir.",
+            "definition": "Kanunun hükmü, meşru savunma, zorunluluk hâli, hakkın kullanılması ve ilgilinin rızası hukuka aykırılığı kaldırır. Tipiklik ayrıca durur. Sınırın aşılması ayrı rejimdir.",
             "elements": [
                 "kanunun hükmü / amirin emri",
                 "meşru savunma",
@@ -97,7 +97,7 @@
             ],
             "organicLinks": [
                 "Hukuka uygunluk, kusurluluktan önce gelir.",
-                "Sınırın aşılması cezayı kaldırmaz, indirebilir."
+                "Meşru savunmada sınır, mazur heyecan, korku veya telaştan aşılmışsa ceza verilmez (m.27/2). Kast olmaksızın aşma, taksirli suç varsa indirimli taksir cezasıdır (m.27/1)."
             ],
             "statuteRefs": [
                 {
@@ -229,7 +229,7 @@
         {
             "id": "kusurluluk-yas",
             "title": "Kusurluluk: yaş ve akıl",
-            "definition": "Ceza sorumluluğu yaş, akıl hastalığı, sağır-dilsizlik ve geçici nedenlere göre kalkar veya azalır. Hata, kastı kaldırabilir.",
+            "definition": "Ceza sorumluluğu yaş, akıl hastalığı ve geçici nedenlere göre kalkar veya azalır. Hata, kastı kaldırabilir. Sağırlık ve dilsizlik ayrı bir kusur sebebi değildir.",
             "elements": [
                 "yaş küçüklüğü",
                 "akıl hastalığı",
@@ -260,7 +260,7 @@
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "12 yaşından küçükler ceza sorumluluğu taşımaz.",
+                "Fiili işlediği sırada on iki yaşını doldurmamış olan çocuğun ceza sorumluluğu yoktur (m.31).",
                 "Akıl hastalığı kusuru kaldırır veya azaltır."
             ]
         },

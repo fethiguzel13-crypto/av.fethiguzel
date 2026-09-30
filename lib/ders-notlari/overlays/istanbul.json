@@ -518,6 +518,285 @@
                     "note": "ders adı ve amfi; slayt yok"
                 }
             ]
+        },
+        "tuketici-hukuku": {
+            "cityHook": "Beyazıt'ta bir haksız şart ve yazılmamış sayılma",
+            "mehaz": "İstanbul ekolü; 6502 m.5 lafzı bağlar",
+            "examBox": {
+                "calendar": "yillik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TKHK maddesi + tüketici kurumu + olaya yedirme.",
+                "tips": [
+                    "Beyazıt kâğıdında ilk cümle tüketici sıfatını veya ayıp kapısını söyler.",
+                    "TBK satım ayıbını TKHK m.11 ile karıştırmayın.",
+                    "EBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "tüketici",
+                "ayıplı mal",
+                "ayıplı hizmet",
+                "mesafeli sözleşme",
+                "haksız şart",
+                "taksitli satış",
+                "uyuşmazlık"
+            ],
+            "schoolNotes": [
+                "İÜHF tüketici hukuku amfi + pratik; kâğıtta 6502 lafzı önce gelir.",
+                "HUKK2074 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "İÜHF 2024-2025 güz ders programı",
+                    "url": "https://cdn.istanbul.edu.tr/FileHandler2.ashx?f=2024-2025-ogretim-yili--guz-yariyili-ders--programi.pdf",
+                    "note": "ders adı ve amfi; slayt yok"
+                }
+            ]
+        },
+        "vergi-hukuku": {
+            "cityHook": "Beyazıt'ta bir vergi ziyaı ve kaçakçılık ayrımı",
+            "mehaz": "İstanbul ekolü; VUK m.341 ve m.359 lafzı bağlar",
+            "examBox": {
+                "calendar": "yillik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: VUK maddesi + vergi kurumu + olaya yedirme.",
+                "tips": [
+                    "Beyazıt kâğıdında ilk cümle doğum anını veya ceza türünü söyler.",
+                    "Usulsüzlüğü vergi ziyaı saymayın.",
+                    "EBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "vergiyi doğuran olay",
+                "mükellef",
+                "tarh",
+                "re'sen tarh",
+                "zamanaşımı",
+                "vergi cezası",
+                "gelir vergisi",
+                "katma değer vergisi"
+            ],
+            "schoolNotes": [
+                "İÜHF vergi hukuku amfi + pratik; kâğıtta VUK lafzı önce gelir.",
+                "HUKK2074 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "İÜHF 2024-2025 güz ders programı",
+                    "url": "https://cdn.istanbul.edu.tr/FileHandler2.ashx?f=2024-2025-ogretim-yili--guz-yariyili-ders--programi.pdf",
+                    "note": "ders adı ve amfi; slayt yok"
+                }
+            ]
+        },
+        "sigorta-hukuku": {
+            "cityHook": "Beyazıt'ta bir başkasının hayatı üzerine sigorta ve yazılı izin",
+            "mehaz": "İstanbul ekolü; TTK m.1490 lafzı bağlar",
+            "examBox": {
+                "calendar": "yillik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + sigorta kurumu + olaya yedirme.",
+                "tips": [
+                    "Beyazıt kâğıdında ilk cümle menfaati veya rizikonun gerçekleşmesini söyler.",
+                    "Halefiyeti cebri icra öncesi alacak sanmayın.",
+                    "EBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "sigorta sözleşmesi",
+                "riziko",
+                "prim",
+                "teminat",
+                "beyan ve ihbar",
+                "tazmin ve halefiyet",
+                "hayat sigortası",
+                "sona erme ve zamanaşımı"
+            ],
+            "schoolNotes": [
+                "İÜHF sigorta hukuku amfi + pratik; kâğıtta TTK lafzı önce gelir.",
+                "HUKK2074 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "İÜHF 2024-2025 güz ders programı",
+                    "url": "https://cdn.istanbul.edu.tr/FileHandler2.ashx?f=2024-2025-ogretim-yili--guz-yariyili-ders--programi.pdf",
+                    "note": "ders adı ve amfi; slayt yok"
+                }
+            ]
+        },
+        "idare-hukuku": {
+            "cityHook": "Beyazıt'ta bir kamulaştırma bedeli ve asliye hukuk",
+            "mehaz": "İstanbul ekolü; 2942 m.8 ve m.10 lafzı bağlar",
+            "examBox": {
+                "calendar": "yillik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: kanun maddesi + idare kurumu + olaya yedirme.",
+                "tips": [
+                    "Beyazıt kâğıdında ilk cümle kamu yararı mı satın alma mı söyler.",
+                    "İptal davasını maddi hata düzeltimi sanmayın.",
+                    "EBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "hemşehri ve görev",
+                "belediye organı",
+                "memur",
+                "yetki",
+                "disiplin",
+                "kamulaştırma",
+                "imar",
+                "vali ve kaymakam"
+            ],
+            "schoolNotes": [
+                "İÜHF idare hukuku amfi + pratik; kâğıtta kanun lafzı önce gelir.",
+                "HUKK2074 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "İÜHF 2024-2025 güz ders programı",
+                    "url": "https://cdn.istanbul.edu.tr/FileHandler2.ashx?f=2024-2025-ogretim-yili--guz-yariyili-ders--programi.pdf",
+                    "note": "ders adı ve amfi; slayt yok"
+                }
+            ]
+        },
+        "insaat-hukuku": {
+            "cityHook": "Beyazıt'ta bir kat karşılığı ve resmi şekil",
+            "mehaz": "İstanbul ekolü; TBK m.237 ve m.470 lafzı bağlar",
+            "examBox": {
+                "calendar": "yillik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TBK veya İmar maddesi + inşaat kurumu + olaya yedirme.",
+                "tips": [
+                    "Beyazıt kâğıdında ilk cümle eser mi arsa payı temliki mi söyler.",
+                    "Satış vaadini adi yazılı sanmayın.",
+                    "EBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "eser sözleşmesi",
+                "bedel",
+                "ayıp",
+                "teslim ve fesih",
+                "ruhsat",
+                "ruhsatsız yapı",
+                "kamulaştırma",
+                "kat karşılığı"
+            ],
+            "schoolNotes": [
+                "İÜHF inşaat hukuku amfi + pratik; kâğıtta TBK lafzı önce gelir.",
+                "HUKK2074 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "İÜHF 2024-2025 güz ders programı",
+                    "url": "https://cdn.istanbul.edu.tr/FileHandler2.ashx?f=2024-2025-ogretim-yili--guz-yariyili-ders--programi.pdf",
+                    "note": "ders adı ve amfi; slayt yok"
+                }
+            ]
+        },
+        "rekabet-hukuku": {
+            "cityHook": "Beyazıt'ta bir yerinde inceleme",
+            "mehaz": "İstanbul ekolü; 4054 m.15 lafzı bağlar",
+            "examBox": {
+                "calendar": "yillik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: 4054 maddesi + ihlal türü + olaya yedirme.",
+                "tips": [
+                    "Beyazıt kâğıdında ilk cümle ihlal türünü söyler.",
+                    "Yerinde incelemeyi arama sanmayın.",
+                    "EBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "teşebbüs",
+                "anlaşma",
+                "hâkim durum",
+                "birleşme",
+                "muafiyet",
+                "soruşturma",
+                "kurul",
+                "idari para cezası"
+            ],
+            "schoolNotes": [
+                "İÜHF rekabet hukuku amfi + pratik; kâğıtta 4054 lafzı önce gelir.",
+                "HUKK2074 ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "İÜHF 2024-2025 güz ders programı",
+                    "url": "https://cdn.istanbul.edu.tr/FileHandler2.ashx?f=2024-2025-ogretim-yili--guz-yariyili-ders--programi.pdf",
+                    "note": "ders adı ve amfi; slayt yok"
+                }
+            ]
+        },
+        "arabuluculuk": {
+            "cityHook": "Beyazıt'ta bir icra edilebilirlik şerhi",
+            "mehaz": "İstanbul ekolü; 6325 m.18 lafzı bağlar",
+            "examBox": {
+                "calendar": "yillik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: 6325 maddesi + süreç + olaya yedirme.",
+                "tips": [
+                    "Beyazıt kâğıdında ilk cümle şerhin hangi mahkemeden istendiğini söyler.",
+                    "Arabulucuyu hâkim sanmayın.",
+                    "EBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "iradi olma",
+                "gizlilik",
+                "arabulucu",
+                "ücret",
+                "ilk toplantı",
+                "süreç",
+                "anlaşma",
+                "dava şartı"
+            ],
+            "schoolNotes": [
+                "İÜHF arabuluculuk amfi + pratik; kâğıtta 6325 lafzı önce gelir.",
+                "HUKK2074 ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "İÜHF 2024-2025 güz ders programı",
+                    "url": "https://cdn.istanbul.edu.tr/FileHandler2.ashx?f=2024-2025-ogretim-yili--guz-yariyili-ders--programi.pdf",
+                    "note": "ders adı ve amfi; slayt yok"
+                }
+            ]
+        },
+        "deniz-ticareti": {
+            "cityHook": "Beyazıt'ta bir gemi ipoteği ve gemi alacağı",
+            "mehaz": "İstanbul ekolü; TTK m.1014 ve m.1320 lafzı bağlar",
+            "examBox": {
+                "calendar": "yillik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + deniz kurumu + olaya yedirme.",
+                "tips": [
+                    "Beyazıt kâğıdında ilk cümle rehin türünü söyler.",
+                    "Sicile kayıtlı gemide adi rehni ipotek sanmayın.",
+                    "EBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "gemi",
+                "donatan",
+                "kaptan",
+                "navlun",
+                "konişmento",
+                "müşterek avarya",
+                "gemi alacağı",
+                "gemi ipoteği"
+            ],
+            "schoolNotes": [
+                "İÜHF deniz ticareti amfi + pratik; kâğıtta TTK lafzı önce gelir.",
+                "HUKK2074 ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "İÜHF 2024-2025 güz ders programı",
+                    "url": "https://cdn.istanbul.edu.tr/FileHandler2.ashx?f=2024-2025-ogretim-yili--guz-yariyili-ders--programi.pdf",
+                    "note": "ders adı ve amfi; slayt yok"
+                }
+            ]
         }
     }
 }

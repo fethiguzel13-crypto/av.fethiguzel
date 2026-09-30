@@ -1,4 +1,5 @@
 # Denetçi manifesti — İcra ve İflas Hukuku
+# İflas yetkisi m.154, ödeme emri m.155, talep süresi m.156. Doğrudan iflas hâlleri m.177, borçlunun başvurusu m.178, sermaye şirketi m.179.
 courseCode: icra-iflas
 title: İcra ve İflas Hukuku
 kanun: iik
@@ -36,4 +37,4 @@ institutions:
     maddeler: ['140', '142', '143']
   - id: iflas
     title: İflasın açılması
-    maddeler: ['154', '155', '156', '158', '165', '184']
+    maddeler: ['154', '155', '156', '158', '165', '177', '178', '179', '184']

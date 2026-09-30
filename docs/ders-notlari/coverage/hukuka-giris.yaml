@@ -1,4 +1,6 @@
 # Denetçi manifesti — Hukuka Giriş / Hukukun Temel Kavramları
+# m.5 kamu-özel ayrımı değildir. Kanunilik TCK m.2, lehe kanun TCK m.7. Yaptırımda 45 TCK, 27 ve 49 TBK'dır.
+# Fiil ehliyeti m.10, erginlik m.11, ayırt etme gücü m.13, tam ehliyetsiz m.15, sınırlı ehliyetsiz m.16.
 courseCode: hukuka-giris
 title: Hukuka Giriş / Hukukun Temel Kavramları
 kanun: tmk
@@ -29,19 +31,21 @@ institutions:
     maddeler: ['2', '8']
   - id: hukuki-islem
     title: Hukuki işlem
-    maddeler: ['1', '2', '12']
+    kanun: tbk
+    maddeler: ['1', '2', '12', '26']
   - id: kanunilik
     title: Kanunilik ilkesi (giriş)
-    maddeler: ['1', '2']
+    kanun: tck
+    maddeler: ['2', '7']
   - id: yaptirim
     title: Yaptırım
-    maddeler: ['1', '2']
+    maddeler: ['tck/45', 'tbk/27', 'tbk/49']
   - id: yorum
     title: Yorum ve uygulama
     maddeler: ['1', '4']
   - id: kisi-ehliyet
     title: Kişi, hak ehliyeti ve fiil ehliyeti (giriş)
-    maddeler: ['8', '9', '10', '16']
+    maddeler: ['8', '9', '10', '11', '13', '15', '16']
   - id: ispat-giris
     title: İspat yükü (giriş)
     maddeler: ['6', '7']

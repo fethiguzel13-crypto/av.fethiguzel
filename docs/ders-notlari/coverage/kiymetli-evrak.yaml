@@ -27,6 +27,7 @@ institutions:
     maddeler: ['780', '795', '796']
   - id: karsiliksiz
     title: Karşılıksız çek (Çek Kanunu)
+    kanun: cek
     maddeler: ['1', '2', '3', '5']
   - id: basvuru
     title: Başvuru hakkı ve zamanaşımı

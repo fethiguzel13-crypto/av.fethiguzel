@@ -32,4 +32,4 @@ institutions:
     maddeler: ['54', '55', '56', '62']
   - id: ticari-islemler
     title: Ticari işletmenin basiret ve temsil yüzü
-    maddeler: ['18', '105', '547', '11']
+    maddeler: ['ttk/18', 'ttk/105', 'tbk/547', 'tbk/549', 'ttk/11']

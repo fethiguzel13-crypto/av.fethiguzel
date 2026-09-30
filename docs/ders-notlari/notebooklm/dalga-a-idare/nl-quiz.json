@@ -1,0 +1,106 @@
+{
+  "intro": "Sınav puanı sloganı yazmaktan değil organı ve süreyi ayırmaktan düşer. Aşağıdaki tuzaklar 5393, 657, 2942, 3194 ve 5442 lafzına ve graf unsura dayanır; slayt cümlesi değildir.",
+  "uyari": "İYUK bu kâğıdın asıl kapısı değildir. Hemşehri, organ, memur, disiplin süresi, kamulaştırma yolu ve vali yazılır. Para cezası tutarı ve künye uydurulmaz. OBS bağlayıcıdır.",
+  "guz": [
+    "Hemşehri ile belediyenin görevi karıştırılmamalıdır; herkes ikamet ettiği beldenin hemşehrisidir ve belediye kararlarına katılma, bilgilenme ve yardımlardan yararlanma hakkı vardır (5393 m.13). Belediye, mahallî müşterek nitelikte olmak şartıyla imar, su, ulaşım, temizlik, zabıta ve itfaiye gibi hizmetleri yapar veya yaptırır (5393 m.14). Yetki ve imtiyaz ayrı listedir; yönetmelik çıkarmak, yasak koymak ve kanunlarda belirtilen izin veya ruhsatı vermek bu listededir (5393 m.15).",
+    "Belediye meclisi, başkan ve encümen aynı organ değildir; meclis karar organıdır ve seçilmiş üyelerden oluşur (5393 m.17). Başkan, belediye idaresinin başı ve tüzel kişiliğin temsilcisidir (5393 m.37). Encümen, başkanın başkanlığında meclisin seçeceği üyeler ile birim amirlerinden kurulur (5393 m.33). Başkan, hukuka aykırı gördüğü meclis kararını gerekçesiyle beş gün içinde meclise iade edebilir; ısrar üye tam sayısının salt çoğunluğuyla olur. Israrla kesinleşen karar aleyhine başkan on gün içinde idari yargıya başvurabilir. Karar, kesinleştiği tarihten itibaren en geç yedi gün içinde mülki idare amirine gönderilir; gönderilmeyen karar yürürlüğe girmez (5393 m.23).",
+    "Memur, sözleşmeli personel ve işçi aynı statü değildir; kamu hizmetleri memurlar, sözleşmeli personel, geçici personel ve işçiler eliyle görülür. Genel idare esaslarına göre yürütülen asli ve sürekli kamu hizmetini görenler bu Kanunda memur sayılır (657 m.4). Memur, asli devlet memurluğuna atandıktan sonra en geç bir ay içinde yeminle sadakatini belirtir (657 m.6). Siyasi partiye üye olamaz ve görevde dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep ayırımı yapamaz (657 m.7).",
+    "Görev listesi ile yetki listesi karıştırılmamalıdır; mahallî müşterek hizmetler 5393 m.14'tedir, yetki ve imtiyazlar m.15'tedir. Meclisin görev ve yetkileri m.18'dedir. Başkanın görev ve yetkileri m.38'dedir. Meclis kararı başkan işleminin yerine geçmez."
+  ],
+  "bahar": [
+    "Disiplin cezası ile görevden uzaklaştırma karıştırılmamalıdır; uyarma, memura daha dikkatli olması gerektiğinin yazı ile bildirilmesidir, kınama kusurlu olduğunun yazı ile bildirilmesidir (657 m.125). Savunma alınmadan disiplin cezası verilemez; yedi günden az olmamak üzere verilen sürede savunma yapılmazsa hak vazgeçilmiş sayılır (657 m.130). Fiilin öğrenildiği tarihten itibaren uyarma, kınama, aylıktan kesme ve kademe ilerlemesinin durdurulmasında bir ay içinde disiplin soruşturmasına, memurluktan çıkarmada altı ay içinde disiplin kovuşturmasına başlanmazsa ceza verme yetkisi zamanaşımına uğrar. Fiilin işlendiği tarihten itibaren iki yıl içinde ceza verilmezse yetki yine düşer (657 m.127). Görevden uzaklaştırma ceza değil, görevi başında kalmasında sakınca görülen memur hakkında alınan ihtiyati tedbirdir ve soruşturmanın her safhasında alınabilir (657 m.137).",
+    "Satın alma ile bedel davası karıştırılmamalıdır; kamulaştırma, kamu yararının gerektirdiği hallerde gerçek ve özel hukuk tüzel kişilerinin mülkiyetindeki taşınmazın Devlet ve kamu tüzel kişilerince alınmasındaki işlemleri düzenler (2942 m.1). Tapuda kayıtlı taşınmazda satın alma usulünün öncelikle uygulanması esastır (2942 m.8). Satın alma yapılamazsa idare, taşınmazın bulunduğu yer asliye hukuk mahkemesinden bedelin tespiti ve idare adına tescil ister (2942 m.10). Malik, tebligat veya ilan gününden itibaren otuz gün içinde kamulaştırma işlemine karşı idari yargıda iptal ve maddi hatalara karşı adli yargıda düzeltim davası açabilir (2942 m.14).",
+    "Ruhsat ile mühür karıştırılmamalıdır; kapsamındaki yapılar için yapı ruhsatı aranır (3194 m.21). Ruhsat alınmadan veya ruhsat ve eklerine aykırı başlanan yapı, belediye veya valilikçe mühürlenir ve inşaat derhal durdurulur. Yapı sahibi bu tarihten itibaren en çok bir ay içinde yapıyı ruhsata uygun hale getirerek veya ruhsat alarak mühürün kaldırılmasını ister (3194 m.32). Aykırılık tespitinden itibaren on iş günü içinde encümen, her bir sorumluluk için ayrı idari müeyyide uygular (3194 m.42).",
+    "Vali ile belediye başkanı karıştırılmamalıdır; il genel idaresinin başı ve mercii validir (5442 m.4). Vali, ilde Cumhurbaşkanının temsilcisi ve idari yürütme vasıtasıdır; ilin genel idaresinden Cumhurbaşkanına karşı sorumludur (5442 m.9). Kaymakam ilçede kanun ve diğer mevzuatın uygulayıcısıdır (5442 m.31). İlçe sınırları içinde genel ve özel kolluk kuvvetinin amiri kaymakamdır (5442 m.32)."
+  ],
+  "mcq": {
+    "idari-teskilat": {
+      "q": "5393 sayılı Kanun m.13 ve m.14 uyarınca hemşehri ve belediye görevi hakkında hangisi doğrudur?",
+      "choices": [
+        "Hemşehri yalnız seçmen kütüğüne kayıtlı kişidir. Belediye, mahallî nitelik aramadan her kamu hizmetini görmek zorundadır.",
+        "Herkes ikamet ettiği beldenin hemşehrisidir. Belediye, mahallî müşterek nitelikte olmak şartıyla imar, su, ulaşım, temizlik, zabıta ve itfaiye gibi hizmetleri yapar veya yaptırır.",
+        "Hemşehrinin belediye kararlarına katılma hakkı yoktur.",
+        "Belediye vergisi ödeme yükümlülüğü yalnız hemşehri sıfatına bağlıdır; beldede bulunan kişi bu yükümlülüğün dışındadır."
+      ],
+      "answer": 1,
+      "reason": "5393 m.13 hemşehriyi ikamete bağlar ve katılma, bilgilenme, yardım haklarını koyar. m.14 görevleri mahallî müşterek nitelik şartına bağlar. m.13 son fıkra, beldede oturan, bulunan veya ilişiği olan herkese vergi ve kararlara uyma yükler."
+    },
+    "belediye-organ": {
+      "q": "5393 sayılı Kanun m.17, m.23 ve m.37 uyarınca belediye organları hakkında hangisi doğrudur?",
+      "choices": [
+        "Belediye başkanı karar organıdır. Meclis kararları mülki idare amirine gönderilmeden de yürürlüğe girer.",
+        "Meclis karar organıdır. Başkan, belediye idaresinin başı ve tüzel kişiliğin temsilcisidir. Hukuka aykırı gördüğü meclis kararını beş gün içinde gerekçesiyle iade edebilir. Kesinleşen karar en geç yedi gün içinde mülki idare amirine gönderilir; gönderilmezse yürürlüğe girmez.",
+        "Encümen, meclisin yerini tutar ve başkansız toplanır.",
+        "Başkan, meclisin ısrarına karşı idari yargıya başvuramaz."
+      ],
+      "answer": 1,
+      "reason": "5393 m.17 meclisi karar organı sayar. m.37 başkanı idarenin başı ve temsilci sayar. m.23 beş günlük iadeyi, on günlük idari yargı yolunu ve yedi gün içinde mülki amire göndermeyi düzenler."
+    },
+    "kamu-gorevlisi": {
+      "q": "657 sayılı Kanun m.4 ve m.7 uyarınca memur hakkında hangisi doğrudur?",
+      "choices": [
+        "Kamu hizmeti yalnız işçiler eliyle görülür. Memur siyasi partiye üye olabilir.",
+        "Kamu hizmetleri memur, sözleşmeli personel, geçici personel ve işçiler eliyle görülür. Genel idare esaslarına göre asli ve sürekli kamu hizmetini görenler memur sayılır. Memur siyasi partiye üye olamaz.",
+        "Sözleşmeli personel bu Kanunda işçi sayılır.",
+        "Tarafsızlık yalnız yargıçlara aittir; memur görevde ayırım yapabilir."
+      ],
+      "answer": 1,
+      "reason": "657 m.4 dört istihdam şeklini ve memur tanımını koyar. Sözleşmeli personel işçi sayılmaz. m.7 parti üyeliğini ve görevde ayırımı yasaklar."
+    },
+    "idari-yetki": {
+      "q": "5393 sayılı Kanun m.14, m.15 ve m.18 uyarınca görev ve yetki hakkında hangisi doğrudur?",
+      "choices": [
+        "Belediyenin bütün yetkileri m.14'teki hizmet listesindedir. Meclisin görevleri m.38'dedir.",
+        "Mahallî müşterek hizmetler m.14'tedir. Yönetmelik çıkarmak, yasak koymak ve kanunlardaki izin veya ruhsatı vermek m.15'tedir. Meclisin görev ve yetkileri m.18'dedir.",
+        "Ruhsat vermek meclisin değil, valinin tekeline bırakılmıştır.",
+        "Görev ile yetki aynı maddede aynı liste olarak yazılmıştır."
+      ],
+      "answer": 1,
+      "reason": "5393 m.14 görev ve sorumlulukları, m.15 yetki ve imtiyazları, m.18 meclisin görev ve yetkilerini ayrı düzenler. Başkanın görevleri m.38'dedir."
+    },
+    "disiplin": {
+      "q": "657 sayılı Kanun m.125, m.127 ve m.130 uyarınca disiplin hakkında hangisi doğrudur?",
+      "choices": [
+        "Savunma alınmadan da ceza verilebilir. Zamanaşımı yoktur. Görevden uzaklaştırma en ağır disiplin cezasıdır.",
+        "Uyarma dikkat uyarısının, kınama kusur bildirimidir ve ikisi de yazı ile yapılır. Savunma alınmadan ceza verilemez. Öğrenmeden itibaren hafif cezalarda bir ay, memurluktan çıkarmada altı ay içinde soruşturma veya kovuşturma açılmazsa yetki düşer. Fiilden itibaren iki yıl içinde ceza verilmezse yetki yine düşer.",
+        "Uyarma sözlü ihtardır. Kınama para cezasıdır.",
+        "Disiplin zamanaşımı fiilin işlendiği günden itibaren her cezada bir aydır."
+      ],
+      "answer": 1,
+      "reason": "657 m.125 uyarma ve kınamayı yazı ile tanımlar. m.130 savunmasız cezayı yasaklar. m.127 öğrenmeden itibaren bir ay ve altı ayı, fiilden itibaren iki yılı koyar. Görevden uzaklaştırma m.137'de ihtiyati tedbirdir."
+    },
+    "kamulastirma": {
+      "q": "2942 sayılı Kanun m.8, m.10 ve m.14 uyarınca kamulaştırma hakkında hangisi doğrudur?",
+      "choices": [
+        "İdare tapuda kayıtlı taşınmazda doğrudan asliye hukuk mahkemesine gider. Malik yalnız adli yargıda iptal davası açar.",
+        "Tapuda kayıtlı taşınmazda satın alma usulü esastır. Satın alma olmazsa idare, taşınmazın bulunduğu yer asliye hukuk mahkemesinden bedelin tespiti ve tescil ister. Malik otuz gün içinde idari yargıda iptal ve maddi hata için adli yargıda düzeltim davası açabilir.",
+        "Satın alma usulü yalnız kamulaştırmasız el atmada uygulanır.",
+        "Bedel davası Danıştayda açılır."
+      ],
+      "answer": 1,
+      "reason": "2942 m.8 satın almayı öncelikli sayar. m.10 satın alma olmazsa asliye hukuk mahkemesinde bedel ve tescil ister. m.14 otuz gün içinde idari yargıda iptal ile adli yargıda maddi hata düzeltimini ayırır."
+    },
+    "imar-denetim": {
+      "q": "3194 sayılı Kanun m.32 uyarınca ruhsatsız yapı hakkında hangisi doğrudur?",
+      "choices": [
+        "Ruhsatsız yapıya ancak ceza mahkemesi mühür koyabilir. İdare inşaatı durduramaz.",
+        "Ruhsat alınmadan veya ruhsat ve eklerine aykırı başlanan yapı, belediye veya valilikçe mühürlenir ve inşaat derhal durdurulur. Yapı sahibi en çok bir ay içinde yapıyı ruhsata uygun hale getirerek veya ruhsat alarak mühürün kaldırılmasını ister.",
+        "Mühür, tapuda mülkiyeti idareye geçirir.",
+        "Yapı sahibi mühürden sonra süreye bağlı olmaksızın inşaata devam edebilir."
+      ],
+      "answer": 1,
+      "reason": "3194 m.32 tespitte mühür ve derhal durdurmayı, yapı sahibine en çok bir aylık uygun hale getirme veya ruhsat alma süresini tanır. İdari müeyyide m.42'dedir."
+    },
+    "il-idaresi": {
+      "q": "5442 sayılı Kanun m.4 ve m.9 uyarınca vali hakkında hangisi doğrudur?",
+      "choices": [
+        "Vali, belediye meclisinin karar organıdır ve yalnız belediye başkanına karşı sorumludur.",
+        "İl genel idaresinin başı ve mercii validir. Vali, ilde Cumhurbaşkanının temsilcisi ve idari yürütme vasıtasıdır; ilin genel idaresinden Cumhurbaşkanına karşı sorumludur.",
+        "Kaymakam, il genel idaresinin başıdır. Vali yalnız kolluk amiridir.",
+        "Vali, belediye encümeninin zorunlu üyesidir."
+      ],
+      "answer": 1,
+      "reason": "5442 m.4 valiyi il genel idaresinin başı ve mercii sayar. m.9 valiyi Cumhurbaşkanının ildeki temsilcisi ve idari yürütme vasıtası sayar. Belediye başkanı 5393 m.37'dedir."
+    }
+  }
+}

@@ -14,6 +14,8 @@ wordCount: 4300
 
 MADDE 634- (Değişik: 28/2/2018-7101/63 md.)
 (1) İflâsın bildirilmesi ve konkordato talebine anonim şirket hükümleri uygulanır.
+Bu maddenin “İflasın bildirilmesi veya ertelenmesi” olan başlığı, 28/2/2018 tarihli ve 7101
+sayılı Kanunun 63 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 
 ---
 

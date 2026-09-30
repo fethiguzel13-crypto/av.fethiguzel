@@ -37,20 +37,20 @@
                 },
                 {
                     "kanunId": "spk",
+                    "maddeNo": "2"
+                },
+                {
+                    "kanunId": "spk",
                     "maddeNo": "3"
                 },
                 {
                     "kanunId": "spk",
-                    "maddeNo": "4"
-                },
-                {
-                    "kanunId": "spk",
-                    "maddeNo": "14"
+                    "maddeNo": "5"
                 }
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Amaç 1, tanımlar 3, Kurul 4.",
+                "Amaç m.1, kapsam m.2, tanımlar m.3, Kurulun yetkisi m.5'tir. m.4 izahname hazırlama yükümlülüğüdür.",
                 "Tanım maddesi, sonraki bütün kurumların anahtarıdır."
             ]
         },
@@ -77,19 +77,11 @@
                 {
                     "kanunId": "spk",
                     "maddeNo": "13"
-                },
-                {
-                    "kanunId": "spk",
-                    "maddeNo": "15"
-                },
-                {
-                    "kanunId": "spk",
-                    "maddeNo": "16"
                 }
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Tanım 3, ihraç ve tür 13 vd.",
+                "Tanım m.3'tedir. Kaydileştirme m.13'tür. Özel durum m.15 ve halka açık statü m.16 bu başlığın maddesi değildir.",
                 "İzinsiz ihraç, yaptırım kapısını açar."
             ]
         },
@@ -119,16 +111,16 @@
                 },
                 {
                     "kanunId": "spk",
-                    "maddeNo": "13"
+                    "maddeNo": "6"
                 },
                 {
                     "kanunId": "spk",
-                    "maddeNo": "21"
+                    "maddeNo": "12"
                 }
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Halka arz tanımı 3'tedir.",
+                "Halka arz tanımı m.3, izahname hazırlama m.4, onay m.6, satış m.12'dedir. m.21 örtülü kazanç aktarımıdır.",
                 "Onaysız satış, geçersizlik ve yaptırım tartışması açar."
             ]
         },
@@ -155,20 +147,12 @@
                 {
                     "kanunId": "spk",
                     "maddeNo": "15"
-                },
-                {
-                    "kanunId": "spk",
-                    "maddeNo": "16"
-                },
-                {
-                    "kanunId": "spk",
-                    "maddeNo": "17"
                 }
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Aydınlatma ve kayıtlar 14 hattı.",
-                "Eksik açıklama, idari para cezası ve TCK kayması açar."
+                "Finansal raporlama m.14, özel durum açıklaması m.15'tir. Halka açık statü m.16, kurumsal yönetim m.17'dir.",
+                "Eksik açıklama, idari para cezası kapısını açar. Suç maddesi uydurulmaz."
             ]
         },
         {
@@ -193,20 +177,12 @@
                 },
                 {
                     "kanunId": "spk",
-                    "maddeNo": "13"
-                },
-                {
-                    "kanunId": "spk",
-                    "maddeNo": "17"
-                },
-                {
-                    "kanunId": "spk",
-                    "maddeNo": "31"
+                    "maddeNo": "37"
                 }
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Tanım 3, izin ve faaliyet 31 hattı.",
+                "Yatırım hizmetleri ve faaliyetleri m.37'dedir. m.31 borçlanma aracı ihracıdır, faaliyet izni değildir.",
                 "Müşteri emri, şirketin kendi portföyünden ayrılır."
             ]
         },
@@ -232,16 +208,16 @@
                 },
                 {
                     "kanunId": "spk",
-                    "maddeNo": "13"
+                    "maddeNo": "67"
                 },
                 {
                     "kanunId": "spk",
-                    "maddeNo": "67"
+                    "maddeNo": "68"
                 }
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Piyasa tanımları 3'te toplanır.",
+                "Piyasa tanımları m.3'te, borsacılık esasları m.67'de, kotasyon m.68'dedir.",
                 "Borsa işletimi izinli faaliyettir."
             ]
         },
@@ -263,21 +239,21 @@
             "statuteRefs": [
                 {
                     "kanunId": "spk",
-                    "maddeNo": "14"
+                    "maddeNo": "88"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "89"
                 },
                 {
                     "kanunId": "spk",
                     "maddeNo": "101"
-                },
-                {
-                    "kanunId": "spk",
-                    "maddeNo": "103"
                 }
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "İnceleme yetkisi 14/101 hattı.",
-                "Tedbir, yaptırımdan önce gelebilir."
+                "Denetim yetkisi m.88, denetimin icrası m.89, tedbirler m.101'dedir. m.14 finansal raporlamadır.",
+                "Tedbir, idari para cezasından önce gelebilir."
             ]
         },
         {
@@ -306,12 +282,20 @@
                 },
                 {
                     "kanunId": "spk",
+                    "maddeNo": "106"
+                },
+                {
+                    "kanunId": "spk",
+                    "maddeNo": "107"
+                },
+                {
+                    "kanunId": "spk",
                     "maddeNo": "110"
                 }
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "İdari yaptırımlar 103, suçlar 110 hattı.",
+                "İdari para cezasının genel esası m.103, piyasa bozucu eylem m.104, bilgi suistimali m.106, piyasa dolandırıcılığı m.107'dir. m.110 güveni kötüye kullanma ve sahteciliktir.",
                 "Künye yoksa TCK madde numarası uydurulmaz; yarışma cümlesi genel kalır."
             ]
         }

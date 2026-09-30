@@ -483,16 +483,31 @@ acentelik yapanlar hakkındaki sözleşmelerde yer alan, bu hükme aykırı şar
 davalar sonucunda alınan kararlar acentelere uygulanamaz.
 
 
-## TTK m.547
+## TBK m.547
 
-**C) Ek tasfiye**
+**Ticari temsilci**
+
+TTK m.547 ek tasfiyedir. Ticari mümessil bu madde değildir.
 
 ---
 
-MADDE 547- (1) Tasfiyenin kapanmasından sonra ek tasfiye işlemlerinin
-yapılmasının zorunlu olduğu anlaşılırsa, son tasfiye memurları, yönetim kurulu üyeleri, pay
-sahipleri veya alacaklılar, şirket merkezinin bulunduğu yerdeki asliye ticaret mahkemesinden,
-bu ek işlemler sonuçlandırılıncaya kadar, şirketin yeniden tescilini isteyebilirler.
-(2) Mahkeme istemin yerinde olduğuna kanaat getirirse, şirketin ek tasfiye için
-yeniden tesciline karar verir ve bu işlemlerini yapmaları için son tasfiye memurlarını veya
-yeni bir veya birkaç kişiyi tasfiye memuru olarak atayarak tescil ve ilan ettirir.
+MADDE 547- Ticari temsilci, işletme sahibinin, ticari işletmeyi yönetmek ve
+işletmeye ilişkin işlemlerde ticaret unvanı altında, ticari temsil yetkisi ile kendisini temsil
+etmek üzere, açıkça ya da örtülü olarak yetki verdiği kişidir.
+İşletme sahibi, ticari temsilcilik yetkisi verildiğini ticaret siciline tescil ettirmek
+zorundadır; ancak ticari işletme sahibinin ticari temsilcinin fiillerinden sorumluluğu, tescilin
+yapılmış olmasına bağlı değildir.
+
+
+## TBK m.549
+
+**Temsil yetkisinin sınırlandırılması**
+
+---
+
+MADDE 549- Temsil yetkisi, bir şubenin işleriyle sınırlandırılabilir.
+Temsil yetkisi, birden çok kişinin birlikte imza atmaları koşuluyla da sınırlandırılabilir.
+Bu durumda, diğerlerinin katılımı olmaksızın temsilcilerden birinin imza atmış olması, işletme
+sahibini bağlamaz.
+Temsil yetkisine ilişkin yukarıdaki sınırlamalar, ticaret siciline tescil edilmedikçe,
+iyiniyetli üçüncü kişilere karşı hüküm doğurmaz.

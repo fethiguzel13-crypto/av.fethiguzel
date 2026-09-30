@@ -1,0 +1,106 @@
+{
+  "intro": "Sınav puanı sloganı yazmaktan değil menfaati, primi ve süreyi ayırmaktan düşer. Aşağıdaki tuzaklar TTK altıncı kitap lafzına ve graf unsura dayanır; slayt cümlesi değildir.",
+  "uyari": "Ticari işletme ve vergi bu kâğıdın asıl kapısı değildir. Menfaat, prim temerrüdü, ihbar ve zamanaşımı yazılır. m.1481 halefiyettir; zamanaşımı m.1420 ve m.1482'dedir. Künye uydurulmaz. OBS bağlayıcıdır.",
+  "guz": [
+    "Sigorta sözleşmesi, sigortacının bir prim karşılığında kişinin para ile ölçülebilir menfaatini zarara uğratan rizikoyu tazmin etmeyi ya da hayat süresi veya hayatta gerçekleşen olay dolayısıyla edimde bulunmayı yükümlendiği sözleşmedir (TTK m.1401). Ruhsatsız şirketle onun bu durumunu bilerek yapılan sözleşmeye TBK m.604 ve m.605 uygulanır; Türkiye'de yerleşik olmayan sigorta şirketiyle kurulan sözleşmede bu hüküm uygulanmaz. Kanunun emredici hükümlerine, ahlaka, kamu düzenine veya kişilik haklarına aykırı bir fiilden doğabilecek zararı teminat altına almak için sigorta yapılamaz (TTK m.1404).",
+    "Sigorta menfaatinin yokluğu ile rizikonun kapsamı karıştırılmamalıdır; sözleşmenin yapılması anında menfaat yoksa sözleşme geçersizdir, süre içinde menfaat kalkarsa sözleşme o anda geçersiz olur (TTK m.1408). Sigortacı, sözleşmede öngörülen rizikonun gerçekleşmesinden doğan zarardan veya bedelden sorumludur (TTK m.1409). Sorumluluk başlamadan, tarafların fiili olmaksızın riziko imkânsızlaşırsa sigortacı prime hak kazanamaz (TTK m.1422).",
+    "Prim temerrüdünün iki kapısı karıştırılmamalıdır; sigorta dönemi, prim daha kısa süreye göre hesaplanmamışsa bir yıldır (TTK m.1411). İlk taksit veya peşin prim zamanında ödenmezse sigortacı üç ay içinde sözleşmeden cayabilir ve bu süre vadeden başlar; muacceliyetten itibaren üç ay içinde dava veya takip açılmazsa sözleşmeden cayılmış olur (TTK m.1434). Sonraki primlerden biri ödenmezse noter veya iadeli taahhütlü mektupla on günlük süre verilir; süre bitiminde borç duruyorsa sözleşme feshedilmiş olur.",
+    "Teminatın başlaması menfaatin varlığından ayrıdır; aksine sözleşme yoksa sigortacının sorumluluğu primin veya ilk taksidin ödenmesi ile başlar, kara ve denizde eşya taşıma sigortasında ise sözleşmenin yapılmasıyla başlar (TTK m.1421)."
+  ],
+  "bahar": [
+    "Sözleşme kurulurken beyan ile riziko gerçekleşince ihbar karıştırılmamalıdır; sigorta ettiren, bildiği veya bilmesi gereken önemli hususları bildirir, sözleşmenin yapılmamasını veya değişik şartta yapılmasını gerektirecek husus önemlidir ve sigortacının sorduğu husus aksi ispat edilene kadar önemli sayılır (TTK m.1435). Rizikonun gerçekleştiği öğrenilince durum gecikmeksizin bildirilir; bildirim yokluğu veya gecikme ödenecek tutarı artırmışsa kusurun ağırlığına göre indirim yapılır, sigortacı rizikonun gerçekleştiğini daha önce fiilen öğrenmişse bu indirimden yararlanamaz (TTK m.1446).",
+    "Eksik sigorta ile halefiyet karıştırılmamalıdır; sigorta bedeli sigorta değerinden azsa ve menfaatin bir kısmı zarara uğramışsa sigortacı, aksine sözleşme yoksa, sigorta bedelinin sigorta değerine oranına göre tazminat öder (TTK m.1462). Sigortacı tazminatı ödediğinde hukuken sigortalının yerine geçer ve sorumlulara karşı dava hakkı tazmin ettiği bedel kadar kendisine geçer (TTK m.1472). Sorumluluk sigortasında da halefiyet ödeme ile doğar (TTK m.1481).",
+    "Başkasının hayatı üzerine sigorta, sigortalının rızası olmadan kurulmuş sayılmamalıdır; sigorta ettiren kendi veya başkasının hayatını ölüm veya hayatta kalma ihtimaline karşı sigorta ettirebilir (TTK m.1490). Başkasının hayatında lehtarın, o hayatın devamında menfaati bulunmalıdır. Ölüm ihtimaline karşı sigortada bedel mutat cenaze giderini aşıyorsa sigortalının veya kanuni temsilcisinin yazılı izni gerekir; sigortalı on beş yaşından büyükse ayrıca onun izni de alınır. İzin yoksa ve icazet de verilmezse sözleşme geçersizdir.",
+    "Zamanaşımı süreleri birbirinin yerine konmamalıdır; sigorta sözleşmesinden doğan bütün istemler alacağın muaccel olduğu tarihten başlayarak iki yılda, m.1482 saklı kalmak üzere tazminat ve bedel istemleri her hâlde rizikonun gerçekleştiği tarihten itibaren altı yılda zamanaşımına uğrar (TTK m.1420). Sigortacıya yöneltilecek tazminat istemleri, sigorta konusu olaydan itibaren on yılda zamanaşımına uğrar (TTK m.1482). Sigortacının iflası hâlinde sözleşme sona erer (TTK m.1418). Sigorta ettirenin, acze düşen sigortacıdan teminat isteyip bir hafta içinde alamaması fesih sebebidir; aciz kendiliğinden sona erdirmez (TTK m.1417)."
+  ],
+  "mcq": {
+    "sigorta-sozlesmesi": {
+      "q": "TTK m.1401 ve m.1404 uyarınca sigorta sözleşmesi hakkında hangisi doğrudur?",
+      "choices": [
+        "Sigorta, prim olmaksızın her türlü ahlaka aykırı fiilin zararını da teminat altına alabilir.",
+        "Sigortacı, prim karşılığında para ile ölçülebilir menfaati zarara uğratan rizikoyu tazmin etmeyi veya hayat olayına bağlı edimde bulunmayı yükümlenir. Emredici hükme, ahlaka, kamu düzenine veya kişilik haklarına aykırı fiilden doğacak zarar için sigorta yapılamaz.",
+        "Ruhsatsız şirketle bilerek yapılan her sigorta geçerlidir.",
+        "Türkiye'de yerleşik olmayan sigorta şirketiyle kurulan sözleşmeye de TBK m.604 ve m.605 uygulanır."
+      ],
+      "answer": 1,
+      "reason": "TTK m.1401 tanımı ve ruhsatsız şirkette TBK m.604-605'in Türkiye'de yerleşik olmayan şirkete uygulanmamasını, m.1404 aykırı fiil zararını teminat dışı bırakır."
+    },
+    "teminat-kapsam": {
+      "q": "TTK m.1408 ve m.1421 uyarınca menfaat ve sorumluluğun başlaması hakkında hangisi doğrudur?",
+      "choices": [
+        "Menfaat sözleşmenin yapılmasından sonra doğsa da sözleşme baştan geçerlidir. Sorumluluk her hâlde sözleşmenin imzasıyla başlar.",
+        "Yapılması anında sigortalanan menfaat yoksa sözleşme geçersizdir. Aksine sözleşme yoksa sigortacının sorumluluğu primin veya ilk taksidin ödenmesiyle başlar; kara ve deniz eşya taşımasında sözleşmenin yapılmasıyla başlar.",
+        "Menfaat kalksa da sözleşme dönem sonuna kadar ayakta kalır.",
+        "Prim ödenmeden sigortacı her sigorta türünde rizikoyu taşır."
+      ],
+      "answer": 1,
+      "reason": "TTK m.1408 menfaatin yokluğunu geçersizlik sayar. m.1421 sorumluluğu kural olarak prim veya ilk takside, taşıma sigortasında sözleşmenin yapılmasına bağlar."
+    },
+    "riziko": {
+      "q": "TTK m.1409 ve m.1422 uyarınca riziko hakkında hangisi doğrudur?",
+      "choices": [
+        "Sigortacı, sözleşmede öngörülmeyen her tehlikeden sorumludur ve imkânsızlaşan rizikoda da prime hak kazanır.",
+        "Sigortacı, sözleşmede öngörülen rizikonun gerçekleşmesinden doğan zarardan veya bedelden sorumludur. Sorumluluk başlamadan tarafların fiili olmaksızın riziko imkânsızlaşırsa prime hak kazanamaz.",
+        "Riziko gerçekleşmeden tazminat muaccel olur.",
+        "İmkânsızlık hâlinde prim iade edilmez, sözleşme ayakta kalır."
+      ],
+      "answer": 1,
+      "reason": "TTK m.1409 sorumluluğu öngörülen rizikoya, m.1422 sorumluluk başlamadan kusursuz imkânsızlıkta prime hak kazanmamayı düzenler."
+    },
+    "prim": {
+      "q": "TTK m.1434 uyarınca prim temerrüdü hakkında hangisi doğrudur?",
+      "choices": [
+        "İlk prim ödenmezse sözleşme kendiliğinden ve derhâl batıl olur.",
+        "İlk taksit veya peşin prim zamanında ödenmezse sigortacı vadeden başlayan üç ay içinde cayabilir; üç ay içinde dava veya takip açılmazsa cayılmış olur. Sonraki primde on günlük ihtar sonunda borç ödenmezse sözleşme feshedilmiş olur.",
+        "Sonraki primlerin temerrüdünde ihtar aranmaz.",
+        "Prim temerrüdü yalnız hayat sigortasında sonuç doğurur."
+      ],
+      "answer": 1,
+      "reason": "TTK m.1434 ilk primde üç aylık caymayı ve dava açılmazsa cayılmış sayılmayı, sonraki primde on günlük ihtar üzerine feshi düzenler."
+    },
+    "ihbar-sigorta": {
+      "q": "TTK m.1435 ve m.1446 uyarınca beyan ve ihbar hakkında hangisi doğrudur?",
+      "choices": [
+        "Beyan yükümlülüğü yalnız riziko gerçekleştikten sonra doğar ve hiç bildirmemek tazminatı kendiliğinden sıfırlar.",
+        "Kuruluşta bilinen veya bilinmesi gereken önemli hususlar bildirilir; sorulan husus aksi ispat edilene kadar önemlidir. Riziko öğrenilince gecikmeksizin bildirilir. Geç bildirim ödenecek tutarı artırmışsa kusura göre indirim yapılır; sigortacı olayı daha önce fiilen öğrenmişse bu indirimden yararlanamaz.",
+        "Sigortacının sorduğu soru önemli sayılmaz.",
+        "İhbar gecikse de tazminattan indirim yapılamaz."
+      ],
+      "answer": 1,
+      "reason": "TTK m.1435 kuruluştaki beyanı ve sorulan hususun önem karinesini, m.1446 gecikmeksizin ihbarı ve kusura bağlı indirimi düzenler."
+    },
+    "tazmin": {
+      "q": "TTK m.1462 ve m.1472 uyarınca eksik sigorta ve halefiyet hakkında hangisi doğrudur?",
+      "choices": [
+        "Eksik sigortada sigortacı zararın tamamını öder. Halefiyet, tazminat ödenmeden doğar.",
+        "Sigorta bedeli değerden azsa sigortacı, aksine sözleşme yoksa, bedelin değere oranına göre öder. Tazminatı ödediğinde sigortalının yerine geçer ve dava hakkı ödediği bedel kadar kendisine geçer.",
+        "Halefiyet, sigortalının sorumlulara karşı hakkını bütünüyle düşürür ve kalan zarar da sigortacıya aittir.",
+        "Eksik sigorta sözleşmeyi geçersiz kılar."
+      ],
+      "answer": 1,
+      "reason": "TTK m.1462 eksik sigortada oran kuralını, m.1472 halefiyeti tazminatın ödenmesine ve ödenen bedelle sınırlı intikale bağlar."
+    },
+    "hayat": {
+      "q": "TTK m.1490 uyarınca başkasının hayatı üzerine sigorta hakkında hangisi doğrudur?",
+      "choices": [
+        "Başkasının hayatı, o kişinin izni aranmaksızın ve menfaat şartı olmaksızın ölüm ihtimaline karşı sigortalanabilir.",
+        "Başkasının hayatının devamında lehtarın menfaati bulunmalıdır. Ölüm ihtimaline karşı bedel mutat cenaze giderini aşıyorsa yazılı izin gerekir; sigortalı on beş yaşından büyükse ayrıca onun izni de alınır. İzin ve icazet yoksa sözleşme geçersizdir.",
+        "Yazılı izin yalnız sigorta ettirenin eşinden alınır.",
+        "On beş yaşından büyük sigortalıda kanuni temsilcinin izni, sigortalının izninin yerini her hâlde tutar."
+      ],
+      "answer": 1,
+      "reason": "TTK m.1490/2 menfaati, cenaze giderini aşan ölüm sigortasında yazılı izni ve on beş yaşından büyük sigortalıda ayrıca onun iznini arar. İzinsiz sözleşme icazet yoksa geçersizdir."
+    },
+    "sona-sigorta": {
+      "q": "TTK m.1420 ve m.1482 uyarınca sigorta zamanaşımı hakkında hangisi doğrudur?",
+      "choices": [
+        "Bütün sigorta istemleri rizikodan itibaren on yılda zamanaşımına uğrar; iki yıllık süre yoktur.",
+        "Sözleşmeden doğan istemler muacceliyetten itibaren iki yılda zamanaşımına uğrar. Tazminat ve bedel istemleri, m.1482 saklı kalmak üzere, her hâlde rizikonun gerçekleşmesinden itibaren altı yılda düşer. Sigortacıya yöneltilecek tazminat istemi sigorta konusu olaydan itibaren on yıldır.",
+        "Sigortacının iflası sözleşmeyi sona erdirmez.",
+        "Takdir veya aciz, süreyi kendiliğinden sıfırlar ve teminat istemi aranmaz."
+      ],
+      "answer": 1,
+      "reason": "TTK m.1420 iki yıl ve her hâlde altı yılı, m.1482 sigortacıya yöneltilen tazminat isteminde on yılı koyar. İflasın sözleşmeyi sona erdirmesi m.1418'dedir."
+    }
+  }
+}

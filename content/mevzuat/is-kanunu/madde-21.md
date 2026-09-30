@@ -13,8 +13,7 @@ keywords:
   - "tazminat hesabı"
 ---
 
-**K.:2005/72 sayılı Kararı ile.)
-Geçersiz sebeple yapılan feshin sonuçları**
+**Geçersiz sebeple yapılan feshin sonuçları**
 
 ---
 

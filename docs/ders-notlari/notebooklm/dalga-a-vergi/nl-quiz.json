@@ -1,0 +1,106 @@
+{
+  "intro": "Sınav puanı sloganı yazmaktan değil doğum anını ve yaptırımı ayırmaktan düşer. Aşağıdaki tuzaklar VUK, GVK ve KDVK lafzına ve graf unsura dayanır; slayt cümlesi değildir.",
+  "uyari": "Borçlar ve tüketici bu kâğıdın asıl kapısı değildir. Vergiyi doğuran olay, tarh, süre ve ceza türü yazılır. Hapiz süresi ve güncel parasal ceza tutarı ezberlenmez. Künye uydurulmaz. OBS bağlayıcıdır.",
+  "guz": [
+    "Vergiyi doğuran olay ile tarh karıştırılmamalıdır; vergi alacağı, vergi kanunlarının vergiyi bağladıkları olayın vukuu veya hukuki durumun tekemmülü ile doğar ve mükellef bakımından vergi borcudur (VUK m.19). Tarh, bu alacağın kanunlardaki matrah ve nispet üzerinden vergi dairesince miktar itibariyle tespitidir (VUK m.20). Gerçek mahiyet esastır; yemin hariç her türlü delil kullanılır, vergiyi doğuran olayla ilgisi tabii ve açık olmayan tanık ifadesi ispat vasıtası olmaz (VUK m.3).",
+    "Mükellef ile vergi sorumlusu karıştırılmamalıdır; mükellef kendisine vergi borcu terettüp eden gerçek veya tüzel kişidir, vergi sorumlusu verginin ödenmesi bakımından vergi dairesine karşı muhataptır (VUK m.8). Mükellefiyet ve vergi sorumluluğu için kanuni ehliyet şart değildir (VUK m.9). Kanunla kabul edilen haller dışında mükellefiyet veya sorumluluğa ilişkin özel sözleşmeler vergi dairelerini bağlamaz (VUK m.8). Ölümde ödevler, mirası reddetmemiş kanuni ve mansup mirasçılara geçer (VUK m.12).",
+    "Tarh, tebliğ, tahakkuk ve tahsil aynı safha değildir; tebliğ, hüküm ifade eden hususun yetkili makamca yazı ile bildirilmesidir (VUK m.21), tahakkuk tarh ve tebliğ edilen verginin ödenmesi gereken safhaya gelmesidir (VUK m.22), tahsil kanuna uygun ödemedir (VUK m.23).",
+    "İkmalen tarh ile re'sen tarh karıştırılmamalıdır; ikmalen, bir vergi tarh edildikten sonra defter, kayıt ve belgelere veya kanuni ölçülere dayanılarak miktarı tespit olunan matrah veya matrah farkı üzerinden tarhtır (VUK m.29). Re'sen tarh, matrahın tamamen veya kısmen bu yolla tespitine imkan bulunmayan hallerde takdir komisyonunca takdir edilen veya inceleme raporunda belirtilen matrah üzerinden tarhtır (VUK m.30). Beyannamenin kanuni süresi geçtiği halde verilmemesi re'sen tarh hallerindendir."
+  ],
+  "bahar": [
+    "Tarh zamanaşımı hak düşürücü süre sanılmamalıdır; zamanaşımı süre geçmekle vergi alacağının kalkmasıdır ve mükellefin müracaatı aranmaksızın hüküm ifade eder (VUK m.113). Vergi alacağının doğduğu takvim yılını takip eden yılın başından başlayarak beş yıl içinde tarh ve tebliğ edilmeyen vergiler zamanaşımına uğrar (VUK m.114). Takdir komisyonuna başvuru zamanaşımını durdurur; duran süre, komisyon kararının vergi dairesine tevdiini takip eden günden işlemeye devam eder ve işlemeyen süre her hâlde bir yıldan fazla olamaz.",
+    "Vergi ziyaı, usulsüzlük ve kaçakçılık karıştırılmamalıdır; vergi ziyaı, ödevin zamanında veya eksik yapılması yüzünden verginin zamanında tahakkuk ettirilmemesi veya eksik tahakkuk ettirilmesidir (VUK m.341). Bu hallerde ziyaa uğratılan verginin bir katı tutarında vergi ziyaı cezası kesilir; ziya 359. maddedeki fiillerle doğmuşsa ceza üç kat, bu fiillere iştirak edene bir kattır (VUK m.344). İnceleme veya takdirden önce olmak kaydıyla kanuni süresi geçtikten sonra verilen beyannamede ceza yüzde elli oranında uygulanır. Usulsüzlük, şekle ve usule ilişkin hükümlere uyulmamasıdır (VUK m.351). Muhteviyatı itibariyle yanıltıcı belge gerçek bir muameleye dayanır fakat mahiyet veya miktarı gerçeğe aykırı yansıtır; sahte belge bundan ayrıdır (VUK m.359).",
+    "Gelir vergisi ile kurumlar vergisi karıştırılmamalıdır; gerçek kişilerin gelirleri gelir vergisine tabidir ve gelir, bir gerçek kişinin bir takvim yılı içinde elde ettiği kazanç ve iratların safi tutarıdır (GVK m.1). Türkiye'de yerleşmiş olanlar ile merkezi Türkiye'de bulunan teşekkülün işi dolayısıyla yabancı memlekette oturan Türk vatandaşları, Türkiye içinde ve dışında elde ettikleri kazanç ve iratların tamamı üzerinden vergilendirilir (GVK m.3). Değer artışı kazançları ile arızi kazançlar, diğer kazanç ve irat olarak gelire girer (GVK m.80).",
+    "Katma değer vergisinin konusu ile indirilmesi karıştırılmamalıdır; Türkiye'de ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesinde yapılan teslim ve hizmetler ile her türlü mal ve hizmet ithalatı katma değer vergisine tabidir (KDVK m.1). Mal teslimi ve hizmet ifasında mükellef bu işleri yapandır (KDVK m.8). Mükellef, vergiye tabi işlemleri üzerinden hesaplanan katma değer vergisinden, kanunda aksine hüküm olmadıkça faaliyetine ilişkin indirilecek vergileri indirir (KDVK m.29)."
+  ],
+  "mcq": {
+    "vergiyi-doguran": {
+      "q": "VUK m.19 ve m.20 uyarınca vergi alacağının doğumu ve tarhı hakkında hangisi doğrudur?",
+      "choices": [
+        "Vergi alacağı ancak tarh işlemiyle doğar; olayın vukuu tek başına borç yaratmaz.",
+        "Vergi alacağı, vergi kanunlarının vergiyi bağladıkları olayın vukuu veya hukuki durumun tekemmülü ile doğar. Tarh, bu alacağın matrah ve nispet üzerinden miktar itibariyle tespitidir.",
+        "Tarh, mükellefin beyanname vermesinden ibarettir; vergi dairesinin hesabı aranmaz.",
+        "Vergiyi doğuran olayın gerçek mahiyeti yalnız yeminle ispatlanır."
+      ],
+      "answer": 1,
+      "reason": "VUK m.19 doğumu olayın vukuu veya hukuki durumun tekemmülüne, m.20 tarhı miktar tespiti olarak vergi dairesine bağlar. m.3 yemini ispat vasıtası saymaz."
+    },
+    "mukellef": {
+      "q": "VUK m.8 ve m.9 uyarınca mükellef ve vergi sorumlusu hakkında hangisi doğrudur?",
+      "choices": [
+        "Mükellef ile vergi sorumlusu aynı kişidir; ehliyetsiz olan vergi borçlusu olamaz.",
+        "Mükellef, kendisine vergi borcu terettüp eden kişidir. Vergi sorumlusu, ödeme bakımından vergi dairesine karşı muhataptır. Kanuni ehliyet şart değildir.",
+        "Mükellefiyet devri serbestçe sözleşmeyle vergi dairesine karşı hüküm doğurur.",
+        "Vergi numarası yalnız tüzel kişilere verilir."
+      ],
+      "answer": 1,
+      "reason": "VUK m.8 mükellef ve vergi sorumlusunu ayırır ve özel sözleşmenin vergi dairesini bağlamadığını söyler. m.9 kanuni ehliyeti şart saymaz."
+    },
+    "tarh": {
+      "q": "VUK m.21, m.22 ve m.23 uyarınca tebliğ, tahakkuk ve tahsil hakkında hangisi doğrudur?",
+      "choices": [
+        "Tahakkuk, verginin fiilen ödenmesidir; tebliğ aranmaz.",
+        "Tebliğ, hüküm ifade eden hususun yetkili makamca yazı ile bildirilmesidir. Tahakkuk, tarh ve tebliğ edilen verginin ödenmesi gereken safhaya gelmesidir. Tahsil, kanuna uygun ödemedir.",
+        "Tahsil, takdir komisyonunun matrahı belirlemesidir.",
+        "Tebliğ sözlü duyuruyla tamamlanır."
+      ],
+      "answer": 1,
+      "reason": "VUK m.21 tebliği yazı ile bildirime, m.22 tahakkuku ödenecek safhaya, m.23 tahsili kanuna uygun ödemeye bağlar."
+    },
+    "resen": {
+      "q": "VUK m.29 ve m.30 uyarınca ikmalen ve re'sen tarh hakkında hangisi doğrudur?",
+      "choices": [
+        "İkmalen tarh, defter hiç tutulmadığında ilk ve tek tarh yoludur.",
+        "İkmalen tarh, bir vergi tarh edildikten sonra defter, kayıt ve belgeye veya kanuni ölçüye dayanılarak tespit edilen matrah veya matrah farkı üzerinden yapılır. Re'sen tarh, matrahın bu yolla tespitine imkan bulunmayan hallerde takdir veya inceleme raporundaki matrah üzerinden yapılır.",
+        "Beyanname süresinde verilmezse yalnız ikmalen tarh yoluna gidilir.",
+        "Re'sen tarhta inceleme raporundaki matrah takdir sayılmaz."
+      ],
+      "answer": 1,
+      "reason": "VUK m.29 ikmalen tarhı sonraki ve belgeden tespit edilen farka, m.30 re'sen tarhı tespitin mümkün olmadığı hale ve inceleme raporunun re'sen takdir sayılmasına bağlar. Süresinde verilmeyen beyanname m.30'un re'sen tarh hallerindendir."
+    },
+    "zamanasimi-vuk": {
+      "q": "VUK m.113 ve m.114 uyarınca tarh zamanaşımı hakkında hangisi doğrudur?",
+      "choices": [
+        "Zamanaşımı ancak mükellef def'i ileri sürerse hüküm doğurur ve süre olay gününden üç yıldır.",
+        "Zamanaşımı, süre geçmekle vergi alacağının kalkmasıdır ve müracaat aranmaksızın hüküm ifade eder. Alacağın doğduğu takvim yılını takip eden yılın başından beş yıl içinde tarh ve tebliğ edilmeyen vergi zamanaşımına uğrar. Takdir komisyonuna sevkte işlemeyen süre bir yılı geçemez.",
+        "Beş yıl, tahsil zamanaşımıdır; tarh için süre yoktur.",
+        "Takdir komisyonuna başvuru zamanaşımını süresiz durdurur."
+      ],
+      "answer": 1,
+      "reason": "VUK m.113 zamanaşımının kendiliğinden hüküm ifade ettiğini, m.114 beş yıllık tarh ve tebliğ süresini ve takdirde durmanın bir yılı aşamayacağını düzenler."
+    },
+    "vergi-ceza": {
+      "q": "VUK m.341, m.344 ve m.351 uyarınca vergi ziyaı ve usulsüzlük hakkında hangisi doğrudur?",
+      "choices": [
+        "Usulsüzlük, verginin eksik tahakkuk etmesidir; ziya cezası her hâlde verginin üç katıdır.",
+        "Vergi ziyaı, ödevin zamanında veya eksik yapılması yüzünden verginin zamanında veya eksik tahakkuk ettirilmemesidir. Ceza kural olarak ziyaa uğratılan verginin bir katıdır. Usulsüzlük, şekle ve usule ilişkin hükümlere uyulmamasıdır.",
+        "Vergi sonradan tahakkuk ettirilirse ceza düşer.",
+        "Kanuni süresi geçen beyannamede ceza hiç kesilmez."
+      ],
+      "answer": 1,
+      "reason": "VUK m.341 ziyaı, m.344 bir kat cezayı ve inceleme veya takdirden önce geç beyannamede yüzde elli uygulamasını, m.351 usulsüzlüğü şekil ve usul aykırılığı olarak tanımlar. Sonradan tahakkuk cezaya engel değildir (m.341)."
+    },
+    "gelir": {
+      "q": "GVK m.1 ve m.3 uyarınca gelir vergisi hakkında hangisi doğrudur?",
+      "choices": [
+        "Gelir vergisi tüzel kişilerin ticari kazancına ilişkindir ve dönem mali yıldır.",
+        "Gerçek kişilerin gelirleri gelir vergisine tabidir. Gelir, bir gerçek kişinin bir takvim yılı içinde elde ettiği kazanç ve iratların safi tutarıdır. Türkiye'de yerleşmiş olanlar iç ve dış kazançlarının tamamı üzerinden vergilendirilir.",
+        "Yurt dışında oturan her Türk vatandaşı, elde ettiği yabancı kazanç üzerinden ikinci kez vergilendirilir.",
+        "Değer artışı kazancı gelir vergisinin konusuna hiç girmez."
+      ],
+      "answer": 1,
+      "reason": "GVK m.1 gerçek kişi, takvim yılı ve safi kazanç-irat tanımını, m.3 Türkiye'de yerleşenlerin tam mükellefiyetini koyar. m.3/2 yabancı memlekette benzer vergiye tabi tutulan kazancı ayrıca vergilendirmez. Değer artışı m.80'dedir."
+    },
+    "kdv": {
+      "q": "KDVK m.1 ve m.8 uyarınca katma değer vergisi hakkında hangisi doğrudur?",
+      "choices": [
+        "Katma değer vergisi yalnız ithalata ilişkindir; yurt içi teslim vergi dışıdır.",
+        "Türkiye'de ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesinde yapılan teslim ve hizmetler ile her türlü mal ve hizmet ithalatı katma değer vergisine tabidir. Mal teslimi ve hizmet ifasında mükellef bu işleri yapandır.",
+        "İndirim, hesaplanan vergiden bağımsız olarak her faturayı otomatik siler; kanunun aksine hükmü aranmaz.",
+        "Mükellef her hâlde malı satın alandır."
+      ],
+      "answer": 1,
+      "reason": "KDVK m.1 konuyu Türkiye'deki teslim, hizmet ve ithalata, m.8 mal teslimi ve hizmet ifasında mükellefi bu işleri yapana bağlar. m.29 indirimi kanunda aksine hüküm olmadıkça faaliyetle ilgili vergiye sınırlar."
+    }
+  }
+}

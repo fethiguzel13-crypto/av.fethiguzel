@@ -609,6 +609,325 @@
                     "note": "takvim görseli"
                 }
             ]
+        },
+        "tuketici-hukuku": {
+            "cityHook": "Cebeci'de bir ayıplı telefon ve seçimlik hak",
+            "mehaz": "Cebeci şerh geleneği; 6502 lafzı bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TKHK maddesi + tüketici kurumu + olaya yedirme.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde tüketici sıfatı mı ticari amaç mı olduğunu yazın.",
+                    "Ayıp ile caymayı, hakem heyeti ile tüketici mahkemesini karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "tüketici",
+                "ayıplı mal",
+                "ayıplı hizmet",
+                "mesafeli sözleşme",
+                "haksız şart",
+                "taksitli satış",
+                "uyuşmazlık"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği tüketici sıfatını önce yazar.",
+                "Borçlar özel satım ayrı derstir; bu kâğıtta 6502 konuşur."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
+        },
+        "vergi-hukuku": {
+            "cityHook": "Cebeci'de bir tarh ve tebliğ tartışması",
+            "mehaz": "Cebeci şerh geleneği; VUK lafzı bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: VUK maddesi + vergi kurumu + olaya yedirme.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde vergiyi doğuran olay mı tarh mı olduğunu yazın.",
+                    "Mükellef ile vergi sorumlusunu, ikmalen ile re'sen tarhı karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "vergiyi doğuran olay",
+                "mükellef",
+                "tarh",
+                "re'sen tarh",
+                "zamanaşımı",
+                "vergi cezası",
+                "gelir vergisi",
+                "katma değer vergisi"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği vergi alacağının doğumunu önce yazar.",
+                "Borçlar genel ve tüketici ayrı derslerdir; bu kâğıtta VUK konuşur."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
+        },
+        "sigorta-hukuku": {
+            "cityHook": "Cebeci'de bir menfaat ve prim temerrüdü tartışması",
+            "mehaz": "Cebeci şerh geleneği; TTK sigorta lafzı bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + sigorta kurumu + olaya yedirme.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde menfaat var mı, prim ödendi mi yazın.",
+                    "İki yıllık zamanaşımı ile on yıllık sorumluluk süresini karıştırmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "sigorta sözleşmesi",
+                "riziko",
+                "prim",
+                "teminat",
+                "beyan ve ihbar",
+                "tazmin ve halefiyet",
+                "hayat sigortası",
+                "sona erme ve zamanaşımı"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği sigorta menfaatini önce yazar.",
+                "Ticari işletme ve vergi ayrı derslerdir; bu kâğıtta TTK altıncı kitap konuşur."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
+        },
+        "idare-hukuku": {
+            "cityHook": "Cebeci'de bir meclis kararı ve mülki amire gönderme",
+            "mehaz": "Cebeci şerh geleneği; 5393 ve 657 lafzı bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: kanun maddesi + idare kurumu + olaya yedirme.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde meclis kararı mı başkan işlemi mi olduğunu yazın.",
+                    "Valiyi belediye başkanı, görevden uzaklaştırmayı disiplin cezası sanmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "hemşehri ve görev",
+                "belediye organı",
+                "memur",
+                "yetki",
+                "disiplin",
+                "kamulaştırma",
+                "imar",
+                "vali ve kaymakam"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği organı ve yetkiyi önce yazar.",
+                "İYUK ayrı derstir; bu kâğıtta 5393, 657, 2942, 3194 ve 5442 konuşur."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
+        },
+        "insaat-hukuku": {
+            "cityHook": "Cebeci'de bir götürü bedel ve ayıplı kaba inşaat",
+            "mehaz": "Cebeci şerh geleneği; TBK eser lafzı bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TBK veya İmar maddesi + inşaat kurumu + olaya yedirme.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde eser mi hizmet mi, götürü mü yaklaşık bedel mi yazın.",
+                    "Taşınmaz üzerindeki eserde sözleşmeden dönmeyi serbest sanmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "eser sözleşmesi",
+                "bedel",
+                "ayıp",
+                "teslim ve fesih",
+                "ruhsat",
+                "ruhsatsız yapı",
+                "kamulaştırma",
+                "kat karşılığı"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği eser sözleşmesini önce yazar.",
+                "Borçlar genel kaynak kapısı ayrı derstir; bu kâğıtta TBK eser ve imar konuşur."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
+        },
+        "rekabet-hukuku": {
+            "cityHook": "Cebeci'de bir fiyat anlaşması ve muafiyet",
+            "mehaz": "Cebeci şerh geleneği; 4054 lafzı bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: 4054 maddesi + ihlal türü + olaya yedirme.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde anlaşma mı hâkim durumun kötüye kullanılması mı yazın.",
+                    "Hâkim durumu kendiliğinden yasak sanmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "teşebbüs",
+                "anlaşma",
+                "hâkim durum",
+                "birleşme",
+                "muafiyet",
+                "soruşturma",
+                "kurul",
+                "idari para cezası"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği ilgili pazarı önce yazar.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
+        },
+        "arabuluculuk": {
+            "cityHook": "Cebeci'de bir son tutanak ve usulden ret",
+            "mehaz": "Cebeci şerh geleneği; 6325 lafzı bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: 6325 maddesi + süreç + olaya yedirme.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde iradi arabuluculuk mu dava şartı mı yazın.",
+                    "Aile içi şiddeti elverişli sanmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "iradi olma",
+                "gizlilik",
+                "arabulucu",
+                "ücret",
+                "ilk toplantı",
+                "süreç",
+                "anlaşma",
+                "dava şartı"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği kapsamı önce yazar.",
+                "HMK ayrı derstir; bu kâğıtta 6325 konuşur."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
+        },
+        "deniz-ticareti": {
+            "cityHook": "Cebeci'de bir konişmento ve navlun sözleşmesi",
+            "mehaz": "Cebeci şerh geleneği; TTK beşinci kitap lafzı bağlar",
+            "examBox": {
+                "calendar": "karma",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + deniz kurumu + olaya yedirme.",
+                "tips": [
+                    "Kâğıdın ilk cümlesinde donatan mı taşıyan mı olduğunu yazın.",
+                    "Gemi alacağını sorumluluğun sınırlanması sanmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "gemi",
+                "donatan",
+                "kaptan",
+                "navlun",
+                "konişmento",
+                "müşterek avarya",
+                "gemi alacağı",
+                "gemi ipoteği"
+            ],
+            "schoolNotes": [
+                "AÜHF Cebeci geleneği geminin tanımını önce yazar.",
+                "Kıymetli evrak ayrı derstir; bu kâğıtta TTK deniz ticareti konuşur."
+            ],
+            "sources": [
+                {
+                    "title": "AÜHF ders içerikleri",
+                    "url": "https://www.law.ankara.edu.tr/ders-icerikleri/",
+                    "note": "OIDB giriş; başlık omurgası"
+                },
+                {
+                    "title": "AÜHF 2025-2026 ders programı",
+                    "url": "https://www.law.ankara.edu.tr/ders-programi/",
+                    "note": "takvim görseli"
+                }
+            ]
         }
     }
 }

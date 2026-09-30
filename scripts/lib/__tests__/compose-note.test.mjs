@@ -115,6 +115,30 @@ const deep = [
     'ankara__kiymetli-evrak-yillik.json',
     'marmara__kiymetli-evrak-yillik.json',
     'koc__kiymetli-evrak-yillik.json',
+    'ankara__tuketici-hukuku-yillik.json',
+    'marmara__tuketici-hukuku-yillik.json',
+    'koc__tuketici-hukuku-yillik.json',
+    'ankara__vergi-hukuku-yillik.json',
+    'marmara__vergi-hukuku-yillik.json',
+    'koc__vergi-hukuku-yillik.json',
+    'ankara__sigorta-hukuku-yillik.json',
+    'marmara__sigorta-hukuku-yillik.json',
+    'koc__sigorta-hukuku-yillik.json',
+    'ankara__idare-hukuku-yillik.json',
+    'marmara__idare-hukuku-yillik.json',
+    'koc__idare-hukuku-yillik.json',
+    'ankara__insaat-hukuku-yillik.json',
+    'marmara__insaat-hukuku-yillik.json',
+    'koc__insaat-hukuku-yillik.json',
+    'ankara__rekabet-hukuku-yillik.json',
+    'marmara__rekabet-hukuku-yillik.json',
+    'koc__rekabet-hukuku-yillik.json',
+    'ankara__arabuluculuk-yillik.json',
+    'marmara__arabuluculuk-yillik.json',
+    'koc__arabuluculuk-yillik.json',
+    'ankara__deniz-ticareti-yillik.json',
+    'marmara__deniz-ticareti-yillik.json',
+    'koc__deniz-ticareti-yillik.json',
     'istanbul__idare-hukuku-yillik.json',
     'afyon__borclar-genel-yillik.json',
 ];
@@ -318,6 +342,62 @@ test('AÜHF kıymetli evrak notuna tacir kapısı sızmaz', () => {
     assertFacultyVoice(
         'ankara__kiymetli-evrak-yillik.json',
         /poliçe|bono|çek/,
+        ['HKZ201', 'borcun kaynağını']
+    );
+});
+test('AÜHF tüketici notuna borçlar genel kapısı sızmaz', () => {
+    assertFacultyVoice(
+        'ankara__tuketici-hukuku-yillik.json',
+        /tüketici|6502|ayıplı/,
+        ['HKZ201', 'borcun kaynağını']
+    );
+});
+test('AÜHF vergi notuna borçlar genel kapısı sızmaz', () => {
+    assertFacultyVoice(
+        'ankara__vergi-hukuku-yillik.json',
+        /vergiyi doğuran|tarh|VUK/,
+        ['HKZ201', 'borcun kaynağını']
+    );
+});
+test('AÜHF sigorta notuna borçlar genel kapısı sızmaz', () => {
+    assertFacultyVoice(
+        'ankara__sigorta-hukuku-yillik.json',
+        /sigorta|prim|riziko/,
+        ['HKZ201', 'borcun kaynağını']
+    );
+});
+test('AÜHF idare notuna borçlar genel kapısı sızmaz', () => {
+    assertFacultyVoice(
+        'ankara__idare-hukuku-yillik.json',
+        /belediye|hemşehri|vali/,
+        ['HKZ201', 'borcun kaynağını']
+    );
+});
+test('AÜHF inşaat notuna borçlar genel kapısı sızmaz', () => {
+    assertFacultyVoice(
+        'ankara__insaat-hukuku-yillik.json',
+        /eser|yüklenici|götürü/,
+        ['HKZ201', 'borcun kaynağını']
+    );
+});
+test('AÜHF rekabet notuna borçlar genel kapısı sızmaz', () => {
+    assertFacultyVoice(
+        'ankara__rekabet-hukuku-yillik.json',
+        /anlaşma|hâkim durum|4054/,
+        ['HKZ201', 'borcun kaynağını']
+    );
+});
+test('AÜHF arabuluculuk notuna borçlar genel kapısı sızmaz', () => {
+    assertFacultyVoice(
+        'ankara__arabuluculuk-yillik.json',
+        /arabulucu|gizlilik|6325/,
+        ['HKZ201', 'borcun kaynağını']
+    );
+});
+test('AÜHF deniz ticareti notuna borçlar genel kapısı sızmaz', () => {
+    assertFacultyVoice(
+        'ankara__deniz-ticareti-yillik.json',
+        /donatan|navlun|gemi/,
         ['HKZ201', 'borcun kaynağını']
     );
 });

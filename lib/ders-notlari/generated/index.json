@@ -3,7 +3,7 @@
   "wave": "cleanup-active-only",
   "universityCount": 84,
   "hubCount": 84,
-  "noteCount": 11190,
+  "noteCount": 11042,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -674,13 +674,6 @@
     },
     {
       "uniSlug": "afyon",
-      "courseCode": "ceza-genel",
-      "slug": "afyon__ceza-genel",
-      "title": "AKÜ Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Afyonkarahisar",
-      "href": "/ders-notlari/afyon/ceza-genel"
-    },
-    {
-      "uniSlug": "afyon",
       "courseCode": "ceza-muhakemesi",
       "slug": "afyon__ceza-muhakemesi",
       "title": "AKÜ Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Afyonkarahisar",
@@ -849,13 +842,6 @@
     },
     {
       "uniSlug": "afyon",
-      "courseCode": "hukuka-giris",
-      "slug": "afyon__hukuka-giris",
-      "title": "AKÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Afyonkarahisar",
-      "href": "/ders-notlari/afyon/hukuka-giris"
-    },
-    {
-      "uniSlug": "afyon",
       "courseCode": "icra-donem-1",
       "slug": "afyon__icra-donem-1",
       "title": "AKÜ İcra Hukuku 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
@@ -867,13 +853,6 @@
       "slug": "afyon__icra-donem-2",
       "title": "AKÜ İcra Hukuku 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
       "href": "/ders-notlari/afyon/icra-donem-2"
-    },
-    {
-      "uniSlug": "afyon",
-      "courseCode": "icra-iflas",
-      "slug": "afyon__icra-iflas",
-      "title": "AKÜ İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Afyonkarahisar",
-      "href": "/ders-notlari/afyon/icra-iflas"
     },
     {
       "uniSlug": "afyon",
@@ -944,13 +923,6 @@
       "slug": "afyon__insan-haklari",
       "title": "AKÜ İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Afyonkarahisar",
       "href": "/ders-notlari/afyon/insan-haklari"
-    },
-    {
-      "uniSlug": "afyon",
-      "courseCode": "is-hukuku",
-      "slug": "afyon__is-hukuku",
-      "title": "AKÜ İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Afyonkarahisar",
-      "href": "/ders-notlari/afyon/is-hukuku"
     },
     {
       "uniSlug": "afyon",
@@ -1654,13 +1626,6 @@
     },
     {
       "uniSlug": "altinbas",
-      "courseCode": "ceza-genel",
-      "slug": "altinbas__ceza-genel",
-      "title": "Altınbaş Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/altinbas/ceza-genel"
-    },
-    {
-      "uniSlug": "altinbas",
       "courseCode": "ceza-muhakemesi",
       "slug": "altinbas__ceza-muhakemesi",
       "title": "Altınbaş Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
@@ -1829,13 +1794,6 @@
     },
     {
       "uniSlug": "altinbas",
-      "courseCode": "hukuka-giris",
-      "slug": "altinbas__hukuka-giris",
-      "title": "Altınbaş Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/altinbas/hukuka-giris"
-    },
-    {
-      "uniSlug": "altinbas",
       "courseCode": "icra-donem-1",
       "slug": "altinbas__icra-donem-1",
       "title": "Altınbaş İcra Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
@@ -1847,13 +1805,6 @@
       "slug": "altinbas__icra-donem-2",
       "title": "Altınbaş İcra Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
       "href": "/ders-notlari/altinbas/icra-donem-2"
-    },
-    {
-      "uniSlug": "altinbas",
-      "courseCode": "icra-iflas",
-      "slug": "altinbas__icra-iflas",
-      "title": "Altınbaş İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/altinbas/icra-iflas"
     },
     {
       "uniSlug": "altinbas",
@@ -1924,13 +1875,6 @@
       "slug": "altinbas__insan-haklari",
       "title": "Altınbaş İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
       "href": "/ders-notlari/altinbas/insan-haklari"
-    },
-    {
-      "uniSlug": "altinbas",
-      "courseCode": "is-hukuku",
-      "slug": "altinbas__is-hukuku",
-      "title": "Altınbaş İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/altinbas/is-hukuku"
     },
     {
       "uniSlug": "altinbas",
@@ -3908,13 +3852,6 @@
     },
     {
       "uniSlug": "ataturk",
-      "courseCode": "ceza-genel",
-      "slug": "ataturk__ceza-genel",
-      "title": "Atatürk Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Erzurum",
-      "href": "/ders-notlari/ataturk/ceza-genel"
-    },
-    {
-      "uniSlug": "ataturk",
       "courseCode": "ceza-muhakemesi",
       "slug": "ataturk__ceza-muhakemesi",
       "title": "Atatürk Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Erzurum",
@@ -4083,13 +4020,6 @@
     },
     {
       "uniSlug": "ataturk",
-      "courseCode": "hukuka-giris",
-      "slug": "ataturk__hukuka-giris",
-      "title": "Atatürk Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Erzurum",
-      "href": "/ders-notlari/ataturk/hukuka-giris"
-    },
-    {
-      "uniSlug": "ataturk",
       "courseCode": "icra-donem-1",
       "slug": "ataturk__icra-donem-1",
       "title": "Atatürk İcra Hukuku 1. Dönem (Güz) Ders Notu | Erzurum",
@@ -4101,13 +4031,6 @@
       "slug": "ataturk__icra-donem-2",
       "title": "Atatürk İcra Hukuku 2. Dönem (Bahar) Ders Notu | Erzurum",
       "href": "/ders-notlari/ataturk/icra-donem-2"
-    },
-    {
-      "uniSlug": "ataturk",
-      "courseCode": "icra-iflas",
-      "slug": "ataturk__icra-iflas",
-      "title": "Atatürk İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Erzurum",
-      "href": "/ders-notlari/ataturk/icra-iflas"
     },
     {
       "uniSlug": "ataturk",
@@ -4178,13 +4101,6 @@
       "slug": "ataturk__insan-haklari",
       "title": "Atatürk İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Erzurum",
       "href": "/ders-notlari/ataturk/insan-haklari"
-    },
-    {
-      "uniSlug": "ataturk",
-      "courseCode": "is-hukuku",
-      "slug": "ataturk__is-hukuku",
-      "title": "Atatürk İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Erzurum",
-      "href": "/ders-notlari/ataturk/is-hukuku"
     },
     {
       "uniSlug": "ataturk",
@@ -4461,13 +4377,6 @@
     },
     {
       "uniSlug": "atilim",
-      "courseCode": "ceza-genel",
-      "slug": "atilim__ceza-genel",
-      "title": "Atılım Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Ankara",
-      "href": "/ders-notlari/atilim/ceza-genel"
-    },
-    {
-      "uniSlug": "atilim",
       "courseCode": "ceza-muhakemesi",
       "slug": "atilim__ceza-muhakemesi",
       "title": "Atılım Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Ankara",
@@ -4636,13 +4545,6 @@
     },
     {
       "uniSlug": "atilim",
-      "courseCode": "hukuka-giris",
-      "slug": "atilim__hukuka-giris",
-      "title": "Atılım Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Ankara",
-      "href": "/ders-notlari/atilim/hukuka-giris"
-    },
-    {
-      "uniSlug": "atilim",
       "courseCode": "icra-donem-1",
       "slug": "atilim__icra-donem-1",
       "title": "Atılım İcra Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
@@ -4654,13 +4556,6 @@
       "slug": "atilim__icra-donem-2",
       "title": "Atılım İcra Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
       "href": "/ders-notlari/atilim/icra-donem-2"
-    },
-    {
-      "uniSlug": "atilim",
-      "courseCode": "icra-iflas",
-      "slug": "atilim__icra-iflas",
-      "title": "Atılım İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Ankara",
-      "href": "/ders-notlari/atilim/icra-iflas"
     },
     {
       "uniSlug": "atilim",
@@ -4731,13 +4626,6 @@
       "slug": "atilim__insan-haklari",
       "title": "Atılım İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Ankara",
       "href": "/ders-notlari/atilim/insan-haklari"
-    },
-    {
-      "uniSlug": "atilim",
-      "courseCode": "is-hukuku",
-      "slug": "atilim__is-hukuku",
-      "title": "Atılım İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Ankara",
-      "href": "/ders-notlari/atilim/is-hukuku"
     },
     {
       "uniSlug": "atilim",
@@ -5014,13 +4902,6 @@
     },
     {
       "uniSlug": "aydin",
-      "courseCode": "ceza-genel",
-      "slug": "aydin__ceza-genel",
-      "title": "İAÜ Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/aydin/ceza-genel"
-    },
-    {
-      "uniSlug": "aydin",
       "courseCode": "ceza-muhakemesi",
       "slug": "aydin__ceza-muhakemesi",
       "title": "İAÜ Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
@@ -5189,13 +5070,6 @@
     },
     {
       "uniSlug": "aydin",
-      "courseCode": "hukuka-giris",
-      "slug": "aydin__hukuka-giris",
-      "title": "İAÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/aydin/hukuka-giris"
-    },
-    {
-      "uniSlug": "aydin",
       "courseCode": "icra-donem-1",
       "slug": "aydin__icra-donem-1",
       "title": "İAÜ İcra Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
@@ -5207,13 +5081,6 @@
       "slug": "aydin__icra-donem-2",
       "title": "İAÜ İcra Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
       "href": "/ders-notlari/aydin/icra-donem-2"
-    },
-    {
-      "uniSlug": "aydin",
-      "courseCode": "icra-iflas",
-      "slug": "aydin__icra-iflas",
-      "title": "İAÜ İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/aydin/icra-iflas"
     },
     {
       "uniSlug": "aydin",
@@ -5284,13 +5151,6 @@
       "slug": "aydin__insan-haklari",
       "title": "İAÜ İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
       "href": "/ders-notlari/aydin/insan-haklari"
-    },
-    {
-      "uniSlug": "aydin",
-      "courseCode": "is-hukuku",
-      "slug": "aydin__is-hukuku",
-      "title": "İAÜ İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/aydin/is-hukuku"
     },
     {
       "uniSlug": "aydin",
@@ -5994,13 +5854,6 @@
     },
     {
       "uniSlug": "balikesir",
-      "courseCode": "ceza-genel",
-      "slug": "balikesir__ceza-genel",
-      "title": "BAÜN Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Balıkesir",
-      "href": "/ders-notlari/balikesir/ceza-genel"
-    },
-    {
-      "uniSlug": "balikesir",
       "courseCode": "ceza-muhakemesi",
       "slug": "balikesir__ceza-muhakemesi",
       "title": "BAÜN Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Balıkesir",
@@ -6169,13 +6022,6 @@
     },
     {
       "uniSlug": "balikesir",
-      "courseCode": "hukuka-giris",
-      "slug": "balikesir__hukuka-giris",
-      "title": "BAÜN Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Balıkesir",
-      "href": "/ders-notlari/balikesir/hukuka-giris"
-    },
-    {
-      "uniSlug": "balikesir",
       "courseCode": "icra-donem-1",
       "slug": "balikesir__icra-donem-1",
       "title": "BAÜN İcra Hukuku 1. Dönem (Güz) Ders Notu | Balıkesir",
@@ -6187,13 +6033,6 @@
       "slug": "balikesir__icra-donem-2",
       "title": "BAÜN İcra Hukuku 2. Dönem (Bahar) Ders Notu | Balıkesir",
       "href": "/ders-notlari/balikesir/icra-donem-2"
-    },
-    {
-      "uniSlug": "balikesir",
-      "courseCode": "icra-iflas",
-      "slug": "balikesir__icra-iflas",
-      "title": "BAÜN İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Balıkesir",
-      "href": "/ders-notlari/balikesir/icra-iflas"
     },
     {
       "uniSlug": "balikesir",
@@ -6264,13 +6103,6 @@
       "slug": "balikesir__insan-haklari",
       "title": "BAÜN İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Balıkesir",
       "href": "/ders-notlari/balikesir/insan-haklari"
-    },
-    {
-      "uniSlug": "balikesir",
-      "courseCode": "is-hukuku",
-      "slug": "balikesir__is-hukuku",
-      "title": "BAÜN İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Balıkesir",
-      "href": "/ders-notlari/balikesir/is-hukuku"
     },
     {
       "uniSlug": "balikesir",
@@ -6547,13 +6379,6 @@
     },
     {
       "uniSlug": "beykent",
-      "courseCode": "ceza-genel",
-      "slug": "beykent__ceza-genel",
-      "title": "Beykent Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/beykent/ceza-genel"
-    },
-    {
-      "uniSlug": "beykent",
       "courseCode": "ceza-muhakemesi",
       "slug": "beykent__ceza-muhakemesi",
       "title": "Beykent Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
@@ -6722,13 +6547,6 @@
     },
     {
       "uniSlug": "beykent",
-      "courseCode": "hukuka-giris",
-      "slug": "beykent__hukuka-giris",
-      "title": "Beykent Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/beykent/hukuka-giris"
-    },
-    {
-      "uniSlug": "beykent",
       "courseCode": "icra-donem-1",
       "slug": "beykent__icra-donem-1",
       "title": "Beykent İcra Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
@@ -6740,13 +6558,6 @@
       "slug": "beykent__icra-donem-2",
       "title": "Beykent İcra Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
       "href": "/ders-notlari/beykent/icra-donem-2"
-    },
-    {
-      "uniSlug": "beykent",
-      "courseCode": "icra-iflas",
-      "slug": "beykent__icra-iflas",
-      "title": "Beykent İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/beykent/icra-iflas"
     },
     {
       "uniSlug": "beykent",
@@ -6817,13 +6628,6 @@
       "slug": "beykent__insan-haklari",
       "title": "Beykent İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
       "href": "/ders-notlari/beykent/insan-haklari"
-    },
-    {
-      "uniSlug": "beykent",
-      "courseCode": "is-hukuku",
-      "slug": "beykent__is-hukuku",
-      "title": "Beykent İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/beykent/is-hukuku"
     },
     {
       "uniSlug": "beykent",
@@ -7954,13 +7758,6 @@
     },
     {
       "uniSlug": "bolu",
-      "courseCode": "ceza-genel",
-      "slug": "bolu__ceza-genel",
-      "title": "BAİBÜ Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Bolu",
-      "href": "/ders-notlari/bolu/ceza-genel"
-    },
-    {
-      "uniSlug": "bolu",
       "courseCode": "ceza-muhakemesi",
       "slug": "bolu__ceza-muhakemesi",
       "title": "BAİBÜ Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Bolu",
@@ -8129,13 +7926,6 @@
     },
     {
       "uniSlug": "bolu",
-      "courseCode": "hukuka-giris",
-      "slug": "bolu__hukuka-giris",
-      "title": "BAİBÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Bolu",
-      "href": "/ders-notlari/bolu/hukuka-giris"
-    },
-    {
-      "uniSlug": "bolu",
       "courseCode": "icra-donem-1",
       "slug": "bolu__icra-donem-1",
       "title": "BAİBÜ İcra Hukuku 1. Dönem (Güz) Ders Notu | Bolu",
@@ -8147,13 +7937,6 @@
       "slug": "bolu__icra-donem-2",
       "title": "BAİBÜ İcra Hukuku 2. Dönem (Bahar) Ders Notu | Bolu",
       "href": "/ders-notlari/bolu/icra-donem-2"
-    },
-    {
-      "uniSlug": "bolu",
-      "courseCode": "icra-iflas",
-      "slug": "bolu__icra-iflas",
-      "title": "BAİBÜ İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Bolu",
-      "href": "/ders-notlari/bolu/icra-iflas"
     },
     {
       "uniSlug": "bolu",
@@ -8224,13 +8007,6 @@
       "slug": "bolu__insan-haklari",
       "title": "BAİBÜ İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Bolu",
       "href": "/ders-notlari/bolu/insan-haklari"
-    },
-    {
-      "uniSlug": "bolu",
-      "courseCode": "is-hukuku",
-      "slug": "bolu__is-hukuku",
-      "title": "BAİBÜ İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Bolu",
-      "href": "/ders-notlari/bolu/is-hukuku"
     },
     {
       "uniSlug": "bolu",
@@ -8507,13 +8283,6 @@
     },
     {
       "uniSlug": "cag",
-      "courseCode": "ceza-genel",
-      "slug": "cag__ceza-genel",
-      "title": "Çağ Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Mersin",
-      "href": "/ders-notlari/cag/ceza-genel"
-    },
-    {
-      "uniSlug": "cag",
       "courseCode": "ceza-muhakemesi",
       "slug": "cag__ceza-muhakemesi",
       "title": "Çağ Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Mersin",
@@ -8682,13 +8451,6 @@
     },
     {
       "uniSlug": "cag",
-      "courseCode": "hukuka-giris",
-      "slug": "cag__hukuka-giris",
-      "title": "Çağ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Mersin",
-      "href": "/ders-notlari/cag/hukuka-giris"
-    },
-    {
-      "uniSlug": "cag",
       "courseCode": "icra-donem-1",
       "slug": "cag__icra-donem-1",
       "title": "Çağ İcra Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
@@ -8700,13 +8462,6 @@
       "slug": "cag__icra-donem-2",
       "title": "Çağ İcra Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
       "href": "/ders-notlari/cag/icra-donem-2"
-    },
-    {
-      "uniSlug": "cag",
-      "courseCode": "icra-iflas",
-      "slug": "cag__icra-iflas",
-      "title": "Çağ İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Mersin",
-      "href": "/ders-notlari/cag/icra-iflas"
     },
     {
       "uniSlug": "cag",
@@ -8777,13 +8532,6 @@
       "slug": "cag__insan-haklari",
       "title": "Çağ İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Mersin",
       "href": "/ders-notlari/cag/insan-haklari"
-    },
-    {
-      "uniSlug": "cag",
-      "courseCode": "is-hukuku",
-      "slug": "cag__is-hukuku",
-      "title": "Çağ İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Mersin",
-      "href": "/ders-notlari/cag/is-hukuku"
     },
     {
       "uniSlug": "cag",
@@ -9060,13 +8808,6 @@
     },
     {
       "uniSlug": "cankaya",
-      "courseCode": "ceza-genel",
-      "slug": "cankaya__ceza-genel",
-      "title": "Çankaya Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Ankara",
-      "href": "/ders-notlari/cankaya/ceza-genel"
-    },
-    {
-      "uniSlug": "cankaya",
       "courseCode": "ceza-muhakemesi",
       "slug": "cankaya__ceza-muhakemesi",
       "title": "Çankaya Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Ankara",
@@ -9235,13 +8976,6 @@
     },
     {
       "uniSlug": "cankaya",
-      "courseCode": "hukuka-giris",
-      "slug": "cankaya__hukuka-giris",
-      "title": "Çankaya Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Ankara",
-      "href": "/ders-notlari/cankaya/hukuka-giris"
-    },
-    {
-      "uniSlug": "cankaya",
       "courseCode": "icra-donem-1",
       "slug": "cankaya__icra-donem-1",
       "title": "Çankaya İcra Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
@@ -9253,13 +8987,6 @@
       "slug": "cankaya__icra-donem-2",
       "title": "Çankaya İcra Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
       "href": "/ders-notlari/cankaya/icra-donem-2"
-    },
-    {
-      "uniSlug": "cankaya",
-      "courseCode": "icra-iflas",
-      "slug": "cankaya__icra-iflas",
-      "title": "Çankaya İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Ankara",
-      "href": "/ders-notlari/cankaya/icra-iflas"
     },
     {
       "uniSlug": "cankaya",
@@ -9330,13 +9057,6 @@
       "slug": "cankaya__insan-haklari",
       "title": "Çankaya İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Ankara",
       "href": "/ders-notlari/cankaya/insan-haklari"
-    },
-    {
-      "uniSlug": "cankaya",
-      "courseCode": "is-hukuku",
-      "slug": "cankaya__is-hukuku",
-      "title": "Çankaya İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Ankara",
-      "href": "/ders-notlari/cankaya/is-hukuku"
     },
     {
       "uniSlug": "cankaya",
@@ -9613,13 +9333,6 @@
     },
     {
       "uniSlug": "cankiri",
-      "courseCode": "ceza-genel",
-      "slug": "cankiri__ceza-genel",
-      "title": "Karatekin Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Çankırı",
-      "href": "/ders-notlari/cankiri/ceza-genel"
-    },
-    {
-      "uniSlug": "cankiri",
       "courseCode": "ceza-muhakemesi",
       "slug": "cankiri__ceza-muhakemesi",
       "title": "Karatekin Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Çankırı",
@@ -9788,13 +9501,6 @@
     },
     {
       "uniSlug": "cankiri",
-      "courseCode": "hukuka-giris",
-      "slug": "cankiri__hukuka-giris",
-      "title": "Karatekin Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Çankırı",
-      "href": "/ders-notlari/cankiri/hukuka-giris"
-    },
-    {
-      "uniSlug": "cankiri",
       "courseCode": "icra-donem-1",
       "slug": "cankiri__icra-donem-1",
       "title": "Karatekin İcra Hukuku 1. Dönem (Güz) Ders Notu | Çankırı",
@@ -9806,13 +9512,6 @@
       "slug": "cankiri__icra-donem-2",
       "title": "Karatekin İcra Hukuku 2. Dönem (Bahar) Ders Notu | Çankırı",
       "href": "/ders-notlari/cankiri/icra-donem-2"
-    },
-    {
-      "uniSlug": "cankiri",
-      "courseCode": "icra-iflas",
-      "slug": "cankiri__icra-iflas",
-      "title": "Karatekin İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Çankırı",
-      "href": "/ders-notlari/cankiri/icra-iflas"
     },
     {
       "uniSlug": "cankiri",
@@ -9883,13 +9582,6 @@
       "slug": "cankiri__insan-haklari",
       "title": "Karatekin İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Çankırı",
       "href": "/ders-notlari/cankiri/insan-haklari"
-    },
-    {
-      "uniSlug": "cankiri",
-      "courseCode": "is-hukuku",
-      "slug": "cankiri__is-hukuku",
-      "title": "Karatekin İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Çankırı",
-      "href": "/ders-notlari/cankiri/is-hukuku"
     },
     {
       "uniSlug": "cankiri",
@@ -10593,13 +10285,6 @@
     },
     {
       "uniSlug": "dicle",
-      "courseCode": "ceza-genel",
-      "slug": "dicle__ceza-genel",
-      "title": "Dicle Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Diyarbakır",
-      "href": "/ders-notlari/dicle/ceza-genel"
-    },
-    {
-      "uniSlug": "dicle",
       "courseCode": "ceza-muhakemesi",
       "slug": "dicle__ceza-muhakemesi",
       "title": "Dicle Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Diyarbakır",
@@ -10768,13 +10453,6 @@
     },
     {
       "uniSlug": "dicle",
-      "courseCode": "hukuka-giris",
-      "slug": "dicle__hukuka-giris",
-      "title": "Dicle Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Diyarbakır",
-      "href": "/ders-notlari/dicle/hukuka-giris"
-    },
-    {
-      "uniSlug": "dicle",
       "courseCode": "icra-donem-1",
       "slug": "dicle__icra-donem-1",
       "title": "Dicle İcra Hukuku 1. Dönem (Güz) Ders Notu | Diyarbakır",
@@ -10786,13 +10464,6 @@
       "slug": "dicle__icra-donem-2",
       "title": "Dicle İcra Hukuku 2. Dönem (Bahar) Ders Notu | Diyarbakır",
       "href": "/ders-notlari/dicle/icra-donem-2"
-    },
-    {
-      "uniSlug": "dicle",
-      "courseCode": "icra-iflas",
-      "slug": "dicle__icra-iflas",
-      "title": "Dicle İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Diyarbakır",
-      "href": "/ders-notlari/dicle/icra-iflas"
     },
     {
       "uniSlug": "dicle",
@@ -10863,13 +10534,6 @@
       "slug": "dicle__insan-haklari",
       "title": "Dicle İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Diyarbakır",
       "href": "/ders-notlari/dicle/insan-haklari"
-    },
-    {
-      "uniSlug": "dicle",
-      "courseCode": "is-hukuku",
-      "slug": "dicle__is-hukuku",
-      "title": "Dicle İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Diyarbakır",
-      "href": "/ders-notlari/dicle/is-hukuku"
     },
     {
       "uniSlug": "dicle",
@@ -11146,13 +10810,6 @@
     },
     {
       "uniSlug": "dogus",
-      "courseCode": "ceza-genel",
-      "slug": "dogus__ceza-genel",
-      "title": "Doğuş Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/dogus/ceza-genel"
-    },
-    {
-      "uniSlug": "dogus",
       "courseCode": "ceza-muhakemesi",
       "slug": "dogus__ceza-muhakemesi",
       "title": "Doğuş Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
@@ -11321,13 +10978,6 @@
     },
     {
       "uniSlug": "dogus",
-      "courseCode": "hukuka-giris",
-      "slug": "dogus__hukuka-giris",
-      "title": "Doğuş Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/dogus/hukuka-giris"
-    },
-    {
-      "uniSlug": "dogus",
       "courseCode": "icra-donem-1",
       "slug": "dogus__icra-donem-1",
       "title": "Doğuş İcra Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
@@ -11339,13 +10989,6 @@
       "slug": "dogus__icra-donem-2",
       "title": "Doğuş İcra Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
       "href": "/ders-notlari/dogus/icra-donem-2"
-    },
-    {
-      "uniSlug": "dogus",
-      "courseCode": "icra-iflas",
-      "slug": "dogus__icra-iflas",
-      "title": "Doğuş İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/dogus/icra-iflas"
     },
     {
       "uniSlug": "dogus",
@@ -11416,13 +11059,6 @@
       "slug": "dogus__insan-haklari",
       "title": "Doğuş İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
       "href": "/ders-notlari/dogus/insan-haklari"
-    },
-    {
-      "uniSlug": "dogus",
-      "courseCode": "is-hukuku",
-      "slug": "dogus__is-hukuku",
-      "title": "Doğuş İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/dogus/is-hukuku"
     },
     {
       "uniSlug": "dogus",
@@ -12553,13 +12189,6 @@
     },
     {
       "uniSlug": "erzincan",
-      "courseCode": "ceza-genel",
-      "slug": "erzincan__ceza-genel",
-      "title": "EBYÜ Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Erzincan",
-      "href": "/ders-notlari/erzincan/ceza-genel"
-    },
-    {
-      "uniSlug": "erzincan",
       "courseCode": "ceza-muhakemesi",
       "slug": "erzincan__ceza-muhakemesi",
       "title": "EBYÜ Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Erzincan",
@@ -12728,13 +12357,6 @@
     },
     {
       "uniSlug": "erzincan",
-      "courseCode": "hukuka-giris",
-      "slug": "erzincan__hukuka-giris",
-      "title": "EBYÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Erzincan",
-      "href": "/ders-notlari/erzincan/hukuka-giris"
-    },
-    {
-      "uniSlug": "erzincan",
       "courseCode": "icra-donem-1",
       "slug": "erzincan__icra-donem-1",
       "title": "EBYÜ İcra Hukuku 1. Dönem (Güz) Ders Notu | Erzincan",
@@ -12746,13 +12368,6 @@
       "slug": "erzincan__icra-donem-2",
       "title": "EBYÜ İcra Hukuku 2. Dönem (Bahar) Ders Notu | Erzincan",
       "href": "/ders-notlari/erzincan/icra-donem-2"
-    },
-    {
-      "uniSlug": "erzincan",
-      "courseCode": "icra-iflas",
-      "slug": "erzincan__icra-iflas",
-      "title": "EBYÜ İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Erzincan",
-      "href": "/ders-notlari/erzincan/icra-iflas"
     },
     {
       "uniSlug": "erzincan",
@@ -12823,13 +12438,6 @@
       "slug": "erzincan__insan-haklari",
       "title": "EBYÜ İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Erzincan",
       "href": "/ders-notlari/erzincan/insan-haklari"
-    },
-    {
-      "uniSlug": "erzincan",
-      "courseCode": "is-hukuku",
-      "slug": "erzincan__is-hukuku",
-      "title": "EBYÜ İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Erzincan",
-      "href": "/ders-notlari/erzincan/is-hukuku"
     },
     {
       "uniSlug": "erzincan",
@@ -13106,13 +12714,6 @@
     },
     {
       "uniSlug": "eskisehir-osmangazi",
-      "courseCode": "ceza-genel",
-      "slug": "eskisehir-osmangazi__ceza-genel",
-      "title": "ESOGÜ Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Eskişehir",
-      "href": "/ders-notlari/eskisehir-osmangazi/ceza-genel"
-    },
-    {
-      "uniSlug": "eskisehir-osmangazi",
       "courseCode": "ceza-muhakemesi",
       "slug": "eskisehir-osmangazi__ceza-muhakemesi",
       "title": "ESOGÜ Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Eskişehir",
@@ -13281,13 +12882,6 @@
     },
     {
       "uniSlug": "eskisehir-osmangazi",
-      "courseCode": "hukuka-giris",
-      "slug": "eskisehir-osmangazi__hukuka-giris",
-      "title": "ESOGÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Eskişehir",
-      "href": "/ders-notlari/eskisehir-osmangazi/hukuka-giris"
-    },
-    {
-      "uniSlug": "eskisehir-osmangazi",
       "courseCode": "icra-donem-1",
       "slug": "eskisehir-osmangazi__icra-donem-1",
       "title": "ESOGÜ İcra Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
@@ -13299,13 +12893,6 @@
       "slug": "eskisehir-osmangazi__icra-donem-2",
       "title": "ESOGÜ İcra Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
       "href": "/ders-notlari/eskisehir-osmangazi/icra-donem-2"
-    },
-    {
-      "uniSlug": "eskisehir-osmangazi",
-      "courseCode": "icra-iflas",
-      "slug": "eskisehir-osmangazi__icra-iflas",
-      "title": "ESOGÜ İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Eskişehir",
-      "href": "/ders-notlari/eskisehir-osmangazi/icra-iflas"
     },
     {
       "uniSlug": "eskisehir-osmangazi",
@@ -13376,13 +12963,6 @@
       "slug": "eskisehir-osmangazi__insan-haklari",
       "title": "ESOGÜ İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Eskişehir",
       "href": "/ders-notlari/eskisehir-osmangazi/insan-haklari"
-    },
-    {
-      "uniSlug": "eskisehir-osmangazi",
-      "courseCode": "is-hukuku",
-      "slug": "eskisehir-osmangazi__is-hukuku",
-      "title": "ESOGÜ İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Eskişehir",
-      "href": "/ders-notlari/eskisehir-osmangazi/is-hukuku"
     },
     {
       "uniSlug": "eskisehir-osmangazi",
@@ -13659,13 +13239,6 @@
     },
     {
       "uniSlug": "fatih-sultan",
-      "courseCode": "ceza-genel",
-      "slug": "fatih-sultan__ceza-genel",
-      "title": "FSMVÜ Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/fatih-sultan/ceza-genel"
-    },
-    {
-      "uniSlug": "fatih-sultan",
       "courseCode": "ceza-muhakemesi",
       "slug": "fatih-sultan__ceza-muhakemesi",
       "title": "FSMVÜ Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
@@ -13834,13 +13407,6 @@
     },
     {
       "uniSlug": "fatih-sultan",
-      "courseCode": "hukuka-giris",
-      "slug": "fatih-sultan__hukuka-giris",
-      "title": "FSMVÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/fatih-sultan/hukuka-giris"
-    },
-    {
-      "uniSlug": "fatih-sultan",
       "courseCode": "icra-donem-1",
       "slug": "fatih-sultan__icra-donem-1",
       "title": "FSMVÜ İcra Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
@@ -13852,13 +13418,6 @@
       "slug": "fatih-sultan__icra-donem-2",
       "title": "FSMVÜ İcra Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
       "href": "/ders-notlari/fatih-sultan/icra-donem-2"
-    },
-    {
-      "uniSlug": "fatih-sultan",
-      "courseCode": "icra-iflas",
-      "slug": "fatih-sultan__icra-iflas",
-      "title": "FSMVÜ İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/fatih-sultan/icra-iflas"
     },
     {
       "uniSlug": "fatih-sultan",
@@ -13929,13 +13488,6 @@
       "slug": "fatih-sultan__insan-haklari",
       "title": "FSMVÜ İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
       "href": "/ders-notlari/fatih-sultan/insan-haklari"
-    },
-    {
-      "uniSlug": "fatih-sultan",
-      "courseCode": "is-hukuku",
-      "slug": "fatih-sultan__is-hukuku",
-      "title": "FSMVÜ İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/fatih-sultan/is-hukuku"
     },
     {
       "uniSlug": "fatih-sultan",
@@ -14639,13 +14191,6 @@
     },
     {
       "uniSlug": "gaziantep",
-      "courseCode": "ceza-genel",
-      "slug": "gaziantep__ceza-genel",
-      "title": "GAÜN Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Gaziantep",
-      "href": "/ders-notlari/gaziantep/ceza-genel"
-    },
-    {
-      "uniSlug": "gaziantep",
       "courseCode": "ceza-muhakemesi",
       "slug": "gaziantep__ceza-muhakemesi",
       "title": "GAÜN Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Gaziantep",
@@ -14814,13 +14359,6 @@
     },
     {
       "uniSlug": "gaziantep",
-      "courseCode": "hukuka-giris",
-      "slug": "gaziantep__hukuka-giris",
-      "title": "GAÜN Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Gaziantep",
-      "href": "/ders-notlari/gaziantep/hukuka-giris"
-    },
-    {
-      "uniSlug": "gaziantep",
       "courseCode": "icra-donem-1",
       "slug": "gaziantep__icra-donem-1",
       "title": "GAÜN İcra Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
@@ -14832,13 +14370,6 @@
       "slug": "gaziantep__icra-donem-2",
       "title": "GAÜN İcra Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
       "href": "/ders-notlari/gaziantep/icra-donem-2"
-    },
-    {
-      "uniSlug": "gaziantep",
-      "courseCode": "icra-iflas",
-      "slug": "gaziantep__icra-iflas",
-      "title": "GAÜN İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Gaziantep",
-      "href": "/ders-notlari/gaziantep/icra-iflas"
     },
     {
       "uniSlug": "gaziantep",
@@ -14909,13 +14440,6 @@
       "slug": "gaziantep__insan-haklari",
       "title": "GAÜN İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Gaziantep",
       "href": "/ders-notlari/gaziantep/insan-haklari"
-    },
-    {
-      "uniSlug": "gaziantep",
-      "courseCode": "is-hukuku",
-      "slug": "gaziantep__is-hukuku",
-      "title": "GAÜN İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Gaziantep",
-      "href": "/ders-notlari/gaziantep/is-hukuku"
     },
     {
       "uniSlug": "gaziantep",
@@ -15619,13 +15143,6 @@
     },
     {
       "uniSlug": "hasan-kalyoncu",
-      "courseCode": "ceza-genel",
-      "slug": "hasan-kalyoncu__ceza-genel",
-      "title": "HKÜ Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Gaziantep",
-      "href": "/ders-notlari/hasan-kalyoncu/ceza-genel"
-    },
-    {
-      "uniSlug": "hasan-kalyoncu",
       "courseCode": "ceza-muhakemesi",
       "slug": "hasan-kalyoncu__ceza-muhakemesi",
       "title": "HKÜ Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Gaziantep",
@@ -15794,13 +15311,6 @@
     },
     {
       "uniSlug": "hasan-kalyoncu",
-      "courseCode": "hukuka-giris",
-      "slug": "hasan-kalyoncu__hukuka-giris",
-      "title": "HKÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Gaziantep",
-      "href": "/ders-notlari/hasan-kalyoncu/hukuka-giris"
-    },
-    {
-      "uniSlug": "hasan-kalyoncu",
       "courseCode": "icra-donem-1",
       "slug": "hasan-kalyoncu__icra-donem-1",
       "title": "HKÜ İcra Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
@@ -15812,13 +15322,6 @@
       "slug": "hasan-kalyoncu__icra-donem-2",
       "title": "HKÜ İcra Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
       "href": "/ders-notlari/hasan-kalyoncu/icra-donem-2"
-    },
-    {
-      "uniSlug": "hasan-kalyoncu",
-      "courseCode": "icra-iflas",
-      "slug": "hasan-kalyoncu__icra-iflas",
-      "title": "HKÜ İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Gaziantep",
-      "href": "/ders-notlari/hasan-kalyoncu/icra-iflas"
     },
     {
       "uniSlug": "hasan-kalyoncu",
@@ -15889,13 +15392,6 @@
       "slug": "hasan-kalyoncu__insan-haklari",
       "title": "HKÜ İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Gaziantep",
       "href": "/ders-notlari/hasan-kalyoncu/insan-haklari"
-    },
-    {
-      "uniSlug": "hasan-kalyoncu",
-      "courseCode": "is-hukuku",
-      "slug": "hasan-kalyoncu__is-hukuku",
-      "title": "HKÜ İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Gaziantep",
-      "href": "/ders-notlari/hasan-kalyoncu/is-hukuku"
     },
     {
       "uniSlug": "hasan-kalyoncu",
@@ -16172,13 +15668,6 @@
     },
     {
       "uniSlug": "inonu",
-      "courseCode": "ceza-genel",
-      "slug": "inonu__ceza-genel",
-      "title": "İnönü Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Malatya",
-      "href": "/ders-notlari/inonu/ceza-genel"
-    },
-    {
-      "uniSlug": "inonu",
       "courseCode": "ceza-muhakemesi",
       "slug": "inonu__ceza-muhakemesi",
       "title": "İnönü Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Malatya",
@@ -16347,13 +15836,6 @@
     },
     {
       "uniSlug": "inonu",
-      "courseCode": "hukuka-giris",
-      "slug": "inonu__hukuka-giris",
-      "title": "İnönü Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Malatya",
-      "href": "/ders-notlari/inonu/hukuka-giris"
-    },
-    {
-      "uniSlug": "inonu",
       "courseCode": "icra-donem-1",
       "slug": "inonu__icra-donem-1",
       "title": "İnönü İcra Hukuku 1. Dönem (Güz) Ders Notu | Malatya",
@@ -16365,13 +15847,6 @@
       "slug": "inonu__icra-donem-2",
       "title": "İnönü İcra Hukuku 2. Dönem (Bahar) Ders Notu | Malatya",
       "href": "/ders-notlari/inonu/icra-donem-2"
-    },
-    {
-      "uniSlug": "inonu",
-      "courseCode": "icra-iflas",
-      "slug": "inonu__icra-iflas",
-      "title": "İnönü İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Malatya",
-      "href": "/ders-notlari/inonu/icra-iflas"
     },
     {
       "uniSlug": "inonu",
@@ -16442,13 +15917,6 @@
       "slug": "inonu__insan-haklari",
       "title": "İnönü İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Malatya",
       "href": "/ders-notlari/inonu/insan-haklari"
-    },
-    {
-      "uniSlug": "inonu",
-      "courseCode": "is-hukuku",
-      "slug": "inonu__is-hukuku",
-      "title": "İnönü İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Malatya",
-      "href": "/ders-notlari/inonu/is-hukuku"
     },
     {
       "uniSlug": "inonu",
@@ -18006,13 +17474,6 @@
     },
     {
       "uniSlug": "izmir-ekonomi",
-      "courseCode": "ceza-genel",
-      "slug": "izmir-ekonomi__ceza-genel",
-      "title": "İEÜ Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | İzmir",
-      "href": "/ders-notlari/izmir-ekonomi/ceza-genel"
-    },
-    {
-      "uniSlug": "izmir-ekonomi",
       "courseCode": "ceza-muhakemesi",
       "slug": "izmir-ekonomi__ceza-muhakemesi",
       "title": "İEÜ Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | İzmir",
@@ -18181,13 +17642,6 @@
     },
     {
       "uniSlug": "izmir-ekonomi",
-      "courseCode": "hukuka-giris",
-      "slug": "izmir-ekonomi__hukuka-giris",
-      "title": "İEÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | İzmir",
-      "href": "/ders-notlari/izmir-ekonomi/hukuka-giris"
-    },
-    {
-      "uniSlug": "izmir-ekonomi",
       "courseCode": "icra-donem-1",
       "slug": "izmir-ekonomi__icra-donem-1",
       "title": "İEÜ İcra Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
@@ -18199,13 +17653,6 @@
       "slug": "izmir-ekonomi__icra-donem-2",
       "title": "İEÜ İcra Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
       "href": "/ders-notlari/izmir-ekonomi/icra-donem-2"
-    },
-    {
-      "uniSlug": "izmir-ekonomi",
-      "courseCode": "icra-iflas",
-      "slug": "izmir-ekonomi__icra-iflas",
-      "title": "İEÜ İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | İzmir",
-      "href": "/ders-notlari/izmir-ekonomi/icra-iflas"
     },
     {
       "uniSlug": "izmir-ekonomi",
@@ -18276,13 +17723,6 @@
       "slug": "izmir-ekonomi__insan-haklari",
       "title": "İEÜ İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | İzmir",
       "href": "/ders-notlari/izmir-ekonomi/insan-haklari"
-    },
-    {
-      "uniSlug": "izmir-ekonomi",
-      "courseCode": "is-hukuku",
-      "slug": "izmir-ekonomi__is-hukuku",
-      "title": "İEÜ İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | İzmir",
-      "href": "/ders-notlari/izmir-ekonomi/is-hukuku"
     },
     {
       "uniSlug": "izmir-ekonomi",
@@ -18986,13 +18426,6 @@
     },
     {
       "uniSlug": "kirikkale",
-      "courseCode": "ceza-genel",
-      "slug": "kirikkale__ceza-genel",
-      "title": "Kırıkkale Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Kırıkkale",
-      "href": "/ders-notlari/kirikkale/ceza-genel"
-    },
-    {
-      "uniSlug": "kirikkale",
       "courseCode": "ceza-muhakemesi",
       "slug": "kirikkale__ceza-muhakemesi",
       "title": "Kırıkkale Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Kırıkkale",
@@ -19161,13 +18594,6 @@
     },
     {
       "uniSlug": "kirikkale",
-      "courseCode": "hukuka-giris",
-      "slug": "kirikkale__hukuka-giris",
-      "title": "Kırıkkale Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Kırıkkale",
-      "href": "/ders-notlari/kirikkale/hukuka-giris"
-    },
-    {
-      "uniSlug": "kirikkale",
       "courseCode": "icra-donem-1",
       "slug": "kirikkale__icra-donem-1",
       "title": "Kırıkkale İcra Hukuku 1. Dönem (Güz) Ders Notu | Kırıkkale",
@@ -19179,13 +18605,6 @@
       "slug": "kirikkale__icra-donem-2",
       "title": "Kırıkkale İcra Hukuku 2. Dönem (Bahar) Ders Notu | Kırıkkale",
       "href": "/ders-notlari/kirikkale/icra-donem-2"
-    },
-    {
-      "uniSlug": "kirikkale",
-      "courseCode": "icra-iflas",
-      "slug": "kirikkale__icra-iflas",
-      "title": "Kırıkkale İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Kırıkkale",
-      "href": "/ders-notlari/kirikkale/icra-iflas"
     },
     {
       "uniSlug": "kirikkale",
@@ -19256,13 +18675,6 @@
       "slug": "kirikkale__insan-haklari",
       "title": "Kırıkkale İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Kırıkkale",
       "href": "/ders-notlari/kirikkale/insan-haklari"
-    },
-    {
-      "uniSlug": "kirikkale",
-      "courseCode": "is-hukuku",
-      "slug": "kirikkale__is-hukuku",
-      "title": "Kırıkkale İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Kırıkkale",
-      "href": "/ders-notlari/kirikkale/is-hukuku"
     },
     {
       "uniSlug": "kirikkale",
@@ -19539,13 +18951,6 @@
     },
     {
       "uniSlug": "kirklareli",
-      "courseCode": "ceza-genel",
-      "slug": "kirklareli__ceza-genel",
-      "title": "Kırklareli Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Kırklareli",
-      "href": "/ders-notlari/kirklareli/ceza-genel"
-    },
-    {
-      "uniSlug": "kirklareli",
       "courseCode": "ceza-muhakemesi",
       "slug": "kirklareli__ceza-muhakemesi",
       "title": "Kırklareli Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Kırklareli",
@@ -19714,13 +19119,6 @@
     },
     {
       "uniSlug": "kirklareli",
-      "courseCode": "hukuka-giris",
-      "slug": "kirklareli__hukuka-giris",
-      "title": "Kırklareli Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Kırklareli",
-      "href": "/ders-notlari/kirklareli/hukuka-giris"
-    },
-    {
-      "uniSlug": "kirklareli",
       "courseCode": "icra-donem-1",
       "slug": "kirklareli__icra-donem-1",
       "title": "Kırklareli İcra Hukuku 1. Dönem (Güz) Ders Notu | Kırklareli",
@@ -19732,13 +19130,6 @@
       "slug": "kirklareli__icra-donem-2",
       "title": "Kırklareli İcra Hukuku 2. Dönem (Bahar) Ders Notu | Kırklareli",
       "href": "/ders-notlari/kirklareli/icra-donem-2"
-    },
-    {
-      "uniSlug": "kirklareli",
-      "courseCode": "icra-iflas",
-      "slug": "kirklareli__icra-iflas",
-      "title": "Kırklareli İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Kırklareli",
-      "href": "/ders-notlari/kirklareli/icra-iflas"
     },
     {
       "uniSlug": "kirklareli",
@@ -19809,13 +19200,6 @@
       "slug": "kirklareli__insan-haklari",
       "title": "Kırklareli İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Kırklareli",
       "href": "/ders-notlari/kirklareli/insan-haklari"
-    },
-    {
-      "uniSlug": "kirklareli",
-      "courseCode": "is-hukuku",
-      "slug": "kirklareli__is-hukuku",
-      "title": "Kırklareli İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Kırklareli",
-      "href": "/ders-notlari/kirklareli/is-hukuku"
     },
     {
       "uniSlug": "kirklareli",
@@ -20092,13 +19476,6 @@
     },
     {
       "uniSlug": "kocaeli",
-      "courseCode": "ceza-genel",
-      "slug": "kocaeli__ceza-genel",
-      "title": "KOÜ Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Kocaeli",
-      "href": "/ders-notlari/kocaeli/ceza-genel"
-    },
-    {
-      "uniSlug": "kocaeli",
       "courseCode": "ceza-muhakemesi",
       "slug": "kocaeli__ceza-muhakemesi",
       "title": "KOÜ Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Kocaeli",
@@ -20267,13 +19644,6 @@
     },
     {
       "uniSlug": "kocaeli",
-      "courseCode": "hukuka-giris",
-      "slug": "kocaeli__hukuka-giris",
-      "title": "KOÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Kocaeli",
-      "href": "/ders-notlari/kocaeli/hukuka-giris"
-    },
-    {
-      "uniSlug": "kocaeli",
       "courseCode": "icra-donem-1",
       "slug": "kocaeli__icra-donem-1",
       "title": "KOÜ İcra Hukuku 1. Dönem (Güz) Ders Notu | Kocaeli",
@@ -20285,13 +19655,6 @@
       "slug": "kocaeli__icra-donem-2",
       "title": "KOÜ İcra Hukuku 2. Dönem (Bahar) Ders Notu | Kocaeli",
       "href": "/ders-notlari/kocaeli/icra-donem-2"
-    },
-    {
-      "uniSlug": "kocaeli",
-      "courseCode": "icra-iflas",
-      "slug": "kocaeli__icra-iflas",
-      "title": "KOÜ İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Kocaeli",
-      "href": "/ders-notlari/kocaeli/icra-iflas"
     },
     {
       "uniSlug": "kocaeli",
@@ -20362,13 +19725,6 @@
       "slug": "kocaeli__insan-haklari",
       "title": "KOÜ İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Kocaeli",
       "href": "/ders-notlari/kocaeli/insan-haklari"
-    },
-    {
-      "uniSlug": "kocaeli",
-      "courseCode": "is-hukuku",
-      "slug": "kocaeli__is-hukuku",
-      "title": "KOÜ İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Kocaeli",
-      "href": "/ders-notlari/kocaeli/is-hukuku"
     },
     {
       "uniSlug": "kocaeli",
@@ -21072,13 +20428,6 @@
     },
     {
       "uniSlug": "kultur",
-      "courseCode": "ceza-genel",
-      "slug": "kultur__ceza-genel",
-      "title": "İKÜ Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/kultur/ceza-genel"
-    },
-    {
-      "uniSlug": "kultur",
       "courseCode": "ceza-muhakemesi",
       "slug": "kultur__ceza-muhakemesi",
       "title": "İKÜ Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
@@ -21247,13 +20596,6 @@
     },
     {
       "uniSlug": "kultur",
-      "courseCode": "hukuka-giris",
-      "slug": "kultur__hukuka-giris",
-      "title": "İKÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/kultur/hukuka-giris"
-    },
-    {
-      "uniSlug": "kultur",
       "courseCode": "icra-donem-1",
       "slug": "kultur__icra-donem-1",
       "title": "İKÜ İcra Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
@@ -21265,13 +20607,6 @@
       "slug": "kultur__icra-donem-2",
       "title": "İKÜ İcra Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
       "href": "/ders-notlari/kultur/icra-donem-2"
-    },
-    {
-      "uniSlug": "kultur",
-      "courseCode": "icra-iflas",
-      "slug": "kultur__icra-iflas",
-      "title": "İKÜ İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/kultur/icra-iflas"
     },
     {
       "uniSlug": "kultur",
@@ -21342,13 +20677,6 @@
       "slug": "kultur__insan-haklari",
       "title": "İKÜ İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
       "href": "/ders-notlari/kultur/insan-haklari"
-    },
-    {
-      "uniSlug": "kultur",
-      "courseCode": "is-hukuku",
-      "slug": "kultur__is-hukuku",
-      "title": "İKÜ İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/kultur/is-hukuku"
     },
     {
       "uniSlug": "kultur",
@@ -21625,13 +20953,6 @@
     },
     {
       "uniSlug": "maltepe",
-      "courseCode": "ceza-genel",
-      "slug": "maltepe__ceza-genel",
-      "title": "Maltepe Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/maltepe/ceza-genel"
-    },
-    {
-      "uniSlug": "maltepe",
       "courseCode": "ceza-muhakemesi",
       "slug": "maltepe__ceza-muhakemesi",
       "title": "Maltepe Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
@@ -21800,13 +21121,6 @@
     },
     {
       "uniSlug": "maltepe",
-      "courseCode": "hukuka-giris",
-      "slug": "maltepe__hukuka-giris",
-      "title": "Maltepe Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/maltepe/hukuka-giris"
-    },
-    {
-      "uniSlug": "maltepe",
       "courseCode": "icra-donem-1",
       "slug": "maltepe__icra-donem-1",
       "title": "Maltepe İcra Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
@@ -21818,13 +21132,6 @@
       "slug": "maltepe__icra-donem-2",
       "title": "Maltepe İcra Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
       "href": "/ders-notlari/maltepe/icra-donem-2"
-    },
-    {
-      "uniSlug": "maltepe",
-      "courseCode": "icra-iflas",
-      "slug": "maltepe__icra-iflas",
-      "title": "Maltepe İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/maltepe/icra-iflas"
     },
     {
       "uniSlug": "maltepe",
@@ -21895,13 +21202,6 @@
       "slug": "maltepe__insan-haklari",
       "title": "Maltepe İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
       "href": "/ders-notlari/maltepe/insan-haklari"
-    },
-    {
-      "uniSlug": "maltepe",
-      "courseCode": "is-hukuku",
-      "slug": "maltepe__is-hukuku",
-      "title": "Maltepe İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/maltepe/is-hukuku"
     },
     {
       "uniSlug": "maltepe",
@@ -22605,13 +21905,6 @@
     },
     {
       "uniSlug": "okan",
-      "courseCode": "ceza-genel",
-      "slug": "okan__ceza-genel",
-      "title": "Okan Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/okan/ceza-genel"
-    },
-    {
-      "uniSlug": "okan",
       "courseCode": "ceza-muhakemesi",
       "slug": "okan__ceza-muhakemesi",
       "title": "Okan Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
@@ -22780,13 +22073,6 @@
     },
     {
       "uniSlug": "okan",
-      "courseCode": "hukuka-giris",
-      "slug": "okan__hukuka-giris",
-      "title": "Okan Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/okan/hukuka-giris"
-    },
-    {
-      "uniSlug": "okan",
       "courseCode": "icra-donem-1",
       "slug": "okan__icra-donem-1",
       "title": "Okan İcra Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
@@ -22798,13 +22084,6 @@
       "slug": "okan__icra-donem-2",
       "title": "Okan İcra Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
       "href": "/ders-notlari/okan/icra-donem-2"
-    },
-    {
-      "uniSlug": "okan",
-      "courseCode": "icra-iflas",
-      "slug": "okan__icra-iflas",
-      "title": "Okan İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/okan/icra-iflas"
     },
     {
       "uniSlug": "okan",
@@ -22875,13 +22154,6 @@
       "slug": "okan__insan-haklari",
       "title": "Okan İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
       "href": "/ders-notlari/okan/insan-haklari"
-    },
-    {
-      "uniSlug": "okan",
-      "courseCode": "is-hukuku",
-      "slug": "okan__is-hukuku",
-      "title": "Okan İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
-      "href": "/ders-notlari/okan/is-hukuku"
     },
     {
       "uniSlug": "okan",
@@ -23585,13 +22857,6 @@
     },
     {
       "uniSlug": "pamukkale",
-      "courseCode": "ceza-genel",
-      "slug": "pamukkale__ceza-genel",
-      "title": "PAÜ Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Denizli",
-      "href": "/ders-notlari/pamukkale/ceza-genel"
-    },
-    {
-      "uniSlug": "pamukkale",
       "courseCode": "ceza-muhakemesi",
       "slug": "pamukkale__ceza-muhakemesi",
       "title": "PAÜ Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Denizli",
@@ -23760,13 +23025,6 @@
     },
     {
       "uniSlug": "pamukkale",
-      "courseCode": "hukuka-giris",
-      "slug": "pamukkale__hukuka-giris",
-      "title": "PAÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Denizli",
-      "href": "/ders-notlari/pamukkale/hukuka-giris"
-    },
-    {
-      "uniSlug": "pamukkale",
       "courseCode": "icra-donem-1",
       "slug": "pamukkale__icra-donem-1",
       "title": "PAÜ İcra Hukuku 1. Dönem (Güz) Ders Notu | Denizli",
@@ -23778,13 +23036,6 @@
       "slug": "pamukkale__icra-donem-2",
       "title": "PAÜ İcra Hukuku 2. Dönem (Bahar) Ders Notu | Denizli",
       "href": "/ders-notlari/pamukkale/icra-donem-2"
-    },
-    {
-      "uniSlug": "pamukkale",
-      "courseCode": "icra-iflas",
-      "slug": "pamukkale__icra-iflas",
-      "title": "PAÜ İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Denizli",
-      "href": "/ders-notlari/pamukkale/icra-iflas"
     },
     {
       "uniSlug": "pamukkale",
@@ -23855,13 +23106,6 @@
       "slug": "pamukkale__insan-haklari",
       "title": "PAÜ İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Denizli",
       "href": "/ders-notlari/pamukkale/insan-haklari"
-    },
-    {
-      "uniSlug": "pamukkale",
-      "courseCode": "is-hukuku",
-      "slug": "pamukkale__is-hukuku",
-      "title": "PAÜ İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Denizli",
-      "href": "/ders-notlari/pamukkale/is-hukuku"
     },
     {
       "uniSlug": "pamukkale",
@@ -24138,13 +23382,6 @@
     },
     {
       "uniSlug": "rize",
-      "courseCode": "ceza-genel",
-      "slug": "rize__ceza-genel",
-      "title": "RTEÜ Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Rize",
-      "href": "/ders-notlari/rize/ceza-genel"
-    },
-    {
-      "uniSlug": "rize",
       "courseCode": "ceza-muhakemesi",
       "slug": "rize__ceza-muhakemesi",
       "title": "RTEÜ Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Rize",
@@ -24313,13 +23550,6 @@
     },
     {
       "uniSlug": "rize",
-      "courseCode": "hukuka-giris",
-      "slug": "rize__hukuka-giris",
-      "title": "RTEÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Rize",
-      "href": "/ders-notlari/rize/hukuka-giris"
-    },
-    {
-      "uniSlug": "rize",
       "courseCode": "icra-donem-1",
       "slug": "rize__icra-donem-1",
       "title": "RTEÜ İcra Hukuku 1. Dönem (Güz) Ders Notu | Rize",
@@ -24331,13 +23561,6 @@
       "slug": "rize__icra-donem-2",
       "title": "RTEÜ İcra Hukuku 2. Dönem (Bahar) Ders Notu | Rize",
       "href": "/ders-notlari/rize/icra-donem-2"
-    },
-    {
-      "uniSlug": "rize",
-      "courseCode": "icra-iflas",
-      "slug": "rize__icra-iflas",
-      "title": "RTEÜ İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Rize",
-      "href": "/ders-notlari/rize/icra-iflas"
     },
     {
       "uniSlug": "rize",
@@ -24408,13 +23631,6 @@
       "slug": "rize__insan-haklari",
       "title": "RTEÜ İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Rize",
       "href": "/ders-notlari/rize/insan-haklari"
-    },
-    {
-      "uniSlug": "rize",
-      "courseCode": "is-hukuku",
-      "slug": "rize__is-hukuku",
-      "title": "RTEÜ İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Rize",
-      "href": "/ders-notlari/rize/is-hukuku"
     },
     {
       "uniSlug": "rize",
@@ -24691,13 +23907,6 @@
     },
     {
       "uniSlug": "sakarya",
-      "courseCode": "ceza-genel",
-      "slug": "sakarya__ceza-genel",
-      "title": "SAÜ Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Sakarya",
-      "href": "/ders-notlari/sakarya/ceza-genel"
-    },
-    {
-      "uniSlug": "sakarya",
       "courseCode": "ceza-muhakemesi",
       "slug": "sakarya__ceza-muhakemesi",
       "title": "SAÜ Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Sakarya",
@@ -24866,13 +24075,6 @@
     },
     {
       "uniSlug": "sakarya",
-      "courseCode": "hukuka-giris",
-      "slug": "sakarya__hukuka-giris",
-      "title": "SAÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Sakarya",
-      "href": "/ders-notlari/sakarya/hukuka-giris"
-    },
-    {
-      "uniSlug": "sakarya",
       "courseCode": "icra-donem-1",
       "slug": "sakarya__icra-donem-1",
       "title": "SAÜ İcra Hukuku 1. Dönem (Güz) Ders Notu | Sakarya",
@@ -24884,13 +24086,6 @@
       "slug": "sakarya__icra-donem-2",
       "title": "SAÜ İcra Hukuku 2. Dönem (Bahar) Ders Notu | Sakarya",
       "href": "/ders-notlari/sakarya/icra-donem-2"
-    },
-    {
-      "uniSlug": "sakarya",
-      "courseCode": "icra-iflas",
-      "slug": "sakarya__icra-iflas",
-      "title": "SAÜ İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Sakarya",
-      "href": "/ders-notlari/sakarya/icra-iflas"
     },
     {
       "uniSlug": "sakarya",
@@ -24961,13 +24156,6 @@
       "slug": "sakarya__insan-haklari",
       "title": "SAÜ İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Sakarya",
       "href": "/ders-notlari/sakarya/insan-haklari"
-    },
-    {
-      "uniSlug": "sakarya",
-      "courseCode": "is-hukuku",
-      "slug": "sakarya__is-hukuku",
-      "title": "SAÜ İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Sakarya",
-      "href": "/ders-notlari/sakarya/is-hukuku"
     },
     {
       "uniSlug": "sakarya",
@@ -25244,13 +24432,6 @@
     },
     {
       "uniSlug": "samsun",
-      "courseCode": "ceza-genel",
-      "slug": "samsun__ceza-genel",
-      "title": "OMÜ Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Samsun",
-      "href": "/ders-notlari/samsun/ceza-genel"
-    },
-    {
-      "uniSlug": "samsun",
       "courseCode": "ceza-muhakemesi",
       "slug": "samsun__ceza-muhakemesi",
       "title": "OMÜ Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Samsun",
@@ -25419,13 +24600,6 @@
     },
     {
       "uniSlug": "samsun",
-      "courseCode": "hukuka-giris",
-      "slug": "samsun__hukuka-giris",
-      "title": "OMÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Samsun",
-      "href": "/ders-notlari/samsun/hukuka-giris"
-    },
-    {
-      "uniSlug": "samsun",
       "courseCode": "icra-donem-1",
       "slug": "samsun__icra-donem-1",
       "title": "OMÜ İcra Hukuku 1. Dönem (Güz) Ders Notu | Samsun",
@@ -25437,13 +24611,6 @@
       "slug": "samsun__icra-donem-2",
       "title": "OMÜ İcra Hukuku 2. Dönem (Bahar) Ders Notu | Samsun",
       "href": "/ders-notlari/samsun/icra-donem-2"
-    },
-    {
-      "uniSlug": "samsun",
-      "courseCode": "icra-iflas",
-      "slug": "samsun__icra-iflas",
-      "title": "OMÜ İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Samsun",
-      "href": "/ders-notlari/samsun/icra-iflas"
     },
     {
       "uniSlug": "samsun",
@@ -25514,13 +24681,6 @@
       "slug": "samsun__insan-haklari",
       "title": "OMÜ İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Samsun",
       "href": "/ders-notlari/samsun/insan-haklari"
-    },
-    {
-      "uniSlug": "samsun",
-      "courseCode": "is-hukuku",
-      "slug": "samsun__is-hukuku",
-      "title": "OMÜ İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Samsun",
-      "href": "/ders-notlari/samsun/is-hukuku"
     },
     {
       "uniSlug": "samsun",
@@ -26224,13 +25384,6 @@
     },
     {
       "uniSlug": "sivas-cumhuriyet",
-      "courseCode": "ceza-genel",
-      "slug": "sivas-cumhuriyet__ceza-genel",
-      "title": "SCÜ Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Sivas",
-      "href": "/ders-notlari/sivas-cumhuriyet/ceza-genel"
-    },
-    {
-      "uniSlug": "sivas-cumhuriyet",
       "courseCode": "ceza-muhakemesi",
       "slug": "sivas-cumhuriyet__ceza-muhakemesi",
       "title": "SCÜ Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Sivas",
@@ -26399,13 +25552,6 @@
     },
     {
       "uniSlug": "sivas-cumhuriyet",
-      "courseCode": "hukuka-giris",
-      "slug": "sivas-cumhuriyet__hukuka-giris",
-      "title": "SCÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Sivas",
-      "href": "/ders-notlari/sivas-cumhuriyet/hukuka-giris"
-    },
-    {
-      "uniSlug": "sivas-cumhuriyet",
       "courseCode": "icra-donem-1",
       "slug": "sivas-cumhuriyet__icra-donem-1",
       "title": "SCÜ İcra Hukuku 1. Dönem (Güz) Ders Notu | Sivas",
@@ -26417,13 +25563,6 @@
       "slug": "sivas-cumhuriyet__icra-donem-2",
       "title": "SCÜ İcra Hukuku 2. Dönem (Bahar) Ders Notu | Sivas",
       "href": "/ders-notlari/sivas-cumhuriyet/icra-donem-2"
-    },
-    {
-      "uniSlug": "sivas-cumhuriyet",
-      "courseCode": "icra-iflas",
-      "slug": "sivas-cumhuriyet__icra-iflas",
-      "title": "SCÜ İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Sivas",
-      "href": "/ders-notlari/sivas-cumhuriyet/icra-iflas"
     },
     {
       "uniSlug": "sivas-cumhuriyet",
@@ -26494,13 +25633,6 @@
       "slug": "sivas-cumhuriyet__insan-haklari",
       "title": "SCÜ İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Sivas",
       "href": "/ders-notlari/sivas-cumhuriyet/insan-haklari"
-    },
-    {
-      "uniSlug": "sivas-cumhuriyet",
-      "courseCode": "is-hukuku",
-      "slug": "sivas-cumhuriyet__is-hukuku",
-      "title": "SCÜ İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Sivas",
-      "href": "/ders-notlari/sivas-cumhuriyet/is-hukuku"
     },
     {
       "uniSlug": "sivas-cumhuriyet",
@@ -26777,13 +25909,6 @@
     },
     {
       "uniSlug": "suleyman-demirel",
-      "courseCode": "ceza-genel",
-      "slug": "suleyman-demirel__ceza-genel",
-      "title": "SDÜ Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Isparta",
-      "href": "/ders-notlari/suleyman-demirel/ceza-genel"
-    },
-    {
-      "uniSlug": "suleyman-demirel",
       "courseCode": "ceza-muhakemesi",
       "slug": "suleyman-demirel__ceza-muhakemesi",
       "title": "SDÜ Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Isparta",
@@ -26952,13 +26077,6 @@
     },
     {
       "uniSlug": "suleyman-demirel",
-      "courseCode": "hukuka-giris",
-      "slug": "suleyman-demirel__hukuka-giris",
-      "title": "SDÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Isparta",
-      "href": "/ders-notlari/suleyman-demirel/hukuka-giris"
-    },
-    {
-      "uniSlug": "suleyman-demirel",
       "courseCode": "icra-donem-1",
       "slug": "suleyman-demirel__icra-donem-1",
       "title": "SDÜ İcra Hukuku 1. Dönem (Güz) Ders Notu | Isparta",
@@ -26970,13 +26088,6 @@
       "slug": "suleyman-demirel__icra-donem-2",
       "title": "SDÜ İcra Hukuku 2. Dönem (Bahar) Ders Notu | Isparta",
       "href": "/ders-notlari/suleyman-demirel/icra-donem-2"
-    },
-    {
-      "uniSlug": "suleyman-demirel",
-      "courseCode": "icra-iflas",
-      "slug": "suleyman-demirel__icra-iflas",
-      "title": "SDÜ İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Isparta",
-      "href": "/ders-notlari/suleyman-demirel/icra-iflas"
     },
     {
       "uniSlug": "suleyman-demirel",
@@ -27047,13 +26158,6 @@
       "slug": "suleyman-demirel__insan-haklari",
       "title": "SDÜ İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Isparta",
       "href": "/ders-notlari/suleyman-demirel/insan-haklari"
-    },
-    {
-      "uniSlug": "suleyman-demirel",
-      "courseCode": "is-hukuku",
-      "slug": "suleyman-demirel__is-hukuku",
-      "title": "SDÜ İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Isparta",
-      "href": "/ders-notlari/suleyman-demirel/is-hukuku"
     },
     {
       "uniSlug": "suleyman-demirel",
@@ -27330,13 +26434,6 @@
     },
     {
       "uniSlug": "tekirdag",
-      "courseCode": "ceza-genel",
-      "slug": "tekirdag__ceza-genel",
-      "title": "NKÜ Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Tekirdağ",
-      "href": "/ders-notlari/tekirdag/ceza-genel"
-    },
-    {
-      "uniSlug": "tekirdag",
       "courseCode": "ceza-muhakemesi",
       "slug": "tekirdag__ceza-muhakemesi",
       "title": "NKÜ Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Tekirdağ",
@@ -27505,13 +26602,6 @@
     },
     {
       "uniSlug": "tekirdag",
-      "courseCode": "hukuka-giris",
-      "slug": "tekirdag__hukuka-giris",
-      "title": "NKÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Tekirdağ",
-      "href": "/ders-notlari/tekirdag/hukuka-giris"
-    },
-    {
-      "uniSlug": "tekirdag",
       "courseCode": "icra-donem-1",
       "slug": "tekirdag__icra-donem-1",
       "title": "NKÜ İcra Hukuku 1. Dönem (Güz) Ders Notu | Tekirdağ",
@@ -27523,13 +26613,6 @@
       "slug": "tekirdag__icra-donem-2",
       "title": "NKÜ İcra Hukuku 2. Dönem (Bahar) Ders Notu | Tekirdağ",
       "href": "/ders-notlari/tekirdag/icra-donem-2"
-    },
-    {
-      "uniSlug": "tekirdag",
-      "courseCode": "icra-iflas",
-      "slug": "tekirdag__icra-iflas",
-      "title": "NKÜ İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Tekirdağ",
-      "href": "/ders-notlari/tekirdag/icra-iflas"
     },
     {
       "uniSlug": "tekirdag",
@@ -27600,13 +26683,6 @@
       "slug": "tekirdag__insan-haklari",
       "title": "NKÜ İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Tekirdağ",
       "href": "/ders-notlari/tekirdag/insan-haklari"
-    },
-    {
-      "uniSlug": "tekirdag",
-      "courseCode": "is-hukuku",
-      "slug": "tekirdag__is-hukuku",
-      "title": "NKÜ İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Tekirdağ",
-      "href": "/ders-notlari/tekirdag/is-hukuku"
     },
     {
       "uniSlug": "tekirdag",
@@ -28310,13 +27386,6 @@
     },
     {
       "uniSlug": "tokat",
-      "courseCode": "ceza-genel",
-      "slug": "tokat__ceza-genel",
-      "title": "TOGÜ Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Tokat",
-      "href": "/ders-notlari/tokat/ceza-genel"
-    },
-    {
-      "uniSlug": "tokat",
       "courseCode": "ceza-muhakemesi",
       "slug": "tokat__ceza-muhakemesi",
       "title": "TOGÜ Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Tokat",
@@ -28485,13 +27554,6 @@
     },
     {
       "uniSlug": "tokat",
-      "courseCode": "hukuka-giris",
-      "slug": "tokat__hukuka-giris",
-      "title": "TOGÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Tokat",
-      "href": "/ders-notlari/tokat/hukuka-giris"
-    },
-    {
-      "uniSlug": "tokat",
       "courseCode": "icra-donem-1",
       "slug": "tokat__icra-donem-1",
       "title": "TOGÜ İcra Hukuku 1. Dönem (Güz) Ders Notu | Tokat",
@@ -28503,13 +27565,6 @@
       "slug": "tokat__icra-donem-2",
       "title": "TOGÜ İcra Hukuku 2. Dönem (Bahar) Ders Notu | Tokat",
       "href": "/ders-notlari/tokat/icra-donem-2"
-    },
-    {
-      "uniSlug": "tokat",
-      "courseCode": "icra-iflas",
-      "slug": "tokat__icra-iflas",
-      "title": "TOGÜ İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Tokat",
-      "href": "/ders-notlari/tokat/icra-iflas"
     },
     {
       "uniSlug": "tokat",
@@ -28580,13 +27635,6 @@
       "slug": "tokat__insan-haklari",
       "title": "TOGÜ İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Tokat",
       "href": "/ders-notlari/tokat/insan-haklari"
-    },
-    {
-      "uniSlug": "tokat",
-      "courseCode": "is-hukuku",
-      "slug": "tokat__is-hukuku",
-      "title": "TOGÜ İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Tokat",
-      "href": "/ders-notlari/tokat/is-hukuku"
     },
     {
       "uniSlug": "tokat",
@@ -28863,13 +27911,6 @@
     },
     {
       "uniSlug": "ufuk",
-      "courseCode": "ceza-genel",
-      "slug": "ufuk__ceza-genel",
-      "title": "Ufuk Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Ankara",
-      "href": "/ders-notlari/ufuk/ceza-genel"
-    },
-    {
-      "uniSlug": "ufuk",
       "courseCode": "ceza-muhakemesi",
       "slug": "ufuk__ceza-muhakemesi",
       "title": "Ufuk Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Ankara",
@@ -29038,13 +28079,6 @@
     },
     {
       "uniSlug": "ufuk",
-      "courseCode": "hukuka-giris",
-      "slug": "ufuk__hukuka-giris",
-      "title": "Ufuk Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Ankara",
-      "href": "/ders-notlari/ufuk/hukuka-giris"
-    },
-    {
-      "uniSlug": "ufuk",
       "courseCode": "icra-donem-1",
       "slug": "ufuk__icra-donem-1",
       "title": "Ufuk İcra Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
@@ -29056,13 +28090,6 @@
       "slug": "ufuk__icra-donem-2",
       "title": "Ufuk İcra Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
       "href": "/ders-notlari/ufuk/icra-donem-2"
-    },
-    {
-      "uniSlug": "ufuk",
-      "courseCode": "icra-iflas",
-      "slug": "ufuk__icra-iflas",
-      "title": "Ufuk İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Ankara",
-      "href": "/ders-notlari/ufuk/icra-iflas"
     },
     {
       "uniSlug": "ufuk",
@@ -29133,13 +28160,6 @@
       "slug": "ufuk__insan-haklari",
       "title": "Ufuk İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Ankara",
       "href": "/ders-notlari/ufuk/insan-haklari"
-    },
-    {
-      "uniSlug": "ufuk",
-      "courseCode": "is-hukuku",
-      "slug": "ufuk__is-hukuku",
-      "title": "Ufuk İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Ankara",
-      "href": "/ders-notlari/ufuk/is-hukuku"
     },
     {
       "uniSlug": "ufuk",
@@ -29843,13 +28863,6 @@
     },
     {
       "uniSlug": "yasar",
-      "courseCode": "ceza-genel",
-      "slug": "yasar__ceza-genel",
-      "title": "Yaşar Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | İzmir",
-      "href": "/ders-notlari/yasar/ceza-genel"
-    },
-    {
-      "uniSlug": "yasar",
       "courseCode": "ceza-muhakemesi",
       "slug": "yasar__ceza-muhakemesi",
       "title": "Yaşar Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | İzmir",
@@ -30018,13 +29031,6 @@
     },
     {
       "uniSlug": "yasar",
-      "courseCode": "hukuka-giris",
-      "slug": "yasar__hukuka-giris",
-      "title": "Yaşar Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | İzmir",
-      "href": "/ders-notlari/yasar/hukuka-giris"
-    },
-    {
-      "uniSlug": "yasar",
       "courseCode": "icra-donem-1",
       "slug": "yasar__icra-donem-1",
       "title": "Yaşar İcra Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
@@ -30036,13 +29042,6 @@
       "slug": "yasar__icra-donem-2",
       "title": "Yaşar İcra Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
       "href": "/ders-notlari/yasar/icra-donem-2"
-    },
-    {
-      "uniSlug": "yasar",
-      "courseCode": "icra-iflas",
-      "slug": "yasar__icra-iflas",
-      "title": "Yaşar İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | İzmir",
-      "href": "/ders-notlari/yasar/icra-iflas"
     },
     {
       "uniSlug": "yasar",
@@ -30113,13 +29112,6 @@
       "slug": "yasar__insan-haklari",
       "title": "Yaşar İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | İzmir",
       "href": "/ders-notlari/yasar/insan-haklari"
-    },
-    {
-      "uniSlug": "yasar",
-      "courseCode": "is-hukuku",
-      "slug": "yasar__is-hukuku",
-      "title": "Yaşar İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | İzmir",
-      "href": "/ders-notlari/yasar/is-hukuku"
     },
     {
       "uniSlug": "yasar",
@@ -30823,13 +29815,6 @@
     },
     {
       "uniSlug": "yozgat",
-      "courseCode": "ceza-genel",
-      "slug": "yozgat__ceza-genel",
-      "title": "Bozok Ceza Hukuku Genel Hükümler Ders Notları — Şematik & Örnekli | Yozgat",
-      "href": "/ders-notlari/yozgat/ceza-genel"
-    },
-    {
-      "uniSlug": "yozgat",
       "courseCode": "ceza-muhakemesi",
       "slug": "yozgat__ceza-muhakemesi",
       "title": "Bozok Ceza Muhakemesi Hukuku Ders Notları — Şematik & Örnekli | Yozgat",
@@ -30998,13 +29983,6 @@
     },
     {
       "uniSlug": "yozgat",
-      "courseCode": "hukuka-giris",
-      "slug": "yozgat__hukuka-giris",
-      "title": "Bozok Hukuka Giriş / Hukukun Temel Kavramları Ders Notları — Şematik & Örnekli | Yozgat",
-      "href": "/ders-notlari/yozgat/hukuka-giris"
-    },
-    {
-      "uniSlug": "yozgat",
       "courseCode": "icra-donem-1",
       "slug": "yozgat__icra-donem-1",
       "title": "Bozok İcra Hukuku 1. Dönem (Güz) Ders Notu | Yozgat",
@@ -31016,13 +29994,6 @@
       "slug": "yozgat__icra-donem-2",
       "title": "Bozok İcra Hukuku 2. Dönem (Bahar) Ders Notu | Yozgat",
       "href": "/ders-notlari/yozgat/icra-donem-2"
-    },
-    {
-      "uniSlug": "yozgat",
-      "courseCode": "icra-iflas",
-      "slug": "yozgat__icra-iflas",
-      "title": "Bozok İcra ve İflas Hukuku Ders Notları — Şematik & Örnekli | Yozgat",
-      "href": "/ders-notlari/yozgat/icra-iflas"
     },
     {
       "uniSlug": "yozgat",
@@ -31093,13 +30064,6 @@
       "slug": "yozgat__insan-haklari",
       "title": "Bozok İnsan Hakları Hukuku Ders Notları — Şematik & Örnekli | Yozgat",
       "href": "/ders-notlari/yozgat/insan-haklari"
-    },
-    {
-      "uniSlug": "yozgat",
-      "courseCode": "is-hukuku",
-      "slug": "yozgat__is-hukuku",
-      "title": "Bozok İş ve Sosyal Güvenlik Hukuku Ders Notları — Şematik & Örnekli | Yozgat",
-      "href": "/ders-notlari/yozgat/is-hukuku"
     },
     {
       "uniSlug": "yozgat",
@@ -92535,5 +91499,5 @@
     }
   ],
   "tmk1KitapTripleAt": "2026-08-05T21:07:50.557Z",
-  "graphComposeAt": "2026-09-11T13:24:56.369Z"
+  "graphComposeAt": "2026-09-27T14:25:21.154Z"
 }

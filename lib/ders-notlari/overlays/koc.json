@@ -503,6 +503,285 @@
                     "note": "fakülte kimliği"
                 }
             ]
+        },
+        "tuketici-hukuku": {
+            "cityHook": "Rumelifeneri'nde cayma hypo'su",
+            "mehaz": "Karşılaştırmalı consumer; bağlayıcı metin 6502'dir",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TKHK maddesi + tüketici kurumu + olaya yedirme.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim TKHK m.11'in yerine geçmez.",
+                    "Policy cümlesi unsur ve lafızdan sonra gelir.",
+                    "Tüketici kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "tüketici",
+                "ayıplı mal",
+                "ayıplı hizmet",
+                "mesafeli sözleşme",
+                "haksız şart",
+                "taksitli satış",
+                "uyuşmazlık"
+            ],
+            "schoolNotes": [
+                "Koç tüketici hukukunda hypo künye uydurmayı serbest bırakmaz.",
+                "Kanun lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "vergi-hukuku": {
+            "cityHook": "Rumelifeneri'nde tam mükellefiyet hypo'su",
+            "mehaz": "Karşılaştırmalı tax; bağlayıcı metin VUK, GVK ve KDVK'dir",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: VUK maddesi + vergi kurumu + olaya yedirme.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim VUK m.19'un yerine geçmez.",
+                    "Policy cümlesi unsur ve lafızdan sonra gelir.",
+                    "Vergi kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "vergiyi doğuran olay",
+                "mükellef",
+                "tarh",
+                "re'sen tarh",
+                "zamanaşımı",
+                "vergi cezası",
+                "gelir vergisi",
+                "katma değer vergisi"
+            ],
+            "schoolNotes": [
+                "Koç vergi hukukunda hypo künye uydurmayı serbest bırakmaz.",
+                "Kanun lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "sigorta-hukuku": {
+            "cityHook": "Rumelifeneri'nde prim temerrüdü hypo'su",
+            "mehaz": "Karşılaştırmalı insurance; bağlayıcı metin TTK m.1401 ve devamıdır",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + sigorta kurumu + olaya yedirme.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim TTK m.1420'nin yerine geçmez.",
+                    "Policy cümlesi unsur ve lafızdan sonra gelir.",
+                    "Sigorta kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "sigorta sözleşmesi",
+                "riziko",
+                "prim",
+                "teminat",
+                "beyan ve ihbar",
+                "tazmin ve halefiyet",
+                "hayat sigortası",
+                "sona erme ve zamanaşımı"
+            ],
+            "schoolNotes": [
+                "Koç sigorta hukukunda hypo künye uydurmayı serbest bırakmaz.",
+                "Kanun lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "idare-hukuku": {
+            "cityHook": "Rumelifeneri'nde kamulaştırma hypo'su",
+            "mehaz": "Karşılaştırmalı expropriation; bağlayıcı metin 2942'dir",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: kanun maddesi + idare kurumu + olaya yedirme.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim 2942 m.8'in yerine geçmez.",
+                    "Policy cümlesi unsur ve lafızdan sonra gelir.",
+                    "İdare kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "hemşehri ve görev",
+                "belediye organı",
+                "memur",
+                "yetki",
+                "disiplin",
+                "kamulaştırma",
+                "imar",
+                "vali ve kaymakam"
+            ],
+            "schoolNotes": [
+                "Koç idare hukukunda hypo künye uydurmayı serbest bırakmaz.",
+                "Kanun lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "insaat-hukuku": {
+            "cityHook": "Rumelifeneri'nde kat karşılığı hypo'su",
+            "mehaz": "Karşılaştırmalı construction; bağlayıcı metin TBK m.470 ve m.237'dir",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TBK veya İmar maddesi + inşaat kurumu + olaya yedirme.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim resmi şeklin yerine geçmez.",
+                    "Policy cümlesi unsur ve lafızdan sonra gelir.",
+                    "Eser kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "eser sözleşmesi",
+                "bedel",
+                "ayıp",
+                "teslim ve fesih",
+                "ruhsat",
+                "ruhsatsız yapı",
+                "kamulaştırma",
+                "kat karşılığı"
+            ],
+            "schoolNotes": [
+                "Koç inşaat hukukunda hypo künye uydurmayı serbest bırakmaz.",
+                "Kanun lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "rekabet-hukuku": {
+            "cityHook": "Rumelifeneri'nde birleşme eşiği hypo'su",
+            "mehaz": "Karşılaştırmalı merger; bağlayıcı metin 4054 m.7'dir",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: 4054 maddesi + ihlal türü + olaya yedirme.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim tebliğ eşiğinin yerine geçmez.",
+                    "Policy cümlesi lafızdan sonra gelir.",
+                    "Rekabet kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "teşebbüs",
+                "anlaşma",
+                "hâkim durum",
+                "birleşme",
+                "muafiyet",
+                "soruşturma",
+                "kurul",
+                "idari para cezası"
+            ],
+            "schoolNotes": [
+                "Koç rekabet hukukunda hypo künye uydurmayı serbest bırakmaz.",
+                "Kanun lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "arabuluculuk": {
+            "cityHook": "Rumelifeneri'nde icra şerhi hypo'su",
+            "mehaz": "Karşılaştırmalı mediation; bağlayıcı metin 6325 m.18'dir",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: 6325 maddesi + süreç + olaya yedirme.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim sulh hukuk mahkemesinin yerine geçmez.",
+                    "Policy cümlesi lafızdan sonra gelir.",
+                    "Arabuluculuk kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "iradi olma",
+                "gizlilik",
+                "arabulucu",
+                "ücret",
+                "ilk toplantı",
+                "süreç",
+                "anlaşma",
+                "dava şartı"
+            ],
+            "schoolNotes": [
+                "Koç arabuluculukta hypo künye uydurmayı serbest bırakmaz.",
+                "Kanun lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "deniz-ticareti": {
+            "cityHook": "Rumelifeneri'nde çarter hypo'su",
+            "mehaz": "Karşılaştırmalı carriage; bağlayıcı metin TTK m.1138'dir",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + deniz kurumu + olaya yedirme.",
+                "tips": [
+                    "Koç kâğıdında İngilizce terim yolculuk çarterinin yerine geçmez.",
+                    "Policy cümlesi lafızdan sonra gelir.",
+                    "Deniz kapısı ilk cümlede durur."
+                ]
+            },
+            "syllabusOrder": [
+                "gemi",
+                "donatan",
+                "kaptan",
+                "navlun",
+                "konişmento",
+                "müşterek avarya",
+                "gemi alacağı",
+                "gemi ipoteği"
+            ],
+            "schoolNotes": [
+                "Koç deniz ticaretinde hypo künye uydurmayı serbest bırakmaz.",
+                "Kanun lafzı FSEK m. 31 ile serbesttir."
+            ],
+            "sources": [
+                {
+                    "title": "Koç University Law School",
+                    "url": "https://law.ku.edu.tr/",
+                    "note": "fakülte kimliği"
+                }
+            ]
         }
     }
 }

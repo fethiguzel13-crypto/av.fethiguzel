@@ -514,6 +514,305 @@
                     "note": "dönemlik yapı, devam, 240 AKTS"
                 }
             ]
+        },
+        "tuketici-hukuku": {
+            "cityHook": "Ortaköy'de clause abusive ve haksız şart karşılaştırması",
+            "mehaz": "Fransız tüketici hukuku; kâğıtta Türkçe 6502 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TKHK maddesi + tüketici kurumu + olaya yedirme.",
+                "tips": [
+                    "GSÜ kâğıdında mehaz karşılaştırması 6502 lafzını aydınlatır.",
+                    "Tüketici kapısı ilk cümlede durur.",
+                    "Yönetmelik bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "tüketici",
+                "ayıplı mal",
+                "ayıplı hizmet",
+                "mesafeli sözleşme",
+                "haksız şart",
+                "taksitli satış",
+                "uyuşmazlık"
+            ],
+            "schoolNotes": [
+                "GSÜ tüketici hukukunda Fransızca terim süs, 6502 Türkçe bağlar.",
+                "HUK222 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "GSÜ Hukuk aday öğrenci — lisans yapısı",
+                    "url": "https://hukuk.gsu.edu.tr/tr/aday-ogrenci",
+                    "note": "dönemlik yapı, devam, 240 AKTS"
+                }
+            ]
+        },
+        "vergi-hukuku": {
+            "cityHook": "Ortaköy'de prescription fiscale ve tarh zamanaşımı karşılaştırması",
+            "mehaz": "Fransız vergi usulü; kâğıtta Türkçe VUK lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: VUK maddesi + vergi kurumu + olaya yedirme.",
+                "tips": [
+                    "GSÜ kâğıdında mehaz karşılaştırması VUK lafzını aydınlatır.",
+                    "Vergi kapısı ilk cümlede durur.",
+                    "Yönetmelik bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "vergiyi doğuran olay",
+                "mükellef",
+                "tarh",
+                "re'sen tarh",
+                "zamanaşımı",
+                "vergi cezası",
+                "gelir vergisi",
+                "katma değer vergisi"
+            ],
+            "schoolNotes": [
+                "GSÜ vergi hukukunda Fransızca terim süs, VUK Türkçe bağlar.",
+                "HUK222 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "GSÜ Hukuk aday öğrenci — lisans yapısı",
+                    "url": "https://hukuk.gsu.edu.tr/tr/aday-ogrenci",
+                    "note": "dönemlik yapı, devam, 240 AKTS"
+                }
+            ]
+        },
+        "sigorta-hukuku": {
+            "cityHook": "Ortaköy'de intérêt d'assurance ve menfaat karşılaştırması",
+            "mehaz": "Fransız sigorta hukuku; kâğıtta Türkçe TTK lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + sigorta kurumu + olaya yedirme.",
+                "tips": [
+                    "GSÜ kâğıdında mehaz karşılaştırması TTK m.1408'i aydınlatır.",
+                    "Sigorta kapısı ilk cümlede durur.",
+                    "Yönetmelik bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "sigorta sözleşmesi",
+                "riziko",
+                "prim",
+                "teminat",
+                "beyan ve ihbar",
+                "tazmin ve halefiyet",
+                "hayat sigortası",
+                "sona erme ve zamanaşımı"
+            ],
+            "schoolNotes": [
+                "GSÜ sigorta hukukunda Fransızca terim süs, TTK Türkçe bağlar.",
+                "HUK222 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "GSÜ Hukuk aday öğrenci — lisans yapısı",
+                    "url": "https://hukuk.gsu.edu.tr/tr/aday-ogrenci",
+                    "note": "dönemlik yapı, devam, 240 AKTS"
+                }
+            ]
+        },
+        "idare-hukuku": {
+            "cityHook": "Ortaköy'de décentralisation ve yetki genişliği karşılaştırması",
+            "mehaz": "Fransız idare hukuku; kâğıtta Türkçe 5442 ve 5393 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: kanun maddesi + idare kurumu + olaya yedirme.",
+                "tips": [
+                    "GSÜ kâğıdında mehaz karşılaştırması vali ile belediyeyi ayırır.",
+                    "İdare kapısı ilk cümlede durur.",
+                    "Yönetmelik bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "hemşehri ve görev",
+                "belediye organı",
+                "memur",
+                "yetki",
+                "disiplin",
+                "kamulaştırma",
+                "imar",
+                "vali ve kaymakam"
+            ],
+            "schoolNotes": [
+                "GSÜ idare hukukunda Fransızca terim süs, kanun Türkçe bağlar.",
+                "HUK222 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "GSÜ Hukuk aday öğrenci — lisans yapısı",
+                    "url": "https://hukuk.gsu.edu.tr/tr/aday-ogrenci",
+                    "note": "dönemlik yapı, devam, 240 AKTS"
+                }
+            ]
+        },
+        "insaat-hukuku": {
+            "cityHook": "Ortaköy'de contrat d'entreprise ve götürü bedel karşılaştırması",
+            "mehaz": "Fransız eser hukuku; kâğıtta Türkçe TBK lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TBK veya İmar maddesi + inşaat kurumu + olaya yedirme.",
+                "tips": [
+                    "GSÜ kâğıdında mehaz karşılaştırması TBK m.470'i aydınlatır.",
+                    "Eser kapısı ilk cümlede durur.",
+                    "Yönetmelik bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "eser sözleşmesi",
+                "bedel",
+                "ayıp",
+                "teslim ve fesih",
+                "ruhsat",
+                "ruhsatsız yapı",
+                "kamulaştırma",
+                "kat karşılığı"
+            ],
+            "schoolNotes": [
+                "GSÜ inşaat hukukunda Fransızca terim süs, TBK Türkçe bağlar.",
+                "HUK222 borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "GSÜ Hukuk aday öğrenci — lisans yapısı",
+                    "url": "https://hukuk.gsu.edu.tr/tr/aday-ogrenci",
+                    "note": "dönemlik yapı, devam, 240 AKTS"
+                },
+                {
+                    "title": "GSÜ AKTS — Borçlar Özel I konu başlıkları",
+                    "url": "https://ects.gsu.edu.tr/tr/program/coursedetails/10550",
+                    "note": "özel hükümler omurgası; genel dersten ayrı"
+                }
+            ]
+        },
+        "rekabet-hukuku": {
+            "cityHook": "Ortaköy'de entente ve abus de position dominante karşılaştırması",
+            "mehaz": "Fransız rekabet hukuku; kâğıtta Türkçe 4054 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: 4054 maddesi + ihlal türü + olaya yedirme.",
+                "tips": [
+                    "GSÜ kâğıdında mehaz karşılaştırması m.4 ile m.6'yı ayırır.",
+                    "Rekabet kapısı ilk cümlede durur.",
+                    "Yönetmelik bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "teşebbüs",
+                "anlaşma",
+                "hâkim durum",
+                "birleşme",
+                "muafiyet",
+                "soruşturma",
+                "kurul",
+                "idari para cezası"
+            ],
+            "schoolNotes": [
+                "GSÜ rekabet hukukunda Fransızca terim süs, 4054 Türkçe bağlar.",
+                "HUK222 ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "GSÜ Hukuk aday öğrenci — lisans yapısı",
+                    "url": "https://hukuk.gsu.edu.tr/tr/aday-ogrenci",
+                    "note": "dönemlik yapı, devam, 240 AKTS"
+                },
+                {
+                    "title": "GSÜ AKTS — Borçlar Özel I konu başlıkları",
+                    "url": "https://ects.gsu.edu.tr/tr/program/coursedetails/10550",
+                    "note": "özel hükümler omurgası; genel dersten ayrı"
+                }
+            ]
+        },
+        "arabuluculuk": {
+            "cityHook": "Ortaköy'de médiation ve iradi olma karşılaştırması",
+            "mehaz": "Fransız arabuluculuk; kâğıtta Türkçe 6325 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: 6325 maddesi + süreç + olaya yedirme.",
+                "tips": [
+                    "GSÜ kâğıdında mehaz karşılaştırması m.3'ü aydınlatır.",
+                    "Arabuluculuk kapısı ilk cümlede durur.",
+                    "Yönetmelik bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "iradi olma",
+                "gizlilik",
+                "arabulucu",
+                "ücret",
+                "ilk toplantı",
+                "süreç",
+                "anlaşma",
+                "dava şartı"
+            ],
+            "schoolNotes": [
+                "GSÜ arabuluculukta Fransızca terim süs, 6325 Türkçe bağlar.",
+                "HUK222 ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "GSÜ Hukuk aday öğrenci — lisans yapısı",
+                    "url": "https://hukuk.gsu.edu.tr/tr/aday-ogrenci",
+                    "note": "dönemlik yapı, devam, 240 AKTS"
+                },
+                {
+                    "title": "GSÜ AKTS — Borçlar Özel I konu başlıkları",
+                    "url": "https://ects.gsu.edu.tr/tr/program/coursedetails/10550",
+                    "note": "özel hükümler omurgası; genel dersten ayrı"
+                }
+            ]
+        },
+        "deniz-ticareti": {
+            "cityHook": "Ortaköy'de armateur ve connaissement karşılaştırması",
+            "mehaz": "Fransız deniz ticareti; kâğıtta Türkçe TTK lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + deniz kurumu + olaya yedirme.",
+                "tips": [
+                    "GSÜ kâğıdında mehaz karşılaştırması m.1061'i aydınlatır.",
+                    "Deniz kapısı ilk cümlede durur.",
+                    "Yönetmelik bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "gemi",
+                "donatan",
+                "kaptan",
+                "navlun",
+                "konişmento",
+                "müşterek avarya",
+                "gemi alacağı",
+                "gemi ipoteği"
+            ],
+            "schoolNotes": [
+                "GSÜ deniz ticaretinde Fransızca terim süs, TTK Türkçe bağlar.",
+                "HUK222 ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "GSÜ Hukuk aday öğrenci — lisans yapısı",
+                    "url": "https://hukuk.gsu.edu.tr/tr/aday-ogrenci",
+                    "note": "dönemlik yapı, devam, 240 AKTS"
+                },
+                {
+                    "title": "GSÜ AKTS — Borçlar Özel I konu başlıkları",
+                    "url": "https://ects.gsu.edu.tr/tr/program/coursedetails/10550",
+                    "note": "özel hükümler omurgası; genel dersten ayrı"
+                }
+            ]
         }
     }
 }

@@ -79,16 +79,16 @@
         {
             "id": "aktarim",
             "title": "Aktarım",
-            "definition": "Kişisel veriler, yeterli koruma olmayan ülkeye kural olarak Kurul izni veya açık rıza ile aktarılır. Yurt içi aktarım da aydınlatma ve sebep ister.",
+            "definition": "Yurt içi aktarım, 5 veya 6. maddedeki şartlardan biriyle yapılır. Yurt dışı aktarımda önce yeterlilik kararı, yoksa uygun güvence, o da yoksa yalnız arızi hâller aranır. Açık rıza, yurt dışı aktarımın kural yolu değildir.",
             "elements": [
                 "yurt içi",
-                "yurt dışı",
-                "yeterli koruma",
-                "açık rıza / izin"
+                "yeterlilik kararı",
+                "uygun güvence",
+                "arızi hâl"
             ],
             "organicLinks": [
-                "Bulut hizmeti, fiilen yurt dışı aktarım olabilir.",
-                "Grup şirketleri istisna yaratmaz."
+                "Bulut hizmeti fiilen yurt dışı aktarım olabilir.",
+                "Standart sözleşme, imzadan itibaren beş iş günü içinde Kuruma bildirilir."
             ],
             "statuteRefs": [
                 {
@@ -102,23 +102,23 @@
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Yurt içi aktarım 8, yurt dışı 9'dadır.",
-                "Taahhütname ve bağlayıcı şirket kuralları izin yerine geçebilir."
+                "Yurt içi aktarım m.8, yurt dışı aktarım m.9'dadır.",
+                "Uygun güvence yokken açık rıza yalnız arızi aktarımda ve riskler anlatılarak işler (m.9/6)."
             ]
         },
         {
             "id": "ozel-nitelikli",
             "title": "Özel nitelikli kişisel veri",
-            "definition": "Sağlık, ceza mahkûmiyeti, biyometri gibi özel nitelikli veriler kural olarak açık rıza ile; sağlık verileri ayrıca sır saklama yükümlülüğü altındakilerce işlenebilir.",
+            "definition": "Özel nitelikli kişisel verilerin işlenmesi yasaktır. Açık rıza veya 6. maddenin üçüncü fıkrasında sayılan hâllerden biri varsa ve Kurulun belirlediği yeterli önlemler alınmışsa işlenebilir. Eski sağlık ve cinsel hayat ayrımı yürürlükte değildir.",
             "elements": [
                 "özel nitelik",
                 "açık rıza",
-                "sağlık istisnası",
+                "kanunî sebep",
                 "yeterli önlem"
             ],
             "organicLinks": [
                 "Özel nitelikli veri, genel veriden daha sıkı rejimdedir.",
-                "Kurul, yeterli önlemleri belirler."
+                "Sağlık ve cinsel hayat için ayrı bir fıkra yoktur; m.6/2 mülgadır."
             ],
             "statuteRefs": [
                 {
@@ -128,24 +128,24 @@
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "6/3 sağlık ve cinsel hayata özel kapı açar.",
-                "Önlemsiz işleme hukuka aykırıdır."
+                "m.6/3 bentleri bütün özel nitelikli veriler için geçerlidir; sağlık verisi yalnız sır saklama kapısına sıkışmaz.",
+                "Yeterli önlem alınmadan işleme hukuka aykırıdır (m.6/4)."
             ]
         },
         {
             "id": "ilgili-kisi",
             "title": "İlgili kişinin hakları",
-            "definition": "İlgili kişi, veri sorumlusuna başvurarak öğrenme, düzeltme, silme, aktarma ve itiraz haklarını kullanır. Başvuru cevapsız kalırsa Kurula şikâyet edilir.",
+            "definition": "İlgili kişi, veri sorumlusuna başvurarak öğrenme, düzeltme, silme ve itiraz haklarını kullanır. Başvuru yolu tüketilmeden Kurula şikâyet edilemez. Kanunda veriyi başka sorumluya taşıma hakkı yoktur.",
             "elements": [
                 "başvuru",
                 "öğrenme",
+                "düzeltme",
                 "silme",
-                "itiraz",
                 "şikâyet"
             ],
             "organicLinks": [
-                "Hak, TCK'daki şikâyetten ayrı bir idari yoldur.",
-                "Süreler yönetmelikle işler."
+                "Önce veri sorumlusuna başvuru, sonra Kurul.",
+                "Süreler Kanundadır: başvuruya en geç otuz gün, şikâyete öğrenmeden otuz ve her hâlde başvurudan altmış gün."
             ],
             "statuteRefs": [
                 {
@@ -163,8 +163,8 @@
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Önce veri sorumlusuna başvuru, sonra Kurul.",
-                "Dava yolu saklıdır."
+                "m.11'de sayılan haklar arasında veriyi başka sorumluya taşıma yoktur.",
+                "Kişilik haklarından doğan tazminat yolu saklıdır (m.14/3)."
             ]
         },
         {
@@ -178,8 +178,8 @@
                 "işleyen"
             ],
             "organicLinks": [
-                "İşleyen, sorumlu adına hareket eder; sorumluluk asıldadır.",
-                "Aydınlatma, açık rızanın ön şartıdır (rızaya dayanılıyorsa)."
+                "İşleyen, sorumlu adına hareket eder; güvenlik tedbirlerinde sorumluluk müşterektir (m.12).",
+                "Aydınlatma, hukuki sebepten bağımsız olarak verinin elde edilmesi sırasında yapılır (m.10)."
             ],
             "statuteRefs": [
                 {
@@ -253,8 +253,8 @@
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Cezalar 18'de fiile göre kademelidir.",
-                "Kurul, işlenenin durdurulmasını da ister."
+                "Cezalar m.18'de fiile göre kademelidir; tutarlar yeniden değerlenir.",
+                "Kurul, telafisi güç zararda veri işlemenin veya yurt dışı aktarımın durdurulmasına karar verebilir (m.15/7)."
             ]
         }
     ]

@@ -1,15 +1,17 @@
 {
+  "intro": "Sınav puanı sloganı yazmaktan değil senet türünü ayırmaktan düşer. Aşağıdaki tuzaklar resmi lafza ve graf unsura dayanır; slayt cümlesi değildir.",
+  "uyari": "Poliçe, bono ve çek aynı senet sanılmaz. Ciro teslimin yerine geçmez. OBS bağlayıcıdır.",
   "guz": [
-    "Kıymetli evrakın devri için ciro her zaman tek başına yeterlidir, senet zilyetliğinin devri şart değildir.",
-    "Vadesi gösterilmeyen poliçe zorunlu unsur eksikliği nedeniyle kesin olarak geçersiz sayılır.",
-    "Bonoda kabul kurumu bulunur ve muhatap asıl borçlu sıfatıyla sorumlu tutulur.",
-    "Beyaz ciro poliçenin ön yüzüne sadece imza atılarak geçerli bir şekilde yapılabilir."
+    "Devir ile ciro karıştırılmamalıdır. Kıymetli evrakta mülkiyet veya sınırlı ayni hak için her hâlde senet üzerindeki zilyetliğin devri şarttır. Emre yazılı senette buna ciro, nama yazılı senette yazılı devir beyanı eklenir (TTK m.647). Ciro tek başına yetmez.",
+    "Vadesi yazılmayan poliçe, unsur eksik diye kesin hükümsüz sayılmaz. Vade gösterilmemişse poliçe görüldüğünde ödenmesi şart edilmiş sayılır (TTK m.672). Unsur yokluğu kural olarak poliçeyi düşürür; vade bu kuralın istisnasıdır.",
+    "Bono ile poliçe karıştırılmamalıdır. Bono, kayıtsız ve şartsız bir ödeme vaadidir; muhatap ve kabul kurumu yoktur, asıl borçlu keşidecidir (TTK m.776). Poliçe ise muhataba yöneltilmiş bir havaledir ve kabul muhatabı borçlu yapar (TTK m.671, m.695).",
+    "Beyaz ciro ile kabul imzası karıştırılmamalıdır. Beyaz ciro, cirantanın yalnız imzasından ibaret olabilir; poliçenin arkasına veya alonj üzerine yazılır (TTK m.683). Ön yüze konan yalnız imza kabul beyanıdır, ciro değildir (TTK m.695)."
   ],
   "bahar": [
-    "Çek üzerine yazılan vade kaydı çeki geçersiz kılar ve kambiyo senedi niteliğini yok eder.",
-    "Borçlu, önceki hamillerle arasındaki kişisel def'ileri iyiniyetli hamil dahil herkese karşı ileri sürebilir.",
-    "Senet üzerine konulan protestosuz kaydı hamili poliçeyi süresinde ibraz etme yükümlülüğünden de kurtarır.",
-    "Çekte kanuni şekil noksanlığı olsa dahi ibrazında karşılıksız kalırsa Çek Kanunu yaptırımları uygulanır."
+    "Çekte vade kaydı senedi geçersiz kılmaz. Çek görüldüğünde ödenir; buna aykırı kayıt yazılmamış hükmündedir (TTK m.795). Düzenlenme gününden önce ibraz edilen çek, ibraz günü ödenir.",
+    "Kişisel def'i her hamile karşı ileri sürülemez. Poliçeden dolayı başvurulan kişi, düzenleyen veya önceki hamillerle arasındaki ilişkiye dayanan def'iyi hamile karşı ileri süremez; hamil senedi iktisap ederken bile bile borçlunun zararına hareket etmişse bu kapı açılır (TTK m.687). Emre yazılı senette aynı sınır m.825'tedir.",
+    "Protestosuz kaydı, ibraz yükümünü kaldırmaz. Düzenleyen, ciranta veya aval veren, senet üzerine protestosuz kaydı koyarak hamili kabul etmeme veya ödememe protestosu düzenleme yükümünden kurtarabilir. Bu kayıt, hamili poliçeyi süresinde ibraz etmek ve gereken ihbarları yapmak yükümünden kurtarmaz (TTK m.722).",
+    "Çek Kanunu'nun defter ve hesap koşulları ile TTK'nın çek unsurları karıştırılmamalıdır. TTK'daki unsurlar duruyorsa, çekin Çek Kanunu m.2'deki koşullara aykırı düzenlenmesi geçerliliği etkilemez (ÇekK m.2/9). TTK unsurları yoksa senet çek sayılmaz; karşılıksız çek yaptırımı o senede işlemez."
   ],
   "mcq": {
     "ke-kavram": {

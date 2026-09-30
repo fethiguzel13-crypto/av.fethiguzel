@@ -1,0 +1,106 @@
+{
+  "intro": "Sınav puanı sloganı yazmaktan değil gemiyi, donatanı ve senedi ayırmaktan düşer. Aşağıdaki tuzaklar TTK beşinci kitap lafzına dayanır; slayt cümlesi değildir.",
+  "uyari": "Sorumluluk sınırının özel çekme hakkı tutarı bu kâğıda yazılmaz. Sınır, 1976 tarihli Sözleşme ve 1996 Protokolüne bırakılmıştır. Künye uydurulmaz. OBS bağlayıcıdır.",
+  "guz": [
+    "Gemi, tahsis edildiği amaç suda hareket etmesini gerektiren, yüzme özelliği bulunan ve pek küçük olmayan her araçtır. Kendiliğinden hareket etmesi imkânı bulunmasa da gemi sayılır. Suda ekonomik menfaat sağlama amacına tahsis edilen veya fiilen bu amaçla kullanılan gemi ticaret gemisidir (TTK m.931). Sicile kayıtlı olup olmadığına bakılmaksızın bütün gemiler, bu Kanunun uygulanmasında taşınır eşyadandır (TTK m.936). Denize elverişlilik, gövde, genel donatım, makine ve kazan gibi esas kısımların, tamamıyla anormal tehlikeler hariç, suyun tehlikelerine karşı koyabilmesidir (TTK m.932).",
+    "Donatan, gemisini menfaat sağlamak amacıyla suda kullanan gemi malikidir. Kendisinin olmayan gemiyi kendi adına bizzat veya kaptan aracılığıyla kullanan kişi, üçüncü kişilerle ilişkide donatan sayılır (TTK m.1061). Donatan, gemi adamlarının, zorunlu danışman kılavuzun veya isteğe bağlı kılavuzun görev kusurundan üçüncü kişilere verdiği zarardan sorumludur. Yolculara ve yükle ilgili kişilere karşı ise taşıyanın gemi adamı kusuru rejimine göre sorumlu olur (TTK m.1062).",
+    "Kaptan, bütün işlerinde, özellikle ifası kendisine düşen sözleşmelerde tedbirli bir kaptan gibi hareket eder (TTK m.1088). Kusuruyla yol açtığı zararlardan, yolcular dâhil gemi ve eşyayla ilgili herkese karşı sorumludur. Donatanın emrine uyması onu sorumluluktan kurtarmaz (TTK m.1089). Yola çıkmadan önce geminin denize ve yola elverişli olmasına ve belgelerinin gemide bulunmasına dikkat eder (TTK m.1090).",
+    "Navlun türleri karıştırılmamalıdır; taşıyan, navlun karşılığında yolculuk çarterinde geminin tamamını, bir kısmını veya belli bir yerini taşıtana tahsis ederek, kırkambar sözleşmesinde ayırt edilmiş eşyayı denizde taşımayı üstlenir (TTK m.1138). Her navlun sözleşmesinde gemiyi denize, yola ve yüke elverişli bulundurmak zorundadır. Eksiklik, tedbirli taşıyanın dikkatine rağmen yolculuğun başlangıcına kadar keşfedilemiyorsa sorumluluk doğmaz (TTK m.1141)."
+  ],
+  "bahar": [
+    "Konişmento, taşıma sözleşmesinin yapıldığını ispatlayan, eşyanın teslim alındığını veya gemiye yüklendiğini gösteren ve taşıyanın eşyayı ancak senedin ibrazı karşılığında teslimle yükümlü olduğu senettir. Nama, emre ve hamile yazılı düzenlenebilir (TTK m.1228). Meşru hamil eşyayı teslim almaya yetkilidir (TTK m.1230). Taşıyan ile hamil arasındaki ilişkide konişmento esas alınır. Taşıyan ile taşıtan arasındaki ilişki navlun sözleşmesine bağlı kalır (TTK m.1237).",
+    "Müşterek avarya ile çatma karıştırılmamalıdır; ortak deniz sergüzeştine atılmış gemi, yük, diğer eşya ve navlunu birlikte tehdit eden bir tehlikeden korumak için bile bile ve makul biçimde olağanüstü fedakârlık veya gider varsa müşterek avarya hareketi vardır (TTK m.1272). Çatma umulmayan hâl veya mücbir sebepten doğmuşsa ya da sebebi anlaşılamamışsa herkes kendi zararına katlanır (TTK m.1287). Çatma gemilerden birinin donatanının veya gemi adamlarının kusurundan ileri gelmişse zararı o geminin donatanı tazmin eder (TTK m.1288).",
+    "Gemi alacağı ile sorumluluğun sınırlanması karıştırılmamalıdır; geminin malikine, kiracısına, yöneticisine veya işletenine karşı doğmuş ve kanunda sayılan alacaklar gemi alacaklısı hakkı verir. Gemi adamının ücret alacağı bu haktandır (TTK m.1320). Bu hakkın kanuni rehni, gemi üzerinde tescil edilmiş veya edilmemiş bütün kanuni ve akdî rehinlerden önce gelir (TTK m.1323). Deniz alacaklarından doğan sorumluluk ise 1976 tarihli Sözleşme ile onu değiştiren 1996 Protokolüne veya Türkiye’nin kabul edeceği yerine geçen sözleşmeye göre sınırlanabilir (TTK m.1328).",
+    "Sicile kayıtlı geminin sözleşmeye dayalı rehni yalnız gemi ipoteğiyle kurulur. İpotek, alacağı geminin bedelinden alma yetkisi verir. İleride doğabilecek veya şarta ya da kıymetli evraka bağlı alacak için de kurulabilir (TTK m.1014)."
+  ],
+  "mcq": {
+    "gemi": {
+      "q": "TTK m.931 ve m.936 uyarınca gemi hakkında hangisi doğrudur?",
+      "choices": [
+        "Gemi yalnız makineyle kendi kendine hareket eden araçtır. Sicile kayıtlı gemi taşınmaz sayılır.",
+        "Tahsis amacı suda hareket etmesini gerektiren, yüzen ve pek küçük olmayan her araç, kendiliğinden hareket edemese de gemidir. Suda ekonomik menfaat için tahsis edilen veya kullanılan gemi ticaret gemisidir. Bütün gemiler bu Kanunda taşınır eşyadandır.",
+        "Ticaret gemisi yalnız malikin kendi adına kullandığı gemidir.",
+        "Denize elverişlilik, geminin sicile kayıtlı olmasıdır."
+      ],
+      "answer": 1,
+      "reason": "TTK m.931 gemi ve ticaret gemisini tanımlar. m.936 sicile bakılmaksızın gemiyi taşınır sayar. Denize elverişlilik m.932'dedir."
+    },
+    "donatan": {
+      "q": "TTK m.1061 ve m.1062 uyarınca donatan hakkında hangisi doğrudur?",
+      "choices": [
+        "Donatan yalnız geminin kiracısıdır. Gemi adamının kusurundan hiç sorumlu olmaz.",
+        "Donatan, gemisini menfaat sağlamak amacıyla suda kullanan maliktir. Başkasının gemisini kendi adına kullanan kişi üçüncü kişilere karşı donatan sayılır. Gemi adamlarının ve kılavuzun görev kusurundan üçüncü kişilere verdiği zarardan sorumludur.",
+        "Yolculara karşı sorumluluk, üçüncü kişilere karşı sorumlulukla her hâlde aynı hükümdedir.",
+        "Donatan sıfatı yalnız sicil kaydından doğar."
+      ],
+      "answer": 1,
+      "reason": "TTK m.1061 malik donatanı ve başkasının gemisini kendi adına işleteni tanımlar. m.1062 üçüncü kişilere karşı gemi adamı ve kılavuz kusurunu donatana yükler; yolcu ve yükte taşıyan rejimine yollar."
+    },
+    "kaptan": {
+      "q": "TTK m.1088 ve m.1089 uyarınca kaptan hakkında hangisi doğrudur?",
+      "choices": [
+        "Kaptan, donatanın emrine uyarsa kusurundan doğan sorumluluktan kurtulur.",
+        "Kaptan tedbirli bir kaptan gibi hareket eder. Kusurundan, yolcular dâhil gemi ve eşyayla ilgili herkese karşı sorumludur. Donatanın emrine uyması onu kurtarmaz.",
+        "Kaptan yalnız yük ilgililerine karşı sorumludur.",
+        "Denize elverişliliğe bakmak taşıyanın işidir; kaptanın dikkat borcu yoktur."
+      ],
+      "answer": 1,
+      "reason": "TTK m.1088 tedbirli kaptan ölçüsünü, m.1089 kusur sorumluluğunu ve donatan emrinin kurtarmayacağını, m.1090 denize ve yola elverişliliğe dikkat borcunu koyar."
+    },
+    "navlun": {
+      "q": "TTK m.1138 ve m.1141 uyarınca navlun sözleşmesi hakkında hangisi doğrudur?",
+      "choices": [
+        "Kırkambar sözleşmesi geminin tamamının tahsisidir. Elverişlilik borcu yoktur.",
+        "Yolculuk çarterinde gemi veya yeri tahsis edilir. Kırkambarda ayırt edilmiş eşya taşınır. Taşıyan gemiyi denize, yola ve yüke elverişli bulundurur. Eksiklik, tedbirli taşıyanın dikkatine rağmen yolculuk başlayana kadar keşfedilemiyorsa sorumluluk doğmaz.",
+        "Navlun sözleşmesi yalnız yolcu taşır.",
+        "Elverişsizlikten doğan her zarar, keşif imkânı olmasa da taşıyana aittir."
+      ],
+      "answer": 1,
+      "reason": "TTK m.1138 yolculuk çarteri ile kırkambarı ayırır. m.1141 elverişlilik borcunu ve yolculuk başlangıcına kadar keşfedilemeyen eksiklikte sorumluluğun doğmamasını düzenler."
+    },
+    "konismento": {
+      "q": "TTK m.1228 ve m.1237 uyarınca konişmento hakkında hangisi doğrudur?",
+      "choices": [
+        "Konişmento yalnız ispat senedidir. Taşıyan eşyayı ibraz aranmadan teslim eder. Hamil ile taşıtan aynı rejime tabidir.",
+        "Konişmento taşıma sözleşmesini ispatlar, eşyanın teslim alındığını veya yüklendiğini gösterir ve taşıyan eşyayı ancak ibraz karşılığında teslim eder. Nama, emre veya hamile düzenlenebilir. Hamil ile taşıyan arasında konişmento, taşıtan ile taşıyan arasında navlun sözleşmesi esas alınır.",
+        "Konişmento yalnız emre yazılıdır.",
+        "Tesellüm konişmentosu yükleme konişmentosuyla hiçbir hâlde aynı hükmü taşımaz."
+      ],
+      "answer": 1,
+      "reason": "TTK m.1228 tanımı, türleri ve tesellüm şerhini, m.1230 meşru hamili, m.1237 hamil ve taşıtan rejimlerinin ayrılmasını düzenler."
+    },
+    "deniz-kazasi": {
+      "q": "TTK m.1272, m.1287 ve m.1288 uyarınca müşterek avarya ve çatma hakkında hangisi doğrudur?",
+      "choices": [
+        "Her deniz zararı müşterek avaryadır. Kusursuz çatmada zararlar yarı yarıya bölüşülür.",
+        "Müşterek avarya, ortak sergüzeşti tehdit eden tehlikeden korumak için bile bile ve makul biçimde yapılan olağanüstü fedakârlık veya giderdir. Kusursuz veya sebebi anlaşılamayan çatmada herkes kendi zararına katlanır. Kusur bir gemideyse zararı o geminin donatanı tazmin eder.",
+        "Kusurlu çatmada zarar, kusursuz geminin donatanına aittir.",
+        "Çatma hükümleri müşterek avaryanın tanımıdır."
+      ],
+      "answer": 1,
+      "reason": "TTK m.1272 müşterek avarya hareketini, m.1287 kusursuz çatmada kendi zararına katlanmayı, m.1288 kusurlu geminin donatanının tazmin borcunu düzenler."
+    },
+    "cevra": {
+      "q": "TTK m.1320, m.1323 ve m.1328 uyarınca gemi alacağı ve sınırlı sorumluluk hakkında hangisi doğrudur?",
+      "choices": [
+        "Gemi alacağı ile sorumluluğun sınırlanması aynı kurumdur. Kanuni rehin, tescilli ipotekten sonra gelir.",
+        "Kanunda sayılan alacaklar, geminin malikine, kiracısına, yöneticisine veya işletenine karşı doğmuşsa gemi alacaklısı hakkı verir. Bu hakkın kanuni rehni tescilli ve tescilsiz rehinlerden önce gelir. Deniz alacaklarından doğan sorumluluk ise 1976 Sözleşmesi ve 1996 Protokolüne göre sınırlanabilir.",
+        "Gemi adamının ücret alacağı gemi alacağı değildir.",
+        "Sınırlama, kanunda yazılı sabit bir Türk lirası tavanıyla yapılır."
+      ],
+      "answer": 1,
+      "reason": "TTK m.1320 gemi alacaklısı hakkını, m.1323 kanuni rehnin önceliğini, m.1328 sınırlamayı 1976 Sözleşmesi ile 1996 Protokolüne bırakır. Tutar maddede sabitlenmez."
+    },
+    "reh-in-gemi": {
+      "q": "TTK m.1014 uyarınca gemi ipoteği hakkında hangisi doğrudur?",
+      "choices": [
+        "Sicile kayıtlı geminin sözleşmesel rehni adi teslimle kurulur. İpotek yalnız muaccel alacak içindir.",
+        "Bir alacağı teminat altına almak için gemi üzerinde ipotek kurulabilir. Sicile kayıtlı geminin sözleşmeye dayalı rehni sadece gemi ipoteğiyle sağlanır. İleride doğabilecek veya şarta bağlı alacak için de kurulabilir.",
+        "Gemi ipoteği alacaklıya geminin mülkiyetini kendiliğinden geçirir.",
+        "İpotek, gemi alacaklısının kanuni rehninden her hâlde önce gelir."
+      ],
+      "answer": 1,
+      "reason": "TTK m.1014 ipoteğin bedelden alma yetkisini ve sicilli gemide sözleşmesel rehnin yalnız ipotek olmasını düzenler. Gemi alacağının kanuni rehni m.1323 uyarınca önce gelir."
+    }
+  }
+}

@@ -351,11 +351,23 @@
                 {
                     "kanunId": "iik",
                     "maddeNo": "184"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "177"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "178"
+                },
+                {
+                    "kanunId": "iik",
+                    "maddeNo": "179"
                 }
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Tacir iflasa tabidir; iflas sebepleri 154+ hattındadır.",
+                "Yetki m.154, iflas ödeme emri m.155, talep süresi m.156'dır. Doğrudan iflas hâlleri m.177 ve devamındadır.",
                 "Masa, bütün alacaklılar içindir."
             ]
         }

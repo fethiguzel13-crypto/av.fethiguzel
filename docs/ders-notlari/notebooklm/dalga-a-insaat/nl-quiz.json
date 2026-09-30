@@ -1,0 +1,106 @@
+{
+  "intro": "Sınav puanı sloganı yazmaktan değil eseri ve bedeli ayırmaktan düşer. Aşağıdaki tuzaklar TBK, İmar Kanunu ve Kamulaştırma Kanunu lafzına dayanır; slayt cümlesi değildir.",
+  "uyari": "Borcun kaynağı bu kâğıdın asıl kapısı değildir. Eser, götürü veya yaklaşık bedel, ayıp, ruhsat ve resmi şekil yazılır. Künye uydurulmaz. OBS bağlayıcıdır.",
+  "guz": [
+    "Eser sözleşmesi ile hizmet sözleşmesi karıştırılmamalıdır; yüklenici bir eser meydana getirmeyi, işsahibi bedel ödemeyi üstlenir (TBK m.470). Yüklenici edimlerini işsahibinin haklı menfaatini gözeterek sadakat ve özenle ifa eder; ölçü, benzer işi üstlenen basiretli yüklenicinin mesleki ve teknik davranışıdır (TBK m.471). Eseri kural olarak kendisi veya yönetimi altında yapar; kişisel özellikleri önem taşımıyorsa başkasına da yaptırabilir.",
+    "Malzemeyi kimin sağladığı sorumluluğu değiştirir; yüklenici sağlamışsa ayıptan işsahibine karşı satıcı gibi sorumludur (TBK m.472). İşsahibi sağlamışsa yüklenici özenle kullanır, hesap verir ve artanı geri verir. İşsahibinin malzemesi veya gösterdiği yer ayıplıysa ya da eserin gereği gibi veya zamanında yapılmasını tehlikeye düşüren bir durum çıkarsa yüklenici bunu hemen bildirir; bildirmezse sonuçtan sorumlu olur.",
+    "Ayıp bildirimi ile seçimlik hak karıştırılmamalıdır; işsahibi teslimden sonra işlerin olağan akışına göre imkân bulunur bulmaz eseri gözden geçirir ve ayıbı uygun sürede bildirir (TBK m.474). Seçimlik haklar, eser kullanılamayacak veya hakkaniyet gereği kabule zorlanamayacak ölçüde ayıplıysa sözleşmeden dönme, eseri alıkoyup ayıp oranında bedelden indirim ve aşırı masraf gerektirmiyorsa ücretsiz onarımdır (TBK m.475). Eser işsahibinin taşınmazı üzerinde yapılmış ve sökülmesi aşırı zarar doğuracaksa dönme kullanılamaz. Ayıp, yüklenicinin açık ihtarına rağmen işsahibinin talimatından veya işsahibine yüklenebilecek bir sebepten doğmuşsa işsahibi bu hakları kullanamaz (TBK m.476).",
+    "Kabul ile tazminat karşılığı fesih karıştırılmamalıdır; eser açıkça veya örtülü kabul edilince yüklenici sorumluluktan kurtulur, ancak kasten gizlediği ve usulüne göre gözden geçirmede fark edilemeyecek ayıplar bundan müstesnadır (TBK m.477). Gözden geçirme ve bildirim ihmal edilirse eser kabul edilmiş sayılır. Sonradan çıkan ayıp gecikmeksizin bildirilmezse de kabul sayılır. Yüklenicinin işi kararlaştırılan zamanda bitiremeyeceği açıkça anlaşılırsa işsahibi teslim gününü beklemeden dönebilir (TBK m.473). İşsahibi, tamamlanan kısmın karşılığını ödemek ve yüklenicinin bütün zararlarını gidermek koşuluyla eseri tamamlanmadan feshedebilir (TBK m.484)."
+  ],
+  "bahar": [
+    "Götürü bedel ile yaklaşık bedel karıştırılmamalıdır; bedel götürü belirlenmişse yüklenici eseri o bedelle yapmak zorundadır ve fazla emek veya masraf artsa bile artırım isteyemez (TBK m.480). Öngörülemeyen veya öngörülüp de göz önünde tutulmayan durumlar götürü bedelle yapmayı engeller veya son derece güçleştirirse yüklenici uyarlama, bu mümkün değilse dönme, dürüstlük gerektiriyorsa yalnız fesih isteyebilir. Eser daha az emek gerektirmiş olsa bile işsahibi belirlenen bedelin tamamını öder. Bedel önceden veya yaklaşık belirlenmişse, yapıldığı yer ve zamandaki değere ve yüklenicinin giderine bakılarak belirlenir (TBK m.481). Yaklaşık bedelin işsahibinin kusuru olmaksızın aşırı aşılacağı anlaşılırsa işsahibi eser tamamlanmadan veya tamamlandıktan sonra dönebilir; eser onun arsası üzerindeyse indirim isteyebilir veya işi durdurup tamamlanan kısım için hakkaniyete uygun bedel ödeyerek feshedebilir (TBK m.482).",
+    "Yapı, kuruluşa veya kişiye ait tapulu arazi, arsa veya parselde ya da kamu kurumunun tahsis veya irtifak belgesiyle, imar planı, yönetmelik, ruhsat ve eklerine uygun yapılabilir (İmarK m.20). Kapsamdaki yapılar için yapı ruhsatı aranır (İmarK m.21).",
+    "Ruhsatsız veya ruhsat ve eklerine aykırı başlanan yapı, belediye veya valilikçe mühürlenir ve inşaat derhal durdurulur; yapı sahibi en çok bir ay içinde ruhsata uygun hale getirerek veya ruhsat alarak mühürün kaldırılmasını ister (İmarK m.32). Aykırılığın tespitinden itibaren on iş günü içinde encümen, her bir sorumluluk için ayrı idari müeyyide uygular (İmarK m.42).",
+    "Kamulaştırma bedeli kural olarak nakden ve peşin ödenir; kanunda sayılan büyük proje hâllerinde peşin kısım o yıl bütçesindeki miktardır, bedelin altıda birinden az olamaz ve kalan en fazla beş yılda eşit taksitle ödenir (2942 m.3). O toprağı doğrudan işleyen küçük çiftçinin bedeli her hâlde peşindir. Tapuda kayıtlı taşınmazda satın alma usulü esastır (2942 m.8). Satın alma olmazsa bedel ve tescil, taşınmazın bulunduğu yer asliye hukuk mahkemesinden istenir (2942 m.10). Malik otuz gün içinde idari yargıda iptal ve maddi hata için adli yargıda düzeltim davası açabilir (2942 m.14). Kat karşılığı, eser meydana getirme (TBK m.470) ile arsa payı temlikinin birleşimidir. Taşınmaz satışı ve taşınmaz satışı vaadi resmi şekilde düzenlenmedikçe geçerli olmaz (TBK m.237)."
+  ],
+  "mcq": {
+    "eser-insaat": {
+      "q": "TBK m.470 ve m.471 uyarınca eser sözleşmesi hakkında hangisi doğrudur?",
+      "choices": [
+        "Eser sözleşmesinde yüklenici yalnız faaliyetini borçlanır; sonuç meydana gelmese de bedele hak kazanır.",
+        "Yüklenici bir eser meydana getirmeyi, işsahibi bedel ödemeyi üstlenir. Yüklenici sadakat ve özenle ifa eder; ölçü, benzer işi üstlenen basiretli yüklenicinin mesleki ve teknik davranışıdır.",
+        "Yüklenici eseri her hâlde bizzat yapmak zorundadır; kişisel özellik aranmasa da başkasına bıraktıramaz.",
+        "Özen borcu, işsahibinin talimatına körü körüne uymakla yerine gelir."
+      ],
+      "answer": 1,
+      "reason": "TBK m.470 eser sözleşmesini eser meydana getirme ve bedel olarak tanımlar. m.471 sadakat ve özeni basiretli yüklenici ölçüsüne bağlar; kişisel özellik önem taşımıyorsa iş başkasına da yaptırılabilir."
+    },
+    "bedel-insaat": {
+      "q": "TBK m.480 ve m.482 uyarınca bedel hakkında hangisi doğrudur?",
+      "choices": [
+        "Götürü bedelde yüklenici fazla masrafını her hâlde isteyebilir. Yaklaşık bedel aşılırsa işsahibi dönemez.",
+        "Götürü bedelde yüklenici, fazla emek ve masraf gerekse bile artırım isteyemez. Öngörülemeyen durum yapmayı engeller veya son derece güçleştirirse uyarlama veya dönme hakkı vardır. Yaklaşık bedel işsahibinin kusuru olmaksızın aşırı aşılacaksa işsahibi dönebilir.",
+        "Eser daha az masrafla yapılmışsa işsahibi bedeli kendiliğinden indirir.",
+        "Yaklaşık bedel, sözleşmede yazılan rakamın üstüne hiç çıkamaz."
+      ],
+      "answer": 1,
+      "reason": "TBK m.480 götürü bedelde artırım yasağını ve öngörülemeyen güçlükte uyarlama veya dönmeyi koyar. Az masrafta işsahibi yine tam bedeli öder. m.482 yaklaşık bedelin aşırı aşılmasında dönmeyi düzenler."
+    },
+    "ayip-insaat": {
+      "q": "TBK m.474 ve m.475 uyarınca eserde ayıp hakkında hangisi doğrudur?",
+      "choices": [
+        "İşsahibi ayıbı teslimden önce bildirmek zorunda değildir ve her ayıpta serbestçe sözleşmeden dönebilir.",
+        "İşsahibi teslimden sonra eseri olağan akışa göre gözden geçirir ve ayıbı uygun sürede bildirir. Seçimlik haklar dönme, ayıp oranında bedelden indirim ve aşırı masraf gerektirmiyorsa ücretsiz onarımdır. Taşınmaz üzerindeki eserin sökülmesi aşırı zarar doğuracaksa dönme kullanılamaz.",
+        "Ücretsiz onarım masrafı ne olursa olsun istenebilir.",
+        "İşsahibinin talimatı ayıba yol açsa da yüklenici her hâlde sorumludur."
+      ],
+      "answer": 1,
+      "reason": "TBK m.474 gözden geçirme ve bildirim külfetini, m.475 üç seçimlik hakkı ve taşınmazda sökmenin aşırı zararında dönme yasağını koyar. m.476 işsahibinin talimatından doğan ayıpta hakları kapatır."
+    },
+    "teslim-insaat": {
+      "q": "TBK m.477 ve m.484 uyarınca kabul ve fesih hakkında hangisi doğrudur?",
+      "choices": [
+        "Kabul, kasten gizlenen ayıp dâhil her sorumluluğu düşürür. Fesih için zararın giderilmesi aranmaz.",
+        "Açık veya örtülü kabulden sonra yüklenici sorumluluktan kurtulur; kasten gizlenen ve usulüne göre gözden geçirmede fark edilemeyecek ayıp müstesnadır. İşsahibi, tamamlanan kısmın karşılığını ödemek ve bütün zararları gidermek koşuluyla eseri tamamlanmadan feshedebilir.",
+        "Gözden geçirmeyi ihmal etmek kabul sayılmaz.",
+        "Fesih yalnız eser tamamlandıktan sonra mümkündür."
+      ],
+      "answer": 1,
+      "reason": "TBK m.477 kabulün sorumluluğu düşürdüğünü ve kasten gizlenen ayıbı istisna tuttuğunu, gözden geçirme ihmalini kabul saydığını düzenler. m.484 tazminat karşılığı fesihtir."
+    },
+    "imar-ruhsat-insaat": {
+      "q": "İmar Kanunu m.20 uyarınca yapı hakkında hangisi doğrudur?",
+      "choices": [
+        "Yapı, tapu veya tahsis aranmaksızın her arazide ve ruhsatsız yapılabilir.",
+        "Yapı, tapusu bulunan arazide veya kamu kurumunun tahsis ya da irtifak belgesiyle, imar planı, yönetmelik, ruhsat ve eklerine uygun yapılabilir.",
+        "Ruhsat, yalnız kat mülkiyetine geçerken aranır.",
+        "İmar planına aykırı yapı, malzeme işsahibinden sağlandıysa serbesttir."
+      ],
+      "answer": 1,
+      "reason": "İmar Kanunu m.20 yapıyı tapu veya tahsis/irtifak belgesi üzerinde, plan, yönetmelik, ruhsat ve eklerine uygun olma şartına bağlar. Ruhsat zorunluluğu m.21'dedir."
+    },
+    "kacak-yapi": {
+      "q": "İmar Kanunu m.32 uyarınca ruhsatsız yapı hakkında hangisi doğrudur?",
+      "choices": [
+        "Ruhsatsız yapı yalnız eser sözleşmesinin feshiyle durdurulur; idare mühür koyamaz.",
+        "Ruhsat alınmadan veya ruhsat ve eklerine aykırı başlanan yapı mühürlenir ve inşaat derhal durdurulur. Yapı sahibi en çok bir ay içinde ruhsata uygun hale getirerek veya ruhsat alarak mühürün kaldırılmasını ister.",
+        "Mühür, taşınmazın mülkiyetini idareye geçirir.",
+        "Bir aylık süre dolunca yapı kendiliğinden ruhsatlı sayılır."
+      ],
+      "answer": 1,
+      "reason": "İmar Kanunu m.32 mühür ve derhal durdurmayı, en çok bir aylık uygun hale getirme veya ruhsat alma süresini koyar. İdari müeyyide m.42'dedir."
+    },
+    "kamulastirma-insaat": {
+      "q": "2942 sayılı Kanun m.3 ve m.8 uyarınca kamulaştırma hakkında hangisi doğrudur?",
+      "choices": [
+        "Kamulaştırma bedeli her hâlde beş yılda taksitle ödenir. Satın alma usulü yasaktır.",
+        "Bedel kural olarak nakden ve peşin ödenir. Kanunda sayılan büyük projelerde peşin kısım bedelin altıda birinden az olamaz. Küçük çiftçinin doğrudan işlediği toprağın bedeli her hâlde peşindir. Tapuda kayıtlı taşınmazda satın alma usulü esastır.",
+        "Bedel davası idari yargıda açılır ve satın almadan önce görülür.",
+        "Küçük çiftçiye ait toprak beş yıllık takside bağlanır."
+      ],
+      "answer": 1,
+      "reason": "2942 m.3 peşin ödemeyi, sayılan projelerde taksidi ve altıda bir sınırını, küçük çiftçi bedelinin peşin ödenmesini düzenler. m.8 tapuda kayıtlı taşınmazda satın almayı öncelikli sayar."
+    },
+    "kat-karsiligi": {
+      "q": "TBK m.237 ve m.470 uyarınca kat karşılığı inşaat hakkında hangisi doğrudur?",
+      "choices": [
+        "Kat karşılığı yalnız adi yazılı eser sözleşmesidir. Arsa payının temliki şekle bağlı değildir.",
+        "Yüklenicinin edimi bir eser meydana getirmektir. Taşınmaz satışı ve taşınmaz satışı vaadi, resmi şekilde düzenlenmedikçe geçerli olmaz.",
+        "Taşınmaz satış vaadi yazılı şekilde yeterlidir. Resmi şekil yalnız önalımda aranır.",
+        "Önalım sözleşmesi de resmi şekle tabidir."
+      ],
+      "answer": 1,
+      "reason": "TBK m.470 eser sözleşmesini tanımlar. m.237 taşınmaz satışı ile satış vaadi, geri alım ve alım sözleşmelerini resmi şekle bağlar. Önalımın geçerliliği yazılı şekle bağlıdır."
+    }
+  }
+}

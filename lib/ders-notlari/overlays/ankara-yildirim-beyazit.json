@@ -580,6 +580,325 @@
                     "note": "fakülte kimliği"
                 }
             ]
+        },
+        "tuketici-hukuku": {
+            "cityHook": "Esenboğa yolunda bir mesafeli sipariş ve cayma",
+            "mehaz": "Ankara dogmatiği; 6502 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TKHK maddesi + tüketici kurumu + olaya yedirme.",
+                "tips": [
+                    "AYBÜ kâğıdında tüketici işlemi ilk cümlede durur.",
+                    "Cayma hakkını ayıp seçimlik hakkının yerine koymayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "tüketici",
+                "ayıplı mal",
+                "ayıplı hizmet",
+                "mesafeli sözleşme",
+                "haksız şart",
+                "taksitli satış",
+                "uyuşmazlık"
+            ],
+            "schoolNotes": [
+                "AYBÜ dönemlik okur; tüketici hukuku 6502 lafzına bağlanır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "AYBÜ Hukuk ders programı sayfası",
+                    "url": "https://aybu.edu.tr/Hukuk/tr/sayfa/1058/Ders-Programı",
+                    "note": "program duyurusu; slayt yok"
+                },
+                {
+                    "title": "AYBÜ Hukuk Fakültesi",
+                    "url": "https://aybu.edu.tr/hukuk",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "vergi-hukuku": {
+            "cityHook": "Esenboğa yolunda bir re'sen tarh ve beyanname",
+            "mehaz": "Ankara dogmatiği; VUK lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: VUK maddesi + vergi kurumu + olaya yedirme.",
+                "tips": [
+                    "AYBÜ kâğıdında vergi alacağının doğumu ilk cümlede durur.",
+                    "Beş yıllık tarh zamanaşımını tahsil zamanaşımı sanmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "vergiyi doğuran olay",
+                "mükellef",
+                "tarh",
+                "re'sen tarh",
+                "zamanaşımı",
+                "vergi cezası",
+                "gelir vergisi",
+                "katma değer vergisi"
+            ],
+            "schoolNotes": [
+                "AYBÜ dönemlik okur; vergi hukuku VUK lafzına bağlanır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "AYBÜ Hukuk ders programı sayfası",
+                    "url": "https://aybu.edu.tr/Hukuk/tr/sayfa/1058/Ders-Programı",
+                    "note": "program duyurusu; slayt yok"
+                },
+                {
+                    "title": "AYBÜ Hukuk Fakültesi",
+                    "url": "https://aybu.edu.tr/hukuk",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "sigorta-hukuku": {
+            "cityHook": "Esenboğa yolunda bir kasko ihbarı ve halefiyet",
+            "mehaz": "Ankara dogmatiği; TTK m.1401 ve devamı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + sigorta kurumu + olaya yedirme.",
+                "tips": [
+                    "AYBÜ kâğıdında sigorta sözleşmesinin türü ilk cümlede durur.",
+                    "Eksik sigortayı aşkın sigorta sanmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "sigorta sözleşmesi",
+                "riziko",
+                "prim",
+                "teminat",
+                "beyan ve ihbar",
+                "tazmin ve halefiyet",
+                "hayat sigortası",
+                "sona erme ve zamanaşımı"
+            ],
+            "schoolNotes": [
+                "AYBÜ dönemlik okur; sigorta TTK lafzına bağlanır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "AYBÜ Hukuk ders programı sayfası",
+                    "url": "https://aybu.edu.tr/Hukuk/tr/sayfa/1058/Ders-Programı",
+                    "note": "program duyurusu; slayt yok"
+                },
+                {
+                    "title": "AYBÜ Hukuk Fakültesi",
+                    "url": "https://aybu.edu.tr/hukuk",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "idare-hukuku": {
+            "cityHook": "Esenboğa yolunda bir ruhsatsız yapı ve mühür",
+            "mehaz": "Ankara dogmatiği; İmar Kanunu m.32 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: kanun maddesi + idare kurumu + olaya yedirme.",
+                "tips": [
+                    "AYBÜ kâğıdında görev ile yetki ilk cümlede ayrılır.",
+                    "Satın alma usulünü bedel davasının yerine koymayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "hemşehri ve görev",
+                "belediye organı",
+                "memur",
+                "yetki",
+                "disiplin",
+                "kamulaştırma",
+                "imar",
+                "vali ve kaymakam"
+            ],
+            "schoolNotes": [
+                "AYBÜ dönemlik okur; idare hukuku kanun lafzına bağlanır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "AYBÜ Hukuk ders programı sayfası",
+                    "url": "https://aybu.edu.tr/Hukuk/tr/sayfa/1058/Ders-Programı",
+                    "note": "program duyurusu; slayt yok"
+                },
+                {
+                    "title": "AYBÜ Hukuk Fakültesi",
+                    "url": "https://aybu.edu.tr/hukuk",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "insaat-hukuku": {
+            "cityHook": "Esenboğa yolunda bir yaklaşık bedel aşımı",
+            "mehaz": "Ankara dogmatiği; TBK m.480 ve m.482 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TBK veya İmar maddesi + inşaat kurumu + olaya yedirme.",
+                "tips": [
+                    "AYBÜ kâğıdında bedel türü ilk cümlede durur.",
+                    "Kabulden sonra açık ayıbı gizlenmiş ayıp sanmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "eser sözleşmesi",
+                "bedel",
+                "ayıp",
+                "teslim ve fesih",
+                "ruhsat",
+                "ruhsatsız yapı",
+                "kamulaştırma",
+                "kat karşılığı"
+            ],
+            "schoolNotes": [
+                "AYBÜ dönemlik okur; inşaat hukuku TBK ve imar lafzına bağlanır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "AYBÜ Hukuk ders programı sayfası",
+                    "url": "https://aybu.edu.tr/Hukuk/tr/sayfa/1058/Ders-Programı",
+                    "note": "program duyurusu; slayt yok"
+                },
+                {
+                    "title": "AYBÜ Hukuk Fakültesi",
+                    "url": "https://aybu.edu.tr/hukuk",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "rekabet-hukuku": {
+            "cityHook": "Esenboğa yolunda bir bildirilmemiş devralma",
+            "mehaz": "Ankara dogmatiği; 4054 m.7 ve m.11 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: 4054 maddesi + ihlal türü + olaya yedirme.",
+                "tips": [
+                    "AYBÜ kâğıdında birleşme ile anlaşmayı ayırın.",
+                    "Muafiyetin dört şartını eksik saymayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "teşebbüs",
+                "anlaşma",
+                "hâkim durum",
+                "birleşme",
+                "muafiyet",
+                "soruşturma",
+                "kurul",
+                "idari para cezası"
+            ],
+            "schoolNotes": [
+                "AYBÜ dönemlik okur; rekabet 4054 lafzına bağlanır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "AYBÜ Hukuk ders programı sayfası",
+                    "url": "https://aybu.edu.tr/Hukuk/tr/sayfa/1058/Ders-Programı",
+                    "note": "program duyurusu; slayt yok"
+                },
+                {
+                    "title": "AYBÜ Hukuk Fakültesi",
+                    "url": "https://aybu.edu.tr/hukuk",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "arabuluculuk": {
+            "cityHook": "Esenboğa yolunda bir ilk toplantı tutanağı",
+            "mehaz": "Ankara dogmatiği; 6325 m.16 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: 6325 maddesi + süreç + olaya yedirme.",
+                "tips": [
+                    "AYBÜ kâğıdında sürecin başlangıcını yazın.",
+                    "Zamanaşımının işlemeye devam ettiğini sanmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "iradi olma",
+                "gizlilik",
+                "arabulucu",
+                "ücret",
+                "ilk toplantı",
+                "süreç",
+                "anlaşma",
+                "dava şartı"
+            ],
+            "schoolNotes": [
+                "AYBÜ dönemlik okur; arabuluculuk 6325 lafzına bağlanır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "AYBÜ Hukuk ders programı sayfası",
+                    "url": "https://aybu.edu.tr/Hukuk/tr/sayfa/1058/Ders-Programı",
+                    "note": "program duyurusu; slayt yok"
+                },
+                {
+                    "title": "AYBÜ Hukuk Fakültesi",
+                    "url": "https://aybu.edu.tr/hukuk",
+                    "note": "fakülte kimliği"
+                }
+            ]
+        },
+        "deniz-ticareti": {
+            "cityHook": "Esenboğa yolunda bir kırkambar ve çarter",
+            "mehaz": "Ankara dogmatiği; TTK m.1138 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + deniz kurumu + olaya yedirme.",
+                "tips": [
+                    "AYBÜ kâğıdında navlun türü ilk cümlede durur.",
+                    "Kusursuz çatmayı kusurlu çatma sanmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "gemi",
+                "donatan",
+                "kaptan",
+                "navlun",
+                "konişmento",
+                "müşterek avarya",
+                "gemi alacağı",
+                "gemi ipoteği"
+            ],
+            "schoolNotes": [
+                "AYBÜ dönemlik okur; deniz ticareti TTK lafzına bağlanır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "AYBÜ Hukuk ders programı sayfası",
+                    "url": "https://aybu.edu.tr/Hukuk/tr/sayfa/1058/Ders-Programı",
+                    "note": "program duyurusu; slayt yok"
+                },
+                {
+                    "title": "AYBÜ Hukuk Fakültesi",
+                    "url": "https://aybu.edu.tr/hukuk",
+                    "note": "fakülte kimliği"
+                }
+            ]
         }
     }
 }

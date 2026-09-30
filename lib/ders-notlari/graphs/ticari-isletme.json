@@ -255,7 +255,7 @@
                 "işletmenin devri"
             ],
             "organicLinks": [
-                "Temsil, TBK temsilinden TTK özel hükümleriyle ayrılır.",
+                "Ticari mümessil TBK m.547'dedir; TTK m.547 ek tasfiyedir.",
                 "Şube, merkezin uzantısıdır."
             ],
             "statuteRefs": [
@@ -268,8 +268,12 @@
                     "maddeNo": "105"
                 },
                 {
-                    "kanunId": "ttk",
+                    "kanunId": "tbk",
                     "maddeNo": "547"
+                },
+                {
+                    "kanunId": "tbk",
+                    "maddeNo": "549"
                 },
                 {
                     "kanunId": "ttk",
@@ -278,8 +282,8 @@
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Ticari mümessil geniş yetkilidir; sınırlama iyiniyetli üçüncü kişiye karşı tescilsiz ileri sürülemez.",
-                "İşletme devri borçları da taşır (kural)."
+                "Ticari mümessil TBK m.547'dedir; TTK m.547 ek tasfiyedir.",
+                "Yetki sınırlaması tescil edilmedikçe iyiniyetli üçüncü kişiye karşı hüküm doğurmaz (TBK m.549)."
             ]
         }
     ]

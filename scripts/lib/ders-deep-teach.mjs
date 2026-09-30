@@ -205,15 +205,15 @@ const IS_HUKUKU = {
       'İş Kanunu kapsamı (m.4 istisnaları) önce bakılır. Belirli / belirsiz süreli ayrımı objektif nedene bağlıdır. Zincirleme belirli süre belirsize döner. Kısmi süre ve çağrı üzerine çalışma orantılı haklar doğurur.',
     ]),
     S('Fesih haritası', [
-      'Bildirimli fesih ihbar süresine bağlıdır (m.17). Haklı fesih derhal olur (işçi m.24, işveren m.25). Geçerli fesih iş güvencesinde (30 işçi + 6 ay) işe iadeyi ilgilendirir. Üçü aynı şey değildir.',
-      'İşe iadede süreler kısadır: tebliğden 1 ay arabuluculuk, tutanak sonrası 2 hafta dava. Kıdem, haklı/geçerli/istifa ayrımına göre doğar veya doğmaz. İbraname şekle bağlıdır; peşin feragat çoğu kez düşer.',
+      'Bildirimli fesih ihbar süresine bağlıdır (m.17) ve süreler iki, dört, altı ve sekiz hafta olarak asgaridir. Haklı fesih derhal olur (işçi m.24, işveren m.25). Geçerli fesih, otuz veya daha fazla işçili işyerinde belirsiz süreli işçiyi ilgilendirir; altı aylık kıdem şartı yer altı işlerinde aranmaz. Üçü aynı şey değildir.',
+      'İşe iadede tebliğden bir ay içinde arabuluculuk, son tutanaktan itibaren iki hafta içinde dava açılır. İşe başlatmama tazminatı dört ila sekiz aylık ücrettir ve boşta geçen süre en çok dört aydır. Altı iş günü ile bir yıl yalnız ahlak ve iyiniyet hâllerindeki derhal feshi sınırlar (m.26). Kıdem, 1475 m.14’te sayılan sona erme hâllerinde doğar; işverenin m.25/II feshi ve salt istifa kural olarak doğurmaz.',
     ], {
-      hapBilgi: 'Haklı ≠ geçerli ≠ bildirimli. Önce türü yazın.',
-      uyari: 'İşe iade sürelerini kıdem zamanaşımıyla karıştırmayın.',
+      hapBilgi: 'Haklı, geçerli ve bildirimli fesih ayrı kapılardır. Önce türü yazın.',
+      uyari: 'm.26’daki altı iş günü sağlık ve zorlayıcı sebep bentlerine uygulanmaz. İşe iade süreleri kıdem hesabıyla karıştırılmaz.',
     }),
     S('Kıdem, ihbar, işçilik alacakları', [
-      'Kıdem: en az 1 yıl + kanunda sayılan ayrılış. Giydirilmiş brüt × yıl, tavan keser. İstifa kural olarak vermez; emeklilik, askerlik, evlilik (kadın, 1 yıl) istisnadır.',
-      'İhbar, süreyi kullandırmayan tarafın borcudur. Fazla mesai, UBGT, izin ücreti ayrı kalemlerdir; ispat ve zamanaşımı (çoğu 5 yıl) yazılır. Arabuluculuk dava şartıdır.',
+      'Kıdem, 1475 sayılı Kanunun yürürlükte kalan 14. maddesinde sayılan ayrılışta, her tam yıl için otuz günlük giydirilmiş ücret olarak doğar ve artan süreler aynı oranla ödenir. Tavan, en yüksek devlet memurunun bir hizmet yılı azami emeklilik ikramiyesine bağlıdır; sabit lira yazılmaz. Maddenin 17/II ve 16. madde göndermeleri bugün 4857 m.25/II ve m.24’tür. İstifa kural olarak vermez; emeklilik, askerlik ve kadının evlendiği tarihten itibaren bir yıl içindeki kendi arzusu istisnadır.',
+      'İhbar, bildirim süresini kullandırmayan tarafın borcudur ve 4857 m.17’dedir. Fazla çalışma, hafta tatili ve kullanılmayan izin ücreti ayrı kalemlerdir. Ücret alacağında zamanaşımı beş yıldır (m.32). İşe iade uyuşmazlığında arabuluculuk dava şartıdır.',
     ]),
   ],
   examples: [

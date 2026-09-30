@@ -503,6 +503,285 @@
                     "note": "fakülte kimliği; izlence ders sayfası"
                 }
             ]
+        },
+        "tuketici-hukuku": {
+            "cityHook": "Bilkent yurdunda consumer vs merchant tartışması",
+            "mehaz": "Karşılaştırmalı consumer; kâğıtta 6502 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TKHK maddesi + tüketici kurumu + olaya yedirme.",
+                "tips": [
+                    "Bilkent kâğıdında consumer cümlesi 6502 tüketici tanımının yerine geçmez.",
+                    "Unfair term haksız şartın yazılmamış sayılmasını silmez.",
+                    "Künye yoksa E./K. yazılmaz."
+                ]
+            },
+            "syllabusOrder": [
+                "tüketici",
+                "ayıplı mal",
+                "ayıplı hizmet",
+                "mesafeli sözleşme",
+                "haksız şart",
+                "taksitli satış",
+                "uyuşmazlık"
+            ],
+            "schoolNotes": [
+                "Bilkent tüketici hukukunda issue spotting unsur listesinin yerine geçmez.",
+                "6502 lafzı Türkçe kâğıtta yazılır."
+            ],
+            "sources": [
+                {
+                    "title": "Bilkent Faculty of Law",
+                    "url": "https://law.bilkent.edu.tr/",
+                    "note": "fakülte kimliği; izlence ders sayfası"
+                }
+            ]
+        },
+        "vergi-hukuku": {
+            "cityHook": "Bilkent yurdunda assessment vs accrual tartışması",
+            "mehaz": "Karşılaştırmalı tax; kâğıtta VUK lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: VUK maddesi + vergi kurumu + olaya yedirme.",
+                "tips": [
+                    "Bilkent kâğıdında assessment cümlesi VUK m.20 tarhın yerine geçmez.",
+                    "Tax fraud, m.359 kaçakçılığının unsurunu silmez.",
+                    "Künye yoksa E./K. yazılmaz."
+                ]
+            },
+            "syllabusOrder": [
+                "vergiyi doğuran olay",
+                "mükellef",
+                "tarh",
+                "re'sen tarh",
+                "zamanaşımı",
+                "vergi cezası",
+                "gelir vergisi",
+                "katma değer vergisi"
+            ],
+            "schoolNotes": [
+                "Bilkent vergi hukukunda issue spotting unsur listesinin yerine geçmez.",
+                "VUK lafzı Türkçe kâğıtta yazılır."
+            ],
+            "sources": [
+                {
+                    "title": "Bilkent Faculty of Law",
+                    "url": "https://law.bilkent.edu.tr/",
+                    "note": "fakülte kimliği; izlence ders sayfası"
+                }
+            ]
+        },
+        "sigorta-hukuku": {
+            "cityHook": "Bilkent yurdunda insurable interest tartışması",
+            "mehaz": "Karşılaştırmalı insurance; kâğıtta TTK lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + sigorta kurumu + olaya yedirme.",
+                "tips": [
+                    "Bilkent kâğıdında insurable interest cümlesi TTK m.1408'in yerine geçmez.",
+                    "Subrogation, ödemeden önce doğmuş sayılmaz.",
+                    "Künye yoksa E./K. yazılmaz."
+                ]
+            },
+            "syllabusOrder": [
+                "sigorta sözleşmesi",
+                "riziko",
+                "prim",
+                "teminat",
+                "beyan ve ihbar",
+                "tazmin ve halefiyet",
+                "hayat sigortası",
+                "sona erme ve zamanaşımı"
+            ],
+            "schoolNotes": [
+                "Bilkent sigorta hukukunda issue spotting unsur listesinin yerine geçmez.",
+                "TTK lafzı Türkçe kâğıtta yazılır."
+            ],
+            "sources": [
+                {
+                    "title": "Bilkent Faculty of Law",
+                    "url": "https://law.bilkent.edu.tr/",
+                    "note": "fakülte kimliği; izlence ders sayfası"
+                }
+            ]
+        },
+        "idare-hukuku": {
+            "cityHook": "Bilkent yurdunda ultra vires tartışması",
+            "mehaz": "Karşılaştırmalı administrative law; kâğıtta 5393 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: kanun maddesi + idare kurumu + olaya yedirme.",
+                "tips": [
+                    "Bilkent kâğıdında ultra vires cümlesi m.15 yetki listesinin yerine geçmez.",
+                    "Dismissal, görevden uzaklaştırma tedbirini silmez.",
+                    "Künye yoksa E./K. yazılmaz."
+                ]
+            },
+            "syllabusOrder": [
+                "hemşehri ve görev",
+                "belediye organı",
+                "memur",
+                "yetki",
+                "disiplin",
+                "kamulaştırma",
+                "imar",
+                "vali ve kaymakam"
+            ],
+            "schoolNotes": [
+                "Bilkent idare hukukunda issue spotting unsur listesinin yerine geçmez.",
+                "Kanun lafzı Türkçe kâğıtta yazılır."
+            ],
+            "sources": [
+                {
+                    "title": "Bilkent Faculty of Law",
+                    "url": "https://law.bilkent.edu.tr/",
+                    "note": "fakülte kimliği; izlence ders sayfası"
+                }
+            ]
+        },
+        "insaat-hukuku": {
+            "cityHook": "Bilkent yurdunda lump sum versus cost plus tartışması",
+            "mehaz": "Karşılaştırmalı construction; kâğıtta TBK lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TBK veya İmar maddesi + inşaat kurumu + olaya yedirme.",
+                "tips": [
+                    "Bilkent kâğıdında lump sum cümlesi TBK m.480'in yerine geçmez.",
+                    "Acceptance, kasten gizlenen ayıbı silmez.",
+                    "Künye yoksa E./K. yazılmaz."
+                ]
+            },
+            "syllabusOrder": [
+                "eser sözleşmesi",
+                "bedel",
+                "ayıp",
+                "teslim ve fesih",
+                "ruhsat",
+                "ruhsatsız yapı",
+                "kamulaştırma",
+                "kat karşılığı"
+            ],
+            "schoolNotes": [
+                "Bilkent inşaat hukukunda issue spotting unsur listesinin yerine geçmez.",
+                "TBK lafzı Türkçe kâğıtta yazılır."
+            ],
+            "sources": [
+                {
+                    "title": "Bilkent Faculty of Law",
+                    "url": "https://law.bilkent.edu.tr/",
+                    "note": "fakülte kimliği; izlence ders sayfası"
+                }
+            ]
+        },
+        "rekabet-hukuku": {
+            "cityHook": "Bilkent yurdunda cartel versus dominance tartışması",
+            "mehaz": "Karşılaştırmalı antitrust; kâğıtta 4054 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: 4054 maddesi + ihlal türü + olaya yedirme.",
+                "tips": [
+                    "Bilkent kâğıdında cartel cümlesi m.4'ün yerine geçmez.",
+                    "Dominance kendiliğinden ihlal değildir.",
+                    "Künye yoksa E./K. yazılmaz."
+                ]
+            },
+            "syllabusOrder": [
+                "teşebbüs",
+                "anlaşma",
+                "hâkim durum",
+                "birleşme",
+                "muafiyet",
+                "soruşturma",
+                "kurul",
+                "idari para cezası"
+            ],
+            "schoolNotes": [
+                "Bilkent rekabet hukukunda issue spotting unsur listesinin yerine geçmez.",
+                "4054 lafzı Türkçe yazılır."
+            ],
+            "sources": [
+                {
+                    "title": "Bilkent Faculty of Law",
+                    "url": "https://law.bilkent.edu.tr/",
+                    "note": "fakülte kimliği; izlence ders sayfası"
+                }
+            ]
+        },
+        "arabuluculuk": {
+            "cityHook": "Bilkent yurdunda mandatory mediation tartışması",
+            "mehaz": "Karşılaştırmalı mediation; kâğıtta 6325 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: 6325 maddesi + süreç + olaya yedirme.",
+                "tips": [
+                    "Bilkent kâğıdında mandatory cümlesi m.18/A'nın yerine geçmez.",
+                    "Confidentiality, m.5 delil yasağını silmez.",
+                    "Künye yoksa E./K. yazılmaz."
+                ]
+            },
+            "syllabusOrder": [
+                "iradi olma",
+                "gizlilik",
+                "arabulucu",
+                "ücret",
+                "ilk toplantı",
+                "süreç",
+                "anlaşma",
+                "dava şartı"
+            ],
+            "schoolNotes": [
+                "Bilkent arabuluculukta issue spotting unsur listesinin yerine geçmez.",
+                "6325 lafzı Türkçe yazılır."
+            ],
+            "sources": [
+                {
+                    "title": "Bilkent Faculty of Law",
+                    "url": "https://law.bilkent.edu.tr/",
+                    "note": "fakülte kimliği; izlence ders sayfası"
+                }
+            ]
+        },
+        "deniz-ticareti": {
+            "cityHook": "Bilkent yurdunda bill of lading versus charterparty tartışması",
+            "mehaz": "Karşılaştırmalı maritime; kâğıtta TTK lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + deniz kurumu + olaya yedirme.",
+                "tips": [
+                    "Bilkent kâğıdında bill of lading cümlesi m.1237'nin yerine geçmez.",
+                    "Limitation, gemi alacaklısı rehnini silmez.",
+                    "Künye yoksa E./K. yazılmaz."
+                ]
+            },
+            "syllabusOrder": [
+                "gemi",
+                "donatan",
+                "kaptan",
+                "navlun",
+                "konişmento",
+                "müşterek avarya",
+                "gemi alacağı",
+                "gemi ipoteği"
+            ],
+            "schoolNotes": [
+                "Bilkent deniz ticaretinde issue spotting unsur listesinin yerine geçmez.",
+                "TTK lafzı Türkçe yazılır."
+            ],
+            "sources": [
+                {
+                    "title": "Bilkent Faculty of Law",
+                    "url": "https://law.bilkent.edu.tr/",
+                    "note": "fakülte kimliği; izlence ders sayfası"
+                }
+            ]
         }
     }
 }

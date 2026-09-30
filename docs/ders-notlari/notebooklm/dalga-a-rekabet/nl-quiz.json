@@ -1,0 +1,106 @@
+{
+  "intro": "Sınav puanı sloganı yazmaktan değil ihlal türünü ayırmaktan düşer. Aşağıdaki tuzaklar 4054 sayılı Kanun lafzına dayanır; slayt cümlesi değildir.",
+  "uyari": "Ciro eşiği bu kâğıda rakam olarak yazılmaz; hangi birleşmenin izne tabi olduğunu Kurul tebliğle ilan eder. Para cezası yüzdesi ezberlenmez. Künye uydurulmaz. OBS bağlayıcıdır.",
+  "guz": [
+    "Teşebbüs, şirketten geniş olabilir; piyasada mal veya hizmet üreten, pazarlayan, satan gerçek ve tüzel kişilerle, bağımsız karar verebilen ve ekonomik bakımdan bir bütün teşkil eden birimler teşebbüstür (4054 m.3). Rekabet, mal ve hizmet piyasalarında teşebbüsler arasında özgürce ekonomik karar verilebilmesini sağlayan yarıştır. Hâkim durum, belirli bir piyasada rakiplerden ve müşterilerden bağımsız hareket ederek fiyat, arz, üretim ve dağıtım gibi parametreleri belirleyebilme gücüdür. Kanun, Türkiye Cumhuriyeti sınırları içinde mal ve hizmet piyasalarında faaliyet gösteren veya bu piyasaları etkileyen teşebbüslerin rekabeti engelleyici anlaşma, uygulama ve kararları ile hâkim durumun kötüye kullanılmasını kapsar (4054 m.2).",
+    "Anlaşma yasağı amaç veya etkiyle kurulur; belirli bir mal veya hizmet piyasasında doğrudan veya dolaylı olarak rekabeti engelleme, bozma ya da kısıtlama amacını taşıyan veya bu etkiyi doğuran ya da doğurabilecek teşebbüsler arası anlaşmalar, uyumlu eylemler ve teşebbüs birliği kararları hukuka aykırı ve yasaktır (4054 m.4). Fiyat tespiti, pazar paylaşımı, arz veya talep miktarının kontrolü ve boykot bu hâllerdendir.",
+    "Hâkim durumun kendisi yasak değildir; bir veya birden fazla teşebbüsün ülkenin bütününde ya da bir bölümünde hâkim durumunu tek başına veya başkalarıyla kötüye kullanması yasaktır (4054 m.6). Piyasaya girmeyi engellemek, eşit durumdaki alıcılara aynı edimler için farklı şartlar ileri sürmek ve bağlamlı satış bu kötüye kullanma hâllerindendir.",
+    "Birleşme yasağı ile bildirim karıştırılmamalıdır; hâkim durum yaratacak veya güçlendirecek ya da etkin rekabeti önemli ölçüde azaltacak birleşme ve devralma, miras yoluyla iktisap hariç, hukuka aykırı ve yasaktır (4054 m.7). Hangi işlemlerin geçerlilik için Kurula bildirileceğini Kurul tebliğle ilan eder. Bildirilmeyen işlemi Kurul haberdar olunca kendiliğinden inceler; işlem m.7 kapsamında değilse izin verir fakat bildirmeme için para cezası uygular, kapsamdaysa cezayla birlikte işlemin sona erdirilmesine karar verebilir (4054 m.11)."
+  ],
+  "bahar": [
+    "Muafiyet yalnız anlaşma yasağına ilişkindir ve dört şart birlikte aranır: üretim veya dağıtımda ya da ekonomik veya teknik gelişmede iyileşme, tüketicinin yarar sağlaması, ilgili piyasanın önemli bir bölümünde rekabetin ortadan kalkmaması ve sınırlamanın bu amaçlar için zorunlu olandan fazla olmaması (4054 m.5). Şartlar varsa anlaşma, uyumlu eylem ve teşebbüs birliği kararı m.4'ten muaftır. Hâkim durumun kötüye kullanılması bu maddeyle muaf tutulmaz.",
+    "Yerinde inceleme, Kurulun teşebbüs ve teşebbüs birliklerinde defter, fiziki ve elektronik veri ile belge incelemesi, kopya alması, yazılı veya sözlü açıklama istemesi ve mahallinde mal varlığı incelemesidir (4054 m.15). İncelemeyi engellemek veya zorlaştırmak ile izne tabi birleşmeyi izinsiz gerçekleştirmek idari para cezası sebebidir (4054 m.16). Nihai karar, geçici tedbir veya taahhüde uyulmaması ile bilgi ve belgenin süresinde verilmemesi hâlinde, m.16'daki cezalar saklı kalmak üzere her gün için ayrıca ceza uygulanabilir (4054 m.17).",
+    "Kurul, ihbar, şikâyet veya Bakanlığın isteği üzerine ya da re'sen ihlale son verme yetkisini kullanır (4054 m.9). Görev ve yetkileri m.27'dedir.",
+    "Soruşturma, önaraştırma raporunun Kurula tesliminden sonraki on gün içinde Kurulun karar vermesiyle ayrılır (4054 m.41). Soruşturmaya başlanması, taahhüt ve uzlaşma m.43'tedir. Ceza tutarı kâğıda oran ezberi olarak yazılmaz."
+  ],
+  "mcq": {
+    "tesebbus-rekabet": {
+      "q": "4054 sayılı Kanun m.3 uyarınca teşebbüs ve hâkim durum hakkında hangisi doğrudur?",
+      "choices": [
+        "Teşebbüs yalnız ticaret şirketidir. Hâkim durum, pazar payı yüzde ellisini aşmaktır.",
+        "Teşebbüs, piyasada mal veya hizmet üreten, pazarlayan, satan gerçek ve tüzel kişiler ile bağımsız karar verebilen ekonomik bir bütün olan birimlerdir. Hâkim durum, rakiplerden ve müşterilerden bağımsız hareket ederek fiyat, arz, üretim ve dağıtım gibi parametreleri belirleyebilme gücüdür.",
+        "Rekabet, tüketicinin en düşük fiyatı bulmasıdır.",
+        "Teşebbüs birliği yalnız tüzel kişiliği olan derneklerdir."
+      ],
+      "answer": 1,
+      "reason": "4054 m.3 teşebbüsü ekonomik birim olarak, hâkim durumu parametreleri belirleyebilme gücü olarak tanımlar. Pazar payı eşiği maddede yoktur."
+    },
+    "anlasma": {
+      "q": "4054 sayılı Kanun m.4 uyarınca rekabeti sınırlayıcı anlaşma hakkında hangisi doğrudur?",
+      "choices": [
+        "Yasak yalnız yazılı kartel sözleşmesine ilişkindir. Fiyat tespiti serbesttir.",
+        "Rekabeti engelleme, bozma veya kısıtlama amacını taşıyan veya bu etkiyi doğuran ya da doğurabilecek teşebbüsler arası anlaşmalar, uyumlu eylemler ve teşebbüs birliği kararları yasaktır. Fiyat tespiti ve pazar paylaşımı bu hâllerdendir.",
+        "Uyumlu eylem tek teşebbüsün iç kararıdır.",
+        "Yasak yalnız ülkenin tamamındaki pazarlara uygulanır."
+      ],
+      "answer": 1,
+      "reason": "4054 m.4 anlaşma, uyumlu eylem ve teşebbüs birliği kararını amaç veya etki ölçütüyle yasaklar. Fiyat tespiti ve pazar paylaşımı örnek hâllerdendir."
+    },
+    "hakim-durum": {
+      "q": "4054 sayılı Kanun m.6 uyarınca hâkim durum hakkında hangisi doğrudur?",
+      "choices": [
+        "Hâkim durumda olmak kendiliğinden yasaktır.",
+        "Yasak, hâkim durumun tek başına veya başkalarıyla kötüye kullanılmasıdır. Eşit durumdaki alıcılara aynı edimler için farklı şart ileri sürmek kötüye kullanma hâlidir.",
+        "Hâkim durumun kötüye kullanılması m.5 ile kendiliğinden muaftır.",
+        "Ayırımcılık yalnız anlaşma maddesinde düzenlenir, m.6'da yoktur."
+      ],
+      "answer": 1,
+      "reason": "4054 m.6 hâkim durumun kötüye kullanılmasını yasaklar. Eşit durumdaki alıcılara farklı şart ileri sürmek bentlerdendir. Muafiyet m.5, m.4 içindir."
+    },
+    "yogunlasma": {
+      "q": "4054 sayılı Kanun m.7 ve m.11 uyarınca birleşme hakkında hangisi doğrudur?",
+      "choices": [
+        "Her birleşme kendiliğinden geçerlidir ve bildirim gerekmez.",
+        "Etkin rekabeti önemli ölçüde azaltacak birleşme ve devralma, miras yolu hariç, yasaktır. Hangi işlemin izne tabi olduğunu Kurul tebliğle ilan eder. Bildirilmeyen işlemi Kurul kendiliğinden inceler; m.7 kapsamında değilse izin verir fakat bildirmeme için para cezası uygular.",
+        "Bildirmeme hâlinde işlem her hâlde baştan batıldır ve inceleme yapılamaz.",
+        "Miras yoluyla iktisap da m.7 yasağının içindedir."
+      ],
+      "answer": 1,
+      "reason": "4054 m.7 rekabeti önemli ölçüde azaltan birleşme ve devralmayı yasaklar ve mirası istisna tutar. İzne tabi türleri Kurul ilan eder. m.11 bildirmemede re'sen incelemeyi ve kapsam dışındaysa izinle birlikte para cezasını düzenler."
+    },
+    "muafiyet": {
+      "q": "4054 sayılı Kanun m.5 uyarınca muafiyet hakkında hangisi doğrudur?",
+      "choices": [
+        "Dört şarttan biri varsa anlaşma m.4'ten muaftır. Hâkim durumun kötüye kullanılması da muaftır.",
+        "Muafiyet için iyileşme veya gelişme, tüketicinin yarar sağlaması, ilgili piyasanın önemli bölümünde rekabetin kalkmaması ve sınırlamanın zorunlu olandan fazla olmaması şartlarının tamamı aranır. Muafiyet m.4'e ilişkindir.",
+        "Muafiyet süresizdir ve şarta bağlanamaz.",
+        "Teşebbüs muafiyet tespiti için Kurula başvuramaz."
+      ],
+      "answer": 1,
+      "reason": "4054 m.5 dört şartın tamamını arar ve muafiyeti m.4'teki anlaşma, uyumlu eylem ve birlik kararına bağlar. Süre ve şartla verilebilir."
+    },
+    "sorusturma-rekabet": {
+      "q": "4054 sayılı Kanun m.15 uyarınca yerinde inceleme hakkında hangisi doğrudur?",
+      "choices": [
+        "Yerinde inceleme yalnız kâğıt deftere ilişkindir. Elektronik veri incelenemez.",
+        "Kurul, teşebbüsün defterlerini, fiziki ve elektronik ortamdaki verilerini inceleyebilir, kopya ve fiziki örnek alabilir, açıklama isteyebilir ve mal varlığını mahallinde inceleyebilir.",
+        "İncelemeyi engellemek yaptırımsızdır.",
+        "İnceleme ancak Cumhuriyet savcısının her hâlde önceden vereceği arama kararıyla yapılır."
+      ],
+      "answer": 1,
+      "reason": "4054 m.15 defter, elektronik veri, kopya, açıklama ve mahallinde mal varlığı incelemesini düzenler. Engelleme m.16 ve m.17'de yaptırıma bağlanır."
+    },
+    "kurul": {
+      "q": "4054 sayılı Kanun m.9 uyarınca Kurulun ihlale son verme yetkisi hakkında hangisi doğrudur?",
+      "choices": [
+        "Kurul yalnız tarafların ortak başvurusuyla harekete geçer.",
+        "Kurul, ihbar, şikâyet ya da Bakanlığın talebi üzerine veya resen 4, 6 veya 7. maddelerin ihlalini tespit ederse ihlale son vermek için davranış ve yapısal tedbir getirebilir.",
+        "Kurulun görev listesi yoktur.",
+        "İhlale son verme yetkisi yalnız adli yargıdadır."
+      ],
+      "answer": 1,
+      "reason": "4054 m.9 Kurulun ihbar, şikâyet veya re'sen ihlale son verme yetkisini düzenler. Görev ve yetki listesi m.27'dedir."
+    },
+    "ceza-rekabet": {
+      "q": "4054 sayılı Kanun m.16 ve m.17 uyarınca idari para cezası hakkında hangisi doğrudur?",
+      "choices": [
+        "İzne tabi birleşmenin izinsiz yapılması yaptırımsızdır. Günlük ceza yoktur.",
+        "İzne tabi birleşme veya devralmanın Kurul izni olmaksızın gerçekleştirilmesi ve yerinde incelemenin engellenmesi m.16 kapsamındadır. Karar, tedbir veya taahhüde uyulmaması ile bilginin süresinde verilmemesinde, m.16'daki cezalar saklı kalmak üzere her gün için ayrıca ceza uygulanabilir.",
+        "Nispi ceza yalnız teşebbüs birliğinin üyesi olmayan kişilere kesilir.",
+        "Yanlış bilgi vermek ceza sebebi değildir."
+      ],
+      "answer": 1,
+      "reason": "4054 m.16 izinsiz birleşme, yanlış bilgi ve yerinde incelemeyi engellemeyi idari para cezasına bağlar. m.17, m.16'daki cezalar saklı kalmak üzere uyumsuzluk ve süresinde bilgi vermeme hâlinde günlük cezayı düzenler."
+    }
+  }
+}

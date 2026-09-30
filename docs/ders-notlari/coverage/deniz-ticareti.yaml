@@ -15,25 +15,25 @@ bahar:
 institutions:
   - id: gemi
     title: Gemi
-    maddeler: ['931', '932', '935']
+    maddeler: ['931', '932', '935', '936']
   - id: donatan
     title: Donatan ve gemi adamları
-    maddeler: ['936', '947', '954']
+    maddeler: ['1061', '1062']
   - id: kaptan
     title: Kaptan
-    maddeler: ['1097', '1101', '1105']
+    maddeler: ['1088', '1089', '1090']
   - id: navlun
     title: Navlun sözleşmesi
-    maddeler: ['1061', '1062', '1138']
+    maddeler: ['1138', '1139', '1141']
   - id: konismento
     title: Konişmento
     maddeler: ['1228', '1230', '1237']
   - id: deniz-kazasi
     title: Denizde kaza ve müşterek avarya
-    maddeler: ['1183', '1222', '1273']
+    maddeler: ['1272', '1287', '1288']
   - id: cevra
-    title: Cevra ve sınırlı sorumluluk
-    maddeler: ['1320', '1323', '1326']
+    title: Gemi alacağı ve sınırlı sorumluluk
+    maddeler: ['1320', '1323', '1328']
   - id: reh-in-gemi
     title: Gemi üzerinde ayni haklar
     maddeler: ['954', '1013', '1014']

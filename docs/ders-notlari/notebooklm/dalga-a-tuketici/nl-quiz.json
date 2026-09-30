@@ -1,0 +1,94 @@
+{
+  "intro": "Sınav puanı sloganı yazmaktan değil sıfatı ve hakkı ayırmaktan düşer. Aşağıdaki tuzaklar 6502 sayılı Kanun lafzına ve graf unsura dayanır; slayt cümlesi değildir.",
+  "uyari": "TBK satım ayıbı bu kâğıdın asıl kapısı değildir. Tüketici sıfatı, seçimlik hak ve süre yazılır. Parasal sınırın yürürlükteki tutarı yılın tebliğindedir; kanundaki taban rakam donmuş sanılmaz. OBS bağlayıcıdır.",
+  "guz": [
+    "Tüketici sıfatı ile ticari amaç karıştırılmamalıdır; tüketici, ticari veya mesleki olmayan amaçlarla hareket eden gerçek veya tüzel kişidir (TKHK m.3). Tüketicinin edimlerine karşılık alınan şahsi teminatlar her ne isim altında olursa olsun adi kefalet sayılır ve tüketici işlemlerinde bileşik faiz uygulanmaz (TKHK m.4).",
+    "Ayıplı mal teslim anında örneğe, modele veya objektif olarak sahip olması gereken özelliklere aykırı maldır (TKHK m.8). Teslimden itibaren altı ay içinde ortaya çıkan ayıp teslim anında var sayılır ve bunun aksini satıcı ispatlar (TKHK m.10). Seçimlik haklar sözleşmeden dönme, ayıp oranında bedelden indirim, ücretsiz onarım ve imkân varsa ayıpsız misli ile değiştirmedir; onarım ve değiştirmede satıcı, üretici ve ithalatçı müteselsilen sorumludur, süre azami otuz iş günüdür (TKHK m.11). Zamanaşımı teslimden itibaren iki yıl, konut veya tatil amaçlı taşınmazda beş yıldır; ağır kusur veya hile ile gizlenen ayıpta zamanaşımı uygulanmaz (TKHK m.12).",
+    "Ayıplı hizmet ile ayıplı mal karıştırılmamalıdır; hizmetin kararlaştırılan sürede başlamaması veya kararlaştırılan ya da objektif nitelikleri taşımaması ayıplı hizmettir (TKHK m.13). Seçimlik haklar hizmetin yeniden görülmesi, eserin ücretsiz onarımı, ayıp oranında bedelden indirim ve sözleşmeden dönmedir; süre her hâlde otuz iş gününü geçemez (TKHK m.15). Sorumluluk, ifa tarihinden itibaren iki yıllık zamanaşımına tabidir (TKHK m.16)."
+  ],
+  "bahar": [
+    "Mesafeli cayma ile taksitli cayma karıştırılmamalıdır; mesafeli sözleşme eş zamanlı fiziksel varlık olmaksızın uzaktan iletişim aracıyla kurulur ve cayma on dört gündür, bilgilendirme yoksa tüketici bu süreye bağlı değildir, hak her hâlde cayma süresinin bittiği tarihten bir yıl sonra sona erer (TKHK m.48). Taksitle satış yazılı kurulmadıkça geçerli olmaz ve cayma yedi gündür (TKHK m.17, m.18).",
+    "Haksız şart ile genel işlem koşulunun yazılmamış sayılması karıştırılmamalıdır; haksız şart, müzakere edilmeden giren ve dürüstlük kuralına aykırı biçimde tüketici aleyhine dengesizlik yaratan şarttır, kesin olarak hükümsüzdür, sözleşmenin diğer hükümleri geçerliliğini korur ve açık olmayan hüküm tüketici lehine yorumlanır (TKHK m.5).",
+    "Bağlı kredi, münhasıran belirli bir mal veya hizmetin finansmanı için verilen ve tedarik sözleşmesiyle objektif ekonomik birlik oluşturan kredidir (TKHK m.30). Tedarik sözleşmesinden cayma süre içinde kredi verene de bildirilirse bağlı kredi tazminatsız sona erer. Mal veya hizmet hiç ya da gereği gibi teslim veya ifa edilmezse satıcı, sağlayıcı ve kredi veren, dönme veya bedelden indirimde müteselsilen sorumludur; kredi verenin sorumluluğu kullanılan kredi miktarı ile sınırlı olmak üzere bir yıldır.",
+    "Tüketici hakem heyeti ile tüketici mahkemesi karıştırılmamalıdır; değeri kanundaki parasal sınırın altında kalan uyuşmazlıklarda heyete başvuru zorunludur, üzerindeki uyuşmazlıklarda heyete başvurulamaz ve sınır her yıl yeniden değerleme oranında artar (TKHK m.68). Heyet kararı tarafları bağlar, ilamların icrası hükümlerine göre yerine getirilir; tebliğden itibaren iki hafta içinde tüketici mahkemesine itiraz edilir, itiraz icrayı kendiliğinden durdurmaz ve mahkemenin kararı kesindir (TKHK m.70). Tüketici işleminden doğan davalarda görev tüketici mahkemesinindir ve dava tüketicinin yerleşim yerinde de açılabilir (TKHK m.73)."
+  ],
+  "mcq": {
+    "tuketici": {
+      "q": "6502 sayılı Kanun m.3 ve m.4 uyarınca tüketici ve teminat hakkında hangisi doğrudur?",
+      "choices": [
+        "Tüketici yalnız gerçek kişidir; tüzel kişi tüketici sıfatını taşıyamaz.",
+        "Tüketicinin edimlerine karşılık alınan her şahsi teminat müteselsil kefalet sayılır.",
+        "Tüketici, ticari veya mesleki olmayan amaçlarla hareket eden gerçek veya tüzel kişidir. Edimlerine karşılık alınan şahsi teminatlar, adı ne olursa olsun adi kefalet sayılır.",
+        "Tüketici işlemlerinde temerrüt faizi bileşik faiz olarak işletilir."
+      ],
+      "answer": 2,
+      "reason": "TKHK m.3 tüketiciyi ticari veya mesleki olmayan amaçla hareket eden gerçek veya tüzel kişi sayar. m.4/6 şahsi teminatı adi kefalet, m.4/7 bileşik faiz yasağını koyar."
+    },
+    "ayipli-mal": {
+      "q": "TKHK m.11 ve m.12 uyarınca ayıplı mal hakkında hangisi doğrudur?",
+      "choices": [
+        "Ayıpta yalnız bedelden indirim istenebilir; zamanaşımı altı aydır.",
+        "Tüketici sözleşmeden dönme, ayıp oranında bedelden indirim, ücretsiz onarım veya ayıpsız misli ile değiştirme haklarından birini kullanabilir. Onarım ve değiştirme azami otuz iş günü içinde yerine getirilir. Zamanaşımı teslimden itibaren iki yıl, konut veya tatil amaçlı taşınmazda beş yıldır; ağır kusur veya hilede uygulanmaz.",
+        "Ücretsiz onarım yalnız satıcıya karşı açılır; üretici ve ithalatçı sorumlu değildir.",
+        "Ağır kusur veya hile ile gizlenen ayıpta da iki yıllık zamanaşımı işlemeye devam eder."
+      ],
+      "answer": 1,
+      "reason": "TKHK m.11 dört seçimlik hakkı, müteselsil sorumluluğu ve otuz iş gününü; m.12 iki ve beş yıllık zamanaşımını ve ağır kusur veya hilede uygulanmamasını düzenler."
+    },
+    "ayipli-hizmet": {
+      "q": "TKHK m.15 ve m.16 uyarınca ayıplı hizmet hakkında hangisi doğrudur?",
+      "choices": [
+        "Hizmet ayıbında yalnız sözleşmeden dönme vardır; süre sınırı yoktur.",
+        "Tüketici hizmetin yeniden görülmesi, eserin ücretsiz onarımı, ayıp oranında bedelden indirim veya sözleşmeden dönme haklarından birini kullanabilir. Süre her hâlde otuz iş gününü geçemez. Sorumluluk ifa tarihinden itibaren iki yıllık zamanaşımına tabidir.",
+        "Ayıplı hizmetin zamanaşımı malın teslimine bağlanır ve beş yıldır.",
+        "Ücretsiz onarım seçilirse tüketici diğer seçimlik haklarını süre dolmasa da kullanamaz."
+      ],
+      "answer": 1,
+      "reason": "TKHK m.15 hizmet seçimlik haklarını ve otuz iş günü tavanını, m.16 sorumluluğu ifa tarihinden itibaren iki yıllık zamanaşımına bağlar."
+    },
+    "mesafeli": {
+      "q": "TKHK m.48 uyarınca mesafeli sözleşmede cayma hakkında hangisi doğrudur?",
+      "choices": [
+        "Cayma süresi yedi gündür ve haklı bir sebep gösterilmesi gerekir.",
+        "Tüketici on dört gün içinde gerekçe göstermeksizin ve cezai şart ödemeksizin cayabilir. Gerektiği gibi bilgilendirilmezse bu süreye bağlı değildir; hak her hâlde cayma süresinin bittiği tarihten itibaren bir yıl sonra sona erer.",
+        "Cayma bildirimi noterden yapılmadıkça hüküm doğurmaz.",
+        "Bilgilendirme eksikse cayma hakkı hiç doğmaz."
+      ],
+      "answer": 1,
+      "reason": "TKHK m.48/4 on dört günü, gerekçesizliği, bildirimin süre içinde yöneltilmesini ve bilgilendirme yoksa bir yıllık üst sınırı koyar. Yedi gün taksitli satıştadır (m.18)."
+    },
+    "haksiz-sart": {
+      "q": "TKHK m.5 uyarınca haksız şart hakkında hangisi doğrudur?",
+      "choices": [
+        "Haksız şart yazılmamış sayılır ve sözleşmenin tamamı kendiliğinden batıl olur.",
+        "Müzakere edilmeden giren ve dürüstlük kuralına aykırı biçimde tüketici aleyhine dengesizlik yaratan şart haksızdır, kesin olarak hükümsüzdür; sözleşmenin diğer hükümleri geçerliliğini korur. Açık olmayan hüküm tüketici lehine yorumlanır.",
+        "Haksızlığın ispatı her hâlde tüketiciye aittir; standart şart müzakere edilmiş sayılır.",
+        "Belirsiz hüküm satıcı lehine yorumlanır."
+      ],
+      "answer": 1,
+      "reason": "TKHK m.5/1 tanımı, m.5/2 kesin hükümsüzlüğü ve kalan hükümlerin ayakta kalmasını, m.5/3 müzakere ispatını düzenleyene, m.5/4 belirsizliği tüketici lehine yorumu koyar."
+    },
+    "taksitli": {
+      "q": "TKHK m.17, m.18 ve m.30 uyarınca taksitli satış ve bağlı kredi hakkında hangisi doğrudur?",
+      "choices": [
+        "Taksitle satış sözlü kurulur; cayma süresi mesafeli sözleşmedeki gibi on dört gündür.",
+        "Taksitle satış yazılı kurulmadıkça geçerli olmaz ve cayma yedi gündür. Bağlı kredide mal veya hizmet hiç ya da gereği gibi teslim veya ifa edilmezse satıcı, sağlayıcı ve kredi veren dönme veya bedelden indirimde müteselsilen sorumludur.",
+        "Bağlı kredi, tüketicinin kendisinin seçtiği her malın bedelini bankanın ödemesidir.",
+        "Satıcı, geçersiz sözleşmenin geçersizliğini sonradan tüketicinin aleyhine ileri sürebilir."
+      ],
+      "answer": 1,
+      "reason": "TKHK m.17 yazılı şekli ve satıcının geçersizliği tüketici aleyhine ileri sürememesini, m.18 yedi günlük caymayı, m.30 bağlı kredide müteselsil sorumluluğu düzenler. m.30/5 tüketicinin kendisinin belirlediği malın bedelinin ödenmesini bağlı kredi saymaz."
+    },
+    "uyusmazlik": {
+      "q": "TKHK m.68 ve m.70 uyarınca tüketici hakem heyeti hakkında hangisi doğrudur?",
+      "choices": [
+        "Her uyuşmazlık önce tüketici mahkemesinde açılır; hakem heyeti ihtiyaridir ve itiraz icrayı kendiliğinden durdurur.",
+        "Parasal sınırın altındaki uyuşmazlıklarda hakem heyetine başvuru zorunludur; sınır her yıl yeniden değerleme oranında artar. Karara tebliğden itibaren iki hafta içinde tüketici mahkemesine itiraz edilir. İtiraz icrayı kendiliğinden durdurmaz ve mahkemenin kararı kesindir.",
+        "Heyet kararı ilam değildir; icra edilebilmesi için ayrıca eda davası açılır.",
+        "Kanundaki taban tutar yıllar geçse de aynı kalır; yeniden değerleme uygulanmaz."
+      ],
+      "answer": 1,
+      "reason": "TKHK m.68 başvuru zorunluluğunu ve yıllık yeniden değerlemeyi, m.70 iki haftalık itirazı, icranın kendiliğinden durmamasını ve tüketici mahkemesi kararının kesinliğini düzenler."
+    }
+  }
+}

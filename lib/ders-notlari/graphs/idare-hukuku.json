@@ -87,12 +87,12 @@
                 },
                 {
                     "kanunId": "belediye",
-                    "maddeNo": "54"
+                    "maddeNo": "33"
                 }
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Meclis 17 vd., başkan 38, belde 54.",
+                "Meclis 17, encümen 33, başkan 37 ve 38. Denetim organ değildir.",
                 "Karar yeter sayısı ve ilân, işlemin görünür yüzüdür."
             ]
         },
@@ -131,7 +131,7 @@
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Sınıflar 4, ödevler 7 hattındadır.",
+                "İstihdam şekilleri 4, sadakat 6, tarafsızlık 7. maddedir.",
                 "Yasaklar ve sorumluluk, disiplin kapısının önüdür."
             ]
         },
@@ -173,7 +173,7 @@
         {
             "id": "disiplin",
             "title": "Disiplin hukuku",
-            "definition": "Memurun kınama ile devlet memurluğundan çıkarma arasında kademeli yaptırımı vardır. Savunma hakkı ve itiraz, işlemin usul yüzüdür.",
+            "definition": "Disiplin cezası uyarma ile başlar ve memurluktan çıkarmaya kadar kademelenir. Savunma alınmadan ceza verilemez. Görevden uzaklaştırma ceza değil, ihtiyati tedbirdir.",
             "elements": [
                 "fiil",
                 "yaptırım kademesi",
@@ -196,6 +196,14 @@
                 {
                     "kanunId": "dmk",
                     "maddeNo": "126"
+                },
+                {
+                    "kanunId": "dmk",
+                    "maddeNo": "127"
+                },
+                {
+                    "kanunId": "dmk",
+                    "maddeNo": "130"
                 },
                 {
                     "kanunId": "dmk",

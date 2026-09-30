@@ -504,6 +504,285 @@
                     "note": "fakülte kimliği; izlence OBS"
                 }
             ]
+        },
+        "tuketici-hukuku": {
+            "cityHook": "Alsancak'ta bir mesafeli hizmet ve cayma süresi",
+            "mehaz": "Ege/İzmir dogmatiği; 6502 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TKHK maddesi + tüketici kurumu + olaya yedirme.",
+                "tips": [
+                    "DEÜ kâğıdında önce tüketici sıfatını yazın.",
+                    "Ön bilgilendirme eksikliğini ayıp bildirimi sanmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "tüketici",
+                "ayıplı mal",
+                "ayıplı hizmet",
+                "mesafeli sözleşme",
+                "haksız şart",
+                "taksitli satış",
+                "uyuşmazlık"
+            ],
+            "schoolNotes": [
+                "DEÜ tüketici hukuku dönemlik Bologna hattındadır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
+        },
+        "vergi-hukuku": {
+            "cityHook": "Alsancak'ta bir takdir komisyonu ve zamanaşımının durması",
+            "mehaz": "Ege/İzmir dogmatiği; VUK m.114 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: VUK maddesi + vergi kurumu + olaya yedirme.",
+                "tips": [
+                    "DEÜ kâğıdında önce vergiyi doğuran olayı yazın.",
+                    "Takdir komisyonuna sevki süresiz durma sanmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "vergiyi doğuran olay",
+                "mükellef",
+                "tarh",
+                "re'sen tarh",
+                "zamanaşımı",
+                "vergi cezası",
+                "gelir vergisi",
+                "katma değer vergisi"
+            ],
+            "schoolNotes": [
+                "DEÜ vergi hukuku dönemlik Bologna hattındadır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
+        },
+        "sigorta-hukuku": {
+            "cityHook": "Alsancak'ta bir sigortacı iflası ve sözleşmenin sona ermesi",
+            "mehaz": "Ege/İzmir dogmatiği; TTK m.1418 ve m.1420 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + sigorta kurumu + olaya yedirme.",
+                "tips": [
+                    "DEÜ kâğıdında önce sözleşmenin tanımını yazın.",
+                    "Sigortacının iflasını sigorta ettirenin aczi sanmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "sigorta sözleşmesi",
+                "riziko",
+                "prim",
+                "teminat",
+                "beyan ve ihbar",
+                "tazmin ve halefiyet",
+                "hayat sigortası",
+                "sona erme ve zamanaşımı"
+            ],
+            "schoolNotes": [
+                "DEÜ sigorta hukuku dönemlik Bologna hattındadır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
+        },
+        "idare-hukuku": {
+            "cityHook": "Alsancak'ta bir vali talimatı ve belediye meclisi",
+            "mehaz": "Ege/İzmir dogmatiği; 5442 m.9 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: kanun maddesi + idare kurumu + olaya yedirme.",
+                "tips": [
+                    "DEÜ kâğıdında önce vali ile belediye başkanını ayırın.",
+                    "Meclis kararının mülki amire gitmemesini yürürlük sanmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "hemşehri ve görev",
+                "belediye organı",
+                "memur",
+                "yetki",
+                "disiplin",
+                "kamulaştırma",
+                "imar",
+                "vali ve kaymakam"
+            ],
+            "schoolNotes": [
+                "DEÜ idare hukuku dönemlik Bologna hattındadır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
+        },
+        "insaat-hukuku": {
+            "cityHook": "Alsancak'ta bir işe geç başlama ve sözleşmeden dönme",
+            "mehaz": "Ege/İzmir dogmatiği; TBK m.473 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TBK veya İmar maddesi + inşaat kurumu + olaya yedirme.",
+                "tips": [
+                    "DEÜ kâğıdında önce eserin tanımını yazın.",
+                    "Teslim gününü beklemeden dönmeyi her gecikmeye uygulamayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "eser sözleşmesi",
+                "bedel",
+                "ayıp",
+                "teslim ve fesih",
+                "ruhsat",
+                "ruhsatsız yapı",
+                "kamulaştırma",
+                "kat karşılığı"
+            ],
+            "schoolNotes": [
+                "DEÜ inşaat hukuku dönemlik Bologna hattındadır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
+        },
+        "rekabet-hukuku": {
+            "cityHook": "Alsancak'ta bir pazar paylaşımı",
+            "mehaz": "Ege/İzmir dogmatiği; 4054 m.4 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: 4054 maddesi + ihlal türü + olaya yedirme.",
+                "tips": [
+                    "DEÜ kâğıdında önce teşebbüsü yazın.",
+                    "Uyumlu eylemi tek taraflı fiil sanmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "teşebbüs",
+                "anlaşma",
+                "hâkim durum",
+                "birleşme",
+                "muafiyet",
+                "soruşturma",
+                "kurul",
+                "idari para cezası"
+            ],
+            "schoolNotes": [
+                "DEÜ rekabet hukuku dönemlik Bologna hattındadır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
+        },
+        "arabuluculuk": {
+            "cityHook": "Alsancak'ta bir çekilme bildirimi",
+            "mehaz": "Ege/İzmir dogmatiği; 6325 m.17 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: 6325 maddesi + süreç + olaya yedirme.",
+                "tips": [
+                    "DEÜ kâğıdında önce elverişliliği yazın.",
+                    "Çekilmenin süreci sürdürdüğünü sanmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "iradi olma",
+                "gizlilik",
+                "arabulucu",
+                "ücret",
+                "ilk toplantı",
+                "süreç",
+                "anlaşma",
+                "dava şartı"
+            ],
+            "schoolNotes": [
+                "DEÜ arabuluculuk dönemlik Bologna hattındadır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
+        },
+        "deniz-ticareti": {
+            "cityHook": "Alsancak'ta bir denize elverişsiz gemi",
+            "mehaz": "Ege/İzmir dogmatiği; TTK m.932 ve m.1141 lafzı bağlar",
+            "examBox": {
+                "calendar": "donemlik",
+                "typicalWeights": "Ara sınav + final; oran OBS/dönem ilanı esas.",
+                "format": "Klasik yazılı: TTK maddesi + deniz kurumu + olaya yedirme.",
+                "tips": [
+                    "DEÜ kâğıdında önce gemiyi tanımlayın.",
+                    "Kaptanın donatan emriyle kurtulduğunu sanmayın.",
+                    "OBS bağlayıcıdır."
+                ]
+            },
+            "syllabusOrder": [
+                "gemi",
+                "donatan",
+                "kaptan",
+                "navlun",
+                "konişmento",
+                "müşterek avarya",
+                "gemi alacağı",
+                "gemi ipoteği"
+            ],
+            "schoolNotes": [
+                "DEÜ deniz ticareti dönemlik Bologna hattındadır.",
+                "Borçlar genel ayrı derstir."
+            ],
+            "sources": [
+                {
+                    "title": "DEÜ Hukuk Fakültesi",
+                    "url": "https://hukuk.deu.edu.tr/",
+                    "note": "fakülte kimliği; izlence OBS"
+                }
+            ]
         }
     }
 }

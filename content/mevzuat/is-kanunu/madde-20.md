@@ -27,7 +27,7 @@ başka bir sebebe dayandığını iddia ettiği takdirde, bu iddiasını ispatla
 (Değişik üçüncü fıkra: 12/10/2017-7036/11 md.) Dava ivedilikle sonuçlandırılır.
 Mahkemece verilen karar hakkında istinaf yoluna başvurulması hâlinde, bölge adliye
 mahkemesi ivedilikle ve kesin olarak karar verir.
-(İptal dördüncü fıkra: Anayasa Mahkemesinin 19/10/2005 tarihli ve E.:2003/66,
+(İptal dördüncü fıkra: Anayasa Mahkemesinin 19/10/2005 tarihli ve E.:2003/66, K.:2005/72 sayılı Kararı ile.)
 
 ---
 

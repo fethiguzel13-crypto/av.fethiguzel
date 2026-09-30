@@ -223,6 +223,10 @@
                 {
                     "kanunId": "ttk",
                     "maddeNo": "1473"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1481"
                 }
             ],
             "caseRefs": [],
@@ -243,7 +247,7 @@
             ],
             "organicLinks": [
                 "Sona erme, teminatı ileriye etkili keser.",
-                "Zamanaşımı, TBK genelinden kısa olabilir."
+                "Genel istem muacceliyetten iki yıl, tazminat ve bedel her hâlde rizikodan altı yıldır. Sorumluluk sigortasında sigortacıya yöneltilen istem on yıldır."
             ],
             "statuteRefs": [
                 {
@@ -256,13 +260,17 @@
                 },
                 {
                     "kanunId": "ttk",
-                    "maddeNo": "1481"
+                    "maddeNo": "1420"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1482"
                 }
             ],
             "caseRefs": [],
             "doctrineSplit": [
-                "Bildirim süreleri kaçınca hak düşebilir.",
-                "Hayat ve hasarda zamanaşımı ayrı işleyebilir."
+                "Sigortacının iflası sözleşmeyi sona erdirir.",
+                "İki yıl, altı yıl ve on yıl aynı süre değildir."
             ]
         },
         {

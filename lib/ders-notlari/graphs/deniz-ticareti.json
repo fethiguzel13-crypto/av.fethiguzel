@@ -41,6 +41,10 @@
                 {
                     "kanunId": "ttk",
                     "maddeNo": "935"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "936"
                 }
             ],
             "caseRefs": [],
@@ -52,7 +56,7 @@
         {
             "id": "donatan",
             "title": "Donatan ve gemi adamları",
-            "definition": "Donatan, gemisini deniz ticaretinde kullanan geminin malikidir. Kaptan ve gemi adamları donatanı temsil ve borçlandırabilir.",
+            "definition": "Donatan, gemisini menfaat sağlamak amacıyla suda kullanan gemi malikidir. Başkasının gemisini kendi adına kullanan kişi, üçüncü kişilere karşı donatan sayılır. Gemi adamlarının kusurundan üçüncü kişilere verilen zarardan sorumludur.",
             "elements": [
                 "malik",
                 "deniz ticareti kullanımı",
@@ -60,21 +64,17 @@
                 "temsil"
             ],
             "organicLinks": [
-                "Donatan, kiracı ve işleten karıştırılmaz.",
-                "Kaptanın kanuni temsili geniş olabilir."
+                "Başkasının gemisini kendi adına kullanan kişi üçüncü kişilere karşı donatan sayılır.",
+                "Yolcu ve yüke karşı sorumluluk, taşıyanın gemi adamı kusuru rejimine kayar."
             ],
             "statuteRefs": [
                 {
                     "kanunId": "ttk",
-                    "maddeNo": "936"
+                    "maddeNo": "1061"
                 },
                 {
                     "kanunId": "ttk",
-                    "maddeNo": "947"
-                },
-                {
-                    "kanunId": "ttk",
-                    "maddeNo": "954"
+                    "maddeNo": "1062"
                 }
             ],
             "caseRefs": [],
@@ -86,7 +86,7 @@
         {
             "id": "kaptan",
             "title": "Kaptan",
-            "definition": "Kaptan, geminin sevk ve idaresinden sorumlu gemi adamıdır. Kanuni temsil yetkisi, donatanı ve bazen yük ilgililerini bağlar.",
+            "definition": "Kaptan, tedbirli bir kaptan gibi hareket etmek zorundadır. Donatanın emrine uyması onu sorumluluktan kurtarmaz. Yola çıkmadan önce geminin denize ve yola elverişli olmasına dikkat eder.",
             "elements": [
                 "sevk ve idare",
                 "kanuni temsil",
@@ -100,15 +100,15 @@
             "statuteRefs": [
                 {
                     "kanunId": "ttk",
-                    "maddeNo": "1097"
+                    "maddeNo": "1088"
                 },
                 {
                     "kanunId": "ttk",
-                    "maddeNo": "1101"
+                    "maddeNo": "1089"
                 },
                 {
                     "kanunId": "ttk",
-                    "maddeNo": "1105"
+                    "maddeNo": "1090"
                 }
             ],
             "caseRefs": [],
@@ -120,7 +120,7 @@
         {
             "id": "navlun",
             "title": "Navlun sözleşmesi",
-            "definition": "Navlun sözleşmesinde taşıyan, yükü deniz yoluyla taşımayı, taşıtan navlun ödemeyi borçlanır. Konişmento hem senet hem ispat aracıdır.",
+            "definition": "Taşıyan, navlun karşılığında yolculuk çarterinde gemiyi veya yerini tahsis ederek, kırkambar sözleşmesinde ayırt edilmiş eşyayı denizde taşımayı üstlenir. Her navlun sözleşmesinde gemiyi denize, yola ve yüke elverişli bulundurur.",
             "elements": [
                 "taşıyan",
                 "yük",
@@ -134,15 +134,15 @@
             "statuteRefs": [
                 {
                     "kanunId": "ttk",
-                    "maddeNo": "1061"
-                },
-                {
-                    "kanunId": "ttk",
-                    "maddeNo": "1062"
-                },
-                {
-                    "kanunId": "ttk",
                     "maddeNo": "1138"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1139"
+                },
+                {
+                    "kanunId": "ttk",
+                    "maddeNo": "1141"
                 }
             ],
             "caseRefs": [],
@@ -188,7 +188,7 @@
         {
             "id": "deniz-kazasi",
             "title": "Denizde kaza ve müşterek avarya",
-            "definition": "Çatma, kurtarma ve müşterek avarya deniz tehlikesine özgü rejimlerdir. Zarar paylaştırılır; kurtarma ücreti ayrıdır.",
+            "definition": "Müşterek avarya, ortak deniz sergüzeştini tehdit eden tehlikeden korumak için bile bile yapılan olağanüstü fedakârlık veya giderdir. Kusurlu çatmada zararı kusurlu geminin donatanı tazmin eder. Kusursuz çatmada herkes kendi zararına katlanır.",
             "elements": [
                 "çatma",
                 "kurtarma",
@@ -202,15 +202,15 @@
             "statuteRefs": [
                 {
                     "kanunId": "ttk",
-                    "maddeNo": "1183"
+                    "maddeNo": "1272"
                 },
                 {
                     "kanunId": "ttk",
-                    "maddeNo": "1222"
+                    "maddeNo": "1287"
                 },
                 {
                     "kanunId": "ttk",
-                    "maddeNo": "1273"
+                    "maddeNo": "1288"
                 }
             ],
             "caseRefs": [],
@@ -221,8 +221,8 @@
         },
         {
             "id": "cevra",
-            "title": "Cevra ve sınırlı sorumluluk",
-            "definition": "Deniz alacaklarında sorumluluk, gemi ve navlun değeriyle sınırlanabilir. Fon usulü alacaklıları bir araya getirir.",
+            "title": "Gemi alacağı ve sınırlı sorumluluk",
+            "definition": "Gemi adamı ücreti gibi kanunda sayılan alacaklar gemi alacaklısı hakkı verir ve kanuni rehin, tescilli rehinlerden önce gelir. Deniz alacaklarından doğan sorumluluğun sınırlanması ayrı rejimdir ve milletlerarası sözleşmeye bırakılmıştır.",
             "elements": [
                 "deniz alacağı",
                 "sınır",
@@ -244,7 +244,7 @@
                 },
                 {
                     "kanunId": "ttk",
-                    "maddeNo": "1326"
+                    "maddeNo": "1328"
                 }
             ],
             "caseRefs": [],
