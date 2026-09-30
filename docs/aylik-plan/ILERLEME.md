@@ -16,3 +16,13 @@ Her oturum sonuna bir blok ekler. En yeni en altta.
 - Plan: `docs/aylik-plan/PLAN.md` (G01–G26). Otonom çalışma: `scripts/otonom/calis.ps1` +
   `FethiGuzel-OtonomCalisma` görevi.
 - Sıradaki: G01 Kalite kapısı.
+
+## 2026-09-30 17:10 — G01 Kalite kapısı (etkileşimli oturum) — TAMAM
+
+- `npm run kalite:hizli` (tip + lint cırcırı + 9 test takımı): 466 test yeşil, 48 sn.
+- `npm run kalite` (+ `next build`): yeşil, derleme 504 sn.
+- Düzeltmeler: sosyal yazarlarda LLM bağımlılık enjeksiyonu (testler gerçek API çağırıyordu), galaxy
+  testleri katalog v2 sözleşmesine; lint kapsamı derleme çıktısı/eski betikler dışında, 82 bilinen hata
+  `scripts/lint-taban.json` tabanında (cırcır).
+- Rapor: `raporlar/kalite-baslangic.md`. Commit: `26f10a3c4`.
+- Sıradaki: G01b (lint borcu — önce 3 rules-of-hooks), sonra G02 (bağımlılık açıkları).
