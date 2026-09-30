@@ -12,7 +12,14 @@ import { spawn } from "child_process";
 import { appendFileSync, writeFileSync, mkdirSync, existsSync } from "fs";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
-import { loadConfig, readHarvestSnapshot, msUntilNextBudgetDay, sleep } from "./lib.mjs";
+import {
+  loadConfig,
+  readHarvestSnapshot,
+  msUntilNextBudgetDay,
+  sleep,
+  harvesterActive,
+  outPaths,
+} from "./lib.mjs";
 import { pathToFileURL } from "url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -127,6 +134,10 @@ async function main() {
 
   while (true) {
     iteration++;
+    if (harvesterActive(outPaths(cfg))) {
+      log("Yeni hasat motoru (hasat.mjs) çalışıyor — until-done çıkıyor (çift hasat olmasın).", opts.logFile);
+      process.exit(0);
+    }
     // Hot-reload config each loop so overnight rate ramp takes effect without restart
     if (opts.maxPerBatch == null) {
       try {

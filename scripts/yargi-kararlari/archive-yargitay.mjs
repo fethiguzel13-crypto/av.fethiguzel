@@ -36,6 +36,7 @@ import {
   buildYearWindows,
   isHarvestComplete,
   readHarvestSnapshot,
+  harvesterActive,
 } from "./lib.mjs";
 
 const BASE = "https://karararama.yargitay.gov.tr";
@@ -459,6 +460,11 @@ async function main() {
   const paths = outPaths(cfg);
   ensureDirs(paths);
   const log = makeLog(paths);
+
+  if (!opts.status && harvesterActive(paths)) {
+    log("Yeni hasat motoru (hasat.mjs) çalışıyor — eski arşivleyici çift istek atmasın diye çıkıyor.");
+    return;
+  }
 
   // Eski düz JSON kuyruğunu jsonl'e taşı
   const legacyQueuePath = join(paths.state, "queue.json");

@@ -1,0 +1,56 @@
+{
+  "description": "Yargıtay hasat motoru v2 (hasat.mjs) ayarları. Motor bu dosyayı 5 dakikada bir yeniden okur; 'rate' değişiklikleri yeniden başlatmadan uygulanır. Hız sınırları 2026-08/09 run.log ölçümüne dayanır: ~6/dk'da 429 yok, ~9/dk'da %1-4 429, ~10/dk'da 429'ları dinlemeyen eski döngü 12 saatlik kesinti yaşadı.",
+  "politika": {
+    "kullaniciTalimati": "2026-09-26, Av. Fethi Güzel: Önce 2026 tarihli kararlar insin, sonra yavaş yavaş her yıl geriye gidilsin; güncellik çok önemli. Hep aynı türde kararlar inmesin, emsal olacak kararlar insin. Birbirine benzemeyen kararlarla yaklaşık 600 bin ilk hedef; yeni tarihten eski tarihe doğru. Bu bölüm kullanıcıya sorulmadan gevşetilmez.",
+    "hedefYararliKarar": 600000,
+    "sira": "yeniden-eskiye, yıl yıl (önce içinde bulunulan yıl)",
+    "yararliTanimi": "emsal nitelikli (core-100k kalite puanı eşiği geçer; kurullarda düşük eşik) VE daha önce inen hiçbir karara benzemez (aynı birimde 64 bit SimHash uzaklığı > hammingEsigi)",
+    "hedefliKelimeler": ["ilke", "yerleşik", "öğreti", "doktrin", "istikrar", "emsal"],
+    "hedefliEnFazlaOran": 0.35,
+    "kurullarHepsi": true,
+    "ornekleme": { "onselVerim": 0.3, "verimCarpani": 1.2, "enAzOran": 0.08, "daireEnFazlaPay": 0.25 },
+    "doldurma": { "esik": 0.55, "enAzAnaliz": 20, "enFazlaTur": 4 },
+    "emsal": { "kaliteEsigi": 0.45, "kurulKaliteEsigi": 0.25, "hammingEsigi": 8 }
+  },
+  "outputDir": "data/yargi-kararlari",
+  "baseUrl": "https://karararama.yargitay.gov.tr",
+  "concurrency": 2,
+  "cookieJar": true,
+  "requestTimeoutMs": 45000,
+  "rate": {
+    "not": "2026-09-26 22:33 TR: hız 8/dk'ya çıkıp yanıtlar 10 sn'ye uzayınca site 3 istekte captcha (DisplayCaptcha) istedi. Tavan bu yüzden 8, mesaide 7. Captcha gelirse motor hızı yarıya indirip 5-10 dk bekler; 30 dk içinde tekrarlarsa 30-45 dk durur.",
+    "startPerMin": 6.5,
+    "minPerMin": 2,
+    "maxPerMin": 8,
+    "peak": { "enabled": true, "days": [1, 2, 3, 4, 5], "fromHour": 9, "toHour": 18, "maxPerMin": 7 },
+    "increaseStepPerMin": 0.5,
+    "increaseEvery": 40,
+    "increaseQuietMs": 480000,
+    "decreaseFactor": 0.7,
+    "jitter": [0.6, 1.4],
+    "cooldown429Ms": [45000, 90000]
+  },
+  "budget": {
+    "maxFullTextPerDay": 12000,
+    "maxSearchCallsPerDay": 3000
+  },
+  "queue": {
+    "lowWater": 800
+  },
+  "sweep": {
+    "yearFrom": 2000,
+    "pageSize": 100,
+    "splitAbove": 9000,
+    "censusEveryDays": 30,
+    "refresh": { "recentMonths": 12, "everyDays": 14 }
+  },
+  "retry": {
+    "maxAttempts": 6,
+    "parkDays": 3,
+    "maxParks": 3
+  },
+  "checkpoint": {
+    "stateEveryMs": 60000,
+    "progressEveryMs": 3600000
+  }
+}

@@ -316,6 +316,25 @@ export function budgetWouldResetAfterWait(daily, rateLimit, now, waitMs) {
   return !isDailyBudgetExhausted(rolled, rateLimit, after).exhausted;
 }
 
+/**
+ * Yeni hasat motoru (harvester/daemon.mjs) canlı mı? Kilit dosyasındaki süreç
+ * yaşıyorsa ve son 3 dakikada kalp attıysa evet. Eski arşivleyici bunu görünce
+ * çıkar — aynı IP'den iki hasatçı çift hız = ban riski.
+ */
+export function harvesterActive(paths, now = Date.now()) {
+  const lock = loadJson(join(paths.state, "harvester.lock"), null);
+  if (!lock?.pid) return false;
+  try {
+    process.kill(lock.pid, 0);
+  } catch (e) {
+    if (e.code !== "EPERM") return false;
+  }
+  const status = loadJson(join(paths.state, "harvester-status.json"), null);
+  const beats = [Date.parse(lock.startedAt || 0) || 0];
+  if (status?.pid === lock.pid) beats.push(Date.parse(status.heartbeatAt || 0) || 0);
+  return now - Math.max(...beats) < 3 * 60_000;
+}
+
 export function readHarvestSnapshot(cfg) {
   const paths = outPaths(cfg);
   ensureDirs(paths);

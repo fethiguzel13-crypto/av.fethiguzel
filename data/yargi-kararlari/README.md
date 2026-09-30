@@ -1,5 +1,71 @@
 # Yargıtay karar arşivi (yerel, ölçekli)
 
+## 2026-09-26'dan beri: hasat motoru v2 (`scripts/yargi-kararlari/hasat.mjs`)
+
+Eski yığın (izleyici görev → watchdog → until-done → 350'lik partiler) devre dışı.
+Yerine tek, uzun ömürlü bir süreç çalışıyor. Disk düzeni aynı olduğu için
+site ve mobil yayın hattı (`mobile/scripts/build-icthat-data.mjs`) değişmeden çalışır.
+
+| Konu | Eski | v2 |
+|------|------|----|
+| Hız | sabit 4–9 sn + her 25'te 45–90 sn mola (~3.300/gün) | uyarlamalı (AIMD): 429 gelene kadar yavaş artar, 429'da ×0,7 düşer; tavan 10/dk, hafta içi 09–18 TR 8,5/dk |
+| Ağ kesintisi | ~7 sn'de bir yeniden dener (12–20 saatlik fırtınalar) | devre kesici: 1→2→4…30 dk geri çekilme, önce yerel interneti yoklar |
+| Tarama | daire × anahtar kelime, 2012'den başlayarak | tüm birimler, en yeni aydan geriye; 9.000'i aşan pencere ikiye bölünür |
+| Oturum | çerezsiz | tarayıcı gibi çerez (F5 TS* + JSESSIONID) |
+| Durum yazımı | her kararda 10 MB progress.json | olay günlüğü + saatlik anlık görüntü, atomik yazım |
+
+Neden: `_state/run.log` ölçümü — "yerleşik içtihat" anahtar kelimesi API'de her kararla
+eşleşiyor (filtre fiilen yok, aynı sonuçlar 6–10 kez sayfalanacaktı); arşivin %48'i 2013
+yılıydı; 429'lar dakikada ~9 isteğin üstünde başlıyor.
+
+```powershell
+npm run yargi:hasat-durum                       # durum + yıllık sayım tablosu
+.\scripts\yargi-kararlari\hasat-servis.ps1 -Durdur   # görevi kapat + motoru durdur
+.\scripts\yargi-kararlari\hasat-servis.ps1 -Devam    # yeniden aç
+```
+
+- Ayarlar: `scripts/yargi-kararlari/harvester.json` (5 dakikada bir yeniden okunur).
+- Log: `_state/harvester.log` (20 MB'ta döner) · durum: `_state/harvester-status.json` · plan: `_state/harvester-plan.json`.
+- Zamanlanmış görev `YargiHasatMotoru`: oturum açılışında + 10 dakikada bir "çalışmıyorsa başlat".
+- Tek kopya kilidi `_state/harvester.lock`; eski `archive-yargitay.mjs` / `until-done.mjs` bu kilidi görünce kendiliğinden çıkar.
+- Eski sisteme dönüş: `hasat-servis.ps1 -Kaldir` ve `Enable-ScheduledTask -TaskName YargiKararHarvestMonitor`. Geçiş öncesi durum yedeği `_state/yedek-20260926-220106/`.
+
+### Kalıcı hasat politikası (kullanıcı talimatı, 2026-09-26)
+
+> Önce 2026 tarihli kararlar insin, sonra yavaş yavaş her yıl geriye gidilsin; güncellik çok önemli.
+> Hep aynı türde kararlar inmesin, emsal olacak kararlar insin. Birbirine benzemeyen kararlarla
+> yaklaşık 600 bin ilk hedef; yeni tarihten eski tarihe doğru.
+
+Politika `scripts/yargi-kararlari/harvester.json` → `politika` bölümünde durur ve plana
+(`_state/harvester-plan.json` → `politika`) kopyalanır. Kullanıcıya sorulmadan gevşetilmez.
+
+Nasıl uygulanıyor:
+
+1. **Sıra:** aylık pencereler en yeni aydan geriye; kuyruk yıl sırasıyla boşalır (önce 2026).
+2. **Envanter:** her pencerede önce toplam ölçülür (9.000'i aşarsa bölünür), sonra emsal işaret
+   kelimeleri (`ilke yerleşik öğreti doktrin istikrar emsal`, API bunları "veya" ile arar) ile
+   işaretli kararlar, sonra pencerenin tüm künyeleri `_state/envanter/*.jsonl` dosyasına yazılır.
+3. **Seçim (indirmeden önce):** kurul kararlarının ve işaretli kararların hepsi; işaretsiz daire
+   kararları birimin ölçülen verimine göre örneklenir (günlere ve karar numaralarına yayılarak,
+   tek birim pencerenin %25'ini aşamaz). Yıl bitince verimi yüksek birimler için doldurma turları.
+4. **Etiket (indirdikten sonra):** `emsal` = core-100k kalite puanı eşiği; `benzerOf` = aynı
+   birimde 64 bit SimHash uzaklığı ≤ 8 olan önceki karar; **yararlı = emsal ve benzersiz.**
+   Kayıt: `_state/benzerlik.jsonl` (karar başına bir satır) + karar dosyası ve `index.jsonl`
+   satırında `yararli / emsal / benzerOf / emsalSkoru / hukukAlani`.
+5. **Hedef:** 600.000 yararlı karar dolunca eski yıllara geçilmez, yalnız içinde bulunulan yıl
+   güncel tutulur.
+
+Kalibrasyon (eski arşivden, 2026-09-26): HGK kararlarının %64'ü, CGK %91'i yararlı; 2013 daire
+kararlarında oran %3–16 (çoğu kısa formül ya da seri kalıp karar). İşaret kelimesi geçen daire
+kararlarında yararlı oranı %60–93.
+
+Güvenlik notu: 2026-09-26'da 8/dk hızda site üç istekte `DisplayCaptcha` istedi (yanıt
+`metadata.FMTE` içinde gelir). Motor artık bunu tanır: hız yarıya iner, 5–10 dk mola; 30 dk içinde
+tekrarlarsa 30–45 dk durur. Oturum değiştirip captcha atlatılmaz. Hız tavanı bu yüzden 8/dk
+(mesaide 7).
+
+Aşağıdaki bölümler eski sistemi (arşiv tarihi için) anlatır.
+
 Kaynak: **karararama.yargitay.gov.tr** (resmi). Lexpera zorunlu değil.  
 BAM ve ilk derece aranmaz. On binlerce karara göre tasarlandı.
 
