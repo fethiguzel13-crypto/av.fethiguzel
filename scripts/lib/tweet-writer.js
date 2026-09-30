@@ -51,11 +51,12 @@ function softLink(h) {
   return 'avfethiguzel.com';
 }
 
-export async function writeTweets(highlights) {
+/** @param {{ complete?: typeof completeText }} [deps] testler sahte LLM verir (gerçek API çağrısı yapılmaz) */
+export async function writeTweets(highlights, { complete = completeText } = {}) {
   const tweets = [];
   for (const h of highlights) {
     const summary = summaryFor(h);
-    const body = await completeText({
+    const body = await complete({
       system: SYSTEM,
       maxTokens: 400,
       minChars: 100,

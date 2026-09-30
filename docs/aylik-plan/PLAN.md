@@ -42,11 +42,17 @@ biter, bir sonraki pencerede yeniden dener.
 
 ## Hafta 1 (1–7 Ekim) — Temel, güvenlik, ölçüm
 
-- [ ] **G01 — Kalite kapısı** · bağımlı: —
+- [x] **G01 — Kalite kapısı** · bağımlı: —
   - `npm run kalite:hizli`: tsc --noEmit + eslint + tüm `node --test` takımları (quality, ders-notlari,
     scripts, uyelik, galaxy, yargi). `npm run kalite`: bunlar + `next build`.
   - Mevcut kırmızı testleri ve tip hatalarını düzelt; başlangıç sonucunu `raporlar/kalite-baslangic.md`'ye yaz.
   - Kabul: iki komut da yeşil; süreleri kayıtlı.
+
+- [ ] **G01b — Lint borcu** · bağımlı: G01
+  - `scripts/lint-taban.json`'daki 82 hata (34 dosya): önce `react-hooks/rules-of-hooks` (3, gerçek hata
+    adayı), sonra `set-state-in-effect` (16), iç bağlantılarda `<a>` → `<Link>` (25), kalanlar.
+  - Her düzeltme davranışı koruyan bir testle ya da ekran kontrolüyle; cırcır tabanı kendiliğinden düşer.
+  - Kabul: taban ≤ 10 hata; kalanların gerekçesi raporda.
 
 - [ ] **G02 — Bağımlılık açıkları** · bağımlı: G01
   - `npm audit --omit=dev` (2026-09-30): 1 kritik (next: App Router ara katman atlatma), 7 yüksek

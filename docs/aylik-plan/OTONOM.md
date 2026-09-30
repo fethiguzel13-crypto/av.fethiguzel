@@ -29,7 +29,10 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
    impeccable, dataviz, hukuki-halusinasyon-onleme, akademik-hukuk-uslubu, test-driven-development).
 7. Doğrula: `npm run kalite:hizli` (G01 bitmeden önce: ilgili test takımı + `npx tsc --noEmit`).
    Günün ilk oturumunda ya da büyük değişiklikten sonra `npm run kalite` (derleme dahil).
-8. Commit (yerel): yalnız bu oturumun dosyalarını ekle (`git add <yollar>`), mesaj depo alışkanlığıyla:
+8. Commit (yerel): derlemenin yeniden ürettiği yalnız zaman damgası değişen dosyaları geri al
+   (`git checkout -- public/*sitemap*.xml public/data/publishable.json public/data/site-search-index.json`);
+   bunlar yayın günü tek seferde üretilir. Sonra yalnız bu oturumun dosyalarını ekle (`git add <yollar>`),
+   mesaj depo alışkanlığıyla:
    `feat(alan): ...`, `fix(alan): ...`; son satır:
    `Co-Authored-By: Claude Opus 5.5 (1M context) <noreply@anthropic.com>`.
 9. Kayıt: `ILERLEME.md` sonuna bir blok ekle (tarih-saat, görev, yapılanlar, test sonucu, commit kısa

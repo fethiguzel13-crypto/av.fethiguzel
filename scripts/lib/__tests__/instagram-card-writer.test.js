@@ -27,11 +27,12 @@ describe('buildCardHtml', () => {
     assert.ok(html.includes('Test özeti metni burada yer alır.'));
   });
 
-  it('truncates konu at 120 chars', () => {
-    const longKonu = 'A'.repeat(200);
+  it('truncates card text at 190 chars (parşömen kart tasarımı)', () => {
+    const longKonu = 'A'.repeat(300);
     const html = buildCardHtml({ ...HIGHLIGHT, konu: longKonu, publicSummary: '' });
     assert.ok(html.includes('…'));
-    assert.ok(!html.includes('A'.repeat(121)));
+    assert.ok(html.includes('A'.repeat(189)));
+    assert.ok(!html.includes('A'.repeat(190)));
   });
 
   it('renders without kunye when missing', () => {

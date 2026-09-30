@@ -7,37 +7,35 @@ const MOCK_HIGHLIGHTS = [
   { id: 'yarg-1', source: 'Yargıtay', konu: 'Tazminat', publicSummary: 'Yargıtay özeti.', category: 'YİBK' },
 ];
 
+// Sahte LLM: gerçek API'ye gidilmez (writeCaptions(highlights, { complete })).
+const complete = async () => 'Test caption metni.';
+
 test('writeCaptions returns one caption per highlight', async () => {
-  const mockClient = {
-    messages: { create: async () => ({ content: [{ type: 'text', text: 'Test caption metni.' }] }) }
-  };
-  const result = await writeCaptions(MOCK_HIGHLIGHTS, mockClient);
+  const result = await writeCaptions(MOCK_HIGHLIGHTS, { complete });
   assert.equal(result.length, 2);
 });
 
 test('writeCaptions appends correct AYM hashtags', async () => {
-  const mockClient = {
-    messages: { create: async () => ({ content: [{ type: 'text', text: 'Caption.' }] }) }
-  };
-  const [caption] = await writeCaptions([MOCK_HIGHLIGHTS[0]], mockClient);
+  const [caption] = await writeCaptions([MOCK_HIGHLIGHTS[0]], { complete });
   assert.ok(caption.includes('#AYM'));
   assert.ok(caption.includes('#hukuk'));
 });
 
 test('writeCaptions appends YİBK hashtags for Yargıtay YİBK category', async () => {
-  const mockClient = {
-    messages: { create: async () => ({ content: [{ type: 'text', text: 'Caption.' }] }) }
-  };
-  const [caption] = await writeCaptions([MOCK_HIGHLIGHTS[1]], mockClient);
+  const [caption] = await writeCaptions([MOCK_HIGHLIGHTS[1]], { complete });
   assert.ok(caption.includes('#YİBK'));
 });
 
-test('writeCaptions throws when API response is empty', async () => {
-  const mockClient = {
-    messages: { create: async () => ({ content: [] }) }
+test('writeCaptions adds the site line once when the model omitted it', async () => {
+  const [caption] = await writeCaptions([MOCK_HIGHLIGHTS[0]], { complete });
+  assert.equal(caption.match(/avfethiguzel\.com/g).length, 1);
+  const [withSite] = await writeCaptions([MOCK_HIGHLIGHTS[0]], { complete: async () => 'Metin. avfethiguzel.com' });
+  assert.equal(withSite.match(/avfethiguzel\.com/g).length, 1);
+});
+
+test('writeCaptions propagates LLM failure (empty model answer)', async () => {
+  const failing = async () => {
+    throw new Error('LLM yok/başarısız. kısa cevap: ');
   };
-  await assert.rejects(
-    () => writeCaptions([MOCK_HIGHLIGHTS[0]], mockClient),
-    /empty/i
-  );
+  await assert.rejects(() => writeCaptions([MOCK_HIGHLIGHTS[0]], { complete: failing }), /LLM/);
 });

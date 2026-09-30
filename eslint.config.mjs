@@ -12,6 +12,14 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Derleme çıktıları ve günlükler (Aylık plan G01): kaynak değil.
+    "logs/**",
+    "mobile/android/**",
+    "mobile/www/**",
+    "mobile/mobile/**",
+    "public/**",
+    // Kökteki eski tek seferlik araç betikleri (2026-05 dönemi); yeni kod scripts/ altındadır.
+    "*.js",
   ]),
 ]);
 

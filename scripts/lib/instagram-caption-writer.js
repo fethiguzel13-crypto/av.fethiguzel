@@ -62,11 +62,12 @@ export async function generateCardHeadlines(highlights) {
   return headlines;
 }
 
-export async function writeCaptions(highlights) {
+/** @param {{ complete?: typeof completeText }} [deps] testler sahte LLM verir (gerçek API çağrısı yapılmaz) */
+export async function writeCaptions(highlights, { complete = completeText } = {}) {
   const captions = [];
   for (const h of highlights) {
     const site = (h.url || 'https://avfethiguzel.com').replace(/^https?:\/\//, '');
-    const raw = await completeText({
+    const raw = await complete({
       system: SYSTEM,
       maxTokens: 900,
       minChars: 280,
