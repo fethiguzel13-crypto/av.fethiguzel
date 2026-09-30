@@ -70,6 +70,10 @@ $PID | Set-Content $Lock -Encoding ascii
 
 try {
   Set-Location $Portal
+  # Kullanıcı ortamındaki ANTHROPIC_API_KEY (sitenin günlük betikleri için) claude.ai girişinin önüne
+  # geçer ve ücretli API kredisini kullandırır; 2026-09-30 18:00/21:00 oturumları "Credit balance is
+  # too low" ile düştü. Yalnız bu süreçten kaldırılır → oturum abonelik girişiyle çalışır.
+  foreach ($n in "ANTHROPIC_API_KEY", "ANTHROPIC_AUTH_TOKEN") { Remove-Item "Env:$n" -ErrorAction SilentlyContinue }
   $out = Join-Path $LogDir ("{0}.log" -f (Get-Date -Format "yyyyMMdd-HHmm"))
   if ($Deneme) {
     $prompt = "Yalnızca 'otonom hazır' yaz ve dur. Hiçbir araç kullanma."

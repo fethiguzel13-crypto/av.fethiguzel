@@ -40,6 +40,14 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
 10. Süre: yaklaşık 110 dakikadan sonra yeni iş başlatma; ağacı temiz bırak (gerekirse `wip:` önekli
     yerel commit) ve 9. adımı yap. Kullanım sınırı uyarısı gelirse hemen 8–9. adımları yap.
 
+## Teknik tuzaklar
+
+- `.ps1` dosyası düzenlendikten sonra UTF-8 BOM yeniden eklenir (düzenleme aracı BOM'u siler; PowerShell 5.1
+  Türkçe karakterli betiği BOM'suz ANSI okur ve ayrıştırma hatası verir). Sonra
+  `[System.Management.Automation.Language.Parser]::ParseFile` ile sözdizimi doğrulanır.
+- Başsız oturum `ANTHROPIC_API_KEY` görürse abonelik yerine API kredisi kullanır; çalıştırıcı bunu
+  kaldırır, elle `claude -p` çağrılırken de kaldırılmalıdır.
+
 ## Kalite çıtası
 
 - Her görev bittiğinde kullanıcıya gösterilebilir durumda olmalı: test yeşil, derleme geçer, rapor yazılı.
