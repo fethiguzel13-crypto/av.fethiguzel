@@ -1,6 +1,6 @@
 # Otonom oturum yordamı (1–30 Ekim 2026)
 
-Bu dosya, `scripts/otonom/calis.ps1` tarafından 3 saatte bir başlatılan başsız (`claude -p`) oturumun
+Bu dosya, `scripts/otonom/calis.ps1` tarafından saatte bir (ve kullanım limiti yenilenince) başlatılan başsız (`claude -p`) oturumun
 talimatıdır. Kullanıcı bu dönemde "ben demeden çalışmaya başla ve devam ettir" dedi; soru sorulmaz,
 karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorular.md`'ye yazılır.
 

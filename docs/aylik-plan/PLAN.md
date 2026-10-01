@@ -15,9 +15,10 @@ sıralarda çıksın sitem. Avukat kimliğimi, yazar kimliğimi, reklam yapmadan
 sorgularında üst sıralara çıkacak nitelikte bir site + mobil uygulama.
 
 **Yöntem:** Yerel `main` dalında çalışılır, her görev yerel commit ile kapanır. Push `.git/hooks/pre-push`
-kilidiyle 2026-10-30'a kadar engellidir. Otonom oturumlar 3 saatte bir `FethiGuzel-OtonomCalisma`
+kilidiyle 2026-10-30'a kadar engellidir. Otonom oturumlar saatte bir `FethiGuzel-OtonomCalisma`
 zamanlanmış göreviyle başlar (`scripts/otonom/calis.ps1`); kullanım sınırı dolduysa oturum kısa sürede
-biter, bir sonraki pencerede yeniden dener.
+biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonrasına tek seferlik
+`FethiGuzel-OtonomYenileme` görevi kurar (okunamazsa saatlik tetik yakalar).
 
 ## Genel kurallar (her görev için geçerli)
 
