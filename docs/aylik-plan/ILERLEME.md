@@ -71,3 +71,20 @@ Bu blok 23:00 oturumunda commit'lerden yeniden kuruldu; önceki oturumlar ILERLE
   content-pack Host, arşiv deneme sınırı). `test:uyelik` 27 → 61; toplam 510 test; `npm run kalite`
   yeşil. Commit `8a625ea35`. Rapor `raporlar/guvenlik-api.md`; kullanıcı soruları 5–6.
 - Sıradaki: G05 (mobil uygulama güvenliği).
+
+## 2026-10-01 23:00 — G05 Mobil uygulama güvenliği (başsız oturum) — TAMAM
+
+- Önce önceki oturumların eksik kaydı yazıldı ve G04'ün commit'lenmemiş PLAN.md işareti commit'lendi (`8df9aaec3`).
+- **M1 (orta):** Play inceleme kodu `uyelik.ts`'de düz metindi; GitHub deposu herkese açık (API 200) ve kod
+  `origin/main`'de → kodu okuyan herkes ücretli arşivin tam metnini açabiliyordu. Pakete artık yalnız tuzlu
+  SHA-256 özeti giriyor (`lib/inceleme.mjs`); kod git dışı `mobile/inceleme-kodu.local.txt`'de (yeni, 80 bit).
+- **M2 (düşük):** FileProvider tüm ortak depolama → uygulamanın Pictures klasörü.
+- M3 (sunucu tarafı abonelik doğrulaması yok), M4 (yedekleme kuralları Android sürümüne göre farklı), M5 (sürümde
+  lint kapalı) raporda; kullanıcı soruları 7–9. G26'ya Play inceleme metni notu.
+- Testler: `mobile/scripts/__tests__/guvenlik.test.mjs` 16 test (önce kırmızı). `kalite:hizli` 526 test yeşil.
+  Arayüz derlemesinde özet var, düz kod yok; `smoke-ui` inceleme kodu adımı geçti.
+- Ayrı bulgu (G14'e not): `mobile/data-src/icthat/archive.json.gz` konu zenginleştirmesi olmadan üretilmiş;
+  `smoke-ui` arşiv konu başlığı ve arama hızı adımlarında kırmızı (G05 ile ilgisiz). Kalite kapısı
+  `public/priority-sitemap.xml`'i yalnız satır sonu farkıyla yeniden yazıyor; geri alındı.
+- Commit `96947f660`. Rapor `raporlar/guvenlik-mobil.md`.
+- Sıradaki: G06 (SEO ve performans başlangıç ölçümü).
