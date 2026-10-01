@@ -1,4 +1,5 @@
 import { NextResponse } from 'next/server';
+import { kanunKimligi, paketAdresleri } from '@/lib/paket-kaynak';
 
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
@@ -17,28 +18,13 @@ export async function GET(
   context: { params: Promise<{ kanunId: string }> }
 ) {
   const { kanunId: raw } = await context.params;
-  const kanunId = String(raw || '')
-    .toLowerCase()
-    .replace(/[^a-z0-9-]/g, '');
-  if (!kanunId || kanunId.length > 64) {
+  const kanunId = kanunKimligi(raw);
+  if (!kanunId) {
     return NextResponse.json({ error: 'invalid kanunId' }, { status: 400 });
   }
 
-  const origin = new URL(request.url).origin;
-  const file = `${encodeURIComponent(kanunId)}.json.gz`;
-  const urls = [
-    `${origin}/packs/${file}`,
-    `${origin}/content-packs/${file}`,
-    // Same-deploy host (preview URLs) + production mirrors
-    ...(process.env.VERCEL_URL
-      ? [
-          `https://${process.env.VERCEL_URL.replace(/^https?:\/\//, '')}/packs/${file}`,
-          `https://${process.env.VERCEL_URL.replace(/^https?:\/\//, '')}/content-packs/${file}`,
-        ]
-      : []),
-    `https://www.avfethiguzel.com/content-packs/${file}`,
-    `https://cdn.jsdelivr.net/gh/fethiguzel13-crypto/av.fethiguzel@main/content-packs/${file}`,
-  ];
+  // Same-deploy host (preview URLs) + production mirrors; request Host is used only if trusted.
+  const urls = paketAdresleri(request.url, kanunId);
 
   const tried: { url: string; status?: number; bytes?: number; error?: string }[] = [];
 
@@ -68,10 +54,9 @@ export async function GET(
         },
       });
     } catch (e) {
-      tried.push({
-        url,
-        error: e instanceof Error ? e.message : String(e),
-      });
+      // Internal error text stays in the server log, not in the public 404 body.
+      console.error('[content-pack]', url, e instanceof Error ? e.message : String(e));
+      tried.push({ url, error: 'unreachable' });
     }
   }
 

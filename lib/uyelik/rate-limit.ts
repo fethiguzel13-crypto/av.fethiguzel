@@ -14,6 +14,12 @@ export function rateLimit(key: string, limit: number, windowMs: number): boolean
   return true;
 }
 
+/** Sayacı artırmadan sınırın dolup dolmadığını söyler; yalnız başarısız denemeleri saymak için. */
+export function rateLimitDolu(key: string, limit: number): boolean {
+  const cur = buckets.get(key);
+  return Boolean(cur && cur.reset >= Date.now() && cur.n >= limit);
+}
+
 export function clientIp(req: Request): string {
   const h = req.headers;
   return (

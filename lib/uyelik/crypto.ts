@@ -1,5 +1,5 @@
 import { scryptAsync } from '@noble/hashes/scrypt.js';
-import { sessionSecret } from './config';
+import { hasSessionSecret, sessionSecret } from './config';
 import type { SessionPayload } from './types';
 
 const KEYLEN = 32;
@@ -114,6 +114,9 @@ export async function signSession(payload: SessionPayload): Promise<string> {
 
 export async function readSession(token: string | undefined | null): Promise<SessionPayload | null> {
   if (!token) return null;
+  // Sır yoksa sessionSecret() kaynakta yazılı sabit bir metne düşer; o metinle imzalanmış çerez
+  // herkesçe üretilebilir. Üretimde bu durumda hiçbir oturum kabul edilmez (G04/B2).
+  if (process.env.NODE_ENV === 'production' && !hasSessionSecret()) return null;
   const dot = token.lastIndexOf('.');
   if (dot < 8) return null;
   const body = token.slice(0, dot);

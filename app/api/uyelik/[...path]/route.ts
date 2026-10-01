@@ -1,7 +1,8 @@
 import { NextResponse } from 'next/server';
 import { handleUyelik } from '@/lib/uyelik/http';
 
-export const runtime = 'edge';
+// Edge çalışma ortamı Next 16'da kullanımdan kalktı; lib/uyelik Node'un Web Crypto'su ve node:crypto ile çalışır.
+export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
 
 type Ctx = { params: Promise<{ path: string[] }> };
@@ -11,8 +12,9 @@ async function run(req: Request, ctx: Ctx) {
         const { path } = await ctx.params;
         return await handleUyelik(req, path || []);
     } catch (e) {
-        const msg = e instanceof Error ? e.message : 'Sunucu hatası';
-        return NextResponse.json({ ok: false, error: msg }, { status: 500 });
+        // İç hata metni (depo, ödeme sağlayıcısı) istemciye verilmez; sunucu logunda kalır.
+        console.error('[uyelik]', e instanceof Error ? e.message : String(e));
+        return NextResponse.json({ ok: false, error: 'Sunucu hatası. Biraz sonra yeniden deneyin.' }, { status: 500 });
     }
 }
 

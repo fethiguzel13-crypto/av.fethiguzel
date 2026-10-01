@@ -13,14 +13,13 @@ import {
     UYELIK,
 } from './config';
 import { hashPassword, newHavaleRef, newId, normalizeEmail, verifyPassword } from './crypto';
+import { adminCerezDegeri, girisGirdisiDenetle, guvenliEsit, kayitGirdisiDenetle, kokenGuvenilir } from './guvenlik';
 import { paymentOk, retrieveCheckout, startCheckout, userIdFromResponse } from './iyzico';
-import { activateMembership } from './membership';
-import { clientIp, rateLimit } from './rate-limit';
+import { activateMembership, extendUntil } from './membership';
+import { clientIp, rateLimit, rateLimitDolu } from './rate-limit';
 import { applySessionCookies, cookieOptions, getAccess, setSessionCookie, clearSessionCookie } from './session';
 import { getUserByEmail, getUserById, listUsers, updateUser, upsertUser } from './store';
 import type { UserRecord } from './types';
-
-const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 function json(data: unknown, status = 200, extra?: HeadersInit) {
     return NextResponse.json(data, { status, headers: extra });
@@ -47,10 +46,14 @@ async function isAdmin(req: Request): Promise<boolean> {
     const secret = adminSecret();
     if (!secret) return false;
     const auth = req.headers.get('authorization') || '';
-    if (auth === `Bearer ${secret}`) return true;
+    if (guvenliEsit(auth, `Bearer ${secret}`)) return true;
     const jar = await cookies();
-    return jar.get(UYELIK.adminCookie)?.value === secret;
+    return guvenliEsit(jar.get(UYELIK.adminCookie)?.value || '', adminCerezDegeri(secret));
 }
+
+// Yönetici ucunda IP başına 15 dakikada 10 başarısız deneme; başarılı istekler sayılmaz.
+const ADMIN_HATA_SINIRI = 10;
+const ADMIN_HATA_PENCERESI = 15 * 60 * 1000;
 
 async function needSecret(): Promise<NextResponse | null> {
     if (process.env.NODE_ENV === 'production' && !hasSessionSecret()) {
@@ -75,6 +78,12 @@ export async function handleUyelik(
 ): Promise<NextResponse> {
     const key = path.filter(Boolean).join('/');
     const method = req.method.toUpperCase();
+
+    // Başka sitenin gönderdiği form ziyaretçiyi saldırganın hesabına sokabilir (giriş CSRF'i).
+    // iyzico dönüşü siteler arası POST olduğu için denetim dışıdır; o yol token'ı iyzico'dan doğrular.
+    if (method === 'POST' && key !== 'odeme/sonuc' && !kokenGuvenilir(req, siteOrigin())) {
+        return json({ ok: false, error: 'İstek başka bir siteden geldi.' }, 403);
+    }
 
     if (method === 'GET' && (key === 'ben' || key === '')) {
         const { publicUser, member, user } = await getAccess();
@@ -116,14 +125,15 @@ export async function handleUyelik(
         if (!rateLimit(`giris:${clientIp(req)}`, 12, 15 * 60 * 1000)) {
             return json({ ok: false, error: 'Çok fazla deneme. Bir süre sonra yeniden deneyin.' }, 429);
         }
-        let body: { email?: string; password?: string };
+        let body: unknown;
         try {
             body = await req.json();
         } catch {
             return json({ ok: false, error: 'Geçersiz istek.' }, 400);
         }
-        const email = normalizeEmail(body.email || '');
-        const password = String(body.password || '');
+        const girdi = girisGirdisiDenetle(body);
+        if (!girdi.ok) return json({ ok: false, error: girdi.error }, girdi.error === 'Geçersiz istek.' ? 400 : 401);
+        const { email, password } = girdi;
         const user = await getUserByEmail(email);
         if (!user || !(await verifyPassword(password, user.passwordHash))) {
             return json({ ok: false, error: 'E-posta veya şifre hatalı.' }, 401);
@@ -144,28 +154,15 @@ export async function handleUyelik(
         if (!rateLimit(`kayit:${clientIp(req)}`, 8, 60 * 60 * 1000)) {
             return json({ ok: false, error: 'Çok fazla deneme. Bir süre sonra yeniden deneyin.' }, 429);
         }
-        let body: {
-            email?: string;
-            password?: string;
-            name?: string;
-            kvkk?: boolean;
-            dijitalIfa?: boolean;
-        };
+        let body: unknown;
         try {
             body = await req.json();
         } catch {
             return json({ ok: false, error: 'Geçersiz istek.' }, 400);
         }
-        const email = normalizeEmail(body.email || '');
-        const password = String(body.password || '');
-        const name = String(body.name || '').trim();
-        if (!EMAIL_RE.test(email)) return json({ ok: false, error: 'Geçerli bir e-posta girin.' }, 400);
-        if (password.length < 8) return json({ ok: false, error: 'Şifre en az 8 karakter olmalı.' }, 400);
-        if (name.length < 2) return json({ ok: false, error: 'Ad soyad girin.' }, 400);
-        if (!body.kvkk) return json({ ok: false, error: 'KVKK aydınlatmasını onaylamanız gerekir.' }, 400);
-        if (!body.dijitalIfa) {
-            return json({ ok: false, error: 'Dijital içeriğin anında ifasını kabul etmeniz gerekir.' }, 400);
-        }
+        const girdi = kayitGirdisiDenetle(body);
+        if (!girdi.ok) return json({ ok: false, error: girdi.error }, 400);
+        const { email, password, name } = girdi;
         const existing = await getUserByEmail(email);
         if (existing) {
             return json({ ok: false, error: 'Bu e-posta ile kayıt var. Giriş yapın.' }, 409);
@@ -278,7 +275,20 @@ export async function handleUyelik(
         const fullId = userIdFromResponse(result);
         const found = fullId ? await getUserById(fullId) : null;
         if (!found) return NextResponse.redirect(`${origin}/uyelik/odeme?durum=hesap`, 303);
-        const activated = await activateMembership(found, 'iyzico');
+        // Aynı ödeme dönüşü tekrar çağrılırsa üyelik yeniden uzamaz (G04/B1).
+        let activated: UserRecord;
+        try {
+            activated = await activateMembership(found, 'iyzico', result.paymentId || token);
+        } catch (e) {
+            // Tahsilat yapıldı ama depo yazılamadı: üye bekletilmez, dönem sonu çerezde taşınır.
+            // Kayıt yönetici panelinden elle etkinleştirilir; log bunun için.
+            console.error('[uyelik] ödeme alındı, üyelik kaydı yazılamadı', {
+                uid: found.id,
+                paymentId: result.paymentId || null,
+                hata: e instanceof Error ? e.message : String(e),
+            });
+            activated = { ...found, membershipUntil: extendUntil(found.membershipUntil) };
+        }
         // Çerezi hem jar hem yanıt üzerinden yaz: iyzico geri dönüşü siteler
         // arası POST olduğu için yalnız jar'a güvenilmez.
         try {
@@ -294,24 +304,31 @@ export async function handleUyelik(
     if ((method === 'POST' || method === 'GET') && key === 'admin/aktifle') {
         const secret = adminSecret();
         if (!secret) return json({ ok: false, error: 'UYELIK_ADMIN_SECRET tanımlı değil.' }, 503);
+        const hataAnahtari = `admin:${clientIp(req)}`;
+        if (rateLimitDolu(hataAnahtari, ADMIN_HATA_SINIRI)) {
+            return json({ ok: false, error: 'Çok fazla başarısız deneme. Bir süre sonra yeniden deneyin.' }, 429);
+        }
+        const yetkisiz = () => {
+            rateLimit(hataAnahtari, ADMIN_HATA_SINIRI, ADMIN_HATA_PENCERESI);
+            return json({ ok: false, error: 'Yetkisiz.' }, 401);
+        };
         if (method === 'GET') {
-            if (!(await isAdmin(req))) return json({ ok: false, error: 'Yetkisiz.' }, 401);
+            if (!(await isAdmin(req))) return yetkisiz();
             const users = await listUsers();
             return json({ ok: true, users: users.map(stripHash) });
         }
-        let body: { secret?: string; email?: string; list?: boolean };
+        let body: { secret?: string; email?: string; list?: boolean; odemeKimligi?: string };
         try {
-            body = await req.json();
+            body = (await req.json()) || {};
         } catch {
             return json({ ok: false, error: 'Geçersiz istek.' }, 400);
         }
-        if (body.secret === secret) {
+        const sirDogru = guvenliEsit(String(body.secret || ''), secret);
+        if (sirDogru) {
             const jar = await cookies();
-            jar.set(UYELIK.adminCookie, secret, { ...cookieOptions(), maxAge: 60 * 60 * 12 });
+            jar.set(UYELIK.adminCookie, adminCerezDegeri(secret), { ...cookieOptions(), maxAge: 60 * 60 * 12 });
         }
-        if (!(await isAdmin(req)) && body.secret !== secret) {
-            return json({ ok: false, error: 'Yetkisiz.' }, 401);
-        }
+        if (!sirDogru && !(await isAdmin(req))) return yetkisiz();
         if (body.list) {
             const users = await listUsers();
             return json({ ok: true, users: users.map(stripHash) });
@@ -319,7 +336,10 @@ export async function handleUyelik(
         const email = normalizeEmail(body.email || '');
         const user = await getUserByEmail(email);
         if (!user) return json({ ok: false, error: 'Üye bulunamadı.' }, 404);
-        const activated = await activateMembership(user, 'admin');
+        // Depo kesintisinde kaydedilemeyen iyzico ödemesi elle işlenirken logdaki paymentId verilir; böylece
+        // aynı ödeme dönüşü sonradan tekrar çağrılınca bir dönem daha eklenmez.
+        const odemeKimligi = String(body.odemeKimligi || '').trim().slice(0, 100) || undefined;
+        const activated = await activateMembership(user, 'admin', odemeKimligi);
         return json({ ok: true, user: stripHash(activated) });
     }
 

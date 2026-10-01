@@ -11,6 +11,8 @@ export type UserRecord = {
   pendingAt: string | null;
   lastPaymentAt: string | null;
   lastPaymentKind: 'iyzico' | 'havale' | 'admin' | null;
+  /** Üyeliği uzatmış ödeme kimlikleri (son 20); aynı ödemenin tekrar işlenmesini engeller. */
+  islenenOdemeler?: string[];
 };
 
 export type SessionPayload = {

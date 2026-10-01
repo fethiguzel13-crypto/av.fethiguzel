@@ -34,15 +34,19 @@ async function kvCommand(command: unknown[]): Promise<{ result?: unknown } | nul
   }
 }
 
-async function kvGet(): Promise<StoreFile | null> {
+type KvOkuma = { ok: true; store: StoreFile | null } | { ok: false };
+
+/** `ok: false` = KV'ye ulaşılamadı ya da içerik bozuk; bu durumda depo üzerine yazılmamalıdır. */
+async function kvGet(): Promise<KvOkuma> {
   const json = await kvCommand(['GET', KV_KEY]);
-  if (!json || json.result == null) return null;
+  if (!json) return { ok: false };
+  if (json.result == null) return { ok: true, store: null };
   try {
     const parsed = JSON.parse(String(json.result)) as StoreFile;
-    if (!parsed || !Array.isArray(parsed.users)) return null;
-    return parsed;
+    if (!parsed || !Array.isArray(parsed.users)) return { ok: false };
+    return { ok: true, store: parsed };
   } catch {
-    return null;
+    return { ok: false };
   }
 }
 
@@ -51,22 +55,37 @@ async function kvSet(store: StoreFile): Promise<boolean> {
   return Boolean(json);
 }
 
+/**
+ * Okuma: KV tanımlıysa her seferinde taze okunur; birden çok sunucu örneği aynı anahtarı paylaşır
+ * ve bellekteki kopya başka örneğin yazısını görmez (G04/B6). KV'ye ulaşılamazsa son bilinen hâl.
+ */
 async function loadStore(): Promise<StoreFile> {
-  if (mem) return mem;
   if (kvConfigured()) {
-    const fromKv = await kvGet();
-    if (fromKv) {
-      mem = fromKv;
+    const r = await kvGet();
+    if (r.ok) {
+      mem = r.store || emptyStore();
       return mem;
     }
+    return mem || emptyStore();
   }
-  mem = emptyStore();
+  if (!mem) mem = emptyStore();
+  return mem;
+}
+
+/** Yazma: KV okunamıyorsa yazı reddedilir; bayat ya da boş kopya bütün üyeleri ezebilir. */
+async function loadStoreForWrite(): Promise<StoreFile> {
+  if (kvConfigured()) {
+    const r = await kvGet();
+    if (!r.ok) throw new Error('Üye deposu okunamadı; yazı yapılmadı.');
+    return r.store || emptyStore();
+  }
+  if (!mem) mem = emptyStore();
   return mem;
 }
 
 async function persist(store: StoreFile): Promise<void> {
+  if (kvConfigured() && !(await kvSet(store))) throw new Error('Üye deposu yazılamadı.');
   mem = store;
-  if (kvConfigured()) await kvSet(store);
 }
 
 function enqueue<T>(fn: () => Promise<T>): Promise<T> {
@@ -95,7 +114,7 @@ export async function listUsers(): Promise<UserRecord[]> {
 
 export async function upsertUser(user: UserRecord): Promise<UserRecord> {
   return enqueue(async () => {
-    const store = await loadStore();
+    const store = await loadStoreForWrite();
     const i = store.users.findIndex((u) => u.id === user.id || u.email === user.email);
     if (i >= 0) store.users[i] = user;
     else store.users.push(user);
@@ -108,10 +127,24 @@ export async function updateUser(
   id: string,
   patch: Partial<UserRecord>
 ): Promise<UserRecord | null> {
+  return mutateUser(id, () => patch);
+}
+
+/**
+ * Yazma kuyruğunda kaydın GÜNCEL hâlini görerek değiştirir. `fn` null dönerse kayıt olduğu gibi
+ * kalır. Karar güncel kayda bağlıysa (ör. bu ödeme daha önce işlendi mi) updateUser yerine bu
+ * kullanılır; çağıranın elindeki nesne bayat olabilir.
+ */
+export async function mutateUser(
+  id: string,
+  fn: (current: UserRecord) => Partial<UserRecord> | null
+): Promise<UserRecord | null> {
   return enqueue(async () => {
-    const store = await loadStore();
+    const store = await loadStoreForWrite();
     const i = store.users.findIndex((u) => u.id === id);
     if (i < 0) return null;
+    const patch = fn(store.users[i]);
+    if (!patch) return store.users[i];
     store.users[i] = { ...store.users[i], ...patch, id: store.users[i].id };
     await persist(store);
     return store.users[i];
