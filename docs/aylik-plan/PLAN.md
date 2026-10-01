@@ -42,6 +42,14 @@ biter, bir sonraki pencerede yeniden dener.
 
 ## Hafta 1 (1–7 Ekim) — Temel, güvenlik, ölçüm
 
+- [ ] **G00 — ACİL: canlı site kapalı (Vercel 402 DEPLOYMENT_DISABLED)** · 2026-10-01 tespit · KULLANICI EYLEMİ
+  - avfethiguzel.com ve www: tüm adresler (robots.txt, sitemap, API dahil) 402 "Payment required".
+    Ödeme ya da kullanım limiti; yalnız kullanıcı Vercel panelinden (Usage / Billing) çözebilir.
+  - Ajanın payı: kullanım sürücülerini azaltan değişiklikleri hazırla (her madde için çalışan Node
+    route → statik/önbellekli; API yanıtlarına CDN önbellek başlıkları; görsel optimizasyon kullanımı)
+    ve `raporlar/vercel-kullanim.md`'ye yaz. Kullanıcı panelden hangi limitin aşıldığını söyleyince öncelik buna göre.
+  - Bu değişiklikler de 30 Ekim'e kadar push edilmez; kullanıcı erken yayın isterse karar onundur.
+
 - [x] **G01 — Kalite kapısı** · bağımlı: —
   - `npm run kalite:hizli`: tsc --noEmit + eslint + tüm `node --test` takımları (quality, ders-notlari,
     scripts, uyelik, galaxy, yargi). `npm run kalite`: bunlar + `next build`.
@@ -49,23 +57,27 @@ biter, bir sonraki pencerede yeniden dener.
   - Kabul: iki komut da yeşil; süreleri kayıtlı.
 
 - [ ] **G01b — Lint borcu** · bağımlı: G01
-  - `scripts/lint-taban.json`'daki 82 hata (34 dosya): önce `react-hooks/rules-of-hooks` (3, gerçek hata
-    adayı), sonra `set-state-in-effect` (16), iç bağlantılarda `<a>` → `<Link>` (25), kalanlar.
+  - `scripts/lint-taban.json`'daki 82 hata (34 dosya). Not: başlangıçtaki 3 `rules-of-hooks` hatası mobil derleme
+    çıktısındaydı (kapsam dışı), gerçek hata değil. Önce `set-state-in-effect` (16), iç bağlantılarda `<a>` → `<Link>` (25), kalanlar.
   - Her düzeltme davranışı koruyan bir testle ya da ekran kontrolüyle; cırcır tabanı kendiliğinden düşer.
   - Kabul: taban ≤ 10 hata; kalanların gerekçesi raporda.
 
-- [ ] **G02 — Bağımlılık açıkları** · bağımlı: G01
+- [x] **G02 — Bağımlılık açıkları** · bağımlı: G01
   - `npm audit --omit=dev` (2026-09-30): 1 kritik (next: App Router ara katman atlatma), 7 yüksek
     (postcss XSS, js-yaml, form-data, nanoid, adm-zip, @xmldom/xmldom), 1 orta.
   - Next.js'i aynı ana sürümün yamalı sürümüne yükselt; kalanları `npm audit fix` (—force yok) ile kapat.
   - Kabul: kritik/yüksek 0 (kalan varsa gerekçesi raporda); `npm run kalite` yeşil; mobil audit temiz.
 
-- [ ] **G03 — Güvenlik başlıkları ve CSP** · bağımlı: G01
+- [x] **G03 — Güvenlik başlıkları ve CSP** · bağımlı: G01
   - `next.config.ts`'de CSP yok. Katı CSP (script-src 'self' + gerekli alanlar, frame-ancestors 'none',
     object-src 'none', base-uri 'self'), COOP/CORP ekle. iyzico ödeme betikleri ve GSAP için izinleri
     ölç, gereksiz alanı açma.
   - Başlıkları doğrulayan test (`next.config` → `headers()` çıktısı) yaz.
   - Kabul: yerel `next start`'ta tüm sayfalar CSP ihlali olmadan açılır (tarayıcı konsolu/curl ile ölç).
+
+- [ ] **G03b — Arama sayfası hydration hatası** · bağımlı: G03
+  - `/ara?q=kira` derlenmiş sitede React #418 (sunucu HTML'i istemciyle uyuşmuyor). `node scripts/csp-dogrula.mjs` ile yeniden üretilir.
+  - Kök nedeni bul (tarih/saat, searchParams, tarayıcıya özgü değer), testle sabitle.
 
 - [ ] **G04 — API ve üyelik güvenlik denetimi** · bağımlı: G01 · beceri: security-review
   - `app/api/uyelik/[...path]`, `app/api/yargi/[...path]`, `app/api/content-pack/[kanunId]`,
