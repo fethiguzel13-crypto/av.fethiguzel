@@ -343,6 +343,10 @@ ${hasCommentary ? 'Şerh akademik niteliktedir.' : ''} Arama: ${code} madde ${n}
   };
 }
 
+// Var olmayan madde: tarayıcıda 5 dk, CDN'de 1 saat. Önceden yalnız tarayıcı önbelleği vardı; olmayan
+// adresleri tarayan her bot isteği ayrı fonksiyon çağrısıydı (Aylık plan G00 — Vercel kullanımı).
+const KALICI_HATA_ONBELLEGI = 'public, max-age=300, s-maxage=3600';
+
 export async function GET(req: Request, ctx: Ctx) {
   const { kanunId: rawKanun, id: rawId } = await ctx.params;
   const kanunId = String(rawKanun || '').toLowerCase();
@@ -355,11 +359,21 @@ export async function GET(req: Request, ctx: Ctx) {
   }
 
   if (!kanunId || !id) {
-    return new Response('Not found', { status: 404 });
+    return new Response('Not found', {
+      status: 404,
+      headers: { 'Cache-Control': KALICI_HATA_ONBELLEGI },
+    });
   }
 
   if (rawId !== id || String(rawKanun) !== kanunId) {
-    return Response.redirect(`${SITE}/mevzuat/${kanunId}/${id}`, 308);
+    // Response.redirect önbellek başlığı taşımaz; kalıcı yönlendirme CDN'de tutulur.
+    return new Response(null, {
+      status: 308,
+      headers: {
+        Location: `${SITE}/mevzuat/${kanunId}/${id}`,
+        'Cache-Control': 'public, s-maxage=86400',
+      },
+    });
   }
 
   try {
@@ -376,7 +390,7 @@ export async function GET(req: Request, ctx: Ctx) {
           status: 404,
           headers: {
             'Content-Type': 'text/html; charset=utf-8',
-            'Cache-Control': 'public, max-age=300',
+            'Cache-Control': KALICI_HATA_ONBELLEGI,
           },
         }
       );

@@ -4,10 +4,16 @@ import Link from "@/components/SiteLink";
 import { ExternalLink } from 'lucide-react';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
-import { loadAnalysis } from '@/lib/analysis';
+import { loadAnalysis, loadAvailableAnalysisIds } from '@/lib/analysis';
 
 interface Props {
   params: Promise<{ id: string }>;
+}
+
+// Mevcut analizler derlemede statik üretilir; sonradan eklenenler ilk ziyarette bir kez çizilip önbellekten
+// sunulur (ISR). Önceden her istek dosya sisteminden okuyan ayrı fonksiyon çağrısıydı (Aylık plan G00).
+export function generateStaticParams() {
+  return loadAvailableAnalysisIds().map((id) => ({ id }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

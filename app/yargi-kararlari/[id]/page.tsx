@@ -8,6 +8,13 @@ export const metadata: Metadata = {
   robots: { index: false, follow: true },
 };
 
+// Kabuk sayfa: karar metni istemcide üyelik denetimli /api/yargi/karar/[id]'den gelir; sunucu çizimi kimliğe
+// bağlı değildir. Boş liste → her kimlik ilk ziyarette bir kez çizilir ve önbellekten sunulur (ISR); önceden
+// her istek ayrı fonksiyon çağrısıydı (Aylık plan G00 — Vercel kullanımı).
+export function generateStaticParams() {
+  return [];
+}
+
 export default function YargiKararPage() {
   return (
     <>
