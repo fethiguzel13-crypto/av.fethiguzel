@@ -1,3 +1,4 @@
+import Link from "@/components/SiteLink";
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
@@ -54,9 +55,9 @@ export default async function BolgeYaziSlugPage({ params }: Props) {
         <BolgeMakaleView makale={makale} siblings={siblings} />
         <p className="mt-10 text-center text-xs text-charcoal/40">
           Tüm yazılar:{' '}
-          <a href="/bolge-yazi" className="text-accent font-semibold hover:underline">
+          <Link href="/bolge-yazi" className="text-accent font-semibold hover:underline">
             /bolge-yazi
-          </a>
+          </Link>
           {' · '}
           {BOLGE_MAKALELER.length} makale
         </p>

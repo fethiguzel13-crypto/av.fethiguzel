@@ -42,6 +42,11 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
 
 ## Teknik tuzaklar
 
+- **Bilinmeyen betiği denemek için çalıştırma.** Çoğu betik argüman beklemeden işe başlar ve dosya yazar
+  (2026-10-01: `parse-kanun.cjs --help` 648 TBK şerh dosyasının üzerine yazdı; git'ten geri yüklendi).
+  Yüklenebilirliği `node --check dosya` ile doğrula; çalıştırman gerekiyorsa önce kaynağını oku ve
+  çıktı yolunu geçici bir klasöre yönlendir. İşten sonra `git status` ile beklenmeyen değişikliği ara.
+
 - `.ps1` dosyası düzenlendikten sonra UTF-8 BOM yeniden eklenir (düzenleme aracı BOM'u siler; PowerShell 5.1
   Türkçe karakterli betiği BOM'suz ANSI okur ve ayrıştırma hatası verir). Sonra
   `[System.Management.Automation.Language.Parser]::ParseFile` ile sözdizimi doğrulanır.

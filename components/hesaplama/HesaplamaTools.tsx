@@ -561,7 +561,7 @@ function FazlaMesai() {
     const hesapHafta = Math.min(toplamHafta, ZAMANASIMI_HAFTA);
     const zamanasimiVar = toplamHafta > ZAMANASIMI_HAFTA;
 
-    let toplamBrut = haftalikUcret * hesapHafta;
+    const toplamBrut = haftalikUcret * hesapHafta;
     const indirimliBrut = tanikIndirim === "evet" ? toplamBrut * 0.7 : toplamBrut;
 
     return {
@@ -2634,7 +2634,7 @@ function InfazHesaplama() {
     const st = sucTarihi ? new Date(sucTarihi) : null;
     const eski2023 = st ? st <= new Date("2023-07-31") : false;
     const mukerrir = ozel === "mukerrir";
-    let kosulluYok = ozel === "ikinci";
+    const kosulluYok = ozel === "ikinci";
     const cocuk = ozel === "cocuk";
 
     // Yaş bilgisi (doğum tarihinden)

@@ -25,7 +25,7 @@ export default function IcthatPage() {
             İçtihat & <span className="font-drama italic text-accent">Mevzuat</span>
           </h1>
           <p className="text-charcoal/60 max-w-2xl mx-auto text-base">
-            Yargıtay, Anayasa Mahkemesi, AİHM kararları ve Resmî Gazete'de yayımlanan mevzuat değişikliklerinin günlük takibi.
+            Yargıtay, Anayasa Mahkemesi, AİHM kararları ve Resmî Gazete’de yayımlanan mevzuat değişikliklerinin günlük takibi.
           </p>
           {data && (
             <p className="text-charcoal/40 text-xs font-mono uppercase tracking-widest mt-4">

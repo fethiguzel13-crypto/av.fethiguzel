@@ -1,3 +1,4 @@
+import Link from "@/components/SiteLink";
 export const dynamic = 'force-static'
 
 export default function DeployCheckPage() {
@@ -12,15 +13,15 @@ export default function DeployCheckPage() {
                     554 rehber · bilgi-sitemap · /bilgi arama · kategori sayfaları · 0 orphan
                 </p>
                 <p className="mt-2 flex flex-wrap justify-center gap-3">
-                    <a href="/mevzuat/tbk/madde-13" className="text-accent font-semibold text-sm">
+                    <Link href="/mevzuat/tbk/madde-13" className="text-accent font-semibold text-sm">
                         TBK 13 test →
-                    </a>
-                    <a href="/mevzuat/tbk" className="text-accent font-semibold text-sm">
+                    </Link>
+                    <Link href="/mevzuat/tbk" className="text-accent font-semibold text-sm">
                         TBK hub →
-                    </a>
-                    <a href="/bilgi" className="text-accent font-semibold text-sm">
+                    </Link>
+                    <Link href="/bilgi" className="text-accent font-semibold text-sm">
                         Vatandaş rehberi →
-                    </a>
+                    </Link>
                 </p>
             </div>
         </main>

@@ -21,7 +21,7 @@ export default function Articles() {
   const containerRef = useRef(null);
 
   useEffect(() => {
-    let ctx = gsap.context(() => {
+    const ctx = gsap.context(() => {
       // Animasyon yalnızca masaüstünde; mobilde içerik her zaman görünür kalır
       const mm = gsap.matchMedia();
       mm.add("(min-width: 768px)", () => {

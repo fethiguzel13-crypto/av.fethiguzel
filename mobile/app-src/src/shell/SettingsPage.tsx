@@ -122,7 +122,7 @@ export default function SettingsPage() {
           Favoriler, kayıtlar, hesap geçmişi ve tercihleriniz yalnız bu cihazda
           tutulur. Uygulama hiçbir kişisel veriyi sunucuya göndermez. Silme,
           üyelik kaydınızın yerel kopyasını da kaldırır; ödeme yaptıysanız
-          üyeliğiniz bir sonraki açılışta Google Play'den geri gelir.
+          üyeliğiniz bir sonraki açılışta Google Play’den geri gelir.
         </p>
         <button
           type="button"

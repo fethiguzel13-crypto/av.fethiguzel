@@ -13,7 +13,7 @@ export default function About() {
   const imageRef = useRef(null);
 
   useEffect(() => {
-    let ctx = gsap.context(() => {
+    const ctx = gsap.context(() => {
       gsap.from(".philo-text", {
         scrollTrigger: {
           trigger: containerRef.current,

@@ -1155,7 +1155,7 @@ function FollowPage() {
         <div className="flex-1 min-w-0">
           <h3 className="text-[14px] font-bold mb-0.5">Günlük hatırlatma</h3>
           <p className="text-[12px] text-ink-2 leading-relaxed">
-            Her sabah 08.30'da o günün özetini hatırlatır.
+            Her sabah 08.30’da o günün özetini hatırlatır.
           </p>
           {denied && (
             <p className="text-[12px] text-red-600 mt-1.5">

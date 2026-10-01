@@ -11,7 +11,7 @@ export type CapPlatform = 'web' | 'android' | 'ios' | 'unknown';
 type CapBridge = {
   isNativePlatform?: () => boolean;
   getPlatform?: () => string;
-  Plugins?: Record<string, any>;
+  Plugins?: Record<string, unknown>;
 };
 
 function cap(): CapBridge | null {
@@ -38,7 +38,7 @@ export function getNativePlatform(): CapPlatform {
   return 'unknown';
 }
 
-export function getCapPlugin<T = any>(name: string): T | null {
+export function getCapPlugin<T = unknown>(name: string): T | null {
   const plugins = cap()?.Plugins;
   if (!plugins || !plugins[name]) return null;
   return plugins[name] as T;

@@ -558,7 +558,7 @@ function EserListPage() {
       ))}
 
       <p className="mt-4 text-[12.5px] leading-relaxed text-ink-3">
-        Eserler Av. Fethi Güzel'e aittir. Alıntı yapılırken kaynak gösterilmelidir.
+        Eserler Av. Fethi Güzel’e aittir. Alıntı yapılırken kaynak gösterilmelidir.
       </p>
     </div>
   );

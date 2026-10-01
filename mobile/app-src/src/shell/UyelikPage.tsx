@@ -233,7 +233,7 @@ export default function UyelikPage() {
         onClick={() => void openExternal(yonetimAdresi(APP.packageId))}
         className="btn-ghost w-full"
       >
-        <ExternalLink size={15} /> Aboneliği Play'de yönet
+        <ExternalLink size={15} /> Aboneliği Play’de yönet
       </button>
 
       <button

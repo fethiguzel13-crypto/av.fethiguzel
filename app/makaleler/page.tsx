@@ -5,12 +5,14 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { FileText, Folder, ArrowRight, Download } from 'lucide-react';
 
-function getMakaleler(dir: string, baseDir: string = ''): any[] {
+type Makale = { name: string; path: string; category: string; ext: string };
+
+function getMakaleler(dir: string, baseDir: string = ''): Makale[] {
   const absolutePath = path.join(process.cwd(), 'public', 'makaleler', dir);
   if (!fs.existsSync(absolutePath)) return [];
   
   const items = fs.readdirSync(absolutePath);
-  let files: any[] = [];
+  let files: Makale[] = [];
 
   items.forEach(item => {
     const fullPath = path.join(absolutePath, item);
@@ -36,7 +38,7 @@ export default function MakalelerPage() {
   const articles = getMakaleler('');
 
   // Group by category
-  const grouped = articles.reduce((acc, curr) => {
+  const grouped = articles.reduce<Record<string, Makale[]>>((acc, curr) => {
     if (!acc[curr.category]) acc[curr.category] = [];
     acc[curr.category].push(curr);
     return acc;
@@ -58,7 +60,7 @@ export default function MakalelerPage() {
         </header>
 
         <div className="space-y-24">
-          {Object.entries(grouped).map(([category, items]: [string, any]) => (
+          {Object.entries(grouped).map(([category, items]) => (
             <section key={category} className="space-y-10">
               <div className="flex items-center gap-4">
                 <div className="h-[1px] flex-1 bg-charcoal/10"></div>
@@ -69,7 +71,7 @@ export default function MakalelerPage() {
               </div>
 
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                {items.map((article: any) => (
+                {items.map((article) => (
                   <div key={article.path} className="group bg-white border border-charcoal/5 rounded-[2.5rem] p-8 hover:shadow-2xl transition-all duration-500 flex flex-col justify-between">
                     <div>
                       <div className="flex justify-between items-start mb-8">

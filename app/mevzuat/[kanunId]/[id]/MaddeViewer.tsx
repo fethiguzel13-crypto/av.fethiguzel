@@ -274,7 +274,7 @@ export default function MaddeViewer({
     );
     const commentaryHtml = useMemo(() => {
         if (!article?.commentary?.trim()) return '';
-        let c = article.commentary.trim().replace(/^###\s*Akademik Yorum[^\n]*\n+/i, '');
+        const c = article.commentary.trim().replace(/^###\s*Akademik Yorum[^\n]*\n+/i, '');
         return mdToHtml(c, { listOk: true });
     }, [article]);
 

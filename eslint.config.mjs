@@ -21,6 +21,12 @@ const eslintConfig = defineConfig([
     // Kökteki eski tek seferlik araç betikleri (2026-05 dönemi); yeni kod scripts/ altındadır.
     "*.js",
   ]),
+  // CommonJS betikleri (.cjs): paket "type": "module" olduğundan require kullanan eski betikler .cjs'e
+  // taşındı (önceden .js uzantısıyla çalışmıyorlardı). CommonJS'te require doğru içe aktarma biçimidir.
+  {
+    files: ["**/*.cjs"],
+    rules: { "@typescript-eslint/no-require-imports": "off" },
+  },
 ]);
 
 export default eslintConfig;
