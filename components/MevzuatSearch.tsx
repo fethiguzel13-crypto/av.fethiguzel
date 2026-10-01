@@ -180,13 +180,23 @@ function MevzuatSearchInner({
     const searchParams = useSearchParams();
     const router = useRouter();
     const urlQuery = searchParams?.get("q") ?? "";
-    const [q, setQ] = useState(initialQuery || urlQuery);
+    // İlk çizim statik HTML ile aynı olmalı: /ara force-static derlenir, orada ?q= yoktur. URL'deki sorgu
+    // ilk çizimde okunursa React #418 (hydration uyuşmazlığı) ile tüm ağaç istemcide yeniden çizilir.
+    // Sorgu aşağıdaki effect ile mount sonrası uygulanır (Aylık plan G03b).
+    const [q, setQ] = useState(initialQuery);
     const [kanunFilter, setKanunFilter] = useState("all");
     const [index, setIndex] = useState<IndexItem[] | null>(null);
     const [siteItems, setSiteItems] = useState<SiteItem[]>([]);
-    const [loading, setLoading] = useState(true);
+    // İndeks (8.087 maddenin tam metni, ~1–1,5 MB sıkıştırılmış) yalnız arama gerçekten yapılacaksa
+    // iner: URL'de ?q= varsa hemen, yoksa kutuya odaklanınca/yazınca. Aramaya dokunmayan ziyaretçi ve
+    // sayfayı işleyen arama motoru botu indirmez (Vercel aktarım kotası + mobil hız; Aylık plan G00/G13).
+    const [interacted, setInteracted] = useState(false);
     const [error, setError] = useState<string | null>(null);
     const [visible, setVisible] = useState(PAGE_SIZE);
+    const requestIndex = useCallback(() => setInteracted(true), []);
+    // Durumdan türetilir (effect içinde setState yok): sorgu varsa ya da kullanıcı kutuya dokunduysa.
+    const needIndex = interacted || Boolean(q.trim());
+    const loading = needIndex && !index && !error;
 
     useEffect(() => {
         const next = initialQuery || urlQuery;
@@ -207,6 +217,7 @@ function MevzuatSearchInner({
     }, [q, compact, router]);
 
     useEffect(() => {
+        if (!needIndex) return;
         let cancelled = false;
         (async () => {
             try {
@@ -224,19 +235,15 @@ function MevzuatSearchInner({
                 if (!cancelled) {
                     setIndex(data.items || []);
                     setSiteItems(site);
-                    setLoading(false);
                 }
             } catch (e) {
-                if (!cancelled) {
-                    setError(e instanceof Error ? e.message : "Hata");
-                    setLoading(false);
-                }
+                if (!cancelled) setError(e instanceof Error ? e.message : "Hata");
             }
         })();
         return () => {
             cancelled = true;
         };
-    }, []);
+    }, [needIndex]);
 
     useEffect(() => {
         setVisible(PAGE_SIZE);
@@ -439,7 +446,11 @@ function MevzuatSearchInner({
                         <input
                             type="search"
                             value={q}
-                            onChange={(e) => setQ(e.target.value)}
+                            onChange={(e) => {
+                                setQ(e.target.value);
+                                requestIndex();
+                            }}
+                            onFocus={requestIndex}
                             autoFocus={autoFocus}
                             placeholder="Örn. satım, taşınır satışı, TBK 207, kıdem, nafaka…"
                             className="w-full pl-11 pr-10 py-4 rounded-2xl border border-charcoal/10 bg-white shadow-sm text-charcoal placeholder:text-charcoal/35 focus:outline-none focus:ring-2 focus:ring-accent/40 focus:border-accent/30 text-sm sm:text-base"
@@ -461,6 +472,7 @@ function MevzuatSearchInner({
                         <select
                             value={kanunFilter}
                             onChange={(e) => setKanunFilter(e.target.value)}
+                            onFocus={requestIndex}
                             className="sm:w-56 py-4 px-4 rounded-2xl border border-charcoal/10 bg-white text-sm text-charcoal/80 focus:outline-none focus:ring-2 focus:ring-accent/40"
                             aria-label="Kanun filtresi"
                         >
@@ -488,6 +500,11 @@ function MevzuatSearchInner({
                 {error && (
                     <p className="mt-4 text-center text-sm text-red-600/80">
                         {error}. Sayfayı yenileyin veya /mevzuat üzerinden gezin.
+                    </p>
+                )}
+                {!needIndex && (
+                    <p className="mt-3 text-center text-[11px] font-mono uppercase tracking-widest text-charcoal/35">
+                        Yazmaya başlayınca tüm kanunlarda tam metin araması
                     </p>
                 )}
                 {!loading && index && (
