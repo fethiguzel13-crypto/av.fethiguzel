@@ -13,3 +13,7 @@ Ajan bu maddelerde kendi başına karar vermez; en güvenli varsayımla devam ed
    getirmeyen Bytespider ve CCBot kapatılsın. *Varsayım:* onay gelene kadar dokunulmaz.
 3. **Anahtar deposu şifresi** `mobile/keystore-password-SIL-SONRA.txt` düz metin duruyor (git dışında).
    Bir şifre yöneticisine taşınması önerilir. *Varsayım:* ajan dokunmaz.
+4. **Erken yayın?** Sitenin kapanmasına büyük ihtimalle yol açan iki sorun düzeltildi (madde önden yükleme
+   fırtınası `5ffe31209`, tam metin indeksinin her açılışta inmesi `a33f0aa67`). Vercel limiti sıfırlanıp site
+   açıldığında bu düzeltmeler yayında değilse limit yeniden dolabilir. Yalnız bu iki düzeltmenin 30 Ekim'i
+   beklemeden yayına alınmasını ister misiniz? *Varsayım:* push yok (talimat gereği).

@@ -75,7 +75,7 @@ biter, bir sonraki pencerede yeniden dener.
   - Başlıkları doğrulayan test (`next.config` → `headers()` çıktısı) yaz.
   - Kabul: yerel `next start`'ta tüm sayfalar CSP ihlali olmadan açılır (tarayıcı konsolu/curl ile ölç).
 
-- [ ] **G03b — Arama sayfası hydration hatası** · bağımlı: G03
+- [x] **G03b — Arama sayfası hydration hatası** · bağımlı: G03
   - `/ara?q=kira` derlenmiş sitede React #418 (sunucu HTML'i istemciyle uyuşmuyor). `node scripts/csp-dogrula.mjs` ile yeniden üretilir.
   - Kök nedeni bul (tarih/saat, searchParams, tarayıcıya özgü değer), testle sabitle.
 

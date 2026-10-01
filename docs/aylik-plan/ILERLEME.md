@@ -42,3 +42,17 @@ Her oturum sonuna bir blok ekler. En yeni en altta.
 - Otonom çalıştırıcı: uykudan uyanınca ağı 5 dk bekliyor (09:18 oturumu ENOTFOUND ile düşmüştü). `7fde4307e`.
 - Hasat: 103.062 karar; 09:55–10:19 yerel internet kesintisinde devre kesici doğru bekledi.
 - Sıradaki: G01b (lint borcu), sonra G03b, G04.
+
+## 2026-10-01 14:30 — G00 maliyet düzeltmeleri + G03b (etkileşimli oturum)
+
+- **Önden yükleme fırtınası (G00):** madde sayfaları rota işleyicisi; next/link görünür madde bağlantılarına
+  `?_rsc=` isteği atıyordu (CDN'i deler, fonksiyon çağrısı): /mevzuat/tbk 84, /ara 25, /mevzuat 10.
+  `components/SiteLink` (madde yollarında düz `<a>`) 73 dosyada next/link'in yerine geçti → 8 sayfada 0.
+  `5ffe31209`. Denetim: `scripts/dogrula-onyukleme.mjs`.
+- **Tam metin indeksi (G00):** /mevzuat ve /ara her açılışta 8,9 MB indeks indiriyordu → yalnız arama yapılınca.
+  `a33f0aa67`. Denetim: `scripts/dogrula-arama.mjs` (7/7).
+- **G03b:** /ara hydration hatası (#418) giderildi (ilk çizim statik HTML ile aynı). `a33f0aa67`.
+- Temizlik: kullanılmayan 9 bileşen silindi, 25 MB PNG `docs/gorsel-arsiv/`'e; lint 82 → 65. `3b8649ce7`.
+- Raporlar: `raporlar/vercel-kullanim.md`, `raporlar/kullaniciya-sorular.md` (4 soru; biri erken yayın).
+- Kalite: 476 test, CSP 15/15, derleme yeşil. Canlı site hâlâ 402.
+- Sıradaki: G01b (kalan 65 lint hatası), G04 (API güvenlik).

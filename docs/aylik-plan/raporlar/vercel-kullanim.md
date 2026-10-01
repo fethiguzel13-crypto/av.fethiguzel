@@ -17,6 +17,7 @@ mevzuatı). Kapalı olan: tüm web sayfaları, üyelik ve ödeme API'leri.
 |---|---|---|---|
 | 1 | `/mevzuat` ve `/ara` her açılışta tam metin indeksini indiriyordu | 8,9 MB ham, ~1,0–1,5 MB sıkıştırılmış; 6,5 MB'ı madde metinleri | **Düzeltildi** (`a33f0aa67`): yalnız arama yapılınca iner |
 | 2 | Tüm yapay zekâ tarayıcılarına açık `robots.ts` (Bytespider, CCBot dahil) | On binlerce sayfa × sık tarama → istek ve aktarım | **Karar sizde** (aşağıda) |
+| 3a | **next/link madde sayfalarına önden yükleme atıyordu** (madde sayfası rota işleyicisi; `?_rsc=` CDN önbelleğini deliyor, her biri fonksiyon çağrısı) | /mevzuat/tbk tek ziyarette **84** istek, /ara 25, /mevzuat 10; tıklamada çift istek | **Düzeltildi** (`5ffe31209`): 8 sayfada 0, /mevzuat/tbk toplam istek 174 → 88 |
 | 3 | Her madde sayfası sunucu fonksiyonu (`/mevzuat/[kanunId]/[id]`, ~7.600 madde) | Başarılı yanıt 24 saat CDN önbelleğinde; hata yanıtlarında önbellek yok | İzleniyor |
 | 4 | Karar sayfaları (`/icthat/[id]`, `/yargi-kararlari/[id]`) dinamik | Her ziyaret fonksiyon çağrısı | G13'te önbellek/ISR |
 | 5 | `public/` 307 MB (seo-madde 102 MB, aynı paketlerin üç kopyası: packs / content-packs / app-packs) | Dağıtım boyutu (kullanım değil) | G13 |
