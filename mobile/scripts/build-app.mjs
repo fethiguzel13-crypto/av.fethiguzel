@@ -16,6 +16,8 @@ import { gunzipSync } from 'node:zlib';
 import { join, dirname, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
+import { incelemeOzeti } from '../app-src/src/lib/inceleme.mjs';
+
 const here = dirname(fileURLToPath(import.meta.url));
 const mobile = join(here, '..');
 const isWin = process.platform === 'win32';
@@ -238,6 +240,25 @@ function kasaOrtami(staged) {
 }
 
 /**
+ * Mağaza inceleme kodunun özetini derleme ortamına aktarır (G05).
+ *
+ * Kod `INCELEME_KODU` ortam değişkeninden (CI) ya da git dışı
+ * `inceleme-kodu.local.txt` dosyasından okunur; pakete yalnız özeti girer
+ * (app-src/src/lib/inceleme.mjs). Kod tanımsızsa Ayarlar'daki erişim kodu
+ * bu derlemede kapalıdır; Play incelemesi için sürümden önce tanımlanmalı.
+ * Yeni kod: node scripts/inceleme-kodu.mjs
+ */
+async function incelemeOrtami() {
+  const yol = join(mobile, 'inceleme-kodu.local.txt');
+  const kod = (process.env.INCELEME_KODU || (existsSync(yol) ? readFileSync(yol, 'utf8') : '')).trim();
+  if (!kod) {
+    console.warn("  ! inceleme kodu tanımsız: Ayarlar'daki erişim kodu bu derlemede kapalı");
+    return { INCELEME_OZET: '' };
+  }
+  return { INCELEME_OZET: await incelemeOzeti(kod) };
+}
+
+/**
  * Pakete GİRMEYECEK dosyalar.
  *
  * İki tanesi hayatî:
@@ -342,6 +363,7 @@ if (devPrepare) {
 
 // ── 2. Flavor derlemeleri ───────────────────────────────────────────────────
 const builtAt = new Date().toISOString();
+const incelemeOrtam = await incelemeOrtami();
 const results = [];
 
 for (const app of targets) {
@@ -356,6 +378,7 @@ for (const app of targets) {
     GALAXY_BUILT_AT: builtAt,
     GALAXY_STATS: JSON.stringify(computeStats(ASSETS[app] ?? [])),
     ...kasaOrtami(ASSETS[app] ?? []),
+    ...incelemeOrtam,
     NODE_ENV: 'production',
   });
 

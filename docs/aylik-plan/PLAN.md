@@ -98,7 +98,11 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     hata metnini (`e.message`) istemciye döndürüyor (bilgi sızıntısı); aynı rota `runtime = 'edge'` kullanıyor
     (Next 16'da kullanımdan kalktı) — `nodejs`'e geçişte `lib/uyelik/http` Web Crypto bağımlılığını ölç.
 
-- [ ] **G05 — Mobil uygulama güvenliği** · bağımlı: G01
+- [x] **G05 — Mobil uygulama güvenliği** · bağımlı: G01 · 2026-10-01: 2 bulgu kapandı, 3'ü raporda
+  - Sonuç (`raporlar/guvenlik-mobil.md`): herkese açık depoda düz duran Play inceleme kodu (ücretli arşivi
+    herkese açıyordu) → pakete yalnız özeti girer, yeni kod git dışında; FileProvider ortak depolama kökü →
+    uygulama klasörü. Abonelik sunucu doğrulaması ve yedekleme tutarsızlığı kullanıcı kararına (soru 7–8).
+    +16 test (`mobile/scripts/__tests__/guvenlik.test.mjs`).
   - `mobile/capacitor.config.*`, Android manifest ve ağ güvenliği: allowBackup, cleartext, debuggable,
     WebView gezinme kısıtı, pakete gömülü anahtar/sır taraması, abonelik doğrulamasının sunucu tarafında
     yapılıp yapılmadığı. `mobile/keystore-password-SIL-SONRA.txt` gibi düz metin sırlar için kullanıcıya
@@ -155,6 +159,10 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     yayına), karar sayfası başlığı/özeti, üyelik duvarının doğruluğu, index boyutu.
   - G04 notu: ücretli `yargi-index.json.gz` `public/` altında; yalnız `next.config.ts` beforeFiles yeniden yazması
     koruyor. Dosyayı `public/` dışına taşı (mobil `build-yargi-index.mjs`, `karar-text.ts`, outputFileTracingIncludes).
+  - G05 notu (mobil): `mobile/data-src/icthat/archive.json.gz` (70.249 karar, 2026-09-11) konu/atıf zenginleştirmesi
+    olmadan üretilmiş (`j,h,c` alanları yok; commit'li sahne kopyası 30.077 kararla zengin). Arayüz derlemesinde
+    `smoke-ui` iki adımda kırmızı: arşivde konu başlığı yok, arama tuş başına ~430 ms. Tam mobil derleme
+    (`build-icthat-data` → `build-yargi-index` sırası) ile yeniden üret ve duman testini yeşile çek.
   - Kabul: süzme testi; yayına girecek karar sayısı raporda.
 
 ## Hafta 3 (15–21 Ekim) — Görsel tasarım, grafikler, ders notları
@@ -210,6 +218,8 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
   - `PUSH-KONTROL-LISTESI.md`: `git fetch` + uzak `main`'deki günlük içtihat commit'leriyle birleştirme
     (çakışma beklenen dosyalar: `public/data/daily.json`, arşiv JSON'ları), Vercel ortam değişkenleri,
     mobil sürüm adımları, geri alma planı. **Push kullanıcıyla birlikte yapılır.**
+  - G05 notu: Play Console → Uygulama erişimi talimatındaki inceleme kodu `mobile/inceleme-kodu.local.txt`
+    ile güncellenir (eski kod açık depodaydı); CI derlemesi varsa `INCELEME_KODU` gizli değişkeni eklenir.
 
 ---
 

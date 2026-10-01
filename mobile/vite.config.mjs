@@ -64,6 +64,8 @@ export default defineConfig(() => {
       __KASA_PARCA__: process.env.KASA_PARCA || '[]',
       __KASA_TUZ__: JSON.stringify(process.env.KASA_TUZ || ''),
       __KASA_TUR__: Number(process.env.KASA_TUR || 100000),
+      // Mağaza inceleme kodunun özeti; kodun kendisi pakete girmez (lib/inceleme.mjs).
+      __INCELEME_OZET__: JSON.stringify(process.env.INCELEME_OZET || ''),
       'process.env.NODE_ENV': JSON.stringify(process.env.NODE_ENV || 'production'),
     },
     resolve: {

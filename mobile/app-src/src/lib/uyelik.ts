@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { Preferences } from '@capacitor/preferences';
 
 import { billingBaslat, billingDurum, type BillingDurum } from './odeme';
+import { incelemeKoduGecerli } from './inceleme.mjs';
 
 /**
  * Yargı arşivi üyeliği.
@@ -248,20 +249,25 @@ export function kalanCevrimdisiGun(u: Uyelik = bellek): number | null {
  * yerel olarak açar.
  *
  * ─── Güvenlik sınırı ───────────────────────────────────────────────────────
- * Kod, paketin içinde düz metin olarak durur ve tersine mühendislikle
- * çıkarılabilir. Bu bilinçli bir kabul: kodun açtığı içerik ZATEN aynı
- * pakette şifreli olarak geliyor ve çözme anahtarı da uygulamayla birlikte
- * dağıtılıyor (bkz. docs/UYELIK.md → «Dürüst sınır»). Yani kod yeni bir
- * açık yaratmıyor, var olan sınırın ötesine geçmiyor.
+ * Kod pakette düz metin olarak DURMAZ; derleme yalnız özetini gömer
+ * (lib/inceleme.mjs, scripts/build-app.mjs). Önceki sürümde kod kaynakta
+ * yazılıydı ve depo herkese açık olduğu için ücretli tam metin, kodu okuyan
+ * herkese açılıyordu. Kod `mobile/inceleme-kodu.local.txt` dosyasında
+ * (git dışı) ya da `INCELEME_KODU` ortam değişkenindedir; tanımsızsa özellik
+ * kapalı derlenir.
  *
- * Kodu değiştirirsen `docs/PLAY-STORE.md` içindeki inceleme metnini de
- * güncelle — Play'e verilen bilgi yanlış kalırsa sürüm reddedilir.
+ * Kodu değiştirirsen Play Console → Uygulama erişimi metnini de güncelle;
+ * Play'e verilen bilgi yanlış kalırsa sürüm reddedilir.
  */
-export const INCELEME_KODU = 'FG-REVIEW-2026';
+declare const __INCELEME_OZET__: string;
+
+function incelemeOzetiDerleme(): string {
+  return typeof __INCELEME_OZET__ === 'string' ? __INCELEME_OZET__ : '';
+}
 
 /** Girilen kod doğruysa erişimi açar. */
 export async function incelemeKoduDene(kod: string): Promise<boolean> {
-  if (kod.trim().toUpperCase() !== INCELEME_KODU) return false;
+  if (!(await incelemeKoduGecerli(kod, incelemeOzetiDerleme()))) return false;
   await uyelikElleAc(30);
   return true;
 }

@@ -18,6 +18,11 @@ import { readFileSync, existsSync } from 'node:fs';
 import { join, extname } from 'node:path';
 
 const WWW = 'mobile/flavors/asistan/www';
+// Mağaza inceleme kodu git dışında durur; pakete yalnız özeti girer (G05).
+const INCELEME_YOLU = 'mobile/inceleme-kodu.local.txt';
+const INCELEME_KODU = (
+  process.env.INCELEME_KODU || (existsSync(INCELEME_YOLU) ? readFileSync(INCELEME_YOLU, 'utf8') : '')
+).trim();
 const TYPES = {
   '.html': 'text/html',
   '.js': 'text/javascript',
@@ -277,13 +282,16 @@ await step('inceleme kodu ücretli bölümü açıyor', async () => {
     sessizce bozulursa, bunu Play'in ret bildiriminden değil buradan
     öğreniriz.
   */
+  if (!INCELEME_KODU) {
+    throw new Error(`inceleme kodu tanımsız (${INCELEME_YOLU}); üret: node mobile/scripts/inceleme-kodu.mjs`);
+  }
   await page.evaluate(() => localStorage.removeItem('CapacitorStorage.galaxy:uyelik'));
 
   await page.goto('http://localhost:4599/#/ayarlar', { waitUntil: 'networkidle' });
   await page.waitForTimeout(900);
   await page.click('text=Erişim kodu gir');
   await page.waitForTimeout(300);
-  await page.fill('input[aria-label="İnceleme erişim kodu"]', 'FG-REVIEW-2026');
+  await page.fill('input[aria-label="İnceleme erişim kodu"]', INCELEME_KODU);
   await page.click('text=Doğrula');
   await page.waitForTimeout(700);
 

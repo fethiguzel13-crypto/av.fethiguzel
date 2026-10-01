@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  FileProvider yalnız uygulamanın kendi klasörlerini paylaşır (G05).
+  Capacitor şablonundaki external-path "." tüm ortak depolamayı kapsıyordu.
+  Kullanılan tek yol: dosya seçicinin kamera geçici dosyası,
+  getExternalFilesDir(Pictures) (BridgeWebChromeClient.createImageFile).
+-->
 <paths xmlns:android="http://schemas.android.com/apk/res/android">
-    <external-path name="my_images" path="." />
+    <external-files-path name="my_images" path="Pictures/" />
     <cache-path name="my_cache_images" path="." />
 </paths>
