@@ -200,6 +200,8 @@ function MevzuatSearchInner({
 
     useEffect(() => {
         const next = initialQuery || urlQuery;
+        // Bilinçli: URL sorgusu hydration'dan SONRA uygulanmalı; çizim sırasında okunursa #418 geri gelir (G03b).
+        // eslint-disable-next-line react-hooks/set-state-in-effect
         if (next) setQ(next);
     }, [initialQuery, urlQuery]);
 
@@ -245,9 +247,12 @@ function MevzuatSearchInner({
         };
     }, [needIndex]);
 
-    useEffect(() => {
+    const gorunumAnahtari = `${q}\u0000${kanunFilter}`;
+    const [sonGorunum, setSonGorunum] = useState(gorunumAnahtari);
+    if (sonGorunum !== gorunumAnahtari) {
+        setSonGorunum(gorunumAnahtari);
         setVisible(PAGE_SIZE);
-    }, [q, kanunFilter]);
+    }
 
     const kanunList = useMemo(() => {
         if (!index) return [];
@@ -427,6 +432,7 @@ function MevzuatSearchInner({
         // «TBK 13» → doğrudan madde sayfası
         if (exactMaddeHint) {
             // Madde sayfası rota işleyicisi: Next yönlendiricisi önce boş RSC ister → doğrudan tarayıcı geçişi.
+            // eslint-disable-next-line @next/next/no-location-assign-relative-destination
             window.location.assign(`/mevzuat/${exactMaddeHint.kanunId}/madde-${exactMaddeHint.n}`);
             return;
         }

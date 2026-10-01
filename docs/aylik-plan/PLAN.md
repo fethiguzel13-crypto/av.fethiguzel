@@ -56,10 +56,15 @@ biter, bir sonraki pencerede yeniden dener.
   - Mevcut kırmızı testleri ve tip hatalarını düzelt; başlangıç sonucunu `raporlar/kalite-baslangic.md`'ye yaz.
   - Kabul: iki komut da yeşil; süreleri kayıtlı.
 
-- [ ] **G01b — Lint borcu** · bağımlı: G01
+- [x] **G01b — Lint borcu** · bağımlı: G01 · 2026-10-01: 82 → 8 hata
   - `scripts/lint-taban.json`'daki 82 hata (34 dosya). Not: başlangıçtaki 3 `rules-of-hooks` hatası mobil derleme
     çıktısındaydı (kapsam dışı), gerçek hata değil. Önce `set-state-in-effect` (16), iç bağlantılarda `<a>` → `<Link>` (25), kalanlar.
   - Her düzeltme davranışı koruyan bir testle ya da ekran kontrolüyle; cırcır tabanı kendiliğinden düşer.
+  - Kalan 8 hatanın tümü `set-state-in-effect`; gerekçe: HesaplamaTools:73 (paylaşılan `#araç` bağlantısında kartı
+    açıp kaydırır, DOM'a bağlı), :3093 (açıklama şablonu; işleyiciye taşımak ilk değerin uygulanmasını değiştirir,
+    G22 uçtan uca hesaplama testleriyle), :3770 (favori/son kullanılan localStorage'dan), useGalaxy:43 (dil tercihi kalıcı
+    depodan), mobil IcthatApp:737 ve PortalApp:123/757/1018 (yükleme durumunu sıfırlayan veri effect'leri; mobil
+    testler G05/G21'de yazılınca dönüştürülür). Hiçbiri hata üretmiyor; yalnız fazladan bir çizim turu.
   - Kabul: taban ≤ 10 hata; kalanların gerekçesi raporda.
 
 - [x] **G02 — Bağımlılık açıkları** · bağımlı: G01
@@ -85,6 +90,9 @@ biter, bir sonraki pencerede yeniden dener.
     girdi doğrulama, iyzico geri çağrı HMAC doğrulaması, yönetici uçlarında yetki, ücretli arşive
     üyeliksiz erişim, `kanunId` ile yol geçişi.
   - Her bulgu için önce kırmızı test, sonra düzeltme. Rapor: `raporlar/guvenlik-api.md`.
+  - Ön bulgular (2026-10-01, G00 incelemesi sırasında): `app/api/uyelik/[...path]/route.ts` 500 yanıtında iç
+    hata metnini (`e.message`) istemciye döndürüyor (bilgi sızıntısı); aynı rota `runtime = 'edge'` kullanıyor
+    (Next 16'da kullanımdan kalktı) — `nodejs`'e geçişte `lib/uyelik/http` Web Crypto bağımlılığını ölç.
 
 - [ ] **G05 — Mobil uygulama güvenliği** · bağımlı: G01
   - `mobile/capacitor.config.*`, Android manifest ve ağ güvenliği: allowBackup, cleartext, debuggable,

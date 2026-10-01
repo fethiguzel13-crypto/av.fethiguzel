@@ -99,9 +99,12 @@ export default function YargiArchiveClient() {
     yine sınırlı kalır, yalnız sınır kullanıcı istedikçe yükselir.
   */
   const [sayfa, setSayfa] = useState(1);
-  useEffect(() => {
+  const sorguAnahtari = `${q}\u0000${tier}`;
+  const [sonAnahtar, setSonAnahtar] = useState(sorguAnahtari);
+  if (sonAnahtar !== sorguAnahtari) {
+    setSonAnahtar(sorguAnahtari);
     setSayfa(1);
-  }, [q, tier]);
+  }
 
   const { results, dahaVar } = useMemo(() => {
     if (!rows) return { results: [] as Row[], dahaVar: false };

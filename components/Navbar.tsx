@@ -5,7 +5,17 @@ import Link from "@/components/SiteLink";
 import { usePathname, useRouter } from 'next/navigation';
 import { Menu, X, ChevronDown, Search, Lock } from 'lucide-react';
 import BrandMark from '@/components/BrandMark';
+import { useTarayiciDegeri } from '@/lib/tarayici';
 import LanguageSwitcher from '@/components/LanguageSwitcher';
+
+/** Arşiv üyeliği arayüz çerezi (yalnız görünüm ipucu; yetki sunucuda denetlenir). */
+function uyelikCereziOku(): string | null {
+  const raw = document.cookie
+    .split(';')
+    .map((c) => c.trim())
+    .find((c) => c.startsWith('fg_arsiv_ui='));
+  return raw ? raw.slice('fg_arsiv_ui='.length) : null;
+}
 
 const MEVZUAT_GRUPLARI = [
   {
@@ -101,18 +111,10 @@ export default function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [megaOpen, setMegaOpen] = useState(false);
   const [navQ, setNavQ] = useState('');
-  const [uyelikUi, setUyelikUi] = useState<string | null>(null);
+  const uyelikUi = useTarayiciDegeri(uyelikCereziOku, null);
   const megaRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
   const router = useRouter();
-
-  useEffect(() => {
-    const raw = document.cookie
-      .split(';')
-      .map((c) => c.trim())
-      .find((c) => c.startsWith('fg_arsiv_ui='));
-    setUyelikUi(raw ? raw.slice('fg_arsiv_ui='.length) : null);
-  }, [pathname]);
 
   const submitNavSearch = (e: React.FormEvent) => {
     e.preventDefault();

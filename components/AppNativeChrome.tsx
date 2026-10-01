@@ -9,6 +9,7 @@ import {
   openExternalUrl,
   pathFromAppUrl,
 } from '@/lib/native-app';
+import { useTarayiciDegeri } from '@/lib/tarayici';
 import MobileBottomNav from '@/components/MobileBottomNav';
 import { useGalaxy } from '@/lib/galaxy/useGalaxy';
 
@@ -20,12 +21,11 @@ function NativeChromeInner() {
   const router = useRouter();
   const pathname = usePathname();
   const { t, locale, appId } = useGalaxy();
-  const [native, setNative] = useState(false);
+  const native = useTarayiciDegeri(isNativeApp, false);
   const [offline, setOffline] = useState(false);
 
   useEffect(() => {
-    const on = isNativeApp();
-    setNative(on);
+    const on = native;
     document.documentElement.classList.toggle('app-native', on);
     document.documentElement.classList.add('app-mobile-chrome');
 
@@ -41,7 +41,7 @@ function NativeChromeInner() {
     return () => {
       document.documentElement.classList.remove('app-native', 'app-mobile-chrome');
     };
-  }, []);
+  }, [native]);
 
   useEffect(() => {
     if (!native) return;

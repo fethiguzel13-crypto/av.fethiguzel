@@ -1,10 +1,4 @@
 {
-  "app/mevzuat/[kanunId]/[id]/MaddeViewer.tsx": 1,
-  "components/AppNativeChrome.tsx": 1,
-  "components/Footer.tsx": 1,
-  "components/MevzuatSearch.tsx": 2,
-  "components/Navbar.tsx": 1,
-  "components/YargiArchiveClient.tsx": 1,
   "components/hesaplama/HesaplamaTools.tsx": 3,
   "lib/galaxy/useGalaxy.ts": 1,
   "mobile/app-src/src/apps/IcthatApp.tsx": 1,

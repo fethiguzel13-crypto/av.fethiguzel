@@ -1,11 +1,12 @@
 "use client";
 
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import Link from "@/components/SiteLink";
-import { MapPin, Mail, Scale, Clock } from 'lucide-react';
+import { MapPin, Mail, Clock } from 'lucide-react';
 import BrandMark from '@/components/BrandMark';
 import { PROFILE } from '@/lib/profile';
 import { isNativeApp } from '@/lib/native-app';
+import { useTarayiciDegeri } from '@/lib/tarayici';
 import GalaxySisterApps from '@/components/GalaxySisterApps';
 
 function InstagramIcon({ size = 18 }: { size?: number }) {
@@ -27,10 +28,7 @@ function XIcon({ size = 16 }: { size?: number }) {
 }
 
 export default function Footer() {
-  const [inApp, setInApp] = useState(false);
-  useEffect(() => {
-    setInApp(isNativeApp());
-  }, []);
+  const inApp = useTarayiciDegeri(isNativeApp, false);
 
   return (
     <footer className="bg-charcoal pt-16 sm:pt-24 md:pt-32 pb-8 sm:pb-12 px-5 sm:px-6 rounded-t-[2rem] sm:rounded-t-[3rem] md:rounded-t-[4rem] overflow-hidden" id="iletisim">
