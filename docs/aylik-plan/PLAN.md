@@ -85,7 +85,10 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
   - `/ara?q=kira` derlenmiş sitede React #418 (sunucu HTML'i istemciyle uyuşmuyor). `node scripts/csp-dogrula.mjs` ile yeniden üretilir.
   - Kök nedeni bul (tarih/saat, searchParams, tarayıcıya özgü değer), testle sabitle.
 
-- [ ] **G04 — API ve üyelik güvenlik denetimi** · bağımlı: G01 · beceri: security-review
+- [x] **G04 — API ve üyelik güvenlik denetimi** · bağımlı: G01 · beceri: security-review · 2026-10-01: 10 bulgu kapandı
+  - Sonuç (`raporlar/guvenlik-api.md`): ödeme dönüşü tekrarı (tek ödemeyle sınırsız üyelik) ve sır eksikken sahte
+    üye çerezi kapandı; girdi sınırları, yönetici çerezi HMAC + deneme sınırı, köken (CSRF) denetimi, çok örnekli
+    depoda kayıt kaybı, rotalarda iç hata sızıntısı/edge, pack-health/content-pack, arşiv deneme sınırı. +34 test.
   - `app/api/uyelik/[...path]`, `app/api/yargi/[...path]`, `app/api/content-pack/[kanunId]`,
     `app/api/pack-health`, `lib/uyelik/*`: kimlik doğrulama, oturum çerezi bayrakları, CSRF, hız sınırı,
     girdi doğrulama, iyzico geri çağrı HMAC doğrulaması, yönetici uçlarında yetki, ücretli arşive
@@ -150,6 +153,8 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
 - [ ] **G14 — Yargı kararları yayın hazırlığı** · bağımlı: G04
   - `mobile/scripts/build-icthat-data.mjs`: `yararli` alanıyla süzme (yalnız emsal ve benzersiz kararlar
     yayına), karar sayfası başlığı/özeti, üyelik duvarının doğruluğu, index boyutu.
+  - G04 notu: ücretli `yargi-index.json.gz` `public/` altında; yalnız `next.config.ts` beforeFiles yeniden yazması
+    koruyor. Dosyayı `public/` dışına taşı (mobil `build-yargi-index.mjs`, `karar-text.ts`, outputFileTracingIncludes).
   - Kabul: süzme testi; yayına girecek karar sayısı raporda.
 
 ## Hafta 3 (15–21 Ekim) — Görsel tasarım, grafikler, ders notları
