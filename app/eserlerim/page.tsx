@@ -1,5 +1,6 @@
 "use client";
 
+import { jsonLdHtml } from "@/lib/json-ld";
 import React from 'react';
 import Link from 'next/link';
 import Navbar from '@/components/Navbar';
@@ -35,7 +36,7 @@ export default function EserlerimPage() {
   return (
     <div className="bg-cream min-h-screen">
       <Navbar />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(bookLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(bookLd) }} />
 
       <main id="main-content" className="pt-40 pb-20 px-6 max-w-7xl mx-auto">
         <header className="mb-16 sm:mb-24 text-center">

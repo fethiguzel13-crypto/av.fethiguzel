@@ -1,3 +1,4 @@
+import { jsonLdHtml } from "@/lib/json-ld";
 import { getLawCategoryBySlug, lawCategories } from '@/lib/laws';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
@@ -85,7 +86,7 @@ export default async function CategoryLandingPage({ params }: { params: Promise<
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
+          __html: jsonLdHtml({
             "@context": "https://schema.org",
             "@type": "CollectionPage",
             "name": `${cat.name} – ${cat.kanunAdi}`,

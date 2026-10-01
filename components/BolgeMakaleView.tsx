@@ -1,3 +1,4 @@
+import { jsonLdHtml } from "@/lib/json-ld";
 import Image from 'next/image';
 import Link from 'next/link';
 import type { BolgeMakale, MakaleFoto, MakaleGrafik } from '@/lib/bolge-makaleler';
@@ -199,9 +200,9 @@ export default function BolgeMakaleView({
 
   return (
     <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(articleLd) }} />
       {faqLd && (
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(faqLd) }} />
       )}
 
       <nav aria-label="Breadcrumb" className="mb-6 text-xs text-charcoal/40">

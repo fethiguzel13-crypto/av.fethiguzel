@@ -1,3 +1,4 @@
+import { jsonLdHtml } from "@/lib/json-ld";
 import { getLawCategoryBySlug, getLawSubCategoryBySlug, lawCategories } from '@/lib/laws';
 import { getArticlesByCategory } from '@/lib/api';
 import { categories as oldCategories } from '@/lib/categories';
@@ -157,7 +158,7 @@ export default async function SubCategoryPage({ params }: { params: Promise<{ ca
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
+          __html: jsonLdHtml({
             "@context": "https://schema.org",
             "@type": "CollectionPage",
             "name": `${sub.name} – ${parent.kanunAdi}`,

@@ -1,3 +1,4 @@
+import { jsonLdHtml } from "@/lib/json-ld";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -53,8 +54,8 @@ export default function AkademikProfilPage() {
     return (
         <div className="bg-cream min-h-screen">
             <Navbar />
-            <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(personLd) }} />
-            <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(bookLd) }} />
+            <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(personLd) }} />
+            <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(bookLd) }} />
 
             <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-4xl mx-auto">
                 <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">

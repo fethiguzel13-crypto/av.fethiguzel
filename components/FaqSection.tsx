@@ -1,3 +1,4 @@
+import { jsonLdHtml } from "@/lib/json-ld";
 import Link from 'next/link';
 
 /**
@@ -65,7 +66,7 @@ export default function FaqSection() {
         >
             <script
                 type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+                dangerouslySetInnerHTML={{ __html: jsonLdHtml(faqSchema) }}
             />
 
             <div className="max-w-3xl mx-auto">

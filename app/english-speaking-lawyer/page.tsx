@@ -1,3 +1,4 @@
+import { jsonLdHtml } from "@/lib/json-ld";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -42,7 +43,7 @@ export default function EnglishLawyerPage() {
     return (
         <div className="bg-cream min-h-screen">
             <Navbar />
-            <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }} />
+            <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(ld) }} />
 
             <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-3xl mx-auto">
                 <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">

@@ -1,3 +1,4 @@
+import { jsonLdHtml } from "@/lib/json-ld";
 import Link from 'next/link';
 import type { VatandasArticle } from '@/lib/vatandas-rehberi';
 import { toReadableView } from '@/lib/vatandas-rehberi/readable';
@@ -149,7 +150,7 @@ export default function VatandasRehberArticle({
     <>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        dangerouslySetInnerHTML={{ __html: jsonLdHtml(jsonLd) }}
       />
 
       <nav className="text-[11px] sm:text-xs text-charcoal/50 mb-5" aria-label="Konum">

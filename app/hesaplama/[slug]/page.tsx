@@ -1,3 +1,4 @@
+import { jsonLdHtml } from "@/lib/json-ld";
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
@@ -86,11 +87,11 @@ export default async function HesaplamaSlugPage({ params }: Props) {
             <Navbar />
             <script
                 type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(softwareLd) }}
+                dangerouslySetInnerHTML={{ __html: jsonLdHtml(softwareLd) }}
             />
             <script
                 type="application/ld+json"
-                dangerouslySetInnerHTML={{ __html: JSON.stringify(howToLd) }}
+                dangerouslySetInnerHTML={{ __html: jsonLdHtml(howToLd) }}
             />
 
             <main id="main-content" className="pt-24 sm:pt-32 md:pt-36 pb-16 sm:pb-24 px-4 sm:px-6">

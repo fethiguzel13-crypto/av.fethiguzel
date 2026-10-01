@@ -1,3 +1,4 @@
+import { jsonLdHtml } from "@/lib/json-ld";
 import Link from 'next/link';
 import type { ReactNode } from 'react';
 import type { CourseNote, NoteDiagram, UniHubContent } from '@/lib/ders-notlari';
@@ -278,7 +279,7 @@ export function DersNotuView({
 
   return (
     <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(jsonLd) }} />
 
       <nav className="text-[11px] text-charcoal/40 mb-5 flex flex-wrap gap-1.5 print:hidden">
         <Link href="/ders-notlari" className="hover:text-accent">
@@ -1344,7 +1345,7 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
 
   return (
     <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(jsonLd) }} />
       <nav className="text-[11px] text-charcoal/40 mb-5 flex flex-wrap gap-1.5">
         <Link href="/ders-notlari" className="hover:text-accent">
           Ders notları
