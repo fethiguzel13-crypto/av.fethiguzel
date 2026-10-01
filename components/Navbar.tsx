@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, useEffect, useRef, Suspense } from 'react';
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import { usePathname, useRouter } from 'next/navigation';
 import { Menu, X, ChevronDown, Search, Lock } from 'lucide-react';
 import BrandMark from '@/components/BrandMark';

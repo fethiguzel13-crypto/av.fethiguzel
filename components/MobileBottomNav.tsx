@@ -1,6 +1,6 @@
 'use client';
 
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import { usePathname } from 'next/navigation';
 import { Home, Search, BookOpen, Calculator, Newspaper } from 'lucide-react';
 import { Suspense } from 'react';

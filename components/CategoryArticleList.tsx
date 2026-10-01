@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useMemo, useState } from "react";
-import Link from "next/link";
+import Link from "@/components/SiteLink";
 import { ArrowLeft, Search } from "lucide-react";
 
 type Article = {

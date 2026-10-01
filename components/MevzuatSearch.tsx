@@ -1,7 +1,7 @@
 "use client";
 
 import React, { Suspense, useCallback, useEffect, useMemo, useState } from "react";
-import Link from "next/link";
+import Link from "@/components/SiteLink";
 import { useRouter, useSearchParams } from "next/navigation";
 import { Search, BookOpen, Loader2, X, Calculator, FileText, ChevronDown } from "lucide-react";
 
@@ -426,7 +426,8 @@ function MevzuatSearchInner({
         if (!trimmed) return;
         // «TBK 13» → doğrudan madde sayfası
         if (exactMaddeHint) {
-            router.push(`/mevzuat/${exactMaddeHint.kanunId}/madde-${exactMaddeHint.n}`);
+            // Madde sayfası rota işleyicisi: Next yönlendiricisi önce boş RSC ister → doğrudan tarayıcı geçişi.
+            window.location.assign(`/mevzuat/${exactMaddeHint.kanunId}/madde-${exactMaddeHint.n}`);
             return;
         }
         if (compact) {

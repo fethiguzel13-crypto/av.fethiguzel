@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import { ArrowUpRight } from 'lucide-react';
 import { loadDaily } from '@/lib/daily-server';
 import DailyNewsCards from './DailyNewsCards';

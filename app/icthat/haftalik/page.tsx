@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import { readFileSync, existsSync, readdirSync } from 'fs';
 import { join } from 'path';
 import Navbar from '@/components/Navbar';

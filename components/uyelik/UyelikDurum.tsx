@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import CikisButton from '@/components/uyelik/CikisButton';
 import { priceLabel } from '@/lib/uyelik/config';
 import type { PublicSession } from '@/lib/uyelik/types';

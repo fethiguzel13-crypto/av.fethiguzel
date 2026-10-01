@@ -1,7 +1,7 @@
 'use client';
 
 import { useCallback, useEffect, useRef, useState } from 'react';
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import { priceLabel, UYELIK } from '@/lib/uyelik/config';
 
 type Havale = {

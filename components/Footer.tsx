@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useEffect, useState } from 'react';
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import { MapPin, Mail, Scale, Clock } from 'lucide-react';
 import BrandMark from '@/components/BrandMark';
 import { PROFILE } from '@/lib/profile';

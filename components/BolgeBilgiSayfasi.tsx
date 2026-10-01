@@ -1,6 +1,6 @@
 import { jsonLdHtml } from "@/lib/json-ld";
 import React from 'react';
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { BookOpen, Scale, ArrowRight, MapPin, Info } from 'lucide-react';

@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from 'react';
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import { ScrollText, Scale, Landmark, Flag, BookOpen, Copy, Check, ExternalLink } from 'lucide-react';
 import type { DailyData, DailyItem } from '@/lib/daily';
 import { itemTitle, formatTrDate } from '@/lib/daily';

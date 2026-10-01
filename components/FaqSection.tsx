@@ -1,5 +1,5 @@
 import { jsonLdHtml } from "@/lib/json-ld";
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 
 /**
  * FAQ is a top conversion + SEO lever on award-winning law firm sites (Clio, Lawyerist).

@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import { BookOpen, GraduationCap, Globe2, Scale } from 'lucide-react';
 import { PROFILE } from '@/lib/profile';
 

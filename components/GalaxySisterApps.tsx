@@ -1,6 +1,6 @@
 'use client';
 
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import { Suspense } from 'react';
 import { GALAXY_APPS, localized } from '@/lib/galaxy/catalog';
 import { useGalaxy } from '@/lib/galaxy/useGalaxy';

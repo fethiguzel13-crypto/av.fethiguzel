@@ -1,6 +1,6 @@
 import { jsonLdHtml } from "@/lib/json-ld";
 import Image from 'next/image';
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import type { BolgeMakale, MakaleFoto, MakaleGrafik } from '@/lib/bolge-makaleler';
 import { BookOpen, Clock, MapPin, ArrowRight, Info } from 'lucide-react';
 import { SITE_URL, PROFILE } from '@/lib/profile';

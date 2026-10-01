@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import { BookOpen, Gavel, MapPin, Newspaper, ShieldCheck, Scale } from 'lucide-react';
 
 /** Külliyat sayıları — lib/site-stats.ts tarafından üretilir. */

@@ -1,7 +1,7 @@
 import { jsonLdHtml } from "@/lib/json-ld";
 import type { Metadata } from 'next';
 import Image from 'next/image';
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { BOLGE_MAKALELER } from '@/lib/bolge-makaleler';

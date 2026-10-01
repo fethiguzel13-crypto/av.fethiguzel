@@ -1,6 +1,6 @@
 'use client';
 
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import { Lock, Scale, BookOpen, Ban } from 'lucide-react';
 import { priceLabel, UYELIK } from '@/lib/uyelik/config';
 import type { PublicSession } from '@/lib/uyelik/types';

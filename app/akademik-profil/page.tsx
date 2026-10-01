@@ -1,6 +1,6 @@
 import { jsonLdHtml } from "@/lib/json-ld";
 import type { Metadata } from 'next';
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import Image from 'next/image';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';

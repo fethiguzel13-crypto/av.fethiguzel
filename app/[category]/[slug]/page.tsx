@@ -2,7 +2,7 @@ import { jsonLdHtml } from "@/lib/json-ld";
 import { getLawCategoryBySlug, getLawSubCategoryBySlug, lawCategories } from '@/lib/laws';
 import { getArticlesByCategory } from '@/lib/api';
 import { categories as oldCategories } from '@/lib/categories';
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 

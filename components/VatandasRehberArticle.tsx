@@ -1,5 +1,5 @@
 import { jsonLdHtml } from "@/lib/json-ld";
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import type { VatandasArticle } from '@/lib/vatandas-rehberi';
 import { toReadableView } from '@/lib/vatandas-rehberi/readable';
 import { hesaplamaToolsForBilgiSlug } from '@/lib/hesaplama-bilgi';

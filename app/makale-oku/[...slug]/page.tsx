@@ -1,7 +1,7 @@
 import path from 'path';
 import fs from 'fs';
 import mammoth from 'mammoth';
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { ArrowLeft, Download, FileText, Book } from 'lucide-react';

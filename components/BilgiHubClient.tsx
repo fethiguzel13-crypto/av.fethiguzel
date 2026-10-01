@@ -1,7 +1,7 @@
 'use client';
 
 import { useMemo, useState } from 'react';
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import { Search, X } from 'lucide-react';
 import { CATEGORY_BLURB, FEATURED_SLUGS, firstSentence } from '@/lib/vatandas-rehberi/catalog';
 

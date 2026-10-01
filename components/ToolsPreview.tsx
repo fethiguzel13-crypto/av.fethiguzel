@@ -1,7 +1,7 @@
 "use client";
 
 import React from 'react';
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import { ArrowRight } from 'lucide-react';
 
 const FEATURED_TOOLS = [

@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useEffect, useRef } from 'react';
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import { gsap } from 'gsap';
 import { ArrowRight, BookOpen, Gavel, Briefcase } from 'lucide-react';
 

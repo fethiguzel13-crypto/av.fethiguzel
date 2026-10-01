@@ -1,5 +1,5 @@
 import { jsonLdHtml } from "@/lib/json-ld";
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import type { ReactNode } from 'react';
 import type { CourseNote, NoteDiagram, UniHubContent } from '@/lib/ders-notlari';
 import { resolveHubCourseHref } from '@/lib/ders-notlari';

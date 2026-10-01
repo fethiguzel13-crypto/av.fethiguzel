@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import Link from "next/link";
+import Link from "@/components/SiteLink";
 import { BookOpen, Search, Scale, Newspaper } from "lucide-react";
 
 /** Külliyat sayıları — lib/site-stats.ts tarafından üretilir. */

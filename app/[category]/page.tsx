@@ -1,6 +1,6 @@
 import { jsonLdHtml } from "@/lib/json-ld";
 import { getLawCategoryBySlug, lawCategories } from '@/lib/laws';
-import Link from 'next/link';
+import Link from "@/components/SiteLink";
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 
