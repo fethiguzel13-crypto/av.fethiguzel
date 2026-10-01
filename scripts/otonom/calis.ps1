@@ -74,6 +74,12 @@ try {
   # geçer ve ücretli API kredisini kullandırır; 2026-09-30 18:00/21:00 oturumları "Credit balance is
   # too low" ile düştü. Yalnız bu süreçten kaldırılır → oturum abonelik girişiyle çalışır.
   foreach ($n in "ANTHROPIC_API_KEY", "ANTHROPIC_AUTH_TOKEN") { Remove-Item "Env:$n" -ErrorAction SilentlyContinue }
+  # Uykudan uyanınca ağ birkaç dakika gelmeyebilir (2026-10-01 09:18: ENOTFOUND). 5 dk'ya kadar bekle.
+  $agHazir = $false
+  for ($i = 0; $i -lt 30; $i++) {
+    try { [void][System.Net.Dns]::GetHostAddresses("api.anthropic.com"); $agHazir = $true; break } catch { Start-Sleep -Seconds 10 }
+  }
+  if (-not $agHazir) { L "ağ 5 dk içinde gelmedi — atlandı"; exit 0 }
   $out = Join-Path $LogDir ("{0}.log" -f (Get-Date -Format "yyyyMMdd-HHmm"))
   if ($Deneme) {
     $prompt = "Yalnızca 'otonom hazır' yaz ve dur. Hiçbir araç kullanma."
