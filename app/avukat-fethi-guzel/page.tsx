@@ -18,11 +18,9 @@ export const metadata: Metadata = {
     keywords: [
         'Fethi Güzel',
         'Avukat Fethi Güzel',
-        'Erciş avukat',
         'Van Erciş',
         'özel hukuk doktora',
         'e-duruşma kitabı',
-        'İngilizce bilen avukat',
         'arabulucu',
         'hukuk portalı',
     ].join(', '),

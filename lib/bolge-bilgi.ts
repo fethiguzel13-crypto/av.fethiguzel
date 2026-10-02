@@ -53,8 +53,6 @@ export const BOLGE_BILGILERI: BolgeBilgi[] = [
     keywords: [
       'Av. Fethi Güzel',
       'Fethi Güzel Erciş',
-      'Erciş avukat',
-      'Van Erciş hukuk bürosu',
       'Erciş miras paylaşımı',
       'Erciş icra takibi',
     ],

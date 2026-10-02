@@ -80,7 +80,6 @@ export const metadata: Metadata = {
     'vatandaş rehberi',
     'ücretsiz mevzuat',
     'hukuk portalı',
-    'Erciş avukat',
     'Van Erciş',
     'Av. Fethi Güzel Erciş',
   ],
@@ -257,7 +256,6 @@ const orgSchema = {
   description:
     'Van ili Erciş ilçesinde avukatlık bürosu. Mevzuat bankası, akademik şerhler, günlük içtihat ve hukuki hesaplama araçları sunan dijital hukuk portalı.',
   email: 'fethiguzel@hotmail.com',
-  priceRange: '$$',
   address: {
     '@type': 'PostalAddress',
     streetAddress: PROFILE.office.street,

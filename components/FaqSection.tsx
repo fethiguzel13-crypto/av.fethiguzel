@@ -80,7 +80,6 @@ export default function FaqSection() {
                         <span className="font-drama italic text-accent font-medium">net cevaplar.</span>
                     </h2>
                     <p className="mt-4 text-charcoal/55 text-sm sm:text-base max-w-xl mx-auto leading-relaxed">
-                        Dünyanın en iyi hukuk siteleri ziyaretçiyi belirsizlikte bırakmaz.
                         Aşağıda en sık gelen soruların kısa yanıtları var.
                     </p>
                 </div>

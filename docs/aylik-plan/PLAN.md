@@ -33,6 +33,9 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
   Üstünlük iddiası ("en iyi", "lider", "kazanma oranı"), müvekkil yorumu, ücret ilanı, "hemen arayın"
   türü çağrı, karşılaştırma yok. Otorite; yayın, şerh, karar arşivi, hesaplama araçları ve bilgi
   içeriğiyle kurulur.
+  **G07 (2026-10-02):** TBB Reklam Yasağı Yönetmeliği m.7/1-e (RG 9/8/2024) arama motorunda üst sıraya yönelik
+  anahtar sözcük ve sayfa adresini yasaklar. SEO yalnız içerik sorgularını (madde, şerh, karar, hesaplama, rehber)
+  hedefler; "yer + avukat" türü anahtar sözcük, adres, başlık ya da dosya adı eklenmez (`lib/__tests__/reklam-uyum.test.mjs`).
 - **Veri güvenliği:** `data/yargi-kararlari/`, `data/uyelik/`, `.env*`, anahtar deposu dosyaları
   silinmez, taşınmaz; üretim sırları okunup loglanmaz.
 - **Hasat motoru:** Çalışmaya devam eder; hız ayarları yükseltilmez (captcha görülen hızın altı).
@@ -127,7 +130,7 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
   - Test: metadata üreticilerine birim testi; derleme sonrası `node scripts/seo-tara.mjs` canonical uyumsuz 0,
     varsayılan başlık tekrarı 0, 500 yok.
 
-- [ ] **G07 — Avukatlık reklam yasağı uyum denetimi** · bağımlı: — · beceri: hukuki-halusinasyon-onleme
+- [x] **G07 — Avukatlık reklam yasağı uyum denetimi** · bağımlı: — · beceri: hukuki-halusinasyon-onleme · 2026-10-02: 6 düzeltme, 4 yapısal karar kullanıcıda (soru 10–13)
   - Tüm arayüz metinleri, bölge sayfaları (`*-avukat`), hizmetler, ana sayfa, mobil mağaza metinleri.
   - Mevzuat metinlerini birincil kaynaktan doğrula (mevzuat.gov.tr, barobirlik.org.tr); uydurma atıf yok.
   - Riskli ifadeleri düzelt; rapor: `raporlar/reklam-uyum.md` (ifade → sorun → yeni metin).
@@ -234,6 +237,8 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
   - `PUSH-KONTROL-LISTESI.md`: `git fetch` + uzak `main`'deki günlük içtihat commit'leriyle birleştirme
     (çakışma beklenen dosyalar: `public/data/daily.json`, arşiv JSON'ları), Vercel ortam değişkenleri,
     mobil sürüm adımları, geri alma planı. **Push kullanıcıyla birlikte yapılır.**
+  - G07 notu: reklam yasağı soruları 10–13 (bölge sayfası adresleri, LegalService, arabulucu sıfatı, ön form çağrısı)
+    yanıtlanmadan push yapılmaz; yanıta göre değişiklik tarifi `raporlar/reklam-uyum.md` R1–R4'te.
   - G05 notu: Play Console → Uygulama erişimi talimatındaki inceleme kodu `mobile/inceleme-kodu.local.txt`
     ile güncellenir (eski kod açık depodaydı); CI derlemesi varsa `INCELEME_KODU` gizli değişkeni eklenir.
 

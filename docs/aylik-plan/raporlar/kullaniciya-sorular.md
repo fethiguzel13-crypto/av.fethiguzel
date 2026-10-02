@@ -35,3 +35,27 @@ Ajan bu maddelerde kendi başına karar vermez; en güvenli varsayımla devam ed
    ücretli arşivi herkese açıyordu. Yeni kod yalnız git dışındaki `mobile/inceleme-kodu.local.txt` dosyasında.
    Yayın günü Play Console → Uygulama erişimi talimatı bu kodla güncellenmeli; talimata "uygulama yeniden
    başlatılırsa kodu tekrar girin" notu eklenmeli. *Varsayım:* G26 kontrol listesine eklendi.
+
+## 2026-10-02
+
+Sorular 10–13, G07 reklam yasağı denetimindendir (`raporlar/reklam-uyum.md`). Ölçüt, TBB Reklam Yasağı Yönetmeliği'nin
+9/8/2024 değişikliğiyle gelen m.7/1-e hükmüdür: İş elde etmeye yönelik olarak arama motorlarında üst sıraya
+çıkmayı amaçlayan anahtar sözcük ve sayfa adresi kullanılamaz. 2/5/2026'da çevrimiçi ihlalleri izleyen bir takip
+merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıdır (G26).
+
+10. **Bölge sayfaları (`van-avukat`, `ercis-avukat`, `ankara-avukat` … 12 sayfa ve `english-speaking-lawyer`).**
+    Öneri: Erciş sayfası büro bilgisi olarak `/buro` adresine 308 ile taşınsın. Diğer 11 bölge sayfası ve İngilizce
+    sayfa `noindex` alsın ve haritalardan çıksın; sayfalar ziyaretçiye açık kalsın. Profil fotoğrafının dosya adı
+    (`av-fethi-guzel-van-ercis-avukat.jpg`) tarafsız bir adla değiştirilsin.
+    *Varsayım:* yanıt gelene kadar dokunulmaz (30 Ekim'e kadar yayın yok, risk artmıyor).
+11. **Her sayfadaki LegalService şeması.** Öneri: Şema yalnız profil sayfasında kalsın, ad, unvan, adres, telefon ve
+    e-posta ile sınırlansın; 7 yerleşimli `areaServed` ile hizmet `OfferCatalog`'u çıkarılsın. `priceRange: '$$'`
+    bu görevde kaldırılmıştır. *Varsayım:* yanıt gelene kadar dokunulmaz.
+12. **"Avukat & Arabulucu" sıfatı.** Yönetmelik m.6/5, avukat ve akademik unvan dışında "bilirkişi … ve benzeri
+    sıfatları" yasaklamaktadır. Arabuluculuğun bu kapsama girip girmediğine dair bir TBB ya da baro kararı bu
+    oturumda doğrulanamamıştır. Öneri: Arabuluculuk adın yanında sıfat olarak değil, faaliyet alanı bilgisi olarak
+    verilsin. Bu konuda bildiğiniz bir baro uygulaması var mı? *Varsayım:* mevcut kullanım korunur.
+13. **İçerik sayfalarındaki ön form çağrısı.** Mobil yapışkan çubuktaki "Form" düğmesi her mevzuat, şerh ve rehber
+    sayfasından müvekkil ön formuna götürmektedir. m.7/1-c genel bilgiyi iş elde etme amacıyla yayımlamayı
+    yasakladığından öneri şudur: Çubukta yalnız "Ara" ve "Hesap" kalsın, ön forma yalnız profil ve iletişim
+    sayfasından ulaşılsın. *Varsayım:* yanıt gelene kadar dokunulmaz.
