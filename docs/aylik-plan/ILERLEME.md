@@ -133,3 +133,9 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   çağrısı. Yanıta kadar dokunulmadı (30 Ekim'e kadar yayın yok). PLAN.md genel kurallarına SEO sınırı eklendi.
 - Commit `d475546f1`. Rapor `raporlar/reklam-uyum.md`.
 - Sıradaki: G08 (bu haftanın hasat bakımı henüz yapılmadı), ardından G09.
+
+## 2026-10-02 07:50 — G08 hasat bakımı (Hafta 1)
+
+- `yargi:hasat-durum`: motor çalışıyor (22,5 sa), son 1 saatte 429/ağ hatası 0, hız tavanda 4,7/dk, son captcha 11,7 sa
+  önce, kalıcı hata 160. Emsal ve benzersiz 34.894 (G06: 32.394). Disk C 45 GB boş. Düzeltme gerekmedi.
+- Satır `raporlar/hasat-haftalik.md`'ye yazıldı (dosya bu hafta açıldı). Sıradaki: G09 (yazar/avukat kimliği).
