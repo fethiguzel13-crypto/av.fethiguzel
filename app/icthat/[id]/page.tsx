@@ -6,6 +6,9 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import YazarKutusu from '@/components/YazarKutusu';
 import { loadAnalysis, loadAvailableAnalysisIds } from '@/lib/analysis';
+import { jsonLdHtml } from '@/lib/json-ld';
+import { kararAnaliziBasligi, kararAnaliziJsonLd } from '@/lib/karar-analizi-ld';
+import { SITE_URL } from '@/lib/profile';
 
 interface Props {
   params: Promise<{ id: string }>;
@@ -22,13 +25,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const data = loadAnalysis(id);
   if (!data) return { title: 'Analiz Bulunamadı' };
 
-  const court = data.highlight.source || '';
-  const ref = data.highlight.kunye || id;
   const desc = data.sections.davaSozeti?.slice(0, 155) || '';
 
   return {
-    title: `${court} ${ref} Analizi`,
+    title: kararAnaliziBasligi(data),
     description: desc,
+    alternates: { canonical: `${SITE_URL}/icthat/${id}` },
   };
 }
 
@@ -42,6 +44,7 @@ export default async function AnalysisPage({ params }: Props) {
   return (
     <div className="bg-cream min-h-screen">
       <Navbar />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(kararAnaliziJsonLd(data)) }} />
 
       <main className="pt-40 pb-20 px-6 max-w-3xl mx-auto">
         <Link
