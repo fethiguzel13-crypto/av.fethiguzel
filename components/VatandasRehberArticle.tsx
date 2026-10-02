@@ -16,6 +16,7 @@ import {
   RehberProcess,
   RehberTrap,
 } from '@/components/rehber/RehberFigures';
+import YazarKutusu from '@/components/YazarKutusu';
 import { yazarRef } from '@/lib/yazar';
 
 const SITE = 'https://www.avfethiguzel.com';
@@ -361,9 +362,11 @@ export default function VatandasRehberArticle({
         </section>
       )}
 
+      <YazarKutusu guncelleme={article.updated} className="mb-6" />
+
       <p className="text-sm text-charcoal/45 border-t border-charcoal/10 pt-6 m-0">
         Genel bilgilendirme. Somut dosyada süre ve merci değişebilir; güncel metin ve gerektiğinde
-        avukat esastır. Güncelleme: {article.updated}
+        avukat esastır.
       </p>
       <p className="mt-5 mb-0">
         <Link href="/bilgi" className="text-accent font-bold hover:underline">

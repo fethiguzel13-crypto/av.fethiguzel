@@ -6,6 +6,7 @@ import { resolveHubCourseHref } from '@/lib/ders-notlari';
 import { McqBlock } from '@/components/ders-notlari/McqBlock';
 import { FlashcardBlock } from '@/components/ders-notlari/FlashcardBlock';
 import { MermaidBlock } from '@/components/ders-notlari/MermaidBlock';
+import YazarKutusu from '@/components/YazarKutusu';
 import { yazarRef } from '@/lib/yazar';
 
 const SITE = 'https://www.avfethiguzel.com';
@@ -1309,14 +1310,15 @@ export function DersNotuView({
         </section>
       )}
 
+      <YazarKutusu guncelleme={note.updated} className="mb-6" />
+
       <footer className="text-xs text-charcoal/45 border-t border-charcoal/10 pt-6 leading-relaxed">
         <p className="m-0 mb-1">
           <strong className="text-charcoal/60">Av. Fethi Güzel Hukuk Portalı</strong> · ücretsiz öğrenci
           desteği · bilgilendirme / eğitim materyali
         </p>
         <p className="m-0">
-          Resmi müfredatın ve sorumlu öğretim elemanının yerine geçmez · telifli slayt kopyalanmaz ·
-          güncelleme: {note.updated}
+          Resmi müfredatın ve sorumlu öğretim elemanının yerine geçmez · telifli slayt kopyalanmaz
           {note.qualityTier === 'curated'
             ? ' · elden geçirilmiş (curated)'
             : note.qualityTier === 'research-draft'

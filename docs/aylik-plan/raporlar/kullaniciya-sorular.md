@@ -59,3 +59,10 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     sayfasından müvekkil ön formuna götürmektedir. m.7/1-c genel bilgiyi iş elde etme amacıyla yayımlamayı
     yasakladığından öneri şudur: Çubukta yalnız "Ara" ve "Hesap" kalsın, ön forma yalnız profil ve iletişim
     sayfasından ulaşılsın. *Varsayım:* yanıt gelene kadar dokunulmaz.
+14. **Yazar kimliğinde sitede bulunmayan bilgiler (G09).** Yazar kutusu ve Person şeması yalnız sitede zaten yazan
+    bilgilerden üretildi: ad, akademik çalışma (özel hukuk doktora çalışmaları), "e-duruşma" monografisi, e-posta,
+    büro adresi, sosyal hesaplar. Arama motorunun yazar varlığını tanımasını güçlendirecek şu bilgiler sitede yoktur
+    ve uydurulmadı: kayıtlı olunan baro ve sicil numarası, avukatlığa başlama yılı, doktora programının yürütüldüğü
+    üniversite, ORCID / Google Akademik / DergiPark yazar profili, monografi dışındaki yayınların künyeleri. Hangileri
+    yayımlanabilir? Verilenler `lib/profile.ts`'e girer; şema ve yazar kutusu kendiliğinden güncellenir.
+    *Varsayım:* yanıt gelene kadar yalnız mevcut bilgiler kullanılır.

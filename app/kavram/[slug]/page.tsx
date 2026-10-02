@@ -5,6 +5,7 @@ import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import ShareableAnswer from '@/components/ShareableAnswer';
+import YazarKutusu from '@/components/YazarKutusu';
 import { getKavram, getAllKavramSlugs, KAVRAMLAR } from '@/lib/kavramlar';
 import { SITE_URL } from '@/lib/profile';
 import { yazarRef } from '@/lib/yazar';
@@ -179,6 +180,8 @@ export default async function KavramSlugPage({ params }: Props) {
                         </ul>
                     </section>
                 )}
+
+                <YazarKutusu className="mb-6" />
 
                 <p className="text-[11px] text-charcoal/40 leading-relaxed mb-6">
                     Bu sayfa bilgilendirme amaçlıdır; resmî tavsiye veya vekâlet yerine geçmez. Somut

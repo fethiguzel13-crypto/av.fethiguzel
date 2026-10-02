@@ -15,7 +15,7 @@ export const YAZAR = {
   unvan: 'Avukat',
   sayfa: '/avukat-fethi-guzel',
   akademik: PROFILE.academic.headline,
-  eser: { ad: PROFILE.book.title, yayinevi: PROFILE.book.publisher, url: PROFILE.book.url },
+  eser: { ad: PROFILE.book.title, kisaAd: PROFILE.book.shortTitle, yayinevi: PROFILE.book.publisher, url: PROFILE.book.url },
   diller: PROFILE.languages.map((l) => l.code),
 } as const;
 
@@ -62,4 +62,59 @@ export function yazarPersonDugumu() {
     sameAs: [...SOCIAL_SAME_AS],
     worksFor: { '@id': `${SITE_URL}/#organization` },
   };
+}
+
+/* ── Yazar kutusu: içerik sayfalarının altındaki yazar satırı, son güncelleme ve kaynaklar ──────────────── */
+
+export type Kaynak = { ad: string; url?: string };
+
+const AYLAR = ['Ocak', 'Şubat', 'Mart', 'Nisan', 'Mayıs', 'Haziran', 'Temmuz', 'Ağustos', 'Eylül', 'Ekim', 'Kasım', 'Aralık'];
+
+/** `2026-09-30` ya da tam ISO zaman → `{ iso: '2026-09-30', metin: '30 Eylül 2026' }`; okunamazsa null. */
+export function tarihVerisi(deger?: string | null): { iso: string; metin: string } | null {
+  const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(String(deger ?? '').trim());
+  if (!m) return null;
+  const [yil, ay, gun] = [Number(m[1]), Number(m[2]), Number(m[3])];
+  const d = new Date(Date.UTC(yil, ay - 1, gun));
+  if (d.getUTCMonth() !== ay - 1 || d.getUTCDate() !== gun) return null;
+  return { iso: m[0], metin: `${gun} ${AYLAR[ay - 1]} ${yil}` };
+}
+
+export type YazarKutusuGirdi = { guncelleme?: string | null; kaynaklar?: readonly Kaynak[] };
+
+/** React bileşeni ve madde sayfasının HTML'i aynı veriyi çizer. Reklam dili yok: ad, akademik kimlik, eser. */
+export function yazarKutusuVerisi({ guncelleme, kaynaklar }: YazarKutusuGirdi = {}) {
+  return {
+    ad: YAZAR.ad,
+    sayfa: YAZAR.sayfa,
+    kimlik: `${YAZAR.akademik} · “${YAZAR.eser.kisaAd}” monografisi (${YAZAR.eser.yayinevi})`,
+    guncelleme: tarihVerisi(guncelleme),
+    // Bağlantı yalnız http(s) ya da site içi yol; `javascript:`, `//başka-alan` gibi adresler düz metne iner.
+    kaynaklar: (kaynaklar ?? [])
+      .filter((k) => k.ad?.trim())
+      .map((k) => (k.url && /^(https?:\/\/|\/(?!\/))/i.test(k.url) ? k : { ad: k.ad })),
+  };
+}
+
+function esc(s: string) {
+  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+/** Rota işleyicisinde düz HTML üreten madde sayfaları için (stil sayfanın kendi CSS'inde). */
+export function yazarKutusuHtml(girdi: YazarKutusuGirdi = {}) {
+  const v = yazarKutusuVerisi(girdi);
+  const kaynak = (k: Kaynak) => {
+    if (!k.url) return `<li>${esc(k.ad)}</li>`;
+    const url = k.url.startsWith('/') ? `${SITE_URL}${k.url}` : k.url;
+    const dis = k.url.startsWith('/') ? '' : ' target="_blank" rel="noopener noreferrer"';
+    return `<li><a href="${esc(url)}"${dis}>${esc(k.ad)}</a></li>`;
+  };
+  return [
+    '<aside class="yazar" aria-label="Yazar ve kaynak bilgisi">',
+    '<p class="yazar-baslik">Yazar</p>',
+    `<p><strong><a href="${YAZAR_SAYFA}">${esc(v.ad)}</a></strong> · ${esc(v.kimlik)}</p>`,
+    v.guncelleme ? `<p class="muted">Son güncelleme: <time datetime="${v.guncelleme.iso}">${v.guncelleme.metin}</time></p>` : '',
+    v.kaynaklar.length ? `<p class="yazar-baslik">Kaynaklar</p><ul>${v.kaynaklar.map(kaynak).join('')}</ul>` : '',
+    '</aside>',
+  ].join('');
 }

@@ -4,6 +4,7 @@ import Link from "@/components/SiteLink";
 import { ExternalLink } from 'lucide-react';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import YazarKutusu from '@/components/YazarKutusu';
 import { loadAnalysis, loadAvailableAnalysisIds } from '@/lib/analysis';
 
 interface Props {
@@ -83,6 +84,8 @@ export default async function AnalysisPage({ params }: Props) {
             </a>
           </div>
         )}
+
+        <YazarKutusu guncelleme={data.generatedAt} className="mt-10" />
 
         <div className="mt-10">
           <Link

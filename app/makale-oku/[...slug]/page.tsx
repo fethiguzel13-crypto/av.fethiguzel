@@ -5,6 +5,7 @@ import mammoth from 'mammoth';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import YazarKutusu from '@/components/YazarKutusu';
 import { ArrowLeft, Download, FileText, Book } from 'lucide-react';
 
 // Önceden metadata yoktu: sayfa kökün başlığını ve ana sayfa canonical'ını taşıyordu (G06b).
@@ -119,6 +120,8 @@ export default async function MakaleOku({ params }: { params: Promise<{ slug: st
              <span>DOSYA: {fileName}</span>
           </div>
         </article>
+
+        <YazarKutusu className="mt-8" />
       </main>
 
       <Footer />

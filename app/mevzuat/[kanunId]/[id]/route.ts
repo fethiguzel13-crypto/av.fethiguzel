@@ -12,7 +12,7 @@ export const maxDuration = 30;
 
 import { gunzipSync } from 'node:zlib';
 import { auditCommentary } from '@/lib/content-quality.mjs';
-import { yazarRef } from '@/lib/yazar';
+import { yazarKutusuHtml, yazarRef } from '@/lib/yazar';
 
 const SITE = 'https://www.avfethiguzel.com';
 
@@ -287,6 +287,10 @@ h1{font-size:clamp(1.45rem,3vw,2rem);line-height:1.22;margin:.45rem 0 0;font-wei
 .notice{border-left:3px solid #C45A38;padding:.15rem 0 .15rem 1rem}
 .notice p{margin:.5rem 0}
 .notice strong{color:#C45A38}
+.yazar{border:1px solid rgba(0,0,0,.08);border-radius:1rem;background:rgba(255,254,250,.6);padding:1rem 1.25rem;margin:1.1rem 0;font-size:.88rem;color:rgba(28,28,28,.72)}
+.yazar p{margin:.2rem 0}.yazar ul{margin:.2rem 0;padding-left:1.2rem}
+.yazar-baslik{font-size:.62rem;letter-spacing:.14em;text-transform:uppercase;color:rgba(28,28,28,.45)}
+.yazar p+.yazar-baslik{margin-top:.75rem}
 </style>
 </head>
 <body>
@@ -325,6 +329,7 @@ Arama adları: <strong>${code} ${n}</strong> · <strong>${code} madde ${n}</stro
     }</h2>
 <article class="prose">${commentaryHtml}</article>
 </section>
+${hasCommentary ? yazarKutusuHtml({ kaynaklar: [{ ad: 'Resmî metin — mevzuat.gov.tr', url: 'https://www.mevzuat.gov.tr' }] }) : ''}
 <aside class="muted" style="font-size:.8rem;margin-top:1.4rem">
 Kaynak ve uyarı: Bilgilendirme amaçlıdır; Resmî Gazete / mevzuat.gov.tr esas alınmalıdır.
 ${hasCommentary ? 'Şerh akademik niteliktedir.' : ''} Arama: ${code} madde ${n}, ${code} m. ${n}, Fethi Güzel.
