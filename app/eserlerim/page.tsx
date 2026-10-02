@@ -6,6 +6,7 @@ import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { ShoppingCart, ArrowRight } from 'lucide-react';
+import { yazarRef } from '@/lib/yazar';
 
 export default function EserlerimPage() {
   const books = [
@@ -27,7 +28,7 @@ export default function EserlerimPage() {
     '@context': 'https://schema.org',
     '@type': 'Book',
     name: books[0].title,
-    author: { '@type': 'Person', name: 'Av. Fethi Güzel' },
+    author: yazarRef(),
     publisher: { '@type': 'Organization', name: 'Seçkin Yayıncılık' },
     url: 'https://www.seckin.com.tr/kitap/614840900',
     inLanguage: 'tr',

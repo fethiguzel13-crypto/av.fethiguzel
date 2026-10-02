@@ -7,6 +7,7 @@ import Footer from '@/components/Footer'
 import CredentialsStrip from '@/components/CredentialsStrip'
 import { Scale, MapPin, BookOpen, Gavel, Mail, GraduationCap, Globe2, ExternalLink } from 'lucide-react'
 import { PROFILE, BOLGELER, SITE_URL, CREDENTIAL_BULLETS, SOCIAL_SAME_AS } from '@/lib/profile'
+import { yazarRef } from '@/lib/yazar';
 
 const photoPath = PROFILE.photo
 const photoAbs = `${SITE_URL}${photoPath}`
@@ -88,7 +89,7 @@ export default function AvukatFethiGuzelPage() {
         '@context': 'https://schema.org',
         '@type': 'Book',
         name: PROFILE.book.title,
-        author: { '@type': 'Person', name: PROFILE.name },
+        author: yazarRef(),
         publisher: { '@type': 'Organization', name: PROFILE.book.publisher },
         url: PROFILE.book.url,
         inLanguage: 'tr',
@@ -103,7 +104,7 @@ export default function AvukatFethiGuzelPage() {
         description:
             'Avukat Fethi Güzel portresi. Özel hukuk doktora çalışmaları, e-duruşma yazarı.',
         creditText: PROFILE.name,
-        creator: { '@type': 'Person', name: PROFILE.name },
+        creator: yazarRef(),
     }
 
     return (

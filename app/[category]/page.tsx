@@ -3,6 +3,7 @@ import { getLawCategoryBySlug, lawCategories } from '@/lib/laws';
 import Link from "@/components/SiteLink";
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
+import { yazarRef } from '@/lib/yazar';
 
 export function generateStaticParams() {
   return lawCategories.map(cat => ({ category: cat.slug }));
@@ -92,17 +93,7 @@ export default async function CategoryLandingPage({ params }: { params: Promise<
             "name": `${cat.name} – ${cat.kanunAdi}`,
             "description": cat.description,
             "url": `https://www.avfethiguzel.com/${category}`,
-            "author": {
-              "@type": "Person",
-              "name": "Av. Fethi Güzel",
-              "jobTitle": "Avukat & Arabulucu",
-              "address": {
-                "@type": "PostalAddress",
-                "addressLocality": "Erciş",
-                "addressRegion": "Van",
-                "addressCountry": "TR"
-              }
-            }
+            "author": yazarRef()
           })
         }}
       />

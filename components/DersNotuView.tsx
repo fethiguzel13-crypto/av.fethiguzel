@@ -6,6 +6,7 @@ import { resolveHubCourseHref } from '@/lib/ders-notlari';
 import { McqBlock } from '@/components/ders-notlari/McqBlock';
 import { FlashcardBlock } from '@/components/ders-notlari/FlashcardBlock';
 import { MermaidBlock } from '@/components/ders-notlari/MermaidBlock';
+import { yazarRef } from '@/lib/yazar';
 
 const SITE = 'https://www.avfethiguzel.com';
 
@@ -273,7 +274,7 @@ export function DersNotuView({
     isAccessibleForFree: true,
     learningResourceType: 'Ders notu',
     educationalLevel: 'Lisans — Hukuk Fakültesi',
-    author: { '@type': 'Person', name: 'Av. Fethi Güzel', url: `${SITE}/avukat-fethi-guzel` },
+    author: yazarRef(),
     provider: { '@type': 'Organization', name: 'Av. Fethi Güzel Hukuk Portalı', url: SITE },
   };
 

@@ -7,6 +7,7 @@ import Footer from '@/components/Footer';
 import ShareableAnswer from '@/components/ShareableAnswer';
 import { getKavram, getAllKavramSlugs, KAVRAMLAR } from '@/lib/kavramlar';
 import { SITE_URL } from '@/lib/profile';
+import { yazarRef } from '@/lib/yazar';
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -45,7 +46,7 @@ export default async function KavramSlugPage({ params }: Props) {
         '@type': 'Article',
         headline: k.baslik,
         description: k.ozet,
-        author: { '@type': 'Person', name: 'Av. Fethi Güzel' },
+        author: yazarRef(),
         url: `${SITE_URL}/kavram/${k.slug}`,
         inLanguage: 'tr-TR',
     };

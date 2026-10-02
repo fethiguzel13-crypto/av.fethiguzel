@@ -5,6 +5,7 @@ import { categories as oldCategories } from '@/lib/categories';
 import Link from "@/components/SiteLink";
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
+import { yazarRef } from '@/lib/yazar';
 
 // Map new sub-category slugs to old category slugs for data lookup
 function getOldSlug(parentSlug: string, subSlug: string): string | null {
@@ -164,17 +165,7 @@ export default async function SubCategoryPage({ params }: { params: Promise<{ ca
             "name": `${sub.name} – ${parent.kanunAdi}`,
             "description": sub.description,
             "url": `https://www.avfethiguzel.com/${category}/${slug}`,
-            "author": {
-              "@type": "Person",
-              "name": "Av. Fethi Güzel",
-              "jobTitle": "Avukat & Arabulucu",
-              "address": {
-                "@type": "PostalAddress",
-                "addressLocality": "Erciş",
-                "addressRegion": "Van",
-                "addressCountry": "TR"
-              }
-            },
+            "author": yazarRef(),
             "publisher": {
               "@type": "Organization",
               "name": "Av. Fethi Güzel Hukuk Portalı"

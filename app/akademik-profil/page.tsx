@@ -6,6 +6,7 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { PROFILE, SITE_URL, CREDENTIAL_BULLETS, SOCIAL_SAME_AS } from '@/lib/profile';
 import { BookOpen, GraduationCap, Globe2, ExternalLink } from 'lucide-react';
+import { yazarRef } from '@/lib/yazar';
 
 export const metadata: Metadata = {
     title: 'Akademik Profil | Doktora, Kitap ve Özel Hukuk',
@@ -22,10 +23,8 @@ export const metadata: Metadata = {
 export default function AkademikProfilPage() {
     const personLd = {
         '@context': 'https://schema.org',
-        '@type': 'Person',
-        name: PROFILE.name,
+        ...yazarRef(),
         jobTitle: PROFILE.jobTitle,
-        url: `${SITE_URL}/akademik-profil`,
         image: `${SITE_URL}${PROFILE.photo}`,
         email: PROFILE.email,
         knowsLanguage: ['tr', 'en'],
@@ -45,7 +44,7 @@ export default function AkademikProfilPage() {
         '@context': 'https://schema.org',
         '@type': 'Book',
         name: PROFILE.book.title,
-        author: { '@type': 'Person', name: PROFILE.name },
+        author: yazarRef(),
         publisher: { '@type': 'Organization', name: PROFILE.book.publisher },
         url: PROFILE.book.url,
         inLanguage: 'tr',

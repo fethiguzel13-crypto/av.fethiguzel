@@ -7,6 +7,7 @@ import GalaxyChrome from '@/components/GalaxyChrome'
 import { PROFILE } from '@/lib/profile'
 import './globals.css'
 import { siteSayilari, tr, yaklasik } from '@/lib/site-stats';
+import { yazarPersonDugumu } from '@/lib/yazar'
 
 /* Külliyat sayıları tek kaynaktan; SEO metni gövdeyle aynı rakamı söylesin. */
 const N = siteSayilari();
@@ -157,71 +158,8 @@ export const metadata: Metadata = {
   },
 }
 
-const personSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'Person',
-  '@id': `${siteUrl}/#person`,
-  name: 'Av. Fethi Güzel',
-  alternateName: ['Fethi Güzel', 'Avukat Fethi Güzel'],
-  jobTitle: 'Avukat & Arabulucu',
-  description:
-    'Van ve Erciş merkezli avukat; özel hukuk doktora çalışmaları; e-duruşma monografisi yazarı; iyi düzeyde İngilizce. Medeni, borçlar, ticaret, ceza ve usul hukuku.',
-  url: `${siteUrl}/avukat-fethi-guzel`,
-  image: `${siteUrl}/images/av-fethi-guzel-van-ercis-avukat.jpg`,
-  email: 'fethiguzel@hotmail.com',
-  knowsLanguage: ['tr', 'en'],
-  address: {
-    '@type': 'PostalAddress',
-    streetAddress: PROFILE.office.street,
-    addressLocality: PROFILE.office.locality,
-    addressRegion: PROFILE.office.region,
-    postalCode: PROFILE.office.postalCode,
-    addressCountry: 'TR',
-  },
-  areaServed: [
-    'Van',
-    'Erciş',
-    'Çaldıran',
-    'Özalp',
-    'Muradiye',
-    'Patnos',
-    'Ağrı',
-    'Tatvan',
-    'Bitlis',
-    'Adilcevaz',
-    'Ahlat',
-    'Ankara',
-  ].map((name) => ({
-    '@type': 'City',
-    name,
-  })),
-  knowsAbout: [
-    'Özel hukuk',
-    'Doktora çalışmaları',
-    'e-duruşma',
-    'Türk Borçlar Kanunu',
-    'Türk Medeni Kanunu',
-    'Türk Ticaret Kanunu',
-    'Türk Ceza Kanunu',
-    'İş hukuku',
-    'Arabuluculuk',
-    'İcra ve iflas',
-    'Aile hukuku',
-    'Miras hukuku',
-  ],
-  sameAs: [
-    siteUrl,
-    `${siteUrl}/avukat-fethi-guzel`,
-    `${siteUrl}/ercis-avukat`,
-    `${siteUrl}/akademik-profil`,
-    `${siteUrl}/eserlerim`,
-    'https://www.seckin.com.tr/kitap/614840900',
-    'https://www.instagram.com/av.fethiguzel/',
-    'https://x.com/avfethiguzel',
-    'https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk',
-  ],
-  worksFor: { '@id': `${siteUrl}/#organization` },
-}
+/* Person düğümü tek kaynaktan (G09); içerik sayfaları buna `@id` ile bağlanır. */
+const personSchema = yazarPersonDugumu()
 
 const websiteSchema = {
   '@context': 'https://schema.org',

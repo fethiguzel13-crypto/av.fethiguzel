@@ -4,6 +4,7 @@ import Link from "@/components/SiteLink";
 import type { BolgeMakale, MakaleFoto, MakaleGrafik } from '@/lib/bolge-makaleler';
 import { BookOpen, Clock, MapPin, ArrowRight, Info } from 'lucide-react';
 import { SITE_URL, PROFILE } from '@/lib/profile';
+import { yazarRef } from '@/lib/yazar';
 
 function PhotoFigure({ photo, priority = false }: { photo: MakaleFoto; priority?: boolean }) {
   return (
@@ -164,7 +165,7 @@ export default function BolgeMakaleView({
     image: makale.heroPhoto?.src?.startsWith('http')
       ? makale.heroPhoto.src
       : `${SITE_URL}${makale.heroPhoto?.src || ''}`,
-    author: { '@type': 'Person', name: PROFILE.name, url: `${SITE_URL}/avukat-fethi-guzel` },
+    author: yazarRef(),
     publisher: {
       '@type': 'Organization',
       name: 'Av. Fethi Güzel Hukuk Portalı',

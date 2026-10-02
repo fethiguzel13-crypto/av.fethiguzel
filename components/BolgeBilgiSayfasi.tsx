@@ -8,6 +8,7 @@ import { SITE_URL, PROFILE } from '@/lib/profile';
 import type { BolgeBilgi } from '@/lib/bolge-bilgi';
 import { BOLGE_BILGILERI } from '@/lib/bolge-bilgi';
 import { BOLGE_MAKALELER } from '@/lib/bolge-makaleler';
+import { yazarRef } from '@/lib/yazar';
 
 export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
   const pageUrl = `${SITE_URL}/${veri.slug}`;
@@ -19,11 +20,7 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
     headline: veri.h1,
     description: veri.description,
     inLanguage: 'tr-TR',
-    author: {
-      '@type': 'Person',
-      name: PROFILE.name,
-      url: `${SITE_URL}/avukat-fethi-guzel`,
-    },
+    author: yazarRef(),
     publisher: {
       '@type': 'Organization',
       name: 'Av. Fethi Güzel Hukuk Portalı',
@@ -78,11 +75,7 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
           longitude: PROFILE.office.longitude,
         },
         areaServed: { '@type': 'City', name: veri.yerlesim },
-        employee: {
-          '@type': 'Person',
-          name: PROFILE.name,
-          url: `${SITE_URL}/avukat-fethi-guzel`,
-        },
+        employee: yazarRef(),
       }
     : null;
 

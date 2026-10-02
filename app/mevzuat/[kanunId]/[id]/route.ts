@@ -12,6 +12,7 @@ export const maxDuration = 30;
 
 import { gunzipSync } from 'node:zlib';
 import { auditCommentary } from '@/lib/content-quality.mjs';
+import { yazarRef } from '@/lib/yazar';
 
 const SITE = 'https://www.avfethiguzel.com';
 
@@ -201,11 +202,7 @@ esas alınmalıdır.</p>
         description,
         inLanguage: 'tr-TR',
         isAccessibleForFree: true,
-        author: {
-          '@type': 'Person',
-          name: 'Av. Fethi Güzel',
-          url: `${SITE}/avukat-fethi-guzel`,
-        },
+        author: yazarRef(),
         publisher: {
           '@type': 'Organization',
           name: 'Av. Fethi Güzel Hukuk Portalı',

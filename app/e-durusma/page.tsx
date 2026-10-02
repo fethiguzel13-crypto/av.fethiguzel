@@ -5,6 +5,7 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { PROFILE, SITE_URL } from '@/lib/profile';
 import { BookOpen, ExternalLink, Scale } from 'lucide-react';
+import { yazarRef } from '@/lib/yazar';
 
 export const metadata: Metadata = {
     title: 'e-Duruşma | Ses ve Görüntünün Nakli Yoluyla Duruşma',
@@ -23,7 +24,7 @@ export default function EDurusmaHubPage() {
         '@context': 'https://schema.org',
         '@type': 'Book',
         name: PROFILE.book.title,
-        author: { '@type': 'Person', name: PROFILE.name },
+        author: yazarRef(),
         publisher: { '@type': 'Organization', name: PROFILE.book.publisher },
         url: PROFILE.book.url,
         inLanguage: 'tr',

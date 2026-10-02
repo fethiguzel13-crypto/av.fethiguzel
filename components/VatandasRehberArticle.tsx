@@ -16,6 +16,7 @@ import {
   RehberProcess,
   RehberTrap,
 } from '@/components/rehber/RehberFigures';
+import { yazarRef } from '@/lib/yazar';
 
 const SITE = 'https://www.avfethiguzel.com';
 
@@ -105,11 +106,7 @@ export default function VatandasRehberArticle({
         datePublished: article.updated,
         inLanguage: 'tr-TR',
         isAccessibleForFree: true,
-        author: {
-          '@type': 'Person',
-          name: 'Av. Fethi Güzel',
-          url: `${SITE}/avukat-fethi-guzel`,
-        },
+        author: yazarRef(),
         publisher: {
           '@type': 'Organization',
           name: 'Av. Fethi Güzel Hukuk Portalı',

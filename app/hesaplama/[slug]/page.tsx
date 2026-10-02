@@ -11,6 +11,7 @@ import { bilgiLinksForArac } from '@/lib/hesaplama-bilgi';
 import { getKavramForHesaplama } from '@/lib/kavramlar';
 import ShareableAnswer from '@/components/ShareableAnswer';
 import { SITE_URL } from '@/lib/profile';
+import { yazarRef } from '@/lib/yazar';
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -66,7 +67,7 @@ export default async function HesaplamaSlugPage({ params }: Props) {
         offers: { '@type': 'Offer', price: '0', priceCurrency: 'TRY' },
         url,
         description: meta.aciklama,
-        author: { '@type': 'Person', name: 'Av. Fethi Güzel' },
+        author: yazarRef(),
         inLanguage: 'tr-TR',
     };
 
