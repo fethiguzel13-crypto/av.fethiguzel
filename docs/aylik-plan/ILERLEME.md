@@ -139,3 +139,22 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - `yargi:hasat-durum`: motor çalışıyor (22,5 sa), son 1 saatte 429/ağ hatası 0, hız tavanda 4,7/dk, son captcha 11,7 sa
   önce, kalıcı hata 160. Emsal ve benzersiz 34.894 (G06: 32.394). Disk C 45 GB boş. Düzeltme gerekmedi.
 - Satır `raporlar/hasat-haftalik.md`'ye yazıldı (dosya bu hafta açıldı). Sıradaki: G09 (yazar/avukat kimliği).
+
+## 2026-10-02 16:11–16:55 — G09 TAMAM (başsız oturum)
+
+- Devralma: 07:00 oturumu G09 alt planını, testi ve `lib/yazar.ts`'i 07:47'de yazıp kullanım sınırına (429) takılmıştı;
+  dosyalar commit'siz, ILERLEME kaydı yoktu. Döküm sonu doğrulanıp iş sürdürüldü. 07:27'den kalan sahipsiz
+  `next start -p 3123` durduruldu. OTONOM.md teknik tuzaklarına iki madde eklendi (erken "DEVAM EDİYOR" işareti, CRLF).
+- **Person tek kaynak** (`f623394e0`): kök düğüm `yazarPersonDugumu()`, 16 kopya `yazarRef()` (`@id` = `/#person`);
+  `[category]` sayfalarının yeniden yazdığı unvan ve adres kalktı. Test 3 (önce kırmızı).
+- **Yazar kutusu** (`a077e5265`): `components/YazarKutusu.tsx` makale, rehber, ders notu, karar analizi, kavram; madde
+  sayfası `yazarKutusuHtml()` (yalnız şerh varken, kaynak mevzuat.gov.tr). Kaynakları kendi bölümünde gösteren
+  türlerde liste tekrarlanmadı. Bileşen testi gerçek `.tsx`'i çizer (`lib/__tests__/tsx-hooks.mjs`). Test 13 (önce kırmızı).
+- Kalite: `npm run kalite` (derleme dahil) 564 test yeşil; son `kalite:hizli` 565. Yerel sunucu ölçümü: 9 sayfa türünde
+  tüm Person düğümleri `@id`'li, kutu 5 türde görünür. Karar analizi (`/icthat/[id]`) yerelde ölçülemedi: analiz
+  verisi yalnız uzak dalda üretiliyor; yerleşim testle sabit. Ekran görüntüleri `raporlar/gorsel/g09-*.png`.
+  Derlemenin zaman damgalı 4 dosyası geri alındı. TestSprite: değişiklik yayında değil (30 Ekim), doğrulanmadı.
+- Kullanıcıya soru 14: baro/sicil, başlama yılı, doktora üniversitesi, ORCID vb. sitede yok, uydurulmadı.
+- G10'a not: yazar sayfası ve `english-speaking-lawyer` kişiyi ayrıca `Attorney` olarak basıyor; `/icthat/[id]`
+  JSON-LD'siz ve başlıkta çift ek; `/makale-oku/*` Article şemasız.
+- Sıradaki: G10 (yapılandırılmış veri; G06 ve G09 bitti).

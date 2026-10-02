@@ -141,7 +141,7 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
 
 ## Hafta 2 (8–14 Ekim) — Yazar kimliği, içerik mimarisi, SEO
 
-- [ ] **G09 — Yazar/avukat kimliği sistemi** · bağımlı: G07
+- [x] **G09 — Yazar/avukat kimliği sistemi** · bağımlı: G07 · 2026-10-02: Person tek kaynak (17 → 1), yazar kutusu 6 türde, soru 14
   - Tek kaynak `lib/yazar.ts`: ad, unvan, baro, akademik bilgi, eserler, sameAs bağlantıları — yalnız
     sitede zaten var olan ve doğrulanabilen bilgilerden (akademik-profil, eserlerim, avukat-fethi-guzel).
     Yeni kimlik bilgisi uydurulmaz; eksik alanlar `raporlar/kullaniciya-sorular.md`'ye yazılır.
@@ -154,6 +154,10 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     `template` + başlıkta hazır ek; mevzuat kanun listesi, `/bilgi`, kategori). Uzun başlıkların ana kaynağı; önce bu.
   - Person, Article/ScholarlyArticle, BreadcrumbList, Legislation (mevzuat), yalnız gerçek soru-cevapta
     FAQPage. Otomatik doğrulama testi (zorunlu alanlar, tek @id şeması).
+  - G09 notu: Person artık `lib/yazar.ts`'ten (`yazarRef()` / `yazarPersonDugumu()`); yazar sayfası ve
+    `english-speaking-lawyer` kişiyi ayrıca `@type: Attorney` (LocalBusiness alt türü, `@id`'siz) olarak basıyor →
+    ProfilePage + `mainEntity: yazarRef()` (soru 11 yanıtıyla birlikte). `/icthat/[id]` karar analizinde JSON-LD yok ve
+    başlığı "| Av. Fethi Güzel"i iki kez taşıyor; `/makale-oku/*` sayfalarında Article/ScholarlyArticle yok.
 
 - [ ] **G11 — Ders notları dizin mimarisi (ince içerik riski)** · bağımlı: G06
   - 11.623 notun çoğu `template` katmanında (şehir adı değiştirilmiş şablon). Bu sayfalar Google'ın

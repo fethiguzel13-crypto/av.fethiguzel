@@ -47,6 +47,13 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
   Yüklenebilirliği `node --check dosya` ile doğrula; çalıştırman gerekiyorsa önce kaynağını oku ve
   çıktı yolunu geçici bir klasöre yönlendir. İşten sonra `git status` ile beklenmeyen değişikliği ara.
 
+- **Kullanım sınırı uyarısız gelebilir** (2026-10-02 07:47: oturum 429 ile kesildi; G09 alt planı ve ilk dosyalar
+  commit'siz, ILERLEME kaydı olmadan kaldı). Alt planı yazar yazmaz `ILERLEME.md`'ye tek satır
+  "Gxx DEVAM EDİYOR (başladı HH:MM)" ekle. İşaretsiz izlenmeyen dosya bulunursa son oturumun dökümünün sonu
+  (`~/.claude/projects/<proje>/*.jsonl`, `"error":"rate_limit"`) ile kesintiyi doğrula.
+- **Satır sonları karışık:** depodaki dosyaların çoğu CRLF, bir kısmı LF. Betikle değiştirirken `\n` içeren desen
+  CRLF dosyada sıfır eşleşir; deseni `\r?\n` yap, satır sonunu dosyadan oku. Git Bash'in `od`, `cat -A`, `grep`
+  araçları CR'yi göstermez; sayımı `node` ile yap. `sed -i` dosyayı LF'ye çevirir.
 - `.ps1` dosyası düzenlendikten sonra UTF-8 BOM yeniden eklenir (düzenleme aracı BOM'u siler; PowerShell 5.1
   Türkçe karakterli betiği BOM'suz ANSI okur ve ayrıştırma hatası verir). Sonra
   `[System.Management.Automation.Language.Parser]::ParseFile` ile sözdizimi doğrulanır.
