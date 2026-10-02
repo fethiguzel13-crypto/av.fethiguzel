@@ -5,10 +5,12 @@ import { useEffect } from 'react';
 /**
  * PDF sayfasında yazdırma / “PDF olarak kaydet” akışı.
  * Eski inline script regex'i bozuktu: /(?:[?&]print=|/pdf)/i → erken kapanıyordu.
+ * `?print=1` burada okunur; sayfa statik üretildiği için sunucu sorgu dizgesini görmez.
  */
-export function DersNotuPrintTrigger({ auto = false }: { auto?: boolean }) {
+export function DersNotuPrintTrigger() {
   useEffect(() => {
-    if (!auto) return;
+    const print = new URLSearchParams(window.location.search).get('print');
+    if (print !== '1' && print !== 'true') return;
     const t = window.setTimeout(() => {
       try {
         window.print();
@@ -17,7 +19,7 @@ export function DersNotuPrintTrigger({ auto = false }: { auto?: boolean }) {
       }
     }, 600);
     return () => window.clearTimeout(t);
-  }, [auto]);
+  }, []);
 
   return (
     <button

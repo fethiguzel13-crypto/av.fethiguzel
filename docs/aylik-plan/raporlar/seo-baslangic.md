@@ -173,3 +173,32 @@ eklendi; istemci bileşeni olan iki sayfa için `layout.tsx` açıldı. Dört do
 `sitemap-index.xml` robots.txt'deki beş haritaya göre yeniden yazıldı. `/ingilizce-avukat` kalıcı (308) yapıldı
 ve site haritasından çıkarıldı. Kaynak düzeyindeki kilit testleri: `lib/__tests__/seo-metadata.test.mjs`.
 
+
+### G06b adım 5 (2026-10-02 07:35)
+
+Ham veri: `logs/g06b-adim5-seo-tara.json` (commit'lenmedi).
+
+| Ölçüt | G06 | G06b (06:40) | Adım 5 |
+|---|---|---|---|
+| 500 yanıtı (örnek 307) | 3 | 3 | **0** |
+| Derlemede 404 üretilen rehber | ölçülmedi | ölçülmedi | 8 → **0** |
+| Haritada URL-kodsuz adres | ölçülmedi | 8 | **0** |
+| Başlık > 65 karakter | 125 | 148 | 126 |
+| Kırık iç bağlantı (600) | 18 | 18 | 14 (tamamı ders notu hub'ı, G11) |
+
+`/ders-notlari/<üni>/<ders>/pdf` rotası `generateStaticParams` ile çalışma anında statik üretilmekte, buna karşılık
+`searchParams` okumaktaydı. İstek zamanı API'si statik çizimde `DYNAMIC_SERVER_USAGE` hatası verdiğinden rotanın
+tüm adresleri, var olmayan notlar da dahil, 500 dönmüştür. Sorgu dizgesi (`?print=1`) artık istemci bileşeninde
+okunmakta olup var olmayan not 404 vermektedir.
+
+`/site-haritasi`'ndaki kırık bağlantı tek örnek değildir. Derleme çıktısındaki `.meta` durum dosyaları, Türkçe
+karakterli slug taşıyan 8 rehberin derlemede 404 olarak üretildiğini göstermiştir; bunların 7'si site haritasındadır.
+Next, Türkçe karakterli segmenti sayfaya kodlu biçimde (`muh%C3%BCr-…`) iletmekte, `/bilgi/[slug]` ise bu değeri
+çözmeden aradığı için rehberi bulamamaktaydı. Kategori sayfasındaki düzen uygulanmıştır: parametre çözülmekte,
+canonical ile üç site haritası üreticisi adresi `encodeURIComponent` ile yazmaktadır. Adresler değiştirilmemiştir.
+
+Taramada iki yan bulgu ortaya çıkmıştır. Birincisi, örnek sayfaların 63'ünde (307'de) başlık "| Av. Fethi Güzel"
+ekini iki kez taşımaktadır. Kök yerleşimdeki `template: '%s | Av. Fethi Güzel'`, eki zaten içeren başlıklara
+ikinci kez eklenmektedir (mevzuat kanun listesi 25, `/bilgi` 17, kategori sayfaları 17). S7'deki uzun başlıkların
+önemli kısmı buradan doğduğu için düzeltme G10'a not edilmiştir. İkincisi, `yapı-ruhsati-nedir` rehberi dizine açık
+olduğu hâlde hiçbir site haritasında yer almamaktadır; sitemap üreticileri ile sayfanın yayın ölçütü farklıdır (G11).

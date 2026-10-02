@@ -80,7 +80,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const livePosts = VATANDAS_ARTICLES.filter((a) => okRehber.has(a.slug));
 
   const bilgiRoutes: MetadataRoute.Sitemap = livePosts.map((a) => ({
-    url: `${baseUrl}/bilgi/${a.slug}`,
+    url: `${baseUrl}/bilgi/${encodeURIComponent(a.slug)}`,
     lastModified: new Date(a.updated || '2026-07-29'),
     changeFrequency: (a.role === 'pillar' ? 'weekly' : 'monthly') as 'weekly' | 'monthly',
     priority:

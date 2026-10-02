@@ -10,9 +10,13 @@ import {
 } from '@/lib/ders-notlari';
 import { auditLectureNote } from '@/lib/content-quality.mjs';
 
+/**
+ * `searchParams` okunmaz: rota generateStaticParams ile çalışma anında statik
+ * üretilir ve istek zamanı API'si DYNAMIC_SERVER_USAGE ile 500 veriyordu
+ * (G06b). `?print=1` istemcide DersNotuPrintTrigger tarafından okunur.
+ */
 type Props = {
   params: Promise<{ uni: string; ders: string }>;
-  searchParams: Promise<{ print?: string }>;
 };
 
 export function generateStaticParams() {
@@ -34,13 +38,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 /** Yazdır / PDF kaydet için sade sayfa (tarayıcı print → PDF) */
-export default async function DersNotuPdfPage({ params, searchParams }: Props) {
+export default async function DersNotuPdfPage({ params }: Props) {
   const { uni, ders } = await params;
-  const sp = await searchParams;
   const resolved = resolveNoteCourseCode(uni, ders);
   if (resolved && resolved !== ders) {
-    const q = sp?.print ? `?print=${encodeURIComponent(sp.print)}` : '';
-    permanentRedirect(`/ders-notlari/${uni}/${resolved}/pdf${q}`);
+    permanentRedirect(`/ders-notlari/${uni}/${resolved}/pdf`);
   }
   const note = getNote(uni, ders);
   const hub = getHub(uni);
@@ -50,8 +52,6 @@ export default async function DersNotuPdfPage({ params, searchParams }: Props) {
   if (!auditLectureNote(note).publishable) {
     permanentRedirect(`/ders-notlari/${uni}/${ders}`);
   }
-
-  const autoPrint = sp?.print === '1' || sp?.print === 'true';
 
   return (
     <div className="bg-white min-h-screen text-black print:bg-white">
@@ -77,7 +77,7 @@ export default async function DersNotuPdfPage({ params, searchParams }: Props) {
           <p className="text-xs text-charcoal/50 m-0 mb-3">
             Dosya adı önerisi: <code className="text-accent">{note.slug || `${uni}-${ders}`}.pdf</code>
           </p>
-          <DersNotuPrintTrigger auto={autoPrint} />
+          <DersNotuPrintTrigger />
         </div>
         <DersNotuView note={note} hub={hub} />
       </div>

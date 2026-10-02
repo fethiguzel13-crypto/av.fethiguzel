@@ -115,7 +115,7 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     not, hesaplama, yargı arşivi, kavram, bölge sayfası, yazar sayfası.
   - Rapor: `raporlar/seo-baslangic.md` (sayılarla); sonraki görevler buna göre önceliklendirilir.
 
-- [ ] **G06b — Canonical, meta ve site haritası düzeltmeleri** · bağımlı: G06 · kaynak: `raporlar/seo-baslangic.md` S1–S5, S8 · **DEVAM EDİYOR** (S1–S4, S8 tamam; kalan: `/pdf` 500, `/site-haritasi` bağlantısı — `gorevler/G06b.md`)
+- [x] **G06b — Canonical, meta ve site haritası düzeltmeleri** · bağımlı: G06 · kaynak: `raporlar/seo-baslangic.md` S1–S5, S8 · 2026-10-02: canonical uyumsuz 60 → 0, 500 → 0, derlemede 404 rehber 8 → 0
   - S1/S2: `app/layout.tsx:142` kök `alternates.canonical` tüm alt sayfalara miras kalıyor → kendi metadata'sı olmayan
     sayfalar ana sayfayı canonical gösteriyor ve varsayılan başlığı taşıyor (`/makaleler`, `/eserlerim`, `/icthat`,
     `/on-form`, `/uyelik/sozlesme`, `/kategori/*` 61, `/makale-oku/*` 11). Kökten kaldır; bu sayfalara başlık, açıklama,
@@ -147,6 +147,8 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
   - Kabul: bileşen testleri; 6 içerik türünde görünür; Person JSON-LD tek kaynaktan.
 
 - [ ] **G10 — Yapılandırılmış veri** · bağımlı: G09, G06
+  - G06b notu (S7): örnek sayfaların 63/307'sinde başlık "| Av. Fethi Güzel" ekini iki kez taşıyor (kök
+    `template` + başlıkta hazır ek; mevzuat kanun listesi, `/bilgi`, kategori). Uzun başlıkların ana kaynağı; önce bu.
   - Person, Article/ScholarlyArticle, BreadcrumbList, Legislation (mevzuat), yalnız gerçek soru-cevapta
     FAQPage. Otomatik doğrulama testi (zorunlu alanlar, tek @id şeması).
 
@@ -156,6 +158,8 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
   - `template` → noindex + ilgili dersin en iyi notuna canonical; `curated` → dizine; site haritası
     yalnız dizine alınabilir sayfalar. Başlık/açıklama tekrarlarını gider.
   - Kabul: sitemap'te template yok; test ile doğrulanır; önce/sonra sayıları raporda.
+  - G06b notu: `yapı-ruhsati-nedir` dizine açık ama hiçbir haritada yok (harita üreticisi ile sayfanın yayın ölçütü
+    farklı). Harita kapsamını sayfanın `robots` kararıyla tek kaynaktan eşitle; ders notu hub'larındaki 14 kırık bağlantı da burada.
 
 - [ ] **G12 — İç bağlantı ağı** · bağımlı: G11
   - Mevzuat maddesi ↔ şerh ↔ ders notu ↔ Yargıtay kararı (yalnız "yararlı" etiketliler) ↔ rehber ↔

@@ -30,7 +30,7 @@ const urls = [
     last: new Date().toISOString().slice(0, 10),
   },
   ...articles.map((a) => ({
-    loc: `${SITE}/bilgi/${a.slug}`,
+    loc: `${SITE}/bilgi/${encodeURIComponent(a.slug)}`,
     prio: String(
       a.sitemapPriority ??
         (a.role === 'pillar' ? 0.95 : a.role === 'spoke' ? 0.72 : a.role === 'bridge' ? 0.55 : 0.85)

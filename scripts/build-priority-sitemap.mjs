@@ -100,18 +100,18 @@ try {
   skipped += withdrawn;
 
   // Elle yazılan rehberler en yüksek öncelikte — kaynağı doğrulanmış tek küme
-  for (const a of authored) add(`/bilgi/${a.slug}`, '0.96');
+  for (const a of authored) add(`/bilgi/${encodeURIComponent(a.slug)}`, '0.96');
 
   const authoredSlugs = new Set(authored.map((a) => a.slug));
   const generated = published.filter((a) => !authoredSlugs.has(a.slug));
 
   for (const a of generated) {
-    if (a.role === 'pillar') add(`/bilgi/${a.slug}`, '0.94');
+    if (a.role === 'pillar') add(`/bilgi/${encodeURIComponent(a.slug)}`, '0.94');
   }
   let spoke = 0;
   for (const a of generated) {
     if (a.role === 'spoke' && spoke < 40) {
-      add(`/bilgi/${a.slug}`, '0.75');
+      add(`/bilgi/${encodeURIComponent(a.slug)}`, '0.75');
       spoke += 1;
     }
   }

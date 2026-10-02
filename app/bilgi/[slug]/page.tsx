@@ -20,8 +20,11 @@ export function generateStaticParams() {
   return getAllVatandasSlugs().map((slug) => ({ slug }));
 }
 
+// Next Türkçe karakterli segmenti kodlu verir (`muh%C3%BCr-…`); çözülmezse rehber bulunamaz
+// ve sayfa derlemede 404 olarak üretilir (G06b: 8 rehber). Kategori sayfasıyla aynı düzen.
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { slug } = await params;
+  const { slug: raw } = await params;
+  const slug = decodeURIComponent(raw);
   const published = getPublishedBySlug(slug);
   const a = published || getVatandasBySlug(slug);
   if (!a) return { title: 'Rehber bulunamadı' };
@@ -32,12 +35,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     ? { publishable: true as const, reason: undefined }
     : auditGuide(a);
 
-  const canonicalPath = a.canonicalPath || `/bilgi/${a.slug}`;
+  const canonicalPath = a.canonicalPath || `/bilgi/${encodeURIComponent(a.slug)}`;
   const canonical = canonicalPath.startsWith('http')
     ? canonicalPath
     : `${SITE}${canonicalPath.startsWith('/') ? '' : '/'}${canonicalPath}`;
 
-  const ogUrl = `${SITE}/bilgi/${a.slug}`;
+  const ogUrl = `${SITE}/bilgi/${encodeURIComponent(a.slug)}`;
   const title = quality.publishable ? a.title : `${a.h1} — yeniden yazılıyor`;
   const description = quality.publishable
     ? a.description
@@ -64,7 +67,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default async function BilgiSlugPage({ params }: Props) {
-  const { slug } = await params;
+  const { slug: raw } = await params;
+  const slug = decodeURIComponent(raw);
   const published = getPublishedBySlug(slug);
   const article = published || getVatandasBySlug(slug);
   if (!article) notFound();
