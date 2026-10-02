@@ -12,7 +12,9 @@ export const maxDuration = 30;
 
 import { gunzipSync } from 'node:zlib';
 import { auditCommentary } from '@/lib/content-quality.mjs';
-import { yazarKutusuHtml, yazarRef } from '@/lib/yazar';
+import { jsonLdHtml } from '@/lib/json-ld';
+import { maddeJsonLd } from '@/lib/madde-ld';
+import { yazarKutusuHtml } from '@/lib/yazar';
 
 const SITE = 'https://www.avfethiguzel.com';
 
@@ -183,61 +185,6 @@ değiştirilmemiştir. Bağlayıcı metin için <a href="https://www.mevzuat.gov
 esas alınmalıdır.</p>
 </div>`;
 
-  // Şerh yokken sayfa bir "makale" değil, kanun metni alıntısıdır. Article
-  // şeması yazmak, olmayan yazarlık iddiası anlamına gelir.
-  const jsonLd = {
-    '@context': 'https://schema.org',
-    '@graph': [
-      {
-        '@type': hasCommentary ? 'Article' : 'WebPage',
-        headline: `${code} ${n} | ${code} Madde ${n}`,
-        name: `${code} Madde ${n}`,
-        alternateName: [
-          `${code} ${n}`,
-          `${code} m. ${n}`,
-          `${code} m ${n}`,
-          `${code} madde ${n}`,
-          `${code} Madde ${n}`,
-        ],
-        description,
-        inLanguage: 'tr-TR',
-        isAccessibleForFree: true,
-        author: yazarRef(),
-        publisher: {
-          '@type': 'Organization',
-          name: 'Av. Fethi Güzel Hukuk Portalı',
-          url: SITE,
-        },
-        mainEntityOfPage: canonical,
-        about: {
-          '@type': 'Legislation',
-          name: `${kanun} Madde ${n}`,
-          legislationIdentifier: `${code}-${n}`,
-          legislationJurisdiction: 'TR',
-        },
-        keywords: `${code} madde ${n}, ${code} m. ${n}, Av. Fethi Güzel, Fethi Güzel, kanun maddesi`,
-      },
-      {
-        '@type': 'BreadcrumbList',
-        itemListElement: [
-          { '@type': 'ListItem', position: 1, name: 'Ana Sayfa', item: SITE },
-          {
-            '@type': 'ListItem',
-            position: 2,
-            name: 'Mevzuat',
-            item: `${SITE}/mevzuat`,
-          },
-          {
-            '@type': 'ListItem',
-            position: 3,
-            name: `${code} Madde ${n}`,
-            item: canonical,
-          },
-        ],
-      },
-    ],
-  };
-
   const robots = hasCommentary
     ? 'index,follow,max-snippet:-1,max-image-preview:large'
     : 'noindex,follow';
@@ -264,7 +211,9 @@ esas alınmalıdır.</p>
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="${esc(title)}"/>
 <meta name="twitter:description" content="${esc(description)}"/>
-<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>
+<script type="application/ld+json">${jsonLdHtml(
+    maddeJsonLd({ kanunId, id, kanun, maddeNo: n, aciklama: description, serhVar: hasCommentary })
+  )}</script>
 <style>
 body{margin:0;font-family:system-ui,-apple-system,sans-serif;background:#F4F1EA;color:#1C1C1C;line-height:1.55}
 a{color:#C45A38;text-decoration:none} a:hover{text-decoration:underline}
