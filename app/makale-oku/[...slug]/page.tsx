@@ -1,17 +1,18 @@
 import type { Metadata } from 'next';
 import path from 'path';
-import fs from 'fs';
 import mammoth from 'mammoth';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import YazarKutusu from '@/components/YazarKutusu';
+import { jsonLdHtml } from '@/lib/json-ld';
+import { makaleBasligi, makaleDosyaYolu, makaleOkuJsonLd } from '@/lib/makale-oku';
 import { ArrowLeft, Download, FileText, Book } from 'lucide-react';
 
 // Önceden metadata yoktu: sayfa kökün başlığını ve ana sayfa canonical'ını taşıyordu (G06b).
 export async function generateMetadata({ params }: { params: Promise<{ slug: string[] }> }): Promise<Metadata> {
   const parcalar = (await params).slug.map((s) => decodeURIComponent(s));
-  const baslik = parcalar[parcalar.length - 1].replace(/\.(pdf|docx|udf)$/i, '');
+  const baslik = makaleBasligi(parcalar[parcalar.length - 1]);
   return {
     title: baslik,
     description: `${baslik}: Av. Fethi Güzel'in özel hukuk alanındaki makalesinin tam metni.`,
@@ -26,9 +27,10 @@ export default async function MakaleOku({ params }: { params: Promise<{ slug: st
   const filePathParams = resolvedParams.slug.map(s => decodeURIComponent(s));
   const fileName = filePathParams[filePathParams.length - 1];
   const publicPath = `/makaleler/${filePathParams.join('/')}`;
-  const absolutePath = path.join(process.cwd(), 'public', 'makaleler', ...filePathParams);
+  // Çözülmüş parça "../" taşıyabilir; yol yalnız makale klasöründeki dosyaya çıkıyorsa döner (G10).
+  const absolutePath = makaleDosyaYolu(filePathParams);
 
-  if (!fs.existsSync(absolutePath)) {
+  if (!absolutePath) {
     return (
       <div className="bg-cream min-h-screen">
         <Navbar />
@@ -58,8 +60,9 @@ export default async function MakaleOku({ params }: { params: Promise<{ slug: st
 
   return (
     <div className="bg-cream min-h-screen">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(makaleOkuJsonLd(filePathParams)) }} />
       <Navbar />
-      
+
       <main className="pt-40 pb-20 px-6 max-w-4xl mx-auto">
         <div className="mb-12 flex justify-between items-center">
           <Link 
@@ -84,7 +87,7 @@ export default async function MakaleOku({ params }: { params: Promise<{ slug: st
               <span>AKADEMİK İNCELEME</span>
             </div>
             <h1 className="text-3xl md:text-5xl font-heading font-bold text-charcoal leading-[1.2]">
-              {fileName.replace(/\.(pdf|docx|udf)$/i, '')}
+              {makaleBasligi(fileName)}
             </h1>
           </header>
 
