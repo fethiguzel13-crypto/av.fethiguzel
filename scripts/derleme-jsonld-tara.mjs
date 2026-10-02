@@ -1,12 +1,12 @@
 /**
  * Derleme çıktısındaki tüm önceden üretilmiş sayfaların JSON-LD bloklarını denetler (Aylık plan G10 adım 2).
- * Kurallar `scripts/lib/jsonld-denetim.mjs`'te. Rota işleyicisinin çalışma anında ürettiği madde sayfaları burada
+ * Kurallar `scripts/lib/jsonld-denetim.mjs`'te; FAQPage sorusu sayfanın görünür metninde de aranır (adım 5). Rota işleyicisinin çalışma anında ürettiği madde sayfaları burada
  * yoktur. Yalnız okur; dosya yazmaz.
  *   npm run build && node scripts/derleme-jsonld-tara.mjs     # sorun varsa çıkış kodu 1
  */
 import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { join, relative, sep } from 'node:path';
-import { jsonLdDenetle } from './lib/jsonld-denetim.mjs';
+import { faqGorunurlukDenetle, jsonLdDenetle } from './lib/jsonld-denetim.mjs';
 
 const KOK = '.next/server/app';
 if (!existsSync(KOK)) {
@@ -47,6 +47,7 @@ const kaydet = (kural, yol, ornek) => {
         }
         for (const s of jsonLdDenetle(veri)) kaydet(s.kural, yol, `${s.tur} @ ${s.yol || '(kök)'}`);
       }
+      for (const soru of faqGorunurlukDenetle(html)) kaydet('faq-gorunmuyor', yol, soru);
     }
   }
 })(KOK);

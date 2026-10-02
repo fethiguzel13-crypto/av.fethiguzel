@@ -72,3 +72,47 @@ export function jsonLdDenetle(blok) {
   gez(blok, "", ekle);
   return sonuc;
 }
+
+const VARLIK = { amp: "&", lt: "<", gt: ">", quot: '"', apos: "'", nbsp: " " };
+const varlikCoz = (s) =>
+  s.replace(/&(#x[0-9a-f]+|#\d+|[a-z]+);/gi, (m, v) =>
+    v[0] === "#" ? String.fromCodePoint(v[1] === "x" || v[1] === "X" ? parseInt(v.slice(2), 16) : Number(v.slice(1))) : VARLIK[v.toLowerCase()] ?? m,
+  );
+const bosluk = (s) => s.replace(/\s+/g, " ").trim();
+
+/**
+ * FAQPage sorularının sayfada görünür olup olmadığını denetler (G10 adım 5). Google'ın SSS yönergesi: işaretlenen
+ * soru-cevap sayfada kullanıcıya görünmelidir. Görünür metin betik, stil ve yorumlar atılarak çıkarılır.
+ * @param {string} html derlenmiş sayfa
+ * @returns {string[]} görünür metinde bulunmayan sorular
+ */
+export function faqGorunurlukDenetle(html) {
+  const sorular = [];
+  for (const m of html.matchAll(/<script\b[^>]*type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)) {
+    let veri;
+    try {
+      veri = JSON.parse(m[1]);
+    } catch {
+      continue;
+    }
+    (function topla(d) {
+      if (Array.isArray(d)) return d.forEach(topla);
+      if (!d || typeof d !== "object") return;
+      if (turler(d).includes("FAQPage")) {
+        for (const s of Array.isArray(d.mainEntity) ? d.mainEntity : [d.mainEntity]) if (dolu(s?.name)) sorular.push(s.name);
+      }
+      for (const v of Object.values(d)) if (v && typeof v === "object") topla(v);
+    })(veri);
+  }
+  if (!sorular.length) return [];
+  const metin = bosluk(
+    varlikCoz(
+      html
+        .replace(/<script\b[\s\S]*?<\/script>/gi, " ")
+        .replace(/<style\b[\s\S]*?<\/style>/gi, " ")
+        .replace(/<!--[\s\S]*?-->/g, "")
+        .replace(/<[^>]+>/g, " "),
+    ),
+  );
+  return sorular.filter((s) => !metin.includes(bosluk(s)));
+}
