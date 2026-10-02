@@ -27,7 +27,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const desc = data.sections.davaSozeti?.slice(0, 155) || '';
 
   return {
-    title: `${court} ${ref} Analizi | Av. Fethi Güzel`,
+    title: `${court} ${ref} Analizi`,
     description: desc,
   };
 }

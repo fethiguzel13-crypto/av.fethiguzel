@@ -7,7 +7,7 @@ import { BOLGELER, SITE_URL } from '@/lib/profile';
 import { BookOpen, MapPin } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Bölgesel Hukuki Bilgilendirme | Av. Fethi Güzel',
+    title: 'Bölgesel Hukuki Bilgilendirme',
     description:
         'Yerleşim bağlamlı genel hukuki bilgilendirme sayfaları: miras, taşınmaz, aile, icra ve idare. Reklam yasağına uygun; ana sayfada listelenmez.',
     alternates: { canonical: `${SITE_URL}/hizmet-bolgeleri` },

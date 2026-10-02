@@ -20,7 +20,7 @@ export async function generateMetadata({
   if (!parent || !sub) return { title: 'Sayfa Bulunamadı' }
   const maddeNo = maddeId.replace('madde-', '')
   return {
-    title: `${parent.kanunAdi} ${sub.name} Madde ${maddeNo} | Av. Fethi Güzel`,
+    title: `${parent.kanunAdi} ${sub.name} Madde ${maddeNo}`,
     description: `${parent.kanunAdi} Madde ${maddeNo} resmi metni ve akademik yorum.`,
     alternates: {
       canonical: `https://www.avfethiguzel.com/mevzuat/${sub.kanunId}/${maddeId}`,

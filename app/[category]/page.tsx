@@ -14,11 +14,11 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
   const cat = getLawCategoryBySlug(category);
 
   if (!cat) {
-    return { title: 'Sayfa Bulunamadı | Av. Fethi Güzel' };
+    return { title: 'Sayfa Bulunamadı' };
   }
 
   return {
-    title: `${cat.name} – ${cat.kanunAdi} | Av. Fethi Güzel Hukuk Portalı`,
+    title: `${cat.name} – ${cat.kanunAdi}`,
     description: cat.description,
     keywords: cat.seoKeywords.join(', '),
     openGraph: {

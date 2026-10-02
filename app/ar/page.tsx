@@ -5,7 +5,7 @@ import Footer from '@/components/Footer';
 import { PROFILE, SITE_URL } from '@/lib/profile';
 
 export const metadata: Metadata = {
-    title: 'محامٍ في تركيا | فان · أرجيش — Av. Fethi Güzel',
+    title: 'محامٍ في تركيا | فان · أرجيش',
     description:
         'معلومات مهنية: محامٍ ووسيط في فان / أرجيش، تركيا. دراسات دكتوراه في القانون الخاص. للتواصل عبر البريد الإلكتروني.',
     alternates: { canonical: `${SITE_URL}/ar` },

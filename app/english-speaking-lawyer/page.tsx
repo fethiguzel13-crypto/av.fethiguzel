@@ -8,7 +8,7 @@ import { PROFILE, SITE_URL, SOCIAL_SAME_AS } from '@/lib/profile';
 import { Mail, BookOpen, Scale } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'English-Speaking Lawyer Turkey | Av. Fethi Güzel',
+    title: 'English-Speaking Lawyer Turkey',
     description:
         'English-speaking lawyer in Turkey (Van / Erciş): Av. Fethi Güzel — private-law doctoral research, published e-hearing monograph, civil & commercial matters. Informational only; no outcome guarantees.',
     alternates: { canonical: `${SITE_URL}/english-speaking-lawyer` },

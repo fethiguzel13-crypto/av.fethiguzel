@@ -52,11 +52,11 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
   const sub = getLawSubCategoryBySlug(category, slug);
 
   if (!parent || !sub) {
-    return { title: 'Sayfa Bulunamadı | Av. Fethi Güzel' };
+    return { title: 'Sayfa Bulunamadı' };
   }
 
   return {
-    title: `${sub.name} – ${parent.kanunAdi} | Av. Fethi Güzel`,
+    title: `${sub.name} – ${parent.kanunAdi}`,
     description: sub.description,
     keywords: [...sub.seoKeywords, ...parent.seoKeywords].join(', '),
     openGraph: {

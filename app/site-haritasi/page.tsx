@@ -9,7 +9,7 @@ import { KAVRAMLAR } from '@/lib/kavramlar';
 import { VATANDAS_ARTICLES } from '@/lib/vatandas-rehberi';
 
 export const metadata: Metadata = {
-    title: 'Site Haritası | Av. Fethi Güzel Hukuk Portalı',
+    title: 'Site Haritası',
     description:
         'Av. Fethi Güzel Hukuk Portalı HTML site haritası: mevzuat, hesaplama, içtihat, hizmet bölgeleri, akademik profil.',
     alternates: { canonical: `${SITE_URL}/site-haritasi` },

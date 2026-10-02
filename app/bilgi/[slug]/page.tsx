@@ -11,6 +11,7 @@ import {
 } from '@/lib/vatandas-rehberi';
 import { getPublishedBySlug } from '@/lib/vatandas-rehberi/published';
 import { auditGuide } from '@/lib/content-quality.mjs';
+import { sayfaBasligi } from '@/lib/sayfa-basligi';
 
 const SITE = 'https://www.avfethiguzel.com';
 
@@ -47,7 +48,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     : 'Bu rehber yeniden yazılıyor. Doğru ve güncel bilgi için mevzuat sayfalarına bakabilirsiniz.';
 
   return {
-    title,
+    // Veri başlığı "… | Av. Fethi Güzel" ekiyle geliyor; kök şablon eki yeniden ekler (G10). OG/Twitter ekli kalır.
+    title: sayfaBasligi(title),
     description,
     keywords: quality.publishable ? a.keywords : undefined,
     alternates: { canonical },

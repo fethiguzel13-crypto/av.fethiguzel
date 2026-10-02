@@ -35,7 +35,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!articles.length) return { title: 'Kanun bulunamadı' };
   const url = `${SITE_ORIGIN}/mevzuat/${kanunId}`;
   return {
-    title: `${code} Madde Listesi — ${name} | Av. Fethi Güzel`,
+    title: `${code} Madde Listesi — ${name}`,
     description: `${code} (${name}) tüm maddeler: ${articles.length} madde resmî metin + akademik şerh. ${code} 1, ${code} 13, ${code} madde araması — Av. Fethi Güzel Hukuk Portalı.`,
     keywords: [
       code,
