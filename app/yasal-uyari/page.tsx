@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: 'Yasal Uyarı',
     description:
         'Av. Fethi Güzel Hukuk Portalı yasal uyarı, bilgilendirme amacı ve sorumluluk sınırları.',
-    alternates: { canonical: 'https://avfethiguzel.com/yasal-uyari' },
+    alternates: { canonical: 'https://www.avfethiguzel.com/yasal-uyari' },
     robots: { index: true, follow: true },
 };
 

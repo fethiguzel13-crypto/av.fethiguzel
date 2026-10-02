@@ -8,6 +8,7 @@ import { PROFILE } from '@/lib/profile';
 export const metadata: Metadata = {
   title: 'Mesafeli satış sözleşmesi — arşiv üyeliği',
   description: 'Yargıtay arşivi dijital üyelik mesafeli satış metni.',
+  alternates: { canonical: 'https://www.avfethiguzel.com/uyelik/sozlesme' },
 };
 
 export default function SozlesmePage() {

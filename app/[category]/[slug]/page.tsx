@@ -65,7 +65,7 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
       locale: 'tr_TR',
     },
     alternates: {
-      canonical: `https://avfethiguzel.com/${category}/${slug}`,
+      canonical: `https://www.avfethiguzel.com/${category}/${slug}`,
     },
   };
 }
@@ -163,7 +163,7 @@ export default async function SubCategoryPage({ params }: { params: Promise<{ ca
             "@type": "CollectionPage",
             "name": `${sub.name} – ${parent.kanunAdi}`,
             "description": sub.description,
-            "url": `https://avfethiguzel.com/${category}/${slug}`,
+            "url": `https://www.avfethiguzel.com/${category}/${slug}`,
             "author": {
               "@type": "Person",
               "name": "Av. Fethi Güzel",

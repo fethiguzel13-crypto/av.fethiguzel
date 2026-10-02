@@ -1,3 +1,4 @@
+import type { Metadata } from 'next'
 import { getArticlesByCategory } from '@/lib/api'
 import { getCategoryBySlug, categories } from '@/lib/categories'
 import Link from "@/components/SiteLink";
@@ -12,6 +13,19 @@ export function generateStaticParams() {
 }
 
 export const dynamicParams = true;
+
+// Önceden metadata yoktu: sayfa kökün başlığını ve ana sayfa canonical'ını taşıyordu (G06b).
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params
+  const category = getCategoryBySlug(slug)
+  if (!category) return {}
+  return {
+    // Sayfanın h1'i ile aynı; kanun adı açıklamada (başlık 65 karakteri aşmasın).
+    title: `${category.name} Arşivi`,
+    description: `${category.description} ile ilgili akademik incelemeler, güncel mevzuat maddeleri ve emsal Yargıtay kararları.`,
+    alternates: { canonical: `https://www.avfethiguzel.com/kategori/${category.slug}` },
+  }
+}
 
 export default async function KategoriPage({ params }: { params: Promise<{ slug: string }> }) {
   const resolvedParams = await params;

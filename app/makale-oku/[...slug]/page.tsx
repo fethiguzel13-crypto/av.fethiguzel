@@ -1,3 +1,4 @@
+import type { Metadata } from 'next';
 import path from 'path';
 import fs from 'fs';
 import mammoth from 'mammoth';
@@ -5,6 +6,19 @@ import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { ArrowLeft, Download, FileText, Book } from 'lucide-react';
+
+// Önceden metadata yoktu: sayfa kökün başlığını ve ana sayfa canonical'ını taşıyordu (G06b).
+export async function generateMetadata({ params }: { params: Promise<{ slug: string[] }> }): Promise<Metadata> {
+  const parcalar = (await params).slug.map((s) => decodeURIComponent(s));
+  const baslik = parcalar[parcalar.length - 1].replace(/\.(pdf|docx|udf)$/i, '');
+  return {
+    title: baslik,
+    description: `${baslik}: Av. Fethi Güzel'in özel hukuk alanındaki makalesinin tam metni.`,
+    alternates: {
+      canonical: `https://www.avfethiguzel.com/makale-oku/${parcalar.map(encodeURIComponent).join('/')}`,
+    },
+  };
+}
 
 export default async function MakaleOku({ params }: { params: Promise<{ slug: string[] }> }) {
   const resolvedParams = await params;

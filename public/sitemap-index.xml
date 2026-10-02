@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- robots.txt (app/robots.ts) ile aynı beş harita. Önceki /sitemap/0-2.xml adresleri 404 dönüyordu (G06b). -->
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://www.avfethiguzel.com/sitemap/0.xml</loc>
+    <loc>https://www.avfethiguzel.com/priority-sitemap.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://www.avfethiguzel.com/sitemap/1.xml</loc>
+    <loc>https://www.avfethiguzel.com/bilgi-sitemap.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://www.avfethiguzel.com/sitemap/2.xml</loc>
+    <loc>https://www.avfethiguzel.com/ders-notlari-sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.avfethiguzel.com/sitemap.xml</loc>
   </sitemap>
   <sitemap>
     <loc>https://www.avfethiguzel.com/images-sitemap.xml</loc>

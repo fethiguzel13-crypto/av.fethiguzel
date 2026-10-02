@@ -7,6 +7,7 @@ import IcthatList from '@/components/IcthatList';
 
 export const metadata: Metadata = {
   title: 'Güncel İçtihat & Mevzuat',
+  alternates: { canonical: 'https://www.avfethiguzel.com/icthat' },
   description: 'Yargıtay, Anayasa Mahkemesi, AİHM kararları ve Resmî Gazete mevzuat değişikliklerinin günlük takibi.'
 };
 

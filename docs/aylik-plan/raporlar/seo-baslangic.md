@@ -153,3 +153,23 @@ G13 ve G25 aynı makinede aynı koşullarla karşılaştırır.
 | S9 | G12 |
 | S10 LegalService | G07 |
 | S11 | G14 |
+
+## G06b sonucu (2026-10-02)
+
+Aynı betik yeni derlemede yeniden koşuldu (ham veri commit'lenmedi; `logs/g06b-seo-tara.json`).
+
+| Ölçüt | G06 | G06b |
+|---|---|---|
+| Canonical başka adresi gösteren | 60 / 307 | **0 / 307** |
+| Varsayılan başlık/açıklama tekrarı | 39 sayfa | **0** |
+| Site haritasında 200 dışı yanıt | 1 (307) | **0** |
+| `sitemap-index.xml` alt haritaları | 3 / 3 × 404 | **5 / 5 × 200** |
+| Açıklama > 165 karakter | 84 | 46 |
+| Başlık > 65 karakter | 125 | 148 (yeni kategori başlıkları; taramadan sonra kısaltıldı) |
+| Kırık iç bağlantı (600) | 18 | 18 (S5, G06b adım 5 ve G11) |
+
+Değişiklikler: Kök yerleşimden `alternates` kaldırıldı. Yedi rotaya başlık, açıklama ve kendi canonical'ı
+eklendi; istemci bileşeni olan iki sayfa için `layout.tsx` açıldı. Dört dosyada www'siz canonical düzeltildi.
+`sitemap-index.xml` robots.txt'deki beş haritaya göre yeniden yazıldı. `/ingilizce-avukat` kalıcı (308) yapıldı
+ve site haritasından çıkarıldı. Kaynak düzeyindeki kilit testleri: `lib/__tests__/seo-metadata.test.mjs`.
+

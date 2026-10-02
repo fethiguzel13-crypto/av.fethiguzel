@@ -1,9 +1,17 @@
 import fs from 'fs';
+import type { Metadata } from 'next';
 import path from 'path';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { FileText, Folder, ArrowRight, Download } from 'lucide-react';
+
+export const metadata: Metadata = {
+  title: 'Makaleler ve İncelemeler',
+  description:
+    'Av. Fethi Güzel tarafından özel hukuk alanında kaleme alınmış akademik makaleler, sempozyum tebliğleri ve hukuki değerlendirmeler.',
+  alternates: { canonical: 'https://www.avfethiguzel.com/makaleler' },
+};
 
 type Makale = { name: string; path: string; category: string; ext: string };
 

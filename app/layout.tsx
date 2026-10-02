@@ -138,12 +138,8 @@ export const metadata: Metadata = {
       'max-snippet': -1,
     },
   },
-  alternates: {
-    canonical: siteUrl,
-    languages: {
-      'tr-TR': siteUrl,
-    },
-  },
+  // `alternates` burada TANIMLANMAZ: metadata yüzeysel birleştiği için kendi alternates'i olmayan her alt
+  // sayfaya miras kalıyor ve o sayfalar ana sayfayı canonical gösteriyordu (G06b). Her sayfa kendisininkini verir.
   icons: {
     icon: [
       { url: '/icon-192.png', sizes: '192x192', type: 'image/png' },

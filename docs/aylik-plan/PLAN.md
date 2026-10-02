@@ -115,7 +115,7 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     not, hesaplama, yargı arşivi, kavram, bölge sayfası, yazar sayfası.
   - Rapor: `raporlar/seo-baslangic.md` (sayılarla); sonraki görevler buna göre önceliklendirilir.
 
-- [ ] **G06b — Canonical, meta ve site haritası düzeltmeleri** · bağımlı: G06 · kaynak: `raporlar/seo-baslangic.md` S1–S5, S8
+- [ ] **G06b — Canonical, meta ve site haritası düzeltmeleri** · bağımlı: G06 · kaynak: `raporlar/seo-baslangic.md` S1–S5, S8 · **DEVAM EDİYOR** (S1–S4, S8 tamam; kalan: `/pdf` 500, `/site-haritasi` bağlantısı — `gorevler/G06b.md`)
   - S1/S2: `app/layout.tsx:142` kök `alternates.canonical` tüm alt sayfalara miras kalıyor → kendi metadata'sı olmayan
     sayfalar ana sayfayı canonical gösteriyor ve varsayılan başlığı taşıyor (`/makaleler`, `/eserlerim`, `/icthat`,
     `/on-form`, `/uyelik/sozlesme`, `/kategori/*` 61, `/makale-oku/*` 11). Kökten kaldır; bu sayfalara başlık, açıklama,

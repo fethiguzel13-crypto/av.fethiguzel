@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: 'Gizlilik Politikası',
     description:
         'Av. Fethi Güzel Hukuk Portalı ve mobil uygulaması gizlilik politikası.',
-    alternates: { canonical: 'https://avfethiguzel.com/gizlilik' },
+    alternates: { canonical: 'https://www.avfethiguzel.com/gizlilik' },
 }
 
 export default function GizlilikPage() {
