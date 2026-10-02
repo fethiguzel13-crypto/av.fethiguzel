@@ -20,6 +20,15 @@ describe("kalite kapısı", () => {
     }
     assert.equal(ADIMLAR.find((a) => a.ad === "derleme").tam, true);
   });
+
+  it("tam modda derlemeden sonra derleme çıktısı taranır (başlık eki, JSON-LD; G10)", () => {
+    const i = ADIMLAR.findIndex((a) => a.ad === "derleme");
+    const tarama = ADIMLAR.findIndex((a) => a.ad === "derleme-tarama");
+    assert.ok(tarama > i, "derleme-tarama derlemeden sonra gelmeli");
+    assert.equal(ADIMLAR[tarama].tam, true);
+    assert.match(ADIMLAR[tarama].komut, /derleme-baslik-tara\.mjs/);
+    assert.match(ADIMLAR[tarama].komut, /derleme-jsonld-tara\.mjs/);
+  });
 });
 
 
