@@ -15,7 +15,7 @@
     "build:app-packs": "node scripts/build-app-packs.mjs",
     "madde": "node scripts/madde.mjs",
     "lint:opacity": "node scripts/lint-tailwind-opacity.mjs",
-    "test:quality": "node --test \"lib/__tests__/*.test.mjs\" \"scripts/__tests__/authored-guides.test.mjs\" \"scripts/__tests__/kalite.test.mjs\"",
+    "test:quality": "node --test \"lib/__tests__/*.test.mjs\" \"scripts/__tests__/authored-guides.test.mjs\" \"scripts/__tests__/kalite.test.mjs\" \"scripts/__tests__/seo-analiz.test.mjs\"",
     "test:ders-notlari": "node --test \"lib/ders-notlari/__tests__/*.test.mjs\" \"lib/ders-notlari/rag/__tests__/*.test.mjs\" \"scripts/lib/__tests__/source-broker.test.mjs\" \"scripts/lib/__tests__/course-graph.test.mjs\" \"scripts/lib/__tests__/compose-note.test.mjs\"",
     "compose:note": "node scripts/compose-note-from-graph.mjs",
     "rag:ingest": "node scripts/rag-ingest.mjs",

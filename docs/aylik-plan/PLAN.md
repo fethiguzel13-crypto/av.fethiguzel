@@ -108,12 +108,24 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     yapılıp yapılmadığı. `mobile/keystore-password-SIL-SONRA.txt` gibi düz metin sırlar için kullanıcıya
     not (silme yok). Rapor: `raporlar/guvenlik-mobil.md`.
 
-- [ ] **G06 — SEO ve performans başlangıç ölçümü** · bağımlı: G01
+- [x] **G06 — SEO ve performans başlangıç ölçümü** · bağımlı: G01 · 2026-10-02: rapor + tekrar koşulabilir betikler
   - Yerel derleme + `next start` + tarayıcı betiği: durum kodları, canonical, başlık/açıklama tekrarları,
     noindex, site haritası kapsamı, kırık bağlantı, JSON-LD geçerliliği, sayfa ağırlığı.
   - Lighthouse (mobil) 12 anahtar sayfa: ana sayfa, makale, mevzuat madde, şerh, rehber, ders notu hub +
     not, hesaplama, yargı arşivi, kavram, bölge sayfası, yazar sayfası.
   - Rapor: `raporlar/seo-baslangic.md` (sayılarla); sonraki görevler buna göre önceliklendirilir.
+
+- [ ] **G06b — Canonical, meta ve site haritası düzeltmeleri** · bağımlı: G06 · kaynak: `raporlar/seo-baslangic.md` S1–S5, S8
+  - S1/S2: `app/layout.tsx:142` kök `alternates.canonical` tüm alt sayfalara miras kalıyor → kendi metadata'sı olmayan
+    sayfalar ana sayfayı canonical gösteriyor ve varsayılan başlığı taşıyor (`/makaleler`, `/eserlerim`, `/icthat`,
+    `/on-form`, `/uyelik/sozlesme`, `/kategori/*` 61, `/makale-oku/*` 11). Kökten kaldır; bu sayfalara başlık, açıklama,
+    kendi canonical'ı.
+  - S3: www'siz canonical yazan 4 dosya (`[category]/page.tsx:30`, `[category]/[slug]/page.tsx:68`, `gizlilik`, `yasal-uyari`).
+  - S4: `public/sitemap-index.xml` 404 haritaları gösteriyor → robots.txt'deki beş haritaya göre yeniden yaz ya da sil.
+  - S5/S8: `/ders-notlari/<üni>/<ders>/pdf` bazı notlarda 500; `/site-haritasi`'nda Türkçe karakterli kırık bağlantı;
+    `/ingilizce-avukat` 307 → 308 ve site haritasından çık.
+  - Test: metadata üreticilerine birim testi; derleme sonrası `node scripts/seo-tara.mjs` canonical uyumsuz 0,
+    varsayılan başlık tekrarı 0, 500 yok.
 
 - [ ] **G07 — Avukatlık reklam yasağı uyum denetimi** · bağımlı: — · beceri: hukuki-halusinasyon-onleme
   - Tüm arayüz metinleri, bölge sayfaları (`*-avukat`), hizmetler, ana sayfa, mobil mağaza metinleri.
@@ -228,8 +240,10 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
 | Ölçüt | Başlangıç (G06) | Hedef | Final (G25) |
 |---|---|---|---|
 | npm audit kritik/yüksek | 1 / 7 | 0 / 0 | |
-| Lighthouse mobil performans (ort.) | | ≥ 90 | |
-| Lighthouse SEO (ort.) | | 100 | |
+| Lighthouse mobil performans (ort.) | 47 (10/12 sayfa; ders notu ikisi ölçülemedi) | ≥ 90 | |
+| Lighthouse SEO (ort.) | 99 | 100 | |
 | Dizine açık ince/şablon sayfa | ~11.600 | 0 | |
-| Test sayısı (tüm takımlar) | | +%50 | |
+| Test sayısı (tüm takımlar) | 466 (G01, 2026-09-30) | +%50 (≥ 699) | |
 | Emsal ve benzersiz Yargıtay kararı | 32.394 | artış | |
+| Canonical başka adresi gösteren (örnek) | 60 / 307 | 0 | |
+| Kırık iç bağlantı (600 örnek) | 18 | 0 | |

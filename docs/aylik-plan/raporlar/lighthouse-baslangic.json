@@ -1,0 +1,230 @@
+{
+  "tarih": "2026-10-01T21:03:48.712Z",
+  "taban": "http://localhost:3123",
+  "ortalama": {
+    "performance": 47,
+    "accessibility": 94,
+    "best-practices": 100,
+    "seo": 99
+  },
+  "sayfalar": [
+    {
+      "tur": "ana sayfa",
+      "yol": "/",
+      "puan": {
+        "performance": 28,
+        "accessibility": 94,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 8673,
+      "fcpMs": 3871,
+      "tbtMs": 47729,
+      "cls": 0,
+      "siMs": 21241,
+      "aktarimKb": 1067,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "heading-order"
+      ]
+    },
+    {
+      "tur": "makale",
+      "yol": "/makale-oku/ARABULUCULUK/arabuluculuk%20anla%C5%9Fma%20belgesi.docx",
+      "puan": {
+        "performance": 37,
+        "accessibility": 94,
+        "best-practices": 100,
+        "seo": 92
+      },
+      "lcpMs": 5852,
+      "fcpMs": 2171,
+      "tbtMs": 8794,
+      "cls": 0,
+      "siMs": 12546,
+      "aktarimKb": 809,
+      "seoBasarisiz": [
+        "robots-txt"
+      ],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "skip-link"
+      ]
+    },
+    {
+      "tur": "mevzuat madde",
+      "yol": "/mevzuat/tck/madde-81",
+      "puan": {
+        "performance": 87,
+        "accessibility": 91,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 1306,
+      "fcpMs": 1033,
+      "tbtMs": 500,
+      "cls": 0,
+      "siMs": 2035,
+      "aktarimKb": 41,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "heading-order"
+      ]
+    },
+    {
+      "tur": "şerhli madde",
+      "yol": "/mevzuat/tbk/madde-49",
+      "puan": {
+        "performance": 64,
+        "accessibility": 91,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 2508,
+      "fcpMs": 1790,
+      "tbtMs": 1631,
+      "cls": 0,
+      "siMs": 6299,
+      "aktarimKb": 57,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "heading-order"
+      ]
+    },
+    {
+      "tur": "rehber",
+      "yol": "/rehber/kidem-tazminati",
+      "puan": {
+        "performance": 25,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 18402,
+      "fcpMs": 8237,
+      "tbtMs": 34027,
+      "cls": 0.012,
+      "siMs": 40454,
+      "aktarimKb": 1235,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast"
+      ]
+    },
+    {
+      "tur": "ders notu hub",
+      "yol": "/ders-notlari",
+      "hata": "spawnSync C:\\WINDOWS\\system32\\cmd.exe ETIMEDOUT"
+    },
+    {
+      "tur": "ders notu",
+      "yol": "/ders-notlari/afyon/borclar-genel-donem-1",
+      "hata": "spawnSync C:\\WINDOWS\\system32\\cmd.exe ETIMEDOUT"
+    },
+    {
+      "tur": "hesaplama",
+      "yol": "/hesaplama/kidem",
+      "puan": {
+        "performance": 43,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 5804,
+      "fcpMs": 1843,
+      "tbtMs": 5683,
+      "cls": 0,
+      "siMs": 5605,
+      "aktarimKb": 767,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "label-content-name-mismatch"
+      ]
+    },
+    {
+      "tur": "yargı arşivi",
+      "yol": "/yargi-kararlari",
+      "puan": {
+        "performance": 31,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 5776,
+      "fcpMs": 4596,
+      "tbtMs": 7922,
+      "cls": 0.011,
+      "siMs": 11317,
+      "aktarimKb": 1261,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast"
+      ]
+    },
+    {
+      "tur": "kavram",
+      "yol": "/kavram/kidem-tazminati",
+      "puan": {
+        "performance": 59,
+        "accessibility": 94,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 5213,
+      "fcpMs": 1945,
+      "tbtMs": 816,
+      "cls": 0,
+      "siMs": 2808,
+      "aktarimKb": 1251,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "heading-order"
+      ]
+    },
+    {
+      "tur": "bölge",
+      "yol": "/ercis-avukat",
+      "puan": {
+        "performance": 58,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 5318,
+      "fcpMs": 1788,
+      "tbtMs": 937,
+      "cls": 0,
+      "siMs": 2982,
+      "aktarimKb": 789,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast"
+      ]
+    },
+    {
+      "tur": "yazar",
+      "yol": "/avukat-fethi-guzel",
+      "puan": {
+        "performance": 36,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 7171,
+      "fcpMs": 3276,
+      "tbtMs": 3220,
+      "cls": 0,
+      "siMs": 5830,
+      "aktarimKb": 1289,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast"
+      ]
+    }
+  ]
+}
