@@ -107,7 +107,7 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Sıradaki: G06b adım 5 — `/ders-notlari/<üni>/<ders>/pdf` 500 (3 örnek, `gorevler/G06b.md`) için sistematik hata
   ayıklama ve `/site-haritasi` Türkçe karakterli bağlantı; sonra G07 (reklam yasağı uyumu).
 
-## 2026-10-02 07:00–07:45 — G06b TAMAM (başsız oturum)
+## 2026-10-02 07:00–07:35 — G06b TAMAM (başsız oturum)
 
 - **`/pdf` 500:** Rota `generateStaticParams` ile çalışma anında statik üretiliyor, `searchParams` okuyordu →
   `DYNAMIC_SERVER_USAGE`; tüm PDF adresleri (var olmayan notlar dahil) 500. `?print=1` istemciye taşındı.
@@ -120,3 +120,16 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   dizine açık ama haritada yok (G11).
 - Not: TaskStop Windows'ta `next start` alt sürecini kapatmıyor; port sahibini `Get-NetTCPConnection` ile bul.
 - Sıradaki: G07 (avukatlık reklam yasağı uyum denetimi).
+
+## 2026-10-02 07:35–07:45 — G07 TAMAM (aynı başsız oturum)
+
+- Ölçüt metinleri mevzuat.gov.tr'den okundu: Avukatlık Kanunu m.55, m.135/2-a (7571 s.K., 24/12/2025); TBB Reklam
+  Yasağı Yönetmeliği m.6, m.7/1-c/d/e, m.11, m.12/A (RG 9/8/2024 ve 2/5/2026 değişiklikleri). m.7/1-e arama motorunda
+  üst sıraya yönelik anahtar sözcük ve **sayfa adresini** yasaklıyor; sitenin asıl riski yapısal.
+- Düzeltildi: 5 "yer + avukat" anahtar sözcüğü, 4 mağaza imzası, LegalService `priceRange`, SSS'de "dünyanın en iyi"
+  cümlesi. Kilit testi `lib/__tests__/reklam-uyum.test.mjs` (3, önce kırmızı). `kalite:hizli` 549 test yeşil.
+- Kullanıcıya (soru 10–13, G26'ya bağlı): 12 `*-avukat` bölge sayfası + `english-speaking-lawyer` adresleri, her
+  sayfadaki LegalService (`areaServed`, `OfferCatalog`), "Avukat & Arabulucu" sıfatı, içerik sayfalarındaki ön form
+  çağrısı. Yanıta kadar dokunulmadı (30 Ekim'e kadar yayın yok). PLAN.md genel kurallarına SEO sınırı eklendi.
+- Commit `d475546f1`. Rapor `raporlar/reklam-uyum.md`.
+- Sıradaki: G08 (bu haftanın hasat bakımı henüz yapılmadı), ardından G09.
