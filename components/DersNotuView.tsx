@@ -241,6 +241,31 @@ function Diagram({ d }: { d: NoteDiagram }) {
   }
 }
 
+/**
+ * Paket dipnotlarındaki ders bağlantısı. Kodlar elle yazılı; fakültede o sürümün dosyası yoksa bağlantı 404
+ * veriyordu (G11). Çözülemeyen hedef düz metin kalır.
+ */
+function NotBaglantisi({
+  uni,
+  code,
+  className,
+  children,
+}: {
+  uni: string;
+  code: string;
+  className?: string;
+  children: ReactNode;
+}) {
+  const r = resolveHubCourseHref(uni, code);
+  return r ? (
+    <Link href={r.href} className={className}>
+      {children}
+    </Link>
+  ) : (
+    <span>{children}</span>
+  );
+}
+
 /* ─── Ana görünüm ─────────────────────────────────────── */
 
 export function DersNotuView({
@@ -253,6 +278,10 @@ export function DersNotuView({
   const pageUrl = `${SITE}/ders-notlari/${note.uniSlug}/${note.courseCode}`;
   const pdfHref = `/ders-notlari/${note.uniSlug}/${note.courseCode}/pdf`;
   const toc = note.sections.map((s) => s.heading);
+  const relatedCourses = note.relatedCourses.flatMap((code) => {
+    const r = resolveHubCourseHref(note.uniSlug, code);
+    return r ? [{ code, href: r.href }] : [];
+  });
 
   // Diyagramları bölümlere serpiştir (0, 1, 3. bölüm sonrası)
   const insertAfter = [0, 1, 3];
@@ -388,12 +417,13 @@ export function DersNotuView({
               footer: (
                 <p className="text-[11px] text-charcoal/45 mt-3 m-0">
                   Genel hükümler için:{' '}
-                  <Link
-                    href={`/ders-notlari/${note.uniSlug}/borclar-genel-yillik`}
+                  <NotBaglantisi
+                    uni={note.uniSlug}
+                    code="borclar-genel-yillik"
                     className="text-accent font-semibold hover:underline"
                   >
                     Borçlar Genel yıllık
-                  </Link>
+                  </NotBaglantisi>
                 </p>
               ),
             },
@@ -471,12 +501,13 @@ export function DersNotuView({
               footer: (
                 <p className="text-[11px] text-charcoal/45 mt-3 m-0">
                   İflas / konkordato için:{' '}
-                  <Link
-                    href={`/ders-notlari/${note.uniSlug}/iflas-yillik`}
+                  <NotBaglantisi
+                    uni={note.uniSlug}
+                    code="iflas-yillik"
                     className="text-accent font-semibold hover:underline"
                   >
                     İflas Hukuku yıllık
-                  </Link>
+                  </NotBaglantisi>
                 </p>
               ),
             },
@@ -494,12 +525,13 @@ export function DersNotuView({
               footer: (
                 <p className="text-[11px] text-charcoal/45 mt-3 m-0">
                   Ferdi takip / haciz için:{' '}
-                  <Link
-                    href={`/ders-notlari/${note.uniSlug}/icra-yillik`}
+                  <NotBaglantisi
+                    uni={note.uniSlug}
+                    code="icra-yillik"
                     className="text-accent font-semibold hover:underline"
                   >
                     İcra Hukuku yıllık
-                  </Link>
+                  </NotBaglantisi>
                 </p>
               ),
             },
@@ -565,12 +597,13 @@ export function DersNotuView({
               footer: (
                 <p className="text-[11px] text-charcoal/45 mt-3 m-0">
                   Somut suç tipleri için:{' '}
-                  <Link
-                    href={`/ders-notlari/${note.uniSlug}/ceza-ozel-yillik`}
+                  <NotBaglantisi
+                    uni={note.uniSlug}
+                    code="ceza-ozel-yillik"
                     className="text-accent font-semibold hover:underline"
                   >
                     Ceza Özel yıllık
-                  </Link>
+                  </NotBaglantisi>
                 </p>
               ),
             },
@@ -588,12 +621,13 @@ export function DersNotuView({
               footer: (
                 <p className="text-[11px] text-charcoal/45 mt-3 m-0">
                   Suç teorisi için:{' '}
-                  <Link
-                    href={`/ders-notlari/${note.uniSlug}/ceza-genel-yillik`}
+                  <NotBaglantisi
+                    uni={note.uniSlug}
+                    code="ceza-genel-yillik"
                     className="text-accent font-semibold hover:underline"
                   >
                     Ceza Genel yıllık
-                  </Link>
+                  </NotBaglantisi>
                 </p>
               ),
             },
@@ -611,19 +645,21 @@ export function DersNotuView({
               footer: (
                 <p className="text-[11px] text-charcoal/45 mt-3 m-0">
                   Maddi ceza için:{' '}
-                  <Link
-                    href={`/ders-notlari/${note.uniSlug}/ceza-genel-yillik`}
+                  <NotBaglantisi
+                    uni={note.uniSlug}
+                    code="ceza-genel-yillik"
                     className="text-accent font-semibold hover:underline"
                   >
                     Ceza Genel
-                  </Link>
+                  </NotBaglantisi>
                   {' · '}
-                  <Link
-                    href={`/ders-notlari/${note.uniSlug}/ceza-ozel-yillik`}
+                  <NotBaglantisi
+                    uni={note.uniSlug}
+                    code="ceza-ozel-yillik"
                     className="text-accent font-semibold hover:underline"
                   >
                     Ceza Özel
-                  </Link>
+                  </NotBaglantisi>
                 </p>
               ),
             },
@@ -641,12 +677,13 @@ export function DersNotuView({
               footer: (
                 <p className="text-[11px] text-charcoal/45 mt-3 m-0">
                   İptal / tam yargı usulü için:{' '}
-                  <Link
-                    href={`/ders-notlari/${note.uniSlug}/idari-yargilama-yillik`}
+                  <NotBaglantisi
+                    uni={note.uniSlug}
+                    code="idari-yargilama-yillik"
                     className="text-accent font-semibold hover:underline"
                   >
                     İdari Yargılama yıllık
-                  </Link>
+                  </NotBaglantisi>
                 </p>
               ),
             },
@@ -664,12 +701,13 @@ export function DersNotuView({
               footer: (
                 <p className="text-[11px] text-charcoal/45 mt-3 m-0">
                   Maddi idare için:{' '}
-                  <Link
-                    href={`/ders-notlari/${note.uniSlug}/idare-hukuku-yillik`}
+                  <NotBaglantisi
+                    uni={note.uniSlug}
+                    code="idare-hukuku-yillik"
                     className="text-accent font-semibold hover:underline"
                   >
                     İdare Hukuku yıllık
-                  </Link>
+                  </NotBaglantisi>
                 </p>
               ),
             },
@@ -687,12 +725,13 @@ export function DersNotuView({
               footer: (
                 <p className="text-[11px] text-charcoal/45 mt-3 m-0">
                   Toplumda hukukun işleyişi için:{' '}
-                  <Link
-                    href={`/ders-notlari/${note.uniSlug}/hukuk-sosyolojisi-yillik`}
+                  <NotBaglantisi
+                    uni={note.uniSlug}
+                    code="hukuk-sosyolojisi-yillik"
                     className="text-accent font-semibold hover:underline"
                   >
                     Hukuk Sosyolojisi yıllık
-                  </Link>
+                  </NotBaglantisi>
                 </p>
               ),
             },
@@ -821,12 +860,13 @@ export function DersNotuView({
               footer: (
                 <p className="text-[11px] text-charcoal/45 mt-3 m-0">
                   Yabancı unsurlu özel hukuk için:{' '}
-                  <Link
-                    href={`/ders-notlari/${note.uniSlug}/devletler-ozel-yillik`}
+                  <NotBaglantisi
+                    uni={note.uniSlug}
+                    code="devletler-ozel-yillik"
                     className="text-accent font-semibold hover:underline"
                   >
                     MÖHUK yıllık
-                  </Link>
+                  </NotBaglantisi>
                 </p>
               ),
             },
@@ -844,12 +884,13 @@ export function DersNotuView({
               footer: (
                 <p className="text-[11px] text-charcoal/45 mt-3 m-0">
                   Ölçüt ve akımlar için:{' '}
-                  <Link
-                    href={`/ders-notlari/${note.uniSlug}/hukuk-felsefesi-yillik`}
+                  <NotBaglantisi
+                    uni={note.uniSlug}
+                    code="hukuk-felsefesi-yillik"
                     className="text-accent font-semibold hover:underline"
                   >
                     Hukuk Felsefesi yıllık
-                  </Link>
+                  </NotBaglantisi>
                 </p>
               ),
             },
@@ -867,12 +908,13 @@ export function DersNotuView({
               footer: (
                 <p className="text-[11px] text-charcoal/45 mt-3 m-0">
                   Dava şartı arabuluculuk için:{' '}
-                  <Link
-                    href={`/ders-notlari/${note.uniSlug}/arabuluculuk-yillik`}
+                  <NotBaglantisi
+                    uni={note.uniSlug}
+                    code="arabuluculuk-yillik"
                     className="text-accent font-semibold hover:underline"
                   >
                     Arabuluculuk yıllık
-                  </Link>
+                  </NotBaglantisi>
                 </p>
               ),
             },
@@ -890,19 +932,21 @@ export function DersNotuView({
               footer: (
                 <p className="text-[11px] text-charcoal/45 mt-3 m-0">
                   Malpraktis ve hasta hakları için:{' '}
-                  <Link
-                    href={`/ders-notlari/${note.uniSlug}/saglik-hukuku-yillik`}
+                  <NotBaglantisi
+                    uni={note.uniSlug}
+                    code="saglik-hukuku-yillik"
                     className="text-accent font-semibold hover:underline"
                   >
                     Sağlık Hukuku yıllık
-                  </Link>
+                  </NotBaglantisi>
                   {' · '}
-                  <Link
-                    href={`/ders-notlari/${note.uniSlug}/cmk-yillik`}
+                  <NotBaglantisi
+                    uni={note.uniSlug}
+                    code="cmk-yillik"
                     className="text-accent font-semibold hover:underline"
                   >
                     CMK yıllık
-                  </Link>
+                  </NotBaglantisi>
                 </p>
               ),
             },
@@ -920,19 +964,21 @@ export function DersNotuView({
               footer: (
                 <p className="text-[11px] text-charcoal/45 mt-3 m-0">
                   Ticaret omurgası için:{' '}
-                  <Link
-                    href={`/ders-notlari/${note.uniSlug}/ticari-isletme-yillik`}
+                  <NotBaglantisi
+                    uni={note.uniSlug}
+                    code="ticari-isletme-yillik"
                     className="text-accent font-semibold hover:underline"
                   >
                     Ticari İşletme yıllık
-                  </Link>
+                  </NotBaglantisi>
                   {' · '}
-                  <Link
-                    href={`/ders-notlari/${note.uniSlug}/sirketler-yillik`}
+                  <NotBaglantisi
+                    uni={note.uniSlug}
+                    code="sirketler-yillik"
                     className="text-accent font-semibold hover:underline"
                   >
                     Şirketler yıllık
-                  </Link>
+                  </NotBaglantisi>
                 </p>
               ),
             },
@@ -950,24 +996,36 @@ export function DersNotuView({
               footer: (
                 <p className="text-[11px] text-charcoal/45 mt-3 m-0">
                   Tarih–kavram omurgası için:{' '}
-                  <Link
-                    href={`/ders-notlari/${note.uniSlug}/roma-hukuku-yillik`}
+                  <NotBaglantisi
+                    uni={note.uniSlug}
+                    code="roma-hukuku-yillik"
                     className="text-accent font-semibold hover:underline"
                   >
                     Roma Hukuku yıllık
-                  </Link>
+                  </NotBaglantisi>
                   {' · '}
-                  <Link
-                    href={`/ders-notlari/${note.uniSlug}/hukuka-giris-yillik`}
+                  <NotBaglantisi
+                    uni={note.uniSlug}
+                    code="hukuka-giris-yillik"
                     className="text-accent font-semibold hover:underline"
                   >
                     Hukuka Giriş yıllık
-                  </Link>
+                  </NotBaglantisi>
                 </p>
               ),
             },
           ];
-        const activePacks = packs.filter((p) => p.match);
+        // Fakültede dosyası olmayan sürüm gizlenir (G11); öğesi kalmayan paket çizilmez.
+        const activePacks = packs
+          .filter((p) => p.match)
+          .map((p) => ({
+            ...p,
+            items: p.items.flatMap((v) => {
+              const r = resolveHubCourseHref(note.uniSlug, v.code);
+              return r ? [{ ...v, href: r.href }] : [];
+            }),
+          }))
+          .filter((p) => p.items.length > 0);
         if (!activePacks.length) return null;
         return (
           <nav
@@ -985,7 +1043,7 @@ export function DersNotuView({
                     return (
                       <Link
                         key={v.code}
-                        href={`/ders-notlari/${note.uniSlug}/${v.code}`}
+                        href={v.href}
                         className={`rounded-xl border px-3 py-3 text-sm transition-colors ${active
                           ? 'border-accent bg-accent/10 font-bold text-charcoal'
                           : 'border-charcoal/10 hover:border-accent/40 text-charcoal/80'
@@ -1291,16 +1349,16 @@ export function DersNotuView({
       )}
 
       {/* İlişkili dersler */}
-      {note.relatedCourses.length > 0 && (
+      {relatedCourses.length > 0 && (
         <section className="mb-10">
           <h2 className="text-sm font-bold text-charcoal/50 uppercase tracking-wider mb-3">
             Aynı dönemden diğer notlar
           </h2>
           <div className="flex flex-wrap gap-2">
-            {note.relatedCourses.map((code) => (
+            {relatedCourses.map(({ code, href }) => (
               <Link
                 key={code}
-                href={`/ders-notlari/${note.uniSlug}/${code}`}
+                href={href}
                 className="text-xs font-semibold px-3 py-1.5 rounded-full bg-charcoal/5 text-charcoal/70 hover:bg-accent/10 hover:text-accent"
               >
                 {code}
@@ -1942,6 +2000,16 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
           },
         ]
           .filter((b) => b.show)
+          // Paket kodları elle yazılı; fakültede dosyası olmayan sürüm 404 veriyordu (G11). Yalnız var olan
+          // nota çözülen öğe çizilir, hiçbiri çözülmeyen paket gizlenir.
+          .map((b) => ({
+            ...b,
+            items: b.items.flatMap((v) => {
+              const r = resolveHubCourseHref(hub.uni.slug, v.code);
+              return r ? [{ ...v, href: r.href }] : [];
+            }),
+          }))
+          .filter((b) => b.items.length > 0)
           .map((block) => (
             <section key={block.title} className={`rounded-2xl border-2 ${block.border} p-5`}>
               <h2 className="text-lg font-heading font-bold text-charcoal mb-2">{block.title}</h2>
@@ -1950,7 +2018,7 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
                 {block.items.map((v) => (
                   <li key={v.code}>
                     <Link
-                      href={`/ders-notlari/${hub.uni.slug}/${v.code}`}
+                      href={v.href}
                       className={`block rounded-xl border ${block.itemBorder} bg-white hover:border-accent px-3 py-3 text-sm font-semibold text-charcoal`}
                     >
                       {v.title}
