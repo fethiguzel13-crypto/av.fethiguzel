@@ -3,8 +3,9 @@ import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { UniHubView } from '@/components/DersNotuView';
-import { getAllUniSlugs, getHub, getNotesForUni } from '@/lib/ders-notlari';
-import { auditLectureNote } from '@/lib/content-quality.mjs';
+import { getAllUniSlugs, getHub } from '@/lib/ders-notlari';
+import { hubDizinde } from '@/lib/ders-notlari/dizin.mjs';
+import kanonik from '@/lib/ders-notlari/dizin-kanonik.json';
 
 const SITE = 'https://www.avfethiguzel.com';
 
@@ -17,16 +18,12 @@ export function generateStaticParams() {
 export const dynamicParams = true;
 
 /**
- * Fakülte sayfası, yayınlanabilir en az bir not varsa indekse girer.
+ * Fakülte sayfası, bir dersin temsilci notunu barındırıyorsa indekse girer (G11).
  *
- * 84 fakülte sayfasının tamamı aynı ~160 dersi listeliyor ve notların hepsi
- * kalıp metin. Hiçbiri açılamıyorken sayfayı indekste tutmak, Google'a
- * içeriği olmayan 84 giriş kapısı sunmak demektir.
+ * 84 fakülte sayfası ad değiştirilerek üretilmiş, aynı ders listesine bağlanıyor;
+ * notlar da üniversiteler arasında kopya. Temsilci notu olmayan sayfayı indekste
+ * tutmak Google'a içeriği aynı 84 giriş kapısı sunmak demektir.
  */
-function hasPublishableNote(uniSlug: string): boolean {
-  return getNotesForUni(uniSlug).some((n) => auditLectureNote(n).publishable);
-}
-
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { uni } = await params;
   const hub = getHub(uni);
@@ -46,7 +43,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: hub.description,
       url: `${SITE}/ders-notlari/${uni}`,
     },
-    robots: hasPublishableNote(uni)
+    robots: hubDizinde(uni, kanonik)
       ? { index: true, follow: true }
       : { index: false, follow: true },
   };

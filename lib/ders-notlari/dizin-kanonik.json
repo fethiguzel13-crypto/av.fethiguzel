@@ -1,0 +1,115 @@
+{
+  "aciklama": "Her ders kökü için dizine açık tek not (G11). Diğer notlar noindex; fakülte sayfası yalnız temsilci barındırıyorsa dizinde.",
+  "olcut": "yayınlanabilir yıllık sürüm; adresli kaynak sayısı > üniversite önceliği > slug",
+  "sayim": {
+    "notDosyasi": 11623,
+    "yayinlanabilir": 6552,
+    "temsilci": 26
+  },
+  "dersler": {
+    "aile-hukuku": {
+      "uni": "ankara",
+      "ders": "aile-hukuku-yillik"
+    },
+    "arabuluculuk": {
+      "uni": "ankara",
+      "ders": "arabuluculuk-yillik"
+    },
+    "bilisim-hukuku": {
+      "uni": "ankara",
+      "ders": "bilisim-hukuku-yillik"
+    },
+    "borclar-genel": {
+      "uni": "ankara",
+      "ders": "borclar-genel-yillik"
+    },
+    "borclar-ozel": {
+      "uni": "ankara",
+      "ders": "borclar-ozel-yillik"
+    },
+    "ceza-genel": {
+      "uni": "ankara",
+      "ders": "ceza-genel-yillik"
+    },
+    "ceza-muhakemesi": {
+      "uni": "ankara",
+      "ders": "ceza-muhakemesi-yillik"
+    },
+    "ceza-ozel": {
+      "uni": "ankara",
+      "ders": "ceza-ozel-yillik"
+    },
+    "deniz-ticareti": {
+      "uni": "ankara",
+      "ders": "deniz-ticareti-yillik"
+    },
+    "esya-hukuku": {
+      "uni": "ankara",
+      "ders": "esya-hukuku-yillik"
+    },
+    "hukuka-giris": {
+      "uni": "ankara",
+      "ders": "hukuka-giris-yillik"
+    },
+    "icra-iflas": {
+      "uni": "ankara",
+      "ders": "icra-iflas-yillik"
+    },
+    "idare-hukuku": {
+      "uni": "ankara",
+      "ders": "idare-hukuku-yillik"
+    },
+    "insaat-hukuku": {
+      "uni": "ankara",
+      "ders": "insaat-hukuku-yillik"
+    },
+    "is-hukuku": {
+      "uni": "ankara",
+      "ders": "is-hukuku-yillik"
+    },
+    "kiymetli-evrak": {
+      "uni": "ankara",
+      "ders": "kiymetli-evrak-yillik"
+    },
+    "medeni-baslangic": {
+      "uni": "ankara",
+      "ders": "medeni-baslangic-yillik"
+    },
+    "medeni-usul": {
+      "uni": "ankara",
+      "ders": "medeni-usul-yillik"
+    },
+    "miras-hukuku": {
+      "uni": "ankara",
+      "ders": "miras-hukuku-yillik"
+    },
+    "rekabet-hukuku": {
+      "uni": "ankara",
+      "ders": "rekabet-hukuku-yillik"
+    },
+    "sermaye-piyasasi": {
+      "uni": "ankara",
+      "ders": "sermaye-piyasasi-yillik"
+    },
+    "sigorta-hukuku": {
+      "uni": "ankara",
+      "ders": "sigorta-hukuku-yillik"
+    },
+    "ticaret-sirketler": {
+      "uni": "ankara",
+      "ders": "ticaret-sirketler-yillik"
+    },
+    "ticari-isletme": {
+      "uni": "ankara",
+      "ders": "ticari-isletme-yillik"
+    },
+    "tuketici-hukuku": {
+      "uni": "ankara",
+      "ders": "tuketici-hukuku-yillik"
+    },
+    "vergi-hukuku": {
+      "uni": "ankara",
+      "ders": "vergi-hukuku-yillik"
+    }
+  }
+}

@@ -6,6 +6,8 @@ import Footer from '@/components/Footer';
 import { DersNotuView } from '@/components/DersNotuView';
 import { getHub, getNote, resolveNoteCourseCode } from '@/lib/ders-notlari';
 import { auditLectureNote } from '@/lib/content-quality.mjs';
+import { notDizinKarari } from '@/lib/ders-notlari/dizin.mjs';
+import kanonik from '@/lib/ders-notlari/dizin-kanonik.json';
 
 const SITE = 'https://www.avfethiguzel.com';
 
@@ -46,7 +48,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: quality.publishable ? note.description : 'Yeniden yazılıyor.',
       url: `${SITE}/ders-notlari/${uni}/${ders}`,
     },
-    robots: quality.publishable
+    // Yalnız dersin temsilci notu dizinde; ad değiştirmeli kopyalar okunur ama noindex (G11).
+    // Canonical kendi adresinde kalır: noindex ile başka adrese canonical çelişkili sinyaldir.
+    robots: notDizinKarari(note, kanonik).index
       ? { index: true, follow: true }
       : { index: false, follow: true },
   };
