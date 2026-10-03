@@ -149,7 +149,7 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     yazar satırı, son güncelleme, kaynaklar, yazar sayfasına bağlantı. Reklam dili yok.
   - Kabul: bileşen testleri; 6 içerik türünde görünür; Person JSON-LD tek kaynaktan.
 
-- [ ] **G10 — Yapılandırılmış veri** · bağımlı: G09, G06
+- [x] **G10 — Yapılandırılmış veri** · bağımlı: G09, G06 · 2026-10-03: çift marka eki 402/915 → 0; 4.547 JSON-LD bloğu denetimli
   - G06b notu (S7): örnek sayfaların 63/307'sinde başlık "| Av. Fethi Güzel" ekini iki kez taşıyor (kök
     `template` + başlıkta hazır ek; mevzuat kanun listesi, `/bilgi`, kategori). Uzun başlıkların ana kaynağı; önce bu.
   - Person, Article/ScholarlyArticle, BreadcrumbList, Legislation (mevzuat), yalnız gerçek soru-cevapta

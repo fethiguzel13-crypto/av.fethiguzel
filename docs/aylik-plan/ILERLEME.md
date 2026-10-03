@@ -158,3 +158,21 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - G10'a not: yazar sayfası ve `english-speaking-lawyer` kişiyi ayrıca `Attorney` olarak basıyor; `/icthat/[id]`
   JSON-LD'siz ve başlıkta çift ek; `/makale-oku/*` Article şemasız.
 - Sıradaki: G10 (yapılandırılmış veri; G06 ve G09 bitti).
+
+## 2026-10-02 16:55 — G10 DEVAM EDİYOR (başladı 16:55, aynı başsız oturum)
+
+- Alt plan `gorevler/G10.md`; adım 1 (çift marka eki, 402/915 derlenmiş sayfa) üzerinde çalışılıyor.
+- 22:00 devralma: 16:55 oturumu 17:16'da kullanım sınırıyla (429) kesildi (döküm sonu doğrulandı); adım 1–2 ve adım 3'ün
+  `/icthat/[id]` kısmı commit'li (`2d877704d`, `fb2363934`, `de73c9356`). Sürdürülüyor: adım 3 `/makale-oku/*`.
+- 2026-10-03 05:55 devralma: 22:00 oturumu adım 3–5'i commit'ledi (`a0ecb92b5`, `a0a0f5e6c`, `db8a9a970`), kabul için
+  başlattığı `npm run kalite` derleme adımında kesildi (döküm 22:16'da bitiyor). Sürdürülüyor: tam kalite + kabul ölçümü.
+
+## 2026-10-03 05:55–06:30 — G10 TAMAM (başsız oturum)
+
+- 22:00 oturumunun işleri (adım 3 `/makale-oku/*` ScholarlyArticle + yol geçişi, adım 4 madde JSON-LD kaçışı,
+  adım 5 FAQPage görünürlüğü) commit'liydi; kesilen kabul ölçümü tamamlandı.
+- `npm run kalite` (derleme dahil) yeşil: 591 test, derleme 898 sn. Derleme taraması: 915 sayfa, başlıkta çift marka
+  eki 0 (G06b'de 402); 4.547 JSON-LD bloğu, alan ve FAQPage görünürlük ihlali 0. Zaman damgalı 4 dosya geri alındı.
+- Soru 15 (makale başlık ve künyeleri) `raporlar/kullaniciya-sorular.md`'de. TestSprite: değişiklik yayında değil
+  (30 Ekim), doğrulanmadı.
+- Sıradaki: G11 (ders notları dizin mimarisi; G06 bitti).

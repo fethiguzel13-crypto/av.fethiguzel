@@ -66,3 +66,12 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     üniversite, ORCID / Google Akademik / DergiPark yazar profili, monografi dışındaki yayınların künyeleri. Hangileri
     yayımlanabilir? Verilenler `lib/profile.ts`'e girer; şema ve yazar kutusu kendiliğinden güncellenir.
     *Varsayım:* yanıt gelene kadar yalnız mevcut bilgiler kullanılır.
+15. **Makale başlıkları ve künyeleri (G10).** `/makale-oku` sayfalarının başlığı, h1'i ve ScholarlyArticle
+    şemasındaki adı Word ya da PDF dosyasının adından gelmektedir. Üç dosyanın adı makalenin başlığı değildir:
+    `MİRAS/Yeni Microsoft Word Belgesi.docx`, `kanun yolu/fethi güzel kanun yolu.docx`,
+    `umut hakkı/Umut Hakkı (1).pdf`. `ARABULUCULUK/arabuluculuk anlaşma belgesi.docx` ile
+    `GENEL İŞLEM ŞARTLARI/genel işlem koşulları.docx` ise küçük harfle yazılmıştır. Belgelerde başlık biçimli bir
+    satır bulunmadığından (ilk satır "İÇİNDEKİLER") başlık belgeden de çıkarılamamıştır. Bu makalelerin yayımlanacak
+    başlıkları nedir; dergide ya da kitapta yayımlananlar varsa künyeleri (dergi, cilt, sayı, yıl) nelerdir? Yanıt
+    gelince adres değiştirilmeden bir başlık ve künye tablosu eklenir; okunur adres ve kalıcı yönlendirme G12'de ele
+    alınır. *Varsayım:* başlık ve tarih uydurulmaz; dosya adı kalır, şemaya yayın tarihi yazılmaz.
