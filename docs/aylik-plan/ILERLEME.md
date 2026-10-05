@@ -201,3 +201,7 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - OTONOM.md teknik tuzaklarına iki madde (derleme sürerken büyük klasör listeleme; makine kapanınca kesinti).
   PLAN.md G12'ye not: rehberin "ilgili rehberler" bloğu yayından düşen 23 rehbere de bağlanıyor.
 - Sıradaki: G12 (iç bağlantı ağı; G11 bitti). G13 (performans) da bağımlılığı bitmiş durumda.
+
+## 2026-10-05 11:37 — G12 DEVAM EDİYOR (başladı 11:37, aynı başsız oturum)
+
+- Alt plan `gorevler/G12.md`; adım 1 (kırıntı işlevi ve bileşeni) üzerinde çalışılıyor.

@@ -6,6 +6,7 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import ShareableAnswer from '@/components/ShareableAnswer';
 import YazarKutusu from '@/components/YazarKutusu';
+import Kirinti from '@/components/Kirinti';
 import { getKavram, getAllKavramSlugs, KAVRAMLAR } from '@/lib/kavramlar';
 import { SITE_URL } from '@/lib/profile';
 import { yazarRef } from '@/lib/yazar';
@@ -62,17 +63,12 @@ export default async function KavramSlugPage({ params }: Props) {
                 dangerouslySetInnerHTML={{ __html: jsonLdHtml(articleLd) }}
             />
             <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-3xl mx-auto">
-                <nav className="text-[11px] text-charcoal/40 mb-5 flex flex-wrap gap-1.5" aria-label="Konum">
-                    <Link href="/" className="hover:text-accent">
-                        Ana sayfa
-                    </Link>
-                    <span>/</span>
-                    <Link href="/kavram" className="hover:text-accent">
-                        Kavramlar
-                    </Link>
-                    <span>/</span>
-                    <span className="text-charcoal/60">{k.baslik}</span>
-                </nav>
+                <Kirinti
+                    ogeler={[
+                        { ad: 'Kavramlar', yol: '/kavram' },
+                        { ad: k.baslik, yol: `/kavram/${k.slug}` },
+                    ]}
+                />
 
                 <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-2">
                     Kavram

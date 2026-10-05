@@ -3,6 +3,7 @@ import { getLawCategoryBySlug, getLawSubCategoryBySlug, lawCategories } from '@/
 import { getArticlesByCategory } from '@/lib/api';
 import { categories as oldCategories } from '@/lib/categories';
 import Link from "@/components/SiteLink";
+import Kirinti from '@/components/Kirinti';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import { yazarRef } from '@/lib/yazar';
@@ -90,13 +91,15 @@ export default async function SubCategoryPage({ params }: { params: Promise<{ ca
       <div className="relative pt-32 pb-16 px-6 md:px-20">
         <div className="max-w-5xl mx-auto">
           {/* Breadcrumb */}
-          <nav className="flex items-center gap-2 text-sm font-data text-light/50 mb-8" aria-label="Breadcrumb">
-            <Link href="/" className="hover:text-accent transition-colors">Ana Sayfa</Link>
-            <span>/</span>
-            <Link href={`/${category}`} className="hover:text-accent transition-colors">{parent.name}</Link>
-            <span>/</span>
-            <span className="text-accent">{sub.name}</span>
-          </nav>
+          <Kirinti
+            ogeler={[
+              { ad: parent.name, yol: `/${category}` },
+              { ad: sub.name, yol: `/${category}/${slug}` },
+            ]}
+            className="flex items-center gap-2 text-sm font-data text-light/50 mb-8"
+            baglantiSinifi="hover:text-accent transition-colors"
+            sonSinif="text-accent"
+          />
 
           <span className="text-accent font-data text-sm tracking-[0.2em] uppercase block mb-4">{parent.kanunAdi}</span>
           <h1 className="text-4xl md:text-6xl font-sans font-bold mb-6">{sub.name}</h1>

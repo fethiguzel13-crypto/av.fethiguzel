@@ -1,6 +1,7 @@
 import { jsonLdHtml } from "@/lib/json-ld";
 import { getLawCategoryBySlug, lawCategories } from '@/lib/laws';
 import Link from "@/components/SiteLink";
+import Kirinti from '@/components/Kirinti';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import { yazarRef } from '@/lib/yazar';
@@ -47,11 +48,12 @@ export default async function CategoryLandingPage({ params }: { params: Promise<
       <div className="relative pt-32 pb-20 px-6 md:px-20">
         <div className="max-w-5xl mx-auto">
           {/* Breadcrumb */}
-          <nav className="flex items-center gap-2 text-sm font-data text-light/50 mb-8" aria-label="Breadcrumb">
-            <Link href="/" className="hover:text-accent transition-colors">Ana Sayfa</Link>
-            <span>/</span>
-            <span className="text-accent">{cat.name}</span>
-          </nav>
+          <Kirinti
+            ogeler={[{ ad: cat.name, yol: `/${category}` }]}
+            className="flex items-center gap-2 text-sm font-data text-light/50 mb-8"
+            baglantiSinifi="hover:text-accent transition-colors"
+            sonSinif="text-accent"
+          />
 
           <span className="text-accent font-data text-sm tracking-[0.2em] uppercase block mb-4">{cat.kanunAdi}</span>
           <h1 className="text-4xl md:text-6xl font-sans font-bold mb-6">{cat.name}</h1>

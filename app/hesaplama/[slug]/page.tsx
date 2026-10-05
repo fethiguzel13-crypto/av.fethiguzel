@@ -10,6 +10,7 @@ import { getAracMeta, getAllAracIds, HESAPLAMA_ARACLAR } from '@/lib/hesaplama-m
 import { bilgiLinksForArac } from '@/lib/hesaplama-bilgi';
 import { getKavramForHesaplama } from '@/lib/kavramlar';
 import ShareableAnswer from '@/components/ShareableAnswer';
+import Kirinti from '@/components/Kirinti';
 import { SITE_URL } from '@/lib/profile';
 import { yazarRef } from '@/lib/yazar';
 
@@ -97,17 +98,12 @@ export default async function HesaplamaSlugPage({ params }: Props) {
 
             <main id="main-content" className="pt-24 sm:pt-32 md:pt-36 pb-16 sm:pb-24 px-4 sm:px-6">
                 <div className="max-w-3xl mx-auto">
-                    <nav className="text-[11px] text-charcoal/40 mb-5 flex flex-wrap gap-1.5" aria-label="Sayfa konumu">
-                        <Link href="/" className="hover:text-accent">
-                            Ana sayfa
-                        </Link>
-                        <span>/</span>
-                        <Link href="/hesaplama" className="hover:text-accent">
-                            Hesaplama
-                        </Link>
-                        <span>/</span>
-                        <span className="text-charcoal/60">{meta.baslik}</span>
-                    </nav>
+                    <Kirinti
+                        ogeler={[
+                            { ad: 'Hesaplama', yol: '/hesaplama' },
+                            { ad: meta.baslik, yol: `/hesaplama/${meta.id}` },
+                        ]}
+                    />
 
                     <p className="text-accent font-mono text-[10px] tracking-widest uppercase mb-2">
                         {meta.icon} {meta.tag}

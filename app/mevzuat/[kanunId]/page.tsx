@@ -4,6 +4,7 @@ import Link from "@/components/SiteLink";
 import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import { getAllKanunDirs, getArticlesByKanun, SITE_ORIGIN } from '@/lib/api';
 import { categories } from '@/lib/categories';
 
@@ -86,17 +87,12 @@ export default async function KanunHubPage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: jsonLdHtml(itemListLd) }}
       />
       <main className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-5xl mx-auto">
-        <nav className="text-[11px] text-charcoal/40 mb-5 flex flex-wrap gap-1.5" aria-label="Konum">
-          <Link href="/" className="hover:text-accent">
-            Ana sayfa
-          </Link>
-          <span>/</span>
-          <Link href="/mevzuat" className="hover:text-accent">
-            Mevzuat
-          </Link>
-          <span>/</span>
-          <span className="text-charcoal/60">{code}</span>
-        </nav>
+        <Kirinti
+          ogeler={[
+            { ad: 'Mevzuat', yol: '/mevzuat' },
+            { ad: code, yol: `/mevzuat/${kanunId}` },
+          ]}
+        />
 
         <p className="text-accent font-mono text-[10px] tracking-widest uppercase mb-2">
           Kanun maddesi hub · {articles.length} madde

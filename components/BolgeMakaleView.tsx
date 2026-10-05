@@ -1,6 +1,7 @@
 import { jsonLdHtml } from "@/lib/json-ld";
 import Image from 'next/image';
 import Link from "@/components/SiteLink";
+import Kirinti from '@/components/Kirinti';
 import type { BolgeMakale, MakaleFoto, MakaleGrafik } from '@/lib/bolge-makaleler';
 import { BookOpen, Clock, MapPin, ArrowRight, Info } from 'lucide-react';
 import { SITE_URL, PROFILE } from '@/lib/profile';
@@ -206,17 +207,14 @@ export default function BolgeMakaleView({
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(faqLd) }} />
       )}
 
-      <nav aria-label="Breadcrumb" className="mb-6 text-xs text-charcoal/40">
-        <Link href="/" className="hover:text-accent">
-          Ana sayfa
-        </Link>
-        <span className="mx-2">/</span>
-        <Link href="/bolge-yazi" className="hover:text-accent">
-          Bölge yazıları
-        </Link>
-        <span className="mx-2">/</span>
-        <span className="text-charcoal/60">{makale.yerlesim}</span>
-      </nav>
+      <Kirinti
+        ogeler={[
+          { ad: 'Bölge yazıları', yol: '/bolge-yazi' },
+          { ad: makale.yerlesim, yol: `/bolge-yazi/${makale.slug}` },
+        ]}
+        className="mb-6 text-xs text-charcoal/40"
+        ayracSinifi="mx-2"
+      />
 
       <header className="mb-6">
         <p className="text-accent font-mono text-[10px] tracking-[0.2em] uppercase mb-3">{makale.eyebrow}</p>
