@@ -5,6 +5,7 @@
 import type { AnalysisData } from './analysis';
 import { SITE_URL } from './profile';
 import { yazarRef } from './yazar';
+import { kirintiLd } from './kirinti.mjs';
 
 const ISO = /^\d{4}-\d{2}-\d{2}(T\d{2}:\d{2}(:\d{2}(\.\d+)?)?(Z|[+-]\d{2}:?\d{2})?)?$/;
 
@@ -31,14 +32,10 @@ export function kararAnaliziJsonLd(data: AnalysisData) {
         ...(konu ? { about: konu } : {}),
         ...(kunye ? { citation: { '@type': 'CreativeWork', name: kunye, ...(kaynak ? { url: kaynak } : {}) } } : {}),
       },
-      {
-        '@type': 'BreadcrumbList',
-        itemListElement: [
-          { '@type': 'ListItem', position: 1, name: 'Ana Sayfa', item: SITE_URL },
-          { '@type': 'ListItem', position: 2, name: 'Güncel İçtihat', item: `${SITE_URL}/icthat` },
-          { '@type': 'ListItem', position: 3, name: baslik, item: url },
-        ],
-      },
+      kirintiLd([
+        { ad: 'Güncel İçtihat', yol: '/icthat' },
+        { ad: baslik, yol: `/icthat/${data.id}` },
+      ]),
     ],
   };
 }

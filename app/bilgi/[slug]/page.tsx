@@ -7,6 +7,7 @@ import VatandasRehberArticle from '@/components/VatandasRehberArticle';
 import { getAllVatandasSlugs } from '@/lib/vatandas-rehberi';
 import { getGuidePageState, getRelatedPublished } from '@/lib/vatandas-rehberi/published';
 import { sayfaBasligi } from '@/lib/sayfa-basligi';
+import Kirinti from '@/components/Kirinti';
 
 const SITE = 'https://www.avfethiguzel.com';
 
@@ -79,6 +80,7 @@ export default async function BilgiSlugPage({ params }: Props) {
           <VatandasRehberArticle article={article} related={related} />
         ) : (
           <WithdrawnGuide
+            slug={article.slug}
             h1={article.h1}
             category={article.category}
             reason={quality.reason}
@@ -100,12 +102,14 @@ export default async function BilgiSlugPage({ params }: Props) {
  * kullanıcı gerçekten yararlı olan yere — resmî mevzuat metnine — yönlendirilir.
  */
 function WithdrawnGuide({
+  slug,
   h1,
   category,
   reason,
   links,
   related,
 }: {
+  slug: string;
   h1: string;
   category: string;
   reason?: string;
@@ -114,17 +118,16 @@ function WithdrawnGuide({
 }) {
   return (
     <>
-      <nav className="text-[11px] sm:text-xs text-charcoal/50 mb-5" aria-label="Konum">
-        <Link href="/" className="hover:text-accent">
-          Ana Sayfa
-        </Link>
-        {' · '}
-        <Link href="/bilgi" className="hover:text-accent">
-          Vatandaş rehberi
-        </Link>
-        {' · '}
-        <span>{category}</span>
-      </nav>
+      {/* Sayfa noindex: görünür kırıntı yeterli, şema basılmaz. */}
+      <Kirinti
+        ogeler={[
+          { ad: 'Vatandaş rehberi', yol: '/bilgi' },
+          { ad: category, yol: `/bilgi/kategori/${encodeURIComponent(category)}` },
+          { ad: h1, yol: `/bilgi/${slug}` },
+        ]}
+        ld={false}
+        className="text-[11px] sm:text-xs text-charcoal/50 mb-5 flex flex-wrap gap-1.5"
+      />
 
       <h1 className="text-2xl sm:text-3xl font-heading font-bold text-charcoal mb-6 leading-tight">
         {h1}

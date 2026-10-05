@@ -254,9 +254,9 @@ h1{font-size:clamp(1.45rem,3vw,2rem);line-height:1.22;margin:.45rem 0 0;font-wei
 </header>
 <main>
 <nav class="nav" aria-label="Konum">
-<a href="${SITE}/">Ana Sayfa</a> ·
+<a href="${SITE}/">Ana sayfa</a> ·
 <a href="${SITE}/mevzuat">Mevzuat</a> ·
-<a href="${SITE}/ara?q=${encodeURIComponent(code + ' madde ' + n)}">${code}</a> ·
+<a href="${SITE}/mevzuat/${kanunId}">${code}</a> ·
 Madde ${n}
 </nav>
 <p class="badge">${esc(kanun)} · ${code} ${n}</p>

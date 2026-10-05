@@ -8,6 +8,7 @@
  */
 import { SITE_URL } from './profile';
 import { yazarRef } from './yazar';
+import { kirintiLd } from './kirinti.mjs';
 
 export type MaddeLdGirdi = {
   kanunId: string;
@@ -38,14 +39,11 @@ export function maddeJsonLd({ kanunId, id, kanun, maddeNo: n, aciklama, serhVar 
         about: { '@type': 'Legislation', name: `${kanun} Madde ${n}`, legislationJurisdiction: 'TR' },
         keywords: `${code} madde ${n}, ${code} m. ${n}, Av. Fethi Güzel, Fethi Güzel, kanun maddesi`,
       },
-      {
-        '@type': 'BreadcrumbList',
-        itemListElement: [
-          { '@type': 'ListItem', position: 1, name: 'Ana Sayfa', item: SITE_URL },
-          { '@type': 'ListItem', position: 2, name: 'Mevzuat', item: `${SITE_URL}/mevzuat` },
-          { '@type': 'ListItem', position: 3, name: `${code} Madde ${n}`, item: canonical },
-        ],
-      },
+      kirintiLd([
+        { ad: 'Mevzuat', yol: '/mevzuat' },
+        { ad: code, yol: `/mevzuat/${kanunId}` },
+        { ad: `${code} Madde ${n}`, yol: `/mevzuat/${kanunId}/${id}` },
+      ]),
     ],
   };
 }

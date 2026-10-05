@@ -3,6 +3,7 @@ import React from 'react';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import { BookOpen, Scale, ArrowRight, MapPin, Info } from 'lucide-react';
 import { SITE_URL, PROFILE } from '@/lib/profile';
 import type { BolgeBilgi } from '@/lib/bolge-bilgi';
@@ -43,15 +44,11 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
     })),
   };
 
-  const breadcrumbLd = {
-    '@context': 'https://schema.org',
-    '@type': 'BreadcrumbList',
-    itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Ana Sayfa', item: `${SITE_URL}/` },
-      { '@type': 'ListItem', position: 2, name: 'Bölgesel bilgilendirme', item: `${SITE_URL}/hizmet-bolgeleri` },
-      { '@type': 'ListItem', position: 3, name: veri.h1, item: pageUrl },
-    ],
-  };
+  // Görünür kırıntı ve şema aynı listeden (G12).
+  const kirinti = [
+    { ad: 'Bölgesel bilgilendirme', yol: '/hizmet-bolgeleri' },
+    { ad: veri.yerlesim, yol: `/${veri.slug}` },
+  ];
 
   const officeLd = veri.merkezOfis
     ? {
@@ -84,23 +81,12 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
       <Navbar />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(articleLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(faqLd) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(breadcrumbLd) }} />
       {officeLd ? (
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(officeLd) }} />
       ) : null}
 
       <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-3xl lg:max-w-4xl mx-auto">
-        <nav aria-label="Breadcrumb" className="mb-6 text-xs text-charcoal/40">
-          <Link href="/" className="hover:text-accent">
-            Ana sayfa
-          </Link>
-          <span className="mx-2">/</span>
-          <Link href="/hizmet-bolgeleri" className="hover:text-accent">
-            Bölgesel bilgilendirme
-          </Link>
-          <span className="mx-2">/</span>
-          <span className="text-charcoal/60">{veri.yerlesim}</span>
-        </nav>
+        <Kirinti ogeler={kirinti} className="mb-6 text-xs text-charcoal/40" ayracSinifi="mx-2" />
 
         <header className="mb-10">
           <p className="text-accent font-mono text-[10px] sm:text-[11px] tracking-[0.2em] uppercase mb-3">

@@ -9,6 +9,7 @@ import fs from 'fs';
 import path from 'path';
 import { SITE_URL } from './profile';
 import { yazarRef } from './yazar';
+import { kirintiLd } from './kirinti.mjs';
 
 const KOK = path.join(process.cwd(), 'public', 'makaleler');
 
@@ -55,14 +56,10 @@ export function makaleOkuJsonLd(parcalar: string[]) {
           ...(bicim ? { encodingFormat: bicim } : {}),
         },
       },
-      {
-        '@type': 'BreadcrumbList',
-        itemListElement: [
-          { '@type': 'ListItem', position: 1, name: 'Ana Sayfa', item: SITE_URL },
-          { '@type': 'ListItem', position: 2, name: 'Makaleler', item: `${SITE_URL}/makaleler` },
-          { '@type': 'ListItem', position: 3, name: baslik, item: url },
-        ],
-      },
+      kirintiLd([
+        { ad: 'Makaleler', yol: '/makaleler' },
+        { ad: baslik, yol: `/makale-oku/${kodlu}` },
+      ]),
     ],
   };
 }

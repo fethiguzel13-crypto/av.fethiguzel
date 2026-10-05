@@ -17,6 +17,8 @@ import {
   RehberTrap,
 } from '@/components/rehber/RehberFigures';
 import YazarKutusu from '@/components/YazarKutusu';
+import Kirinti from '@/components/Kirinti';
+import { kirintiLd } from '@/lib/kirinti.mjs';
 import { yazarRef } from '@/lib/yazar';
 
 const SITE = 'https://www.avfethiguzel.com';
@@ -73,6 +75,12 @@ export default function VatandasRehberArticle({
   related: VatandasArticle[];
 }) {
   const pageUrl = `${SITE}/bilgi/${article.slug}`;
+  // Görünür kırıntı ve şema aynı listeden (G12); kategori basamağı eskiden yalnız görünürde vardı.
+  const kirinti = [
+    { ad: 'Vatandaş rehberi', yol: '/bilgi' },
+    { ad: article.category, yol: `/bilgi/kategori/${encodeURIComponent(article.category)}` },
+    { ad: article.h1, yol: `/bilgi/${article.slug}` },
+  ];
   const view = toReadableView(article);
   const plan = buildVisualPlan(article);
   const calcLinks = hesaplamaToolsForBilgiSlug(article.slug);
@@ -128,19 +136,7 @@ export default function VatandasRehberArticle({
         ]
         : []),
       ...(howTo ? [howTo] : []),
-      {
-        '@type': 'BreadcrumbList',
-        itemListElement: [
-          { '@type': 'ListItem', position: 1, name: 'Ana Sayfa', item: SITE },
-          {
-            '@type': 'ListItem',
-            position: 2,
-            name: 'Vatandaş Rehberi',
-            item: `${SITE}/bilgi`,
-          },
-          { '@type': 'ListItem', position: 3, name: article.h1, item: pageUrl },
-        ],
-      },
+      kirintiLd(kirinti),
     ],
   };
 
@@ -151,22 +147,7 @@ export default function VatandasRehberArticle({
         dangerouslySetInnerHTML={{ __html: jsonLdHtml(jsonLd) }}
       />
 
-      <nav className="text-[11px] sm:text-xs text-charcoal/50 mb-5" aria-label="Konum">
-        <Link href="/" className="hover:text-accent">
-          Ana Sayfa
-        </Link>
-        {' · '}
-        <Link href="/bilgi" className="hover:text-accent">
-          Vatandaş rehberi
-        </Link>
-        {' · '}
-        <Link
-          href={`/bilgi/kategori/${encodeURIComponent(article.category)}`}
-          className="hover:text-accent"
-        >
-          {article.category}
-        </Link>
-      </nav>
+      <Kirinti ogeler={kirinti} ld={false} className="text-[11px] sm:text-xs text-charcoal/50 mb-5 flex flex-wrap gap-1.5" />
 
       <p className="text-accent font-mono text-[10px] tracking-[0.18em] uppercase mb-3">
         {article.category}
