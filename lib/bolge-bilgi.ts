@@ -490,7 +490,7 @@ export const BOLGE_BILGILERI: BolgeBilgi[] = [
     faq: [DISCLAIMER_FAQ],
     relatedBilgi: [
       { label: 'Kira tahliye', href: '/bilgi/kiraci-nasil-tahliye-edilir' },
-      { label: 'Çek hukuku', href: '/bilgi/cek-nasil-yazilir' },
+      { label: 'Karşılıksız çek', href: '/bilgi/cek-karsiliksiz' },
       { label: 'Boşanma', href: '/bilgi/bosanma-davasi-nasil-acilir' },
     ],
     links: [

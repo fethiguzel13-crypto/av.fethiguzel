@@ -10,10 +10,12 @@ import type { BolgeBilgi } from '@/lib/bolge-bilgi';
 import { BOLGE_BILGILERI } from '@/lib/bolge-bilgi';
 import { BOLGE_MAKALELER } from '@/lib/bolge-makaleler';
 import { yazarRef } from '@/lib/yazar';
+import { yayindakiBaglantilar } from '@/lib/vatandas-rehberi/published';
 
 export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
   const pageUrl = `${SITE_URL}/${veri.slug}`;
   const other = BOLGE_BILGILERI.filter((b) => b.slug !== veri.slug).slice(0, 8);
+  const ilgiliRehberler = yayindakiBaglantilar(veri.relatedBilgi);
 
   const articleLd = {
     '@context': 'https://schema.org',
@@ -147,11 +149,11 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
           ))}
         </div>
 
-        {(veri.relatedBilgi.length > 0 || veri.links.length > 0) && (
+        {(ilgiliRehberler.length > 0 || veri.links.length > 0) && (
           <section className="mb-14">
             <h2 className="text-lg font-heading font-bold text-charcoal mb-4">İlgili rehberler ve mevzuat</h2>
             <div className="grid sm:grid-cols-2 gap-3">
-              {veri.relatedBilgi.map((l) => (
+              {ilgiliRehberler.map((l) => (
                 <Link
                   key={l.href}
                   href={l.href}
