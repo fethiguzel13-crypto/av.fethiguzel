@@ -54,6 +54,9 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
 - **Satır sonları karışık:** depodaki dosyaların çoğu CRLF, bir kısmı LF. Betikle değiştirirken `\n` içeren desen
   CRLF dosyada sıfır eşleşir; deseni `\r?\n` yap, satır sonunu dosyadan oku. Git Bash'in `od`, `cat -A`, `grep`
   araçları CR'yi göstermez; sayımı `node` ile yap. `sed -i` dosyayı LF'ye çevirir.
+- **Ters bölü içeren kodu heredoc'taki betikle yazma** (2026-10-05: `node - <<'EOF'` içindeki şablon dizgisinde çift ters bölü
+  dosyaya bir düzey eksik geçti; düzenli ifade kaçışları düştü, `\b` geri silme karakterine döndü). Düzenli ifade ya da kaçış
+  dizisi taşıyan parçayı Edit/Write aracıyla yaz; betikten sonra `node --check` çalıştır.
 - `.ps1` dosyası düzenlendikten sonra UTF-8 BOM yeniden eklenir (düzenleme aracı BOM'u siler; PowerShell 5.1
   Türkçe karakterli betiği BOM'suz ANSI okur ve ayrıştırma hatası verir). Sonra
   `[System.Management.Automation.Language.Parser]::ParseFile` ile sözdizimi doğrulanır.

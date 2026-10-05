@@ -15,8 +15,10 @@ import { auditCommentary } from '@/lib/content-quality.mjs';
 import { jsonLdHtml } from '@/lib/json-ld';
 import { maddeJsonLd } from '@/lib/madde-ld';
 import { yazarKutusuHtml } from '@/lib/yazar';
-import icBaglantiDizini from '@/lib/ic-baglanti/dizin.json';
-import { maddeIlgiliHtml, maddeyeDeginen } from '@/lib/ic-baglanti/dizin.mjs';
+import icBaglantiSikisik from '@/lib/ic-baglanti/dizin.json';
+import { dizinAc, maddeIlgiliHtml, maddeyeDeginen } from '@/lib/ic-baglanti/dizin.mjs';
+
+const icBaglantiDizini = dizinAc(icBaglantiSikisik);
 
 const SITE = 'https://www.avfethiguzel.com';
 

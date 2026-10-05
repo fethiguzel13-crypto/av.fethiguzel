@@ -8,6 +8,8 @@ import { getHub, getNote, resolveNoteCourseCode } from '@/lib/ders-notlari';
 import { auditLectureNote } from '@/lib/content-quality.mjs';
 import { notDizinKarari } from '@/lib/ders-notlari/dizin.mjs';
 import kanonik from '@/lib/ders-notlari/dizin-kanonik.json';
+import IlgiliIcerik from '@/components/IlgiliIcerik';
+import { sayfaIlgiliIcerik } from '@/lib/ic-baglanti/sayfa';
 
 const SITE = 'https://www.avfethiguzel.com';
 
@@ -73,7 +75,11 @@ export default async function DersNotuPage({ params }: Props) {
       <Navbar />
       <main className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-3xl mx-auto">
         {quality.publishable ? (
-          <DersNotuView note={note} hub={hub} />
+          <>
+            <DersNotuView note={note} hub={hub} />
+            {/* Dizin yalnız temsilci notları taşır; diğer notlarda liste boş kalır (G12). */}
+            <IlgiliIcerik ogeler={sayfaIlgiliIcerik(`/ders-notlari/${uni}/${ders}`)} />
+          </>
         ) : (
           <WithdrawnNote
             h1={note.h1}
