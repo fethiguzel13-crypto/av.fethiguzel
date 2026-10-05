@@ -159,7 +159,7 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     ProfilePage + `mainEntity: yazarRef()` (soru 11 yanıtıyla birlikte). `/icthat/[id]` karar analizinde JSON-LD yok ve
     başlığı "| Av. Fethi Güzel"i iki kez taşıyor; `/makale-oku/*` sayfalarında Article/ScholarlyArticle yok.
 
-- [ ] **G11 — Ders notları dizin mimarisi (ince içerik riski)** · bağımlı: G06
+- [x] **G11 — Ders notları dizin mimarisi (ince içerik riski)** · bağımlı: G06 · 2026-10-05: dizine açık not 6.552 → 26, fakülte sayfası 84 → 1, harita 6.637 → 28; rehber sayfa ↔ harita ayrışması 0; soru 16
   - 11.623 notun çoğu `template` katmanında (şehir adı değiştirilmiş şablon). Bu sayfalar Google'ın
     yararlı içerik değerlendirmesinde siteyi aşağı çekebilir.
   - `template` → noindex + ilgili dersin en iyi notuna canonical; `curated` → dizine; site haritası
@@ -171,6 +171,9 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
 - [ ] **G12 — İç bağlantı ağı** · bağımlı: G11
   - Mevzuat maddesi ↔ şerh ↔ ders notu ↔ Yargıtay kararı (yalnız "yararlı" etiketliler) ↔ rehber ↔
     hesaplama arası "ilgili içerik" blokları; kırıntı yolu (breadcrumb) her sayfada.
+  - G11 notu: bağlantı yalnız dizine açık sayfaya verilir. Rehber sayfasındaki "ilgili rehberler"
+    (`getRelatedArticles`) yayından düşen 23 rehbere de bağlanıyor (`isPublished` ile süz); ders notlarında
+    dizine açık hedef 26 temsilci not ve Ankara fakülte sayfası (`lib/ders-notlari/dizin.mjs`).
 
 - [ ] **G13 — Performans (Core Web Vitals)** · bağımlı: G06
   - Görsel biçim/boyut, font yükleme, JS paket boyutu analizi, GSAP yalnız gerektiği yerde, veri

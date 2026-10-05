@@ -57,6 +57,11 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
 - `.ps1` dosyası düzenlendikten sonra UTF-8 BOM yeniden eklenir (düzenleme aracı BOM'u siler; PowerShell 5.1
   Türkçe karakterli betiği BOM'suz ANSI okur ve ayrıştırma hatası verir). Sonra
   `[System.Management.Automation.Language.Parser]::ParseFile` ile sözdizimi doğrulanır.
+- **Derleme sürerken büyük klasörü listeleme** (2026-10-05: `lib/ders-notlari/generated/notes`, 11.623 dosya): `next build`
+  aynı dosyaları okurken `ls`/`grep` 3 dakikayı aşıp arka plana düştü. Örnek adres ve sayımı küçük dizin dosyalarından
+  al (`generated/hubs.json`, `dizin-kanonik.json`) ya da derleme bitince tara.
+- Makine kapanınca ya da uykuya geçince oturum uyarısız kesilir (2026-10-03 06:48 → 2026-10-05 10:23 arası ne oturum
+  ne hasat çalıştı); devralmada hasat günlüğünün son satır saati kesinti anını doğrulamaya yarar.
 - Başsız oturum `ANTHROPIC_API_KEY` görürse abonelik yerine API kredisi kullanır; çalıştırıcı bunu
   kaldırır, elle `claude -p` çağrılırken de kaldırılmalıdır.
 

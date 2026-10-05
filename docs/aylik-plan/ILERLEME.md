@@ -176,3 +176,28 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 15 (makale başlık ve künyeleri) `raporlar/kullaniciya-sorular.md`'de. TestSprite: değişiklik yayında değil
   (30 Ekim), doğrulanmadı.
 - Sıradaki: G11 (ders notları dizin mimarisi; G06 bitti).
+
+## 2026-10-03 06:27 — G11 DEVAM EDİYOR (başladı 06:27, aynı başsız oturum)
+
+- Alt plan `gorevler/G11.md`; adım 1 (dizin karar işlevi) üzerinde çalışılıyor.
+- 2026-10-05 11:00 devralma: 06:27 oturumu adım 1–5'i commit'ledi (`cfd604a9a`, `da8479261`), adım 6'yı (rehber seçimi
+  tek kural, `lib/vatandas-rehberi/sec.mjs`) yazıp test 13/13 yeşil gördü; başlattığı `npm run kalite` derleme adımında
+  06:48'de kesildi (makine kapandı; hasat günlüğü de aynı dakikada duruyor). Sürdürülüyor: adım 6 commit + adım 7.
+
+## 2026-10-05 11:00 — G08 hasat bakımı (pazartesi) + G11 TAMAM (başsız oturum)
+
+- **G08:** motor çalışıyor (10:23'te yeniden başladı), son 1 saatte 160 karar, 429 ve ağ hatası 0, hız 3,5/dk (mesai
+  tavanı), 10:42'de bir captcha (526 sn mola, kendiliğinden toparladı). Emsal ve benzersiz 36.159 (geçen hafta
+  34.894), disk C 43 GB boş. 3 Ekim 06:48 – 5 Ekim 10:23 arası makine kapalıydı: ne hasat ne otonom oturum çalıştı.
+  Düzeltme gerekmedi; satır `raporlar/hasat-haftalik.md`'de.
+- **G11 adım 6** (`2ead32620`): devralınan rehber seçimi tek kuralı sayfanın yedek yolunu kapsamıyordu; kalıp metni
+  parmak izi eşiğinin altında kalan 3 rehber dizinde ama haritada yoktu. Sayfa robots kararını yalnız
+  `getGuidePageState()`'ten alıyor. Gerçek veride 579 rehber: 556 dizinde ve haritada, 23 noindex, ayrışan 0. Test +3
+  (önce kırmızı).
+- **Kabul:** `npm run kalite` (derleme dahil) yeşil, 616 test, derleme 771 sn. `next start`'ta 13 örnek adres doğru robots
+  ve kendi canonical'ı; ders notu haritası 28, rehber haritası 557 adres; elle yazılan 33 rehber dizinde ve elle yazılan
+  sürümle. Önce/sonra tablosu `gorevler/G11.md`'de. Zaman damgalı 3 dosya geri alındı. TestSprite: değişiklik yayında
+  değil (30 Ekim), doğrulanmadı.
+- OTONOM.md teknik tuzaklarına iki madde (derleme sürerken büyük klasör listeleme; makine kapanınca kesinti).
+  PLAN.md G12'ye not: rehberin "ilgili rehberler" bloğu yayından düşen 23 rehbere de bağlanıyor.
+- Sıradaki: G12 (iç bağlantı ağı; G11 bitti). G13 (performans) da bağımlılığı bitmiş durumda.

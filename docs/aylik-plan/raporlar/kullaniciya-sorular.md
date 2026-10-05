@@ -75,3 +75,14 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     başlıkları nedir; dergide ya da kitapta yayımlananlar varsa künyeleri (dergi, cilt, sayı, yıl) nelerdir? Yanıt
     gelince adres değiştirilmeden bir başlık ve künye tablosu eklenir; okunur adres ve kalıcı yönlendirme G12'de ele
     alınır. *Varsayım:* başlık ve tarih uydurulmaz; dosya adı kalır, şemaya yayın tarihi yazılmaz.
+16. **Ders notlarında dizine açık sayfalar (G11).** 6.552 ders notu, 26 dersin üç sürümünün (1. dönem, 2. dönem,
+    yıllık) 84 fakülteye ad değiştirilerek çoğaltılmış hâlidir. Fakülte adı çıkarıldığında metinler büyük ölçüde
+    aynıdır; farklı kalan kısım kalıp cümle çeşitlemesi ve "Cebeci geleneği", "Maslak / Ayazağa usulü" gibi
+    üretilmiş yer ifadeleridir. Google bu yapıyı ölçeklenmiş içerik ve kapı sayfası sayabilir. Yalnız her dersin
+    bir yıllık notu dizine açık bırakılmıştır (26 not, seçim kuralı: adresli kaynağı en çok olan fakülte; sonuç 26'sında
+    da Ankara). 84 fakülte sayfasından yalnız Ankara'nınki dizindedir. Notlar silinmemiş, adresler değişmemiştir;
+    öğrenci bütün notları okumaya devam eder. Bu daraltma kabul ediliyor mu, yoksa belirli fakülteler (ör. kendi
+    fakülteniz) için ayrı dizin kararı mı istenir? Ankara notlarındaki "Cebeci geleneği" türü fakülte nitelendirmeleri
+    doğrulanmış değildir; G19'da kanonik not yeniden yazılırken çıkarılması önerilir.
+    *Varsayım:* yanıt gelene kadar 26 temsilci not ve tek fakülte sayfası dizinde kalır; liste
+    `lib/ders-notlari/dizin-kanonik.json`'dan tek satırla değiştirilebilir.
