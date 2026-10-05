@@ -168,7 +168,7 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
   - G06b notu: `yapı-ruhsati-nedir` dizine açık ama hiçbir haritada yok (harita üreticisi ile sayfanın yayın ölçütü
     farklı). Harita kapsamını sayfanın `robots` kararıyla tek kaynaktan eşitle; ders notu hub'larındaki 14 kırık bağlantı da burada.
 
-- [ ] **G12 — İç bağlantı ağı** · bağımlı: G11
+- [x] **G12 — İç bağlantı ağı** · bağımlı: G11 · 2026-10-05: BreadcrumbList 543/804 → 799/799 (tarama kuralı), tek kaynak; madde sayfasında 1.961 ilgili içerik bağlantısı; kapalı/yönlenen hedefe bağlantı 0 (ders notu gezinme listeleri hariç, soru 17)
   - Mevzuat maddesi ↔ şerh ↔ ders notu ↔ Yargıtay kararı (yalnız "yararlı" etiketliler) ↔ rehber ↔
     hesaplama arası "ilgili içerik" blokları; kırıntı yolu (breadcrumb) her sayfada.
   - G11 notu: bağlantı yalnız dizine açık sayfaya verilir. Rehber sayfasındaki "ilgili rehberler"
@@ -190,6 +190,9 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     `smoke-ui` iki adımda kırmızı: arşivde konu başlığı yok, arama tuş başına ~430 ms. Tam mobil derleme
     (`build-icthat-data` → `build-yargi-index` sırası) ile yeniden üret ve duman testini yeşile çek.
   - Kabul: süzme testi; yayına girecek karar sayısı raporda.
+  - G12 notu: ana sayfadaki karar önizlemesi (`components/YargiPreview.tsx`) noindex üyelik sayfasına
+    (`/yargi-kararlari/[id]`) bağlanıyor; madde ↔ karar ilgili içerik bağlantısı (yalnız `yararli`) yayındaki karar
+    sayfasıyla birlikte burada kurulur (`lib/ic-baglanti/dizin.json`, `components/IlgiliIcerik.tsx`).
 
 ## Hafta 3 (15–21 Ekim) — Görsel tasarım, grafikler, ders notları
 

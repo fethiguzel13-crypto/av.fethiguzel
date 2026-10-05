@@ -86,3 +86,10 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     doğrulanmış değildir; G19'da kanonik not yeniden yazılırken çıkarılması önerilir.
     *Varsayım:* yanıt gelene kadar 26 temsilci not ve tek fakülte sayfası dizinde kalır; liste
     `lib/ders-notlari/dizin-kanonik.json`'dan tek satırla değiştirilebilir.
+17. **Ders notu gezinme listeleri dizine kapalı sayfalara bağlanıyor (G12).** İç bağlantı ağında kural, bağlantının
+    yalnız dizine açık sayfaya verilmesidir. İki gezinme listesi bunun dışında kaldı: `/ders-notlari` 84 fakülte sayfasını
+    (83'ü noindex), dizine açık tek fakülte sayfası `/ders-notlari/ankara` ise 125 kopya ya da dönemlik notu (noindex)
+    listeler. Bu sayfalar soru 16'daki karar gereği okunur kalmaktadır (noindex, follow); bağlantılar kaldırılırsa öğrenciler
+    notlara siteden ulaşamaz. Google'ın noindex, follow sayfaya iç bağlantıyı cezalandırdığına ilişkin bir kural yoktur;
+    yalnız tarama bütçesi bu sayfalara da harcanır. Listeler böyle kalabilir mi, yoksa dizine kapalı fakülteler ana sayfada
+    tek bir "diğer fakülteler" bölümünde mi toplanmalı? *Varsayım:* yanıt gelene kadar listeler olduğu gibi kalır.

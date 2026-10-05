@@ -65,7 +65,9 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
   al (`generated/hubs.json`, `dizin-kanonik.json`) ya da derleme bitince tara.
 - **Sahte KIRIK kalite günlüğü** (2026-10-05 16:46: arka planda başlatılan `npm run kalite`, oturum sınırıyla süreç ağacı
   öldürülünce tip adımından sonraki her adımı "KIRIK 0 sn" ve "toplam 0 test" diye yazdı). Devralmada her adım 0 sn ise
-  kırmızı test aranmaz, kapı yeniden çalıştırılır. Tam kapıyı oturumun sonuna bırakma; ~15 dk sürer.
+  kırmızı test aranmaz, kapı yeniden çalıştırılır. Tam kapıyı oturumun sonuna bırakma; ~15 dk sürer. 21:33'te aynısı
+  sınır olmadan tekrarladı: başsız oturum arka plan işini başlatıp turu (son yanıtı) bitirince `claude -p` süreci kapanır,
+  iş de ölür. Arka plandaki kapının bitiş bildirimi gelmeden son yanıt yazılmaz.
 - Makine kapanınca ya da uykuya geçince oturum uyarısız kesilir (2026-10-03 06:48 → 2026-10-05 10:23 arası ne oturum
   ne hasat çalıştı); devralmada hasat günlüğünün son satır saati kesinti anını doğrulamaya yarar.
 - Başsız oturum `ANTHROPIC_API_KEY` görürse abonelik yerine API kredisi kullanır; çalıştırıcı bunu

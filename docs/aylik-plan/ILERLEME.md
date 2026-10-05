@@ -216,3 +216,16 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - 22:00 devralma: 21:00 oturumu iki düzeltmeyi commit'ledi (`c12a42420`, `6607ebc25`; `kalite:hizli` 707 test yeşil) ve
   21:33'te tam `npm run kalite`'yi arka planda başlatıp turu bitirdi; başsız süreç kapanınca kapı öldü (`logs/kalite-son.json`
   tip sonrası her adım 0 sn, çıkış kodu 3221225794). Sürdürülüyor: adım 9 (tam kalite yeniden, tarama, örnekler, rapor).
+
+## 2026-10-05 22:00 — G12 TAMAM (başsız oturum)
+
+- Tam `npm run kalite` yeniden: yeşil, 707 test, derleme 366 sn. Derleme ölçümünde (dizine açık 800 sayfa, 68.899 iç
+  bağlantı) `/site-haritasi`'nın noindex AYBÜ ve Marmara fakülte sayfalarına bağlandığı çıktı; `747afd489` listeyi
+  `hubDizinde`'den türetir (test önce kırmızı). Sonra tam kapı yine yeşil: 708 test, derleme 453 sn, 799 sayfada kırıntı kuralı.
+- `next start`'ta 12 örnek adres: tek BreadcrumbList, görünür kırıntıyla aynı basamak; madde, rehber, hesaplama ve temsilci
+  notta ilgili içerik bloğu; büyük harfli madde adresi sayfalarda ve `sitemap.xml`'de 0.
+- Rapor `gorevler/G12.md` sonunda (önce/sonra tablosu). Kalan 208 kapalı hedef iki ders notu gezinme listesinden; G11
+  gereği okunur sayfalar, bilinçli istisna, soru 17. Ana sayfadaki örnek karar bağlantısı (noindex) ve madde ↔ karar
+  bağlantısı PLAN.md G14'e not. Zaman damgalı 4 dosya geri alındı. TestSprite: değişiklik yayında değil (30 Ekim), doğrulanmadı.
+- OTONOM.md: sahte KIRIK tuzağına neden eklendi (başsız oturum arka plan işini bekletmeden turu bitirince iş ölür).
+- Sıradaki: G13 (performans; G06 bitti). G14 (bağımlı G04) da açık.
