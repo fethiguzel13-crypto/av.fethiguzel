@@ -2,7 +2,8 @@ import { VATANDAS_ARTICLES } from './data';
 import { AUTHORED_ARTICLES, AUTHORED_SLUGS } from './authored';
 import type { VatandasArticle } from './types';
 import { auditGuide } from '@/lib/content-quality.mjs';
-import { rehberleriSec, rehberSayfaDurumu, ilgiliRehberler } from './sec.mjs';
+import { rehberleriSec, rehberSayfaDurumu, ilgiliRehberler, rehberBaglantilariniSuz } from './sec.mjs';
+import { categories } from '@/lib/categories';
 
 /**
  * Yayınlanabilir rehberler.
@@ -69,6 +70,16 @@ export function getGuidePageState(slug: string) {
 export function getRelatedPublished(slug: string, limit = 5): VatandasArticle[] {
   const durum = getGuidePageState(slug);
   return durum ? ilgiliRehberler(durum.article, PUBLISHED_ARTICLES, limit) : [];
+}
+
+const ACIK_HEDEFLER = {
+  rehberler: new Set(PUBLISHED_ARTICLES.map((a) => a.slug)),
+  kategoriler: new Set(categories.map((c) => c.slug)),
+};
+
+/** Sayfada çizilecek sürüm: iç bağlantılar ve ana rehber göndermesi yalnız açık hedefe (G12). */
+export function getGuideView(article: VatandasArticle): VatandasArticle {
+  return rehberBaglantilariniSuz(article, ACIK_HEDEFLER);
 }
 
 export function getPublishedSlugs(): string[] {

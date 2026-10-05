@@ -5,7 +5,7 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import VatandasRehberArticle from '@/components/VatandasRehberArticle';
 import { getAllVatandasSlugs } from '@/lib/vatandas-rehberi';
-import { getGuidePageState, getRelatedPublished } from '@/lib/vatandas-rehberi/published';
+import { getGuidePageState, getGuideView, getRelatedPublished } from '@/lib/vatandas-rehberi/published';
 import { sayfaBasligi } from '@/lib/sayfa-basligi';
 import Kirinti from '@/components/Kirinti';
 
@@ -66,7 +66,7 @@ export default async function BilgiSlugPage({ params }: Props) {
   const slug = decodeURIComponent(raw);
   const quality = getGuidePageState(slug);
   if (!quality) notFound();
-  const article = quality.article;
+  const article = getGuideView(quality.article);
   const related = getRelatedPublished(slug, 5);
 
   return (
