@@ -2,7 +2,7 @@ import { VATANDAS_ARTICLES } from './data';
 import { AUTHORED_ARTICLES, AUTHORED_SLUGS } from './authored';
 import type { VatandasArticle } from './types';
 import { auditGuide } from '@/lib/content-quality.mjs';
-import { rehberleriSec, rehberSayfaDurumu } from './sec.mjs';
+import { rehberleriSec, rehberSayfaDurumu, ilgiliRehberler } from './sec.mjs';
 
 /**
  * Yayınlanabilir rehberler.
@@ -63,6 +63,12 @@ export function getPublishedBySlug(slug: string): VatandasArticle | undefined {
  */
 export function getGuidePageState(slug: string) {
   return rehberSayfaDurumu(slug, PUBLISHED_ARTICLES, KOVALAR, (a) => auditGuide(a).reason);
+}
+
+/** Rehber sayfasındaki ilgili rehberler: yalnız yayındakiler (G12); slug yoksa boş. */
+export function getRelatedPublished(slug: string, limit = 5): VatandasArticle[] {
+  const durum = getGuidePageState(slug);
+  return durum ? ilgiliRehberler(durum.article, PUBLISHED_ARTICLES, limit) : [];
 }
 
 export function getPublishedSlugs(): string[] {

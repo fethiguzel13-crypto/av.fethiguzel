@@ -4,8 +4,8 @@ import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import VatandasRehberArticle from '@/components/VatandasRehberArticle';
-import { getAllVatandasSlugs, getRelatedArticles } from '@/lib/vatandas-rehberi';
-import { getGuidePageState, getPublishedBySlug } from '@/lib/vatandas-rehberi/published';
+import { getAllVatandasSlugs } from '@/lib/vatandas-rehberi';
+import { getGuidePageState, getRelatedPublished } from '@/lib/vatandas-rehberi/published';
 import { sayfaBasligi } from '@/lib/sayfa-basligi';
 
 const SITE = 'https://www.avfethiguzel.com';
@@ -66,7 +66,7 @@ export default async function BilgiSlugPage({ params }: Props) {
   const quality = getGuidePageState(slug);
   if (!quality) notFound();
   const article = quality.article;
-  const related = getRelatedArticles(slug, 5).map((r) => getPublishedBySlug(r.slug) || r);
+  const related = getRelatedPublished(slug, 5);
 
   return (
     <div className="bg-cream min-h-screen">
