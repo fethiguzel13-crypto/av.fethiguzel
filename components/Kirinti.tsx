@@ -17,6 +17,7 @@ export default function Kirinti({
   sonSinif = 'text-charcoal/60',
   ayracSinifi,
   ld = true,
+  anaSayfa,
 }: {
   ogeler: Oge[];
   className?: string;
@@ -24,8 +25,10 @@ export default function Kirinti({
   sonSinif?: string;
   ayracSinifi?: string;
   ld?: boolean;
+  /** İlk basamağın adı; yabancı dildeki sayfa kendi dilinde verir (varsayılan "Ana sayfa"). */
+  anaSayfa?: string;
 }) {
-  const liste = kirintiOgeleri(ogeler);
+  const liste = kirintiOgeleri(ogeler, anaSayfa);
   const son = liste.length - 1;
   return (
     <>
@@ -33,7 +36,7 @@ export default function Kirinti({
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: jsonLdHtml({ '@context': 'https://schema.org', ...kirintiLd(ogeler) }),
+            __html: jsonLdHtml({ '@context': 'https://schema.org', ...kirintiLd(ogeler, anaSayfa) }),
           }}
         />
       )}

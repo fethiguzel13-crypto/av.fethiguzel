@@ -4,6 +4,7 @@ import Link from "@/components/SiteLink";
 import Image from 'next/image';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import { PROFILE, SITE_URL, SOCIAL_SAME_AS } from '@/lib/profile';
 import { Mail, BookOpen, Scale } from 'lucide-react';
 
@@ -46,6 +47,7 @@ export default function EnglishLawyerPage() {
             <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(ld) }} />
 
             <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-3xl mx-auto">
+                <Kirinti anaSayfa="Home" ogeler={[{ ad: 'English', yol: '/english-speaking-lawyer' }]} />
                 <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
                     English · Professional information
                 </p>

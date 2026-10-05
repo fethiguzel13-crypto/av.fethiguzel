@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import { PROFILE, SITE_URL } from '@/lib/profile';
 
 export const metadata: Metadata = {
@@ -21,6 +22,7 @@ export default function ArabicLandingPage() {
         <div className="bg-cream min-h-screen" dir="rtl" lang="ar">
             <Navbar />
             <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-2xl mx-auto text-right">
+                <Kirinti anaSayfa="الرئيسية" ogeler={[{ ad: 'العربية', yol: '/ar' }]} />
                 <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
                     العربية · معلومات مهنية
                 </p>

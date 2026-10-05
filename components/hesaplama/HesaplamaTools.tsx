@@ -3759,7 +3759,8 @@ export function HesaplamaToolBody({ id, title }: { id: string; title: string }) 
  * Ana hesaplama sayfası — tüm araçlar tam boyutta, açılır kartlarda.
  * Ayrı SEO sayfaları (/hesaplama/[slug]) ayrıca durur; burası küçültülmez.
  */
-export default function HesaplamaHub() {
+/** `kirinti`: sunucu sayfasının çizdiği kırıntı (görünür + şema, Aylık plan G12). */
+export default function HesaplamaHub({ kirinti }: { kirinti?: React.ReactNode }) {
   const [arama, setArama] = useState("");
   const [aktifTag, setAktifTag] = useState<string | null>(null);
   const [favs, setFavs] = useState<string[]>([]);
@@ -3846,6 +3847,7 @@ export default function HesaplamaHub() {
       <Navbar />
       <main className="min-h-screen bg-cream pt-24 sm:pt-32 md:pt-36 pb-16 sm:pb-24 px-4 sm:px-6">
         <div className="max-w-4xl mx-auto">
+          {kirinti}
 
           {/* Hero */}
           <div className="mb-8 sm:mb-12">

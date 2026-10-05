@@ -10,6 +10,7 @@ export const dynamic = 'force-static';
 export const metadata: Metadata = {
   title: 'Arşiv üyeliği — kayıt',
   description: `Yargıtay arşivi için hesap oluşturun. Aylık ${priceLabel()}.`,
+  robots: { index: false, follow: true },
 };
 
 export default function KayitPage() {

@@ -80,6 +80,59 @@ const varlikCoz = (s) =>
   );
 const bosluk = (s) => s.replace(/\s+/g, " ").trim();
 
+const ldBloklari = (html) => {
+  const bloklar = [];
+  for (const m of html.matchAll(/<script\b[^>]*type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)) {
+    try {
+      bloklar.push(JSON.parse(m[1]));
+    } catch {
+      /* geçersiz blok jsonLdDenetle taramasında ayrıca bildirilir */
+    }
+  }
+  return bloklar;
+};
+
+/**
+ * Sayfanın dizine açık olup olmadığı (G12 adım 5): robots meta'sında noindex yoksa ve derleme kaydı yönlendirme ya da
+ * hata durumu göstermiyorsa açıktır.
+ * @param {string} html derlenmiş sayfa
+ * @param {{ status?: number } | null} meta derleme çıktısındaki `.meta` kaydı (yoksa null)
+ */
+export function dizineAcikSayfa(html, meta) {
+  if (meta?.status && meta.status >= 300) return false;
+  const robots = html.match(/<meta\s+name=["']robots["']\s+content=["']([^"']*)["']/i);
+  return !(robots && /noindex/i.test(robots[1]));
+}
+
+/**
+ * Kırıntı denetimi (G12 adım 5): BreadcrumbList şeması tek, görünür kırıntı (`<nav aria-label="Konum">`, `<Kirinti>`)
+ * var ve ikisi aynı basamak sayısında. Görünür basamak = bağlantılar + `aria-current="page"` öğesi.
+ * @param {string} html derlenmiş sayfa
+ * @returns {string[]} ihlal edilen kurallar
+ */
+export function kirintiDenetle(html) {
+  const listeler = [];
+  for (const blok of ldBloklari(html)) {
+    (function topla(d) {
+      if (Array.isArray(d)) return d.forEach(topla);
+      if (!d || typeof d !== "object") return;
+      if (turler(d).includes("BreadcrumbList")) listeler.push(d);
+      for (const v of Object.values(d)) if (v && typeof v === "object") topla(v);
+    })(blok);
+  }
+  const nav = html.match(/<nav\b[^>]*\baria-label=["']Konum["'][^>]*>([\s\S]*?)<\/nav>/i);
+  const sorunlar = [];
+  if (!listeler.length) sorunlar.push("kirinti-sema-yok");
+  if (listeler.length > 1) sorunlar.push("kirinti-sema-cift");
+  if (!nav) sorunlar.push("kirinti-gorunur-yok");
+  if (listeler.length === 1 && nav) {
+    const sema = Array.isArray(listeler[0].itemListElement) ? listeler[0].itemListElement.length : 0;
+    const gorunur = (nav[1].match(/<a\b|<span\b[^>]*aria-current=["']page["']/gi) || []).length;
+    if (sema !== gorunur) sorunlar.push("kirinti-basamak-farki");
+  }
+  return sorunlar;
+}
+
 /**
  * FAQPage sorularının sayfada görünür olup olmadığını denetler (G10 adım 5). Google'ın SSS yönergesi: işaretlenen
  * soru-cevap sayfada kullanıcıya görünmelidir. Görünür metin betik, stil ve yorumlar atılarak çıkarılır.
@@ -88,13 +141,7 @@ const bosluk = (s) => s.replace(/\s+/g, " ").trim();
  */
 export function faqGorunurlukDenetle(html) {
   const sorular = [];
-  for (const m of html.matchAll(/<script\b[^>]*type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)) {
-    let veri;
-    try {
-      veri = JSON.parse(m[1]);
-    } catch {
-      continue;
-    }
+  for (const veri of ldBloklari(html)) {
     (function topla(d) {
       if (Array.isArray(d)) return d.forEach(topla);
       if (!d || typeof d !== "object") return;

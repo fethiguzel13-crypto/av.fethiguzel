@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import HesaplamaHub from '@/components/hesaplama/HesaplamaTools';
+import Kirinti from '@/components/Kirinti';
 import { SITE_URL } from '@/lib/profile';
 import { HESAPLAMA_ARACLAR } from '@/lib/hesaplama-meta';
 
@@ -15,5 +16,5 @@ export const metadata: Metadata = {
 };
 
 export default function HesaplamaPage() {
-  return <HesaplamaHub />;
+  return <HesaplamaHub kirinti={<Kirinti ogeler={[{ ad: 'Hesaplama', yol: '/hesaplama' }]} />} />;
 }

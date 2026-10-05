@@ -3,6 +3,7 @@
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 
 const CODE =
     "javascript:(function(){var t=window.getSelection&&String(window.getSelection());if(!t||t.length<2){t=prompt('Mevzuatta aranacak metin:')||'';}if(!t)return;window.open('https://avfethiguzel.com/ara?q='+encodeURIComponent(t.trim()),'_blank','noopener');})();";
@@ -12,6 +13,12 @@ export default function BookmarkletPage() {
         <div className="bg-cream min-h-screen">
             <Navbar />
             <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-xl mx-auto">
+                <Kirinti
+                    ogeler={[
+                        { ad: 'Arama', yol: '/ara' },
+                        { ad: 'Yer imi aracı', yol: '/bookmarklet' },
+                    ]}
+                />
                 <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
                     Araç
                 </p>

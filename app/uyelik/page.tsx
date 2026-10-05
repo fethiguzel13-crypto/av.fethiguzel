@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import UyelikDurum from '@/components/uyelik/UyelikDurum';
 import { priceLabel, UYELIK } from '@/lib/uyelik/config';
 
@@ -19,6 +20,7 @@ export default function UyelikPage() {
       <Navbar />
       <main id="main-content" className="min-h-screen bg-cream pt-36 pb-20 px-5 sm:px-6">
         <div className="max-w-xl mx-auto">
+          <Kirinti ogeler={[{ ad: 'Arşiv üyeliği', yol: '/uyelik' }]} />
           <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">Arşiv üyeliği</p>
           <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal">
             Yargıtay arşivi

@@ -1,5 +1,9 @@
+import type { Metadata } from 'next';
 import Link from "@/components/SiteLink";
 export const dynamic = 'force-static'
+
+// Yayın denetimi için iç sayfa; dizine alınmaz (Aylık plan G12).
+export const metadata: Metadata = { robots: { index: false, follow: false } };
 
 export default function DeployCheckPage() {
     return (

@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import { priceLabel, UYELIK } from '@/lib/uyelik/config';
 import { PROFILE } from '@/lib/profile';
 
@@ -17,6 +18,13 @@ export default function SozlesmePage() {
       <Navbar />
       <main id="main-content" className="min-h-screen bg-cream pt-36 pb-20 px-5 sm:px-6">
         <article className="max-w-3xl mx-auto space-y-5 text-[15px] leading-relaxed text-charcoal/80">
+          <Kirinti
+            ogeler={[
+              { ad: 'Arşiv üyeliği', yol: '/uyelik' },
+              { ad: 'Mesafeli satış sözleşmesi', yol: '/uyelik/sozlesme' },
+            ]}
+            className="text-[11px] text-charcoal/40 flex flex-wrap gap-1.5"
+          />
           <p className="text-accent text-xs font-bold tracking-widest uppercase">Yasal</p>
           <h1 className="text-3xl font-heading font-bold text-charcoal">
             Mesafeli satış sözleşmesi

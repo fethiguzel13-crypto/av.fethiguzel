@@ -4,6 +4,7 @@ import React, { useMemo, useState } from 'react';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import { PROFILE } from '@/lib/profile';
 
 const KONULAR = [
@@ -58,6 +59,7 @@ export default function OnFormPage() {
         <div className="bg-cream min-h-screen">
             <Navbar />
             <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-xl mx-auto">
+                <Kirinti ogeler={[{ ad: 'Ön form', yol: '/on-form' }]} />
                 <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
                     Ön değerlendirme
                 </p>
