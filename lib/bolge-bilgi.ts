@@ -450,7 +450,6 @@ export const BOLGE_BILGILERI: BolgeBilgi[] = [
     ],
     links: [
       { label: 'TMK', href: '/mevzuat/tmk' },
-      { label: 'İYUK', href: '/kategori/idare' },
       { label: 'Bilgi', href: '/bilgi' },
     ],
   },

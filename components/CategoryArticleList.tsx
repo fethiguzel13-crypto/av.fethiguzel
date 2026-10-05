@@ -44,7 +44,7 @@ export default function CategoryArticleList({ articles }: { articles: Article[] 
             ) : (
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                     {filtered.map(({ id, kanunId, title, kanun }) => (
-                        <Link href={`/mevzuat/${kanunId}/${id}`} key={`${kanunId}-${id}`} className="group">
+                        <Link href={`/mevzuat/${kanunId}/${id.toLowerCase()}`} key={`${kanunId}-${id}`} className="group">
                             <div className="h-full p-10 bg-white border border-charcoal/5 rounded-[2.5rem] hover:shadow-2xl transition-all duration-500 flex flex-col justify-between">
                                 <div>
                                     <span className="text-[10px] font-mono font-bold text-accent uppercase tracking-widest mb-4 block">

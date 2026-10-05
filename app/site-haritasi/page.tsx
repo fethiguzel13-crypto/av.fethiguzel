@@ -7,7 +7,7 @@ import { BOLGELER, SITE_URL, PROFILE } from '@/lib/profile';
 import { categories } from '@/lib/categories';
 import { HESAPLAMA_ARACLAR } from '@/lib/hesaplama-meta';
 import { KAVRAMLAR } from '@/lib/kavramlar';
-import { VATANDAS_ARTICLES } from '@/lib/vatandas-rehberi';
+import { PUBLISHED_ARTICLES } from '@/lib/vatandas-rehberi/published';
 
 export const metadata: Metadata = {
     title: 'Site Haritası',
@@ -110,13 +110,13 @@ export default function SiteHaritasiPage() {
 
                 <section className="mb-12">
                     <h2 className="text-lg font-heading font-bold text-charcoal mb-4">
-                        Vatandaş bilgi rehberi ({VATANDAS_ARTICLES.length})
+                        Vatandaş bilgi rehberi ({PUBLISHED_ARTICLES.length})
                     </h2>
                     <p className="text-xs text-charcoal/45 mb-3">
                         Ana sayfada öne çıkarılmaz; Google ve bu harita üzerinden erişilir.
                     </p>
                     <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2 max-h-[36rem] overflow-y-auto pr-2">
-                        {VATANDAS_ARTICLES.map((a) => (
+                        {PUBLISHED_ARTICLES.map((a) => (
                             <li key={a.slug}>
                                 <Link href={`/bilgi/${a.slug}`} className="text-sm text-charcoal/70 hover:text-accent">
                                     {a.h1}
