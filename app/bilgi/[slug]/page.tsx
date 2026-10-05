@@ -4,13 +4,8 @@ import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import VatandasRehberArticle from '@/components/VatandasRehberArticle';
-import {
-  getAllVatandasSlugs,
-  getRelatedArticles,
-  getVatandasBySlug,
-} from '@/lib/vatandas-rehberi';
-import { getPublishedBySlug } from '@/lib/vatandas-rehberi/published';
-import { auditGuide } from '@/lib/content-quality.mjs';
+import { getAllVatandasSlugs, getRelatedArticles } from '@/lib/vatandas-rehberi';
+import { getGuidePageState, getPublishedBySlug } from '@/lib/vatandas-rehberi/published';
 import { sayfaBasligi } from '@/lib/sayfa-basligi';
 
 const SITE = 'https://www.avfethiguzel.com';
@@ -26,15 +21,12 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug: raw } = await params;
   const slug = decodeURIComponent(raw);
-  const published = getPublishedBySlug(slug);
-  const a = published || getVatandasBySlug(slug);
-  if (!a) return { title: 'Rehber bulunamadı' };
+  const quality = getGuidePageState(slug);
+  if (!quality) return { title: 'Rehber bulunamadı' };
+  const a = quality.article;
 
-  // Kalıp metin içeren rehber indekse verilmez; başlık ve açıklama da
-  // olmayan bir içeriği vaat etmemelidir. Anlatı sürümü (Gemini) yayındadır.
-  const quality = published
-    ? { publishable: true as const, reason: undefined }
-    : auditGuide(a);
+  // Yayında olmayan rehber indekse verilmez; başlık ve açıklama da olmayan bir içeriği vaat etmemelidir.
+  // Karar site haritasıyla aynı seçimden gelir (G11): sayfa ayrıca denetim yapmaz.
 
   const canonicalPath = a.canonicalPath || `/bilgi/${encodeURIComponent(a.slug)}`;
   const canonical = canonicalPath.startsWith('http')
@@ -71,13 +63,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function BilgiSlugPage({ params }: Props) {
   const { slug: raw } = await params;
   const slug = decodeURIComponent(raw);
-  const published = getPublishedBySlug(slug);
-  const article = published || getVatandasBySlug(slug);
-  if (!article) notFound();
-
-  const quality = published
-    ? { publishable: true as const, reason: undefined }
-    : auditGuide(article);
+  const quality = getGuidePageState(slug);
+  if (!quality) notFound();
+  const article = quality.article;
   const related = getRelatedArticles(slug, 5).map((r) => getPublishedBySlug(r.slug) || r);
 
   return (

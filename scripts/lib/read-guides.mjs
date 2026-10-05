@@ -3,17 +3,18 @@
  *
  * Üç kaynak, öncelik sırasıyla:
  *
- *   rewritten/*.json  Gemini anlatı. Kalıp iskelet yok.
  *   authored/*.json   elle yazılan, madde göndermesi doğrulanmış metinler.
+ *   rewritten/*.json  Gemini anlatı; yalnız denetimden geçenler.
  *   data.ts           otomatik üretilen 554 rehber; yalnız denetimden geçenler.
  *
- * Aynı slug birden fazla yerde varsa üstteki kazanır. Bu kural
- * lib/vatandas-rehberi/published.ts ile birebir aynıdır.
+ * Aynı slug birden fazla yerde varsa üstteki kazanır. Kural lib/vatandas-rehberi/sec.mjs
+ * içindedir; sayfa (published.ts) aynı işlevi kullanır.
  */
 import { readdirSync, readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 
 import { auditGuide } from '../../lib/content-quality.mjs';
+import { rehberleriSec } from '../../lib/vatandas-rehberi/sec.mjs';
 
 /** Gemini ile yeniden yazılan anlatı rehberleri. */
 export function readRewritten(root) {
@@ -51,7 +52,7 @@ export function readGenerated(root) {
 }
 
 /**
- * Yayınlanabilir rehberler: rewritten > authored > üretilmiş.
+ * Yayınlanabilir rehberler: authored > rewritten > üretilmiş.
  *
  * ─── Kalite kapısı hangi kovaya uygulanır ──────────────────────────────────
  *
@@ -86,20 +87,11 @@ export function readPublished(root) {
     İnsanın yazdığı metin her zaman kazanır; makine sürümü yalnız insan
     yazmadığı yerde devreye girer.
   */
+  // Kural lib/vatandas-rehberi/sec.mjs'te; sayfa (published.ts) aynı işlevi kullanır (G11).
   const authored = readAuthored(root);
-  const authoredSlugs = new Set(authored.map((a) => a.slug));
-
-  const rewrittenHam = readRewritten(root).filter((a) => !authoredSlugs.has(a.slug));
-  const rewritten = rewrittenHam.filter((a) => auditGuide(a).publishable);
-
-  const taken = new Set([...authoredSlugs, ...rewrittenHam.map((a) => a.slug)]);
-  const generated = readGenerated(root).filter((a) => !taken.has(a.slug));
-  const kept = generated.filter((a) => auditGuide(a).publishable);
-
-  return {
-    published: [...authored, ...rewritten, ...kept],
-    authored,
-    rewritten,
-    withdrawn: rewrittenHam.length - rewritten.length + (generated.length - kept.length),
-  };
+  const { published, rewritten, withdrawn } = rehberleriSec(
+    { authored, rewritten: readRewritten(root), generated: readGenerated(root) },
+    (a) => auditGuide(a).publishable
+  );
+  return { published, authored, rewritten, withdrawn };
 }
