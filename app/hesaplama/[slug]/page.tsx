@@ -8,6 +8,9 @@ import { HesaplamaToolBody } from '@/components/hesaplama/HesaplamaTools';
 import ToolShareBar from '@/components/hesaplama/ToolShareBar';
 import { getAracMeta, getAllAracIds, HESAPLAMA_ARACLAR } from '@/lib/hesaplama-meta';
 import { bilgiLinksForArac } from '@/lib/hesaplama-bilgi';
+import { yayindakiBaglantilar } from '@/lib/vatandas-rehberi/published';
+import { sayfaIlgiliIcerik } from '@/lib/ic-baglanti/sayfa';
+import IlgiliIcerik from '@/components/IlgiliIcerik';
 import { getKavramForHesaplama } from '@/lib/kavramlar';
 import ShareableAnswer from '@/components/ShareableAnswer';
 import Kirinti from '@/components/Kirinti';
@@ -56,7 +59,13 @@ export default async function HesaplamaSlugPage({ params }: Props) {
         .map((id) => getAracMeta(id))
         .filter((x): x is NonNullable<typeof x> => Boolean(x));
     const kavram = getKavramForHesaplama(meta.id);
-    const bilgiLinks = bilgiLinksForArac(meta.id);
+    const bilgiLinks = yayindakiBaglantilar(bilgiLinksForArac(meta.id));
+    const ayniMadde = sayfaIlgiliIcerik(`/hesaplama/${meta.id}`, [
+        ...bilgiLinks.map((b) => b.href),
+        ...meta.mevzuat.map((m) => m.href),
+        ...ilgili.map((a) => `/hesaplama/${a.id}`),
+        ...(kavram ? [`/kavram/${kavram.slug}`] : []),
+    ]);
 
     const softwareLd = {
         '@context': 'https://schema.org',
@@ -231,6 +240,8 @@ export default async function HesaplamaSlugPage({ params }: Props) {
                             </ul>
                         </section>
                     )}
+
+                    <IlgiliIcerik ogeler={ayniMadde} className="mt-8" />
 
                     <div className="mt-10 flex flex-wrap gap-3">
                         <Link

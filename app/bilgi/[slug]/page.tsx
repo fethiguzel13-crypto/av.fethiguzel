@@ -8,6 +8,8 @@ import { getAllVatandasSlugs } from '@/lib/vatandas-rehberi';
 import { getGuidePageState, getGuideView, getRelatedPublished } from '@/lib/vatandas-rehberi/published';
 import { sayfaBasligi } from '@/lib/sayfa-basligi';
 import Kirinti from '@/components/Kirinti';
+import IlgiliIcerik from '@/components/IlgiliIcerik';
+import { sayfaIlgiliIcerik } from '@/lib/ic-baglanti/sayfa';
 
 const SITE = 'https://www.avfethiguzel.com';
 
@@ -68,6 +70,12 @@ export default async function BilgiSlugPage({ params }: Props) {
   if (!quality) notFound();
   const article = getGuideView(quality.article);
   const related = getRelatedPublished(slug, 5);
+  const ayniMadde = quality.publishable
+    ? sayfaIlgiliIcerik(`/bilgi/${article.slug}`, [
+        ...related.map((r) => `/bilgi/${r.slug}`),
+        ...article.links.map((l) => l.href),
+      ])
+    : [];
 
   return (
     <div className="bg-cream min-h-screen">
@@ -77,7 +85,10 @@ export default async function BilgiSlugPage({ params }: Props) {
         className="pt-32 sm:pt-40 pb-24 px-5 sm:px-6 max-w-3xl lg:max-w-4xl mx-auto"
       >
         {quality.publishable ? (
-          <VatandasRehberArticle article={article} related={related} />
+          <>
+            <VatandasRehberArticle article={article} related={related} />
+            <IlgiliIcerik ogeler={ayniMadde} />
+          </>
         ) : (
           <WithdrawnGuide
             slug={article.slug}

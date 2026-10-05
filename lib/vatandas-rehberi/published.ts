@@ -82,6 +82,11 @@ export function getGuideView(article: VatandasArticle): VatandasArticle {
   return rehberBaglantilariniSuz(article, ACIK_HEDEFLER);
 }
 
+/** Başka sayfaların rehber ve kategori bağlantıları için aynı süzgeç (ör. hesaplama sayfasının rehber listesi). */
+export function yayindakiBaglantilar<T extends { label: string; href: string }>(links: T[]): T[] {
+  return rehberBaglantilariniSuz({ links }, ACIK_HEDEFLER).links;
+}
+
 export function getPublishedSlugs(): string[] {
   return PUBLISHED_ARTICLES.map((a) => a.slug);
 }

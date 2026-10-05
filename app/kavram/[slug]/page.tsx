@@ -10,6 +10,8 @@ import Kirinti from '@/components/Kirinti';
 import { getKavram, getAllKavramSlugs, KAVRAMLAR } from '@/lib/kavramlar';
 import { SITE_URL } from '@/lib/profile';
 import { yazarRef } from '@/lib/yazar';
+import { sayfaIlgiliIcerik } from '@/lib/ic-baglanti/sayfa';
+import IlgiliIcerik from '@/components/IlgiliIcerik';
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -42,6 +44,12 @@ export default async function KavramSlugPage({ params }: Props) {
     const ilgili = (k.ilgili ?? [])
         .map((s) => getKavram(s))
         .filter((x): x is NonNullable<typeof x> => Boolean(x));
+    const ayniMadde = sayfaIlgiliIcerik(`/kavram/${k.slug}`, [
+        ...k.mevzuat.map((m) => m.href),
+        ...(k.hesaplama ?? []).map((m) => m.href),
+        ...(k.rehber ?? []).map((m) => m.href),
+        ...ilgili.map((i) => `/kavram/${i.slug}`),
+    ]);
 
     const articleLd = {
         '@context': 'https://schema.org',
@@ -162,6 +170,8 @@ export default async function KavramSlugPage({ params }: Props) {
                         </ul>
                     </section>
                 )}
+
+                <IlgiliIcerik ogeler={ayniMadde} />
 
                 <YazarKutusu className="mb-6" />
 

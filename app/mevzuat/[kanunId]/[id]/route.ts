@@ -15,6 +15,8 @@ import { auditCommentary } from '@/lib/content-quality.mjs';
 import { jsonLdHtml } from '@/lib/json-ld';
 import { maddeJsonLd } from '@/lib/madde-ld';
 import { yazarKutusuHtml } from '@/lib/yazar';
+import icBaglantiDizini from '@/lib/ic-baglanti/dizin.json';
+import { maddeIlgiliHtml, maddeyeDeginen } from '@/lib/ic-baglanti/dizin.mjs';
 
 const SITE = 'https://www.avfethiguzel.com';
 
@@ -174,6 +176,8 @@ function buildHtml(
   const h1 = `${code} ${n} — ${code} Madde ${n} (${code} m. ${n})`;
   const canonical = `${SITE}/mevzuat/${kanunId}/${id}`;
   const officialHtml = mdLite(article.official);
+  // Bu maddeye kendi bağlantı listesinde değinen rehber, kavram ve hesaplama (G12); dizin yalnız açık maddeleri taşır.
+  const ilgiliHtml = maddeIlgiliHtml(maddeyeDeginen(`${kanunId}/${id}`, icBaglantiDizini), SITE);
 
   const commentaryHtml = hasCommentary
     ? mdLite(commentary)
@@ -240,6 +244,10 @@ h1{font-size:clamp(1.45rem,3vw,2rem);line-height:1.22;margin:.45rem 0 0;font-wei
 .yazar p{margin:.2rem 0}.yazar ul{margin:.2rem 0;padding-left:1.2rem}
 .yazar-baslik{font-size:.62rem;letter-spacing:.14em;text-transform:uppercase;color:rgba(28,28,28,.45)}
 .yazar p+.yazar-baslik{margin-top:.75rem}
+.ilgili{margin:1.1rem 0;font-size:.9rem}
+.ilgili h2{margin:0 0 .45rem;font-weight:600}
+.ilgili ul{margin:0;padding:0;list-style:none}.ilgili li{margin:.3rem 0}
+.ilgili .tur{display:inline-block;min-width:5.2rem;font-size:.62rem;letter-spacing:.1em;text-transform:uppercase;color:rgba(28,28,28,.45)}
 </style>
 </head>
 <body>
@@ -279,6 +287,7 @@ Arama adları: <strong>${code} ${n}</strong> · <strong>${code} madde ${n}</stro
 <article class="prose">${commentaryHtml}</article>
 </section>
 ${hasCommentary ? yazarKutusuHtml({ kaynaklar: [{ ad: 'Resmî metin — mevzuat.gov.tr', url: 'https://www.mevzuat.gov.tr' }] }) : ''}
+${ilgiliHtml}
 <aside class="muted" style="font-size:.8rem;margin-top:1.4rem">
 Kaynak ve uyarı: Bilgilendirme amaçlıdır; Resmî Gazete / mevzuat.gov.tr esas alınmalıdır.
 ${hasCommentary ? 'Şerh akademik niteliktedir.' : ''} Arama: ${code} madde ${n}, ${code} m. ${n}, Fethi Güzel.
