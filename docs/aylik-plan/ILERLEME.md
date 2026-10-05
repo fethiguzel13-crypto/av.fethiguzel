@@ -205,3 +205,7 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 ## 2026-10-05 11:37 — G12 DEVAM EDİYOR (başladı 11:37, aynı başsız oturum)
 
 - Alt plan `gorevler/G12.md`; adım 1 (kırıntı işlevi ve bileşeni) üzerinde çalışılıyor.
+- 16:00 devralma: 11:37 oturumu adım 1–4, 6 ve adım 3'ün devamını commit'ledi (`6d8f4f98a` … `afae83e1c`), son derlemesi
+  (12:27, `afae83e1c` sonrası) ve iki taraması geçti (915 sayfa, çift marka eki 0, 4.856 JSON-LD bloğu); 12:30'da oturum
+  sınırıyla kesildi (döküm sonu doğrulandı), `G12.md` ilerleme notu commit'siz kaldı. 13:00, 14:00 ve 15:00 oturumları
+  açılır açılmaz `rate_limit` ile bitti. Sürdürülüyor: kalan sayfalar, adım 5 (tarama kuralı), adım 7–8.
