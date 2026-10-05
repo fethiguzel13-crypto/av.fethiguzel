@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import { getActiveUniversities } from '@/lib/ders-notlari';
 import { publishableDersNotlari } from '@/lib/publishable';
 
@@ -35,6 +36,11 @@ export default function DersNotlariHubPage() {
     <div className="bg-cream min-h-screen">
       <Navbar />
       <main className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-4xl mx-auto">
+        <Kirinti
+            ogeler={[
+                { ad: 'Ders notları', yol: '/ders-notlari' },
+            ]}
+        />
         <p className="text-accent font-mono text-[10px] tracking-widest uppercase mb-2">
           Öğrenci arşivi
         </p>

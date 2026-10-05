@@ -4,6 +4,7 @@ import { readFileSync, existsSync, readdirSync } from 'fs';
 import { join } from 'path';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import { SITE_URL } from '@/lib/profile';
 
 export const metadata: Metadata = {
@@ -70,6 +71,12 @@ export default function HaftalikIctihatPage() {
         <div className="bg-cream min-h-screen">
             <Navbar />
             <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-3xl mx-auto">
+                <Kirinti
+                    ogeler={[
+                        { ad: 'İçtihat', yol: '/icthat' },
+                        { ad: 'Haftalık içtihat özeti', yol: '/icthat/haftalik' },
+                    ]}
+                />
                 <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
                     İçtihat
                 </p>

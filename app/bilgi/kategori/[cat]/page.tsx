@@ -4,6 +4,7 @@ import Link from "@/components/SiteLink";
 import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import {
   PUBLISHED_ARTICLES,
   getPublishedCategories,
@@ -63,17 +64,12 @@ export default async function BilgiKategoriPage({ params }: Props) {
       <Navbar />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(ld) }} />
       <main className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-4xl mx-auto">
-        <nav className="text-[11px] text-charcoal/40 mb-5 flex flex-wrap gap-1.5">
-          <Link href="/" className="hover:text-accent">
-            Ana sayfa
-          </Link>
-          <span>/</span>
-          <Link href="/bilgi" className="hover:text-accent">
-            Vatandaş rehberi
-          </Link>
-          <span>/</span>
-          <span className="text-charcoal/60">{cat}</span>
-        </nav>
+        <Kirinti
+          ogeler={[
+            { ad: 'Vatandaş rehberi', yol: '/bilgi' },
+            { ad: cat, yol: `/bilgi/kategori/${encodeURIComponent(cat)}` },
+          ]}
+        />
         <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal mb-3">
           {cat}
         </h1>

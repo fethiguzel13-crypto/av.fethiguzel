@@ -7,6 +7,7 @@ import { McqBlock } from '@/components/ders-notlari/McqBlock';
 import { FlashcardBlock } from '@/components/ders-notlari/FlashcardBlock';
 import { MermaidBlock } from '@/components/ders-notlari/MermaidBlock';
 import YazarKutusu from '@/components/YazarKutusu';
+import Kirinti from '@/components/Kirinti';
 import { yazarRef } from '@/lib/yazar';
 
 const SITE = 'https://www.avfethiguzel.com';
@@ -312,17 +313,14 @@ export function DersNotuView({
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(jsonLd) }} />
 
-      <nav className="text-[11px] text-charcoal/40 mb-5 flex flex-wrap gap-1.5 print:hidden">
-        <Link href="/ders-notlari" className="hover:text-accent">
-          Ders notları
-        </Link>
-        <span>/</span>
-        <Link href={`/ders-notlari/${note.uniSlug}`} className="hover:text-accent">
-          {hub.uni.shortName}
-        </Link>
-        <span>/</span>
-        <span className="text-charcoal/60">{note.courseCode}</span>
-      </nav>
+      <Kirinti
+        ogeler={[
+          { ad: 'Ders notları', yol: '/ders-notlari' },
+          { ad: hub.uni.shortName, yol: `/ders-notlari/${note.uniSlug}` },
+          { ad: note.h1 || note.courseCode, yol: `/ders-notlari/${note.uniSlug}/${note.courseCode}` },
+        ]}
+        className="text-[11px] text-charcoal/40 mb-5 flex flex-wrap gap-1.5 print:hidden"
+      />
 
       {/* Hero band */}
       <div className="mb-8 rounded-3xl border border-charcoal/10 overflow-hidden bg-white shadow-sm">
@@ -1407,13 +1405,13 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(jsonLd) }} />
-      <nav className="text-[11px] text-charcoal/40 mb-5 flex flex-wrap gap-1.5">
-        <Link href="/ders-notlari" className="hover:text-accent">
-          Ders notları
-        </Link>
-        <span>/</span>
-        <span>{hub.uni.shortName}</span>
-      </nav>
+      <Kirinti
+        ogeler={[
+          { ad: 'Ders notları', yol: '/ders-notlari' },
+          { ad: hub.uni.shortName, yol: `/ders-notlari/${hub.uni.slug}` },
+        ]}
+        sonSinif=""
+      />
 
       <div className="mb-8 rounded-3xl bg-gradient-to-br from-charcoal to-[#2a2520] px-6 sm:px-8 py-8 text-cream">
         <p className="text-accent font-mono text-[10px] tracking-[0.2em] uppercase mb-2">

@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import { SITE_URL, PROFILE } from '@/lib/profile';
 
 export const metadata: Metadata = {
@@ -16,6 +17,12 @@ export default function ArabuluculukRehberPage() {
         <div className="bg-cream min-h-screen">
             <Navbar />
             <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-3xl mx-auto">
+                <Kirinti
+                    ogeler={[
+                        { ad: 'Hukuki rehberler', yol: '/rehber' },
+                        { ad: 'Arabuluculuk', yol: '/rehber/arabuluculuk' },
+                    ]}
+                />
                 <p className="text-accent text-xs font-bold tracking-widest uppercase mb-3">Rehber · bilgilendirme</p>
                 <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal mb-6">
                     Arabuluculuk nedir?

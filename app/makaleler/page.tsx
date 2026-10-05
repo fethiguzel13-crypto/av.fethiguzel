@@ -4,6 +4,7 @@ import path from 'path';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import { FileText, Folder, ArrowRight, Download } from 'lucide-react';
 
 export const metadata: Metadata = {
@@ -57,6 +58,11 @@ export default function MakalelerPage() {
       <Navbar />
       
       <main className="pt-40 pb-20 px-6 max-w-7xl mx-auto">
+        <Kirinti
+            ogeler={[
+                { ad: 'Makaleler', yol: '/makaleler' },
+            ]}
+        />
         <header className="mb-20 text-center">
           <h2 className="text-accent font-heading text-sm tracking-widest uppercase mb-4">Akademik Yayınlar</h2>
           <h1 className="text-4xl md:text-6xl text-charcoal font-bold mb-6">

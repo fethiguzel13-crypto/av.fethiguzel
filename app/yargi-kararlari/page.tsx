@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import YargiGate from '@/components/YargiGate';
 import { priceLabel } from '@/lib/uyelik/config';
 import { siteSayilari, tr } from '@/lib/site-stats';
@@ -34,6 +35,11 @@ export default function YargiKararlariPage() {
       <Navbar />
       <main id="main-content" className="min-h-screen bg-cream pt-36 pb-20 px-5 sm:px-6">
         <div className="max-w-5xl mx-auto">
+          <Kirinti
+            ogeler={[
+              { ad: 'Yargıtay karar arşivi', yol: '/yargi-kararlari' },
+            ]}
+          />
           <h1 className="text-3xl sm:text-5xl font-heading font-bold text-charcoal tracking-tight">
             Yargıtay karar arşivi
           </h1>

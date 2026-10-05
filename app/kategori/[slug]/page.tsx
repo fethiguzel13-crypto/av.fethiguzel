@@ -1,12 +1,12 @@
 import type { Metadata } from 'next'
 import { getArticlesByCategory } from '@/lib/api'
 import { getCategoryBySlug, categories } from '@/lib/categories'
-import Link from "@/components/SiteLink";
+import Kirinti from '@/components/Kirinti';
 import { notFound } from 'next/navigation'
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 import CategoryArticleList from '@/components/CategoryArticleList'
-import { ArrowLeft, BookOpen, Scale } from 'lucide-react'
+import { BookOpen, Scale } from 'lucide-react'
 
 export function generateStaticParams() {
   return categories.map((category) => ({ slug: category.slug }))
@@ -43,12 +43,13 @@ export default async function KategoriPage({ params }: { params: Promise<{ slug:
       <Navbar />
 
       <main className="pt-40 pb-20 px-6 max-w-7xl mx-auto">
-        <Link
-          href="/mevzuat"
-          className="group flex items-center gap-2 text-accent font-bold text-xs tracking-widest uppercase mb-12 hover:translate-x-[-4px] transition-transform"
-        >
-          <ArrowLeft size={16} /> TÜM KATEGORİLERE DÖN
-        </Link>
+        <Kirinti
+          ogeler={[
+            { ad: 'Mevzuat', yol: '/mevzuat' },
+            { ad: category.name, yol: `/kategori/${category.slug}` },
+          ]}
+          className="text-[11px] text-charcoal/40 mb-12 flex flex-wrap gap-1.5"
+        />
 
         <header className="mb-20">
           <div className="flex items-center gap-4 text-accent font-mono text-xs tracking-[0.2em] uppercase mb-4">

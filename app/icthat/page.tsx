@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import { loadDaily } from '@/lib/daily-server';
 import { loadAvailableAnalysisIds } from '@/lib/analysis';
 import IcthatList from '@/components/IcthatList';
@@ -20,6 +21,11 @@ export default function IcthatPage() {
       <Navbar />
 
       <main className="pt-40 pb-20 px-6 max-w-7xl mx-auto">
+        <Kirinti
+            ogeler={[
+                { ad: 'İçtihat', yol: '/icthat' },
+            ]}
+        />
         <header className="mb-12 text-center">
           <h2 className="text-accent font-heading text-sm tracking-widest uppercase mb-4">Günlük Takip</h2>
           <h1 className="text-4xl md:text-6xl text-charcoal font-bold mb-6">

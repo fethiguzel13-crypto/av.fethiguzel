@@ -5,6 +5,7 @@ import React from 'react';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import { ShoppingCart, ArrowRight } from 'lucide-react';
 import { yazarRef } from '@/lib/yazar';
 
@@ -40,6 +41,11 @@ export default function EserlerimPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(bookLd) }} />
 
       <main id="main-content" className="pt-40 pb-20 px-6 max-w-7xl mx-auto">
+        <Kirinti
+            ogeler={[
+                { ad: 'Eserlerim', yol: '/eserlerim' },
+            ]}
+        />
         <header className="mb-16 sm:mb-24 text-center">
           <h2 className="text-accent font-heading text-sm tracking-widest uppercase mb-4">Akademik Yayınlar</h2>
           <h1 className="text-4xl md:text-6xl text-charcoal font-bold mb-6">
