@@ -8,6 +8,12 @@ import { categories } from '@/lib/categories';
 import { HESAPLAMA_ARACLAR } from '@/lib/hesaplama-meta';
 import { KAVRAMLAR } from '@/lib/kavramlar';
 import { PUBLISHED_ARTICLES } from '@/lib/vatandas-rehberi/published';
+import { getActiveUniversities } from '@/lib/ders-notlari/universiteler';
+import { hubDizinde } from '@/lib/ders-notlari/dizin.mjs';
+import kanonik from '@/lib/ders-notlari/dizin-kanonik.json';
+
+/** Yalnız dizine açık fakülte sayfaları (G11: temsilci not barındıran); diğerleri noindex. */
+const DIZINDEKI_FAKULTELER = getActiveUniversities().filter((u) => hubDizinde(u.slug, kanonik));
 
 export const metadata: Metadata = {
     title: 'Site Haritası',
@@ -154,24 +160,13 @@ export default function SiteHaritasiPage() {
                                 Tüm hukuk fakülteleri
                             </Link>
                         </li>
-                        <li>
-                            <Link
-                                href="/ders-notlari/ankara-yildirim-beyazit"
-                                className="text-sm text-charcoal/70 hover:text-accent"
-                            >
-                                AYBÜ örnek hub
-                            </Link>
-                        </li>
-                        <li>
-                            <Link href="/ders-notlari/ankara" className="text-sm text-charcoal/70 hover:text-accent">
-                                Ankara Hukuk örnek hub
-                            </Link>
-                        </li>
-                        <li>
-                            <Link href="/ders-notlari/marmara" className="text-sm text-charcoal/70 hover:text-accent">
-                                Marmara örnek hub
-                            </Link>
-                        </li>
+                        {DIZINDEKI_FAKULTELER.map((u) => (
+                            <li key={u.slug}>
+                                <Link href={`/ders-notlari/${u.slug}`} className="text-sm text-charcoal/70 hover:text-accent">
+                                    {u.name}
+                                </Link>
+                            </li>
+                        ))}
                     </ul>
                 </section>
 
