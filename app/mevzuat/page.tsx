@@ -5,6 +5,7 @@ import { categories } from '@/lib/categories';
 import { getArticlesByCategory } from '@/lib/api';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import MevzuatSearch from '@/components/MevzuatSearch';
 import { BookOpen, Search } from 'lucide-react';
 import { siteSayilari, tr, yaklasik } from '@/lib/site-stats';
@@ -51,6 +52,11 @@ export default async function MevzuatPage() {
       <Navbar />
 
       <main className="pt-40 pb-20 px-6 max-w-7xl mx-auto">
+        <Kirinti
+            ogeler={[
+                { ad: 'Mevzuat', yol: '/mevzuat' },
+            ]}
+        />
         <header className="mb-12 sm:mb-16 text-center">
           <h2 className="text-accent font-heading text-sm tracking-widest uppercase mb-4">Kanun maddesi · Mevzuat arama</h2>
           <h1 className="text-4xl md:text-6xl text-charcoal font-bold mb-6">

@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import { BOLGELER, SITE_URL, PROFILE } from '@/lib/profile';
 import { categories } from '@/lib/categories';
 import { HESAPLAMA_ARACLAR } from '@/lib/hesaplama-meta';
@@ -51,6 +52,11 @@ export default function SiteHaritasiPage() {
         <div className="bg-cream min-h-screen">
             <Navbar />
             <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-5xl mx-auto">
+                <Kirinti
+                    ogeler={[
+                        { ad: 'Site haritası', yol: '/site-haritasi' },
+                    ]}
+                />
                 <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal mb-3">Site haritası</h1>
                 <p className="text-charcoal/55 text-sm mb-10 max-w-2xl">
                     {PROFILE.name} Hukuk Portalı — kullanıcı dostu HTML harita. Makine okunur XML:{' '}

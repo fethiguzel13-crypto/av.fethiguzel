@@ -4,6 +4,7 @@ import Image from 'next/image'
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
+import Kirinti from '@/components/Kirinti';
 import CredentialsStrip from '@/components/CredentialsStrip'
 import { Scale, MapPin, BookOpen, Gavel, Mail, GraduationCap, Globe2, ExternalLink } from 'lucide-react'
 import { PROFILE, BOLGELER, SITE_URL, CREDENTIAL_BULLETS, SOCIAL_SAME_AS } from '@/lib/profile'
@@ -115,6 +116,11 @@ export default function AvukatFethiGuzelPage() {
             <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(imageLd) }} />
 
             <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-6xl mx-auto">
+                <Kirinti
+                    ogeler={[
+                        { ad: 'Av. Fethi Güzel', yol: '/avukat-fethi-guzel' },
+                    ]}
+                />
                 <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-14 items-start">
                     <figure className="lg:col-span-5">
                         <div className="relative aspect-square rounded-[2rem] overflow-hidden border border-charcoal/10 shadow-lift bg-charcoal/5">

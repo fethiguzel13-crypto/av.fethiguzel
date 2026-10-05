@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 
 export const metadata: Metadata = {
     title: 'Yasal Uyarı',
@@ -16,6 +17,11 @@ export default function YasalUyariPage() {
         <div className="bg-cream min-h-screen">
             <Navbar />
             <main id="main-content" className="pt-36 pb-20 px-5 sm:px-6 max-w-3xl mx-auto text-charcoal">
+                <Kirinti
+                    ogeler={[
+                        { ad: 'Yasal uyarı', yol: '/yasal-uyari' },
+                    ]}
+                />
                 <p className="text-accent text-xs font-bold tracking-widest uppercase mb-3">Yasal</p>
                 <h1 className="text-3xl sm:text-4xl font-heading font-bold mb-8">Yasal Uyarı</h1>
 

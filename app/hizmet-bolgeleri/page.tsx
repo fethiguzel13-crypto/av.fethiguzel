@@ -3,6 +3,7 @@ import type { Metadata } from 'next';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import { BOLGELER, SITE_URL } from '@/lib/profile';
 import { BookOpen, MapPin } from 'lucide-react';
 
@@ -46,6 +47,11 @@ export default function HizmetBolgeleriPage() {
             <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(itemList) }} />
 
             <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-5xl mx-auto">
+                <Kirinti
+                    ogeler={[
+                        { ad: 'Bölgesel bilgilendirme', yol: '/hizmet-bolgeleri' },
+                    ]}
+                />
                 <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
                     Bilgilendirme dizini
                 </p>

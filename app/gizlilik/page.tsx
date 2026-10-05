@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
+import Kirinti from '@/components/Kirinti';
 
 export const metadata: Metadata = {
     title: 'Gizlilik Politikası',
@@ -15,6 +16,11 @@ export default function GizlilikPage() {
         <div className="bg-cream min-h-screen">
             <Navbar />
             <main className="pt-36 pb-20 px-5 sm:px-6 max-w-3xl mx-auto text-charcoal">
+                <Kirinti
+                    ogeler={[
+                        { ad: 'Gizlilik', yol: '/gizlilik' },
+                    ]}
+                />
                 <p className="text-accent text-xs font-bold tracking-widest uppercase mb-3">
                     Yasal
                 </p>

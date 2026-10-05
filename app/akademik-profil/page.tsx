@@ -4,6 +4,7 @@ import Link from "@/components/SiteLink";
 import Image from 'next/image';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import { PROFILE, SITE_URL, CREDENTIAL_BULLETS, SOCIAL_SAME_AS } from '@/lib/profile';
 import { BookOpen, GraduationCap, Globe2, ExternalLink } from 'lucide-react';
 import { yazarRef } from '@/lib/yazar';
@@ -57,6 +58,11 @@ export default function AkademikProfilPage() {
             <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(bookLd) }} />
 
             <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-4xl mx-auto">
+                <Kirinti
+                    ogeler={[
+                        { ad: 'Akademik profil', yol: '/akademik-profil' },
+                    ]}
+                />
                 <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
                     Akademik & mesleki bilgilendirme
                 </p>

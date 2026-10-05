@@ -4,6 +4,7 @@ import Image from 'next/image';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import { BOLGE_MAKALELER } from '@/lib/bolge-makaleler';
 import { SITE_URL } from '@/lib/profile';
 import { BookOpen, MapPin } from 'lucide-react';
@@ -51,6 +52,11 @@ export default function BolgeYaziHubPage() {
       <Navbar />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(itemList) }} />
       <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-4xl mx-auto">
+        <Kirinti
+            ogeler={[
+                { ad: 'Bölge yazıları', yol: '/bolge-yazi' },
+            ]}
+        />
         <p className="text-accent font-mono text-[10px] tracking-[0.2em] uppercase mb-3">
           Deneme dizisi · fotoğraflı
         </p>

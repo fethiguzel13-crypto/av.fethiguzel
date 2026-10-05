@@ -3,6 +3,7 @@ import type { Metadata } from 'next';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import { PROFILE, SITE_URL } from '@/lib/profile';
 import { BookOpen, ExternalLink, Scale } from 'lucide-react';
 import { yazarRef } from '@/lib/yazar';
@@ -35,6 +36,11 @@ export default function EDurusmaHubPage() {
             <Navbar />
             <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(bookLd) }} />
             <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-3xl mx-auto">
+                <Kirinti
+                    ogeler={[
+                        { ad: 'e-Duruşma', yol: '/e-durusma' },
+                    ]}
+                />
                 <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
                     Akademik hub
                 </p>

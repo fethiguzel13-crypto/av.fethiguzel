@@ -3,6 +3,7 @@ import { Suspense } from 'react';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import Kirinti from '@/components/Kirinti';
 import MevzuatSearch from '@/components/MevzuatSearch';
 import AraExactRedirect from '@/components/AraExactRedirect';
 import { siteSayilari, tr, yaklasik } from '@/lib/site-stats';
@@ -48,6 +49,11 @@ export default function AraPage() {
     <div className="bg-cream min-h-screen font-sans">
       <Navbar />
       <main className="pt-36 sm:pt-40 pb-20 px-5 sm:px-6 max-w-4xl mx-auto">
+        <Kirinti
+            ogeler={[
+                { ad: 'Arama', yol: '/ara' },
+            ]}
+        />
         <header className="mb-10 sm:mb-14 text-center">
           <p className="section-label mb-3">Kanun maddesi arama motoru</p>
           <h1 className="text-3xl sm:text-5xl text-charcoal font-bold mb-4 text-balance">
