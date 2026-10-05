@@ -3,6 +3,7 @@ import { lawCategories } from '@/lib/laws';
 import { publishableMevzuat, publishableRehber } from '@/lib/publishable';
 import fs from 'fs';
 import path from 'path';
+import { maddeYolu } from '@/lib/madde-yolu';
 
 const baseUrl = 'https://www.avfethiguzel.com';
 
@@ -173,7 +174,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     const isCore = CORE_KANUN.has(article.kanunId);
     const head = isCore && article.maddeNo <= 100;
     return {
-      url: `${baseUrl}/mevzuat/${article.kanunId}/${article.id}`,
+      url: `${baseUrl}${maddeYolu(article.kanunId, article.id)}`,
       lastModified: new Date(),
       changeFrequency: (isCore ? 'weekly' : 'monthly') as 'weekly' | 'monthly',
       priority: head ? 0.93 : isCore ? 0.88 : 0.78,

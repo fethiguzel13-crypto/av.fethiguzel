@@ -7,6 +7,7 @@ import Kirinti from '@/components/Kirinti';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import { yazarRef } from '@/lib/yazar';
+import { maddeYolu } from '@/lib/madde-yolu';
 
 // Map new sub-category slugs to old category slugs for data lookup
 function getOldSlug(parentSlug: string, subSlug: string): string | null {
@@ -137,7 +138,7 @@ export default async function SubCategoryPage({ params }: { params: Promise<{ ca
               {articles.map((article) => (
                 <Link
                   key={`${article.kanunId}-${article.id}`}
-                  href={`/mevzuat/${article.kanunId || sub.kanunId}/${article.id}`}
+                  href={maddeYolu(article.kanunId || sub.kanunId, article.id)}
                   className="group block bg-white/[0.03] hover:bg-white/[0.07] border border-white/10 hover:border-accent/30 rounded-2xl px-6 py-5 transition-all duration-300"
                 >
                   <div className="flex items-center justify-between">

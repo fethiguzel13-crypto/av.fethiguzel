@@ -6,6 +6,7 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import Kirinti from '@/components/Kirinti';
 import { getAllKanunDirs, getArticlesByKanun, SITE_ORIGIN } from '@/lib/api';
+import { maddeYolu } from '@/lib/madde-yolu';
 import { categories } from '@/lib/categories';
 
 type Props = { params: Promise<{ kanunId: string }> };
@@ -160,7 +161,7 @@ export default async function KanunHubPage({ params }: Props) {
               {popular.map((a) => (
                 <li key={a.id}>
                   <Link
-                    href={`/mevzuat/${kanunId}/${a.id.toLowerCase()}`}
+                    href={maddeYolu(kanunId, a.id)}
                     className="block text-sm px-3 py-2 rounded-xl bg-white border border-charcoal/[0.08] hover:border-accent font-semibold text-charcoal"
                   >
                     {code} {a.maddeNo}
@@ -179,7 +180,7 @@ export default async function KanunHubPage({ params }: Props) {
             {articles.map((a) => (
               <li key={a.id}>
                 <Link
-                  href={`/mevzuat/${kanunId}/${a.id.toLowerCase()}`}
+                  href={maddeYolu(kanunId, a.id)}
                   className="flex gap-3 items-baseline px-3 py-2.5 rounded-xl hover:bg-white border border-transparent hover:border-charcoal/[0.08] transition-colors"
                 >
                   <span className="shrink-0 font-mono text-xs font-bold text-accent w-16">

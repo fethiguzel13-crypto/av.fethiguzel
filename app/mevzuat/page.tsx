@@ -9,6 +9,7 @@ import Kirinti from '@/components/Kirinti';
 import MevzuatSearch from '@/components/MevzuatSearch';
 import { BookOpen, Search } from 'lucide-react';
 import { siteSayilari, tr, yaklasik } from '@/lib/site-stats';
+import { maddeYolu } from '@/lib/madde-yolu';
 
 /* Külliyat sayıları tek kaynaktan; SEO metni gövdeyle aynı rakamı söylesin. */
 const N = siteSayilari();
@@ -151,7 +152,7 @@ export default async function MevzuatPage() {
                   <div className="mt-4 max-h-48 overflow-y-auto space-y-2 pr-2 scrollbar-thin">
                     {articles.slice(0, 20).map(article => (
                       <Link
-                        href={`/mevzuat/${article.kanunId}/${article.id}`}
+                        href={maddeYolu(article.kanunId, article.id)}
                         key={article.id}
                         className="block text-xs text-charcoal/70 hover:text-accent border-b border-charcoal/5 pb-2 transition-colors"
                       >
