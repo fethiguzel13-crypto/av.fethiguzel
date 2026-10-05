@@ -209,3 +209,7 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   (12:27, `afae83e1c` sonrası) ve iki taraması geçti (915 sayfa, çift marka eki 0, 4.856 JSON-LD bloğu); 12:30'da oturum
   sınırıyla kesildi (döküm sonu doğrulandı), `G12.md` ilerleme notu commit'siz kaldı. 13:00, 14:00 ve 15:00 oturumları
   açılır açılmaz `rate_limit` ile bitti. Sürdürülüyor: kalan sayfalar, adım 5 (tarama kuralı), adım 7–8.
+- 21:00 devralma: 16:00 oturumu adım 3 kalanı + adım 5, 6 devamı, 7, 8 ve bağlantı düzeltmelerini commit'ledi
+  (`538757742` … `f798703a0`); arka planda başlattığı tam `npm run kalite` 16:46'da oturum sınırıyla süreç öldürülünce
+  her adımda 0 sn KIRIK kaldı (gerçek hata değil). 17:00–20:00 oturumları `rate_limit` ile açılır açılmaz bitti. Sürdürülüyor:
+  adım 9 (tam kalite, derleme taraması, `next start` örnekleri, rapor).
