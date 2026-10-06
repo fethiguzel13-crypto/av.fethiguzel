@@ -27,7 +27,7 @@ export const ADIMLAR = [
   { ad: "test:mobil", komut: "npm test --prefix mobile --silent" },
   { ad: "derleme", komut: "npm run -s build", tam: true },
   // Örneklemli SEO taramasının göremediği sınıflar: tüm derlenmiş sayfalarda çift marka eki ve JSON-LD alanları (G10).
-  { ad: "derleme-tarama", komut: "node scripts/derleme-baslik-tara.mjs && node scripts/derleme-jsonld-tara.mjs", tam: true },
+  { ad: "derleme-tarama", komut: "node scripts/derleme-baslik-tara.mjs && node scripts/derleme-jsonld-tara.mjs && node scripts/derleme-butce-tara.mjs", tam: true },
 ];
 
 /** node --test çıktısından geçen/kalan sayısını çıkarır (yoksa null). */
