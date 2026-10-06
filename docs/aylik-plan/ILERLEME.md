@@ -293,3 +293,10 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Sunucular (3123, 3124) kapatıldı, `.next-once` silindi, `tsconfig.json` geri alındı. `kalite:hizli` 732 test yeşil. TestSprite: değişiklik
   yayında değil (30 Ekim), doğrulanmadı. OTONOM.md'ye kesme işareti tuzağı eklendi.
 - Sıradaki: yargı arşivi gerilemesini ikiye bölme (yazı tipi / Footer haritası / alt menü ön getirmesi; adımlar G13.md sonunda). G13 DEVAM EDİYOR.
+- 17:00 ikiye bölme (a) başladı: `app/layout.tsx`'te süs ailesinin `preload: false` satırı geçici olarak kaldırıldı, ara derleme
+  `.next-ara`. Kesilirse: `git checkout HEAD -- app/layout.tsx tsconfig.json`, `.next-ara` silinir, 3123/3124 süreçleri durdurulur.
+- 17:20 (a) sonucu: süs yazı tipi önden yüklendiğinde yargı arşivinin ana iş parçacığı süresi değişmedi (6.250 ↔ 5.838 ms, aralıklar
+  örtüşüyor), bu aday elendi (`lighthouse-g13-bolme-a.json`). Kaynak HEAD'e döndü, `.next-ara` silindi, sunucular kapatıldı.
+- Sıradaki: ikiye bölme (d) Source Serif 4 Google Fonts stil dosyasını geri ekleyen ara derleme (`f65bae38e` ile kaldırıldı;
+  aile yalnız kullanılmayan `.madde-prose` sınıfındaydı), sonra (b) Footer haritası, (c) alt menü ön getirmesi.
+  Her aday ~20 dk sürer (derleme 12 dk, 3+3 ölçüm 7 dk). G13 DEVAM EDİYOR.

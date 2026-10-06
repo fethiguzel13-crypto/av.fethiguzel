@@ -1,0 +1,149 @@
+{
+  "tarih": "2026-10-06T14:20:50.079Z",
+  "taban": "http://localhost:3123",
+  "karsi": "http://localhost:3124",
+  "tekrar": 3,
+  "ortalama": {
+    "performance": 76,
+    "accessibility": 94,
+    "best-practices": 100,
+    "seo": 100
+  },
+  "sayfalar": [
+    {
+      "tur": "mevzuat madde",
+      "yol": "/mevzuat/tck/madde-81",
+      "puan": {
+        "performance": 98,
+        "accessibility": 92,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 1127,
+      "fcpMs": 896,
+      "tbtMs": 160,
+      "cls": 0,
+      "siMs": 1052,
+      "anaIsMs": 790,
+      "aktarimKb": 43,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "heading-order"
+      ],
+      "tbtAralik": [
+        0,
+        219
+      ],
+      "anaIsAralik": [
+        714,
+        1063
+      ],
+      "kosu": 3,
+      "karsi": {
+        "tur": "mevzuat madde",
+        "yol": "/mevzuat/tck/madde-81",
+        "puan": {
+          "performance": 100,
+          "accessibility": 92,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "lcpMs": 1126,
+        "fcpMs": 1078,
+        "tbtMs": 0,
+        "cls": 0,
+        "siMs": 1236,
+        "anaIsMs": 754,
+        "aktarimKb": 43,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast",
+          "heading-order"
+        ],
+        "tbtAralik": [
+          0,
+          387
+        ],
+        "anaIsAralik": [
+          728,
+          1441
+        ],
+        "kosu": 3
+      },
+      "gerileme": {
+        "tbtMs": false,
+        "lcpMs": false,
+        "anaIsMs": false
+      }
+    },
+    {
+      "tur": "yargı arşivi",
+      "yol": "/yargi-kararlari",
+      "puan": {
+        "performance": 53,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 5187,
+      "fcpMs": 1351,
+      "tbtMs": 1494,
+      "cls": 0.011,
+      "siMs": 3490,
+      "anaIsMs": 5838,
+      "aktarimKb": 628,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast"
+      ],
+      "tbtAralik": [
+        1013,
+        1922
+      ],
+      "anaIsAralik": [
+        4945,
+        6822
+      ],
+      "kosu": 3,
+      "karsi": {
+        "tur": "yargı arşivi",
+        "yol": "/yargi-kararlari",
+        "puan": {
+          "performance": 49,
+          "accessibility": 96,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "lcpMs": 5797,
+        "fcpMs": 1019,
+        "tbtMs": 1874,
+        "cls": 0.011,
+        "siMs": 4032,
+        "anaIsMs": 6250,
+        "aktarimKb": 736,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast"
+        ],
+        "tbtAralik": [
+          1159,
+          2147
+        ],
+        "anaIsAralik": [
+          4333,
+          6667
+        ],
+        "kosu": 3,
+        "kosuHatalari": [
+          "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)"
+        ]
+      },
+      "gerileme": {
+        "tbtMs": false,
+        "lcpMs": false,
+        "anaIsMs": false
+      }
+    }
+  ]
+}
