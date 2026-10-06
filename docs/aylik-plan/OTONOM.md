@@ -64,6 +64,9 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
 - **Derleme sürerken büyük klasörü listeleme** (2026-10-05: `lib/ders-notlari/generated/notes`, 11.623 dosya): `next build`
   aynı dosyaları okurken `ls`/`grep` 3 dakikayı aşıp arka plana düştü. Örnek adres ve sayımı küçük dizin dosyalarından
   al (`generated/hubs.json`, `dizin-kanonik.json`) ya da derleme bitince tara.
+- **Düşük boş bellekte derleme yavaşlar** (2026-10-06 18:50: 777 MB boş bellek, işlemci %1; 88 sayfa "took more than 60 seconds"
+  ile yeniden denendi, derleme 12 yerine 26 dk sürdü ama geçti). Yeniden deneme iletisi hata değildir, derleme iptal edilmez.
+  Derlemeden önce boş belleği denetle (`Win32_OperatingSystem.FreePhysicalMemory`) ve kendi `next start` sunucularını kapat.
 - **Sahte KIRIK kalite günlüğü** (2026-10-05 16:46: arka planda başlatılan `npm run kalite`, oturum sınırıyla süreç ağacı
   öldürülünce tip adımından sonraki her adımı "KIRIK 0 sn" ve "toplam 0 test" diye yazdı). Devralmada her adım 0 sn ise
   kırmızı test aranmaz, kapı yeniden çalıştırılır. Tam kapıyı oturumun sonuna bırakma; ~15 dk sürer. 21:33'te aynısı

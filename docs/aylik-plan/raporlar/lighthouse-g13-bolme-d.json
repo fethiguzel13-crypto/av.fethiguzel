@@ -1,0 +1,225 @@
+{
+  "tarih": "2026-10-06T15:35:29.036Z",
+  "taban": "http://localhost:3123",
+  "karsi": "http://localhost:3124",
+  "tekrar": 3,
+  "ortalama": {
+    "performance": 62,
+    "accessibility": 94,
+    "best-practices": 100,
+    "seo": 89
+  },
+  "sayfalar": [
+    {
+      "tur": "mevzuat madde",
+      "yol": "/mevzuat/tck/madde-81",
+      "puan": {
+        "performance": 90,
+        "accessibility": 92,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 1143,
+      "fcpMs": 943,
+      "tbtMs": 411,
+      "cls": 0,
+      "siMs": 1393,
+      "anaIsMs": 1541,
+      "aktarimKb": 43,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "heading-order"
+      ],
+      "tbtAralik": [
+        355,
+        438
+      ],
+      "anaIsAralik": [
+        1383,
+        1596
+      ],
+      "kosu": 3,
+      "karsi": {
+        "tur": "mevzuat madde",
+        "yol": "/mevzuat/tck/madde-81",
+        "puan": {
+          "performance": 93,
+          "accessibility": 92,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "lcpMs": 1133,
+        "fcpMs": 881,
+        "tbtMs": 334,
+        "cls": 0,
+        "siMs": 1217,
+        "anaIsMs": 1225,
+        "aktarimKb": 43,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast",
+          "heading-order"
+        ],
+        "tbtAralik": [
+          216,
+          335
+        ],
+        "anaIsAralik": [
+          1060,
+          1344
+        ],
+        "kosu": 3,
+        "kosuHatalari": [
+          "lighthouse çıktısı yok"
+        ]
+      },
+      "gerileme": {
+        "tbtMs": true,
+        "lcpMs": false,
+        "anaIsMs": true
+      }
+    },
+    {
+      "tur": "ders notu",
+      "yol": "/ders-notlari/afyon/borclar-genel-donem-1",
+      "puan": {
+        "performance": 42,
+        "accessibility": 94,
+        "best-practices": 100,
+        "seo": 66
+      },
+      "lcpMs": 7336,
+      "fcpMs": 2195,
+      "tbtMs": 2878,
+      "cls": 0,
+      "siMs": 5182,
+      "anaIsMs": 8873,
+      "aktarimKb": 859,
+      "seoBasarisiz": [
+        "is-crawlable"
+      ],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "skip-link"
+      ],
+      "tbtAralik": [
+        2792,
+        4333
+      ],
+      "anaIsAralik": [
+        8583,
+        12439
+      ],
+      "kosu": 3,
+      "karsi": {
+        "tur": "ders notu",
+        "yol": "/ders-notlari/afyon/borclar-genel-donem-1",
+        "puan": {
+          "performance": 41,
+          "accessibility": 94,
+          "best-practices": 100,
+          "seo": 66
+        },
+        "lcpMs": 7714,
+        "fcpMs": 2119,
+        "tbtMs": 2909,
+        "cls": 0,
+        "siMs": 4887,
+        "anaIsMs": 9248,
+        "aktarimKb": 861,
+        "seoBasarisiz": [
+          "is-crawlable"
+        ],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast",
+          "skip-link"
+        ],
+        "tbtAralik": [
+          2836,
+          4223
+        ],
+        "anaIsAralik": [
+          9004,
+          11120
+        ],
+        "kosu": 3,
+        "kosuHatalari": [
+          "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)",
+          "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)",
+          "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)"
+        ]
+      },
+      "gerileme": {
+        "tbtMs": false,
+        "lcpMs": false,
+        "anaIsMs": false
+      }
+    },
+    {
+      "tur": "yargı arşivi",
+      "yol": "/yargi-kararlari",
+      "puan": {
+        "performance": 53,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 4873,
+      "fcpMs": 1326,
+      "tbtMs": 1589,
+      "cls": 0.011,
+      "siMs": 3447,
+      "anaIsMs": 5572,
+      "aktarimKb": 628,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast"
+      ],
+      "tbtAralik": [
+        1057,
+        1934
+      ],
+      "anaIsAralik": [
+        4712,
+        6351
+      ],
+      "kosu": 3,
+      "karsi": {
+        "tur": "yargı arşivi",
+        "yol": "/yargi-kararlari",
+        "puan": {
+          "performance": 62,
+          "accessibility": 96,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "lcpMs": 4759,
+        "fcpMs": 1787,
+        "tbtMs": 777,
+        "cls": 0,
+        "siMs": 3849,
+        "anaIsMs": 4661,
+        "aktarimKb": 630,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast"
+        ],
+        "tbtAralik": [
+          600,
+          858
+        ],
+        "anaIsAralik": [
+          4323,
+          5239
+        ],
+        "kosu": 3
+      },
+      "gerileme": {
+        "tbtMs": true,
+        "lcpMs": false,
+        "anaIsMs": false
+      }
+    }
+  ]
+}

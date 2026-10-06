@@ -189,6 +189,9 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     olmadan üretilmiş (`j,h,c` alanları yok; commit'li sahne kopyası 30.077 kararla zengin). Arayüz derlemesinde
     `smoke-ui` iki adımda kırmızı: arşivde konu başlığı yok, arama tuş başına ~430 ms. Tam mobil derleme
     (`build-icthat-data` → `build-yargi-index` sırası) ile yeniden üret ve duman testini yeşile çek.
+  - G13 notu: `/yargi-kararlari` mobil TBT'si yaklaşık 1,5 sn. Google Fonts stil dosyası kalkıp ilk boyama öne gelince
+    hidrasyon TBT penceresine girdi ve ek stil/yerleşim geçişleri doğdu (gerekçeli kabul, `gorevler/G13.md`). Sayfa
+    yeniden düzenlenirken React çatı parçasındaki uzun görevler ve yazı tipi değişiminin yerleşim maliyeti profillenir.
   - Kabul: süzme testi; yayına girecek karar sayısı raporda.
   - G12 notu: ana sayfadaki karar önizlemesi (`components/YargiPreview.tsx`) noindex üyelik sayfasına
     (`/yargi-kararlari/[id]`) bağlanıyor; madde ↔ karar ilgili içerik bağlantısı (yalnız `yararli`) yayındaki karar

@@ -300,3 +300,24 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Sıradaki: ikiye bölme (d) Source Serif 4 Google Fonts stil dosyasını geri ekleyen ara derleme (`f65bae38e` ile kaldırıldı;
   aile yalnız kullanılmayan `.madde-prose` sınıfındaydı), sonra (b) Footer haritası, (c) alt menü ön getirmesi.
   Her aday ~20 dk sürer (derleme 12 dk, 3+3 ölçüm 7 dk). G13 DEVAM EDİYOR.
+
+## 2026-10-06 18:00 — G13 DEVAM EDİYOR (başsız oturum, başladı 18:00)
+
+- 18:03 ikiye bölme (d) başladı: `app/layout.tsx`'e Source Serif 4 stil dosyası ve iki `preconnect` satırı geçici olarak geri
+  eklendi, ara derleme `.next-ara`. Kesilirse: `git checkout HEAD -- app/layout.tsx tsconfig.json`, `.next-ara` silinir,
+  3123/3124 süreçleri durdurulur.
+- 18:19 ara derleme kuruldu, `app/layout.tsx` ve `tsconfig.json` HEAD'e döndü. 3123 sonra (`.next`, 11:47), 3124 ara (`.next-ara`,
+  HTML'de Source Serif 4 bağlantısı doğrulandı). Dönüşümlü ölçüm başladı (`lighthouse-g13-bolme-d.json`).
+- 18:35 (d) sonucu: stil dosyası geri gelince yargı arşivinde TBT 1.589 → 777 ms indi ve aralıklar ayrıştı, ders notunda fark yok.
+  Ayrıntı G13.md sonunda. 3124 kapatıldı, `.next-ara` silindi.
+- 18:37 (b)+(c) birlikte başladı: `components/Footer.tsx` ve `components/MobileBottomNav.tsx` geçici olarak `d077adb85` sürümünde
+  (dizine de eklendi), ara derleme `.next-ara`. Kesilirse: `git checkout HEAD -- components/Footer.tsx components/MobileBottomNav.tsx
+  tsconfig.json`, `.next-ara` silinir, 3123/3124 süreçleri durdurulur.
+- 19:09 (b)+(c) sonucu: harita iframe'i ve alt menü ön getirmesi geri gelince yargı arşivinde fark çıkmadı, aralıklar örtüşüyor
+  (`lighthouse-g13-bolme-bc.json`). Derleme düşük boş bellekte 26 dk sürdü (OTONOM.md'ye tuzak olarak eklendi).
+- Karar: kök neden Google Fonts stil dosyasının kaldırılmasıdır (`f65bae38e`). İlk boyama öne geldiği için TBT penceresi genişledi.
+  Değişiklik korundu ve gerekçeli kabul yazıldı (G13.md). Kullanıcıya soru 18 eklendi, PLAN.md G14'e profil notu düşüldü.
+- Kaynaklar ve `tsconfig.json` HEAD'e döndü, `.next-ara` silindi, iki sunucu kapatıldı. `kalite:hizli` 732 test yeşil.
+  Bu oturumda yalnız belgeler ve ölçüm kayıtları değişti. TestSprite: değişiklik yayında değil (30 Ekim), doğrulanmadı.
+- Sıradaki: G13 kapanışı. Kalan sekiz sayfa önce derlemesiyle (`.next-once`, `d077adb85` kaynakları) dönüşümlü ölçülür, tablo
+  PLAN.md'ye yazılır, tam `npm run kalite` çalıştırılır. G13 DEVAM EDİYOR.

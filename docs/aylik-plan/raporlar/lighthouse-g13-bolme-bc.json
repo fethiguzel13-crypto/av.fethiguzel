@@ -1,0 +1,146 @@
+{
+  "tarih": "2026-10-06T16:09:50.350Z",
+  "taban": "http://localhost:3123",
+  "karsi": "http://localhost:3124",
+  "tekrar": 3,
+  "ortalama": {
+    "performance": 77,
+    "accessibility": 94,
+    "best-practices": 100,
+    "seo": 100
+  },
+  "sayfalar": [
+    {
+      "tur": "mevzuat madde",
+      "yol": "/mevzuat/tck/madde-81",
+      "puan": {
+        "performance": 98,
+        "accessibility": 92,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 1039,
+      "fcpMs": 871,
+      "tbtMs": 150,
+      "cls": 0,
+      "siMs": 1040,
+      "anaIsMs": 876,
+      "aktarimKb": 43,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "heading-order"
+      ],
+      "tbtAralik": [
+        125,
+        155
+      ],
+      "anaIsAralik": [
+        673,
+        978
+      ],
+      "kosu": 3,
+      "karsi": {
+        "tur": "mevzuat madde",
+        "yol": "/mevzuat/tck/madde-81",
+        "puan": {
+          "performance": 95,
+          "accessibility": 92,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "lcpMs": 1042,
+        "fcpMs": 889,
+        "tbtMs": 263,
+        "cls": 0,
+        "siMs": 1035,
+        "anaIsMs": 929,
+        "aktarimKb": 43,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast",
+          "heading-order"
+        ],
+        "tbtAralik": [
+          101,
+          318
+        ],
+        "anaIsAralik": [
+          730,
+          971
+        ],
+        "kosu": 3
+      },
+      "gerileme": {
+        "tbtMs": false,
+        "lcpMs": false,
+        "anaIsMs": false
+      }
+    },
+    {
+      "tur": "yargı arşivi",
+      "yol": "/yargi-kararlari",
+      "puan": {
+        "performance": 55,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 4600,
+      "fcpMs": 1293,
+      "tbtMs": 1810,
+      "cls": 0.011,
+      "siMs": 3611,
+      "anaIsMs": 5573,
+      "aktarimKb": 628,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast"
+      ],
+      "tbtAralik": [
+        857,
+        5068
+      ],
+      "anaIsAralik": [
+        3765,
+        11802
+      ],
+      "kosu": 3,
+      "karsi": {
+        "tur": "yargı arşivi",
+        "yol": "/yargi-kararlari",
+        "puan": {
+          "performance": 57,
+          "accessibility": 96,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "lcpMs": 4412,
+        "fcpMs": 1281,
+        "tbtMs": 1467,
+        "cls": 0.011,
+        "siMs": 3158,
+        "anaIsMs": 5946,
+        "aktarimKb": 1149,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast"
+        ],
+        "tbtAralik": [
+          521,
+          1970
+        ],
+        "anaIsAralik": [
+          3427,
+          6190
+        ],
+        "kosu": 3
+      },
+      "gerileme": {
+        "tbtMs": false,
+        "lcpMs": false,
+        "anaIsMs": false
+      }
+    }
+  ]
+}

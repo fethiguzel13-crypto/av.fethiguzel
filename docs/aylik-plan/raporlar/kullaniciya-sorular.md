@@ -93,3 +93,9 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     notlara siteden ulaşamaz. Google'ın noindex, follow sayfaya iç bağlantıyı cezalandırdığına ilişkin bir kural yoktur;
     yalnız tarama bütçesi bu sayfalara da harcanır. Listeler böyle kalabilir mi, yoksa dizine kapalı fakülteler ana sayfada
     tek bir "diğer fakülteler" bölümünde mi toplanmalı? *Varsayım:* yanıt gelene kadar listeler olduğu gibi kalır.
+18. **Yargı arşivinde TBT artışı (G13).** Google Fonts stil dosyası her sayfada ilk boyamayı engellediği için kaldırıldı
+    (yüklediği Source Serif 4 hiçbir bileşende kullanılmıyordu). Bunun sonucunda yargı arşivinde içerik yaklaşık yarım saniye
+    erken görünüyor, ne var ki mobil Lighthouse'un toplam engelleme süresi (TBT) yaklaşık 0,7 sn'den 1,5 sn'ye çıkıyor. Dört
+    adayın ayrı ayrı sınandığı ölçümde artışı yalnız bu değişiklik açıkladı. Hızlı ilk görüntü ve dış alan adına bağımlılığın
+    kalkması (ziyaretçi IP'si Google'a gitmez) tercih edildi. Stil dosyası geri eklensin mi? *Varsayım:* yanıt gelene kadar
+    kaldırılmış kalır; ayrıntı ve ölçüm tabloları `gorevler/G13.md` sonunda.
