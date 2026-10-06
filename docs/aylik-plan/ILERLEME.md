@@ -242,3 +242,20 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   (717 test, derleme 549 sn) ve "sonra" ekran görüntülerini aldı; 06:40'ta `rate_limit` ile commit'siz kesildi (döküm sonu
   doğrulandı). 07:00–10:00 oturumları açılır açılmaz `rate_limit` ile bitti. 11:00: `kalite:hizli` yeniden yeşil (717 test),
   düzeltmeler dört commit (`685264c91`, `f65bae38e`, `0f20de3ee`, `2510595c4`). Sürdürülüyor: adım 4–7.
+
+## 2026-10-06 11:00 — G13 DEVAM EDİYOR (başsız oturum)
+
+- Devralma: 06:00 oturumunun commit'siz bıraktığı adım 3 (06:37'de tam kalite yeşil) `kalite:hizli` ile yeniden doğrulandı
+  (717 test) ve düzeltme başına dört commit'e ayrıldı (`685264c91`, `f65bae38e`, `0f20de3ee`, `2510595c4`; belgeler `c64f10aca`).
+- Adım 4 `099271adf`: elle yazılan 25 rehber derlemede üretiliyor (579/579). Adım 5 `54fdeaf99`: `/images` ve `/bolge` bir gün
+  önbellekte kalıyor. Adım 6 `4d8689077`: derleme taramasına ilk yük betik bütçesi eklendi (dokuz sayfa, taban yalnız düşer).
+  Her adımda test önce kırmızı yazıldı.
+- Adım 7: sonra ölçümü ders notunda CLS gerilemesi (0 → 0,137) buldu. Kaynak Plex Mono'nun önden yüklenmemesiydi.
+  `4efec57b0` ile CLS 0,0003'e indi. Tam `npm run kalite` iki kez yeşil (725 test, derleme 469 ve 372 sn). Lighthouse ortalama
+  P 63 → 77, aktarım her Next sayfasında düştü. Ancak TBT makine yükü altında tek koşuda çok oynak (ders notu 774–3.175 ms).
+  Yargı arşivi ve ders notu için "gerileme yok" kabulü gösterilemediğinden G13 kapatılmadı. Rapor ve tablo `gorevler/G13.md`
+  sonunda (`755d64cf7`).
+- 06:38'den kalan `next start` 3123'ü tutup eski derlemeyi sunuyordu. Durduruldu ve OTONOM.md'ye tuzak olarak eklendi.
+  Kendi sunucum kapatıldı. Zaman damgalı dosyalar geri alındı. TestSprite: değişiklik yayında değil (30 Ekim), doğrulanmadı.
+- Sıradaki: `lighthouse-olc.mjs`'e `--tekrar=3` (ortanca) eklenecek, önce ve sonra aynı yöntemle yeniden ölçülecek. Ardından
+  Next sayfalarındaki 4–5 sn'lik LCP evresi çözümlenecek. G13 bitince PLAN.md'ye ölçüm tablosu yazılacak.
