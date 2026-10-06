@@ -68,6 +68,11 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
   kırmızı test aranmaz, kapı yeniden çalıştırılır. Tam kapıyı oturumun sonuna bırakma; ~15 dk sürer. 21:33'te aynısı
   sınır olmadan tekrarladı: başsız oturum arka plan işini başlatıp turu (son yanıtı) bitirince `claude -p` süreci kapanır,
   iş de ölür. Arka plandaki kapının bitiş bildirimi gelmeden son yanıt yazılmaz.
+- **Kesilen oturumdan kalan `next start`** (2026-10-06 11:25: 06:38'de başlatılan sunucu 3123'ü tutuyordu). Yeni `next start`
+  `EADDRINUSE` ile ölür, ama eski süreç yanıt verdiği için ölçüm eski derlemeyi ve başlatıldığı andaki `next.config`'i
+  (başlık kuralları dahil) sınar. Sunucu başlatmadan önce `netstat -ano | grep ":3123 "` ile portu kontrol et; tutan süreç
+  `next start` ise (komut satırı `Get-CimInstance Win32_Process`) durdur. Oturum bitmeden kendi sunucunu kapat: arka plan
+  işini durdurmak yalnız `npx` sarmalayıcısını öldürür, portu tutan `node … next start` alt süreci ayrıca durdurulur.
 - Makine kapanınca ya da uykuya geçince oturum uyarısız kesilir (2026-10-03 06:48 → 2026-10-05 10:23 arası ne oturum
   ne hasat çalıştı); devralmada hasat günlüğünün son satır saati kesinti anını doğrulamaya yarar.
 - Başsız oturum `ANTHROPIC_API_KEY` görürse abonelik yerine API kredisi kullanır; çalıştırıcı bunu
