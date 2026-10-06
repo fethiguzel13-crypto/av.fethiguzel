@@ -1,7 +1,7 @@
 'use client';
 
 import Link from "@/components/SiteLink";
-import { usePathname } from 'next/navigation';
+import { usePathname, useRouter } from 'next/navigation';
 import { Home, Search, BookOpen, Calculator, Newspaper } from 'lucide-react';
 import { Suspense } from 'react';
 import { useGalaxy } from '@/lib/galaxy/useGalaxy';
@@ -51,6 +51,7 @@ const TAB_DEFS: Record<
 
 function NavInner() {
   const pathname = usePathname() || '/';
+  const router = useRouter();
   const { t, app, locale } = useGalaxy();
   const order = app.tabs?.length ? app.tabs : (['home', 'search', 'cases', 'guide', 'calc'] as TabKey[]);
   const tabs = order.map((k) => TAB_DEFS[k as TabKey]).filter(Boolean);
@@ -71,8 +72,11 @@ function NavInner() {
               : `${tab.href}?app=${app.id}&lang=${locale}`;
           return (
             <li key={tab.href} className="flex-1">
+              {/* Sekmeler her sayfada görünür alanda: varsayılan ön getirme her görüntülemede beş rotayı indiriyordu (G13). */}
               <Link
                 href={href}
+                prefetch={false}
+                onPointerDown={() => router.prefetch(href)}
                 className={`flex flex-col items-center gap-0.5 py-2 text-[10px] font-semibold tracking-wide transition-colors ${
                   active ? 'text-accent' : 'text-charcoal/45 hover:text-charcoal/70'
                 }`}
