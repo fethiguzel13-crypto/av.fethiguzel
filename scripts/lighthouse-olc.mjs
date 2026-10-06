@@ -106,7 +106,7 @@ for (const s of ANAHTAR_SAYFALAR) {
     r = { ...ozetle(b), karsi: ozetle(a) };
     if (a.basarili.length && b.basarili.length) {
       const dizi = (t, m) => t.basarili.map((k) => k[m]);
-      r.gerileme = Object.fromEntries(["tbtMs", "lcpMs"].map((m) => [m, gerilemeVar(dizi(a, m), dizi(b, m))]));
+      r.gerileme = Object.fromEntries(["tbtMs", "lcpMs", "anaIsMs"].map((m) => [m, gerilemeVar(dizi(a, m), dizi(b, m))]));
     }
   } else r = ozetle(kosulariTopla(() => olc(s), TEKRAR, TEKRAR * 2));
   sonuc.push(r);

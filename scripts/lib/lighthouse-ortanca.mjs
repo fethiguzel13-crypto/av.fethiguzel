@@ -13,8 +13,9 @@ export function ortanca(dizi) {
 }
 
 /**
- * Başarılı koşuları tek kayda indirir: puanlar ve ölçüler ayrı ayrı ortanca; TBT'nin en düşük ve en yüksek değeri
- * oynaklığı göstermek için saklanır. Başarısız denetim listeleri performans puanı ortancaya en yakın koşudan alınır.
+ * Başarılı koşuları tek kayda indirir: puanlar ve ölçüler ayrı ayrı ortanca; TBT'nin ve toplam ana iş parçacığı
+ * süresinin en düşük ve en yüksek değeri oynaklığı göstermek için saklanır. Başarısız denetim listeleri performans
+ * puanı ortancaya en yakın koşudan alınır.
  */
 export function kosulariOzetle(kosular) {
   const puanOrt = ortanca(kosular.map((k) => k.puan.performance));
@@ -22,12 +23,14 @@ export function kosulariOzetle(kosular) {
     Math.abs(k.puan.performance - puanOrt) < Math.abs(en.puan.performance - puanOrt) ? k : en
   );
   const tbt = kosular.map((k) => k.tbtMs);
+  const anaIs = kosular.map((k) => k.anaIsMs);
   return {
     ...temsilci,
     puan: Object.fromEntries(Object.keys(temsilci.puan).map((p) => [p, Math.round(ortanca(kosular.map((k) => k.puan[p])))])),
     ...Object.fromEntries(MS_OLCULERI.map((m) => [m, Math.round(ortanca(kosular.map((k) => k[m])))])),
     cls: ortanca(kosular.map((k) => k.cls)),
     tbtAralik: [Math.min(...tbt), Math.max(...tbt)],
+    anaIsAralik: [Math.min(...anaIs), Math.max(...anaIs)],
     kosu: kosular.length,
   };
 }
