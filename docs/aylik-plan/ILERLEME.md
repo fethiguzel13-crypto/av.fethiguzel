@@ -318,6 +318,6 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Karar: kök neden Google Fonts stil dosyasının kaldırılmasıdır (`f65bae38e`). İlk boyama öne geldiği için TBT penceresi genişledi.
   Değişiklik korundu ve gerekçeli kabul yazıldı (G13.md). Kullanıcıya soru 18 eklendi, PLAN.md G14'e profil notu düşüldü.
 - Kaynaklar ve `tsconfig.json` HEAD'e döndü, `.next-ara` silindi, iki sunucu kapatıldı. `kalite:hizli` 732 test yeşil.
-  Bu oturumda yalnız belgeler ve ölçüm kayıtları değişti. TestSprite: değişiklik yayında değil (30 Ekim), doğrulanmadı.
+  Bu oturumda yalnız belgeler ve ölçüm kayıtları değişti (`d5f34d12a`), zaman damgalı `priority-sitemap.xml` geri alındı. TestSprite: değişiklik yayında değil (30 Ekim), doğrulanmadı.
 - Sıradaki: G13 kapanışı. Kalan sekiz sayfa önce derlemesiyle (`.next-once`, `d077adb85` kaynakları) dönüşümlü ölçülür, tablo
   PLAN.md'ye yazılır, tam `npm run kalite` çalıştırılır. G13 DEVAM EDİYOR.
