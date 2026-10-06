@@ -259,3 +259,9 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   Kendi sunucum kapatıldı. Zaman damgalı dosyalar geri alındı. TestSprite: değişiklik yayında değil (30 Ekim), doğrulanmadı.
 - Sıradaki: `lighthouse-olc.mjs`'e `--tekrar=3` (ortanca) eklenecek, önce ve sonra aynı yöntemle yeniden ölçülecek. Ardından
   Next sayfalarındaki 4–5 sn'lik LCP evresi çözümlenecek. G13 bitince PLAN.md'ye ölçüm tablosu yazılacak.
+
+## 2026-10-06 13:00 — G13 DEVAM EDİYOR (başsız oturum)
+
+- `1de6478d4`: `lighthouse-olc.mjs --tekrar=N` (sayfa başına ortanca). Sonra ölçümü 11:47 derlemesiyle başladı; önce derlemesi
+  (`d077adb85` kaynakları) ana ağaçta geçici olarak kurulacak. Kesilirse: `git status`ta değişen app/components/lib dosyaları
+  önce derlemesi içindir, `git checkout HEAD -- <yol>` ile geri alınır.
