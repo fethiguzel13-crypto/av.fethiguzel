@@ -8,6 +8,7 @@ import { PROFILE } from '@/lib/profile';
 import { isNativeApp } from '@/lib/native-app';
 import { useTarayiciDegeri } from '@/lib/tarayici';
 import GalaxySisterApps from '@/components/GalaxySisterApps';
+import ErtelenmisHarita from '@/components/ErtelenmisHarita';
 
 function InstagramIcon({ size = 18 }: { size?: number }) {
   return (
@@ -165,19 +166,13 @@ export default function Footer() {
             </div>
           </div>
 
-          <div className="h-[280px] sm:h-[380px] md:h-full md:min-h-[400px] rounded-2xl sm:rounded-[2.5rem] md:rounded-[3rem] overflow-hidden border border-cream/10 grayscale hover:grayscale-0 transition-all duration-700 relative group">
-            <iframe
-              title="Av. Fethi Güzel ofis konumu — Zenginler İş Hanı, Erciş"
-              src={PROFILE.office.mapEmbed}
-              width="100%"
-              height="100%"
-              style={{ border: 0 }}
-              allowFullScreen
-              loading="lazy"
-              referrerPolicy="no-referrer-when-downgrade"
-              className="opacity-60 group-hover:opacity-100 transition-opacity duration-700"
-            />
-          </div>
+          <ErtelenmisHarita
+            title="Av. Fethi Güzel ofis konumu — Zenginler İş Hanı, Erciş"
+            src={PROFILE.office.mapEmbed}
+            aramaUrl={`https://www.google.com/maps/search/?api=1&query=${PROFILE.office.mapQuery}`}
+            className="h-[280px] sm:h-[380px] md:h-full md:min-h-[400px] rounded-2xl sm:rounded-[2.5rem] md:rounded-[3rem] overflow-hidden border border-cream/10 grayscale hover:grayscale-0 transition-all duration-700 relative group"
+            iframeClassName="opacity-60 group-hover:opacity-100 transition-opacity duration-700"
+          />
         </div>
 
         <div className="mb-12 sm:mb-16 grid grid-cols-2 sm:grid-cols-4 gap-6 text-center sm:text-left">
