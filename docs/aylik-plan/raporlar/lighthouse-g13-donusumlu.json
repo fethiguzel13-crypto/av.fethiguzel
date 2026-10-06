@@ -1,0 +1,255 @@
+{
+  "tarih": "2026-10-06T11:28:55.121Z",
+  "taban": "http://localhost:3124",
+  "karsi": "http://localhost:3123",
+  "tekrar": 3,
+  "ortalama": {
+    "performance": 61,
+    "accessibility": 94,
+    "best-practices": 100,
+    "seo": 92
+  },
+  "sayfalar": [
+    {
+      "tur": "ana sayfa",
+      "yol": "/",
+      "puan": {
+        "performance": 45,
+        "accessibility": 94,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 5606,
+      "fcpMs": 1747,
+      "tbtMs": 2091,
+      "cls": 0,
+      "siMs": 5413,
+      "aktarimKb": 758,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "heading-order"
+      ],
+      "tbtAralik": [
+        1113,
+        2791
+      ],
+      "kosu": 3,
+      "karsi": {
+        "tur": "ana sayfa",
+        "yol": "/",
+        "puan": {
+          "performance": 42,
+          "accessibility": 94,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "lcpMs": 7083,
+        "fcpMs": 1891,
+        "tbtMs": 1537,
+        "cls": 0,
+        "siMs": 5889,
+        "aktarimKb": 1066,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast",
+          "heading-order"
+        ],
+        "tbtAralik": [
+          1377,
+          1804
+        ],
+        "kosu": 3
+      },
+      "gerileme": {
+        "tbtMs": false,
+        "lcpMs": false
+      }
+    },
+    {
+      "tur": "mevzuat madde",
+      "yol": "/mevzuat/tck/madde-81",
+      "puan": {
+        "performance": 97,
+        "accessibility": 92,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 1077,
+      "fcpMs": 875,
+      "tbtMs": 183,
+      "cls": 0,
+      "siMs": 1099,
+      "aktarimKb": 43,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "heading-order"
+      ],
+      "tbtAralik": [
+        181,
+        188
+      ],
+      "kosu": 3,
+      "kosuHatalari": [
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)",
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)"
+      ],
+      "karsi": {
+        "tur": "mevzuat madde",
+        "yol": "/mevzuat/tck/madde-81",
+        "puan": {
+          "performance": 98,
+          "accessibility": 92,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "lcpMs": 1124,
+        "fcpMs": 923,
+        "tbtMs": 164,
+        "cls": 0,
+        "siMs": 1151,
+        "aktarimKb": 43,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast",
+          "heading-order"
+        ],
+        "tbtAralik": [
+          143,
+          209
+        ],
+        "kosu": 3,
+        "kosuHatalari": [
+          "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)"
+        ]
+      },
+      "gerileme": {
+        "tbtMs": false,
+        "lcpMs": false
+      }
+    },
+    {
+      "tur": "ders notu",
+      "yol": "/ders-notlari/afyon/borclar-genel-donem-1",
+      "puan": {
+        "performance": 43,
+        "accessibility": 94,
+        "best-practices": 100,
+        "seo": 66
+      },
+      "lcpMs": 9399,
+      "fcpMs": 1636,
+      "tbtMs": 2826,
+      "cls": 0,
+      "siMs": 4205,
+      "aktarimKb": 859,
+      "seoBasarisiz": [
+        "is-crawlable"
+      ],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "skip-link"
+      ],
+      "tbtAralik": [
+        2344,
+        5132
+      ],
+      "kosu": 3,
+      "kosuHatalari": [
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)",
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)"
+      ],
+      "karsi": {
+        "tur": "ders notu",
+        "yol": "/ders-notlari/afyon/borclar-genel-donem-1",
+        "puan": {
+          "performance": 41,
+          "accessibility": 94,
+          "best-practices": 100,
+          "seo": 66
+        },
+        "lcpMs": 9144,
+        "fcpMs": 2068,
+        "tbtMs": 2533,
+        "cls": 0,
+        "siMs": 5212,
+        "aktarimKb": 1100,
+        "seoBasarisiz": [
+          "is-crawlable"
+        ],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast",
+          "skip-link"
+        ],
+        "tbtAralik": [
+          2257,
+          2789
+        ],
+        "kosu": 3
+      },
+      "gerileme": {
+        "tbtMs": false,
+        "lcpMs": false
+      }
+    },
+    {
+      "tur": "yargı arşivi",
+      "yol": "/yargi-kararlari",
+      "puan": {
+        "performance": 58,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 4825,
+      "fcpMs": 1328,
+      "tbtMs": 1179,
+      "cls": 0.011,
+      "siMs": 3221,
+      "aktarimKb": 628,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast"
+      ],
+      "tbtAralik": [
+        611,
+        3141
+      ],
+      "kosu": 3,
+      "kosuHatalari": [
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)",
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)"
+      ],
+      "karsi": {
+        "tur": "yargı arşivi",
+        "yol": "/yargi-kararlari",
+        "puan": {
+          "performance": 64,
+          "accessibility": 96,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "lcpMs": 5513,
+        "fcpMs": 2034,
+        "tbtMs": 525,
+        "cls": 0.011,
+        "siMs": 4666,
+        "aktarimKb": 1251,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast"
+        ],
+        "tbtAralik": [
+          366,
+          1566
+        ],
+        "kosu": 3
+      },
+      "gerileme": {
+        "tbtMs": false,
+        "lcpMs": false
+      }
+    }
+  ]
+}

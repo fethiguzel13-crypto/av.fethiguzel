@@ -265,3 +265,13 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - `1de6478d4`: `lighthouse-olc.mjs --tekrar=N` (sayfa başına ortanca). Sonra ölçümü 11:47 derlemesiyle başladı; önce derlemesi
   (`d077adb85` kaynakları) ana ağaçta geçici olarak kurulacak. Kesilirse: `git status`ta değişen app/components/lib dosyaları
   önce derlemesi içindir, `git checkout HEAD -- <yol>` ile geri alınır.
+- 13:00–14:45 devam: sonra derlemesi `--tekrar=3` ile ölçüldü (`lighthouse-g13-sonra-ortanca.json`). Makine yükü yüzünden ardışık önce/sonra
+  karşılaştırılamadı (değişmeyen madde sayfası TBT 425 ↔ 194 ms). `3cce9237e` dönüşümlü ölçümü (`--karsi`, `OLCUM_DIST_DIR`) ekledi.
+  Önce derlemesi geçici geri alınan 13 kaynak dosyayla kuruldu (`app/bilgi/[slug]/page.tsx`, `app/globals.css`, `app/layout.tsx`,
+  `components/{About,Articles,DailyNewsCards,Footer,Hero,MobileBottomNav}.tsx`, `lib/guvenlik-basliklari.mjs`,
+  `lib/vatandas-rehberi/{published.ts,sec.mjs}`, `next.config.ts`). Kaynaklar HEAD'e döndü, önce derlemesi silindi, `.next` yine 11:47 derlemesi.
+- Dönüşümlü sonuç (4 sayfa, 3+3 koşu): aralık ölçütüne göre gerileme yok. FCP, hız indeksi ve aktarım dördünde iyileşti. TBT ortancası
+  üç Next sayfasında yükseldi, FCP kazancıyla aynı yönde (pencere kayması varsayımı, kanıtlanmadı). Tablo `gorevler/G13.md` sonunda.
+- `kalite:hizli` iki kez yeşil (728, sonra 731 test). Tam kapı bugün 11:49'da yeşildi. Kendi sunucularım (3123, 3124) kapatıldı.
+  Zaman damgalı `priority-sitemap.xml` geri alındı. TestSprite: değişiklik yayında değil (30 Ekim), doğrulanmadı.
+- Sıradaki: `anaIsMs` ile dönüşümlü ölçüm (adımlar G13.md sonunda), sonra kabul kararı. G13 DEVAM EDİYOR.

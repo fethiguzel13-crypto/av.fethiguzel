@@ -1,0 +1,335 @@
+{
+  "tarih": "2026-10-06T10:40:05.019Z",
+  "taban": "http://localhost:3123",
+  "tekrar": 3,
+  "ortalama": {
+    "performance": 60,
+    "accessibility": 95,
+    "best-practices": 100,
+    "seo": 97
+  },
+  "sayfalar": [
+    {
+      "tur": "ana sayfa",
+      "yol": "/",
+      "puan": {
+        "performance": 44,
+        "accessibility": 94,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 5618,
+      "fcpMs": 1744,
+      "tbtMs": 2418,
+      "cls": 0,
+      "siMs": 6194,
+      "aktarimKb": 758,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "heading-order"
+      ],
+      "tbtAralik": [
+        2414,
+        3385
+      ],
+      "kosu": 3
+    },
+    {
+      "tur": "makale",
+      "yol": "/makale-oku/ARABULUCULUK/arabuluculuk%20anla%C5%9Fma%20belgesi.docx",
+      "puan": {
+        "performance": 51,
+        "accessibility": 94,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 4775,
+      "fcpMs": 1972,
+      "tbtMs": 1660,
+      "cls": 0,
+      "siMs": 5785,
+      "aktarimKb": 568,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "skip-link"
+      ],
+      "tbtAralik": [
+        212,
+        1695
+      ],
+      "kosu": 3,
+      "kosuHatalari": [
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)"
+      ]
+    },
+    {
+      "tur": "mevzuat madde",
+      "yol": "/mevzuat/tck/madde-81",
+      "puan": {
+        "performance": 90,
+        "accessibility": 92,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 1247,
+      "fcpMs": 977,
+      "tbtMs": 425,
+      "cls": 0,
+      "siMs": 1784,
+      "aktarimKb": 43,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "heading-order"
+      ],
+      "tbtAralik": [
+        396,
+        775
+      ],
+      "kosu": 3
+    },
+    {
+      "tur": "şerhli madde",
+      "yol": "/mevzuat/tbk/madde-49",
+      "puan": {
+        "performance": 85,
+        "accessibility": 92,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 1212,
+      "fcpMs": 975,
+      "tbtMs": 488,
+      "cls": 0,
+      "siMs": 1578,
+      "aktarimKb": 59,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "heading-order"
+      ],
+      "tbtAralik": [
+        336,
+        813
+      ],
+      "kosu": 3
+    },
+    {
+      "tur": "rehber",
+      "yol": "/rehber/kidem-tazminati",
+      "puan": {
+        "performance": 53,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 4638,
+      "fcpMs": 1364,
+      "tbtMs": 2142,
+      "cls": 0,
+      "siMs": 3592,
+      "aktarimKb": 610,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast"
+      ],
+      "tbtAralik": [
+        950,
+        3233
+      ],
+      "kosu": 3
+    },
+    {
+      "tur": "ders notu hub",
+      "yol": "/ders-notlari",
+      "puan": {
+        "performance": 57,
+        "accessibility": 94,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 4612,
+      "fcpMs": 1374,
+      "tbtMs": 1303,
+      "cls": 0,
+      "siMs": 3057,
+      "aktarimKb": 604,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "skip-link"
+      ],
+      "tbtAralik": [
+        378,
+        1575
+      ],
+      "kosu": 3
+    },
+    {
+      "tur": "ders notu",
+      "yol": "/ders-notlari/afyon/borclar-genel-donem-1",
+      "puan": {
+        "performance": 43,
+        "accessibility": 94,
+        "best-practices": 100,
+        "seo": 66
+      },
+      "lcpMs": 8169,
+      "fcpMs": 1666,
+      "tbtMs": 3125,
+      "cls": 0,
+      "siMs": 4306,
+      "aktarimKb": 859,
+      "seoBasarisiz": [
+        "is-crawlable"
+      ],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "skip-link"
+      ],
+      "tbtAralik": [
+        2911,
+        3646
+      ],
+      "kosu": 3,
+      "kosuHatalari": [
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)"
+      ]
+    },
+    {
+      "tur": "hesaplama",
+      "yol": "/hesaplama/kidem",
+      "puan": {
+        "performance": 57,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 4701,
+      "fcpMs": 1302,
+      "tbtMs": 1216,
+      "cls": 0,
+      "siMs": 3607,
+      "aktarimKb": 603,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "label-content-name-mismatch"
+      ],
+      "tbtAralik": [
+        552,
+        1461
+      ],
+      "kosu": 3
+    },
+    {
+      "tur": "yargı arşivi",
+      "yol": "/yargi-kararlari",
+      "puan": {
+        "performance": 61,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 4695,
+      "fcpMs": 1323,
+      "tbtMs": 877,
+      "cls": 0.011,
+      "siMs": 3494,
+      "aktarimKb": 628,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast"
+      ],
+      "tbtAralik": [
+        660,
+        2361
+      ],
+      "kosu": 3
+    },
+    {
+      "tur": "kavram",
+      "yol": "/kavram/kidem-tazminati",
+      "puan": {
+        "performance": 64,
+        "accessibility": 94,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 4490,
+      "fcpMs": 1313,
+      "tbtMs": 873,
+      "cls": 0,
+      "siMs": 3050,
+      "aktarimKb": 545,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "heading-order"
+      ],
+      "tbtAralik": [
+        517,
+        1043
+      ],
+      "kosu": 3,
+      "kosuHatalari": [
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)"
+      ]
+    },
+    {
+      "tur": "bölge",
+      "yol": "/ercis-avukat",
+      "puan": {
+        "performance": 64,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 4637,
+      "fcpMs": 1309,
+      "tbtMs": 792,
+      "cls": 0,
+      "siMs": 3141,
+      "aktarimKb": 548,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast"
+      ],
+      "tbtAralik": [
+        176,
+        1830
+      ],
+      "kosu": 3,
+      "kosuHatalari": [
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)"
+      ]
+    },
+    {
+      "tur": "yazar",
+      "yol": "/avukat-fethi-guzel",
+      "puan": {
+        "performance": 55,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 4647,
+      "fcpMs": 1284,
+      "tbtMs": 1742,
+      "cls": 0,
+      "siMs": 3777,
+      "aktarimKb": 583,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast"
+      ],
+      "tbtAralik": [
+        614,
+        1916
+      ],
+      "kosu": 3
+    }
+  ]
+}
