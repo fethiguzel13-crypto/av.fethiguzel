@@ -1,8 +1,4 @@
-"use client";
-
-import React, { useEffect, useRef } from 'react';
 import Link from "@/components/SiteLink";
-import { gsap } from 'gsap';
 import { ArrowRight, BookOpen, Gavel, Briefcase } from 'lucide-react';
 
 /**
@@ -26,29 +22,22 @@ export default function Hero({ sayilar }: { sayilar: HeroSayilari }) {
     { num: sayilar.karar, label: 'Yargıtay Kararı' },
     { num: sayilar.rehber, label: 'Vatandaş Rehberi' },
   ];
-  const containerRef = useRef<HTMLElement>(null);
-
-  useEffect(() => {
-    const ctx = gsap.context(() => {
-      gsap.from('.hero-fade', {
-        y: 28,
-        opacity: 0,
-        stagger: 0.1,
-        duration: 1.0,
-        ease: 'power3.out',
-      });
-    }, containerRef);
-    return () => ctx.revert();
-  }, []);
-
+  /*
+    Giriş animasyonu CSS'te (globals.css `.hero-fade`). GSAP ile yapıldığında hidrasyon metni bir an gizleyip yeniden
+    açıyordu; LCP bütün betiklerin bitişine bağlanıyor, 140 KB'lık kütüphane de ilk yüke giriyordu (G13).
+  */
   return (
     <section
-      ref={containerRef}
       className="relative min-h-[100dvh] w-full flex items-end overflow-hidden bg-charcoal"
     >
       <div className="absolute inset-0">
         <img
           src="https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&q=80&w=2000"
+          /* Mobil ekran 2000 px'lik (134 KB) dosyayı indirmesin; Unsplash genişliğe göre keser (G13). */
+          srcSet={[640, 1080, 1600, 2000]
+            .map((w) => `https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&q=80&w=${w} ${w}w`)
+            .join(', ')}
+          sizes="100vw"
           alt="Hukuk kütüphanesi — Av. Fethi Güzel dijital arşiv"
           width={2000}
           height={1333}
@@ -108,7 +97,7 @@ export default function Hero({ sayilar }: { sayilar: HeroSayilari }) {
               className="hidden sm:flex items-center gap-3 pr-4 pl-1.5 py-1.5 rounded-full bg-cream/10 border border-cream/15 backdrop-blur-md hover:bg-cream/15 transition-colors"
             >
               <img
-                src="/images/av-fethi-guzel-square.jpg"
+                src="/images/av-fethi-guzel-88.jpg"
                 alt="Av. Fethi Güzel"
                 title="Avukat Fethi Güzel"
                 width={44}

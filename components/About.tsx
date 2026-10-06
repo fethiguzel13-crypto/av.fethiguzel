@@ -2,18 +2,15 @@
 
 import React, { useEffect, useRef } from 'react';
 import Link from "@/components/SiteLink";
-import { gsap } from 'gsap';
-import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { ArrowRight } from 'lucide-react';
-
-gsap.registerPlugin(ScrollTrigger);
+import { gsapGorununce } from '@/lib/gsap-yukle';
 
 export default function About() {
   const containerRef = useRef(null);
   const imageRef = useRef(null);
 
   useEffect(() => {
-    const ctx = gsap.context(() => {
+    return gsapGorununce(containerRef.current, (gsap) => {
       gsap.from(".philo-text", {
         scrollTrigger: {
           trigger: containerRef.current,
@@ -36,8 +33,7 @@ export default function About() {
         duration: 2,
         ease: "power2.out"
       });
-    }, containerRef);
-    return () => ctx.revert();
+    });
   }, []);
 
   return (

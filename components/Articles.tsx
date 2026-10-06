@@ -2,11 +2,8 @@
 
 import React, { useEffect, useRef } from 'react';
 import Link from "@/components/SiteLink";
-import { gsap } from 'gsap';
-import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { FileText, ArrowUpRight } from 'lucide-react';
-
-gsap.registerPlugin(ScrollTrigger);
+import { gsapGorununce } from '@/lib/gsap-yukle';
 
 const articles = [
   { category: "Ceza Hukuku", title: "Hükmün Açıklanmasının Geri Bırakılması (HAGB) ve Şartları", desc: "Ceza yargılamasında sanık lehine uygulanan HAGB kurumunun hukuki niteliği ve sonuçları." },
@@ -21,7 +18,7 @@ export default function Articles() {
   const containerRef = useRef(null);
 
   useEffect(() => {
-    const ctx = gsap.context(() => {
+    return gsapGorununce(containerRef.current, (gsap) => {
       // Animasyon yalnızca masaüstünde; mobilde içerik her zaman görünür kalır
       const mm = gsap.matchMedia();
       mm.add("(min-width: 768px)", () => {
@@ -38,8 +35,7 @@ export default function Articles() {
           ease: "power3.out"
         });
       });
-    }, containerRef);
-    return () => ctx.revert();
+    });
   }, []);
 
   return (

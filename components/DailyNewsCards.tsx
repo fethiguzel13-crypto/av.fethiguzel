@@ -1,13 +1,10 @@
 "use client";
 
 import React, { useEffect, useRef } from 'react';
-import { gsap } from 'gsap';
-import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { ScrollText, Scale, Landmark, Flag, BookOpen, ArrowUpRight } from 'lucide-react';
 import type { DailyItem } from '@/lib/daily';
 import { itemTitle, formatTrDate } from '@/lib/daily';
-
-gsap.registerPlugin(ScrollTrigger);
+import { gsapGorununce } from '@/lib/gsap-yukle';
 
 const ICONS: Record<string, React.ComponentType<{ size?: number }>> = {
   'scroll-text': ScrollText,
@@ -26,8 +23,7 @@ export default function DailyNewsCards({ highlights }: { highlights: DailyItem[]
   const containerRef = useRef<HTMLDivElement | null>(null);
 
   useEffect(() => {
-    if (!containerRef.current) return;
-    const ctx = gsap.context(() => {
+    return gsapGorununce(containerRef.current, (gsap) => {
       // Animasyon yalnızca masaüstünde; mobilde içerik her zaman görünür kalır
       const mm = gsap.matchMedia();
       mm.add('(min-width: 768px)', () => {
@@ -40,8 +36,7 @@ export default function DailyNewsCards({ highlights }: { highlights: DailyItem[]
           ease: 'power3.out'
         });
       });
-    }, containerRef);
-    return () => ctx.revert();
+    });
   }, []);
 
   return (
