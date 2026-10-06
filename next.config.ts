@@ -8,6 +8,8 @@ import { securityHeaders as buildSecurityHeaders } from "./lib/guvenlik-baslikla
 const securityHeaders = buildSecurityHeaders({ dev: process.env.NODE_ENV === "development" });
 
 const nextConfig: NextConfig = {
+  /* Yalnız ölçüm: önce ve sonra derlemesi aynı anda sunulurken ikincisi ayrı klasörden açılır (G13). Yayında tanımsız. */
+  ...(process.env.OLCUM_DIST_DIR && { distDir: process.env.OLCUM_DIST_DIR }),
   /**
    * Pretty category URLs → /mevzuat (308).
    * Madde URLs rewritten to prebuilt static SEO HTML (title + resmi metin for Googlebot).

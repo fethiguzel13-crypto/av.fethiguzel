@@ -4,7 +4,7 @@
  * Yalnız saf işlevler; Lighthouse çağrısı `scripts/lighthouse-olc.mjs`'te.
  */
 
-const MS_OLCULERI = ['lcpMs', 'fcpMs', 'tbtMs', 'siMs', 'aktarimKb'];
+const MS_OLCULERI = ['lcpMs', 'fcpMs', 'tbtMs', 'siMs', 'anaIsMs', 'aktarimKb'];
 
 export function ortanca(dizi) {
   const s = [...dizi].sort((a, b) => a - b);
@@ -42,4 +42,31 @@ export function kosulariTopla(olc, tekrar, azamiDeneme) {
     else hatalar.push(r.hata);
   }
   return { basarili, hatalar };
+}
+
+/**
+ * İki sunucu (önce ve sonra derlemesi) aynı sayfada A, B, A, B sırasıyla ölçülür; makine yükündeki dalgalanma iki tarafa
+ * eşit dağılır. Her taraf `tekrar` başarılı koşuya ya da `azamiDeneme`ye ulaşınca durur.
+ */
+export function donusumluTopla(olcA, olcB, tekrar, azamiDeneme) {
+  const taraf = () => ({ basarili: [], hatalar: [], deneme: 0 });
+  const a = taraf();
+  const b = taraf();
+  const surer = (t) => t.basarili.length < tekrar && t.deneme < azamiDeneme;
+  const bir = (t, olc) => {
+    t.deneme++;
+    const r = olc();
+    if (r.puan) t.basarili.push(r);
+    else t.hatalar.push(r.hata);
+  };
+  while (surer(a) || surer(b)) {
+    if (surer(a)) bir(a, olcA);
+    if (surer(b)) bir(b, olcB);
+  }
+  return { a: { basarili: a.basarili, hatalar: a.hatalar }, b: { basarili: b.basarili, hatalar: b.hatalar } };
+}
+
+/** Küçük olan iyi bir ölçüde (TBT, LCP) gerileme: sonranın en iyi koşusu öncenin en kötü koşusundan da kötü. */
+export function gerilemeVar(once, sonra) {
+  return Math.min(...sonra) > Math.max(...once);
 }

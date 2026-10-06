@@ -9,19 +9,22 @@
  *                                   [--cikti=docs/aylik-plan/raporlar/lighthouse-baslangic.json]
  *                                   [--sadece=tür1,tür2]  (yalnız bu türleri ölçer, çıktıdaki kaydı günceller)
  *                                   [--tekrar=3]  (sayfa başına başarılı koşu; her ölçü ortancayla özetlenir, G13)
+ *                                   [--karsi=http://localhost:3124]  (önce derlemesini sunan ikinci sunucu; her sayfada
+ *                                    önce ve taban dönüşümlü ölçülür, kayıtta `karsi` ve `gerileme` alanları; G13)
  */
 import { spawnSync } from "child_process";
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "fs";
 import { dirname, join } from "path";
 import { tmpdir } from "os";
 import { chromium } from "playwright";
-import { kosulariOzetle, kosulariTopla } from "./lib/lighthouse-ortanca.mjs";
+import { donusumluTopla, gerilemeVar, kosulariOzetle, kosulariTopla } from "./lib/lighthouse-ortanca.mjs";
 
 const arg = (n, d) => (process.argv.find((a) => a.startsWith(`--${n}=`)) || "").split("=").slice(1).join("=") || d;
 const TABAN = arg("taban", "http://localhost:3123");
 const CIKTI = arg("cikti", "docs/aylik-plan/raporlar/lighthouse-baslangic.json");
 const SADECE = arg("sadece", "").split(",").filter(Boolean);
 const TEKRAR = Math.max(1, Number(arg("tekrar", "1")) || 1);
+const KARSI = arg("karsi", "");
 
 export const ANAHTAR_SAYFALAR = [
   { tur: "ana sayfa", yol: "/" },
@@ -40,12 +43,12 @@ export const ANAHTAR_SAYFALAR = [
 
 const KATEGORILER = ["performance", "accessibility", "best-practices", "seo"];
 
-function olc(sayfa) {
+function olc(sayfa, taban = TABAN) {
   const gecici = join(tmpdir(), `lh-${Date.now()}.json`);
   const r = spawnSync(
     "npx",
     [
-      "-y", "lighthouse@12", `${TABAN}${sayfa.yol}`,
+      "-y", "lighthouse@12", `${taban}${sayfa.yol}`,
       "--output=json", `--output-path=${gecici}`, "--quiet",
       `--only-categories=${KATEGORILER.join(",")}`,
       `--chrome-path=${chromium.executablePath()}`,
@@ -66,6 +69,8 @@ function olc(sayfa) {
       tbtMs: Math.round(a["total-blocking-time"]?.numericValue ?? 0),
       cls: Number((a["cumulative-layout-shift"]?.numericValue ?? 0).toFixed(3)),
       siMs: Math.round(a["speed-index"]?.numericValue ?? 0),
+      // TBT yalnız FCP'den sonraki görevleri sayar; FCP öne çekilince artabilir. Toplam ana iş parçacığı süresi bundan bağımsız.
+      anaIsMs: Math.round(a["mainthread-work-breakdown"]?.numericValue ?? 0),
       aktarimKb: Math.round((a["total-byte-weight"]?.numericValue ?? 0) / 1024),
       seoBasarisiz: Object.values(lh.categories.seo?.auditRefs ?? [])
         .map((x) => a[x.id])
@@ -93,18 +98,28 @@ for (const s of ANAHTAR_SAYFALAR) {
     continue;
   }
   // Koşu hatası (NO_NAVSTART) tekrar sayısının iki katına dek yeniden denenir.
-  const { basarili, hatalar } = kosulariTopla(() => olc(s), TEKRAR, TEKRAR * 2);
-  const r = basarili.length ? { ...kosulariOzetle(basarili), ...(hatalar.length && { kosuHatalari: hatalar }) } : { ...s, hata: hatalar.at(-1) };
+  const ozetle = ({ basarili, hatalar }) =>
+    basarili.length ? { ...kosulariOzetle(basarili), ...(hatalar.length && { kosuHatalari: hatalar }) } : { ...s, hata: hatalar.at(-1) };
+  let r;
+  if (KARSI) {
+    const { a, b } = donusumluTopla(() => olc(s, KARSI), () => olc(s, TABAN), TEKRAR, TEKRAR * 2);
+    r = { ...ozetle(b), karsi: ozetle(a) };
+    if (a.basarili.length && b.basarili.length) {
+      const dizi = (t, m) => t.basarili.map((k) => k[m]);
+      r.gerileme = Object.fromEntries(["tbtMs", "lcpMs"].map((m) => [m, gerilemeVar(dizi(a, m), dizi(b, m))]));
+    }
+  } else r = ozetle(kosulariTopla(() => olc(s), TEKRAR, TEKRAR * 2));
   sonuc.push(r);
-  console.log(
-    r.puan
-      ? `${r.tur.padEnd(14)} P${String(r.puan.performance).padStart(3)} E${String(r.puan.accessibility).padStart(3)} İ${String(r.puan["best-practices"]).padStart(3)} S${String(r.puan.seo).padStart(3)}  LCP ${(r.lcpMs / 1000).toFixed(1)} sn  TBT ${r.tbtMs} ms${r.kosu > 1 ? ` (${r.tbtAralik.join('–')})` : ''}  CLS ${r.cls}  ${r.aktarimKb} KB`
-      : `${r.tur.padEnd(14)} HATA ${r.hata}`
-  );
+  const satir = (x) =>
+    x.puan
+      ? `P${String(x.puan.performance).padStart(3)} E${String(x.puan.accessibility).padStart(3)} İ${String(x.puan["best-practices"]).padStart(3)} S${String(x.puan.seo).padStart(3)}  LCP ${(x.lcpMs / 1000).toFixed(1)} sn  TBT ${x.tbtMs} ms${x.kosu > 1 ? ` (${x.tbtAralik.join('–')})` : ''}  CLS ${x.cls}  ${x.aktarimKb} KB`
+      : `HATA ${x.hata}`;
+  if (r.karsi) console.log(`${r.tur.padEnd(14)} önce  ${satir(r.karsi)}`);
+  console.log(`${r.tur.padEnd(14)} ${r.karsi ? "sonra " : ""}${satir(r)}${r.gerileme ? `  gerileme ${JSON.stringify(r.gerileme)}` : ""}`);
 }
 const tamam = sonuc.filter((r) => r.puan);
 const ort = (k) => Math.round(tamam.reduce((t, r) => t + r.puan[k], 0) / Math.max(1, tamam.length));
-const ozet = { tarih: new Date().toISOString(), taban: TABAN, tekrar: TEKRAR, ortalama: Object.fromEntries(KATEGORILER.map((k) => [k, ort(k)])), sayfalar: sonuc };
+const ozet = { tarih: new Date().toISOString(), taban: TABAN, ...(KARSI && { karsi: KARSI }), tekrar: TEKRAR, ortalama: Object.fromEntries(KATEGORILER.map((k) => [k, ort(k)])), sayfalar: sonuc };
 mkdirSync(dirname(CIKTI), { recursive: true });
 writeFileSync(CIKTI, JSON.stringify(ozet, null, 2) + "\n", "utf8");
 console.log(`\nOrtalama: ${JSON.stringify(ozet.ortalama)} → ${CIKTI}`);
