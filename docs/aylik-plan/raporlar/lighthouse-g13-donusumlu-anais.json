@@ -1,0 +1,319 @@
+{
+  "tarih": "2026-10-06T13:50:36.106Z",
+  "taban": "http://localhost:3123",
+  "karsi": "http://localhost:3124",
+  "tekrar": 3,
+  "ortalama": {
+    "performance": 61,
+    "accessibility": 94,
+    "best-practices": 100,
+    "seo": 92
+  },
+  "sayfalar": [
+    {
+      "tur": "ana sayfa",
+      "yol": "/",
+      "puan": {
+        "performance": 56,
+        "accessibility": 94,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 5316,
+      "fcpMs": 1870,
+      "tbtMs": 866,
+      "cls": 0,
+      "siMs": 5643,
+      "anaIsMs": 5344,
+      "aktarimKb": 758,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "heading-order"
+      ],
+      "tbtAralik": [
+        539,
+        1192
+      ],
+      "anaIsAralik": [
+        4595,
+        6092
+      ],
+      "kosu": 2,
+      "kosuHatalari": [
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)",
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)",
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)",
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)"
+      ],
+      "karsi": {
+        "tur": "ana sayfa",
+        "yol": "/",
+        "puan": {
+          "performance": 52,
+          "accessibility": 94,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "lcpMs": 6606,
+        "fcpMs": 1827,
+        "tbtMs": 811,
+        "cls": 0,
+        "siMs": 6683,
+        "anaIsMs": 8041,
+        "aktarimKb": 1066,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast",
+          "heading-order"
+        ],
+        "tbtAralik": [
+          439,
+          3959
+        ],
+        "anaIsAralik": [
+          6376,
+          14464
+        ],
+        "kosu": 3,
+        "kosuHatalari": [
+          "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)",
+          "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)"
+        ]
+      },
+      "gerileme": {
+        "tbtMs": false,
+        "lcpMs": false,
+        "anaIsMs": false
+      }
+    },
+    {
+      "tur": "mevzuat madde",
+      "yol": "/mevzuat/tck/madde-81",
+      "puan": {
+        "performance": 93,
+        "accessibility": 92,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 1130,
+      "fcpMs": 897,
+      "tbtMs": 311,
+      "cls": 0,
+      "siMs": 1390,
+      "anaIsMs": 1102,
+      "aktarimKb": 43,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "heading-order"
+      ],
+      "tbtAralik": [
+        243,
+        334
+      ],
+      "anaIsAralik": [
+        1033,
+        1119
+      ],
+      "kosu": 3,
+      "kosuHatalari": [
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)",
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)"
+      ],
+      "karsi": {
+        "tur": "mevzuat madde",
+        "yol": "/mevzuat/tck/madde-81",
+        "puan": {
+          "performance": 97,
+          "accessibility": 92,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "lcpMs": 1136,
+        "fcpMs": 889,
+        "tbtMs": 205,
+        "cls": 0,
+        "siMs": 1227,
+        "anaIsMs": 927,
+        "aktarimKb": 43,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast",
+          "heading-order"
+        ],
+        "tbtAralik": [
+          188,
+          222
+        ],
+        "anaIsAralik": [
+          901,
+          952
+        ],
+        "kosu": 2,
+        "kosuHatalari": [
+          "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)",
+          "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)",
+          "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)",
+          "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)"
+        ]
+      },
+      "gerileme": {
+        "tbtMs": true,
+        "lcpMs": false,
+        "anaIsMs": true
+      }
+    },
+    {
+      "tur": "ders notu",
+      "yol": "/ders-notlari/afyon/borclar-genel-donem-1",
+      "puan": {
+        "performance": 39,
+        "accessibility": 94,
+        "best-practices": 100,
+        "seo": 66
+      },
+      "lcpMs": 7692,
+      "fcpMs": 1763,
+      "tbtMs": 4686,
+      "cls": 0,
+      "siMs": 6203,
+      "anaIsMs": 13953,
+      "aktarimKb": 859,
+      "seoBasarisiz": [
+        "is-crawlable"
+      ],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "skip-link"
+      ],
+      "tbtAralik": [
+        3093,
+        5903
+      ],
+      "anaIsAralik": [
+        8638,
+        14705
+      ],
+      "kosu": 3,
+      "karsi": {
+        "tur": "ders notu",
+        "yol": "/ders-notlari/afyon/borclar-genel-donem-1",
+        "puan": {
+          "performance": 41,
+          "accessibility": 94,
+          "best-practices": 100,
+          "seo": 66
+        },
+        "lcpMs": 9838,
+        "fcpMs": 2046,
+        "tbtMs": 2524,
+        "cls": 0,
+        "siMs": 5229,
+        "anaIsMs": 8235,
+        "aktarimKb": 1100,
+        "seoBasarisiz": [
+          "is-crawlable"
+        ],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast",
+          "skip-link"
+        ],
+        "tbtAralik": [
+          2452,
+          2659
+        ],
+        "anaIsAralik": [
+          8183,
+          9412
+        ],
+        "kosu": 3,
+        "kosuHatalari": [
+          "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)"
+        ]
+      },
+      "gerileme": {
+        "tbtMs": true,
+        "lcpMs": false,
+        "anaIsMs": false
+      }
+    },
+    {
+      "tur": "yargı arşivi",
+      "yol": "/yargi-kararlari",
+      "puan": {
+        "performance": 54,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 5037,
+      "fcpMs": 1359,
+      "tbtMs": 1549,
+      "cls": 0.011,
+      "siMs": 4027,
+      "anaIsMs": 5859,
+      "aktarimKb": 628,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast"
+      ],
+      "tbtAralik": [
+        1367,
+        1731
+      ],
+      "anaIsAralik": [
+        5251,
+        6466
+      ],
+      "kosu": 2,
+      "kosuHatalari": [
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)",
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)",
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)",
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)"
+      ],
+      "karsi": {
+        "tur": "yargı arşivi",
+        "yol": "/yargi-kararlari",
+        "puan": {
+          "performance": 64,
+          "accessibility": 96,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "lcpMs": 5184,
+        "fcpMs": 1886,
+        "tbtMs": 658,
+        "cls": 0,
+        "siMs": 3111,
+        "anaIsMs": 4049,
+        "aktarimKb": 1251,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast"
+        ],
+        "tbtAralik": [
+          348,
+          968
+        ],
+        "anaIsAralik": [
+          3206,
+          4891
+        ],
+        "kosu": 2,
+        "kosuHatalari": [
+          "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)",
+          "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)",
+          "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)",
+          "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)"
+        ]
+      },
+      "gerileme": {
+        "tbtMs": true,
+        "lcpMs": false,
+        "anaIsMs": true
+      }
+    }
+  ]
+}

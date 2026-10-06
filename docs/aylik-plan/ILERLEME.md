@@ -275,3 +275,21 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - `kalite:hizli` iki kez yeşil (728, sonra 731 test). Tam kapı bugün 11:49'da yeşildi. Kendi sunucularım (3123, 3124) kapatıldı.
   Zaman damgalı `priority-sitemap.xml` geri alındı. TestSprite: değişiklik yayında değil (30 Ekim), doğrulanmadı.
 - Sıradaki: `anaIsMs` ile dönüşümlü ölçüm (adımlar G13.md sonunda), sonra kabul kararı. G13 DEVAM EDİYOR.
+
+## 2026-10-06 16:00 — G13 DEVAM EDİYOR (başsız oturum, başladı 16:00)
+
+- Devralma: 13:00 oturumu 14:34'te, 15:00 oturumu açılışta `rate_limit` ile kesildi (döküm sonları doğrulandı). Commit'siz
+  kalan G13 belgeleri `812b37aec`, `anaIsMs` aralığı ve gerileme denetimi `414992c13` (test önce kırmızı, `kalite:hizli` 732 test).
+- Önce derlemesi `.next-once` klasörüne kuruluyor: 13 kaynak dosya geçici olarak `d077adb85` sürümünde (`next.config.ts` ona ek
+  `OLCUM_DIST_DIR` satırıyla). Kesilirse: `git checkout HEAD -- app components lib next.config.ts tsconfig.json` ve `.next-once` silinir;
+  `.next` 11:47 sonra derlemesidir, dokunulmaz.
+- 16:26: önce derlemesi kuruldu (`.next-once`, 918 sayfa), kaynaklar ve `tsconfig.json` HEAD'e döndü. Sunucular: 3124 önce
+  (`OLCUM_DIST_DIR=.next-once`, görsel `max-age=0`), 3123 sonra (görsel `max-age=86400`). Dönüşümlü ölçüm başladı
+  (`lighthouse-g13-donusumlu-anais.json`). Kesilirse iki portu tutan `next start` süreçleri durdurulur, `.next-once` silinir.
+- Sonuç (4 sayfa, 3+3 koşu, tablo `gorevler/G13.md` sonunda): ana sayfada toplam ana iş parçacığı süresi 8,0 → 5,3 sn düştü.
+  Yargı arşivinde 4,0 → 5,9 sn arttı ve aralıklar ayrıştı, dolayısıyla pencere kayması varsayımı bu sayfa için çürüdü. Ders notunda
+  TBT aralıkları ayrıştı. Kontrol sayfası da sahte gerileme verdi; iki sunucu aynı HTML'i döndürüyordu ve roller ters çevrilince
+  fark kayboldu (192 ↔ 189 ms). Yargı arşivi dökümünde artış React çatı parçası ve stil/yerleşimdeydi. Harita elendi (sonrada Google isteği yok).
+- Sunucular (3123, 3124) kapatıldı, `.next-once` silindi, `tsconfig.json` geri alındı. `kalite:hizli` 732 test yeşil. TestSprite: değişiklik
+  yayında değil (30 Ekim), doğrulanmadı. OTONOM.md'ye kesme işareti tuzağı eklendi.
+- Sıradaki: yargı arşivi gerilemesini ikiye bölme (yazı tipi / Footer haritası / alt menü ön getirmesi; adımlar G13.md sonunda). G13 DEVAM EDİYOR.
