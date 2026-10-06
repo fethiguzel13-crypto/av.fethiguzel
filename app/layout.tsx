@@ -22,7 +22,8 @@ const outfit = Outfit({
   variable: '--font-heading',
   display: 'swap',
 })
-/* Süs ve eş aralıklı aile ilk ekranda gerekmez; önden yüklenmez, kullanıldığı anda gelir (G13: 14 dosya → 4). */
+/* Süs ailesi ilk ekranda gerekmez; önden yüklenmez, kullanıldığı anda gelir (G13). Eş aralıklı aile önden yüklenir:
+   ilk ekrandaki etiket satırları yedek yazı tipiyle farklı kırılıyor, geç gelince sayfa kayıyordu (ders notu CLS 0,137). */
 const cormorant = Cormorant_Garamond({
   subsets: ['latin', 'latin-ext'],
   style: ['normal', 'italic'],
@@ -36,7 +37,6 @@ const ibmPlex = IBM_Plex_Mono({
   weight: ['400', '500', '600'],
   variable: '--font-mono',
   display: 'swap',
-  preload: false,
 })
 
 const siteUrl = 'https://www.avfethiguzel.com'
