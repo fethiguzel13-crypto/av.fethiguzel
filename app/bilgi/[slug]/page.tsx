@@ -4,8 +4,7 @@ import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import VatandasRehberArticle from '@/components/VatandasRehberArticle';
-import { getAllVatandasSlugs } from '@/lib/vatandas-rehberi';
-import { getGuidePageState, getGuideView, getRelatedPublished } from '@/lib/vatandas-rehberi/published';
+import { getGuidePageSlugs, getGuidePageState, getGuideView, getRelatedPublished } from '@/lib/vatandas-rehberi/published';
 import { sayfaBasligi } from '@/lib/sayfa-basligi';
 import Kirinti from '@/components/Kirinti';
 import IlgiliIcerik from '@/components/IlgiliIcerik';
@@ -16,7 +15,7 @@ const SITE = 'https://www.avfethiguzel.com';
 type Props = { params: Promise<{ slug: string }> };
 
 export function generateStaticParams() {
-  return getAllVatandasSlugs().map((slug) => ({ slug }));
+  return getGuidePageSlugs().map((slug) => ({ slug }));
 }
 
 // Next Türkçe karakterli segmenti kodlu verir (`muh%C3%BCr-…`); çözülmezse rehber bulunamaz

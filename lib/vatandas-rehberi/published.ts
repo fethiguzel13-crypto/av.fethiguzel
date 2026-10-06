@@ -2,7 +2,13 @@ import { VATANDAS_ARTICLES } from './data';
 import { AUTHORED_ARTICLES, AUTHORED_SLUGS } from './authored';
 import type { VatandasArticle } from './types';
 import { auditGuide } from '@/lib/content-quality.mjs';
-import { rehberleriSec, rehberSayfaDurumu, ilgiliRehberler, rehberBaglantilariniSuz } from './sec.mjs';
+import {
+  rehberleriSec,
+  rehberSayfaDurumu,
+  rehberSayfaSluglari,
+  ilgiliRehberler,
+  rehberBaglantilariniSuz,
+} from './sec.mjs';
 import { categories } from '@/lib/categories';
 
 /**
@@ -64,6 +70,11 @@ export function getPublishedBySlug(slug: string): VatandasArticle | undefined {
  */
 export function getGuidePageState(slug: string) {
   return rehberSayfaDurumu(slug, PUBLISHED_ARTICLES, KOVALAR, (a) => auditGuide(a).reason);
+}
+
+/** Rehber sayfasının statik üretimi: elle yazılan, yeniden yazılan ve üretilmiş bütün slug'lar (G13). */
+export function getGuidePageSlugs(): string[] {
+  return rehberSayfaSluglari(KOVALAR);
 }
 
 /** Rehber sayfasındaki ilgili rehberler: yalnız yayındakiler (G12); slug yoksa boş. */
