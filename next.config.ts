@@ -89,6 +89,12 @@ const nextConfig: NextConfig = {
           },
         ],
       },
+      // public/ varsayılanı max-age=0: görseller her ziyarette yeniden doğrulanıyordu (G13). Dosya adında içerik özeti
+      // yok; görsel değişirse yeni adla eklenir (ör. av-fethi-guzel-88.jpg), eski adın en geç bir haftalık bayatlığı sorun değil.
+      ...["/images/:path*", "/bolge/:path*"].map((source) => ({
+        source,
+        headers: [{ key: "Cache-Control", value: "public, max-age=86400, stale-while-revalidate=604800" }],
+      })),
     ];
   },
   images: {
