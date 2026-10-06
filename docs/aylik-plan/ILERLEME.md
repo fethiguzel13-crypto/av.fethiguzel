@@ -233,3 +233,12 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 ## 2026-10-05 22:48 — G13 DEVAM EDİYOR (başladı 22:48, aynı başsız oturum)
 
 - Alt plan `gorevler/G13.md`; adım 1–2 (bugünkü ölçüm, kök neden profili) üzerinde çalışılıyor.
+- 2026-10-06 06:00 devralma: 22:00 oturumu adım 2 profilini (ana sayfa ve rehber; uzun görev, ağ, rAF) çıkarıp Footer harita
+  ertelemesini TDD ile yazdı (`components/ErtelenmisHarita.tsx`, `lib/__tests__/performans.test.mjs` 2/2 yeşil), "önce" ekran
+  görüntüsünü alırken 22:44'te kesildi (hasat günlüğü 22:44 → 05:44 boş; makine kapalı, `rate_limit` yok). Adım 1 ölçümü
+  (`lighthouse-g13-once.json`) alınmamış. Sürdürülüyor: önce ölçümü eski derlemeyle, harita commit, adım 3 kalanı.
+- 11:00 devralma: 06:00 oturumu adım 1 ölçümünü (`lighthouse-g13-once.json`, ortalama P 63) ve adım 2 kök neden tablosunu çıkardı,
+  adım 3'ün altı düzeltmesini TDD ile yazdı (`performans.test.mjs` 9 test), tam `npm run kalite`'yi 06:37'de yeşil bitirdi
+  (717 test, derleme 549 sn) ve "sonra" ekran görüntülerini aldı; 06:40'ta `rate_limit` ile commit'siz kesildi (döküm sonu
+  doğrulandı). 07:00–10:00 oturumları açılır açılmaz `rate_limit` ile bitti. 11:00: `kalite:hizli` yeniden yeşil (717 test),
+  düzeltmeler dört commit (`685264c91`, `f65bae38e`, `0f20de3ee`, `2510595c4`). Sürdürülüyor: adım 4–7.
