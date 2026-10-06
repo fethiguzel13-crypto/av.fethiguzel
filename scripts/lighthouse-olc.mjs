@@ -8,17 +8,20 @@
  *   node scripts/lighthouse-olc.mjs [--taban=http://localhost:3123]
  *                                   [--cikti=docs/aylik-plan/raporlar/lighthouse-baslangic.json]
  *                                   [--sadece=tür1,tür2]  (yalnız bu türleri ölçer, çıktıdaki kaydı günceller)
+ *                                   [--tekrar=3]  (sayfa başına başarılı koşu; her ölçü ortancayla özetlenir, G13)
  */
 import { spawnSync } from "child_process";
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "fs";
 import { dirname, join } from "path";
 import { tmpdir } from "os";
 import { chromium } from "playwright";
+import { kosulariOzetle, kosulariTopla } from "./lib/lighthouse-ortanca.mjs";
 
 const arg = (n, d) => (process.argv.find((a) => a.startsWith(`--${n}=`)) || "").split("=").slice(1).join("=") || d;
 const TABAN = arg("taban", "http://localhost:3123");
 const CIKTI = arg("cikti", "docs/aylik-plan/raporlar/lighthouse-baslangic.json");
 const SADECE = arg("sadece", "").split(",").filter(Boolean);
+const TEKRAR = Math.max(1, Number(arg("tekrar", "1")) || 1);
 
 export const ANAHTAR_SAYFALAR = [
   { tur: "ana sayfa", yol: "/" },
@@ -89,17 +92,19 @@ for (const s of ANAHTAR_SAYFALAR) {
     if (eski) sonuc.push(eski);
     continue;
   }
-  const r = olc(s);
+  // Koşu hatası (NO_NAVSTART) tekrar sayısının iki katına dek yeniden denenir.
+  const { basarili, hatalar } = kosulariTopla(() => olc(s), TEKRAR, TEKRAR * 2);
+  const r = basarili.length ? { ...kosulariOzetle(basarili), ...(hatalar.length && { kosuHatalari: hatalar }) } : { ...s, hata: hatalar.at(-1) };
   sonuc.push(r);
   console.log(
     r.puan
-      ? `${r.tur.padEnd(14)} P${String(r.puan.performance).padStart(3)} E${String(r.puan.accessibility).padStart(3)} İ${String(r.puan["best-practices"]).padStart(3)} S${String(r.puan.seo).padStart(3)}  LCP ${(r.lcpMs / 1000).toFixed(1)} sn  TBT ${r.tbtMs} ms  CLS ${r.cls}  ${r.aktarimKb} KB`
+      ? `${r.tur.padEnd(14)} P${String(r.puan.performance).padStart(3)} E${String(r.puan.accessibility).padStart(3)} İ${String(r.puan["best-practices"]).padStart(3)} S${String(r.puan.seo).padStart(3)}  LCP ${(r.lcpMs / 1000).toFixed(1)} sn  TBT ${r.tbtMs} ms${r.kosu > 1 ? ` (${r.tbtAralik.join('–')})` : ''}  CLS ${r.cls}  ${r.aktarimKb} KB`
       : `${r.tur.padEnd(14)} HATA ${r.hata}`
   );
 }
 const tamam = sonuc.filter((r) => r.puan);
 const ort = (k) => Math.round(tamam.reduce((t, r) => t + r.puan[k], 0) / Math.max(1, tamam.length));
-const ozet = { tarih: new Date().toISOString(), taban: TABAN, ortalama: Object.fromEntries(KATEGORILER.map((k) => [k, ort(k)])), sayfalar: sonuc };
+const ozet = { tarih: new Date().toISOString(), taban: TABAN, tekrar: TEKRAR, ortalama: Object.fromEntries(KATEGORILER.map((k) => [k, ort(k)])), sayfalar: sonuc };
 mkdirSync(dirname(CIKTI), { recursive: true });
 writeFileSync(CIKTI, JSON.stringify(ozet, null, 2) + "\n", "utf8");
 console.log(`\nOrtalama: ${JSON.stringify(ozet.ortalama)} → ${CIKTI}`);
