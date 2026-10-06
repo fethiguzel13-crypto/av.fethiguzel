@@ -22,18 +22,21 @@ const outfit = Outfit({
   variable: '--font-heading',
   display: 'swap',
 })
+/* Süs ve eş aralıklı aile ilk ekranda gerekmez; önden yüklenmez, kullanıldığı anda gelir (G13: 14 dosya → 4). */
 const cormorant = Cormorant_Garamond({
   subsets: ['latin', 'latin-ext'],
   style: ['normal', 'italic'],
   weight: ['400', '500', '600', '700'],
   variable: '--font-drama',
   display: 'swap',
+  preload: false,
 })
 const ibmPlex = IBM_Plex_Mono({
   subsets: ['latin', 'latin-ext'],
   weight: ['400', '500', '600'],
   variable: '--font-mono',
   display: 'swap',
+  preload: false,
 })
 
 const siteUrl = 'https://www.avfethiguzel.com'
@@ -319,12 +322,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <head>
         <link rel="preconnect" href="https://images.unsplash.com" />
         <link rel="dns-prefetch" href="https://images.unsplash.com" />
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap"
-          rel="stylesheet"
-        />
+        {/* Yazı tipleri next/font ile kendi alan adımızdan gelir; dış stil dosyası işlemeyi engelliyordu (G13). */}
         <link rel="alternate" type="text/plain" href="/llms.txt" title="LLM context" />
         <script
           type="application/ld+json"
