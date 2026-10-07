@@ -363,3 +363,16 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Oturum 08:17'de bitirildi. Adım 4 yeni tasarım kararı gerektirir: Karar sayfası G00'da Vercel kullanımı için kabuğa çevrilmişti,
   sunucuda künye başlığı eklemek bu kararla tartılmalıdır. Bu yüzden kalan sürede başlatılmadı.
 - Sıradaki: G14 adım 4 (karar sayfası başlığı ve özeti), sonra adım 5 (mobil arşiv ve `smoke-ui`). G14 DEVAM EDİYOR.
+
+## 2026-10-07 09:00 — G14 DEVAM EDİYOR (başsız oturum, başladı 09:00)
+
+- Devralma: çalışma ağacı temiz, `DURAKLAT` yok, son commit `1f468bb9e`. Adım 4 başlıyor (karar sayfası başlığı ve özeti).
+- G14 adım 4: Karar sayfası ISR kabuğu olarak kaldı. Sunucu, yayın indeksinden künye, kademe, tarih, konu ve kararın başını basıyor,
+  tam metin yalnız üyeye istemcide geliyor. İndekste olmayan kimlik 404 dönüyor, kırıntı yolu eklendi. `lib/yargi-karar-sayfa.mjs`
+  testi önce kırmızı, sonra 8/8 yeşil. Sayfalar dizine kapalı kaldı, kullanıcıya soru 20 eklendi.
+- Doğrulama: tam `npm run kalite` iki kez yeşil (748 test; derleme 344 sn, görsel düzeltmeden sonra 217 sn). Derlenmiş sitede karar
+  sayfası 200, başlık künye, `noindex, follow`, ISR önbelleği HIT. Geçersiz ve indeks dışı kimlik 404, üyeliksiz API 401 döndü.
+  İlk ekran görüntüsünde görülen iki kusur (tekrarlanan daire satırı, küçük harfle başlayan üyelik kartı) düzeltildi, görüntüler
+  `raporlar/gorsel/g14-karar-sayfasi-sonra-*.png`. Sunucu kapatıldı, zaman damgalı dosyalar geri alındı (`59cbf5c58`).
+  TestSprite: değişiklik yayında değil (30 Ekim), koşulmadı.
+- Adım 6 (madde ↔ karar bağlantısı) soru 20'ye bağlı kaldı, zira G11 kuralı bağlantıyı yalnız dizine açık sayfaya verir.
