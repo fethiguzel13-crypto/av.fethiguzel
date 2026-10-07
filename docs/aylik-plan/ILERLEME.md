@@ -348,5 +348,12 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   silindi. Zaman damgalı dört dosya geri alındı. Bu oturumda yalnız belgeler ve ölçüm kayıtları değişti (`8c7f83309`). TestSprite: kod değişmedi,
   koşulmadı.
 - **G13 tamamlandı** (PLAN.md'de `[x]`). Sıradaki: G14 (yargı kararları yayın hazırlığı, bağımlılığı G04 `[x]`).
-- G14 DEVAM EDİYOR (başladı 08:00). Alt plan `gorevler/G14.md` yazıldı: `yararli` etiketi dizinde yalnız yeni kararlarda var, tam
+- G14 DEVAM EDİYOR (başladı 07:53). Alt plan `gorevler/G14.md` yazıldı: `yararli` etiketi dizinde yalnız yeni kararlarda var, tam
   kaynak emsal defteri `_state/benzerlik.jsonl` (39.254 yararlı / 113.822).
+- G14 adım 1: `mobile/scripts/lib/yayin-suzgec.mjs` (test önce kırmızı, 5/5 yeşil), `build-icthat-data.mjs` defterle süzer, `--hepsi`
+  eski davranış, `--cikti=<klasör>` geçici çıktı (`740104114` ve bu oturumun son commit'i). Duman geçici klasörde: 39.278 / 113.844
+  karar yayında, web indeksi 1.894 KB (mevcut 70.249 satır, 2.410 KB). Gerçek `public/` ve `mobile/data-src` dokunulmadı.
+  Kullanıcıya soru 19 (ücretli arşivde de yalnız süzülmüş küme mi) eklendi.
+- `kalite:hizli` iki kez yeşil (737 test). Belgelerde tahminle yazılmış iki saat commit zamanlarına göre düzeltildi.
+  TestSprite: değişiklik yayında değil (30 Ekim) ve yalnız derleme betiği, koşulmadı.
+- Sıradaki: G14 adım 3 (ücretli indeksi `public/` dışına taşımak; okuyan dört yer `gorevler/G14.md`'de). G14 DEVAM EDİYOR.

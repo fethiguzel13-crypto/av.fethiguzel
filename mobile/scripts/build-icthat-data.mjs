@@ -31,9 +31,11 @@ const here = dirname(fileURLToPath(import.meta.url));
 const mobile = join(here, '..');
 const portal = join(mobile, '..');
 const yargiRoot = join(portal, 'data', 'yargi-kararlari');
-const outDir = join(mobile, 'data-src', 'icthat');
+/** `--cikti=<klasör>`: duman ve ölçüm için çıktılar `<klasör>/icthat` ve `<klasör>/public-data` altına yazılır. */
+const ciktiArg = process.argv.find((a) => a.startsWith('--cikti='))?.slice('--cikti='.length);
+const outDir = ciktiArg ? join(ciktiArg, 'icthat') : join(mobile, 'data-src', 'icthat');
 const fullDir = join(outDir, 'fulltext');
-const publicData = join(portal, 'public', 'data');
+const publicData = ciktiArg ? join(ciktiArg, 'public-data') : join(portal, 'public', 'data');
 
 /** Site push: indeks/istatistik/vitrin yazar; tam metin shard'larını belleğe almaz. */
 const webOnly = process.argv.includes('--web-only');
