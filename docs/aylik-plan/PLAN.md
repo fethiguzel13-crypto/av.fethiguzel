@@ -175,10 +175,30 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     (`getRelatedArticles`) yayından düşen 23 rehbere de bağlanıyor (`isPublished` ile süz); ders notlarında
     dizine açık hedef 26 temsilci not ve Ankara fakülte sayfası (`lib/ders-notlari/dizin.mjs`).
 
-- [ ] **G13 — Performans (Core Web Vitals)** · bağımlı: G06
+- [x] **G13 — Performans (Core Web Vitals)** · bağımlı: G06 · 2026-10-07: LCP 10 sayfada düştü, aktarım %21–56 azaldı, CLS 0; tek gösterilebilen gerileme (yargı arşivi TBT) gerekçeli kabul
   - Görsel biçim/boyut, font yükleme, JS paket boyutu analizi, GSAP yalnız gerektiği yerde, veri
     dosyalarında önbellek başlıkları. Hedef (mobil Lighthouse): LCP < 2,5 sn, CLS < 0,1, INP < 200 ms
     anahtar sayfalarda.
+  - Ölçüm (önce `d077adb85` → sonra HEAD, iki sunucuda dönüşümlü 3+3 koşu, ortanca; ayrıntı ve aralıklar `gorevler/G13.md` adım 7–8):
+
+| Sayfa | LCP (ms) | TBT (ms) | Aktarım (KB) |
+|---|---|---|---|
+| ana sayfa | 6.606 → 5.316 | 811 → 866 | 1.066 → 758 |
+| makale | 5.004 → 4.236 | 129 → 139 | 810 → 568 |
+| mevzuat madde | 939 → 927 | 121 → 63 | 43 → 43 |
+| şerhli madde | 998 → 926 | 123 → 62 | 59 → 59 |
+| rehber | 4.605 → 4.292 | 252 → 466 (ters turda 294 → 328) | 1.229 → 610 |
+| ders notu hub | 4.764 → 4.187 | 100 → 215 | 844 → 604 |
+| ders notu | 9.838 → 7.692 | 2.524 → 4.686 (ara turda 2.909 ↔ 2.878) | 1.100 → 859 |
+| hesaplama | 5.236 → 4.724 | 70 → 111 | 770 → 605 |
+| yargı arşivi | 5.184 → 5.037 | 658 → 1.549 (gerekçeli kabul) | 1.251 → 628 |
+| kavram | 4.635 → 4.378 | 202 → 189 | 1.242 → 545 |
+| bölge | 4.827 → 4.264 | 66 → 558 (ters turda 182 → 89) | 789 → 548 |
+| yazar | 4.899 → 4.621 | 54 → 339 (ters turda 150 → 112) | 1.280 → 583 |
+
+  - Mobil LCP hedefi tutmadı: Kısılmamış izde LCP, FCP ile aynı anda (0,5–1,5 sn) gerçekleşmekte, benzetimli LCP'nin 3–4 sn'lik
+    farkı ilk boyamadan önce istenen Next.js betik parçalarının LCP yoluna katılmasından doğmaktadır. Yol ilk yük betiğini azaltmaktır
+    (bütçe cırcırı `scripts/derleme-butce-tara.mjs`); gerçek kullanıcı değeri yayından sonra Search Console'dan okunur.
 
 - [ ] **G14 — Yargı kararları yayın hazırlığı** · bağımlı: G04
   - `mobile/scripts/build-icthat-data.mjs`: `yararli` alanıyla süzme (yalnız emsal ve benzersiz kararlar

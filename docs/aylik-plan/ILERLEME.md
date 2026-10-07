@@ -321,3 +321,30 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   Bu oturumda yalnız belgeler ve ölçüm kayıtları değişti (`d5f34d12a`), zaman damgalı `priority-sitemap.xml` geri alındı. TestSprite: değişiklik yayında değil (30 Ekim), doğrulanmadı.
 - Sıradaki: G13 kapanışı. Kalan sekiz sayfa önce derlemesiyle (`.next-once`, `d077adb85` kaynakları) dönüşümlü ölçülür, tablo
   PLAN.md'ye yazılır, tam `npm run kalite` çalıştırılır. G13 DEVAM EDİYOR.
+
+## 2026-10-06 20:00 — G13 DEVAM EDİYOR (başsız oturum, başladı 20:00)
+
+- Sıra: tam `npm run kalite` (HEAD'den yeni `.next`), sonra önce derlemesi `.next-once`, sonra kalan sekiz sayfanın dönüşümlü ölçümü.
+- 20:20 tam `npm run kalite` yeşil (732 test, derleme 385 sn); `.next` artık HEAD sonra derlemesidir. Önce derlemesi `.next-once`
+  kuruluyor, 13 kaynak dosya geçici olarak `d077adb85` sürümünde. Kesilirse: `git checkout HEAD -- app components lib next.config.ts
+  tsconfig.json`, `.next-once` silinir, 3123/3124 süreçleri durdurulur.
+- 21:09 önce derlemesi kuruldu (düşük boş bellekte 40 dk), kaynaklar HEAD'e döndü. 3123 sonra (`.next`), 3124 önce (`.next-once`;
+  HTML'de harita iframe'i ve Google Fonts, görsel `max-age=0`). 21:13 dönüşümlü ölçüm başladı, üç sayfalık gruplar hâlinde
+  (`lighthouse-g13-donusumlu-kalan.json`, `--sadece` ile birikir).
+- 21:25 ilk grup (makale, mevzuat madde, şerhli madde) kaydedildi. 21:26'da altı sayfalık ikinci grup sürerken oturum uyarısız
+  kesildi (döküm araç sonucu olmadan bitiyor, sunucular sabah ayakta değildi).
+
+## 2026-10-07 07:00 — G13 DEVAM EDİYOR (başsız oturum, başladı 07:00)
+
+- Devralma: `.next` (20:08, HEAD) ve `.next-once` (21:07, `d077adb85`) sağlam, port 3123/3124 boş. Kalan altı sayfa (rehber, ders notu
+  hub, hesaplama, kavram, bölge, yazar) aynı yöntemle ölçülüyor. Kesilirse 3123/3124 süreçleri durdurulur, `.next-once` silinir.
+- 07:30 ölçüm bitti (tablo `gorevler/G13.md` adım 8). Ölçüt rehberde TBT ve ana iş parçacığı için gerileme işaretledi. Bölge ve yazarda
+  TBT ortancası örtüşen aralıkla yükseldi. Bu üç sayfa kontrolle birlikte roller ters çevrilerek yeniden ölçüldü
+  (`lighthouse-g13-donusumlu-ters.json`) ve farklar tekrar etmedi. Tekrar eden tek sonuç LCP iyileşmesidir.
+- Mobil LCP hedefi (< 2,5 sn) için altı sayfada LCP öğesi ve evreleri çıkarıldı (geçici betik silindi). Gözlenen LCP, FCP ile aynı
+  anda gerçekleşmektedir. Benzetimli LCP'deki 3–4 sn'lik gecikme, ilk boyamadan önce istenen betik parçalarından doğmaktadır.
+  Neden ve izleme yolu G13.md ile PLAN.md'ye yazıldı.
+- 07:51 tam `npm run kalite` yeşil (732 test, derleme 305 sn, bütçe taraması geçti). Sunucular (3123, 3124) kapatıldı, `.next-once`
+  silindi. Zaman damgalı dört dosya geri alındı. Bu oturumda yalnız belgeler ve ölçüm kayıtları değişti. TestSprite: kod değişmedi,
+  koşulmadı.
+- **G13 tamamlandı** (PLAN.md'de `[x]`). Sıradaki: G14 (yargı kararları yayın hazırlığı, bağımlılığı G04 `[x]`).

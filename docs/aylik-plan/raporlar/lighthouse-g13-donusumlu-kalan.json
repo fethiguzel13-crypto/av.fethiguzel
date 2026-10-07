@@ -1,0 +1,617 @@
+{
+  "tarih": "2026-10-07T04:29:51.437Z",
+  "taban": "http://localhost:3123",
+  "karsi": "http://localhost:3124",
+  "tekrar": 3,
+  "ortalama": {
+    "performance": 83,
+    "accessibility": 94,
+    "best-practices": 100,
+    "seo": 100
+  },
+  "sayfalar": [
+    {
+      "tur": "makale",
+      "yol": "/makale-oku/ARABULUCULUK/arabuluculuk%20anla%C5%9Fma%20belgesi.docx",
+      "puan": {
+        "performance": 84,
+        "accessibility": 94,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 4236,
+      "fcpMs": 1384,
+      "tbtMs": 139,
+      "cls": 0,
+      "siMs": 1942,
+      "anaIsMs": 1603,
+      "aktarimKb": 568,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "skip-link"
+      ],
+      "tbtAralik": [
+        66,
+        144
+      ],
+      "anaIsAralik": [
+        1561,
+        1971
+      ],
+      "kosu": 3,
+      "karsi": {
+        "tur": "makale",
+        "yol": "/makale-oku/ARABULUCULUK/arabuluculuk%20anla%C5%9Fma%20belgesi.docx",
+        "puan": {
+          "performance": 79,
+          "accessibility": 94,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "lcpMs": 5004,
+        "fcpMs": 1897,
+        "tbtMs": 129,
+        "cls": 0,
+        "siMs": 2480,
+        "anaIsMs": 2182,
+        "aktarimKb": 810,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast",
+          "skip-link"
+        ],
+        "tbtAralik": [
+          84,
+          491
+        ],
+        "anaIsAralik": [
+          1866,
+          3127
+        ],
+        "kosu": 3
+      },
+      "gerileme": {
+        "tbtMs": false,
+        "lcpMs": false,
+        "anaIsMs": false
+      }
+    },
+    {
+      "tur": "mevzuat madde",
+      "yol": "/mevzuat/tck/madde-81",
+      "puan": {
+        "performance": 100,
+        "accessibility": 92,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 927,
+      "fcpMs": 782,
+      "tbtMs": 63,
+      "cls": 0,
+      "siMs": 782,
+      "anaIsMs": 370,
+      "aktarimKb": 43,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "heading-order"
+      ],
+      "tbtAralik": [
+        57,
+        64
+      ],
+      "anaIsAralik": [
+        355,
+        391
+      ],
+      "kosu": 3,
+      "karsi": {
+        "tur": "mevzuat madde",
+        "yol": "/mevzuat/tck/madde-81",
+        "puan": {
+          "performance": 99,
+          "accessibility": 92,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "lcpMs": 939,
+        "fcpMs": 787,
+        "tbtMs": 121,
+        "cls": 0,
+        "siMs": 787,
+        "anaIsMs": 561,
+        "aktarimKb": 43,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast",
+          "heading-order"
+        ],
+        "tbtAralik": [
+          58,
+          211
+        ],
+        "anaIsAralik": [
+          367,
+          631
+        ],
+        "kosu": 3
+      },
+      "gerileme": {
+        "tbtMs": false,
+        "lcpMs": false,
+        "anaIsMs": false
+      }
+    },
+    {
+      "tur": "şerhli madde",
+      "yol": "/mevzuat/tbk/madde-49",
+      "puan": {
+        "performance": 100,
+        "accessibility": 92,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 926,
+      "fcpMs": 905,
+      "tbtMs": 62,
+      "cls": 0,
+      "siMs": 905,
+      "anaIsMs": 492,
+      "aktarimKb": 59,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "heading-order"
+      ],
+      "tbtAralik": [
+        11,
+        290
+      ],
+      "anaIsAralik": [
+        441,
+        953
+      ],
+      "kosu": 3,
+      "karsi": {
+        "tur": "şerhli madde",
+        "yol": "/mevzuat/tbk/madde-49",
+        "puan": {
+          "performance": 99,
+          "accessibility": 92,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "lcpMs": 998,
+        "fcpMs": 914,
+        "tbtMs": 123,
+        "cls": 0,
+        "siMs": 985,
+        "anaIsMs": 719,
+        "aktarimKb": 59,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast",
+          "heading-order"
+        ],
+        "tbtAralik": [
+          62,
+          390
+        ],
+        "anaIsAralik": [
+          611,
+          1055
+        ],
+        "kosu": 3
+      },
+      "gerileme": {
+        "tbtMs": false,
+        "lcpMs": false,
+        "anaIsMs": false
+      }
+    },
+    {
+      "tur": "rehber",
+      "yol": "/rehber/kidem-tazminati",
+      "puan": {
+        "performance": 74,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 4292,
+      "fcpMs": 1294,
+      "tbtMs": 466,
+      "cls": 0,
+      "siMs": 2136,
+      "anaIsMs": 3106,
+      "aktarimKb": 610,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast"
+      ],
+      "tbtAralik": [
+        427,
+        784
+      ],
+      "anaIsAralik": [
+        2512,
+        3204
+      ],
+      "kosu": 3,
+      "kosuHatalari": [
+        "lighthouse çıktısı yok"
+      ],
+      "karsi": {
+        "tur": "rehber",
+        "yol": "/rehber/kidem-tazminati",
+        "puan": {
+          "performance": 78,
+          "accessibility": 96,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "lcpMs": 4605,
+        "fcpMs": 1681,
+        "tbtMs": 252,
+        "cls": 0,
+        "siMs": 2016,
+        "anaIsMs": 2433,
+        "aktarimKb": 1229,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast"
+        ],
+        "tbtAralik": [
+          216,
+          254
+        ],
+        "anaIsAralik": [
+          2373,
+          2463
+        ],
+        "kosu": 3,
+        "kosuHatalari": [
+          "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)"
+        ]
+      },
+      "gerileme": {
+        "tbtMs": true,
+        "lcpMs": false,
+        "anaIsMs": true
+      }
+    },
+    {
+      "tur": "ders notu hub",
+      "yol": "/ders-notlari",
+      "puan": {
+        "performance": 83,
+        "accessibility": 94,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 4187,
+      "fcpMs": 1251,
+      "tbtMs": 215,
+      "cls": 0,
+      "siMs": 1527,
+      "anaIsMs": 2158,
+      "aktarimKb": 604,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "skip-link"
+      ],
+      "tbtAralik": [
+        86,
+        594
+      ],
+      "anaIsAralik": [
+        1743,
+        3134
+      ],
+      "kosu": 3,
+      "karsi": {
+        "tur": "ders notu hub",
+        "yol": "/ders-notlari",
+        "puan": {
+          "performance": 81,
+          "accessibility": 94,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "lcpMs": 4764,
+        "fcpMs": 1675,
+        "tbtMs": 100,
+        "cls": 0,
+        "siMs": 1826,
+        "anaIsMs": 1906,
+        "aktarimKb": 844,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast",
+          "skip-link"
+        ],
+        "tbtAralik": [
+          62,
+          101
+        ],
+        "anaIsAralik": [
+          1466,
+          2561
+        ],
+        "kosu": 3
+      },
+      "gerileme": {
+        "tbtMs": false,
+        "lcpMs": false,
+        "anaIsMs": false
+      }
+    },
+    {
+      "tur": "hesaplama",
+      "yol": "/hesaplama/kidem",
+      "puan": {
+        "performance": 82,
+        "accessibility": 96,
+        "best-practices": 96,
+        "seo": 100
+      },
+      "lcpMs": 4724,
+      "fcpMs": 1232,
+      "tbtMs": 111,
+      "cls": 0,
+      "siMs": 1323,
+      "anaIsMs": 1633,
+      "aktarimKb": 605,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "label-content-name-mismatch"
+      ],
+      "tbtAralik": [
+        96,
+        126
+      ],
+      "anaIsAralik": [
+        1506,
+        1910
+      ],
+      "kosu": 3,
+      "karsi": {
+        "tur": "hesaplama",
+        "yol": "/hesaplama/kidem",
+        "puan": {
+          "performance": 80,
+          "accessibility": 96,
+          "best-practices": 96,
+          "seo": 100
+        },
+        "lcpMs": 5236,
+        "fcpMs": 1665,
+        "tbtMs": 70,
+        "cls": 0,
+        "siMs": 1665,
+        "anaIsMs": 1942,
+        "aktarimKb": 770,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast",
+          "label-content-name-mismatch"
+        ],
+        "tbtAralik": [
+          70,
+          105
+        ],
+        "anaIsAralik": [
+          1782,
+          2288
+        ],
+        "kosu": 3
+      },
+      "gerileme": {
+        "tbtMs": false,
+        "lcpMs": false,
+        "anaIsMs": false
+      }
+    },
+    {
+      "tur": "kavram",
+      "yol": "/kavram/kidem-tazminati",
+      "puan": {
+        "performance": 82,
+        "accessibility": 94,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 4378,
+      "fcpMs": 1257,
+      "tbtMs": 189,
+      "cls": 0,
+      "siMs": 1723,
+      "anaIsMs": 2127,
+      "aktarimKb": 545,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast",
+        "heading-order"
+      ],
+      "tbtAralik": [
+        86,
+        334
+      ],
+      "anaIsAralik": [
+        1104,
+        2552
+      ],
+      "kosu": 3,
+      "karsi": {
+        "tur": "kavram",
+        "yol": "/kavram/kidem-tazminati",
+        "puan": {
+          "performance": 79,
+          "accessibility": 94,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "lcpMs": 4635,
+        "fcpMs": 1677,
+        "tbtMs": 202,
+        "cls": 0,
+        "siMs": 1717,
+        "anaIsMs": 2405,
+        "aktarimKb": 1242,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast",
+          "heading-order"
+        ],
+        "tbtAralik": [
+          106,
+          223
+        ],
+        "anaIsAralik": [
+          1375,
+          2685
+        ],
+        "kosu": 3
+      },
+      "gerileme": {
+        "tbtMs": false,
+        "lcpMs": false,
+        "anaIsMs": false
+      }
+    },
+    {
+      "tur": "bölge",
+      "yol": "/ercis-avukat",
+      "puan": {
+        "performance": 71,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 4264,
+      "fcpMs": 1271,
+      "tbtMs": 558,
+      "cls": 0,
+      "siMs": 2227,
+      "anaIsMs": 2769,
+      "aktarimKb": 548,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast"
+      ],
+      "tbtAralik": [
+        117,
+        572
+      ],
+      "anaIsAralik": [
+        1834,
+        2999
+      ],
+      "kosu": 3,
+      "karsi": {
+        "tur": "bölge",
+        "yol": "/ercis-avukat",
+        "puan": {
+          "performance": 81,
+          "accessibility": 96,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "lcpMs": 4827,
+        "fcpMs": 1682,
+        "tbtMs": 66,
+        "cls": 0,
+        "siMs": 1699,
+        "anaIsMs": 2332,
+        "aktarimKb": 789,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast"
+        ],
+        "tbtAralik": [
+          57,
+          177
+        ],
+        "anaIsAralik": [
+          1818,
+          2524
+        ],
+        "kosu": 3
+      },
+      "gerileme": {
+        "tbtMs": false,
+        "lcpMs": false,
+        "anaIsMs": false
+      }
+    },
+    {
+      "tur": "yazar",
+      "yol": "/avukat-fethi-guzel",
+      "puan": {
+        "performance": 75,
+        "accessibility": 96,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 4621,
+      "fcpMs": 1264,
+      "tbtMs": 339,
+      "cls": 0,
+      "siMs": 2200,
+      "anaIsMs": 2560,
+      "aktarimKb": 583,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "color-contrast"
+      ],
+      "tbtAralik": [
+        37,
+        392
+      ],
+      "anaIsAralik": [
+        1162,
+        2792
+      ],
+      "kosu": 3,
+      "karsi": {
+        "tur": "yazar",
+        "yol": "/avukat-fethi-guzel",
+        "puan": {
+          "performance": 80,
+          "accessibility": 96,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "lcpMs": 4899,
+        "fcpMs": 1695,
+        "tbtMs": 54,
+        "cls": 0,
+        "siMs": 2157,
+        "anaIsMs": 1946,
+        "aktarimKb": 1280,
+        "seoBasarisiz": [],
+        "erisilebilirlikBasarisiz": [
+          "color-contrast"
+        ],
+        "tbtAralik": [
+          30,
+          242
+        ],
+        "anaIsAralik": [
+          1457,
+          3137
+        ],
+        "kosu": 3
+      },
+      "gerileme": {
+        "tbtMs": false,
+        "lcpMs": false,
+        "anaIsMs": false
+      }
+    }
+  ]
+}
