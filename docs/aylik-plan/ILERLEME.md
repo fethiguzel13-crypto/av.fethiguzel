@@ -413,4 +413,4 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Adım 7 raporu `raporlar/yargi-yayin.md` dosyasına yazılmıştır. Adım 6 soru 20'ye bağlı olarak ertelenmiştir.
 - **G14 tamamlandı** (PLAN.md'de `[x]`). Arşiv sayfasının TBT notu G15'e devredilmiştir. Sıradaki: G15 (tasarım sistemi
   denetimi, bağımlılığı G06 `[x]`). Hafta 2'nin kalan görevleri bitmiştir.
-- G15 DEVAM EDİYOR (başladı 12:35). Alt plan `gorevler/G15.md` yazıldı.
+- G15 DEVAM EDİYOR (başladı 12:27). Alt plan `gorevler/G15.md` yazıldı.
