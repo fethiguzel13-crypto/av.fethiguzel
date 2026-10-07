@@ -200,7 +200,11 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     farkı ilk boyamadan önce istenen Next.js betik parçalarının LCP yoluna katılmasından doğmaktadır. Yol ilk yük betiğini azaltmaktır
     (bütçe cırcırı `scripts/derleme-butce-tara.mjs`); gerçek kullanıcı değeri yayından sonra Search Console'dan okunur.
 
-- [ ] **G14 — Yargı kararları yayın hazırlığı** · bağımlı: G04
+- [x] **G14 — Yargı kararları yayın hazırlığı** · bağımlı: G04 · 2026-10-07: 114.625 kararın 39.718'i yayında; ücretli indeks `public/` dışında (401); karar sayfası künye + kararın başı, indeks dışı 404; `smoke-ui` 23/23; madde atfı 649 → 1.521 madde; rapor `raporlar/yargi-yayin.md`, soru 19–20
+  - Kapanış (`279d3c5c9`): Adım 6 (madde ↔ karar bağlantısı) soru 20'nin yanıtına bağlı olarak ertelendi. Yanıt olumluysa
+    `KARAR_SAYFASI_DIZINDE` açılır ve bağlantı `mevzuat/atif.json.gz` eşlemesinden kurulur. Aşağıdaki G13 notu (arşiv sayfası
+    TBT'si) bu görevde ele alınmadı, zira yalnız karar sayfası düzenlendi. Not G15'e devredilir. Yayın günü yapılacaklar: üye
+    hesabıyla indeks okuması bir kez denenir, mobil tam derleme rehber, kütüphane ve tohum verisini de yeniler.
   - `mobile/scripts/build-icthat-data.mjs`: `yararli` alanıyla süzme (yalnız emsal ve benzersiz kararlar
     yayına), karar sayfası başlığı/özeti, üyelik duvarının doğruluğu, index boyutu.
   - G04 notu: ücretli `yargi-index.json.gz` `public/` altında; yalnız `next.config.ts` beforeFiles yeniden yazması
@@ -223,6 +227,8 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
   - Renk/tipografi/boşluk jetonları, WCAG AA kontrast, koyu tema, bileşen tutarlılığı; ana sayfa,
     makale, mevzuat, ders notu, yargı arşivi sayfalarında en önemli sorunlar. Önce/sonra ekran görüntüsü
     `raporlar/gorsel/`.
+  - G14'ten devir (G13 notu): `/yargi-kararlari` mobil TBT'si yaklaşık 1,5 sn. Arşiv sayfası düzenlenirken React çatı
+    parçasındaki uzun görevler ve yazı tipi değişiminin yerleşim maliyeti profillenir (`gorevler/G13.md`).
 
 - [ ] **G16 — Ana sayfa ve yazar sayfaları** · bağımlı: G09, G15
   - Otorite öncelikli kurgu: yazar, eserler, şerh külliyatı, karar arşivi büyüklüğü, güncel içtihat.

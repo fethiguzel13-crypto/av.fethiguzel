@@ -380,3 +380,36 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   yazdığından kesilme riskine karşı başlatılmadı. Döküm ve geri alma yordamı `gorevler/G14.md` adım 5 hazırlığında.
 - Oturum 09:52'de bitirildi, port 3123 boş, ağaç temiz.
 - Sıradaki: G14 adım 5, tam süreli bir oturumun başında (mobil tam derleme, `smoke-ui`), sonra adım 7 (rapor). G14 DEVAM EDİYOR.
+
+## 2026-10-07 10:00 — G14 DEVAM EDİYOR (başsız oturum, başladı 10:00)
+
+- Devralma: çalışma ağacı temiz, `DURAKLAT` yok, son commit `c850487a4`, port 3123/3124 boş, boş bellek ~1.000 MB. Adım 5 başlıyor
+  (mobil tam derleme). Kesilirse `git checkout -- mobile/data-src public/data data/yayin` ile izlenen çıktılar geri alınır.
+- Kayıt bu oturumda yazılamamıştır. Aşağıdaki maddeler 12:00 oturumunun döküm (`0781d38e…jsonl`) üzerinden yaptığı
+  özettir. İlk tam derleme bellek yetersizliğiyle düşmüştür, zira `build-icthat-data.mjs` 39 bin kararın tam metnini 80 parçalık
+  tek nesnede toplamaktaydı. Parçaları sırayla okuyup yazan `mobile/scripts/lib/parca-yaz.mjs` testle yazılmış (3/3), ikinci
+  derleme 10:13'te geçmiştir: 39.460 karar arşivde, 80 parça, eksik metin 0. `smoke-ui` 23 adımın tamamında yeşildir.
+  Eski örnek karar `16851400` defterde `u=0` olduğu için arşivden çıkmış, `smoke-ui` ile `design-audit` örneği YİBK kararı
+  `752428200` yapılmıştır. `lib/site-stats.ts` yedek sayacı 39.460'a çekilmiş, tam `npm run kalite` 10:24'te yeşildir (751 test).
+- Aynı derlemede süzgeçten bağımsız bir gerileme görülmüştür: Mobil madde atıflarında Ceza Muhakemesi Kanunu ve Türk Medeni
+  Kanunu eşlemeden düşmüştür (önce 1.322 ve 961 atıf). 2026 kararları atfı «5271 sayılı Kanun’un» diye yazdığından en sık ad
+  «Kanun’un» çıkmaktadır. Bu adı sayımdan ayıran `mobile/scripts/lib/atif-ad.mjs` testle yazılmış (2/2) ve
+  `build-yargi-index.mjs`'e bağlanmıştır. Üçüncü derleme başlatıldıktan hemen sonra oturum 10:25'te kullanım sınırıyla
+  kesilmiştir. 11:00 oturumu da açılışta aynı sınıra takılmıştır.
+
+## 2026-10-07 12:00 — G14 DEVAM EDİYOR (başsız oturum, başladı 12:00)
+
+- Devralma: `DURAKLAT` yok, son commit `c850487a4`. Ağaçtaki değişiklikler G14 adım 5'indir, kesinti dökümde
+  `"error":"rate_limit"` ile doğrulanmıştır. Üçüncü derlemenin günlüğü «tohum» satırında kalmıştır, ağaçtaki veri ikinci
+  derlemenindir. Boş bellek 394 MB'tır (toplam 7,9 GB), hasat motoru çalışmaktadır ve portlar boştur. Atıf düzeltmesiyle tam
+  mobil derleme yeniden koşulmaktadır.
+- Mobil tam derleme 12:02–12:12 arasında çıkış 0 ile tamamlanmıştır: 114.625 kararın 39.718'i yayında, 80 parça, eksik metin 0.
+  Kanun eşlemesi 24/46'dan 31/46'ya, bağlanan atıf 5.803'ten 17.637'ye, atfı bulunan madde 649'dan 1.521'e çıkmıştır (11 Eylül:
+  1.044). HMK, TBK, 5510, 4735 ve 6458 ilk kez bağlanmış, TTK, Vakıflar ve Belediye paketleri yürürlükteki numaraya geçmiştir.
+- Derlemenin yeniden ürettiği rehber, kütüphane ve tohum dosyaları içerik olarak da değişmiştir. G14 dışında kaldıkları için
+  geri alınmış, uygulama `--sadece-arayuz` ile yeniden derlenmiş, `smoke-ui` 23/23 yeşil çıkmıştır. `site-stats` yedeği 39.718'dir.
+- 12:24 tam `npm run kalite` yeşildir (753 test, derleme 388 sn). Zaman damgalı dosyalar geri alınmıştır (`279d3c5c9`).
+  TestSprite: değişiklik yayında değil (30 Ekim), koşulmamıştır.
+- Adım 7 raporu `raporlar/yargi-yayin.md` dosyasına yazılmıştır. Adım 6 soru 20'ye bağlı olarak ertelenmiştir.
+- **G14 tamamlandı** (PLAN.md'de `[x]`). Arşiv sayfasının TBT notu G15'e devredilmiştir. Sıradaki: G15 (tasarım sistemi
+  denetimi, bağımlılığı G06 `[x]`). Hafta 2'nin kalan görevleri bitmiştir.
