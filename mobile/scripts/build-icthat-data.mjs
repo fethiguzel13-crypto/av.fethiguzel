@@ -25,6 +25,7 @@ import {
 import { gzipSync } from 'node:zlib';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { defteriOku, yayinaGirer } from './lib/yayin-suzgec.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
 const mobile = join(here, '..');
@@ -36,6 +37,8 @@ const publicData = join(portal, 'public', 'data');
 
 /** Site push: indeks/istatistik/vitrin yazar; tam metin shard'larını belleğe almaz. */
 const webOnly = process.argv.includes('--web-only');
+/** G14: varsayılan olarak yalnız yayın süzgecinden geçen kararlar girer; `--hepsi` eski davranıştır. */
+const hepsi = process.argv.includes('--hepsi');
 
 mkdirSync(outDir, { recursive: true });
 mkdirSync(publicData, { recursive: true });
@@ -161,8 +164,16 @@ if (!existsSync(idxPath)) {
 }
 
 const lines = readFileSync(idxPath, 'utf8').split('\n').filter(Boolean);
+const defterPath = join(yargiRoot, '_state', 'benzerlik.jsonl');
+if (!hepsi && !existsSync(defterPath)) {
+  console.error('[icthat] emsal defteri yok (_state/benzerlik.jsonl) — süzgeçsiz yayın için --hepsi');
+  process.exit(1);
+}
+const defter = hepsi ? null : defteriOku(readFileSync(defterPath, 'utf8').split(/\r?\n/));
 const rows = [];
 const seen = new Set();
+const byTierToplam = {};
+let suzulen = 0;
 const shards = webOnly ? null : Array.from({ length: SHARD_COUNT }, () => ({}));
 const featured = [];
 const byTier = {};
@@ -184,6 +195,11 @@ for (const line of lines) {
   seen.add(String(r.id));
 
   const tier = inferTier(r);
+  byTierToplam[tier] = (byTierToplam[tier] || 0) + 1;
+  if (defter && !yayinaGirer(r, defter)) {
+    suzulen += 1;
+    continue;
+  }
   byTier[tier] = (byTier[tier] || 0) + 1;
 
   let excerpt = '';
@@ -286,6 +302,10 @@ const stats = {
   total: rows.length,
   withText: textsKept,
   byTier,
+  // G14: arşivdeki toplam ve süzgeçte kalan; `total` yalnız yayındaki kararlardır.
+  arsivToplam: seen.size,
+  suzulen,
+  byTierToplam,
 };
 
 writeFileSync(join(publicData, 'yargi-stats.json'), JSON.stringify(stats));
@@ -325,3 +345,8 @@ console.log(
 );
 console.log(`[icthat] dosya okuma: ${filesRead} · ${elapsed}s`);
 console.log(`[icthat] kademe: ${JSON.stringify(byTier)}`);
+console.log(
+  defter
+    ? `[icthat] yayın süzgeci: ${rows.length} / ${seen.size} karar yayında · ${suzulen} süzüldü (benzer ya da emsal niteliği zayıf)`
+    : '[icthat] yayın süzgeci kapalı (--hepsi)'
+);

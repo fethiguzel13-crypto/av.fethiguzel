@@ -99,3 +99,10 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     adayın ayrı ayrı sınandığı ölçümde artışı yalnız bu değişiklik açıkladı. Hızlı ilk görüntü ve dış alan adına bağımlılığın
     kalkması (ziyaretçi IP'si Google'a gitmez) tercih edildi. Stil dosyası geri eklensin mi? *Varsayım:* yanıt gelene kadar
     kaldırılmış kalır; ayrıntı ve ölçüm tabloları `gorevler/G13.md` sonunda.
+19. **Yayına girecek karar kümesi (G14).** Plan, yalnız emsal nitelikli ve benzersiz kararların yayına girmesini öngörüyor. Hasat
+    motorunun emsal defterine göre 7 Ekim sabahı 113.830 kararın 39.265'i bu ölçütü karşılıyor. Kalanların 54 bini daha önce inen
+    bir karara benziyor, 20 bininin emsal niteliği zayıf. İçtihadı birleştirme kararları (40) etiketten bağımsız olarak dahil
+    edildi. Süzgeç web arama indeksine ve mobil arşive birlikte uygulanıyor, bu yüzden sitedeki ve uygulamadaki karar sayacı
+    yaklaşık 70 binden 39 bine inecek. Üyelere açık ücretli arşivde de yalnız bu küme mi kalsın, yoksa üyeler benzer kararları
+    da görebilsin mi? *Varsayım:* yanıt gelene kadar plan uygulanır, iki çıktı da yalnız süzülmüş kümeyi taşır. Arşivdeki
+    hiçbir karar silinmez, `--hepsi` bayrağı eski davranışı geri getirir.
