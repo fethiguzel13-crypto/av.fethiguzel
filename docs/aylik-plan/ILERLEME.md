@@ -359,5 +359,7 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - G14 adım 3: ücretli indeks `git mv` ile `data/yayin/yargi-index.json.gz`'ye taşındı, okuyan ve yazan dört dosya ile üç izleme satırı
   güncellendi (test önce 3/3 kırmızı). 08:14 tam `npm run kalite` yeşil (740 test, derleme 326 sn). Derlenmiş sitede eski adres ve
   `/api/yargi/index` üyeliksiz 401 verdi, izleme dosyası yeni yolu taşıyor. Üyeli okuma sır gerektirdiği için yerelde sınanmadı
-  (yayın günü denenecek). Sunucu kapatıldı, zaman damgalı dört dosya geri alındı.
+  (yayın günü denenecek). Sunucu kapatıldı, zaman damgalı dört dosya geri alındı (`1b38b3b30`).
+- Oturum 08:17'de bitirildi. Adım 4 yeni tasarım kararı gerektirir: Karar sayfası G00'da Vercel kullanımı için kabuğa çevrilmişti,
+  sunucuda künye başlığı eklemek bu kararla tartılmalıdır. Bu yüzden kalan sürede başlatılmadı.
 - Sıradaki: G14 adım 4 (karar sayfası başlığı ve özeti), sonra adım 5 (mobil arşiv ve `smoke-ui`). G14 DEVAM EDİYOR.
