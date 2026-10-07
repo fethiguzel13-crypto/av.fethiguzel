@@ -351,9 +351,13 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - G14 DEVAM EDİYOR (başladı 07:53). Alt plan `gorevler/G14.md` yazıldı: `yararli` etiketi dizinde yalnız yeni kararlarda var, tam
   kaynak emsal defteri `_state/benzerlik.jsonl` (39.254 yararlı / 113.822).
 - G14 adım 1: `mobile/scripts/lib/yayin-suzgec.mjs` (test önce kırmızı, 5/5 yeşil), `build-icthat-data.mjs` defterle süzer, `--hepsi`
-  eski davranış, `--cikti=<klasör>` geçici çıktı (`740104114` ve bu oturumun son commit'i). Duman geçici klasörde: 39.278 / 113.844
+  eski davranış, `--cikti=<klasör>` geçici çıktı (`740104114`, `0f56bb41f`). Duman geçici klasörde: 39.278 / 113.844
   karar yayında, web indeksi 1.894 KB (mevcut 70.249 satır, 2.410 KB). Gerçek `public/` ve `mobile/data-src` dokunulmadı.
   Kullanıcıya soru 19 (ücretli arşivde de yalnız süzülmüş küme mi) eklendi.
 - `kalite:hizli` iki kez yeşil (737 test). Belgelerde tahminle yazılmış iki saat commit zamanlarına göre düzeltildi.
   TestSprite: değişiklik yayında değil (30 Ekim) ve yalnız derleme betiği, koşulmadı.
-- Sıradaki: G14 adım 3 (ücretli indeksi `public/` dışına taşımak; okuyan dört yer `gorevler/G14.md`'de). G14 DEVAM EDİYOR.
+- G14 adım 3: ücretli indeks `git mv` ile `data/yayin/yargi-index.json.gz`'ye taşındı, okuyan ve yazan dört dosya ile üç izleme satırı
+  güncellendi (test önce 3/3 kırmızı). 08:14 tam `npm run kalite` yeşil (740 test, derleme 326 sn). Derlenmiş sitede eski adres ve
+  `/api/yargi/index` üyeliksiz 401 verdi, izleme dosyası yeni yolu taşıyor. Üyeli okuma sır gerektirdiği için yerelde sınanmadı
+  (yayın günü denenecek). Sunucu kapatıldı, zaman damgalı dört dosya geri alındı.
+- Sıradaki: G14 adım 4 (karar sayfası başlığı ve özeti), sonra adım 5 (mobil arşiv ve `smoke-ui`). G14 DEVAM EDİYOR.

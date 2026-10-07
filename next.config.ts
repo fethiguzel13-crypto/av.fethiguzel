@@ -45,7 +45,7 @@ const nextConfig: NextConfig = {
     // Eski beforeFiles → /seo-madde/*.html kesik özet veriyordu ("portal arşivinde…"); kaldırıldı.
     return {
       beforeFiles: [
-        // Public gzip would leak the paid archive index. Membership API owns it.
+        // Ücretli indeks G14'ten beri public/ dışında (data/yayin/); eski adres üyelik API'sine yönlenir.
         { source: '/data/yargi-index.json.gz', destination: '/api/yargi/index' },
       ],
       afterFiles: [],
@@ -61,9 +61,9 @@ const nextConfig: NextConfig = {
       "./node_modules/next/dist/server/dev/browser-logs/**/*",
       "./node_modules/next/dist/server/node-environment-extensions/**/*",
     ],
-    "/api/yargi/[...path]": ["./public/data/yargi-index.json.gz"],
-    "/api/yargi/index": ["./public/data/yargi-index.json.gz"],
-    "/api/yargi/karar/[id]": ["./public/data/yargi-index.json.gz"],
+    "/api/yargi/[...path]": ["./data/yayin/yargi-index.json.gz"],
+    "/api/yargi/index": ["./data/yayin/yargi-index.json.gz"],
+    "/api/yargi/karar/[id]": ["./data/yayin/yargi-index.json.gz"],
     // Ders notları — SSG dışında runtime fallback için dosya erişimi
     "/ders-notlari/[uni]/[ders]": ["./lib/ders-notlari/generated/notes/**/*"],
     "/ders-notlari/[uni]/[ders]/pdf": ["./lib/ders-notlari/generated/notes/**/*"],

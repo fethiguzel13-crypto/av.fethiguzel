@@ -710,7 +710,7 @@ console.log(
 /*
   Sitenin arama indeksi de konu başlıklarını alır.
 
-  `build-icthat-data.mjs` public/data/yargi-index.json.gz dosyasını bu
+  `build-icthat-data.mjs` data/yayin/yargi-index.json.gz dosyasını bu
   betikten ÖNCE yazar; konu çıkarımı ise burada yapılır. Sıra böyle olduğu
   için site indeksi konusuz kalıyordu: mobil uygulamada satırlar
   «Konutta silahlı yağma suçu» derken sitede aynı kararlar
@@ -803,7 +803,8 @@ function ozetiTemizle(e) {
   return s.trim();
 }
 
-const siteIndexPath = join(portal, 'public', 'data', 'yargi-index.json.gz');
+// G14: ücretli indeks public/ dışında; yalnız üyelik API'si sunar.
+const siteIndexPath = join(portal, 'data', 'yayin', 'yargi-index.json.gz');
 if (existsSync(siteIndexPath)) {
   try {
     const siteRows = JSON.parse(gunzipSync(readFileSync(siteIndexPath)).toString());

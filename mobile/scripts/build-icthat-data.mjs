@@ -9,7 +9,7 @@
  *   data-src/icthat/fulltext/manifest.json — parça sayısı
  *   public/data/yargi-stats.json           — web ana sayfa sayaçları
  *   public/data/yargi-featured.json        — vitrin kararlar (YİBK + yeni HGK)
- *   public/data/yargi-index.json.gz        — web arama indeksi
+ *   data/yayin/yargi-index.json.gz         — web arama indeksi (ücretli; public/ dışında, G14)
  *
  * Tam metinler uygulamaya gömülür: kullanıcı boyut kısıtı koymadı,
  * kalite ve çevrimdışı araştırma kütüphanesi öncelikli.
@@ -36,6 +36,10 @@ const ciktiArg = process.argv.find((a) => a.startsWith('--cikti='))?.slice('--ci
 const outDir = ciktiArg ? join(ciktiArg, 'icthat') : join(mobile, 'data-src', 'icthat');
 const fullDir = join(outDir, 'fulltext');
 const publicData = ciktiArg ? join(ciktiArg, 'public-data') : join(portal, 'public', 'data');
+/** G14: ücretli web indeksi public/ dışında; yalnız üyelik API'si sunar. */
+const webIndexPath = ciktiArg
+  ? join(ciktiArg, 'yayin', 'yargi-index.json.gz')
+  : join(portal, 'data', 'yayin', 'yargi-index.json.gz');
 
 /** Site push: indeks/istatistik/vitrin yazar; tam metin shard'larını belleğe almaz. */
 const webOnly = process.argv.includes('--web-only');
@@ -329,7 +333,8 @@ const webIndex = rows.map((r) => ({
   y: r.y,
 }));
 const webGz = gzipSync(Buffer.from(JSON.stringify(webIndex), 'utf8'), { level: 9 });
-writeFileSync(join(publicData, 'yargi-index.json.gz'), webGz);
+mkdirSync(dirname(webIndexPath), { recursive: true });
+writeFileSync(webIndexPath, webGz);
 
 const elapsed = ((Date.now() - t0) / 1000).toFixed(1);
 console.log(

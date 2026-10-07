@@ -38,7 +38,7 @@ export async function GET(req: Request, ctx: Ctx) {
 
     if (a === 'index' && !b) {
         if (!rateLimit(`yargi-index:${kimlik}`, INDEKS_SINIRI, PENCERE)) return cokFazla();
-        const p = join(process.cwd(), 'public', 'data', 'yargi-index.json.gz');
+        const p = join(process.cwd(), 'data', 'yayin', 'yargi-index.json.gz');
         if (!existsSync(p)) {
             return NextResponse.json({ ok: false, error: 'Arşiv indeksi yok.' }, { status: 404 });
         }

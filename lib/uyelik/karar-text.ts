@@ -18,8 +18,8 @@ export type KararRow = {
 let indexCache: KararRow[] | null = null;
 
 function indexPath(): string {
-  // turbopackIgnore: yargi-index HTTP ile de servis edilir; NFT'ye public/data basma
-  return join(/* turbopackIgnore: true */ process.cwd(), 'public', 'data', 'yargi-index.json.gz');
+  // G14: ücretli indeks public/ dışında; derlemeye outputFileTracingIncludes ile girer (next.config.ts).
+  return join(/* turbopackIgnore: true */ process.cwd(), 'data', 'yayin', 'yargi-index.json.gz');
 }
 
 export function loadKararIndex(): KararRow[] {
