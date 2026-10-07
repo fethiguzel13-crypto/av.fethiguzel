@@ -348,3 +348,5 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   silindi. Zaman damgalı dört dosya geri alındı. Bu oturumda yalnız belgeler ve ölçüm kayıtları değişti (`8c7f83309`). TestSprite: kod değişmedi,
   koşulmadı.
 - **G13 tamamlandı** (PLAN.md'de `[x]`). Sıradaki: G14 (yargı kararları yayın hazırlığı, bağımlılığı G04 `[x]`).
+- G14 DEVAM EDİYOR (başladı 08:00). Alt plan `gorevler/G14.md` yazıldı: `yararli` etiketi dizinde yalnız yeni kararlarda var, tam
+  kaynak emsal defteri `_state/benzerlik.jsonl` (39.254 yararlı / 113.822).
