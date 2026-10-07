@@ -26,6 +26,7 @@ import { gzipSync } from 'node:zlib';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { defteriOku, yayinaGirer } from './lib/yayin-suzgec.mjs';
+import { parcalariYaz } from './lib/parca-yaz.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
 const mobile = join(here, '..');
@@ -180,7 +181,8 @@ const rows = [];
 const seen = new Set();
 const byTierToplam = {};
 let suzulen = 0;
-const shards = webOnly ? null : Array.from({ length: SHARD_COUNT }, () => ({}));
+/** Parça başına `[kimlik, dosya]`; metinler burada tutulmaz, parça yazılırken okunur (bkz. lib/parca-yaz.mjs). */
+const shards = webOnly ? null : Array.from({ length: SHARD_COUNT }, () => []);
 const featured = [];
 const byTier = {};
 
@@ -225,7 +227,7 @@ for (const line of lines) {
 
   if (text) {
     excerpt = makeExcerpt(text);
-    if (shards) shards[shardOf(r.id)][String(r.id)] = text;
+    if (shards) shards[shardOf(r.id)].push([String(r.id), file]);
     textsKept += 1;
     text = ''; // heap: tam metni satır satır bırak
   }
@@ -283,13 +285,22 @@ if (!webOnly) {
   if (existsSync(fullDir)) rmSync(fullDir, { recursive: true, force: true });
   mkdirSync(fullDir, { recursive: true });
 
-  for (let n = 0; n < SHARD_COUNT; n++) {
-    const bag = shards[n];
-    if (!Object.keys(bag).length) continue;
-    const gz = gzipSync(Buffer.from(JSON.stringify(bag), 'utf8'), { level: 9 });
-    writeFileSync(join(fullDir, shardName(n)), gz);
-    shardBytes += gz.length;
-    shardFiles += 1;
+  const yazilan = parcalariYaz({
+    gruplar: shards,
+    klasor: fullDir,
+    adlandir: shardName,
+    metniOku: (file) => {
+      try {
+        return extractText(readFileSync(file, 'utf8'));
+      } catch {
+        return '';
+      }
+    },
+  });
+  shardBytes = yazilan.bayt;
+  shardFiles = yazilan.dosya;
+  if (yazilan.karar !== textsKept) {
+    console.warn(`[icthat] parçalara ${yazilan.karar} metin yazıldı, ilk okumada ${textsKept} vardı`);
   }
 
   writeFileSync(
@@ -297,7 +308,7 @@ if (!webOnly) {
     JSON.stringify({
       version: 1,
       shards: SHARD_COUNT,
-      decisions: textsKept,
+      decisions: yazilan.karar,
       generatedAt: new Date().toISOString(),
     })
   );

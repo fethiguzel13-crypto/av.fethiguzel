@@ -148,7 +148,9 @@ await step('madde metni yeniden akıtılmış', async () => {
   açamaz. İkisi de ancak çalıştırıp bakınca görülür, bu yüzden her ikisi de
   duman testine bağlandı.
 */
-const ORNEK_KARAR = '16851400';
+// Yargıtay Büyük Genel Kurulu, E. 2022/1, K. 2022/1. İçtihadı birleştirme kararı olduğu için yayın süzgecinden
+// (G14) her zaman geçer; eski örnek 16851400 emsal defterinde `u=0` olduğundan arşivden çıktı.
+const ORNEK_KARAR = '752428200';
 
 await step('üyeliksiz karar: tam metin kapalı, önizleme açık', async () => {
   await page.evaluate(() => localStorage.removeItem('CapacitorStorage.galaxy:uyelik'));

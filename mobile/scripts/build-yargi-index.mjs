@@ -35,6 +35,7 @@ import { readdirSync, readFileSync, writeFileSync, mkdirSync, existsSync } from 
 import { gzipSync, gunzipSync } from 'node:zlib';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { gondermeAdi } from './lib/atif-ad.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
 const mobile = join(here, '..');
@@ -450,7 +451,8 @@ for (const f of files) {
     rawCites.push([String(d.id), c.num, c.madde]);
     if (!numStat.has(c.num)) numStat.set(c.num, { adlar: new Map(), toplam: 0 });
     const s = numStat.get(c.num);
-    s.adlar.set(c.ad, (s.adlar.get(c.ad) || 0) + 1);
+    // «sayılı Kanun'un» adı tanıtmaz; sayılırsa en sık ad olup eşlemeyi düşürür (bkz. lib/atif-ad.mjs).
+    if (!gondermeAdi(c.ad)) s.adlar.set(c.ad, (s.adlar.get(c.ad) || 0) + 1);
     s.toplam += 1;
   }
 

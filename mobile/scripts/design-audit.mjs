@@ -54,7 +54,7 @@ const EKRANLAR = [
   // Ücretli bölümün iki yüzü: kilitli karar ve üyelik vitrini. Bunlar
   // denetim dışında kalırsa, uygulamanın PARA İSTEDİĞİ tek iki ekranın
   // kontrastı ve dokunma hedefleri hiç ölçülmemiş olur.
-  ['karar-kilitli', '/karar/16851400'],
+  ['karar-kilitli', '/karar/752428200'], // yayın süzgecinden geçen YİBK kararı (smoke-ui ile aynı)
   ['uyelik', '/uyelik'],
   ['icthat', '/icthat'],
   ['kitaplik', '/kitaplik'],

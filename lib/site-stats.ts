@@ -49,7 +49,8 @@ function oku<T>(gorece: string): T | null {
   burada durur. Yedeğe düşmek bir kusurdur; bu yüzden değerler GERÇEKTEN
   ölçülmüş olanlardır, yuvarlanmış tahminler değil.
 */
-const YEDEK: Sayilar = { kanun: 47, madde: 8088, serh: 5143, karar: 70249, rehber: 579 };
+// karar: G14 yayın süzgecinden geçen küme (2026-10-07 mobil tam derleme, yargi-stats.json `total`).
+const YEDEK: Sayilar = { kanun: 47, madde: 8088, serh: 5143, karar: 39718, rehber: 579 };
 
 let onbellek: Sayilar | null = null;
 
