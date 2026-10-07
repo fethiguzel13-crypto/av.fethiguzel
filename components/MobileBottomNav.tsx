@@ -78,7 +78,7 @@ function NavInner() {
                 prefetch={false}
                 onPointerDown={() => router.prefetch(href)}
                 className={`flex flex-col items-center gap-0.5 py-2 text-[10px] font-semibold tracking-wide transition-colors ${
-                  active ? 'text-accent' : 'text-ink-muted hover:text-charcoal/70'
+                  active ? 'text-accent-ink' : 'text-ink-muted hover:text-charcoal/70'
                 }`}
                 aria-current={active ? 'page' : undefined}
               >

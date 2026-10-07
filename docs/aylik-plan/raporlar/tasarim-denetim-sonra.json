@@ -1,13 +1,13 @@
 {
  "etiket": "sonra",
  "taban": "http://localhost:3123",
- "tarih": "2026-10-07T10:19:06.807Z",
+ "tarih": "2026-10-07T10:31:24.736Z",
  "ozet": {
   "kurallar": [
    {
     "id": "color-contrast",
     "etki": "serious",
-    "dugum": 84,
+    "dugum": 77,
     "sayfa": 13
    }
   ],
@@ -110,7 +110,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 14484
+   "sure": 14058
   },
   {
    "sayfa": "makale",
@@ -155,7 +155,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 5726
+   "sure": 5279
   },
   {
    "sayfa": "mevzuat",
@@ -223,7 +223,7 @@
    ],
    "tasma": false,
    "tasanlar": [],
-   "sure": 4956
+   "sure": 5018
   },
   {
    "sayfa": "madde",
@@ -234,7 +234,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3189
+   "sure": 3190
   },
   {
    "sayfa": "ders-notu",
@@ -396,7 +396,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 7239
+   "sure": 6663
   },
   {
    "sayfa": "yargi-arsivi",
@@ -454,7 +454,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 4519
+   "sure": 5118
   },
   {
    "sayfa": "karar",
@@ -512,7 +512,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3846
+   "sure": 3981
   },
   {
    "sayfa": "rehber",
@@ -557,7 +557,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3444
+   "sure": 3354
   },
   {
    "sayfa": "hesaplama",
@@ -602,7 +602,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3547
+   "sure": 3395
   },
   {
    "sayfa": "icthat",
@@ -660,7 +660,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3253
+   "sure": 3254
   },
   {
    "sayfa": "kavram",
@@ -705,7 +705,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3357
+   "sure": 3150
   },
   {
    "sayfa": "yazar",
@@ -763,7 +763,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3391
+   "sure": 3365
   },
   {
    "sayfa": "bolge",
@@ -808,7 +808,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 4220
+   "sure": 3199
   },
   {
    "sayfa": "uyelik",
@@ -866,7 +866,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3532
+   "sure": 3519
   },
   {
    "sayfa": "anasayfa",
@@ -877,7 +877,7 @@
     {
      "id": "color-contrast",
      "etki": "serious",
-     "dugum": 6,
+     "dugum": 5,
      "ornekler": [
       {
        "hedef": ".shadow-lg > span",
@@ -888,19 +888,6 @@
         "contrastRatio": 4.19,
         "fontSize": "10.5pt (14px)",
         "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".sm\\:text-2xl.text-xl > .font-drama.italic.font-medium",
-       "html": "<span class=\"font-drama italic text-accent font-medium\">açık erişimli şerh arşivi</span>",
-       "veri": {
-        "fgColor": "#cc5833",
-        "bgColor": "#fefefd",
-        "contrastRatio": 4.15,
-        "fontSize": "15.0pt (20px)",
-        "fontWeight": "normal",
         "messageKey": null,
         "expectedContrastRatio": "4.5:1"
        }
@@ -963,7 +950,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3869
+   "sure": 3434
   },
   {
    "sayfa": "makale",
@@ -995,7 +982,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 4531
+   "sure": 4522
   },
   {
    "sayfa": "mevzuat",
@@ -1006,7 +993,7 @@
     {
      "id": "color-contrast",
      "etki": "serious",
-     "dugum": 3,
+     "dugum": 2,
      "ornekler": [
       {
        "hedef": ".sm\\:w-auto",
@@ -1029,19 +1016,6 @@
         "bgColor": "#cc5833",
         "contrastRatio": 4.19,
         "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": "a[href=\"/ara?app=portal&lang=tr\"] > span",
-       "html": "<span>Ara</span>",
-       "veri": {
-        "fgColor": "#cc5833",
-        "bgColor": "#f2f1ea",
-        "contrastRatio": 3.7,
-        "fontSize": "7.5pt (10px)",
         "fontWeight": "normal",
         "messageKey": null,
         "expectedContrastRatio": "4.5:1"
@@ -1081,7 +1055,7 @@
    ],
    "tasma": false,
    "tasanlar": [],
-   "sure": 4532
+   "sure": 4420
   },
   {
    "sayfa": "madde",
@@ -1092,7 +1066,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 2816
+   "sure": 2784
   },
   {
    "sayfa": "ders-notu",
@@ -1241,7 +1215,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 5814
+   "sure": 5577
   },
   {
    "sayfa": "yargi-arsivi",
@@ -1252,7 +1226,7 @@
     {
      "id": "color-contrast",
      "etki": "serious",
-     "dugum": 3,
+     "dugum": 2,
      "ornekler": [
       {
        "hedef": ".btn-primary",
@@ -1279,19 +1253,6 @@
         "messageKey": null,
         "expectedContrastRatio": "4.5:1"
        }
-      },
-      {
-       "hedef": "a[href=\"/icthat?app=portal&lang=tr\"] > span",
-       "html": "<span>Güncel</span>",
-       "veri": {
-        "fgColor": "#cc5833",
-        "bgColor": "#e7e5df",
-        "contrastRatio": 3.32,
-        "fontSize": "7.5pt (10px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
       }
      ]
     }
@@ -1299,7 +1260,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3120
+   "sure": 2983
   },
   {
    "sayfa": "karar",
@@ -1310,7 +1271,7 @@
     {
      "id": "color-contrast",
      "etki": "serious",
-     "dugum": 3,
+     "dugum": 2,
      "ornekler": [
       {
        "hedef": ".btn-primary",
@@ -1337,19 +1298,6 @@
         "messageKey": null,
         "expectedContrastRatio": "4.5:1"
        }
-      },
-      {
-       "hedef": "a[href=\"/icthat?app=portal&lang=tr\"] > span",
-       "html": "<span>Güncel</span>",
-       "veri": {
-        "fgColor": "#cc5833",
-        "bgColor": "#e7e5df",
-        "contrastRatio": 3.32,
-        "fontSize": "7.5pt (10px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
       }
      ]
     }
@@ -1357,7 +1305,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 2821
+   "sure": 2801
   },
   {
    "sayfa": "rehber",
@@ -1368,7 +1316,7 @@
     {
      "id": "color-contrast",
      "etki": "serious",
-     "dugum": 2,
+     "dugum": 1,
      "ornekler": [
       {
        "hedef": ".hover\\:bg-accent\\/90",
@@ -1382,19 +1330,6 @@
         "messageKey": null,
         "expectedContrastRatio": "4.5:1"
        }
-      },
-      {
-       "hedef": "a[href=\"/bilgi?app=portal&lang=tr\"] > span",
-       "html": "<span>Rehber</span>",
-       "veri": {
-        "fgColor": "#cc5833",
-        "bgColor": "#f2f0e9",
-        "contrastRatio": 3.67,
-        "fontSize": "7.5pt (10px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
       }
      ]
     }
@@ -1402,7 +1337,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3092
+   "sure": 3000
   },
   {
    "sayfa": "hesaplama",
@@ -1413,7 +1348,7 @@
     {
      "id": "color-contrast",
      "etki": "serious",
-     "dugum": 2,
+     "dugum": 1,
      "ornekler": [
       {
        "hedef": ".hover\\:bg-accent\\/90",
@@ -1427,19 +1362,6 @@
         "messageKey": null,
         "expectedContrastRatio": "4.5:1"
        }
-      },
-      {
-       "hedef": "a[href=\"/hesaplama?app=portal&lang=tr\"] > span",
-       "html": "<span>Hesap</span>",
-       "veri": {
-        "fgColor": "#cc5833",
-        "bgColor": "#f3f1ea",
-        "contrastRatio": 3.7,
-        "fontSize": "7.5pt (10px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
       }
      ]
     }
@@ -1447,7 +1369,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3346
+   "sure": 3160
   },
   {
    "sayfa": "icthat",
@@ -1458,7 +1380,7 @@
     {
      "id": "color-contrast",
      "etki": "serious",
-     "dugum": 3,
+     "dugum": 2,
      "ornekler": [
       {
        "hedef": ".mb-12.flex-wrap.justify-center > .bg-accent.text-white.px-5",
@@ -1485,19 +1407,6 @@
         "messageKey": null,
         "expectedContrastRatio": "4.5:1"
        }
-      },
-      {
-       "hedef": "a[href=\"/icthat?app=portal&lang=tr\"] > span",
-       "html": "<span>Güncel</span>",
-       "veri": {
-        "fgColor": "#cc5833",
-        "bgColor": "#f3f1ea",
-        "contrastRatio": 3.7,
-        "fontSize": "7.5pt (10px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
       }
      ]
     }
@@ -1505,7 +1414,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3355
+   "sure": 3098
   },
   {
    "sayfa": "kavram",
@@ -1537,7 +1446,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 2846
+   "sure": 2887
   },
   {
    "sayfa": "yazar",
@@ -1582,7 +1491,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3029
+   "sure": 3001
   },
   {
    "sayfa": "bolge",
@@ -1614,7 +1523,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 2951
+   "sure": 3073
   },
   {
    "sayfa": "uyelik",
@@ -1659,7 +1568,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 2869
+   "sure": 2963
   }
  ]
 }

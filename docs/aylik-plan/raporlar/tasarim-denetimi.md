@@ -151,13 +151,18 @@ Yapılanlar:
 
 Diğer axe ihlalleri 2 → 0, yatay taşma 0 → 0.
 
+**13:31 ek düzeltme:** Mobil alt gezinmede etkin sekme `accent-ink`, TrustBar'daki `font-drama` satırı mobilde `accent-ink`
+(masaüstünde 24 px büyük metin olduğundan `accent`) olmuştur. Yenilenen ölçümde (`tasarim-denetim-sonra.json` ve `-sonra.jpg`
+dosyaları bu koşudandır) kontrast **77 düğümdür ve tamamı vurgu zeminli beyaz yazılı düğmelerdir.** Yukarıdaki tablo 13:18
+koşusunu gösterir.
+
 ### Kalanlar
 
 - **[P1] Vurgu zeminli beyaz yazılı düğmeler (77 düğüm, 4,19:1).** "Danışmanlık", "Ara", Play Store ve üyelik düğmeleri ile
   `.btn-primary` bu gruptadır. Düzeltme düğme zeminini `accent-ink`'e (5,81:1) çekmektir, ne var ki bu sitenin en görünür
   turuncusunu koyulaştırır. Alternatif yol, düğme yazısını 18,66 px kalın yaparak büyük metin eşiğine (3:1) taşımaktır. Görsel
   karşılaştırmayla ayrı adımda karara bağlanacaktır.
-- **[P2] Mobil alt gezinmede etkin sekme etiketi (6 düğüm, 3,3–3,7:1)** ve ana sayfada bir `font-drama` vurgu satırı (4,15:1).
+- ~~[P2] Mobil alt gezinmede etkin sekme etiketi (6 düğüm) ve ana sayfada bir `font-drama` vurgu satırı.~~ 13:31'de giderilmiştir.
 - **[P2] Mevzuat dizininde alt bilgi bağlantıları (4 hedef).** Yalnız bu sayfada, sayfa sonu yerleşiminden doğar.
 - **[P2] `app/[category]` eski sayfaları.** Koyu yeşil zeminde `text-accent` ve tanımsız `text-light` sınıfı kullanılır. Sayfaların
   hâlâ yönlendirme dışı kalıp kalmadığı G25 regresyonunda denetlenecektir.

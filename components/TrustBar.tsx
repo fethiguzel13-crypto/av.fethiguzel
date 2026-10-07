@@ -60,7 +60,7 @@ export default function TrustBar({ sayilar }: { sayilar: Sayilar }) {
                             <p className="section-label mb-1.5">Neden bu portal?</p>
                             <h2 className="text-xl sm:text-2xl font-heading font-bold text-charcoal tracking-tight">
                                 Doktora araştırması, yayımlanmış eser ve{' '}
-                                <span className="font-drama italic text-accent font-medium">
+                                <span className="font-drama italic text-accent-ink sm:text-accent font-medium">
                                     açık erişimli şerh arşivi
                                 </span>
                             </h2>

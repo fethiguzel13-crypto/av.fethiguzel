@@ -426,4 +426,6 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   karşılaştırmayla ayrı adımda yapılacaktır. Koyu yeşil zeminli eski `app/[category]` sayfaları dönüşümden çıkarılmıştır.
 - TestSprite: değişiklik yayında değil (30 Ekim), koşulmamıştır. Sunucu kapatılmış, port 3123 boştur, zaman damgalı dosyalar geri
   alınmıştır.
+- 13:22–13:31: Mobil alt gezinmedeki etkin sekme ve TrustBar `font-drama` satırı düzeltilmiştir. Tam `npm run kalite` yeşil
+  (762 test), yenilenen ölçümde kontrast 77 düğümdür ve tamamı vurgu zeminli düğmedir.
 - Sıradaki: G15 düğme kontrastı ve kalan küçük bulgular (`gorevler/G15.md` "Sıradaki"). G15 DEVAM EDİYOR.
