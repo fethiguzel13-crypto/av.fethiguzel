@@ -345,6 +345,6 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   anda gerçekleşmektedir. Benzetimli LCP'deki 3–4 sn'lik gecikme, ilk boyamadan önce istenen betik parçalarından doğmaktadır.
   Neden ve izleme yolu G13.md ile PLAN.md'ye yazıldı.
 - 07:51 tam `npm run kalite` yeşil (732 test, derleme 305 sn, bütçe taraması geçti). Sunucular (3123, 3124) kapatıldı, `.next-once`
-  silindi. Zaman damgalı dört dosya geri alındı. Bu oturumda yalnız belgeler ve ölçüm kayıtları değişti. TestSprite: kod değişmedi,
+  silindi. Zaman damgalı dört dosya geri alındı. Bu oturumda yalnız belgeler ve ölçüm kayıtları değişti (`8c7f83309`). TestSprite: kod değişmedi,
   koşulmadı.
 - **G13 tamamlandı** (PLAN.md'de `[x]`). Sıradaki: G14 (yargı kararları yayın hazırlığı, bağımlılığı G04 `[x]`).
