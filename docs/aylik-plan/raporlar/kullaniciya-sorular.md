@@ -106,3 +106,12 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     yaklaşık 70 binden 39 bine inecek. Üyelere açık ücretli arşivde de yalnız bu küme mi kalsın, yoksa üyeler benzer kararları
     da görebilsin mi? *Varsayım:* yanıt gelene kadar plan uygulanır, iki çıktı da yalnız süzülmüş kümeyi taşır. Arşivdeki
     hiçbir karar silinmez, `--hepsi` bayrağı eski davranışı geri getirir.
+20. **Karar sayfaları arama motoruna açılsın mı? (G14).** Her karar sayfası artık sunucuda künye, daire, tarih, konu ve
+    kararın ilk ~240 karakterini taşımaktadır. Tam metin yalnız üyeye açıktır. Yayın indeksinde olmayan kimlik 404 döner.
+    Sayfalar dizine açılırsa yaklaşık 39 bin yeni adres arama sonuçlarına girer ve künye sorgularında (ör. "HGK 2026/410")
+    görünürlük doğar. Ne var ki her sayfanın herkese açık kısmı kısa olduğundan Google bunları ince içerik sayabilir. G11'de
+    ders notlarında aynı gerekçeyle 6.552 sayfa dizinden çıkarılmıştı. Ücretli metnin arkasındaki sayfa dizine açılacaksa
+    Google'ın ücretli içerik işaretlemesi (`isAccessibleForFree: false`) de eklenmelidir. Seçenekler: sayfalar kapalı kalır,
+    yalnız içtihadı birleştirme ve genel kurul kararları açılır (yaklaşık 22 bin), ya da hepsi açılır. *Varsayım:* yanıt
+    gelene kadar bütün karar sayfaları dizine kapalı kalır (`noindex, follow`). Değişiklik
+    `lib/yargi-karar-sayfa.mjs` içindeki `KARAR_SAYFASI_DIZINDE` sabitiyle yapılır.

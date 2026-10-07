@@ -64,6 +64,8 @@ const nextConfig: NextConfig = {
     "/api/yargi/[...path]": ["./data/yayin/yargi-index.json.gz"],
     "/api/yargi/index": ["./data/yayin/yargi-index.json.gz"],
     "/api/yargi/karar/[id]": ["./data/yayin/yargi-index.json.gz"],
+    // G14 adım 4: karar sayfası künye ve kararın başını sunucuda indeksten basar (ISR, kimlik başına bir kez).
+    "/yargi-kararlari/[id]": ["./data/yayin/yargi-index.json.gz"],
     // Ders notları — SSG dışında runtime fallback için dosya erişimi
     "/ders-notlari/[uni]/[ders]": ["./lib/ders-notlari/generated/notes/**/*"],
     "/ders-notlari/[uni]/[ders]/pdf": ["./lib/ders-notlari/generated/notes/**/*"],

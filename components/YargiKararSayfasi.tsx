@@ -7,22 +7,14 @@ import YargiPaywall from '@/components/YargiPaywall';
 import YargiKararMetni from '@/components/YargiKararMetni';
 import type { PublicSession } from '@/lib/uyelik/types';
 
-const TIER_LABEL: Record<string, string> = {
-    yibk: 'İçtihadı Birleştirme',
-    hgk: 'Hukuk Genel Kurulu',
-    cgk: 'Ceza Genel Kurulu',
-};
-
 type KararJson = {
     ok?: boolean;
     error?: string;
-    kunye?: string;
-    daire?: string;
-    tarih?: string;
-    excerpt?: string;
     text?: string;
 };
 
+// Künye, daire, tarih ve kararın başı sunucuda basılır (app/yargi-kararlari/[id]/page.tsx, G14 adım 4);
+// bu bileşen yalnız üyelik kapısını ya da üyeye tam metni gösterir.
 export default function YargiKararSayfasi() {
     const params = useParams();
     const id = String(params?.id || '');
@@ -70,43 +62,39 @@ export default function YargiKararSayfasi() {
     }, [member, id]);
 
     if (member === null) {
-        return <div className="h-56 animate-pulse rounded-2xl bg-charcoal/5" />;
+        return <div className="mt-8 h-56 animate-pulse rounded-2xl bg-charcoal/5" />;
     }
 
     if (!member) {
         return (
             <div className="mt-10">
-                <YargiPaywall user={user} compact kunye={id ? `Karar ${id}` : undefined} />
+                <YargiPaywall
+                    user={user}
+                    compact
+                    kunye="Kararın tam metni üyelere açıktır. Metin sitede okunur; dosya indirme yoktur."
+                />
             </div>
         );
     }
 
     if (missing) {
         return (
-            <>
-                <h1 className="text-2xl font-heading font-bold">Karar bulunamadı</h1>
-                <p className="mt-3 text-charcoal/60">Bu künye arşivde yok.</p>
-                <Link href="/yargi-kararlari" className="mt-6 inline-block text-accent font-bold">
+            <section className="mt-8 rounded-2xl bg-white border border-charcoal/10 p-6 sm:p-8">
+                <p className="text-charcoal/60">Tam metin şu an yüklenemedi. Biraz sonra yeniden deneyin.</p>
+                <Link href="/yargi-kararlari" className="mt-4 inline-block text-accent font-bold">
                     Arşive dön
                 </Link>
-            </>
+            </section>
         );
     }
 
     if (!karar) {
-        return <div className="h-56 animate-pulse rounded-2xl bg-charcoal/5" />;
+        return <div className="mt-8 h-56 animate-pulse rounded-2xl bg-charcoal/5" />;
     }
 
     return (
-        <article>
-            <p className="text-[11px] font-mono uppercase tracking-widest text-accent">
-                {TIER_LABEL[String(karar.daire || '')] || karar.daire} · {karar.tarih}
-            </p>
-            <h1 className="mt-2 text-2xl sm:text-3xl font-heading font-bold leading-snug text-charcoal">
-                {karar.kunye}
-            </h1>
-            {karar.daire ? <p className="mt-2 text-charcoal/55">{karar.daire}</p> : null}
-            <YargiKararMetni text={karar.text || ''} excerpt={karar.excerpt} />
+        <>
+            <YargiKararMetni text={karar.text || ''} />
             <div className="mt-8">
                 <Link
                     href="/yargi-kararlari"
@@ -119,6 +107,6 @@ export default function YargiKararSayfasi() {
                 Künye ve metin Yargıtay resmi karar aramasından derlenmiştir. Bilgilendirme
                 amaçlıdır; bağlayıcı olan kararın aslıdır. İndirme kapalıdır.
             </p>
-        </article>
+        </>
     );
 }
