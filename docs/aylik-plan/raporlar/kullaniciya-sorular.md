@@ -115,3 +115,8 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     yalnız içtihadı birleştirme ve genel kurul kararları açılır (yaklaşık 22 bin), ya da hepsi açılır. *Varsayım:* yanıt
     gelene kadar bütün karar sayfaları dizine kapalı kalır (`noindex, follow`). Değişiklik
     `lib/yargi-karar-sayfa.mjs` içindeki `KARAR_SAYFASI_DIZINDE` sabitiyle yapılır.
+21. **Koyu tema eklensin mi? (G15).** Sitede koyu tema yoktur, sayfalar işletim sistemi koyu temada olsa da krem zeminde açılır.
+    Koyu tema eklemek 2.168 renk kullanımının ikinci bir palete taşınmasını ve 30 Ekim öncesinde bütün sayfa türlerinin iki
+    tema için ayrı ayrı denetlenmesini gerektirir. Bu, renk dilinin yeniden tasarımıdır. G15 bunun yerine açık temadaki
+    kontrast sorunlarını gidermektedir (`raporlar/tasarim-denetimi.md`). *Varsayım:* yanıt gelene kadar site yalnız açık temada
+    kalır. Koyu sistem temasında tarayıcı çubuğunun kömür rengi alması da krem yapılacaktır, böylece çubuk ile sayfa uyumlu olur.
