@@ -54,10 +54,10 @@ export default function UyelikDurum() {
     return (
         <div className="mt-8 rounded-3xl bg-white border border-charcoal/10 p-6 space-y-3">
             <p className="text-sm">
-                <span className="text-charcoal/45">Hesap:</span> <strong>{user.email}</strong>
+                <span className="text-ink-muted">Hesap:</span> <strong>{user.email}</strong>
             </p>
             <p className="text-sm">
-                <span className="text-charcoal/45">Durum:</span>{' '}
+                <span className="text-ink-muted">Durum:</span>{' '}
                 {ben.member
                     ? `Açık — ${user.membershipUntil ? new Date(user.membershipUntil).toLocaleDateString('tr-TR') : ''}`
                     : user.durum === 'pending'

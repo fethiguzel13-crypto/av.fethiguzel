@@ -80,7 +80,7 @@ export default function YargiKararSayfasi() {
     if (missing) {
         return (
             <section className="mt-8 rounded-2xl bg-white border border-charcoal/10 p-6 sm:p-8">
-                <p className="text-charcoal/60">Tam metin şu an yüklenemedi. Biraz sonra yeniden deneyin.</p>
+                <p className="text-ink-muted">Tam metin şu an yüklenemedi. Biraz sonra yeniden deneyin.</p>
                 <Link href="/yargi-kararlari" className="mt-4 inline-block text-accent font-bold">
                     Arşive dön
                 </Link>
@@ -103,7 +103,7 @@ export default function YargiKararSayfasi() {
                     Arşive dön
                 </Link>
             </div>
-            <p className="mt-8 text-[12px] leading-relaxed text-charcoal/40">
+            <p className="mt-8 text-[12px] leading-relaxed text-ink-muted">
                 Künye ve metin Yargıtay resmi karar aramasından derlenmiştir. Bilgilendirme
                 amaçlıdır; bağlayıcı olan kararın aslıdır. İndirme kapalıdır.
             </p>

@@ -12,9 +12,9 @@ type Oge = { ad: string; yol: string };
  */
 export default function Kirinti({
   ogeler,
-  className = 'text-[11px] text-charcoal/40 mb-5 flex flex-wrap gap-1.5',
+  className = 'text-[11px] text-ink-muted mb-5 flex flex-wrap gap-1.5',
   baglantiSinifi = 'hover:text-accent',
-  sonSinif = 'text-charcoal/60',
+  sonSinif = 'text-ink-muted',
   ayracSinifi,
   ld = true,
   anaSayfa,

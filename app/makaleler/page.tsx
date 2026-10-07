@@ -64,11 +64,11 @@ export default function MakalelerPage() {
             ]}
         />
         <header className="mb-20 text-center">
-          <h2 className="text-accent font-heading text-sm tracking-widest uppercase mb-4">Akademik Yayınlar</h2>
+          <h2 className="text-accent-ink font-heading text-sm tracking-widest uppercase mb-4">Akademik Yayınlar</h2>
           <h1 className="text-4xl md:text-6xl text-charcoal font-bold mb-6">
             Makaleler & <span className="font-drama italic text-accent">İncelemeler</span>
           </h1>
-          <p className="text-charcoal/60 max-w-2xl mx-auto text-lg">
+          <p className="text-ink-muted max-w-2xl mx-auto text-lg">
             Özel hukuk alanında kaleme alınmış akademik makaleler, sempozyum tebliğleri ve hukuki değerlendirmeler.
           </p>
         </header>
@@ -78,7 +78,7 @@ export default function MakalelerPage() {
             <section key={category} className="space-y-10">
               <div className="flex items-center gap-4">
                 <div className="h-[1px] flex-1 bg-charcoal/10"></div>
-                <h3 className="text-accent font-heading font-bold text-sm tracking-[0.3em] uppercase px-4">
+                <h3 className="text-accent-ink font-heading font-bold text-sm tracking-[0.3em] uppercase px-4">
                   {category.replace(/\\/g, ' / ')}
                 </h3>
                 <div className="h-[1px] flex-1 bg-charcoal/10"></div>

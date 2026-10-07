@@ -21,11 +21,11 @@ export default function UyelikPage() {
       <main id="main-content" className="min-h-screen bg-cream pt-36 pb-20 px-5 sm:px-6">
         <div className="max-w-xl mx-auto">
           <Kirinti ogeler={[{ ad: 'Arşiv üyeliği', yol: '/uyelik' }]} />
-          <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">Arşiv üyeliği</p>
+          <p className="text-accent-ink font-mono text-[10px] tracking-[0.22em] uppercase mb-3">Arşiv üyeliği</p>
           <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal">
             Yargıtay arşivi
           </h1>
-          <p className="mt-3 text-charcoal/60 text-sm leading-relaxed">
+          <p className="mt-3 text-ink-muted text-sm leading-relaxed">
             Aylık {priceLabel()}. Mevzuat ve rehber ücretsizdir; bu plan yalnız karar
             arşivini açar. İndirme yoktur.
           </p>

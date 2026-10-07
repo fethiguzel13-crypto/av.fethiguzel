@@ -47,13 +47,13 @@ export default function EserlerimPage() {
             ]}
         />
         <header className="mb-16 sm:mb-24 text-center">
-          <h2 className="text-accent font-heading text-sm tracking-widest uppercase mb-4">Akademik Yayınlar</h2>
+          <h2 className="text-accent-ink font-heading text-sm tracking-widest uppercase mb-4">Akademik Yayınlar</h2>
           <h1 className="text-4xl md:text-6xl text-charcoal font-bold mb-6">
             Eserlerim & <span className="font-drama italic text-accent">Yayınlar</span>
           </h1>
-          <p className="text-charcoal/60 max-w-2xl mx-auto text-lg">
+          <p className="text-ink-muted max-w-2xl mx-auto text-lg">
             Nesnel yayın bilgisi — reklam yasağına uygun. Kitap ve akademik profil:{' '}
-            <Link href="/akademik-profil" className="text-accent font-semibold hover:underline">
+            <Link href="/akademik-profil" className="text-accent-ink font-semibold hover:underline">
               akademik profil
             </Link>
             .
@@ -75,7 +75,7 @@ export default function EserlerimPage() {
                       <div className="w-12 h-1 bg-accent mx-auto"></div>
                       <h4 className="text-accent font-heading text-4xl font-bold">e-duruşma</h4>
                     </div>
-                    <p className="text-cream/40 text-[10px] font-mono leading-relaxed uppercase tracking-widest">
+                    <p className="text-cream/55 text-[10px] font-mono leading-relaxed uppercase tracking-widest">
                       Medeni Usul Hukukunda Ses ve Görüntünün Nakledilmesi
                     </p>
                     <div className="text-cream/80 font-heading text-sm border-t border-cream/10 pt-4">
@@ -91,7 +91,7 @@ export default function EserlerimPage() {
                 {book.title}
               </h3>
               <p className="text-accent font-heading text-xl mb-8">{book.subtitle}</p>
-              <p className="text-charcoal/60 text-lg leading-relaxed mb-12 font-sans">
+              <p className="text-ink-muted text-lg leading-relaxed mb-12 font-sans">
                 {book.desc}
               </p>
 

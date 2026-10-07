@@ -48,7 +48,7 @@ export default function EnglishLawyerPage() {
 
             <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-3xl mx-auto">
                 <Kirinti anaSayfa="Home" ogeler={[{ ad: 'English', yol: '/english-speaking-lawyer' }]} />
-                <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
+                <p className="text-accent-ink font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
                     English · Professional information
                 </p>
                 <h1 className="text-3xl sm:text-4xl md:text-5xl font-heading font-bold text-charcoal mb-6 leading-tight">
@@ -75,7 +75,7 @@ export default function EnglishLawyerPage() {
                         <Scale className="text-accent shrink-0" size={22} />
                         <div>
                             <h2 className="font-heading font-bold text-charcoal mb-1">Practice focus</h2>
-                            <p className="text-sm text-charcoal/60 leading-relaxed">
+                            <p className="text-sm text-ink-muted leading-relaxed">
                                 Civil and commercial matters, family and inheritance, employment, enforcement, and criminal
                                 defence — subject to a formal retainer. Office in Erciş; remote video/email intake available
                                 for clients in Ankara and elsewhere in Turkey.
@@ -86,7 +86,7 @@ export default function EnglishLawyerPage() {
                         <BookOpen className="text-accent shrink-0" size={22} />
                         <div>
                             <h2 className="font-heading font-bold text-charcoal mb-1">Publication & research</h2>
-                            <p className="text-sm text-charcoal/60 leading-relaxed">
+                            <p className="text-sm text-ink-muted leading-relaxed">
                                 Author of <em>{PROFILE.book.shortTitle}</em> ({PROFILE.book.publisher}). Doctoral work in private
                                 law. Open-access digital library with 7,800+ statutory articles and commentaries.
                             </p>
@@ -94,7 +94,7 @@ export default function EnglishLawyerPage() {
                     </div>
                 </section>
 
-                <p className="text-sm text-charcoal/50 mb-8 leading-relaxed">
+                <p className="text-sm text-ink-muted mb-8 leading-relaxed">
                     This page is informational under Turkish bar advertising rules. It does not guarantee outcomes or
                     rank the lawyer against others.
                 </p>
@@ -124,7 +124,7 @@ export default function EnglishLawyerPage() {
                     </a>
                 </div>
                 <p className="mt-6 text-sm">
-                    <Link href="/avukat-fethi-guzel" className="text-accent font-semibold hover:underline">
+                    <Link href="/avukat-fethi-guzel" className="text-accent-ink font-semibold hover:underline">
                         Turkish profile →
                     </Link>
                 </p>

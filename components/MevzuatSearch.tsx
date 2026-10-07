@@ -448,7 +448,7 @@ function MevzuatSearchInner({
                     <div className="relative flex-1">
                         <Search
                             size={18}
-                            className="absolute left-4 top-1/2 -translate-y-1/2 text-charcoal/35 pointer-events-none"
+                            className="absolute left-4 top-1/2 -translate-y-1/2 text-ink-muted pointer-events-none"
                         />
                         <input
                             type="search"
@@ -468,7 +468,7 @@ function MevzuatSearchInner({
                             <button
                                 type="button"
                                 onClick={onClear}
-                                className="absolute right-3 top-1/2 -translate-y-1/2 p-1 rounded-full text-charcoal/40 hover:text-charcoal hover:bg-charcoal/5"
+                                className="absolute right-3 top-1/2 -translate-y-1/2 p-1 rounded-full text-ink-muted hover:text-charcoal hover:bg-charcoal/5"
                                 aria-label="Temizle"
                             >
                                 <X size={16} />
@@ -500,7 +500,7 @@ function MevzuatSearchInner({
                 </div>
 
                 {loading && (
-                    <p className="mt-4 flex items-center justify-center gap-2 text-charcoal/40 text-sm">
+                    <p className="mt-4 flex items-center justify-center gap-2 text-ink-muted text-sm">
                         <Loader2 size={16} className="animate-spin" /> Arama indeksi yükleniyor…
                     </p>
                 )}
@@ -510,12 +510,12 @@ function MevzuatSearchInner({
                     </p>
                 )}
                 {!needIndex && (
-                    <p className="mt-3 text-center text-[11px] font-mono uppercase tracking-widest text-charcoal/35">
+                    <p className="mt-3 text-center text-[11px] font-mono uppercase tracking-widest text-ink-muted">
                         Yazmaya başlayınca tüm kanunlarda tam metin araması
                     </p>
                 )}
                 {!loading && index && (
-                    <p className="mt-3 text-center text-[11px] font-mono uppercase tracking-widest text-charcoal/35">
+                    <p className="mt-3 text-center text-[11px] font-mono uppercase tracking-widest text-ink-muted">
                         {index.length.toLocaleString("tr-TR")} madde · tam metin araması ·{" "}
                         {siteItems.length} site kaydı
                     </p>
@@ -531,7 +531,7 @@ function MevzuatSearchInner({
                         <div className="flex items-center gap-3 min-w-0">
                             <BookOpen className="text-accent shrink-0" size={20} />
                             <div>
-                                <p className="text-[10px] font-mono uppercase tracking-widest text-accent font-bold">
+                                <p className="text-[10px] font-mono uppercase tracking-widest text-accent-ink font-bold">
                                     Tam madde eşleşmesi
                                 </p>
                                 <p className="text-sm sm:text-base font-heading font-bold text-charcoal">
@@ -539,7 +539,7 @@ function MevzuatSearchInner({
                                 </p>
                             </div>
                         </div>
-                        <span className="text-xs font-bold text-accent shrink-0">Aç →</span>
+                        <span className="text-xs font-bold text-accent-ink shrink-0">Aç →</span>
                     </Link>
                 </div>
             )}
@@ -549,7 +549,7 @@ function MevzuatSearchInner({
                     {/* Site / hesaplama sonuçları */}
                     {!compact && siteResults.length > 0 && kanunFilter === "all" && (
                         <section>
-                            <p className="text-xs font-bold tracking-widest uppercase text-charcoal/40 mb-3">
+                            <p className="text-xs font-bold tracking-widest uppercase text-ink-muted mb-3">
                                 Site & araçlar ({siteResults.length})
                             </p>
                             <ul className="space-y-2">
@@ -560,7 +560,7 @@ function MevzuatSearchInner({
                                             className="block p-4 rounded-2xl bg-white border border-charcoal/5 hover:border-accent/30 hover:shadow-md transition-all group"
                                         >
                                             <div className="flex items-start gap-3">
-                                                <div className="w-10 h-10 rounded-full bg-charcoal/5 text-charcoal/50 flex items-center justify-center shrink-0">
+                                                <div className="w-10 h-10 rounded-full bg-charcoal/5 text-ink-muted flex items-center justify-center shrink-0">
                                                     {item.type === "hesaplama" ? (
                                                         <Calculator size={18} />
                                                     ) : (
@@ -568,7 +568,7 @@ function MevzuatSearchInner({
                                                     )}
                                                 </div>
                                                 <div>
-                                                    <span className="text-[10px] font-mono font-bold uppercase tracking-widest text-accent">
+                                                    <span className="text-[10px] font-mono font-bold uppercase tracking-widest text-accent-ink">
                                                         {item.type === "hesaplama" ? "Hesaplama" : "Sayfa"}
                                                     </span>
                                                     <h3 className="text-base font-heading font-bold text-charcoal group-hover:text-accent">
@@ -586,15 +586,15 @@ function MevzuatSearchInner({
                     {/* Mevzuat */}
                     <section>
                         {totalMev === 0 && siteResults.length === 0 ? (
-                            <div className="text-center py-10 text-charcoal/45 text-sm">
+                            <div className="text-center py-10 text-ink-muted text-sm">
                                 Sonuç bulunamadı. Farklı yazım deneyin (örn. <em>satım</em> / <em>satış</em>) veya
                                 kanun filtresini kaldırın.
                             </div>
                         ) : totalMev === 0 ? (
-                            <p className="text-xs text-charcoal/40">Mevzuatta eşleşme yok; yukarıdaki site sonuçlarına bakın.</p>
+                            <p className="text-xs text-ink-muted">Mevzuatta eşleşme yok; yukarıdaki site sonuçlarına bakın.</p>
                         ) : (
                             <>
-                                <p className="text-xs font-bold tracking-widest uppercase text-charcoal/40 mb-3">
+                                <p className="text-xs font-bold tracking-widest uppercase text-ink-muted mb-3">
                                     Mevzuat — {totalMev.toLocaleString("tr-TR")} madde
                                     {shownMev.length < totalMev
                                         ? ` (gösterilen ${shownMev.length})`
@@ -613,14 +613,14 @@ function MevzuatSearchInner({
                                                     </div>
                                                     <div className="min-w-0 flex-1">
                                                         <div className="flex flex-wrap items-center gap-2 mb-1">
-                                                            <span className="text-[10px] font-mono font-bold uppercase tracking-widest text-accent">
+                                                            <span className="text-[10px] font-mono font-bold uppercase tracking-widest text-accent-ink">
                                                                 {r.kanunId}
                                                             </span>
-                                                            <span className="text-[10px] text-charcoal/30">·</span>
-                                                            <span className="text-[10px] font-mono text-charcoal/40">
+                                                            <span className="text-[10px] text-ink-muted">·</span>
+                                                            <span className="text-[10px] font-mono text-ink-muted">
                                                                 m. {r.maddeNo || "—"}
                                                             </span>
-                                                            <span className="text-[10px] text-charcoal/40 truncate max-w-[12rem]">
+                                                            <span className="text-[10px] text-ink-muted truncate max-w-[12rem]">
                                                                 {r.kanun}
                                                             </span>
                                                             {r.status === "completed" && (
@@ -632,7 +632,7 @@ function MevzuatSearchInner({
                                                         <h3 className="text-base sm:text-lg font-heading font-bold text-charcoal group-hover:text-accent transition-colors">
                                                             {r.title}
                                                         </h3>
-                                                        <p className="text-xs text-charcoal/55 mt-1.5 leading-relaxed line-clamp-3">
+                                                        <p className="text-xs text-ink-muted mt-1.5 leading-relaxed line-clamp-3">
                                                             {matchSnippet || r.snippet}
                                                         </p>
                                                     </div>
@@ -654,7 +654,7 @@ function MevzuatSearchInner({
                                 {compact && totalMev > 12 && (
                                     <Link
                                         href={`/ara?q=${encodeURIComponent(q.trim())}`}
-                                        className="mt-3 block text-center text-sm font-bold text-accent hover:underline"
+                                        className="mt-3 block text-center text-sm font-bold text-accent-ink hover:underline"
                                     >
                                         Tüm {totalMev} sonucu gör →
                                     </Link>

@@ -95,13 +95,13 @@ export default async function KanunHubPage({ params }: Props) {
           ]}
         />
 
-        <p className="text-accent font-mono text-[10px] tracking-widest uppercase mb-2">
+        <p className="text-accent-ink font-mono text-[10px] tracking-widest uppercase mb-2">
           Kanun maddesi hub · {articles.length} madde
         </p>
         <h1 className="text-3xl sm:text-4xl font-bold text-charcoal mb-3 leading-tight">
           {code} — {name}
         </h1>
-        <p className="text-charcoal/60 text-base max-w-2xl mb-6 leading-relaxed">
+        <p className="text-ink-muted text-base max-w-2xl mb-6 leading-relaxed">
           {code} maddelerinin tamamı: resmî metin ve akademik şerh aynı sayfada.
           Arama örnekleri: <strong className="text-charcoal/80">{code} 13</strong>,{' '}
           <strong className="text-charcoal/80">{code} madde 1</strong>,{' '}
@@ -131,7 +131,7 @@ export default async function KanunHubPage({ params }: Props) {
 
         {relatedCats.length > 0 && (
           <section className="mb-10">
-            <h2 className="text-sm font-bold uppercase tracking-widest text-charcoal/50 mb-3">
+            <h2 className="text-sm font-bold uppercase tracking-widest text-ink-muted mb-3">
               Bölümler
             </h2>
             <ul className="flex flex-wrap gap-2">
@@ -154,7 +154,7 @@ export default async function KanunHubPage({ params }: Props) {
             <h2 className="text-lg font-heading font-bold text-charcoal mb-2">
               Sık aranan {code} maddeleri (1–50)
             </h2>
-            <p className="text-sm text-charcoal/55 mb-4">
+            <p className="text-sm text-ink-muted mb-4">
               Google’da «{code} 13», «{code} madde 1» gibi aramalar için doğrudan bağlantılar.
             </p>
             <ul className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2">
@@ -183,7 +183,7 @@ export default async function KanunHubPage({ params }: Props) {
                   href={maddeYolu(kanunId, a.id)}
                   className="flex gap-3 items-baseline px-3 py-2.5 rounded-xl hover:bg-white border border-transparent hover:border-charcoal/[0.08] transition-colors"
                 >
-                  <span className="shrink-0 font-mono text-xs font-bold text-accent w-16">
+                  <span className="shrink-0 font-mono text-xs font-bold text-accent-ink w-16">
                     {code} {a.maddeNo}
                   </span>
                   <span className="text-sm text-charcoal/75 line-clamp-1">

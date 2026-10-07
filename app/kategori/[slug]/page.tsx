@@ -48,18 +48,18 @@ export default async function KategoriPage({ params }: { params: Promise<{ slug:
             { ad: 'Mevzuat', yol: '/mevzuat' },
             { ad: category.name, yol: `/kategori/${category.slug}` },
           ]}
-          className="text-[11px] text-charcoal/40 mb-12 flex flex-wrap gap-1.5"
+          className="text-[11px] text-ink-muted mb-12 flex flex-wrap gap-1.5"
         />
 
         <header className="mb-20">
-          <div className="flex items-center gap-4 text-accent font-mono text-xs tracking-[0.2em] uppercase mb-4">
+          <div className="flex items-center gap-4 text-accent-ink font-mono text-xs tracking-[0.2em] uppercase mb-4">
             <Scale size={18} />
             <span>MEVZUAT KATEGORİSİ</span>
           </div>
           <h1 className="text-4xl md:text-6xl text-charcoal font-bold mb-6">
             {category.name} <span className="font-drama italic text-accent">Arşivi</span>
           </h1>
-          <p className="text-charcoal/60 max-w-3xl text-lg font-sans">
+          <p className="text-ink-muted max-w-3xl text-lg font-sans">
             {category.description} ile ilgili akademik incelemeler, güncel mevzuat maddeleri ve emsal teşkil eden Yargıtay kararları.
           </p>
         </header>
@@ -67,7 +67,7 @@ export default async function KategoriPage({ params }: { params: Promise<{ slug:
         {categoryArticles.length === 0 ? (
           <div className="bg-white/50 border border-charcoal/5 rounded-[3rem] p-24 text-center">
             <BookOpen size={48} className="mx-auto text-charcoal/10 mb-6" />
-            <p className="text-charcoal/40 font-heading text-xl italic">Bu kategoriye ait henüz akademik veri girişi yapılmamıştır.</p>
+            <p className="text-ink-muted font-heading text-xl italic">Bu kategoriye ait henüz akademik veri girişi yapılmamıştır.</p>
           </div>
         ) : (
           <CategoryArticleList articles={categoryArticles} />

@@ -59,7 +59,7 @@ export default function AraPage() {
           <h1 className="text-3xl sm:text-5xl text-charcoal font-bold mb-4 text-balance">
             Kanun Maddesi <span className="font-drama italic text-accent">Ara</span>
           </h1>
-          <p className="text-charcoal/55 max-w-xl mx-auto text-base sm:text-lg leading-relaxed">
+          <p className="text-ink-muted max-w-xl mx-auto text-base sm:text-lg leading-relaxed">
             Kanun maddesi aramak için kelime veya madde no yazın. Örn.{' '}
             <Link
               href="/mevzuat/tbk/madde-13"

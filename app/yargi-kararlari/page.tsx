@@ -43,25 +43,25 @@ export default function YargiKararlariPage() {
           <h1 className="text-3xl sm:text-5xl font-heading font-bold text-charcoal tracking-tight">
             Yargıtay karar arşivi
           </h1>
-          <p className="mt-4 max-w-2xl text-charcoal/60 leading-relaxed">
+          <p className="mt-4 max-w-2xl text-ink-muted leading-relaxed">
             {totalLabel}. Öncelik içtihadı birleştirme, Hukuk Genel Kurulu ve
             Ceza Genel Kurulu&apos;ndadır. Metinler sitede okunur; dosya indirme
             yoktur. Bağlayıcı olan kararın aslıdır.
           </p>
           <div className="mt-4 flex flex-wrap gap-3 text-sm">
-            <Link href="/icthat" className="text-accent hover:underline">
+            <Link href="/icthat" className="text-accent-ink hover:underline">
               Günlük içtihat
             </Link>
             <span className="text-charcoal/20">·</span>
-            <Link href="/mevzuat/tbk" className="text-accent hover:underline">
+            <Link href="/mevzuat/tbk" className="text-accent-ink hover:underline">
               TBK
             </Link>
             <span className="text-charcoal/20">·</span>
-            <Link href="/mevzuat/tmk" className="text-accent hover:underline">
+            <Link href="/mevzuat/tmk" className="text-accent-ink hover:underline">
               TMK
             </Link>
             <span className="text-charcoal/20">·</span>
-            <Link href="/ara" className="text-accent hover:underline">
+            <Link href="/ara" className="text-accent-ink hover:underline">
               Madde ara
             </Link>
           </div>

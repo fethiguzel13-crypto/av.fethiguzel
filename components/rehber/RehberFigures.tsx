@@ -46,7 +46,7 @@ export function RehberClocks({ clocks }: { clocks: RehberClock[] }) {
                         >
                             {c.amount}
                         </p>
-                        <p className="mt-1 mb-2 font-heading font-bold uppercase tracking-[0.14em] text-[11px] text-charcoal/55">
+                        <p className="mt-1 mb-2 font-heading font-bold uppercase tracking-[0.14em] text-[11px] text-ink-muted">
                             {c.unit}
                         </p>
                         <p className="m-0 text-[13px] leading-snug text-charcoal/75">{c.context}</p>

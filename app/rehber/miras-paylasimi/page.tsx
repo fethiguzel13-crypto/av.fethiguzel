@@ -23,7 +23,7 @@ export default function MirasRehberPage() {
                         { ad: 'Miras paylaşımı', yol: '/rehber/miras-paylasimi' },
                     ]}
                 />
-                <p className="text-accent text-xs font-bold tracking-widest uppercase mb-3">Rehber · bilgilendirme</p>
+                <p className="text-accent-ink text-xs font-bold tracking-widest uppercase mb-3">Rehber · bilgilendirme</p>
                 <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal mb-6">
                     Miras paylaşımı — temel kavramlar
                 </h1>
@@ -37,7 +37,7 @@ export default function MirasRehberPage() {
                     Altsoy, ana-baba ve bunların altsoyu ile sağ kalan eş yasal mirasçılık sisteminde
                     öne çıkar. Zümre sistemi, hangi grubun ne zaman mirasçı olacağını belirler. Ayrıntı
                     için TMK miras hükümleri ve{' '}
-                    <Link href="/kategori/miras-hukuku" className="text-accent font-semibold hover:underline">
+                    <Link href="/kategori/miras-hukuku" className="text-accent-ink font-semibold hover:underline">
                         miras hukuku şerhleri
                     </Link>{' '}
                     incelenebilir.
@@ -50,18 +50,18 @@ export default function MirasRehberPage() {
                 <h2 className="text-xl font-heading font-bold text-charcoal mt-10 mb-3">Araçlar</h2>
                 <ul className="list-disc pl-5 text-charcoal/65 space-y-2 mb-8">
                     <li>
-                        <Link href="/hesaplama#miras" className="text-accent font-semibold hover:underline">
+                        <Link href="/hesaplama#miras" className="text-accent-ink font-semibold hover:underline">
                             Miras paylaşımı hesaplama aracı
                         </Link>{' '}
                         (bilgilendirme amaçlı, bağlayıcı değil)
                     </li>
                     <li>
-                        <Link href="/hesaplama#sakli-pay" className="text-accent font-semibold hover:underline">
+                        <Link href="/hesaplama#sakli-pay" className="text-accent-ink font-semibold hover:underline">
                             Saklı pay aracı
                         </Link>
                     </li>
                 </ul>
-                <p className="text-sm text-charcoal/50 border-t border-charcoal/10 pt-6">
+                <p className="text-sm text-ink-muted border-t border-charcoal/10 pt-6">
                     Yazar / portal: {PROFILE.name}. Ofis: {PROFILE.office.locality} / {PROFILE.office.region}.
                     İletişim:{' '}
                     <a href={`mailto:${PROFILE.email}`} className="text-accent font-semibold">
@@ -69,7 +69,7 @@ export default function MirasRehberPage() {
                     </a>
                 </p>
                 <p className="mt-6">
-                    <Link href="/rehber" className="text-accent font-bold hover:underline">
+                    <Link href="/rehber" className="text-accent-ink font-bold hover:underline">
                         ← Tüm rehberler
                     </Link>
                 </p>

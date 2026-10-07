@@ -28,7 +28,7 @@ function SisterInner({ compact = false, variant = 'light' }: Props) {
       {!compact && (
         <h2
           className={`text-xs font-bold uppercase tracking-widest mb-3 ${
-            dark ? 'text-cream/40' : 'text-charcoal/45'
+            dark ? 'text-cream/55' : 'text-ink-muted'
           }`}
         >
           {t('common.sisterApps')}
@@ -53,7 +53,7 @@ function SisterInner({ compact = false, variant = 'light' }: Props) {
                 {localized(a.name, locale)}
               </span>
               <span
-                className={`text-[11px] leading-snug ${dark ? 'text-cream/55' : 'text-charcoal/55'}`}
+                className={`text-[11px] leading-snug ${dark ? 'text-cream/55' : 'text-ink-muted'}`}
               >
                 {localized(a.short, locale)}
               </span>
@@ -62,7 +62,7 @@ function SisterInner({ compact = false, variant = 'light' }: Props) {
         ))}
       </ul>
       <p
-        className={`mt-3 text-[10px] leading-relaxed ${dark ? 'text-cream/35' : 'text-charcoal/40'}`}
+        className={`mt-3 text-[10px] leading-relaxed ${dark ? 'text-cream/55' : 'text-ink-muted'}`}
       >
         {t('common.installHint')}
       </p>

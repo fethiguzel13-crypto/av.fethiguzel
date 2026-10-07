@@ -119,7 +119,7 @@ export default function OdemePaneli({
   return (
     <div className="space-y-6">
       <div className="rounded-[2rem] bg-charcoal text-cream p-8">
-        <p className="text-[11px] font-mono uppercase tracking-widest text-accent">Aylık plan</p>
+        <p className="text-[11px] font-mono uppercase tracking-widest text-accent-light">Aylık plan</p>
         <p className="mt-2 text-4xl font-heading font-bold">
           {priceLabel()}
           <span className="text-base font-sans text-cream/50 ml-2">/ {UYELIK.periodDays} gün</span>
@@ -137,7 +137,7 @@ export default function OdemePaneli({
                 {k}
               </span>
             ))}
-            <span className="text-[11px] text-cream/45 ml-1">tek çekim · 3D Secure</span>
+            <span className="text-[11px] text-cream/55 ml-1">tek çekim · 3D Secure</span>
           </div>
         ) : null}
       </div>
@@ -152,7 +152,7 @@ export default function OdemePaneli({
       {kartReady && !formHtml ? (
         <div className="rounded-3xl bg-white border border-charcoal/10 p-6">
           <h2 className="font-heading font-bold text-lg">Kredi / banka kartı</h2>
-          <p className="mt-2 text-sm text-charcoal/60 leading-relaxed">
+          <p className="mt-2 text-sm text-ink-muted leading-relaxed">
             Kart bilgileri iyzico ödeme sayfasında girilir ve bu siteye hiçbir aşamada gelmez.
             Onay anında {UYELIK.periodDays} günlük erişim açılır.
           </p>
@@ -168,7 +168,7 @@ export default function OdemePaneli({
               className="mt-0.5 h-4 w-4 shrink-0 accent-[#CC5833]"
             />
             <span>
-              <Link href="/uyelik/sozlesme" className="text-accent font-semibold hover:underline">
+              <Link href="/uyelik/sozlesme" className="text-accent-ink font-semibold hover:underline">
                 Mesafeli satış sözleşmesini
               </Link>{' '}
               ve ön bilgilendirme metnini okudum; dijital içeriğin ödeme sonrası derhal ifasını
@@ -184,7 +184,7 @@ export default function OdemePaneli({
           >
             {busy ? 'Açılıyor…' : `Kart ile öde — ${priceLabel()}`}
           </button>
-          <p className="mt-3 text-[11px] text-charcoal/40 text-center">
+          <p className="mt-3 text-[11px] text-ink-muted text-center">
             Ödeme altyapısı: iyzico · 256-bit SSL · kart verisi saklanmaz
           </p>
         </div>
@@ -199,7 +199,7 @@ export default function OdemePaneli({
               setFormHtml(null);
               setOnay(false);
             }}
-            className="mt-3 w-full text-[12px] text-charcoal/45 hover:text-accent"
+            className="mt-3 w-full text-[12px] text-ink-muted hover:text-accent"
           >
             Vazgeç
           </button>
@@ -209,7 +209,7 @@ export default function OdemePaneli({
       {!kartReady && !havaleReady ? (
         <div className="rounded-3xl bg-white border border-charcoal/10 p-6">
           <h2 className="font-heading font-bold text-lg">Ödeme şu an alınamıyor</h2>
-          <p className="mt-2 text-sm text-charcoal/60 leading-relaxed">
+          <p className="mt-2 text-sm text-ink-muted leading-relaxed">
             Kart ödemesi kısa süre içinde açılacak. Erişim açtırmak için{' '}
             <a href="mailto:fethiguzel@hotmail.com" className="text-accent font-semibold">
               fethiguzel@hotmail.com
@@ -224,7 +224,7 @@ export default function OdemePaneli({
           <h2 className="font-heading font-bold text-lg">
             {kartReady ? 'Alternatif: havale / EFT' : 'Havale / EFT'}
           </h2>
-          <p className="mt-2 text-sm text-charcoal/60 leading-relaxed">
+          <p className="mt-2 text-sm text-ink-muted leading-relaxed">
             {priceLabel()} gönderin; açıklamaya aşağıdaki referansı yazın. Onay sonrası
             {` ${UYELIK.periodDays} `}
             günlük erişim açılır.
@@ -242,28 +242,28 @@ export default function OdemePaneli({
           {(havale || ref) && (
             <dl className="mt-4 space-y-2 text-sm">
               <div className="flex justify-between gap-4 border-b border-charcoal/5 py-2">
-                <dt className="text-charcoal/45">Tutar</dt>
+                <dt className="text-ink-muted">Tutar</dt>
                 <dd className="font-bold">{havale?.amount || priceLabel()}</dd>
               </div>
               {havale?.hesapAdi ? (
                 <div className="flex justify-between gap-4 border-b border-charcoal/5 py-2">
-                  <dt className="text-charcoal/45">Hesap adı</dt>
+                  <dt className="text-ink-muted">Hesap adı</dt>
                   <dd className="font-semibold text-right">{havale.hesapAdi}</dd>
                 </div>
               ) : null}
               {havale?.banka ? (
                 <div className="flex justify-between gap-4 border-b border-charcoal/5 py-2">
-                  <dt className="text-charcoal/45">Banka</dt>
+                  <dt className="text-ink-muted">Banka</dt>
                   <dd className="font-semibold">{havale.banka}</dd>
                 </div>
               ) : null}
               {havale?.iban ? (
                 <div className="flex justify-between gap-4 border-b border-charcoal/5 py-2">
-                  <dt className="text-charcoal/45">IBAN</dt>
+                  <dt className="text-ink-muted">IBAN</dt>
                   <dd className="font-mono text-[13px]">{havale.iban}</dd>
                 </div>
               ) : (
-                <p className="text-[13px] text-charcoal/55 pt-2">
+                <p className="text-[13px] text-ink-muted pt-2">
                   IBAN henüz panelde yoksa tutarı{' '}
                   <a href="mailto:fethiguzel@hotmail.com" className="text-accent font-semibold">
                     fethiguzel@hotmail.com
@@ -272,7 +272,7 @@ export default function OdemePaneli({
                 </p>
               )}
               <div className="flex justify-between gap-4 py-2">
-                <dt className="text-charcoal/45">Açıklama</dt>
+                <dt className="text-ink-muted">Açıklama</dt>
                 <dd className="font-mono font-bold text-accent">{ref}</dd>
               </div>
             </dl>
@@ -280,14 +280,14 @@ export default function OdemePaneli({
         </div>
       ) : null}
 
-      {error ? <p className="text-sm text-accent font-semibold">{error}</p> : null}
+      {error ? <p className="text-sm text-accent-ink font-semibold">{error}</p> : null}
 
-      <p className="text-[12px] text-charcoal/40 leading-relaxed">
-        <Link href="/uyelik/sozlesme" className="text-accent hover:underline">
+      <p className="text-[12px] text-ink-muted leading-relaxed">
+        <Link href="/uyelik/sozlesme" className="text-accent-ink hover:underline">
           Mesafeli satış sözleşmesi
         </Link>
         {' · '}
-        <Link href="/gizlilik" className="text-accent hover:underline">
+        <Link href="/gizlilik" className="text-accent-ink hover:underline">
           KVKK
         </Link>
       </p>

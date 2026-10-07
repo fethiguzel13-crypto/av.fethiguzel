@@ -49,22 +49,22 @@ export default async function AnalysisPage({ params }: Props) {
       <main className="pt-40 pb-20 px-6 max-w-3xl mx-auto">
         <Link
           href="/icthat"
-          className="inline-flex items-center gap-2 text-sm text-charcoal/50 hover:text-accent transition mb-10 font-mono uppercase tracking-widest"
+          className="inline-flex items-center gap-2 text-sm text-ink-muted hover:text-accent transition mb-10 font-mono uppercase tracking-widest"
         >
           ← Tüm Kararlar
         </Link>
 
         <header className="mb-10">
           <div className="flex items-center gap-3 mb-3">
-            <span className="bg-accent/10 text-accent text-[10px] font-mono font-bold uppercase tracking-widest px-2 py-1 rounded-md">
+            <span className="bg-accent/10 text-accent-ink text-[10px] font-mono font-bold uppercase tracking-widest px-2 py-1 rounded-md">
               {highlight.source}
             </span>
             {highlight.date && (
-              <span className="text-charcoal/40 text-xs font-mono">{highlight.date}</span>
+              <span className="text-ink-muted text-xs font-mono">{highlight.date}</span>
             )}
           </div>
           {highlight.kunye && (
-            <p className="text-charcoal/60 text-sm font-mono">{highlight.kunye}</p>
+            <p className="text-ink-muted text-sm font-mono">{highlight.kunye}</p>
           )}
         </header>
 
@@ -81,7 +81,7 @@ export default async function AnalysisPage({ params }: Props) {
               href={highlight.url}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 text-accent font-bold text-sm uppercase tracking-widest hover:underline"
+              className="inline-flex items-center gap-2 text-accent-ink font-bold text-sm uppercase tracking-widest hover:underline"
             >
               Resmi Karar Metnine Git <ExternalLink size={14} />
             </a>
@@ -93,7 +93,7 @@ export default async function AnalysisPage({ params }: Props) {
         <div className="mt-10">
           <Link
             href="/icthat"
-            className="inline-flex items-center gap-2 text-sm text-charcoal/50 hover:text-accent transition font-mono uppercase tracking-widest"
+            className="inline-flex items-center gap-2 text-sm text-ink-muted hover:text-accent transition font-mono uppercase tracking-widest"
           >
             ← Tüm Kararlar
           </Link>

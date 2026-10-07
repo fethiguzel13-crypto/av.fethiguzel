@@ -21,7 +21,7 @@ export function McqBlock({
 
     return (
         <div className="my-6 rounded-2xl border border-charcoal/10 bg-white p-4 sm:p-5 shadow-sm print:break-inside-avoid">
-            <p className="text-[10px] font-mono uppercase tracking-[0.14em] text-accent font-bold mb-3">
+            <p className="text-[10px] font-mono uppercase tracking-[0.14em] text-accent-ink font-bold mb-3">
                 Konu sonu test
             </p>
             <ol className="m-0 p-0 list-none space-y-4">
@@ -56,7 +56,7 @@ export function McqBlock({
                             })}
                         </div>
                         {done && (
-                            <p className="text-xs text-charcoal/60 mt-2 m-0">{it.reason}</p>
+                            <p className="text-xs text-ink-muted mt-2 m-0">{it.reason}</p>
                         )}
                     </li>
                 ))}

@@ -103,19 +103,19 @@ function Card({ id, icon: Icon, title, tag, children, fav, onToggleFav, onOpen }
               <Icon size={22} strokeWidth={2} />
             </span>
             <div className="min-w-0">
-              <span className={`text-[9px] sm:text-[10px] font-bold uppercase tracking-widest px-2 sm:px-2.5 py-0.5 rounded-full ${TAG_COLORS[tag] ?? "bg-charcoal/5 text-charcoal/40"}`}>
+              <span className={`text-[9px] sm:text-[10px] font-bold uppercase tracking-widest px-2 sm:px-2.5 py-0.5 rounded-full ${TAG_COLORS[tag] ?? "bg-charcoal/5 text-ink-muted"}`}>
                 {tag}
               </span>
               <h2 className="text-sm sm:text-base md:text-lg font-heading font-bold text-charcoal mt-1 leading-snug">{title}</h2>
             </div>
           </div>
-          {open ? <ChevronUp size={18} className="text-charcoal/30 shrink-0 ml-2" /> : <ChevronDown size={18} className="text-charcoal/30 shrink-0 ml-2" />}
+          {open ? <ChevronUp size={18} className="text-ink-muted shrink-0 ml-2" /> : <ChevronDown size={18} className="text-ink-muted shrink-0 ml-2" />}
         </button>
         {onToggleFav && (
           <button
             type="button"
             onClick={(e) => { e.stopPropagation(); onToggleFav(id); }}
-            className="px-3 sm:px-4 border-l border-charcoal/[0.06] text-charcoal/30 hover:text-accent transition-colors"
+            className="px-3 sm:px-4 border-l border-charcoal/[0.06] text-ink-muted hover:text-accent transition-colors"
             aria-label={fav ? "Favorilerden çıkar" : "Favorilere ekle"}
             title={fav ? "Favorilerden çıkar" : "Favorilere ekle"}
           >
@@ -129,7 +129,7 @@ function Card({ id, icon: Icon, title, tag, children, fav, onToggleFav, onOpen }
             {kavram && (
               <Link
                 href={`/kavram/${kavram.slug}`}
-                className="text-[10px] font-bold uppercase tracking-wider text-charcoal/35 hover:text-accent transition-colors"
+                className="text-[10px] font-bold uppercase tracking-wider text-ink-muted hover:text-accent transition-colors"
                 onClick={(e) => e.stopPropagation()}
               >
                 Kavram
@@ -137,7 +137,7 @@ function Card({ id, icon: Icon, title, tag, children, fav, onToggleFav, onOpen }
             )}
             <Link
               href={`/hesaplama/${id}`}
-              className="inline-flex items-center gap-1 text-[10px] font-bold uppercase tracking-wider text-charcoal/35 hover:text-accent transition-colors"
+              className="inline-flex items-center gap-1 text-[10px] font-bold uppercase tracking-wider text-ink-muted hover:text-accent transition-colors"
               onClick={(e) => e.stopPropagation()}
             >
               Ayrı sayfa <ExternalLink size={11} />
@@ -148,7 +148,7 @@ function Card({ id, icon: Icon, title, tag, children, fav, onToggleFav, onOpen }
           </KartBaslikContext.Provider>
           {meta?.ilgili && meta.ilgili.length > 0 && (
             <div className="mt-5 pt-4 border-t border-charcoal/[0.06]">
-              <p className="text-[10px] font-bold uppercase tracking-wider text-charcoal/35 mb-2">İlgili araçlar</p>
+              <p className="text-[10px] font-bold uppercase tracking-wider text-ink-muted mb-2">İlgili araçlar</p>
               <div className="flex flex-wrap gap-1.5">
                 {meta.ilgili.map(rid => {
                   const m = META_ARACLAR.find(x => x.id === rid);
@@ -164,7 +164,7 @@ function Card({ id, icon: Icon, title, tag, children, fav, onToggleFav, onOpen }
                           window.location.hash = rid;
                         }
                       }}
-                      className="text-[11px] px-2.5 py-1 rounded-full bg-charcoal/5 text-charcoal/60 hover:bg-accent/10 hover:text-accent"
+                      className="text-[11px] px-2.5 py-1 rounded-full bg-charcoal/5 text-ink-muted hover:bg-accent/10 hover:text-accent"
                     >
                       {m?.baslik ?? rid}
                     </a>
@@ -183,7 +183,7 @@ function Card({ id, icon: Icon, title, tag, children, fav, onToggleFav, onOpen }
 function Field({ label, children }: { label: string; children: React.ReactNode }) {
   return (
     <label className="flex flex-col gap-1.5">
-      <span className="text-[11px] font-bold text-charcoal/50 uppercase tracking-wider">{label}</span>
+      <span className="text-[11px] font-bold text-ink-muted uppercase tracking-wider">{label}</span>
       {children}
     </label>
   );
@@ -277,7 +277,7 @@ function Result({ rows, note, baslik }: { rows: [string, string][]; note?: strin
             type="button"
             onClick={kopyala}
             aria-label="Sonucu panoya kopyala"
-            className="inline-flex items-center gap-1 text-[10px] font-bold uppercase tracking-wider text-charcoal/40 hover:text-accent transition-colors"
+            className="inline-flex items-center gap-1 text-[10px] font-bold uppercase tracking-wider text-ink-muted hover:text-accent transition-colors"
           >
             {kopyalandi ? <><Check size={12} /> Kopyalandı</> : <><Copy size={12} /> Kopyala</>}
           </button>
@@ -285,7 +285,7 @@ function Result({ rows, note, baslik }: { rows: [string, string][]; note?: strin
             type="button"
             onClick={paylas}
             aria-label="Sonucu paylaş"
-            className="inline-flex items-center gap-1 text-[10px] font-bold uppercase tracking-wider text-charcoal/40 hover:text-accent transition-colors"
+            className="inline-flex items-center gap-1 text-[10px] font-bold uppercase tracking-wider text-ink-muted hover:text-accent transition-colors"
           >
             <Share2 size={12} /> Paylaş
           </button>
@@ -293,7 +293,7 @@ function Result({ rows, note, baslik }: { rows: [string, string][]; note?: strin
             type="button"
             onClick={yazdir}
             aria-label="Sonucu yazdır veya PDF olarak kaydet"
-            className="inline-flex items-center gap-1 text-[10px] font-bold uppercase tracking-wider text-charcoal/40 hover:text-accent transition-colors"
+            className="inline-flex items-center gap-1 text-[10px] font-bold uppercase tracking-wider text-ink-muted hover:text-accent transition-colors"
           >
             <Printer size={12} /> Yazdır / PDF
           </button>
@@ -302,13 +302,13 @@ function Result({ rows, note, baslik }: { rows: [string, string][]; note?: strin
       <div className="divide-y divide-charcoal/[0.08]">
         {rows.map(([k, v], i) => (
           <div key={`${k}-${i}`} className="flex flex-col sm:flex-row sm:justify-between sm:items-center py-2.5 first:pt-0 last:pb-0 gap-0.5 sm:gap-3">
-            <span className="text-xs sm:text-sm text-charcoal/55 leading-snug">{k}</span>
+            <span className="text-xs sm:text-sm text-ink-muted leading-snug">{k}</span>
             <span className="text-sm sm:text-sm font-bold text-charcoal sm:text-right shrink-0">{v}</span>
           </div>
         ))}
       </div>
       {note && (
-        <p className="mt-3 sm:mt-4 flex items-start gap-2 text-[10px] sm:text-[11px] text-charcoal/40 leading-relaxed">
+        <p className="mt-3 sm:mt-4 flex items-start gap-2 text-[10px] sm:text-[11px] text-ink-muted leading-relaxed">
           <Info size={11} className="shrink-0 mt-0.5" />
           {note}
         </p>
@@ -415,12 +415,12 @@ function KidemIhbarTazminati() {
       <Field label="Kıdem Tavanı (TL) — opsiyonel (boşsa ayrılış tarihine göre otomatik)">
         <MoneyInput value={ozelTavan} onChange={setOzelTavan} placeholder="Örn. 2026/II: 73.729,87" />
       </Field>
-      <div className="col-span-full text-[11px] text-charcoal/45 leading-relaxed bg-charcoal/[0.04] rounded-xl px-4 py-3">
+      <div className="col-span-full text-[11px] text-ink-muted leading-relaxed bg-charcoal/[0.04] rounded-xl px-4 py-3">
         <strong className="text-charcoal/70">Otomatik tavan dönemleri:</strong>{" "}
         2026/I (01.01–30.06) = 64.948,77 TL · 2026/II (01.07–31.12) = 73.729,87 TL · 2025/II = 53.919,68 TL.
         Ayrılış tarihine göre seçilir; isterseniz alanı elle geçersiz kılın.
       </div>
-      <div className="col-span-full text-[11px] text-charcoal/45 leading-relaxed bg-amber-50/80 border border-amber-100 rounded-xl px-4 py-3">
+      <div className="col-span-full text-[11px] text-ink-muted leading-relaxed bg-amber-50/80 border border-amber-100 rounded-xl px-4 py-3">
         <strong className="text-charcoal/70">Kıdem hakkı notu:</strong> Kıdem tazminatı her feshde doğmaz.
         İşveren haksız fesih, emeklilik, muvazzaf askerlik, kadın işçinin evlilik sonrası 1 yıl içinde ayrılması,
         işçinin haklı feshi (İş K. m.24) vb. hâllerde gündeme gelir. Haklı nedenle işveren feshi (m.25/II) kıdemi
@@ -430,7 +430,7 @@ function KidemIhbarTazminati() {
       {result ? (
         <div className="col-span-full flex flex-col gap-4">
           <div>
-            <div className="mb-2 text-[11px] font-mono uppercase tracking-widest text-accent">Giydirilmiş Ücret & Süre</div>
+            <div className="mb-2 text-[11px] font-mono uppercase tracking-widest text-accent-ink">Giydirilmiş Ücret & Süre</div>
             <Result
               rows={[
                 ["Toplam Çalışma Süresi", `${result.tam} tam yıl + ${result.kistGun} gün (${fmt(result.yil, 4)} yıl)`],
@@ -441,7 +441,7 @@ function KidemIhbarTazminati() {
             />
           </div>
           <div>
-            <div className="mb-2 text-[11px] font-mono uppercase tracking-widest text-accent">Kıdem Tazminatı</div>
+            <div className="mb-2 text-[11px] font-mono uppercase tracking-widest text-accent-ink">Kıdem Tazminatı</div>
             <Result
               rows={[
                 ["Uygulanan tavan dönemi", result.tavanEtiket],
@@ -456,7 +456,7 @@ function KidemIhbarTazminati() {
             />
           </div>
           <div>
-            <div className="mb-2 text-[11px] font-mono uppercase tracking-widest text-accent">İhbar Tazminatı</div>
+            <div className="mb-2 text-[11px] font-mono uppercase tracking-widest text-accent-ink">İhbar Tazminatı</div>
             <Result
               rows={[
                 ["Bildirim Süresi", `${result.hafta} hafta (${result.hafta * 7} gün)`],
@@ -470,7 +470,7 @@ function KidemIhbarTazminati() {
           </div>
         </div>
       ) : (
-        <div className="col-span-full text-sm text-charcoal/35 italic">Tarihleri ve ücret bilgilerini girin.</div>
+        <div className="col-span-full text-sm text-ink-muted italic">Tarihleri ve ücret bilgilerini girin.</div>
       )}
     </div>
   );
@@ -627,7 +627,7 @@ function FazlaMesai() {
             note="4857 md.41 — Haftalık yasal çalışma süresi 45 saattir (yeraltı maden işlerinde 37,5 saat). ANLAŞILAN süre ile 45 saat (yeraltında 37,5) arasındaki çalışma 'fazla sürelerle çalışma' olup %25 zamlıdır; 45 saati (yeraltında 37,5) aşan çalışma 'fazla çalışma' olup %50 (yeraltında %100) zamlıdır. Hesapta yarım saatten az süreler yarım saat, yarım saati aşanlar bir saat sayılır. Saatlik ücret = aylık brüt ÷ 225. Fazla mesai alacağı 5 yıllık zamanaşımına tabidir; bu nedenle hesap son 260 hafta ile sınırlandırılmıştır. Tutar brüttür; gelir ve damga vergisi ile SGK primi ayrıca kesilir. İşçi iddiasını yalnızca tanık beyanıyla ispatlıyorsa mahkemeler genellikle ~%30 hakkaniyet/takdiri indirim uygular. Ayrıca fazla çalışma yılda 270 saatle sınırlıdır."
           />
         ) : (
-          <div className="text-sm text-charcoal/35 italic">Geçerli tarih aralığı ve ücret bilgilerini girin.</div>
+          <div className="text-sm text-ink-muted italic">Geçerli tarih aralığı ve ücret bilgilerini girin.</div>
         )}
       </div>
     </div>
@@ -733,7 +733,7 @@ function YillikIzin() {
             note="4857 md.53: hizmet süresi 1–5 yıl 14 gün, 5–15 yıl 20 gün, 15+ yıl 26 gün; her tam hizmet yılı için kademeli hesaplanır. 18 yaşından küçük (18 dahil) ve 50 yaşından büyük (50 dahil) işçilere yılda en az 20 gün verilir (doğum tarihinden hesaplanır). İlk yıl dolmadan izne hak kazanılmaz. İzin günlük ücreti çıplak brüt/net maaşın 30'a bölümüdür; yol/yemek gibi ek ödemeler dahil edilmez. ÖNEMLİ: İş sözleşmesi sona erdiğinde ödenen kullanılmayan yıllık izin ücretinden SGK primi KESİLMEZ (5510 s.K.); yalnızca gelir vergisi (brüt modda kümüle matraha göre) ve damga vergisi kesilir. Net modda girilen net maaş doğrudan esas alınır. İzin alacağı zamanaşımı, iş sözleşmesinin sona erdiği tarihte işlemeye başlar (5 yıl)."
           />
         ) : (
-          <div className="text-sm text-charcoal/35 italic">Tarihleri ve maaş bilgisini girin (ayrılma, başlamadan sonra olmalı).</div>
+          <div className="text-sm text-ink-muted italic">Tarihleri ve maaş bilgisini girin (ayrılma, başlamadan sonra olmalı).</div>
         )}
       </div>
     </div>
@@ -929,7 +929,7 @@ function NafakaArtisi() {
   const tabBtn = (key: typeof tab, label: string) => (
     <button
       onClick={() => setTab(key)}
-      className={`px-3 py-1.5 rounded-full text-xs font-bold transition-colors ${tab === key ? "bg-accent text-white" : "bg-charcoal/5 text-charcoal/50 hover:bg-charcoal/10"}`}
+      className={`px-3 py-1.5 rounded-full text-xs font-bold transition-colors ${tab === key ? "bg-accent text-white" : "bg-charcoal/5 text-ink-muted hover:bg-charcoal/10"}`}
     >{label}</button>
   );
 
@@ -1232,8 +1232,8 @@ function FaizHesaplama() {
       ) : (
         <div className="col-span-full space-y-3">
           <div className="flex items-center justify-between">
-            <span className="text-[11px] font-bold text-charcoal/50 uppercase tracking-wider">Oran dilimleri</span>
-            <button type="button" onClick={ekleDonem} className="text-xs font-bold text-accent hover:underline">
+            <span className="text-[11px] font-bold text-ink-muted uppercase tracking-wider">Oran dilimleri</span>
+            <button type="button" onClick={ekleDonem} className="text-xs font-bold text-accent-ink hover:underline">
               + Dilim ekle
             </button>
           </div>
@@ -1281,7 +1281,7 @@ function FaizHesaplama() {
           {result.mod === "donemsel" && result.dilimler.length > 0 && (
             <div className="overflow-x-auto rounded-xl border border-charcoal/[0.08]">
               <table className="w-full text-sm">
-                <thead className="bg-charcoal/5 text-[10px] uppercase tracking-wider text-charcoal/50">
+                <thead className="bg-charcoal/5 text-[10px] uppercase tracking-wider text-ink-muted">
                   <tr>
                     <th className="text-left p-2.5">Dönem</th>
                     <th className="text-right p-2.5">Gün</th>
@@ -1320,7 +1320,7 @@ function FaizHesaplama() {
           />
         </div>
       ) : (
-        <div className="col-span-full text-sm text-charcoal/35 italic">Bilgileri doldurun.</div>
+        <div className="col-span-full text-sm text-ink-muted italic">Bilgileri doldurun.</div>
       )}
     </div>
   );
@@ -1519,7 +1519,7 @@ function AracDegerKaybi() {
           />
         </div>
       ) : (
-        <div className="col-span-full text-sm text-charcoal/35 italic">Bilgileri doldurun.</div>
+        <div className="col-span-full text-sm text-ink-muted italic">Bilgileri doldurun.</div>
       )}
     </div>
   );
@@ -1907,7 +1907,7 @@ function IcraKapakHesabi() {
       </Field>
 
       <div className="md:col-span-2">
-        <div className="mb-2 text-[11px] font-mono uppercase tracking-widest text-accent">1 · Açılış Masrafı — Alacaklının Yatıracağı</div>
+        <div className="mb-2 text-[11px] font-mono uppercase tracking-widest text-accent-ink">1 · Açılış Masrafı — Alacaklının Yatıracağı</div>
         <Result
           rows={[
             ["Başvurma Harcı (maktu)", `${fmt(BASVURMA_HARCI)} TL`],
@@ -1924,7 +1924,7 @@ function IcraKapakHesabi() {
       </div>
 
       <div className="md:col-span-2">
-        <div className="mb-2 text-[11px] font-mono uppercase tracking-widest text-accent">2 · Tahsil Aşaması — Harçlar & Vekalet</div>
+        <div className="mb-2 text-[11px] font-mono uppercase tracking-widest text-accent-ink">2 · Tahsil Aşaması — Harçlar & Vekalet</div>
         <Result
           rows={[
             ["Tahsil Harcı — hacizden önce ödeme (%4,55)", `${fmt(result.tahsilOnce)} TL`],
@@ -2583,7 +2583,7 @@ function MirasPaylasimi() {
       )}
 
       <div className="col-span-full">
-        <div className="mb-3 text-[11px] font-mono uppercase tracking-widest text-accent">{result.zumreEtiket}</div>
+        <div className="mb-3 text-[11px] font-mono uppercase tracking-widest text-accent-ink">{result.zumreEtiket}</div>
         <Result
           rows={result.display.map(d => [
             d.ad,
@@ -2756,7 +2756,7 @@ function InfazHesaplama() {
             note="⚠️ TAHMİNÎ hesaptır; bağlayıcı değildir. Gerçek infaz, infaz savcılığının düzenlediği MÜDDETNAME ile ve iyi hâl değerlendirmesiyle belirlenir. 5275 + 7242 (30.03.2020) + 7571 (11. Yargı Paketi) esas alınmıştır. Koşullu salıverilme: adi suçlarda 1/2, istisna suçlarda 2/3 veya 3/4; mükerrirde süreli hapiste 3/4 (CGTİK 108/1); ikinci kez tekerrürde koşullu salıverilme yoktur (108/3). Müebbette koşullu salıverilme 24 yıl (mükerrir 33), ağırlaştırılmış müebbette 30 yıl (mükerrir 39); istisna/terör suçlarında bu süreler artar veya koşullu salıverilme uygulanmayabilir. Denetimli serbestlik kural olarak 1 yıldır; 31.07.2023 ve öncesi adi suçlarda 3 yıl. 7571 ile koşullu salıverilmeye kadarki sürenin en az 1/10'u (asgari 5 gün) fiilen kurumda geçirilir. Açık/kapalı: 10 yıl üstü cezada ~3 ay, altında ~1 ay kapalı kurumda kalınır; gerçek dağılım idarece belirlenir. Çocuk hükümlülerde 18 yaş altı infazda 1 gün 2 gün sayılır (bu avantaj hesaba DAHİL EDİLMEMİŞTİR; fiilî süre daha kısa olabilir). 0-6 yaş çocuklu kadın, 70+/65+ yaş ve ağır hastalıkta doğrudan DS / infazın ertelenmesi mümkündür. Kesin sonuç için ceza avukatına ve infaz savcılığına başvurun."
           />
         ) : (
-          <div className="text-sm text-charcoal/35 italic">Süreli hapiste ceza miktarını girin.</div>
+          <div className="text-sm text-ink-muted italic">Süreli hapiste ceza miktarını girin.</div>
         )}
       </div>
     </div>
@@ -2838,7 +2838,7 @@ function NetBrutMaas() {
             note="2026 bordro: asgari ücret brüt 33.030 TL. Kesintiler — SGK işçi %14, işsizlik %1; gelir vergisi (kümülatif matrah dilimine göre) ve damga vergisi (‰7,59). 2022'den beri asgari ücret tutarına isabet eden gelir ve damga vergisi tüm ücretlerde İSTİSNADIR; bu nedenle her ücretten asgari ücret kadar gelir/damga vergisi düşülmez. Hesap, yıl boyunca aynı brütle çalışıldığı varsayımıyla seçilen aya kadar kümülatif gelir vergisi matrahını dikkate alır (üst dilime geçildikçe net düşer). SGK tavanı 247.725 TL. İşveren maliyetinde %20,75 SGK + %2 işsizlik esas alınmıştır; 5 puanlık işveren indirimi (5510 m.81) uygulanabilen işverende maliyet daha düşüktür. Kesin bordro için mali müşavirinize danışın."
           />
         ) : (
-          <div className="text-sm text-charcoal/35 italic">Ücret tutarını girin.</div>
+          <div className="text-sm text-ink-muted italic">Ücret tutarını girin.</div>
         )}
       </div>
     </div>
@@ -2937,7 +2937,7 @@ function GecikmeZammi() {
             note="6183 sayılı Kanun md.51 — Amme (vergi, SGK, harç, idarî para cezası vb.) alacaklarında gecikme zammı her ay için aylık oranla, ay kesirleri için günlük oran (aylık/30) uygulanarak hesaplanır. 2026 yılı aylık oran %3,7'dir (RG 13.11.2025; önceki dönem %4,5). Oranın değiştiği dönemleri kapsayan borçlarda her dönemi ayrı hesaplayıp toplayın ('özel oran' alanından dönem oranını girebilirsiniz). 1 TL'nin altındaki tutarlar dikkate alınmaz; gecikme zammı asıl alacağı geçemez sınırı yoktur."
           />
         ) : (
-          <div className="text-sm text-charcoal/35 italic">Tarih ve tutarları girin (bitiş, başlangıçtan sonra olmalı).</div>
+          <div className="text-sm text-ink-muted italic">Tarih ve tutarları girin (bitiş, başlangıçtan sonra olmalı).</div>
         )}
       </div>
     </div>
@@ -3143,7 +3143,7 @@ function SureHesabi() {
           />
         </div>
       ) : (
-        <div className="col-span-full text-sm text-charcoal/35 italic">Tarih ve süre girin.</div>
+        <div className="col-span-full text-sm text-ink-muted italic">Tarih ve süre girin.</div>
       )}
     </div>
   );
@@ -3322,7 +3322,7 @@ function KdvHesaplama() {
           />
         </div>
       ) : (
-        <div className="col-span-full text-sm text-charcoal/35 italic">Tutar girin.</div>
+        <div className="col-span-full text-sm text-ink-muted italic">Tutar girin.</div>
       )}
     </div>
   );
@@ -3353,7 +3353,7 @@ function MalRejimiKatilma() {
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-      <div className="col-span-full text-xs text-charcoal/45 leading-relaxed mb-1">
+      <div className="col-span-full text-xs text-ink-muted leading-relaxed mb-1">
         Yasal rejim: <strong>edinilmiş mallara katılma</strong> (TMK m.202, 218 vd.). Her eşin edinilmiş malları ve kişisel malları ayrı girilir; artı değerlerin yarısı diğer eşe katılma alacağıdır.
       </div>
       <Field label="Eş A — Edinilmiş mallar (TL)">
@@ -3501,7 +3501,7 @@ function KidemIseIadeBirlesik() {
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-      <div className="col-span-full text-xs text-charcoal/50 leading-relaxed">
+      <div className="col-span-full text-xs text-ink-muted leading-relaxed">
         Fesih geçersiz sayıldığında / işe iade davasında sık istenen kalemleri tek raporda toplar:
         kıdem + ihbar (hak varsa) + boşta geçen süre + işe başlatmama tazminatı.
       </div>
@@ -3575,7 +3575,7 @@ function KidemIseIadeBirlesik() {
           />
         </div>
       ) : (
-        <div className="col-span-full text-sm text-charcoal/35 italic">Tarih ve ücret girin.</div>
+        <div className="col-span-full text-sm text-ink-muted italic">Tarih ve ücret girin.</div>
       )}
     </div>
   );
@@ -3744,7 +3744,7 @@ export { ARACLAR };
 export function HesaplamaToolBody({ id, title }: { id: string; title: string }) {
   const comp = getToolComponent(id);
   if (!comp) {
-    return <p className="text-charcoal/50 text-sm">Araç bulunamadı.</p>;
+    return <p className="text-ink-muted text-sm">Araç bulunamadı.</p>;
   }
   return (
     <KartBaslikContext.Provider value={title}>
@@ -3851,25 +3851,25 @@ export default function HesaplamaHub({ kirinti }: { kirinti?: React.ReactNode })
 
           {/* Hero */}
           <div className="mb-8 sm:mb-12">
-            <p className="text-accent font-mono text-[10px] sm:text-[11px] tracking-widest uppercase mb-3 sm:mb-4">
+            <p className="text-accent-ink font-mono text-[10px] sm:text-[11px] tracking-widest uppercase mb-3 sm:mb-4">
               Hukuki Hesaplama Araçları
             </p>
             <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-charcoal mb-3 sm:mb-5 leading-tight">
               Doğru Hesap,{" "}
               <span className="font-drama italic text-accent">Güçlü Pozisyon.</span>
             </h1>
-            <p className="text-charcoal/55 text-sm sm:text-base md:text-lg max-w-2xl leading-relaxed">
+            <p className="text-ink-muted text-sm sm:text-base md:text-lg max-w-2xl leading-relaxed">
               Kıdem tazminatından faize, tapu harcından vekalet ücretine — güncel mevzuat
               esas alınarak hazırlanmış {ARACLAR.length} hesaplama aracı. Kartı açın, hesaplayın;
               sonucu kopyalayın, paylaşın veya yazdırın.
             </p>
-            <p className="mt-3 sm:mt-4 inline-flex items-start gap-2 text-[10px] sm:text-[11px] text-charcoal/35 font-mono bg-charcoal/[0.04] px-3 sm:px-4 py-1.5 sm:py-2 rounded-2xl leading-relaxed">
+            <p className="mt-3 sm:mt-4 inline-flex items-start gap-2 text-[10px] sm:text-[11px] text-ink-muted font-mono bg-charcoal/[0.04] px-3 sm:px-4 py-1.5 sm:py-2 rounded-2xl leading-relaxed">
               <Info size={11} className="shrink-0 mt-0.5" />
               <span>2026 mevzuat · Oran/harcı işlem tarihine göre teyit edin · Bilgi amaçlıdır, garanti değildir</span>
             </p>
-            <div className="mt-4 flex flex-wrap gap-x-4 gap-y-1 text-sm text-charcoal/50">
-              <Link href="/kavram" className="text-accent font-semibold hover:underline">Kavramlar</Link>
-              <Link href="/ara" className="text-accent font-semibold hover:underline">Mevzuatta ara</Link>
+            <div className="mt-4 flex flex-wrap gap-x-4 gap-y-1 text-sm text-ink-muted">
+              <Link href="/kavram" className="text-accent-ink font-semibold hover:underline">Kavramlar</Link>
+              <Link href="/ara" className="text-accent-ink font-semibold hover:underline">Mevzuatta ara</Link>
               <Link href="/tarife-guncellemeleri" className="hover:text-accent">Tarife güncellemeleri</Link>
             </div>
           </div>
@@ -3884,7 +3884,7 @@ export default function HesaplamaHub({ kirinti }: { kirinti?: React.ReactNode })
             ].map(s => (
               <div key={s.k} className="rounded-2xl bg-white border border-charcoal/[0.08] px-3 py-3 text-center">
                 <p className="text-lg sm:text-xl font-bold text-charcoal">{s.v}</p>
-                <p className="text-[10px] font-bold uppercase tracking-wider text-charcoal/40">{s.k}</p>
+                <p className="text-[10px] font-bold uppercase tracking-wider text-ink-muted">{s.k}</p>
               </div>
             ))}
           </div>
@@ -3894,7 +3894,7 @@ export default function HesaplamaHub({ kirinti }: { kirinti?: React.ReactNode })
             <div className="mb-6 space-y-3">
               {favTools.length > 0 && (
                 <div>
-                  <p className="text-[12px] font-bold uppercase tracking-wider text-charcoal/40 mb-2 flex items-center gap-1.5">
+                  <p className="text-[12px] font-bold uppercase tracking-wider text-ink-muted mb-2 flex items-center gap-1.5">
                     <Star size={12} className="text-accent fill-accent" /> Favoriler
                   </p>
                   <div className="flex flex-wrap gap-2">
@@ -3905,7 +3905,7 @@ export default function HesaplamaHub({ kirinti }: { kirinti?: React.ReactNode })
                           key={a.id}
                           href={`#${a.id}`}
                           onClick={() => { window.location.hash = a.id; }}
-                          className="inline-flex items-center gap-1.5 text-xs font-semibold px-3 py-1.5 rounded-full bg-accent/10 text-accent hover:bg-accent hover:text-white transition-colors"
+                          className="inline-flex items-center gap-1.5 text-xs font-semibold px-3 py-1.5 rounded-full bg-accent/10 text-accent-ink hover:bg-accent hover:text-white transition-colors"
                         >
                           <Icon size={13} aria-hidden /> {a.baslik}
                         </a>
@@ -3916,7 +3916,7 @@ export default function HesaplamaHub({ kirinti }: { kirinti?: React.ReactNode })
               )}
               {recentTools.length > 0 && (
                 <div>
-                  <p className="text-[12px] font-bold uppercase tracking-wider text-charcoal/40 mb-2 flex items-center gap-1.5">
+                  <p className="text-[12px] font-bold uppercase tracking-wider text-ink-muted mb-2 flex items-center gap-1.5">
                     <Clock size={12} /> Son kullandıklarınız
                   </p>
                   <div className="flex flex-wrap gap-2">
@@ -3942,7 +3942,7 @@ export default function HesaplamaHub({ kirinti }: { kirinti?: React.ReactNode })
           {/* Arama + Kategori Filtresi */}
           <div className="mb-5 sm:mb-7 sticky top-20 z-20 bg-cream/95 backdrop-blur-sm py-3 -mx-1 px-1 rounded-2xl">
             <div className="relative mb-3">
-              <Search size={16} className="absolute left-3.5 top-1/2 -translate-y-1/2 text-charcoal/30 pointer-events-none" />
+              <Search size={16} className="absolute left-3.5 top-1/2 -translate-y-1/2 text-ink-muted pointer-events-none" />
               <input
                 type="search"
                 value={arama}
@@ -3956,14 +3956,14 @@ export default function HesaplamaHub({ kirinti }: { kirinti?: React.ReactNode })
               <button
                 type="button"
                 onClick={() => { setAktifTag(null); setSadeceFav(false); }}
-                className={`text-[10px] sm:text-[11px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-full transition-colors ${!aktifTag && !sadeceFav ? "bg-charcoal text-cream" : "bg-charcoal/5 text-charcoal/45 hover:bg-charcoal/10"}`}
+                className={`text-[10px] sm:text-[11px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-full transition-colors ${!aktifTag && !sadeceFav ? "bg-charcoal text-cream" : "bg-charcoal/5 text-ink-muted hover:bg-charcoal/10"}`}
               >
                 Tümü ({ARACLAR.length})
               </button>
               <button
                 type="button"
                 onClick={() => { setSadeceFav(v => !v); setAktifTag(null); }}
-                className={`inline-flex items-center gap-1 text-[10px] sm:text-[11px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-full transition-colors ${sadeceFav ? "bg-accent text-white" : "bg-charcoal/5 text-charcoal/45 hover:bg-charcoal/10"}`}
+                className={`inline-flex items-center gap-1 text-[10px] sm:text-[11px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-full transition-colors ${sadeceFav ? "bg-accent text-white" : "bg-charcoal/5 text-ink-muted hover:bg-charcoal/10"}`}
               >
                 <Star size={11} className={sadeceFav ? "fill-white" : ""} /> Favori ({favs.length})
               </button>
@@ -3972,19 +3972,19 @@ export default function HesaplamaHub({ kirinti }: { kirinti?: React.ReactNode })
                   key={t}
                   type="button"
                   onClick={() => { setAktifTag(aktifTag === t ? null : t); setSadeceFav(false); }}
-                  className={`text-[10px] sm:text-[11px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-full transition-colors ${aktifTag === t ? "bg-charcoal text-cream" : "bg-charcoal/5 text-charcoal/45 hover:bg-charcoal/10"}`}
+                  className={`text-[10px] sm:text-[11px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-full transition-colors ${aktifTag === t ? "bg-charcoal text-cream" : "bg-charcoal/5 text-ink-muted hover:bg-charcoal/10"}`}
                 >
                   {t}
                 </button>
               ))}
             </div>
             {(arama || aktifTag || sadeceFav) && (
-              <p className="mt-2 text-[11px] text-charcoal/40">
+              <p className="mt-2 text-[11px] text-ink-muted">
                 {filtrelenmis.length} araç gösteriliyor
                 {arama ? ` · “${arama.trim()}”` : ""}
                 {aktifTag ? ` · ${aktifTag}` : ""}
                 {" · "}
-                <button type="button" className="text-accent font-semibold hover:underline" onClick={() => { setArama(""); setAktifTag(null); setSadeceFav(false); }}>
+                <button type="button" className="text-accent-ink font-semibold hover:underline" onClick={() => { setArama(""); setAktifTag(null); setSadeceFav(false); }}>
                   Filtreyi temizle
                 </button>
               </p>
@@ -4008,13 +4008,13 @@ export default function HesaplamaHub({ kirinti }: { kirinti?: React.ReactNode })
               </Card>
             ))}
             {filtrelenmis.length === 0 && (
-              <div className="text-center py-10 text-sm text-charcoal/40 space-y-2">
+              <div className="text-center py-10 text-sm text-ink-muted space-y-2">
                 <p>Aramanızla eşleşen araç bulunamadı.</p>
                 <p className="text-xs">Deneyin: kıdem, faiz, miras, kira, harç, infaz, nafaka</p>
                 <button
                   type="button"
                   onClick={() => { setArama(""); setAktifTag(null); setSadeceFav(false); }}
-                  className="text-accent font-bold text-sm hover:underline"
+                  className="text-accent-ink font-bold text-sm hover:underline"
                 >
                   Tüm araçları göster
                 </button>

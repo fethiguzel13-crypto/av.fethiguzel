@@ -45,13 +45,13 @@ export default function LibraryStrip({ sayilar }: { sayilar: Sayilar }) {
         <section className="py-16 sm:py-24 px-5 sm:px-6 bg-cream">
             <div className="max-w-7xl mx-auto">
                 <div className="text-center mb-12 sm:mb-16">
-                    <p className="text-accent font-heading text-xs tracking-widest uppercase mb-3">
+                    <p className="text-accent-ink font-heading text-xs tracking-widest uppercase mb-3">
                         Dijital Hukuk Kütüphanesi
                     </p>
                     <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-charcoal tracking-tight">
                         Tek platformda <span className="font-drama italic text-accent font-medium">her şey</span>
                     </h2>
-                    <p className="mt-4 text-charcoal/55 text-sm sm:text-base max-w-2xl mx-auto leading-relaxed">
+                    <p className="mt-4 text-ink-muted text-sm sm:text-base max-w-2xl mx-auto leading-relaxed">
                         Mevzuatı açın, kararı okuyun, şerhi karşılaştırın.
                         Hesaplama araçları kütüphanenin yanındadır; onun yerine geçmez.
                     </p>
@@ -71,7 +71,7 @@ export default function LibraryStrip({ sayilar }: { sayilar: Sayilar }) {
                                 <h3 className="text-xl font-heading font-bold text-charcoal mb-2 group-hover:text-accent transition-colors">
                                     {item.title}
                                 </h3>
-                                <p className="text-sm text-charcoal/55 leading-relaxed">{item.desc}</p>
+                                <p className="text-sm text-ink-muted leading-relaxed">{item.desc}</p>
                             </Link>
                         );
                     })}

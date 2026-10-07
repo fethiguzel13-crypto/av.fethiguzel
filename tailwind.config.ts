@@ -1,5 +1,6 @@
 import type { Config } from "tailwindcss";
 import typography from "@tailwindcss/typography";
+import { RENKLER } from "./lib/tasarim-jetonlari.mjs";
 
 const config: Config = {
   content: [
@@ -9,12 +10,9 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      // Tek kaynak lib/tasarim-jetonlari.mjs; metin tonları (accent-ink, accent-light, ink-muted) kontrast testlidir (G15).
       colors: {
-        primary: '#2E4036',
-        accent: '#CC5833',
-        cream: '#F2F0E9',
-        charcoal: '#1A1A1A',
-        surface: '#FFFEFA',
+        ...RENKLER,
         background: "var(--background)",
         foreground: "var(--foreground)",
       },

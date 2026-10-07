@@ -96,7 +96,7 @@ export default function BilgiIndexPage() {
                 { ad: 'Vatandaş rehberi', yol: '/bilgi' },
             ]}
         />
-        <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
+        <p className="text-accent-ink font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
           Vatandaş rehberi
         </p>
         <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal mb-4">
@@ -106,12 +106,12 @@ export default function BilgiIndexPage() {
           Kıdem, boşanma, icra, kira, veraset, trafik cezası: kısa cevap, sırayla adımlar, gerekli
           belgeler. Genel bilgidir; somut dosyada süre ve merci değişebilir.
         </p>
-        <p className="text-[12px] text-charcoal/45 mb-6">
-          <Link href="/mevzuat" className="text-accent font-semibold hover:underline">
+        <p className="text-[12px] text-ink-muted mb-6">
+          <Link href="/mevzuat" className="text-accent-ink font-semibold hover:underline">
             Kanun maddeleri
           </Link>
           {' · '}
-          <Link href="/hesaplama" className="text-accent font-semibold hover:underline">
+          <Link href="/hesaplama" className="text-accent-ink font-semibold hover:underline">
             Hesaplama araçları
           </Link>
         </p>

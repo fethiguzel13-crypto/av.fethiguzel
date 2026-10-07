@@ -46,13 +46,13 @@ export default function RehberIndexPage() {
                         { ad: 'Hukuki rehberler', yol: '/rehber' },
                     ]}
                 />
-                <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
+                <p className="text-accent-ink font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
                     Bilgilendirme rehberleri
                 </p>
                 <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal mb-4">
                     Hukuki rehberler
                 </h1>
-                <p className="text-charcoal/60 text-sm sm:text-base leading-relaxed mb-10">
+                <p className="text-ink-muted text-sm sm:text-base leading-relaxed mb-10">
                     Bu metinler genel bilgilendirme amaçlıdır; somut dosyada avukata danışılmalıdır.
                     Sonuç vaadi veya reklam niteliğinde vaat içermez.
                 </p>
@@ -64,7 +64,7 @@ export default function RehberIndexPage() {
                                     <BookOpen className="text-accent shrink-0 mt-0.5" size={20} />
                                     <div>
                                         <h2 className="font-heading font-bold text-charcoal mb-1">{r.ad}</h2>
-                                        <p className="text-sm text-charcoal/55 leading-relaxed">{r.desc}</p>
+                                        <p className="text-sm text-ink-muted leading-relaxed">{r.desc}</p>
                                     </div>
                                 </div>
                             </Link>

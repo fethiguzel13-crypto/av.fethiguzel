@@ -256,7 +256,7 @@ body::before {
   }
 
   .section-label {
-    @apply text-accent font-heading text-xs sm:text-sm tracking-[0.2em] uppercase font-semibold;
+    @apply text-accent-ink font-heading text-xs sm:text-sm tracking-[0.2em] uppercase font-semibold;
   }
 
   /* Custom legal prose — no @apply prose (typography plugin optional) */
@@ -307,7 +307,7 @@ body::before {
   }
 
   .prose-legal a {
-    color: #cc5833;
+    color: #a7482a;
     text-decoration: underline;
   }
 }
@@ -395,7 +395,7 @@ body::before {
 .commentary-prose h5 {
   margin-top: 2rem !important;
   margin-bottom: 0.85rem !important;
-  color: #cc5833 !important;
+  color: #a7482a !important;
   font-size: 1.05rem !important;
   line-height: 1.45 !important;
 }
@@ -514,7 +514,7 @@ body::before {
 }
 
 .madde-prose-commentary h5 {
-  color: #cc5833;
+  color: #a7482a;
 }
 
 .madde-prose-commentary h6 {

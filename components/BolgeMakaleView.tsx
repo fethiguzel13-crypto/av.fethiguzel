@@ -20,10 +20,10 @@ function PhotoFigure({ photo, priority = false }: { photo: MakaleFoto; priority?
           priority={priority}
         />
       </div>
-      <figcaption className="px-4 py-3 text-sm text-charcoal/60 leading-relaxed">
+      <figcaption className="px-4 py-3 text-sm text-ink-muted leading-relaxed">
         <span className="text-charcoal/80">{photo.caption}</span>
         {photo.credit && (
-          <span className="block text-[11px] text-charcoal/40 mt-1">{photo.credit}</span>
+          <span className="block text-[11px] text-ink-muted mt-1">{photo.credit}</span>
         )}
       </figcaption>
     </figure>
@@ -34,7 +34,7 @@ function GraphicBlock({ g }: { g: MakaleGrafik }) {
   if (g.kind === 'timeline') {
     return (
       <figure className="my-10 rounded-2xl border border-charcoal/[0.08] bg-white p-5 sm:p-7 shadow-soft">
-        <figcaption className="text-[11px] font-mono uppercase tracking-widest text-accent mb-5">
+        <figcaption className="text-[11px] font-mono uppercase tracking-widest text-accent-ink mb-5">
           Zaman çizelgesi · {g.title}
         </figcaption>
         <ol className="relative m-0 p-0 list-none space-y-0">
@@ -45,9 +45,9 @@ function GraphicBlock({ g }: { g: MakaleGrafik }) {
                 {idx + 1}
               </span>
               <div>
-                <p className="text-xs font-mono text-accent mb-0.5">{it.year}</p>
+                <p className="text-xs font-mono text-accent-ink mb-0.5">{it.year}</p>
                 <p className="text-sm font-semibold text-charcoal m-0">{it.label}</p>
-                {it.note && <p className="text-xs text-charcoal/50 mt-1 m-0">{it.note}</p>}
+                {it.note && <p className="text-xs text-ink-muted mt-1 m-0">{it.note}</p>}
               </div>
             </li>
           ))}
@@ -58,7 +58,7 @@ function GraphicBlock({ g }: { g: MakaleGrafik }) {
   if (g.kind === 'flow') {
     return (
       <figure className="my-10 rounded-2xl border border-charcoal/[0.08] bg-white p-5 sm:p-7 shadow-soft">
-        <figcaption className="text-[11px] font-mono uppercase tracking-widest text-accent mb-5">
+        <figcaption className="text-[11px] font-mono uppercase tracking-widest text-accent-ink mb-5">
           Akış · {g.title}
         </figcaption>
         <ol className="flex flex-wrap gap-2 m-0 p-0 list-none">
@@ -67,7 +67,7 @@ function GraphicBlock({ g }: { g: MakaleGrafik }) {
               <span className="rounded-full bg-charcoal text-cream text-xs font-semibold px-3 py-1.5">
                 {i + 1}. {s}
               </span>
-              {i < g.steps.length - 1 && <span className="text-charcoal/30">→</span>}
+              {i < g.steps.length - 1 && <span className="text-ink-muted">→</span>}
             </li>
           ))}
         </ol>
@@ -77,7 +77,7 @@ function GraphicBlock({ g }: { g: MakaleGrafik }) {
   if (g.kind === 'compare') {
     return (
       <figure className="my-10 overflow-x-auto rounded-2xl border border-charcoal/[0.08] bg-white p-5 sm:p-7 shadow-soft">
-        <figcaption className="text-[11px] font-mono uppercase tracking-widest text-accent mb-4">
+        <figcaption className="text-[11px] font-mono uppercase tracking-widest text-accent-ink mb-4">
           Karşılaştırma · {g.title}
         </figcaption>
         <table className="w-full text-sm text-left border-collapse">
@@ -108,7 +108,7 @@ function GraphicBlock({ g }: { g: MakaleGrafik }) {
   if (g.kind === 'bars') {
     return (
       <figure className="my-10 rounded-2xl border border-charcoal/[0.08] bg-white p-5 sm:p-7 shadow-soft">
-        <figcaption className="text-[11px] font-mono uppercase tracking-widest text-accent mb-5">
+        <figcaption className="text-[11px] font-mono uppercase tracking-widest text-accent-ink mb-5">
           {g.title}
         </figcaption>
         <ul className="space-y-3 m-0 p-0 list-none">
@@ -116,7 +116,7 @@ function GraphicBlock({ g }: { g: MakaleGrafik }) {
             <li key={it.label}>
               <div className="flex justify-between text-xs mb-1">
                 <span className="font-semibold text-charcoal">{it.label}</span>
-                <span className="text-charcoal/45">{it.hint || `${it.value}${g.unit ? ` ${g.unit}` : ''}`}</span>
+                <span className="text-ink-muted">{it.hint || `${it.value}${g.unit ? ` ${g.unit}` : ''}`}</span>
               </div>
               <div className="h-2 rounded-full bg-charcoal/5 overflow-hidden">
                 <div className="h-full rounded-full bg-accent/80" style={{ width: `${Math.min(100, it.value)}%` }} />
@@ -130,7 +130,7 @@ function GraphicBlock({ g }: { g: MakaleGrafik }) {
   // map-hint
   return (
     <figure className="my-10 rounded-2xl border border-charcoal/[0.08] bg-white p-5 sm:p-7 shadow-soft">
-      <figcaption className="text-[11px] font-mono uppercase tracking-widest text-accent mb-4">
+      <figcaption className="text-[11px] font-mono uppercase tracking-widest text-accent-ink mb-4">
         Harita notu · {g.title}
       </figcaption>
       <ul className="grid sm:grid-cols-2 gap-3 m-0 p-0 list-none">
@@ -140,7 +140,7 @@ function GraphicBlock({ g }: { g: MakaleGrafik }) {
               <MapPin size={14} className="text-accent" />
               {p.name}
             </p>
-            <p className="text-xs text-charcoal/55 mt-1 m-0">{p.role}</p>
+            <p className="text-xs text-ink-muted mt-1 m-0">{p.role}</p>
           </li>
         ))}
       </ul>
@@ -212,16 +212,16 @@ export default function BolgeMakaleView({
           { ad: 'Bölge yazıları', yol: '/bolge-yazi' },
           { ad: makale.yerlesim, yol: `/bolge-yazi/${makale.slug}` },
         ]}
-        className="mb-6 text-xs text-charcoal/40"
+        className="mb-6 text-xs text-ink-muted"
         ayracSinifi="mx-2"
       />
 
       <header className="mb-6">
-        <p className="text-accent font-mono text-[10px] tracking-[0.2em] uppercase mb-3">{makale.eyebrow}</p>
+        <p className="text-accent-ink font-mono text-[10px] tracking-[0.2em] uppercase mb-3">{makale.eyebrow}</p>
         <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal leading-tight mb-4">
           {makale.h1}
         </h1>
-        <div className="flex flex-wrap gap-2 text-xs text-charcoal/45 mb-5">
+        <div className="flex flex-wrap gap-2 text-xs text-ink-muted mb-5">
           <span className="inline-flex items-center gap-1 rounded-full bg-charcoal/5 px-3 py-1">
             <MapPin size={12} className="text-accent" />
             {makale.yerlesim}
@@ -271,7 +271,7 @@ export default function BolgeMakaleView({
                 )}
                 {sec.callout && (
                   <div className="mt-5 rounded-xl border-l-4 border-accent bg-charcoal/[0.03] px-4 py-3">
-                    <p className="text-xs font-bold text-accent uppercase tracking-wide mb-1">{sec.callout.title}</p>
+                    <p className="text-xs font-bold text-accent-ink uppercase tracking-wide mb-1">{sec.callout.title}</p>
                     <p className="text-sm text-charcoal/70 leading-relaxed m-0">{sec.callout.body}</p>
                   </div>
                 )}
@@ -298,9 +298,9 @@ export default function BolgeMakaleView({
               <details key={f.q} className="group bg-white border border-charcoal/[0.06] rounded-xl">
                 <summary className="cursor-pointer list-none p-4 font-semibold text-sm text-charcoal flex justify-between gap-3">
                   {f.q}
-                  <span className="text-charcoal/30 group-open:rotate-45 transition-transform">+</span>
+                  <span className="text-ink-muted group-open:rotate-45 transition-transform">+</span>
                 </summary>
-                <p className="px-4 pb-4 text-sm text-charcoal/60 leading-relaxed">{f.a}</p>
+                <p className="px-4 pb-4 text-sm text-ink-muted leading-relaxed">{f.a}</p>
               </details>
             ))}
           </div>
@@ -320,7 +320,7 @@ export default function BolgeMakaleView({
                 <BookOpen size={15} className="text-accent shrink-0" />
                 {l.label}
               </span>
-              <ArrowRight size={14} className="text-charcoal/30 group-hover:text-accent" />
+              <ArrowRight size={14} className="text-ink-muted group-hover:text-accent" />
             </Link>
           ))}
         </div>
@@ -328,13 +328,13 @@ export default function BolgeMakaleView({
 
       {siblings.length > 0 && (
         <section className="mb-8">
-          <h2 className="text-sm font-bold text-charcoal/50 uppercase tracking-wider mb-3">
+          <h2 className="text-sm font-bold text-ink-muted uppercase tracking-wider mb-3">
             Aynı yerden diğer denemeler
           </h2>
           <ul className="space-y-2">
             {siblings.map((s) => (
               <li key={s.slug}>
-                <Link href={`/bolge-yazi/${s.slug}`} className="text-sm text-accent font-semibold hover:underline">
+                <Link href={`/bolge-yazi/${s.slug}`} className="text-sm text-accent-ink font-semibold hover:underline">
                   {s.h1}
                 </Link>
               </li>
@@ -343,7 +343,7 @@ export default function BolgeMakaleView({
         </section>
       )}
 
-      <p className="text-xs text-charcoal/40 leading-relaxed border-t border-charcoal/10 pt-6">
+      <p className="text-xs text-ink-muted leading-relaxed border-t border-charcoal/10 pt-6">
         Yazar: {PROFILE.name}. Mekân ve tarih bağlamlı deneme; reklam veya iş edinme metni değildir. Resmi mevzuat
         ve mahkeme kararı yerine geçmez.
       </p>

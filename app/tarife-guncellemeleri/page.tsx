@@ -58,14 +58,14 @@ export default function TarifeGuncellemeleriPage() {
                         { ad: 'Tarife güncellemeleri', yol: '/tarife-guncellemeleri' },
                     ]}
                 />
-                <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
+                <p className="text-accent-ink font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
                     Bakım kaydı
                 </p>
                 <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal mb-3">
                     Tarife ve parametre güncellemeleri
                 </h1>
-                <p className="text-charcoal/55 text-sm leading-relaxed mb-2">{data.disclaimer}</p>
-                <p className="text-[11px] text-charcoal/40 mb-10">
+                <p className="text-ink-muted text-sm leading-relaxed mb-2">{data.disclaimer}</p>
+                <p className="text-[11px] text-ink-muted mb-10">
                     Son kayıt güncellemesi: {data.updatedAt} · Otomatik kontrol:{' '}
                     <code className="bg-charcoal/5 px-1 rounded">npm run maintenance:tarifeler</code>
                 </p>
@@ -76,14 +76,14 @@ export default function TarifeGuncellemeleriPage() {
                         {sorted.map((it) => (
                             <li key={it.id} className="bg-white border border-charcoal/[0.08] rounded-2xl p-5">
                                 <div className="flex flex-wrap gap-2 items-center mb-2">
-                                    <span className="text-[10px] font-bold uppercase tracking-wider text-accent">
+                                    <span className="text-[10px] font-bold uppercase tracking-wider text-accent-ink">
                                         {it.category}
                                     </span>
-                                    <time className="text-[11px] text-charcoal/40 font-mono">{it.date}</time>
+                                    <time className="text-[11px] text-ink-muted font-mono">{it.date}</time>
                                 </div>
                                 <h3 className="font-bold text-charcoal mb-2">{it.title}</h3>
                                 <p className="text-sm text-charcoal/65 leading-relaxed mb-3">{it.detail}</p>
-                                <p className="text-[11px] text-charcoal/40 mb-2">Kaynak: {it.source}</p>
+                                <p className="text-[11px] text-ink-muted mb-2">Kaynak: {it.source}</p>
                                 <div className="flex flex-wrap gap-1.5">
                                     {it.affects.map((id) => {
                                         const m = getAracMeta(id);
@@ -91,7 +91,7 @@ export default function TarifeGuncellemeleriPage() {
                                             <Link
                                                 key={id}
                                                 href={`/hesaplama/${id}`}
-                                                className="text-[11px] px-2.5 py-1 rounded-full bg-charcoal/5 text-charcoal/60 hover:text-accent"
+                                                className="text-[11px] px-2.5 py-1 rounded-full bg-charcoal/5 text-ink-muted hover:text-accent"
                                             >
                                                 {m?.baslik ?? id}
                                             </Link>
@@ -107,7 +107,7 @@ export default function TarifeGuncellemeleriPage() {
                     <h2 className="text-lg font-heading font-bold text-charcoal mb-4">
                         Dönemsel izleme listesi
                     </h2>
-                    <p className="text-sm text-charcoal/55 mb-4 leading-relaxed">
+                    <p className="text-sm text-ink-muted mb-4 leading-relaxed">
                         Aşağıdaki kalemler her Ocak/Temmuz (veya yıllık) otomatik kontrol scripti ile
                         hatırlatılır; güncelleme sizin onayıyla changelog&apos;a yazılır.
                     </p>
@@ -118,7 +118,7 @@ export default function TarifeGuncellemeleriPage() {
                                 className="flex flex-col sm:flex-row sm:justify-between gap-1 p-3 rounded-xl bg-white border border-charcoal/[0.08] text-sm"
                             >
                                 <span className="font-semibold text-charcoal">{w.label}</span>
-                                <span className="text-charcoal/45 text-xs">
+                                <span className="text-ink-muted text-xs">
                                     {w.hint} · aylar: {w.months.join(', ')}
                                 </span>
                             </li>
@@ -126,7 +126,7 @@ export default function TarifeGuncellemeleriPage() {
                     </ul>
                 </section>
 
-                <Link href="/hesaplama" className="text-accent font-bold text-sm hover:underline">
+                <Link href="/hesaplama" className="text-accent-ink font-bold text-sm hover:underline">
                     ← Hesaplama araçları
                 </Link>
             </main>

@@ -135,7 +135,7 @@ export default function AvukatFethiGuzelPage() {
                                 sizes="(max-width: 1024px) 100vw, 40vw"
                             />
                         </div>
-                        <figcaption className="mt-4 text-center text-sm text-charcoal/55">
+                        <figcaption className="mt-4 text-center text-sm text-ink-muted">
                             <strong className="text-charcoal">{PROFILE.name}</strong>
                             <span className="block mt-1 text-xs">
                                 Avukat & arabulucu · özel hukuk doktora çalışmaları · e-duruşma yazarı
@@ -144,7 +144,7 @@ export default function AvukatFethiGuzelPage() {
                     </figure>
 
                     <div className="lg:col-span-7">
-                        <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
+                        <p className="text-accent-ink font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
                             Profil · nesnel bilgilendirme
                         </p>
                         <h1 className="text-3xl sm:text-4xl md:text-5xl font-heading font-bold text-charcoal leading-tight mb-5">
@@ -195,7 +195,7 @@ export default function AvukatFethiGuzelPage() {
                                 <MapPin className="text-accent shrink-0 mt-0.5" size={18} />
                                 <span>
                                     Çalışma odağı Van–Erciş ve çevre; uzaktan Ankara. Mekân denemeleri:{' '}
-                                    <Link href="/bolge-yazi" className="text-accent font-semibold hover:underline">
+                                    <Link href="/bolge-yazi" className="text-accent-ink font-semibold hover:underline">
                                         bölge yazıları
                                     </Link>
                                     .
@@ -248,7 +248,7 @@ export default function AvukatFethiGuzelPage() {
 
                         <div className="bg-white border border-charcoal/[0.08] rounded-2xl p-5 sm:p-6 mb-6">
                             <h2 className="font-heading font-bold text-charcoal mb-3 text-lg">Ofis</h2>
-                            <p className="text-charcoal/60 text-sm leading-relaxed">
+                            <p className="text-ink-muted text-sm leading-relaxed">
                                 {PROFILE.office.street}, {PROFILE.office.locality} / {PROFILE.office.region}.
                                 {PROFILE.office.landmark}. Randevu ile yüz yüze; talep halinde e-posta veya video görüşmesi.
                             </p>
@@ -261,7 +261,7 @@ export default function AvukatFethiGuzelPage() {
                                 href={PROFILE.book.url}
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                className="inline-flex items-center gap-1.5 text-accent text-sm font-bold hover:underline"
+                                className="inline-flex items-center gap-1.5 text-accent-ink text-sm font-bold hover:underline"
                             >
                                 {PROFILE.book.publisher} <ExternalLink size={14} />
                             </a>
@@ -277,7 +277,7 @@ export default function AvukatFethiGuzelPage() {
                     <h2 className="text-2xl font-heading font-bold text-charcoal mb-3">
                         Bölgesel hukuki bilgilendirme
                     </h2>
-                    <p className="text-charcoal/55 text-sm mb-6 max-w-2xl">
+                    <p className="text-ink-muted text-sm mb-6 max-w-2xl">
                         Yerleşim adıyla ilişkilendirilmiş genel hukuki rehberler — reklam veya
                         &quot;X avukat&quot; metni değildir; ana sayfada listelenmez, arama ve sitemap
                         üzerinden keşfedilir.
@@ -290,15 +290,15 @@ export default function AvukatFethiGuzelPage() {
                                 className="bg-white border border-charcoal/[0.08] rounded-xl px-4 py-4 text-sm font-semibold text-charcoal hover:border-accent/40 hover:text-accent transition-colors"
                             >
                                 {b.ilce}
-                                <span className="block text-[11px] font-normal text-charcoal/45 mt-1">
+                                <span className="block text-[11px] font-normal text-ink-muted mt-1">
                                     bilgilendirme
                                 </span>
                             </Link>
                         ))}
                     </div>
-                    <p className="mt-4 text-xs text-charcoal/45">
+                    <p className="mt-4 text-xs text-ink-muted">
                         Tüm vatandaş rehberleri:{' '}
-                        <Link href="/bilgi" className="text-accent font-semibold hover:underline">
+                        <Link href="/bilgi" className="text-accent-ink font-semibold hover:underline">
                             /bilgi
                         </Link>
                     </p>
@@ -314,7 +314,7 @@ export default function AvukatFethiGuzelPage() {
                         profil sayfası reklam yasağına uygundur: nesnel unvan, yayın, dil ve ofis bilgisi verir;
                         sonuç vaadi veya &quot;en iyi avukat&quot; iddiası içermez.
                     </p>
-                    <ul className="text-sm text-charcoal/60 space-y-2">
+                    <ul className="text-sm text-ink-muted space-y-2">
                         {CREDENTIAL_BULLETS.map((b) => (
                             <li key={b}>· {b}</li>
                         ))}

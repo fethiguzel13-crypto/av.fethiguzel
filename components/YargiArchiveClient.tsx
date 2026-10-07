@@ -129,7 +129,7 @@ export default function YargiArchiveClient() {
 
   if (error) {
     return (
-      <p className="text-charcoal/60 text-sm">
+      <p className="text-ink-muted text-sm">
         {error === 'üyelik' ? (
           <>
             Arşiv üyelik gerektirir.{' '}
@@ -166,7 +166,7 @@ export default function YargiArchiveClient() {
       <div className="relative mb-4">
         <Search
           size={17}
-          className="absolute left-3.5 top-1/2 -translate-y-1/2 text-charcoal/35"
+          className="absolute left-3.5 top-1/2 -translate-y-1/2 text-ink-muted"
           aria-hidden
         />
         <input
@@ -182,7 +182,7 @@ export default function YargiArchiveClient() {
             type="button"
             aria-label="Temizle"
             onClick={() => setQ('')}
-            className="absolute right-2.5 top-1/2 -translate-y-1/2 w-8 h-8 grid place-items-center rounded-full text-charcoal/40"
+            className="absolute right-2.5 top-1/2 -translate-y-1/2 w-8 h-8 grid place-items-center rounded-full text-ink-muted"
           >
             <X size={16} />
           </button>
@@ -205,7 +205,7 @@ export default function YargiArchiveClient() {
       </div>
 
       {q.trim() || tier ? (
-        <p className="text-[12px] text-charcoal/40 mb-3">
+        <p className="text-[12px] text-ink-muted mb-3">
           {dahaVar ? `${results.length}+` : results.length} sonuç
         </p>
       ) : null}
@@ -217,7 +217,7 @@ export default function YargiArchiveClient() {
               href={`/yargi-kararlari/${r.i}`}
               className="block surface-card-hover p-4 sm:p-5"
             >
-              <p className="text-[11px] font-mono uppercase tracking-widest text-accent">
+              <p className="text-[11px] font-mono uppercase tracking-widest text-accent-ink">
                 {TIER_LABEL[r.r] || r.d} · {r.t}
               </p>
               {/*
@@ -234,7 +234,7 @@ export default function YargiArchiveClient() {
                   <h2 className="mt-1 text-sm sm:text-base font-heading font-bold leading-snug first-letter:uppercase">
                     {r.j[0]}
                   </h2>
-                  <p className="mt-1 text-[12px] text-charcoal/45 font-mono truncate">
+                  <p className="mt-1 text-[12px] text-ink-muted font-mono truncate">
                     {kunyeKisa(r)}
                   </p>
                 </>
@@ -244,7 +244,7 @@ export default function YargiArchiveClient() {
                 </h2>
               )}
               {r.e ? (
-                <p className="mt-2 text-[13px] text-charcoal/55 leading-relaxed line-clamp-2">
+                <p className="mt-2 text-[13px] text-ink-muted leading-relaxed line-clamp-2">
                   {r.e}
                 </p>
               ) : null}

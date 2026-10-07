@@ -19,13 +19,13 @@ export default function BookmarkletPage() {
                         { ad: 'Yer imi aracı', yol: '/bookmarklet' },
                     ]}
                 />
-                <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
+                <p className="text-accent-ink font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
                     Araç
                 </p>
                 <h1 className="text-3xl font-heading font-bold text-charcoal mb-3">
                     Mevzuat ara — yer imi aracı
                 </h1>
-                <p className="text-sm text-charcoal/60 leading-relaxed mb-6">
+                <p className="text-sm text-ink-muted leading-relaxed mb-6">
                     Seçili metni veya girdiğiniz ifadeyi avfethiguzel.com mevzuat aramasında açar.
                     Chrome eklentisi yerine tarayıcı yer imi (bookmarklet) kullanılır; kurulum 10
                     saniye sürer.
@@ -45,19 +45,19 @@ export default function BookmarkletPage() {
                 >
                     ⚖ Mevzuatta Ara (sürükle)
                 </a>
-                <p className="mt-3 text-[11px] text-charcoal/40">
+                <p className="mt-3 text-[11px] text-ink-muted">
                     Tıklamak çalışmaz; yer imine <strong>sürüklemeniz</strong> gerekir.
                 </p>
 
                 <div className="mt-8 p-4 rounded-xl bg-white border border-charcoal/[0.08]">
-                    <p className="text-xs font-bold text-charcoal/50 mb-2">Manuel ekleme</p>
-                    <code className="text-[10px] break-all text-charcoal/60 block leading-relaxed">
+                    <p className="text-xs font-bold text-ink-muted mb-2">Manuel ekleme</p>
+                    <code className="text-[10px] break-all text-ink-muted block leading-relaxed">
                         {CODE}
                     </code>
                 </div>
 
                 <p className="mt-8 text-sm">
-                    <Link href="/ara" className="text-accent font-semibold hover:underline">
+                    <Link href="/ara" className="text-accent-ink font-semibold hover:underline">
                         Doğrudan mevzuat arama →
                     </Link>
                 </p>

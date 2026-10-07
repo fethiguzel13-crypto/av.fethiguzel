@@ -67,7 +67,7 @@ export default function Home() {
       {/* Google + kullanıcı: taranabilir sık aranan madde linkleri (JS yok) */}
       <section className="py-8 sm:py-10 px-5 sm:px-6 border-b border-charcoal/5 bg-white/40">
         <div className="max-w-7xl mx-auto">
-          <p className="text-[10px] font-mono tracking-widest uppercase text-accent mb-3">
+          <p className="text-[10px] font-mono tracking-widest uppercase text-accent-ink mb-3">
             Sık aranan kanun maddeleri
           </p>
           <h2 className="text-lg sm:text-xl font-heading font-bold text-charcoal mb-4">
@@ -115,7 +115,7 @@ export default function Home() {
             <h2 className="text-2xl sm:text-3xl font-heading font-bold text-charcoal">
               554 vatandaş rehberi + süreç kılavuzları
             </h2>
-            <p className="text-charcoal/55 text-sm mt-2 max-w-lg">
+            <p className="text-ink-muted text-sm mt-2 max-w-lg">
               Kıdem, nafaka, icra, kira, boşanma ve 50+ ana rehber — reklam yasağına uygun genel
               bilgilendirme. Arama motorları için tam dizin: /bilgi
             </p>

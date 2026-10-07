@@ -10,20 +10,20 @@ export default function DeployCheckPage() {
         <main className="min-h-screen flex items-center justify-center bg-cream p-8">
             <div className="text-center">
                 <h1 className="text-2xl font-bold text-charcoal mb-2">Deploy OK</h1>
-                <p className="text-charcoal/60 text-sm font-mono">
+                <p className="text-ink-muted text-sm font-mono">
                     build-marker: 2026-08-05-deploy-lambda-size-fix
                 </p>
-                <p className="mt-4 text-sm text-charcoal/50">
+                <p className="mt-4 text-sm text-ink-muted">
                     554 rehber · bilgi-sitemap · /bilgi arama · kategori sayfaları · 0 orphan
                 </p>
                 <p className="mt-2 flex flex-wrap justify-center gap-3">
-                    <Link href="/mevzuat/tbk/madde-13" className="text-accent font-semibold text-sm">
+                    <Link href="/mevzuat/tbk/madde-13" className="text-accent-ink font-semibold text-sm">
                         TBK 13 test →
                     </Link>
-                    <Link href="/mevzuat/tbk" className="text-accent font-semibold text-sm">
+                    <Link href="/mevzuat/tbk" className="text-accent-ink font-semibold text-sm">
                         TBK hub →
                     </Link>
-                    <Link href="/bilgi" className="text-accent font-semibold text-sm">
+                    <Link href="/bilgi" className="text-accent-ink font-semibold text-sm">
                         Vatandaş rehberi →
                     </Link>
                 </p>

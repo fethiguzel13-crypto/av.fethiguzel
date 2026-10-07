@@ -27,7 +27,7 @@ function CopyButton({ text }: { text: string }) {
           setTimeout(() => setCopied(false), 1500);
         });
       }}
-      className="shrink-0 w-8 h-8 rounded-lg border border-charcoal/10 text-charcoal/60 hover:text-accent hover:border-accent/30 transition flex items-center justify-center"
+      className="shrink-0 w-8 h-8 rounded-lg border border-charcoal/10 text-ink-muted hover:text-accent hover:border-accent/30 transition flex items-center justify-center"
       title="Künyeyi kopyala"
     >
       {copied ? <Check size={14} /> : <Copy size={14} />}
@@ -41,7 +41,7 @@ function Item({ item, hasAnalysis }: { item: DailyItem; hasAnalysis: boolean }) 
       <div className="flex justify-between items-start gap-4 mb-3">
         <h3 className="text-base md:text-lg font-heading font-bold text-charcoal flex-1">{itemTitle(item)}</h3>
         {item.category && (
-          <span className="shrink-0 bg-accent/10 text-accent text-[10px] font-mono font-bold uppercase tracking-widest px-2 py-1 rounded-md">
+          <span className="shrink-0 bg-accent/10 text-accent-ink text-[10px] font-mono font-bold uppercase tracking-widest px-2 py-1 rounded-md">
             {item.category}
           </span>
         )}
@@ -55,23 +55,23 @@ function Item({ item, hasAnalysis }: { item: DailyItem; hasAnalysis: boolean }) 
         </div>
       )}
       {item.konu && (
-        <p className="text-charcoal/60 text-sm leading-relaxed mb-4">
+        <p className="text-ink-muted text-sm leading-relaxed mb-4">
           {item.publicSummary || item.konu}
         </p>
       )}
       <div className="flex items-center justify-between pt-3 border-t border-charcoal/5">
-        <span className="text-charcoal/40 text-xs font-mono uppercase tracking-widest">{formatTrDate(item.date)}</span>
+        <span className="text-ink-muted text-xs font-mono uppercase tracking-widest">{formatTrDate(item.date)}</span>
         <div className="flex items-center gap-4">
           {hasAnalysis && (
             <Link
               href={`/icthat/${item.id}`}
-              className="text-xs text-accent font-bold tracking-widest uppercase hover:underline"
+              className="text-xs text-accent-ink font-bold tracking-widest uppercase hover:underline"
             >
               Analizi Oku →
             </Link>
           )}
           {item.url && (
-            <a href={item.url} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-xs text-accent font-bold tracking-widest uppercase">
+            <a href={item.url} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-xs text-accent-ink font-bold tracking-widest uppercase">
               Kaynak <ExternalLink size={12} />
             </a>
           )}
@@ -115,7 +115,7 @@ function Section({ sourceKey, items: ham, analysisIdSet }: { sourceKey: keyof Da
           <HeaderIcon size={18} />
         </div>
         <h2 className="text-charcoal font-heading text-2xl font-bold flex-1">{header.label}</h2>
-        <span className="text-xs font-mono text-charcoal/40 uppercase tracking-widest">{items.length} kayıt</span>
+        <span className="text-xs font-mono text-ink-muted uppercase tracking-widest">{items.length} kayıt</span>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         {items.map((it) => <Item key={it.id} item={it} hasAnalysis={analysisIdSet.has(it.id)} />)}
@@ -135,7 +135,7 @@ export default function IcthatList({ data, analysisIds = [] }: { data: DailyData
     <>
       <IcthatFilters active={filter} onChange={setFilter} />
       {visibleSections.length === 0 ? (
-        <div className="text-center py-20 text-charcoal/50">
+        <div className="text-center py-20 text-ink-muted">
           <p>Bu filtre için sonuç yok.</p>
         </div>
       ) : (

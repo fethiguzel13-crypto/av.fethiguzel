@@ -60,12 +60,12 @@ export default function AuthForm({ mode }: { mode: 'giris' | 'kayit' }) {
     <form onSubmit={onSubmit} className="space-y-4">
       {kayit ? (
         <label className="block">
-          <span className="text-[11px] font-bold uppercase tracking-widest text-charcoal/45">Ad soyad</span>
+          <span className="text-[11px] font-bold uppercase tracking-widest text-ink-muted">Ad soyad</span>
           <input className={`${inp} mt-1.5`} value={name} onChange={(e) => setName(e.target.value)} required autoComplete="name" />
         </label>
       ) : null}
       <label className="block">
-        <span className="text-[11px] font-bold uppercase tracking-widest text-charcoal/45">E-posta</span>
+        <span className="text-[11px] font-bold uppercase tracking-widest text-ink-muted">E-posta</span>
         <input
           type="email"
           className={`${inp} mt-1.5`}
@@ -76,7 +76,7 @@ export default function AuthForm({ mode }: { mode: 'giris' | 'kayit' }) {
         />
       </label>
       <label className="block">
-        <span className="text-[11px] font-bold uppercase tracking-widest text-charcoal/45">Şifre</span>
+        <span className="text-[11px] font-bold uppercase tracking-widest text-ink-muted">Şifre</span>
         <input
           type="password"
           className={`${inp} mt-1.5`}
@@ -92,7 +92,7 @@ export default function AuthForm({ mode }: { mode: 'giris' | 'kayit' }) {
           <label className="flex gap-2 items-start">
             <input type="checkbox" className="mt-1" checked={kvkk} onChange={(e) => setKvkk(e.target.checked)} />
             <span>
-              <Link href="/gizlilik" className="text-accent font-semibold hover:underline">
+              <Link href="/gizlilik" className="text-accent-ink font-semibold hover:underline">
                 Gizlilik / KVKK
               </Link>{' '}
               metnini okudum; üyeliğin yürütülmesi için e-posta ve şifre kaydına açık rıza veriyorum.
@@ -107,7 +107,7 @@ export default function AuthForm({ mode }: { mode: 'giris' | 'kayit' }) {
             />
             <span>
               Dijital içeriğin (karar metinleri) anında ifasını kabul ediyorum;{' '}
-              <Link href="/uyelik/sozlesme" className="text-accent font-semibold hover:underline">
+              <Link href="/uyelik/sozlesme" className="text-accent-ink font-semibold hover:underline">
                 mesafeli satış
               </Link>{' '}
               uyarınca cayma hakkımı kaybedeceğimi biliyorum. Aylık bedel {priceLabel()}.
@@ -115,7 +115,7 @@ export default function AuthForm({ mode }: { mode: 'giris' | 'kayit' }) {
           </label>
         </div>
       ) : null}
-      {error ? <p className="text-sm text-accent font-semibold">{error}</p> : null}
+      {error ? <p className="text-sm text-accent-ink font-semibold">{error}</p> : null}
       <button type="submit" disabled={busy} className="btn-primary w-full disabled:opacity-60">
         {busy ? 'Gönderiliyor…' : kayit ? `Üye ol — ${priceLabel()}/ay` : 'Giriş yap'}
       </button>

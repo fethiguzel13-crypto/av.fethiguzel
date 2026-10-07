@@ -59,11 +59,11 @@ export default async function MevzuatPage() {
             ]}
         />
         <header className="mb-12 sm:mb-16 text-center">
-          <h2 className="text-accent font-heading text-sm tracking-widest uppercase mb-4">Kanun maddesi · Mevzuat arama</h2>
+          <h2 className="text-accent-ink font-heading text-sm tracking-widest uppercase mb-4">Kanun maddesi · Mevzuat arama</h2>
           <h1 className="text-4xl md:text-6xl text-charcoal font-bold mb-6">
             Kanun Maddesi ve <span className="font-drama italic text-accent">Şerh Bankası</span>
           </h1>
-          <p className="text-charcoal/60 max-w-2xl mx-auto text-lg mb-10">
+          <p className="text-ink-muted max-w-2xl mx-auto text-lg mb-10">
             Kanun maddesi arayın: TBK, TMK, TTK, TCK, HMK, İİK ve 40+ kanun —
             resmî madde metni ile akademik şerh aynı sayfada. {yaklasik(N.madde, 100)} madde, ücretsiz açık erişim.
           </p>
@@ -73,23 +73,23 @@ export default async function MevzuatPage() {
           <div className="flex flex-wrap justify-center gap-3 mb-8">
             <Link
               href="/ara"
-              className="inline-flex items-center gap-2 text-xs font-bold tracking-widest uppercase text-accent hover:underline"
+              className="inline-flex items-center gap-2 text-xs font-bold tracking-widest uppercase text-accent-ink hover:underline"
             >
               <Search size={14} /> Tam ekran arama
             </Link>
             <Link
               href="/bilgi"
-              className="inline-flex items-center gap-2 text-xs font-bold tracking-widest uppercase text-charcoal/55 hover:text-accent"
+              className="inline-flex items-center gap-2 text-xs font-bold tracking-widest uppercase text-ink-muted hover:text-accent"
             >
               Vatandaş rehberi ({yaklasik(N.rehber, 10)})
             </Link>
           </div>
           {/* Google exact-match crawl paths: TBK 13, TBK 1, … */}
           <section className="max-w-4xl mx-auto mb-12 text-left rounded-2xl border border-charcoal/[0.08] bg-white/70 p-5 sm:p-6">
-            <h2 className="text-sm font-bold uppercase tracking-widest text-accent mb-3">
+            <h2 className="text-sm font-bold uppercase tracking-widest text-accent-ink mb-3">
               Sık aranan kanun maddeleri
             </h2>
-            <p className="text-sm text-charcoal/55 mb-4">
+            <p className="text-sm text-ink-muted mb-4">
               «TBK 13», «TBK madde 1», «TCK 86» gibi aramalar için doğrudan sayfalar — Av. Fethi Güzel.
             </p>
             <ul className="flex flex-wrap gap-2">
@@ -128,13 +128,13 @@ export default async function MevzuatPage() {
                 <div className="w-12 h-12 bg-accent/10 rounded-full flex items-center justify-center text-accent group-hover:scale-110 transition-transform">
                   <BookOpen size={24} />
                 </div>
-                <span className="font-mono text-[10px] text-charcoal/40 uppercase tracking-widest">
+                <span className="font-mono text-[10px] text-ink-muted uppercase tracking-widest">
                   {category.kanunId.toUpperCase()}
                 </span>
               </div>
 
               <h3 className="text-2xl font-heading font-bold text-charcoal mb-4">{category.name}</h3>
-              <p className="text-charcoal/60 text-sm mb-8">{category.description}</p>
+              <p className="text-ink-muted text-sm mb-8">{category.description}</p>
 
               <div className="space-y-4">
                 <Link
@@ -145,7 +145,7 @@ export default async function MevzuatPage() {
                 </Link>
 
                 <details className="group/details">
-                  <summary className="list-none cursor-pointer text-center text-xs font-bold text-accent tracking-widest flex items-center justify-center gap-2">
+                  <summary className="list-none cursor-pointer text-center text-xs font-bold text-accent-ink tracking-widest flex items-center justify-center gap-2 min-h-[44px]">
                     SON MADDELER ({articles.length})
                     <Search size={14} />
                   </summary>
@@ -160,7 +160,7 @@ export default async function MevzuatPage() {
                       </Link>
                     ))}
                     {articles.length > 20 && (
-                      <p className="text-[10px] text-center text-charcoal/30 pt-2 italic">...ve daha fazlası</p>
+                      <p className="text-[10px] text-center text-ink-muted pt-2 italic">...ve daha fazlası</p>
                     )}
                   </div>
                 </details>

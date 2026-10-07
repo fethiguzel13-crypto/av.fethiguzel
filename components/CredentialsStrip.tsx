@@ -59,7 +59,7 @@ export default function CredentialsStrip({ compact = false }: { compact?: boolea
                                     </div>
                                     <div>
                                         <p className="font-heading font-bold text-charcoal text-sm">{item.title}</p>
-                                        <p className="text-charcoal/55 text-xs mt-1 leading-snug">{item.text}</p>
+                                        <p className="text-ink-muted text-xs mt-1 leading-snug">{item.text}</p>
                                     </div>
                                 </Link>
                             </li>

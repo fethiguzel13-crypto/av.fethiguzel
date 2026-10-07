@@ -44,14 +44,14 @@ export default function ShareableAnswer({ text, title = 'Kısa bilgilendirme (ko
                     <button
                         type="button"
                         onClick={share}
-                        className="inline-flex items-center gap-1.5 text-[11px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-full bg-charcoal/5 text-charcoal/60 hover:bg-accent hover:text-white transition-colors"
+                        className="inline-flex items-center gap-1.5 text-[11px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-full bg-charcoal/5 text-ink-muted hover:bg-accent hover:text-white transition-colors"
                     >
                         <Share2 size={13} /> Paylaş
                     </button>
                     <button
                         type="button"
                         onClick={copy}
-                        className="inline-flex items-center gap-1.5 text-[11px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-full bg-accent/10 text-accent hover:bg-accent hover:text-white transition-colors"
+                        className="inline-flex items-center gap-1.5 text-[11px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-full bg-accent/10 text-accent-ink hover:bg-accent hover:text-white transition-colors"
                     >
                         {ok ? (
                             <>
@@ -65,10 +65,10 @@ export default function ShareableAnswer({ text, title = 'Kısa bilgilendirme (ko
                     </button>
                 </div>
             </div>
-            <pre className="whitespace-pre-wrap font-sans text-sm text-charcoal/70 leading-relaxed bg-cream/80 rounded-xl p-4 border border-charcoal/5 max-h-64 overflow-y-auto">
+            <pre tabIndex={0} role="region" aria-label="Paylaşılabilir yanıt metni" className="whitespace-pre-wrap font-sans text-sm text-charcoal/70 leading-relaxed bg-cream/80 rounded-xl p-4 border border-charcoal/5 max-h-64 overflow-y-auto">
                 {text}
             </pre>
-            <p className="mt-2 text-[10px] text-charcoal/40 leading-relaxed">
+            <p className="mt-2 text-[10px] text-ink-muted leading-relaxed">
                 Forum / LinkedIn / gruplar için hazır metin. Spam yapmayın; somut dosyada avukata yönlendirin.
                 Sonuç vaadi eklemeyin.
             </p>

@@ -147,9 +147,9 @@ export default function VatandasRehberArticle({
         dangerouslySetInnerHTML={{ __html: jsonLdHtml(jsonLd) }}
       />
 
-      <Kirinti ogeler={kirinti} ld={false} className="text-[11px] sm:text-xs text-charcoal/50 mb-5 flex flex-wrap gap-1.5" />
+      <Kirinti ogeler={kirinti} ld={false} className="text-[11px] sm:text-xs text-ink-muted mb-5 flex flex-wrap gap-1.5" />
 
-      <p className="text-accent font-mono text-[10px] tracking-[0.18em] uppercase mb-3">
+      <p className="text-accent-ink font-mono text-[10px] tracking-[0.18em] uppercase mb-3">
         {article.category}
       </p>
 
@@ -160,7 +160,7 @@ export default function VatandasRehberArticle({
       <RehberHero article={article} clocks={plan.clocks} />
 
       <aside className="mb-10 rounded-2xl border border-accent/25 bg-gradient-to-b from-accent/[0.08] to-white px-5 py-5 sm:px-6 sm:py-6">
-        <p className="text-[11px] font-mono tracking-[0.16em] uppercase text-accent font-bold m-0 mb-2">
+        <p className="text-[11px] font-mono tracking-[0.16em] uppercase text-accent-ink font-bold m-0 mb-2">
           Kısa cevap
         </p>
         <p className="text-[16px] sm:text-[17px] text-charcoal/85 leading-relaxed m-0">
@@ -179,7 +179,7 @@ export default function VatandasRehberArticle({
       {article.role === 'spoke' && article.pillar && (
         <p className="mb-8 text-sm text-charcoal/65">
           Konunun tamamı için{' '}
-          <Link href={`/bilgi/${article.pillar}`} className="text-accent font-bold hover:underline">
+          <Link href={`/bilgi/${article.pillar}`} className="text-accent-ink font-bold hover:underline">
             ana rehberi açın
           </Link>
           .
@@ -189,7 +189,7 @@ export default function VatandasRehberArticle({
       {article.role === 'bridge' && article.canonicalPath && (
         <p className="mb-8 text-sm text-charcoal/65">
           Resmî madde metni:{' '}
-          <Link href={article.canonicalPath} className="text-accent font-bold hover:underline">
+          <Link href={article.canonicalPath} className="text-accent-ink font-bold hover:underline">
             madde sayfasına git
           </Link>
         </p>
@@ -222,7 +222,7 @@ export default function VatandasRehberArticle({
                     key={b}
                     className="flex gap-3 text-charcoal/75 text-[15px] leading-relaxed rounded-xl bg-white border border-charcoal/[0.06] px-3 py-2.5"
                   >
-                    <span className="text-accent font-bold shrink-0" aria-hidden>
+                    <span className="text-accent-ink font-bold shrink-0" aria-hidden>
                       ·
                     </span>
                     <span>
@@ -251,7 +251,7 @@ export default function VatandasRehberArticle({
                 key={item}
                 className="flex gap-3 items-start rounded-xl border border-charcoal/[0.08] bg-white px-3.5 py-3 text-[15px] text-charcoal/75 leading-relaxed"
               >
-                <span className="shrink-0 mt-0.5 flex h-6 w-6 items-center justify-center rounded-md border border-accent/30 text-accent text-xs font-bold">
+                <span className="shrink-0 mt-0.5 flex h-6 w-6 items-center justify-center rounded-md border border-accent/30 text-accent-ink text-xs font-bold">
                   {i + 1}
                 </span>
                 {item}
@@ -271,7 +271,7 @@ export default function VatandasRehberArticle({
                 className="group rounded-2xl border border-charcoal/10 bg-white open:border-accent/25"
               >
                 <summary className="cursor-pointer list-none flex items-start gap-3 p-4 sm:p-5 font-semibold text-charcoal text-[15px] [&::-webkit-details-marker]:hidden">
-                  <span className="shrink-0 mt-0.5 flex h-6 w-6 items-center justify-center rounded-md bg-accent/10 text-accent text-xs font-bold">
+                  <span className="shrink-0 mt-0.5 flex h-6 w-6 items-center justify-center rounded-md bg-accent/10 text-accent-ink text-xs font-bold">
                     {i + 1}
                   </span>
                   <span className="flex-1">{f.q}</span>
@@ -314,7 +314,7 @@ export default function VatandasRehberArticle({
               <li key={l.href}>
                 <Link
                   href={l.href}
-                  className="inline-flex text-xs font-semibold px-3 py-1.5 rounded-full bg-accent/10 text-accent hover:bg-accent hover:text-white transition-colors"
+                  className="inline-flex text-xs font-semibold px-3 py-1.5 rounded-full bg-accent/10 text-accent-ink hover:bg-accent hover:text-white transition-colors"
                 >
                   {l.label}
                 </Link>
@@ -345,12 +345,12 @@ export default function VatandasRehberArticle({
 
       <YazarKutusu guncelleme={article.updated} className="mb-6" />
 
-      <p className="text-sm text-charcoal/45 border-t border-charcoal/10 pt-6 m-0">
+      <p className="text-sm text-ink-muted border-t border-charcoal/10 pt-6 m-0">
         Genel bilgilendirme. Somut dosyada süre ve merci değişebilir; güncel metin ve gerektiğinde
         avukat esastır.
       </p>
       <p className="mt-5 mb-0">
-        <Link href="/bilgi" className="text-accent font-bold hover:underline">
+        <Link href="/bilgi" className="text-accent-ink font-bold hover:underline">
           ← Tüm rehberler
         </Link>
       </p>

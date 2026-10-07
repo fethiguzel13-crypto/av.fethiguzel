@@ -46,12 +46,12 @@ export default function OdemeSayfasi() {
 
     return (
         <>
-            <p className="text-sm text-charcoal/55 mb-6">{user.email}</p>
+            <p className="text-sm text-ink-muted mb-6">{user.email}</p>
             {durum === 'hata' ? (
-                <p className="mb-4 text-sm font-semibold text-accent">Ödeme tamamlanamadı. Yeniden deneyin.</p>
+                <p className="mb-4 text-sm font-semibold text-accent-ink">Ödeme tamamlanamadı. Yeniden deneyin.</p>
             ) : null}
             {durum === 'hesap' ? (
-                <p className="mb-4 text-sm font-semibold text-accent">Hesap eşleşmedi. Giriş yapıp tekrar deneyin.</p>
+                <p className="mb-4 text-sm font-semibold text-accent-ink">Hesap eşleşmedi. Giriş yapıp tekrar deneyin.</p>
             ) : null}
             <p className="sr-only">{priceLabel()}</p>
             <OdemePaneli

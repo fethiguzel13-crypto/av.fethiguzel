@@ -25,10 +25,10 @@ export default function IlgiliIcerik({
       <ul className="space-y-1.5">
         {ogeler.map((o) => (
           <li key={o.yol} className="text-sm">
-            <span className="mr-2 font-mono text-[10px] uppercase tracking-wider text-charcoal/45">
+            <span className="mr-2 font-mono text-[10px] uppercase tracking-wider text-ink-muted">
               {TUR_ADI[o.tur as keyof typeof TUR_ADI] ?? o.tur}
             </span>
-            <Link href={o.yol} className="text-accent font-semibold hover:underline">
+            <Link href={o.yol} className="text-accent-ink font-semibold hover:underline">
               {o.ad}
             </Link>
           </li>

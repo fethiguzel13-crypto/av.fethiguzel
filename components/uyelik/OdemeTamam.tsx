@@ -50,18 +50,18 @@ export default function OdemeTamam() {
         return (
             <>
                 <div className="h-40 animate-pulse rounded-2xl bg-white border border-charcoal/10" />
-                <p className="mt-4 text-sm text-charcoal/50">Ödeme doğrulanıyor…</p>
+                <p className="mt-4 text-sm text-ink-muted">Ödeme doğrulanıyor…</p>
             </>
         );
     }
 
     return (
         <>
-            <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">Tamam</p>
+            <p className="text-accent-ink font-mono text-[10px] tracking-[0.22em] uppercase mb-3">Tamam</p>
             <h1 className="text-3xl font-heading font-bold text-charcoal">
                 {member ? 'Arşiv açık.' : 'Ödeme alındı, erişim hazırlanıyor.'}
             </h1>
-            <p className="mt-3 text-sm text-charcoal/60 leading-relaxed">
+            <p className="mt-3 text-sm text-ink-muted leading-relaxed">
                 {member
                     ? 'Karar metinleri sitede okunur; indirme yoktur.'
                     : 'Tahsilat tamamlandı; erişim birkaç dakika içinde açılır. Sayfayı yenilemeniz yeterli, açılmazsa fethiguzel@hotmail.com adresine yazın.'}

@@ -89,7 +89,7 @@ export default function YargiPreview() {
                 href={`/yargi-kararlari/${it.id}`}
                 className="block h-full rounded-2xl border border-cream/10 bg-cream/[0.04] p-5 hover:bg-cream/[0.08] transition-colors"
               >
-                <p className="text-[11px] font-mono uppercase tracking-widest text-accent mb-2">
+                <p className="text-[11px] font-mono uppercase tracking-widest text-accent-light mb-2">
                   {TIER[it.tier] || it.daire} · {it.tarih}
                 </p>
                 <h3 className="text-sm font-heading font-bold leading-snug">{it.kunye}</h3>
@@ -103,7 +103,7 @@ export default function YargiPreview() {
           ))}
         </ul>
 
-        <p className="mt-8 flex items-center gap-2 text-cream/40 text-[12px]">
+        <p className="mt-8 flex items-center gap-2 text-cream/55 text-[12px]">
           <Landmark size={14} aria-hidden />
           Kaynak: karararama.yargitay.gov.tr · Bilgilendirme amaçlıdır
         </p>

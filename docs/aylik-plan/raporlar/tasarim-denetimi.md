@@ -110,3 +110,63 @@ açıldığında yapılır.
    ardından en sık sınıfların dönüşümü. Cırcır testi saydam ikincil metnin yeniden artmasını engeller.
 2. **[P2] `/impeccable adapt`:** mevzuat açılırları ve madde bağlantıları, `pre` odak.
 3. **[P3] `/impeccable polish`:** `themeColor`, dedektör kalıpları. Sonra ölçüm `--etiket=sonra` ile tekrarlanır.
+
+## Sonra ölçümü (2026-10-07 13:18, ilk düzeltme dalgası)
+
+**Ham veri:** `raporlar/tasarim-denetim-sonra.json` · **Ekran görüntüleri:** `raporlar/gorsel/g15-<sayfa>-<masaustu|mobil>-sonra.jpg`
+
+Yapılanlar:
+
+- Renk jetonları tek kaynağa (`lib/tasarim-jetonlari.mjs`) taşınmıştır. Marka paleti değişmemiş, metin için üç düz ton
+  eklenmiştir: `ink-muted #636360`, `accent-ink #A7482A`, `accent-light #D47354`. Test, paletin değişmediğini, yedi açık ve dört
+  koyu zeminde AA'yı ve cırcırı sınar.
+- Öneksiz `text-charcoal/30–60` (341 kullanım) `text-ink-muted` olmuştur. Küçük punto vurgu metni (148), gövde metnindeki vurgu
+  bağlantıları ve ders notu numaraları (90), `.section-label`, şerh başlıkları ve `prose-legal` bağlantıları `accent-ink` olmuştur.
+  Kömür zeminde kalan vurgu metni `accent-light`, `cream/30–45` ise `cream/55` olmuştur (alt bilgi, Hakkımda, yargı önizlemesi ve
+  ödeme kartı, ders notu kartı).
+- Madde rotasının kendi CSS'indeki saydam gri ve `#C45A38` tonları jeton değerlerine çekilmiştir. Alt bağlantı satırı dikey dolgu
+  almıştır.
+- Mevzuat dizinindeki "SON MADDELER" açılırları en az 44 px yüksekliğe çıkarılmıştır. Paylaşılabilir yanıttaki kaydırılabilir
+  `pre` bloğu klavyeyle odaklanır (`tabIndex`, `role="region"`, ad). `themeColor` tek krem girdiye indirilmiştir.
+- Koyu yeşil zeminli eski `app/[category]` sayfalarına dokunulmamıştır, zira `accent` orada 2,63 verir ve hiçbir vurgu tonu o zeminde
+  4,5'e ulaşmaz. Bu sayfalar ayrı bir bulgudur (aşağıda).
+
+| Sayfa | Kontrast, masaüstü | Kontrast, mobil | Hedef ihlali (iki genişlik) |
+|---|---:|---:|---:|
+| Ana sayfa | 90 → 6 | 81 → 6 | 0 → 0 |
+| Makale | 31 → 2 | 34 → 1 | 0 → 0 |
+| Mevzuat dizini | 218 → 3 | 221 → 3 | 118 → 4 |
+| Madde (TBK m.1) | 25 → 0 | 25 → 0 | 2 → 0 |
+| Ders notu | 144 → 11 | 147 → 10 | 0 → 0 |
+| Yargı arşivi | 37 → 3 | 40 → 3 | 0 → 0 |
+| Karar sayfası | 36 → 3 | 39 → 3 | 0 → 0 |
+| Rehber | 39 → 2 | 42 → 2 | 0 → 0 |
+| Hesaplama | 81 → 2 | 84 → 2 | 0 → 0 |
+| İçtihat | 93 → 3 | 96 → 3 | 0 → 0 |
+| Kavram | 42 → 2 | 45 → 1 | 0 → 0 |
+| Yazar profili | 56 → 3 | 59 → 2 | 0 → 0 |
+| Bölge (Van) | 43 → 2 | 46 → 1 | 0 → 0 |
+| Üyelik | 30 → 3 | 33 → 2 | 0 → 0 |
+| **Toplam** | **1.957 → 84** (iki genişlik) | | **120 → 4** |
+
+Diğer axe ihlalleri 2 → 0, yatay taşma 0 → 0.
+
+### Kalanlar
+
+- **[P1] Vurgu zeminli beyaz yazılı düğmeler (77 düğüm, 4,19:1).** "Danışmanlık", "Ara", Play Store ve üyelik düğmeleri ile
+  `.btn-primary` bu gruptadır. Düzeltme düğme zeminini `accent-ink`'e (5,81:1) çekmektir, ne var ki bu sitenin en görünür
+  turuncusunu koyulaştırır. Alternatif yol, düğme yazısını 18,66 px kalın yaparak büyük metin eşiğine (3:1) taşımaktır. Görsel
+  karşılaştırmayla ayrı adımda karara bağlanacaktır.
+- **[P2] Mobil alt gezinmede etkin sekme etiketi (6 düğüm, 3,3–3,7:1)** ve ana sayfada bir `font-drama` vurgu satırı (4,15:1).
+- **[P2] Mevzuat dizininde alt bilgi bağlantıları (4 hedef).** Yalnız bu sayfada, sayfa sonu yerleşiminden doğar.
+- **[P2] `app/[category]` eski sayfaları.** Koyu yeşil zeminde `text-accent` ve tanımsız `text-light` sınıfı kullanılır. Sayfaların
+  hâlâ yönlendirme dışı kalıp kalmadığı G25 regresyonunda denetlenecektir.
+
+| # | Boyut | Önce | Sonra |
+|---|---|---|---|
+| 1 | Erişilebilirlik | 2 | 3 |
+| 2 | Performans | 3 | 3 |
+| 3 | Duyarlı tasarım | 3 | 4 |
+| 4 | Tema | 2 | 3 |
+| 5 | Uygulama bütünlüğü | 3 | 3 |
+| | **Toplam** | **13/20** | **16/20 (iyi)** |

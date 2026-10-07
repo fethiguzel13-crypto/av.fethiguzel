@@ -21,7 +21,7 @@ export default function GizlilikPage() {
                         { ad: 'Gizlilik', yol: '/gizlilik' },
                     ]}
                 />
-                <p className="text-accent text-xs font-bold tracking-widest uppercase mb-3">
+                <p className="text-accent-ink text-xs font-bold tracking-widest uppercase mb-3">
                     Yasal
                 </p>
                 <h1 className="text-3xl sm:text-4xl font-heading font-bold mb-8">
@@ -101,13 +101,13 @@ export default function GizlilikPage() {
                     <p>
                         Bu metin güncellenebilir. Güncel sürüm her zaman bu sayfada yayımlanır.
                     </p>
-                    <p className="text-sm text-charcoal/50 pt-6">
+                    <p className="text-sm text-ink-muted pt-6">
                         Son güncelleme: {new Date().toISOString().slice(0, 10)}
                     </p>
                 </div>
                 <Link
                     href="/"
-                    className="inline-block mt-10 text-accent font-bold text-sm tracking-wide"
+                    className="inline-block mt-10 text-accent-ink font-bold text-sm tracking-wide"
                 >
                     ← Ana sayfa
                 </Link>

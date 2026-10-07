@@ -36,7 +36,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 sm:gap-16 md:gap-24 mb-16 sm:mb-24 md:mb-32">
           <div>
-            <h2 className="text-accent font-heading text-xs sm:text-sm tracking-widest uppercase mb-5 sm:mb-8">İletişim & Ofis</h2>
+            <h2 className="text-accent-light font-heading text-xs sm:text-sm tracking-widest uppercase mb-5 sm:mb-8">İletişim & Ofis</h2>
             <h3 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-cream font-bold mb-6 sm:mb-8 leading-tight">
               Çözüm için <span className="font-drama italic text-accent">Buradayız.</span>
             </h3>
@@ -51,7 +51,7 @@ export default function Footer() {
                   <MapPin size={24} aria-hidden />
                 </div>
                 <div>
-                  <h4 className="text-cream/40 text-[10px] uppercase tracking-widest mb-2 font-bold">Ofis Adresi</h4>
+                  <h4 className="text-cream/55 text-[10px] uppercase tracking-widest mb-2 font-bold">Ofis Adresi</h4>
                   <p className="text-cream text-lg leading-relaxed">
                     {PROFILE.office.streetLines[0]}<br />
                     {PROFILE.office.streetLines[1]}<br />
@@ -64,13 +64,13 @@ export default function Footer() {
                     href={`https://www.google.com/maps/search/?api=1&query=${PROFILE.office.mapQuery}`}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-block mt-4 text-accent text-xs font-bold uppercase tracking-widest hover:underline"
+                    className="inline-block mt-4 text-accent-light text-xs font-bold uppercase tracking-widest hover:underline"
                   >
                     Google Haritalar&apos;da Aç →
                   </a>
                   <Link
                     href="/ercis-avukat"
-                    className="block mt-2 text-cream/50 text-xs font-bold uppercase tracking-widest hover:text-accent"
+                    className="block mt-2 text-cream/50 text-xs font-bold uppercase tracking-widest hover:text-accent-light"
                   >
                     Erciş hukuki bilgilendirme
                   </Link>
@@ -82,14 +82,14 @@ export default function Footer() {
                   <Mail size={24} aria-hidden />
                 </div>
                 <div>
-                  <h4 className="text-cream/40 text-[10px] uppercase tracking-widest mb-2 font-bold">E-Posta</h4>
+                  <h4 className="text-cream/55 text-[10px] uppercase tracking-widest mb-2 font-bold">E-Posta</h4>
                   <a
                     href={`mailto:${PROFILE.email}`}
-                    className="text-cream text-lg hover:text-accent transition-colors"
+                    className="text-cream text-lg hover:text-accent-light transition-colors"
                   >
                     {PROFILE.email}
                   </a>
-                  <p className="mt-2 text-cream/40 text-xs">Yanıt süresi genellikle 1–2 iş günü</p>
+                  <p className="mt-2 text-cream/55 text-xs">Yanıt süresi genellikle 1–2 iş günü</p>
                 </div>
               </div>
 
@@ -98,7 +98,7 @@ export default function Footer() {
                   <Clock size={24} aria-hidden />
                 </div>
                 <div>
-                  <h4 className="text-cream/40 text-[10px] uppercase tracking-widest mb-2 font-bold">Çalışma</h4>
+                  <h4 className="text-cream/55 text-[10px] uppercase tracking-widest mb-2 font-bold">Çalışma</h4>
                   <p className="text-cream text-base leading-relaxed">
                     Hafta içi 09:00 – 18:00<br />
                     <span className="text-cream/50 text-sm">Randevu ile görüşme önerilir</span>
@@ -108,7 +108,7 @@ export default function Footer() {
 
               {!inApp && (
                 <div>
-                  <h4 className="text-cream/40 text-[10px] uppercase tracking-widest mb-3 font-bold">Mobil uygulama</h4>
+                  <h4 className="text-cream/55 text-[10px] uppercase tracking-widest mb-3 font-bold">Mobil uygulama</h4>
                   <a
                     href="https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk"
                     target="_blank"
@@ -121,7 +121,7 @@ export default function Footer() {
               )}
 
               <div>
-                <h4 className="text-cream/40 text-[10px] uppercase tracking-widest mb-3 font-bold">Sosyal Medya</h4>
+                <h4 className="text-cream/55 text-[10px] uppercase tracking-widest mb-3 font-bold">Sosyal Medya</h4>
                 <div className="flex flex-wrap items-center gap-3">
                   <a
                     href={PROFILE.social.instagram.url}
@@ -177,49 +177,49 @@ export default function Footer() {
 
         <div className="mb-12 sm:mb-16 grid grid-cols-2 sm:grid-cols-4 gap-6 text-center sm:text-left">
           <div>
-            <p className="text-cream/40 text-[10px] uppercase tracking-widest font-bold mb-3">Kütüphane</p>
+            <p className="text-cream/55 text-[10px] uppercase tracking-widest font-bold mb-3">Kütüphane</p>
             <div className="flex flex-col gap-2 text-sm text-cream/70">
-              <Link href="/ara" className="hover:text-accent transition-colors">Mevzuat Ara</Link>
-              <Link href="/mevzuat" className="hover:text-accent transition-colors">Tüm Kanunlar</Link>
-              <Link href="/yargi-kararlari" className="hover:text-accent transition-colors">Yargıtay Arşivi</Link>
-              <Link href="/uyelik" className="hover:text-accent transition-colors">Arşiv üyeliği</Link>
-              <Link href="/icthat" className="hover:text-accent transition-colors">Günlük İçtihat</Link>
-              <Link href="/hesaplama" className="hover:text-accent transition-colors">Hesaplama Araçları</Link>
+              <Link href="/ara" className="hover:text-accent-light transition-colors">Mevzuat Ara</Link>
+              <Link href="/mevzuat" className="hover:text-accent-light transition-colors">Tüm Kanunlar</Link>
+              <Link href="/yargi-kararlari" className="hover:text-accent-light transition-colors">Yargıtay Arşivi</Link>
+              <Link href="/uyelik" className="hover:text-accent-light transition-colors">Arşiv üyeliği</Link>
+              <Link href="/icthat" className="hover:text-accent-light transition-colors">Günlük İçtihat</Link>
+              <Link href="/hesaplama" className="hover:text-accent-light transition-colors">Hesaplama Araçları</Link>
             </div>
           </div>
           <div>
-            <p className="text-cream/40 text-[10px] uppercase tracking-widest font-bold mb-3">İçerik</p>
+            <p className="text-cream/55 text-[10px] uppercase tracking-widest font-bold mb-3">İçerik</p>
             <div className="flex flex-col gap-2 text-sm text-cream/70">
-              <Link href="/makaleler" className="hover:text-accent transition-colors">Makaleler</Link>
-              <Link href="/rehber" className="hover:text-accent transition-colors">Rehberler</Link>
-              <Link href="/bilgi" className="hover:text-accent transition-colors">Vatandaş Bilgi</Link>
-              <Link href="/ders-notlari" className="hover:text-accent transition-colors">Hukuk Ders Notları</Link>
-              <Link href="/kavram" className="hover:text-accent transition-colors">Kavramlar</Link>
-              <Link href="/eserlerim" className="hover:text-accent transition-colors">Kitap / Eserler</Link>
-              <Link href="/e-durusma" className="hover:text-accent transition-colors">e-Duruşma</Link>
-              <Link href="/akademik-profil" className="hover:text-accent transition-colors">Akademik Profil</Link>
-              <Link href="/english-speaking-lawyer" className="hover:text-accent transition-colors">English</Link>
-              <Link href="/ar" className="hover:text-accent transition-colors">العربية</Link>
-              <Link href="/on-form" className="hover:text-accent transition-colors">Ön Form</Link>
-              <Link href="/tarife-guncellemeleri" className="hover:text-accent transition-colors">Tarife Güncellemeleri</Link>
-              <Link href="/icthat/haftalik" className="hover:text-accent transition-colors">Haftalık İçtihat</Link>
-              <Link href="/bookmarklet" className="hover:text-accent transition-colors">Mevzuat Yer İmi</Link>
-              <Link href="/site-haritasi" className="hover:text-accent transition-colors">Site Haritası</Link>
+              <Link href="/makaleler" className="hover:text-accent-light transition-colors">Makaleler</Link>
+              <Link href="/rehber" className="hover:text-accent-light transition-colors">Rehberler</Link>
+              <Link href="/bilgi" className="hover:text-accent-light transition-colors">Vatandaş Bilgi</Link>
+              <Link href="/ders-notlari" className="hover:text-accent-light transition-colors">Hukuk Ders Notları</Link>
+              <Link href="/kavram" className="hover:text-accent-light transition-colors">Kavramlar</Link>
+              <Link href="/eserlerim" className="hover:text-accent-light transition-colors">Kitap / Eserler</Link>
+              <Link href="/e-durusma" className="hover:text-accent-light transition-colors">e-Duruşma</Link>
+              <Link href="/akademik-profil" className="hover:text-accent-light transition-colors">Akademik Profil</Link>
+              <Link href="/english-speaking-lawyer" className="hover:text-accent-light transition-colors">English</Link>
+              <Link href="/ar" className="hover:text-accent-light transition-colors">العربية</Link>
+              <Link href="/on-form" className="hover:text-accent-light transition-colors">Ön Form</Link>
+              <Link href="/tarife-guncellemeleri" className="hover:text-accent-light transition-colors">Tarife Güncellemeleri</Link>
+              <Link href="/icthat/haftalik" className="hover:text-accent-light transition-colors">Haftalık İçtihat</Link>
+              <Link href="/bookmarklet" className="hover:text-accent-light transition-colors">Mevzuat Yer İmi</Link>
+              <Link href="/site-haritasi" className="hover:text-accent-light transition-colors">Site Haritası</Link>
             </div>
           </div>
           <div>
-            <p className="text-cream/40 text-[10px] uppercase tracking-widest font-bold mb-3">Keşif</p>
+            <p className="text-cream/55 text-[10px] uppercase tracking-widest font-bold mb-3">Keşif</p>
             <div className="flex flex-col gap-2 text-sm text-cream/70">
-              <Link href="/bilgi" className="hover:text-accent transition-colors">Vatandaş Rehberi</Link>
-              <Link href="/bolge-yazi" className="hover:text-accent transition-colors">Bölge Yazıları</Link>
-              <Link href="/hizmetler" className="hover:text-accent transition-colors">Hizmet Alanları</Link>
-              <Link href="/ders-notlari" className="hover:text-accent transition-colors">Ders Notları</Link>
-              <Link href="/mevzuat" className="hover:text-accent transition-colors">Mevzuat</Link>
-              <Link href="/avukat-fethi-guzel" className="hover:text-accent transition-colors">Av. Fethi Güzel</Link>
+              <Link href="/bilgi" className="hover:text-accent-light transition-colors">Vatandaş Rehberi</Link>
+              <Link href="/bolge-yazi" className="hover:text-accent-light transition-colors">Bölge Yazıları</Link>
+              <Link href="/hizmetler" className="hover:text-accent-light transition-colors">Hizmet Alanları</Link>
+              <Link href="/ders-notlari" className="hover:text-accent-light transition-colors">Ders Notları</Link>
+              <Link href="/mevzuat" className="hover:text-accent-light transition-colors">Mevzuat</Link>
+              <Link href="/avukat-fethi-guzel" className="hover:text-accent-light transition-colors">Av. Fethi Güzel</Link>
             </div>
           </div>
           <div>
-            <p className="text-cream/40 text-[10px] uppercase tracking-widest font-bold mb-3">Profil</p>
+            <p className="text-cream/55 text-[10px] uppercase tracking-widest font-bold mb-3">Profil</p>
             <p className="text-cream/50 text-xs leading-relaxed">
               Özel hukuk doktora çalışmaları · e-duruşma monografisi · iyi düzeyde İngilizce · 45+ kanun · 7.800+ madde şerhi
             </p>
@@ -232,7 +232,7 @@ export default function Footer() {
               <BrandMark size="sm" variant="light" />
               <span className="text-cream font-bold font-heading tracking-tight">AV. FETHİ GÜZEL</span>
             </Link>
-            <p className="text-cream/30 text-xs font-sans">
+            <p className="text-cream/55 text-xs font-sans">
               © {new Date().getFullYear()} Tüm Hakları Saklıdır. Reklam Yasağına Uygundur.
             </p>
           </div>
@@ -244,12 +244,12 @@ export default function Footer() {
             </span>
           </div>
 
-          <div className="flex flex-wrap justify-center items-center gap-5 sm:gap-8 text-[10px] font-bold text-cream/40 tracking-widest uppercase">
+          <div className="flex flex-wrap justify-center items-center gap-5 sm:gap-8 text-[10px] font-bold text-cream/55 tracking-widest uppercase">
             <a
               href={PROFILE.social.instagram.url}
               target="_blank"
               rel="noopener noreferrer me"
-              className="inline-flex items-center gap-1.5 hover:text-accent transition-colors normal-case tracking-normal text-xs"
+              className="inline-flex items-center gap-1.5 hover:text-accent-light transition-colors normal-case tracking-normal text-xs"
               aria-label={`Instagram — @${PROFILE.social.instagram.handle}`}
             >
               <InstagramIcon size={14} /> Instagram
@@ -258,16 +258,16 @@ export default function Footer() {
               href={PROFILE.social.twitter.url}
               target="_blank"
               rel="noopener noreferrer me"
-              className="inline-flex items-center gap-1.5 hover:text-accent transition-colors normal-case tracking-normal text-xs"
+              className="inline-flex items-center gap-1.5 hover:text-accent-light transition-colors normal-case tracking-normal text-xs"
               aria-label={`X / Twitter — @${PROFILE.social.twitter.handle}`}
             >
               <XIcon size={13} /> X
             </a>
-            <Link href="/avukat-fethi-guzel" className="hover:text-accent transition-colors">Avukat Profili</Link>
-            <Link href="/uyelik/sozlesme" className="hover:text-accent transition-colors">Mesafeli Satış</Link>
-            <Link href="/gizlilik" className="hover:text-accent transition-colors">Gizlilik / KVKK</Link>
-            <Link href="/yasal-uyari" className="hover:text-accent transition-colors">Yasal Uyarı</Link>
-            <Link href="/#sss" className="hover:text-accent transition-colors">SSS</Link>
+            <Link href="/avukat-fethi-guzel" className="hover:text-accent-light transition-colors">Avukat Profili</Link>
+            <Link href="/uyelik/sozlesme" className="hover:text-accent-light transition-colors">Mesafeli Satış</Link>
+            <Link href="/gizlilik" className="hover:text-accent-light transition-colors">Gizlilik / KVKK</Link>
+            <Link href="/yasal-uyari" className="hover:text-accent-light transition-colors">Yasal Uyarı</Link>
+            <Link href="/#sss" className="hover:text-accent-light transition-colors">SSS</Link>
           </div>
         </div>
 
@@ -275,7 +275,7 @@ export default function Footer() {
           <GalaxySisterApps variant="dark" />
         </div>
 
-        <p className="mt-6 text-center text-cream/45 text-xs font-sans leading-relaxed max-w-3xl mx-auto">
+        <p className="mt-6 text-center text-cream/55 text-xs font-sans leading-relaxed max-w-3xl mx-auto">
           Av. Fethi Güzel — özel hukuk alanında doktora çalışmaları yürüten avukat ve arabulucu; e-duruşma monografisi yazarı; iyi düzeyde İngilizce.
           Site; mevzuat, akademik şerh, vatandaş bilgilendirme rehberleri ve hesaplama araçları sunar.
           Reklam yasağına uygundur; sonuç vaadi içermez.

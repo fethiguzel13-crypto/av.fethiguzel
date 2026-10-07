@@ -79,7 +79,7 @@ export default function FaqSection() {
                         Merak edilenler,{' '}
                         <span className="font-drama italic text-accent font-medium">net cevaplar.</span>
                     </h2>
-                    <p className="mt-4 text-charcoal/55 text-sm sm:text-base max-w-xl mx-auto leading-relaxed">
+                    <p className="mt-4 text-ink-muted text-sm sm:text-base max-w-xl mx-auto leading-relaxed">
                         Aşağıda en sık gelen soruların kısa yanıtları var.
                     </p>
                 </div>
@@ -106,13 +106,13 @@ export default function FaqSection() {
                     ))}
                 </div>
 
-                <p className="mt-10 text-center text-sm text-charcoal/50">
+                <p className="mt-10 text-center text-sm text-ink-muted">
                     Başka bir sorunuz mu var?{' '}
-                    <Link href="/#iletisim" className="text-accent font-bold hover:underline">
+                    <Link href="/#iletisim" className="text-accent-ink font-bold hover:underline">
                         İletişime geçin
                     </Link>
                     {' · '}
-                    <Link href="/ara" className="text-accent font-bold hover:underline">
+                    <Link href="/ara" className="text-accent-ink font-bold hover:underline">
                         Mevzuat arayın
                     </Link>
                 </p>

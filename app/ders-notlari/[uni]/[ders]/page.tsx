@@ -110,7 +110,7 @@ function WithdrawnNote({
 }) {
   return (
     <>
-      <nav className="text-[11px] text-charcoal/40 mb-5 flex flex-wrap gap-1.5">
+      <nav className="text-[11px] text-ink-muted mb-5 flex flex-wrap gap-1.5">
         <Link href="/" className="hover:text-accent">
           Ana sayfa
         </Link>
@@ -119,7 +119,7 @@ function WithdrawnNote({
           Ders notları
         </Link>
         <span>/</span>
-        <span className="text-charcoal/60">{uni}</span>
+        <span className="text-ink-muted">{uni}</span>
       </nav>
 
       <h1 className="text-2xl sm:text-3xl font-heading font-bold text-charcoal mb-6 leading-tight">
@@ -127,14 +127,14 @@ function WithdrawnNote({
       </h1>
 
       <aside className="rounded-2xl border border-accent/30 bg-accent/[0.06] px-5 py-5 mb-10">
-        <p className="text-[11px] font-mono tracking-[0.16em] uppercase text-accent font-bold m-0 mb-2">
+        <p className="text-[11px] font-mono tracking-[0.16em] uppercase text-accent-ink font-bold m-0 mb-2">
           Bu not yayından kaldırıldı
         </p>
         <p className="text-[15px] text-charcoal/80 leading-relaxed m-0">
           {reason ??
             'Bu ders notu, tüm üniversite ve ders kombinasyonlarına çoğaltılmış kalıp metindir.'}
         </p>
-        <p className="text-sm text-charcoal/60 leading-relaxed mt-3 mb-0">
+        <p className="text-sm text-ink-muted leading-relaxed mt-3 mb-0">
           Sınavına çalışan bir öğrenciye yanlış veya içi boş not vermektense hiç
           vermemeyi tercih ediyoruz.
         </p>

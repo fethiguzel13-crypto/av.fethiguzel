@@ -12,11 +12,11 @@ export default function DailyNews() {
       <div className="max-w-7xl mx-auto">
         <div className="flex flex-col md:flex-row justify-between items-start md:items-end mb-10 sm:mb-16 md:mb-20 gap-5 sm:gap-8">
           <div className="max-w-2xl">
-            <h2 className="text-accent font-heading text-xs sm:text-sm tracking-widest uppercase mb-3 sm:mb-4">Güncel</h2>
+            <h2 className="text-accent-ink font-heading text-xs sm:text-sm tracking-widest uppercase mb-3 sm:mb-4">Güncel</h2>
             <p className="text-3xl sm:text-4xl md:text-5xl text-charcoal font-bold font-sans">
               Hukuki <span className="font-drama italic text-accent">Gelişmeler.</span>
             </p>
-            <p className="text-charcoal/50 text-xs sm:text-sm font-mono mt-2 sm:mt-3 tracking-widest uppercase">
+            <p className="text-ink-muted text-xs sm:text-sm font-mono mt-2 sm:mt-3 tracking-widest uppercase">
               {data.dateLabel}
             </p>
           </div>

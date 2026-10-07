@@ -92,7 +92,7 @@ export default function ToolsPreview() {
             <h2 className="text-2xl sm:text-3xl font-bold text-charcoal leading-tight">
               Hesaplama araçları
             </h2>
-            <p className="mt-2 text-charcoal/55 text-sm max-w-xl leading-relaxed">
+            <p className="mt-2 text-ink-muted text-sm max-w-xl leading-relaxed">
               Kıdem, faiz, miras, nafaka ve süre — kütüphanenin yanında, 33 araç.
             </p>
           </div>
@@ -114,7 +114,7 @@ export default function ToolsPreview() {
               className="group bg-white border border-charcoal/[0.06] rounded-2xl sm:rounded-[2rem] p-4 sm:p-6 hover:shadow-lg transition-all duration-300 flex flex-col"
             >
               {/* Etiket */}
-              <span className={`self-start text-[9px] sm:text-[10px] font-bold uppercase tracking-wider px-2 sm:px-3 py-0.5 sm:py-1 rounded-full mb-3 sm:mb-4 ${ETIKET_RENK[tool.etiket] ?? 'bg-charcoal/5 text-charcoal/50'}`}>
+              <span className={`self-start text-[9px] sm:text-[10px] font-bold uppercase tracking-wider px-2 sm:px-3 py-0.5 sm:py-1 rounded-full mb-3 sm:mb-4 ${ETIKET_RENK[tool.etiket] ?? 'bg-charcoal/5 text-ink-muted'}`}>
                 {tool.etiket}
               </span>
 
@@ -127,12 +127,12 @@ export default function ToolsPreview() {
               </h3>
 
               {/* Açıklama — sadece sm+ */}
-              <p className="hidden sm:block text-charcoal/50 text-xs leading-relaxed flex-1">
+              <p className="hidden sm:block text-ink-muted text-xs leading-relaxed flex-1">
                 {tool.aciklama}
               </p>
 
               {/* Ok */}
-              <div className="mt-3 sm:mt-5 flex items-center gap-1 text-accent text-xs font-bold">
+              <div className="mt-3 sm:mt-5 flex items-center gap-1 text-accent-ink text-xs font-bold">
                 <ArrowRight size={12} />
               </div>
             </Link>
@@ -140,7 +140,7 @@ export default function ToolsPreview() {
         </div>
 
         {/* Yasal uyarı */}
-        <p className="mt-8 sm:mt-12 text-center text-charcoal/30 text-[10px] font-mono tracking-wider uppercase leading-relaxed px-2">
+        <p className="mt-8 sm:mt-12 text-center text-ink-muted text-[10px] font-mono tracking-wider uppercase leading-relaxed px-2">
           Hesaplamalar bilgi amaçlıdır · Kesin değerler için danışmanlık alınız
         </p>
       </div>

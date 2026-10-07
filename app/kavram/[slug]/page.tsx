@@ -78,13 +78,13 @@ export default async function KavramSlugPage({ params }: Props) {
                     ]}
                 />
 
-                <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-2">
+                <p className="text-accent-ink font-mono text-[10px] tracking-[0.22em] uppercase mb-2">
                     Kavram
                 </p>
                 <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal mb-4 leading-tight">
                     {k.baslik}
                 </h1>
-                <p className="text-charcoal/60 text-base leading-relaxed mb-8">{k.ozet}</p>
+                <p className="text-ink-muted text-base leading-relaxed mb-8">{k.ozet}</p>
 
                 <div className="mb-10">
                     <ShareableAnswer text={k.miniCevap} title="Forum / grup için mini cevap" />
@@ -126,7 +126,7 @@ export default async function KavramSlugPage({ params }: Props) {
                                 <li key={m.href}>
                                     <Link
                                         href={m.href}
-                                        className="inline-block text-sm px-3 py-1.5 rounded-full bg-accent/10 text-accent font-semibold hover:bg-accent hover:text-white"
+                                        className="inline-block text-sm px-3 py-1.5 rounded-full bg-accent/10 text-accent-ink font-semibold hover:bg-accent hover:text-white"
                                     >
                                         {m.label}
                                     </Link>
@@ -142,7 +142,7 @@ export default async function KavramSlugPage({ params }: Props) {
                         <ul className="space-y-1">
                             {k.rehber.map((m) => (
                                 <li key={m.href}>
-                                    <Link href={m.href} className="text-sm text-accent font-semibold hover:underline">
+                                    <Link href={m.href} className="text-sm text-accent-ink font-semibold hover:underline">
                                         {m.label} →
                                     </Link>
                                 </li>
@@ -175,19 +175,19 @@ export default async function KavramSlugPage({ params }: Props) {
 
                 <YazarKutusu className="mb-6" />
 
-                <p className="text-[11px] text-charcoal/40 leading-relaxed mb-6">
+                <p className="text-[11px] text-ink-muted leading-relaxed mb-6">
                     Bu sayfa bilgilendirme amaçlıdır; resmî tavsiye veya vekâlet yerine geçmez. Somut
                     uyuşmazlıklarda avukata danışınız. Sonuç vaadi yoktur.
                 </p>
 
                 <div className="flex flex-wrap gap-4 text-sm font-bold">
-                    <Link href="/kavram" className="text-accent hover:underline">
+                    <Link href="/kavram" className="text-accent-ink hover:underline">
                         ← Tüm kavramlar ({KAVRAMLAR.length})
                     </Link>
-                    <Link href="/ara" className="text-charcoal/50 hover:text-accent">
+                    <Link href="/ara" className="text-ink-muted hover:text-accent">
                         Mevzuatta ara
                     </Link>
-                    <Link href="/on-form" className="text-charcoal/50 hover:text-accent">
+                    <Link href="/on-form" className="text-ink-muted hover:text-accent">
                         Ön form
                     </Link>
                 </div>

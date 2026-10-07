@@ -52,26 +52,26 @@ export default function HizmetBolgeleriPage() {
                         { ad: 'Bölgesel bilgilendirme', yol: '/hizmet-bolgeleri' },
                     ]}
                 />
-                <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
+                <p className="text-accent-ink font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
                     Bilgilendirme dizini
                 </p>
                 <h1 className="text-3xl sm:text-4xl md:text-5xl font-heading font-bold text-charcoal mb-4">
                     Bölgesel hukuki bilgilendirme
                 </h1>
-                <p className="text-charcoal/60 text-base sm:text-lg max-w-2xl leading-relaxed mb-4">
+                <p className="text-ink-muted text-base sm:text-lg max-w-2xl leading-relaxed mb-4">
                     Aşağıdaki sayfalar yerleşim adıyla ilişkilendirilmiş <strong className="text-charcoal">genel hukuki rehberlerdir</strong>.
                     “X avukat” reklamı veya sonuç vaadi içermez. Ana sayfada yer almaz; arama motorları ve site haritası üzerinden keşfedilir.
                 </p>
-                <p className="text-charcoal/50 text-sm mb-10">
-                    <Link href="/bilgi" className="text-accent font-semibold hover:underline">
+                <p className="text-ink-muted text-sm mb-10">
+                    <Link href="/bilgi" className="text-accent-ink font-semibold hover:underline">
                         Vatandaş bilgi rehberi
                     </Link>
                     {' · '}
-                    <Link href="/avukat-fethi-guzel" className="text-accent font-semibold hover:underline">
+                    <Link href="/avukat-fethi-guzel" className="text-accent-ink font-semibold hover:underline">
                         Avukat profili
                     </Link>
                     {' · '}
-                    <Link href="/site-haritasi" className="text-accent font-semibold hover:underline">
+                    <Link href="/site-haritasi" className="text-accent-ink font-semibold hover:underline">
                         Site haritası
                     </Link>
                 </p>
@@ -89,12 +89,12 @@ export default function HizmetBolgeleriPage() {
                                     <h2 className="font-heading font-bold text-charcoal group-hover:text-accent transition-colors">
                                         {b.ilce}
                                     </h2>
-                                    <p className="text-xs text-charcoal/45 mt-1">
+                                    <p className="text-xs text-ink-muted mt-1">
                                         {b.il}
                                         {b.merkezOfis ? ' · Ofis' : ''}
                                         {b.uzaktan ? ' · Uzaktan bağlam' : ''}
                                     </p>
-                                    <p className="text-xs text-charcoal/55 mt-2 leading-relaxed">
+                                    <p className="text-xs text-ink-muted mt-2 leading-relaxed">
                                         {b.ad}
                                     </p>
                                 </div>
@@ -103,11 +103,11 @@ export default function HizmetBolgeleriPage() {
                     ))}
                 </div>
 
-                <div className="mt-12 flex items-start gap-3 rounded-2xl border border-charcoal/[0.08] bg-white p-5 text-sm text-charcoal/60">
+                <div className="mt-12 flex items-start gap-3 rounded-2xl border border-charcoal/[0.08] bg-white p-5 text-sm text-ink-muted">
                     <BookOpen className="text-accent shrink-0 mt-0.5" size={18} />
                     <p>
                         Daha geniş konu seti için 550+ sayfalık{' '}
-                        <Link href="/bilgi" className="text-accent font-semibold hover:underline">
+                        <Link href="/bilgi" className="text-accent-ink font-semibold hover:underline">
                             vatandaş rehberi
                         </Link>{' '}
                         hub&apos;ını kullanın. Bu dizin yalnızca bölgesel bağlamlı bilgilendirme köprüleridir.

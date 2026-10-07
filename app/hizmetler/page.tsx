@@ -75,26 +75,26 @@ export default function HizmetlerPage() {
                         { ad: 'Hizmetler', yol: '/hizmetler' },
                     ]}
                 />
-                <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
+                <p className="text-accent-ink font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
                     Bilgilendirme · reklam yasağına uygun
                 </p>
                 <h1 className="text-3xl sm:text-4xl md:text-5xl font-heading font-bold text-charcoal mb-4">
                     Hukuki hizmet alanları
                 </h1>
-                <p className="text-charcoal/60 text-base sm:text-lg max-w-2xl leading-relaxed mb-4">
+                <p className="text-ink-muted text-base sm:text-lg max-w-2xl leading-relaxed mb-4">
                     {PROFILE.name} — {PROFILE.jobTitle}. Aşağıdaki listeler sonuç vaadi veya karşılaştırmalı
                     iddia içermez; yalnızca faaliyet alanlarını açıklar.
                 </p>
-                <p className="text-sm text-charcoal/50 mb-10">
-                    <Link href="/akademik-profil" className="text-accent font-semibold hover:underline">
+                <p className="text-sm text-ink-muted mb-10">
+                    <Link href="/akademik-profil" className="text-accent-ink font-semibold hover:underline">
                         Akademik profil
                     </Link>
                     {' · '}
-                    <Link href="/bolge-yazi" className="text-accent font-semibold hover:underline">
+                    <Link href="/bolge-yazi" className="text-accent-ink font-semibold hover:underline">
                         Hizmet bölgeleri
                     </Link>
                     {' · '}
-                    <Link href="/hesaplama" className="text-accent font-semibold hover:underline">
+                    <Link href="/hesaplama" className="text-accent-ink font-semibold hover:underline">
                         Hesaplama araçları
                     </Link>
                 </p>
@@ -110,7 +110,7 @@ export default function HizmetlerPage() {
                                     </div>
                                     <div>
                                         <h2 className="font-heading font-bold text-charcoal mb-1.5">{a.ad}</h2>
-                                        <p className="text-sm text-charcoal/60 leading-relaxed">{a.text}</p>
+                                        <p className="text-sm text-ink-muted leading-relaxed">{a.text}</p>
                                     </div>
                                 </div>
                             </article>

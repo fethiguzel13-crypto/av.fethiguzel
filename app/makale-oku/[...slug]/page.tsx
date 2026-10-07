@@ -67,7 +67,7 @@ export default async function MakaleOku({ params }: { params: Promise<{ slug: st
         <div className="mb-12 flex justify-between items-center">
           <Link 
             href="/makaleler" 
-            className="group flex items-center gap-2 text-accent font-bold text-xs tracking-widest uppercase hover:translate-x-[-4px] transition-transform"
+            className="group flex items-center gap-2 text-accent-ink font-bold text-xs tracking-widest uppercase hover:translate-x-[-4px] transition-transform"
           >
             <ArrowLeft size={16} /> MAKALE ARŞİVİNE DÖN
           </Link>
@@ -82,7 +82,7 @@ export default async function MakaleOku({ params }: { params: Promise<{ slug: st
 
         <article className="bg-white border border-charcoal/5 rounded-[3rem] p-8 md:p-16 shadow-sm overflow-hidden">
           <header className="mb-16">
-            <div className="flex items-center gap-3 text-accent font-mono text-[10px] tracking-[0.2em] uppercase mb-4">
+            <div className="flex items-center gap-3 text-accent-ink font-mono text-[10px] tracking-[0.2em] uppercase mb-4">
               <FileText size={14} />
               <span>AKADEMİK İNCELEME</span>
             </div>
@@ -113,12 +113,12 @@ export default async function MakaleOku({ params }: { params: Promise<{ slug: st
               <div className="text-center py-24 bg-charcoal/5 rounded-[2rem]">
                 <Book size={48} className="mx-auto text-charcoal/10 mb-6" />
                 <h3 className="text-charcoal font-bold text-xl mb-4">Önizleme Desteklenmiyor</h3>
-                <p className="text-charcoal/40 max-w-xs mx-auto">Bu dosya formatı tarayıcıda önizlenemiyor. Lütfen indirerek cihazınızda açın.</p>
+                <p className="text-ink-muted max-w-xs mx-auto">Bu dosya formatı tarayıcıda önizlenemiyor. Lütfen indirerek cihazınızda açın.</p>
               </div>
             )}
           </div>
 
-          <div className="mt-20 pt-8 border-t border-charcoal/5 flex justify-between items-center text-[10px] font-mono text-charcoal/20">
+          <div className="mt-20 pt-8 border-t border-charcoal/5 flex justify-between items-center text-[10px] font-mono text-ink-muted">
              <span>DİJİTAL HUKUK KÜTÜPHANESİ // FETHİ GÜZEL</span>
              <span>DOSYA: {fileName}</span>
           </div>

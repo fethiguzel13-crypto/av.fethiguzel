@@ -61,12 +61,12 @@ export default async function YargiKararPage({ params }: Props) {
               { ad: bilgi.kunye, yol: `/yargi-kararlari/${bilgi.id}` },
             ]}
           />
-          <p className="text-[11px] font-mono uppercase tracking-widest text-accent">
+          <p className="text-[11px] font-mono uppercase tracking-widest text-accent-ink">
             {kademe}
             {bilgi.tarih ? ` · ${bilgi.tarih}` : ''}
           </p>
           <h1 className="mt-2 text-2xl sm:text-3xl font-heading font-bold leading-snug text-charcoal">{bilgi.kunye}</h1>
-          {bilgi.daire && bilgi.daire !== kademe ? <p className="mt-2 text-charcoal/55">{bilgi.daire}</p> : null}
+          {bilgi.daire && bilgi.daire !== kademe ? <p className="mt-2 text-ink-muted">{bilgi.daire}</p> : null}
           {bilgi.konu.length ? (
             <ul className="mt-4 flex flex-wrap gap-2" aria-label="Konu">
               {bilgi.konu.map((k) => (
@@ -78,7 +78,7 @@ export default async function YargiKararPage({ params }: Props) {
           ) : null}
           {bilgi.ozet ? (
             <section className="mt-6 rounded-2xl bg-white border border-charcoal/10 p-6 sm:p-8">
-              <h2 className="text-[11px] uppercase tracking-widest text-charcoal/40 mb-3">Kararın başı</h2>
+              <h2 className="text-[11px] uppercase tracking-widest text-ink-muted mb-3">Kararın başı</h2>
               <p className="text-[15px] leading-relaxed text-charcoal/80">{bilgi.ozet}</p>
             </section>
           ) : null}

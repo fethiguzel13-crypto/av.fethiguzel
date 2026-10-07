@@ -43,7 +43,7 @@ export default function Articles() {
       <div className="max-w-7xl mx-auto">
         <div className="flex flex-col md:flex-row justify-between items-start md:items-end mb-10 sm:mb-16 md:mb-20 gap-5 sm:gap-8">
           <div className="max-w-2xl">
-            <h2 className="text-accent font-heading text-xs sm:text-sm tracking-widest uppercase mb-3 sm:mb-4">Akademik Arşiv</h2>
+            <h2 className="text-accent-ink font-heading text-xs sm:text-sm tracking-widest uppercase mb-3 sm:mb-4">Akademik Arşiv</h2>
             <p className="text-3xl sm:text-4xl md:text-5xl text-charcoal font-bold font-sans leading-tight">
               Makaleler & <span className="font-drama italic text-accent">Hukuki Analizler.</span>
             </p>
@@ -60,13 +60,13 @@ export default function Articles() {
                 <div className="w-9 h-9 sm:w-10 sm:h-10 bg-accent/5 rounded-full flex items-center justify-center text-accent shrink-0">
                   <FileText size={18} />
                 </div>
-                <span className="text-[9px] sm:text-[10px] font-mono font-bold text-charcoal/30 uppercase tracking-widest">{item.category}</span>
+                <span className="text-[9px] sm:text-[10px] font-mono font-bold text-ink-muted uppercase tracking-widest">{item.category}</span>
               </div>
               <h4 className="text-base sm:text-lg md:text-xl font-heading font-bold text-charcoal mb-2 sm:mb-4 group-hover:text-accent transition-colors leading-snug">{item.title}</h4>
-              <p className="text-charcoal/60 text-xs sm:text-sm leading-relaxed mb-4 sm:mb-8 flex-1">
+              <p className="text-ink-muted text-xs sm:text-sm leading-relaxed mb-4 sm:mb-8 flex-1">
                 {item.desc}
               </p>
-              <span className="inline-flex items-center gap-1 text-[10px] font-bold text-accent tracking-[0.2em] uppercase">
+              <span className="inline-flex items-center gap-1 text-[10px] font-bold text-accent-ink tracking-[0.2em] uppercase">
                 ARŞİVİ İNCELE <ArrowUpRight size={13} />
               </span>
             </Link>

@@ -44,7 +44,7 @@ export default function YonetimPaneli() {
   return (
     <div className="space-y-6">
       <label className="block">
-        <span className="text-[11px] font-bold uppercase tracking-widest text-charcoal/45">Yönetim anahtarı</span>
+        <span className="text-[11px] font-bold uppercase tracking-widest text-ink-muted">Yönetim anahtarı</span>
         <input
           type="password"
           className="mt-1.5 w-full rounded-2xl border border-charcoal/10 bg-white px-4 py-3 text-sm"
@@ -79,13 +79,13 @@ export default function YonetimPaneli() {
           30 gün aç
         </button>
       </div>
-      {msg ? <p className="text-sm font-semibold text-accent">{msg}</p> : null}
+      {msg ? <p className="text-sm font-semibold text-accent-ink">{msg}</p> : null}
       {users ? (
         <ul className="space-y-2 text-sm">
           {users.map((u) => (
             <li key={u.id} className="rounded-2xl bg-white border border-charcoal/10 p-4">
               <p className="font-bold">{u.name} · {u.email}</p>
-              <p className="text-charcoal/50 text-[12px] mt-1">
+              <p className="text-ink-muted text-[12px] mt-1">
                 Bitiş: {u.membershipUntil ? new Date(u.membershipUntil).toLocaleDateString('tr-TR') : '—'}
                 {u.pendingRef ? ` · bekleyen ${u.pendingRef}` : ''}
               </p>

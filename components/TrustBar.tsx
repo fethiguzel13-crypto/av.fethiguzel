@@ -64,7 +64,7 @@ export default function TrustBar({ sayilar }: { sayilar: Sayilar }) {
                                     açık erişimli şerh arşivi
                                 </span>
                             </h2>
-                            <p className="text-charcoal/50 text-xs sm:text-sm mt-2 max-w-xl">
+                            <p className="text-ink-muted text-xs sm:text-sm mt-2 max-w-xl">
                                 Nesnel unvan ve yayın · reklam yasağına uygun · sonuç vaadi yok
                             </p>
                         </div>
@@ -90,7 +90,7 @@ export default function TrustBar({ sayilar }: { sayilar: Sayilar }) {
                                     <p className="text-lg sm:text-xl font-heading font-bold text-charcoal tracking-tight">
                                         {s.value}
                                     </p>
-                                    <p className="text-[11px] sm:text-xs text-charcoal/55 leading-snug mt-1">
+                                    <p className="text-[11px] sm:text-xs text-ink-muted leading-snug mt-1">
                                         {s.label}
                                     </p>
                                 </li>

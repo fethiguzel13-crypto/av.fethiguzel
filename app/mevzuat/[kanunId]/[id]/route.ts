@@ -222,9 +222,9 @@ esas alınmalıdır.</p>
   )}</script>
 <style>
 body{margin:0;font-family:system-ui,-apple-system,sans-serif;background:#F4F1EA;color:#1C1C1C;line-height:1.55}
-a{color:#C45A38;text-decoration:none} a:hover{text-decoration:underline}
+a{color:#A7482A;text-decoration:none} a:hover{text-decoration:underline}
 main{max-width:42rem;margin:0 auto;padding:1.75rem 1.1rem 3rem}
-.badge{display:inline-block;padding:.28rem .75rem;border-radius:999px;background:rgba(196,90,56,.12);color:#C45A38;font-size:.68rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase}
+.badge{display:inline-block;padding:.28rem .75rem;border-radius:999px;background:rgba(196,90,56,.08);color:#A7482A;font-size:.68rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase}
 .box{border-radius:1.15rem;padding:1.25rem 1.4rem;margin:1.1rem 0}
 .off{background:linear-gradient(145deg,#2E4036,#1f2e26);color:#FFFEFA}
 .com{background:#FFFEFA;border:1px solid rgba(0,0,0,.08)}
@@ -233,23 +233,24 @@ h1{font-size:clamp(1.45rem,3vw,2rem);line-height:1.22;margin:.45rem 0 0;font-wei
 .prose h2{font-size:1.15rem}.prose h3{font-size:1.05rem}.prose h4{font-size:1rem}
 .prose h5,.prose h6{font-size:.95rem}
 .prose p{margin:.55rem 0}
-.muted{color:rgba(28,28,28,.55);font-size:.9rem}
-.nav{font-size:.78rem;color:rgba(28,28,28,.5);margin-bottom:1rem}
+.muted{color:#636360;font-size:.9rem}
+.nav{font-size:.78rem;color:#636360;margin-bottom:1rem}
 .topbar{display:flex;flex-wrap:wrap;gap:.75rem;justify-content:space-between;align-items:center;padding:.85rem 1.1rem;background:rgba(244,241,234,.95);border-bottom:1px solid rgba(0,0,0,.07);position:sticky;top:0;z-index:5}
 .topbar a.brand{font-weight:800;color:#1C1C1C;font-size:.95rem}
 .topbar nav a{margin-left:.85rem;font-size:.8rem;font-weight:600;color:rgba(28,28,28,.65)}
 .prose p{margin:.55rem 0}
 .notice{border-left:3px solid #C45A38;padding:.15rem 0 .15rem 1rem}
 .notice p{margin:.5rem 0}
-.notice strong{color:#C45A38}
+.notice strong{color:#A7482A}
 .yazar{border:1px solid rgba(0,0,0,.08);border-radius:1rem;background:rgba(255,254,250,.6);padding:1rem 1.25rem;margin:1.1rem 0;font-size:.88rem;color:rgba(28,28,28,.72)}
 .yazar p{margin:.2rem 0}.yazar ul{margin:.2rem 0;padding-left:1.2rem}
-.yazar-baslik{font-size:.62rem;letter-spacing:.14em;text-transform:uppercase;color:rgba(28,28,28,.45)}
+.yazar-baslik{font-size:.62rem;letter-spacing:.14em;text-transform:uppercase;color:#636360}
 .yazar p+.yazar-baslik{margin-top:.75rem}
 .ilgili{margin:1.1rem 0;font-size:.9rem}
 .ilgili h2{margin:0 0 .45rem;font-weight:600}
 .ilgili ul{margin:0;padding:0;list-style:none}.ilgili li{margin:.3rem 0}
-.ilgili .tur{display:inline-block;min-width:5.2rem;font-size:.62rem;letter-spacing:.1em;text-transform:uppercase;color:rgba(28,28,28,.45)}
+.ilgili .tur{display:inline-block;min-width:5.2rem;font-size:.62rem;letter-spacing:.1em;text-transform:uppercase;color:#636360}
+.alt-bag a{display:inline-block;padding:.3rem 0}
 </style>
 </head>
 <body>
@@ -281,7 +282,7 @@ Arama adları: <strong>${code} ${n}</strong> · <strong>${code} madde ${n}</stro
 <article class="prose">${officialHtml}</article>
 </section>
 <section class="box com">
-<h2 style="font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:#C45A38;margin:0 0 .75rem">${
+<h2 style="font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:#A7482A;margin:0 0 .75rem">${
       hasCommentary
         ? `Akademik yorum ve analiz — ${code} m. ${n} şerhi`
         : `Şerh durumu — ${code} m. ${n}`
@@ -294,7 +295,7 @@ ${ilgiliHtml}
 Kaynak ve uyarı: Bilgilendirme amaçlıdır; Resmî Gazete / mevzuat.gov.tr esas alınmalıdır.
 ${hasCommentary ? 'Şerh akademik niteliktedir.' : ''} Arama: ${code} madde ${n}, ${code} m. ${n}, Fethi Güzel.
 </aside>
-<p style="margin-top:1.35rem;font-size:.9rem">
+<p class="alt-bag" style="margin-top:1.35rem;font-size:.9rem">
 <a href="${SITE}/mevzuat">← Tüm mevzuat</a> ·
 <a href="${SITE}/ara?q=${encodeURIComponent(code + ' madde ' + n)}">Benzer maddelerde ara</a> ·
 <a href="${SITE}/avukat-fethi-guzel">Av. Fethi Güzel</a>

@@ -227,7 +227,7 @@ export default function Navbar() {
                 <div className="grid grid-cols-3 gap-x-10 gap-y-6">
                   {MEVZUAT_GRUPLARI.map(g => (
                     <div key={g.grup}>
-                      <p className="text-[10px] font-bold uppercase tracking-widest text-accent mb-3">{g.grup}</p>
+                      <p className="text-[10px] font-bold uppercase tracking-widest text-accent-ink mb-3">{g.grup}</p>
                       <div className="flex flex-col gap-[3px]">
                         {g.maddeler.map(m => (
                           <Link
@@ -248,19 +248,19 @@ export default function Navbar() {
                     <Link
                       href="/ara"
                       onClick={() => setMegaOpen(false)}
-                      className="text-[11px] font-bold text-accent hover:underline"
+                      className="text-[11px] font-bold text-accent-ink hover:underline"
                     >
                       Mevzuat Ara →
                     </Link>
                     <Link
                       href="/mevzuat"
                       onClick={() => setMegaOpen(false)}
-                      className="text-[11px] font-bold text-charcoal/50 hover:text-accent"
+                      className="text-[11px] font-bold text-ink-muted hover:text-accent"
                     >
                       Tüm Kanunlar
                     </Link>
                   </div>
-                  <span className="text-[10px] font-mono text-charcoal/30 uppercase tracking-widest">
+                  <span className="text-[10px] font-mono text-ink-muted uppercase tracking-widest">
                     45+ Kanun · 7800+ Madde
                   </span>
                 </div>
@@ -276,7 +276,7 @@ export default function Navbar() {
             }`}
           role="search"
         >
-          <Search size={14} className={solid ? 'text-charcoal/40' : 'text-cream/70'} aria-hidden />
+          <Search size={14} className={solid ? 'text-ink-muted' : 'text-cream/70'} aria-hidden />
           <input
             type="search"
             value={navQ}
@@ -360,17 +360,17 @@ export default function Navbar() {
             </button>
           </form>
           <div className="mt-3">
-            <p className="text-[10px] font-mono uppercase tracking-widest text-charcoal/30 mb-4">Mevzuat</p>
+            <p className="text-[10px] font-mono uppercase tracking-widest text-ink-muted mb-4">Mevzuat</p>
             {MEVZUAT_GRUPLARI.map(g => (
               <div key={g.grup} className="mb-5">
-                <p className="text-[10px] font-bold uppercase tracking-widest text-accent mb-2">{g.grup}</p>
+                <p className="text-[10px] font-bold uppercase tracking-widest text-accent-ink mb-2">{g.grup}</p>
                 <div className="pl-3 flex flex-col gap-1">
                   {g.maddeler.map(m => (
                     <Link
                       key={m.href}
                       href={m.href}
                       onClick={() => setMobileOpen(false)}
-                      className="text-charcoal/60 text-sm py-0.5"
+                      className="text-ink-muted text-sm py-0.5"
                     >
                       {m.ad}
                     </Link>

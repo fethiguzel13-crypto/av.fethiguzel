@@ -41,13 +41,13 @@ export default function EDurusmaHubPage() {
                         { ad: 'e-Duruşma', yol: '/e-durusma' },
                     ]}
                 />
-                <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
+                <p className="text-accent-ink font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
                     Akademik hub
                 </p>
                 <h1 className="text-3xl sm:text-4xl md:text-5xl font-heading font-bold text-charcoal mb-4 leading-tight">
                     e-Duruşma
                 </h1>
-                <p className="text-charcoal/60 text-base leading-relaxed mb-10">
+                <p className="text-ink-muted text-base leading-relaxed mb-10">
                     Medeni usul hukukunda ses ve görüntünün nakledilmesi yoluyla duruşma icrası
                     (e-duruşma) hakkında nesnel bilgilendirme ve yayımlanmış monografiye erişim.
                 </p>
@@ -59,7 +59,7 @@ export default function EDurusmaHubPage() {
                             <h2 className="font-heading font-bold text-charcoal text-lg leading-snug">
                                 {PROFILE.book.title}
                             </h2>
-                            <p className="text-sm text-charcoal/50 mt-1">
+                            <p className="text-sm text-ink-muted mt-1">
                                 {PROFILE.name} · {PROFILE.book.publisher}
                             </p>
                         </div>
@@ -81,29 +81,29 @@ export default function EDurusmaHubPage() {
                     </h2>
                     <ul className="space-y-2 text-sm">
                         <li>
-                            <Link href="/mevzuat/hmk/madde-1" className="text-accent font-semibold hover:underline">
+                            <Link href="/mevzuat/hmk/madde-1" className="text-accent-ink font-semibold hover:underline">
                                 HMK — mevzuat ve şerh
                             </Link>
                         </li>
                         <li>
-                            <Link href="/akademik-profil" className="text-accent font-semibold hover:underline">
+                            <Link href="/akademik-profil" className="text-accent-ink font-semibold hover:underline">
                                 Akademik profil
                             </Link>
                         </li>
                         <li>
-                            <Link href="/eserlerim" className="text-accent font-semibold hover:underline">
+                            <Link href="/eserlerim" className="text-accent-ink font-semibold hover:underline">
                                 Eserlerim
                             </Link>
                         </li>
                         <li>
-                            <Link href="/hesaplama/sure" className="text-accent font-semibold hover:underline">
+                            <Link href="/hesaplama/sure" className="text-accent-ink font-semibold hover:underline">
                                 Süre hesabı aracı
                             </Link>
                         </li>
                     </ul>
                 </section>
 
-                <p className="text-[11px] text-charcoal/40 leading-relaxed">
+                <p className="text-[11px] text-ink-muted leading-relaxed">
                     Bu sayfa tanıtım ve akademik erişim amaçlıdır; yargılama sonucuna ilişkin vaat
                     içermez. Reklam yasağına uygundur.
                 </p>

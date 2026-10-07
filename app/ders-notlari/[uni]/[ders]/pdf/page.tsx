@@ -74,7 +74,7 @@ export default async function DersNotuPdfPage({ params }: Props) {
             <br />
             <strong>Windows:</strong> Ctrl+P · <strong>Mac:</strong> Cmd+P
           </p>
-          <p className="text-xs text-charcoal/50 m-0 mb-3">
+          <p className="text-xs text-ink-muted m-0 mb-3">
             Dosya adı önerisi: <code className="text-accent">{note.slug || `${uni}-${ders}`}.pdf</code>
           </p>
           <DersNotuPrintTrigger />

@@ -53,9 +53,9 @@ export default async function BolgeYaziSlugPage({ params }: Props) {
       <Navbar />
       <main id="main-content" className="pt-32 sm:pt-40 pb-24 px-5 sm:px-6 max-w-3xl lg:max-w-4xl mx-auto">
         <BolgeMakaleView makale={makale} siblings={siblings} />
-        <p className="mt-10 text-center text-xs text-charcoal/40">
+        <p className="mt-10 text-center text-xs text-ink-muted">
           Tüm yazılar:{' '}
-          <Link href="/bolge-yazi" className="text-accent font-semibold hover:underline">
+          <Link href="/bolge-yazi" className="text-accent-ink font-semibold hover:underline">
             /bolge-yazi
           </Link>
           {' · '}

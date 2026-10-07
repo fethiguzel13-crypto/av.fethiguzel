@@ -57,20 +57,20 @@ export default function BolgeYaziHubPage() {
                 { ad: 'Bölge yazıları', yol: '/bolge-yazi' },
             ]}
         />
-        <p className="text-accent font-mono text-[10px] tracking-[0.2em] uppercase mb-3">
+        <p className="text-accent-ink font-mono text-[10px] tracking-[0.2em] uppercase mb-3">
           Deneme dizisi · fotoğraflı
         </p>
         <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal mb-4">
           Bölge yazıları
         </h1>
-        <p className="text-charcoal/60 text-base sm:text-lg leading-relaxed mb-3 max-w-2xl">
+        <p className="text-ink-muted text-base sm:text-lg leading-relaxed mb-3 max-w-2xl">
           Van Gölü havzası, Bitlis vadisi, Ağrı ovası… Burada “Tatvan avukat” türü eşleştirme yok.
           Her yazı, bir yerin rüzgârını, taşını veya belleğini anlatır; hukuki izler metnin içinde
           yeri geldikçe belirir.
         </p>
-        <p className="text-sm text-charcoal/50 mb-10">
+        <p className="text-sm text-ink-muted mb-10">
           {BOLGE_MAKALELER.length} deneme · iş edinme / reklam metni değildir ·{' '}
-          <Link href="/bilgi" className="text-accent font-semibold hover:underline">
+          <Link href="/bilgi" className="text-accent-ink font-semibold hover:underline">
             vatandaş rehberi
           </Link>
         </p>
@@ -98,16 +98,16 @@ export default function BolgeYaziHubPage() {
                       />
                     </div>
                     <div className="flex flex-col justify-center min-w-0 py-1">
-                      <p className="text-[10px] font-mono uppercase tracking-wider text-accent mb-1">
+                      <p className="text-[10px] font-mono uppercase tracking-wider text-accent-ink mb-1">
                         {m.eyebrow}
                       </p>
                       <h3 className="font-heading font-bold text-charcoal group-hover:text-accent leading-snug">
                         {m.h1}
                       </h3>
-                      <p className="text-sm text-charcoal/55 mt-1.5 leading-relaxed line-clamp-2">
+                      <p className="text-sm text-ink-muted mt-1.5 leading-relaxed line-clamp-2">
                         {m.description}
                       </p>
-                      <p className="text-[11px] text-charcoal/40 mt-2 flex items-center gap-1">
+                      <p className="text-[11px] text-ink-muted mt-2 flex items-center gap-1">
                         <BookOpen size={12} /> ~{m.okumaDk} dk · {m.kategori} · {m.updated}
                       </p>
                     </div>

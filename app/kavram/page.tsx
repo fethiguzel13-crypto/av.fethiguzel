@@ -24,13 +24,13 @@ export default function KavramHubPage() {
                         { ad: 'Kavramlar', yol: '/kavram' },
                     ]}
                 />
-                <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
+                <p className="text-accent-ink font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
                     Kavram sözlüğü
                 </p>
                 <h1 className="text-3xl sm:text-4xl md:text-5xl font-heading font-bold text-charcoal mb-4">
                     Hukuki kavramlar
                 </h1>
-                <p className="text-charcoal/60 text-sm sm:text-base leading-relaxed mb-10 max-w-2xl">
+                <p className="text-ink-muted text-sm sm:text-base leading-relaxed mb-10 max-w-2xl">
                     Forum, arama ve günlük sorular için kısa, reklam yasağına uygun bilgilendirme
                     sayfaları. Her kavramda kopyalanabilir mini cevap, ilgili madde ve hesaplama aracı
                     bulunur.
@@ -48,7 +48,7 @@ export default function KavramHubPage() {
                                         <h2 className="font-heading font-bold text-charcoal mb-1">
                                             {k.baslik}
                                         </h2>
-                                        <p className="text-xs text-charcoal/55 leading-relaxed line-clamp-2">
+                                        <p className="text-xs text-ink-muted leading-relaxed line-clamp-2">
                                             {k.ozet}
                                         </p>
                                     </div>
@@ -57,7 +57,7 @@ export default function KavramHubPage() {
                         </li>
                     ))}
                 </ul>
-                <p className="mt-10 text-[11px] text-charcoal/40">
+                <p className="mt-10 text-[11px] text-ink-muted">
                     Bilgilendirme amaçlıdır · Sonuç vaadi yoktur ·{' '}
                     <Link href="/ara" className="text-accent font-semibold">
                         Mevzuatta ara

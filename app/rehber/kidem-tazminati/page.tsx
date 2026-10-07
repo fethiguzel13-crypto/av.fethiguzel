@@ -23,7 +23,7 @@ export default function KidemRehberPage() {
                         { ad: 'Kıdem tazminatı', yol: '/rehber/kidem-tazminati' },
                     ]}
                 />
-                <p className="text-accent text-xs font-bold tracking-widest uppercase mb-3">Rehber · bilgilendirme</p>
+                <p className="text-accent-ink text-xs font-bold tracking-widest uppercase mb-3">Rehber · bilgilendirme</p>
                 <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal mb-6">
                     Kıdem tazminatı — genel çerçeve
                 </h1>
@@ -42,24 +42,24 @@ export default function KidemRehberPage() {
                 <h2 className="text-xl font-heading font-bold text-charcoal mt-10 mb-3">Araçlar ve mevzuat</h2>
                 <ul className="list-disc pl-5 text-charcoal/65 space-y-2 mb-8">
                     <li>
-                        <Link href="/hesaplama#kidem" className="text-accent font-semibold hover:underline">
+                        <Link href="/hesaplama#kidem" className="text-accent-ink font-semibold hover:underline">
                             Kıdem & ihbar hesaplama
                         </Link>
                     </li>
                     <li>
-                        <Link href="/kategori/is-kanunu" className="text-accent font-semibold hover:underline">
+                        <Link href="/kategori/is-kanunu" className="text-accent-ink font-semibold hover:underline">
                             İş Kanunu maddeleri ve şerhler
                         </Link>
                     </li>
                 </ul>
-                <p className="text-sm text-charcoal/50 border-t border-charcoal/10 pt-6">
+                <p className="text-sm text-ink-muted border-t border-charcoal/10 pt-6">
                     {PROFILE.name} · {PROFILE.office.locality}/{PROFILE.office.region} ·{' '}
                     <a href={`mailto:${PROFILE.email}`} className="text-accent font-semibold">
                         {PROFILE.email}
                     </a>
                 </p>
                 <p className="mt-6">
-                    <Link href="/rehber" className="text-accent font-bold hover:underline">
+                    <Link href="/rehber" className="text-accent-ink font-bold hover:underline">
                         ← Tüm rehberler
                     </Link>
                 </p>

@@ -23,7 +23,7 @@ export default function ArabuluculukRehberPage() {
                         { ad: 'Arabuluculuk', yol: '/rehber/arabuluculuk' },
                     ]}
                 />
-                <p className="text-accent text-xs font-bold tracking-widest uppercase mb-3">Rehber · bilgilendirme</p>
+                <p className="text-accent-ink text-xs font-bold tracking-widest uppercase mb-3">Rehber · bilgilendirme</p>
                 <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal mb-6">
                     Arabuluculuk nedir?
                 </h1>
@@ -42,12 +42,12 @@ export default function ArabuluculukRehberPage() {
                 </ol>
                 <p className="text-charcoal/65 leading-relaxed mb-8">
                     Mevzuat ve şerh için:{' '}
-                    <Link href="/kategori/arabuluculuk" className="text-accent font-semibold hover:underline">
+                    <Link href="/kategori/arabuluculuk" className="text-accent-ink font-semibold hover:underline">
                         Arabuluculuk Kanunu kategorisi
                     </Link>
                     .
                 </p>
-                <p className="text-sm text-charcoal/50 border-t border-charcoal/10 pt-6">
+                <p className="text-sm text-ink-muted border-t border-charcoal/10 pt-6">
                     İletişim:{' '}
                     <a href={`mailto:${PROFILE.email}`} className="text-accent font-semibold">
                         {PROFILE.email}
@@ -55,7 +55,7 @@ export default function ArabuluculukRehberPage() {
                     · Ofis: {PROFILE.office.locality} / {PROFILE.office.region}
                 </p>
                 <p className="mt-6">
-                    <Link href="/rehber" className="text-accent font-bold hover:underline">
+                    <Link href="/rehber" className="text-accent-ink font-bold hover:underline">
                         ← Tüm rehberler
                     </Link>
                 </p>

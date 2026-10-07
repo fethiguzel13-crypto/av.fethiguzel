@@ -114,13 +114,13 @@ export default async function HesaplamaSlugPage({ params }: Props) {
                         ]}
                     />
 
-                    <p className="text-accent font-mono text-[10px] tracking-widest uppercase mb-2">
+                    <p className="text-accent-ink font-mono text-[10px] tracking-widest uppercase mb-2">
                         {meta.icon} {meta.tag}
                     </p>
                     <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-charcoal mb-3 leading-tight">
                         {meta.baslik}
                     </h1>
-                    <p className="text-charcoal/55 text-sm sm:text-base leading-relaxed mb-4 max-w-2xl">
+                    <p className="text-ink-muted text-sm sm:text-base leading-relaxed mb-4 max-w-2xl">
                         {meta.aciklama}
                     </p>
 
@@ -136,7 +136,7 @@ export default async function HesaplamaSlugPage({ params }: Props) {
                                 </h2>
                                 <Link
                                     href={`/kavram/${kavram.slug}`}
-                                    className="text-sm font-bold text-accent hover:underline"
+                                    className="text-sm font-bold text-accent-ink hover:underline"
                                 >
                                     {kavram.baslik} sayfası →
                                 </Link>
@@ -159,7 +159,7 @@ export default async function HesaplamaSlugPage({ params }: Props) {
                                 </li>
                             ))}
                         </ul>
-                        <p className="mt-4 text-[11px] text-charcoal/40 leading-relaxed">
+                        <p className="mt-4 text-[11px] text-ink-muted leading-relaxed">
                             Bu sayfa bilgilendirme amaçlıdır; resmî tavsiye veya vekâlet yerine geçmez.
                             Somut uyuşmazlıklarda avukata danışınız. Sonuç vaadi yoktur.
                         </p>
@@ -170,7 +170,7 @@ export default async function HesaplamaSlugPage({ params }: Props) {
                             <h2 className="text-lg font-heading font-bold text-charcoal mb-2">
                                 Vatandaş rehberi — derin okuma
                             </h2>
-                            <p className="text-sm text-charcoal/55 mb-4 leading-relaxed">
+                            <p className="text-sm text-ink-muted mb-4 leading-relaxed">
                                 Hesap yalnızca rakam üretir. Süreç, şart ve riskler için ilgili bilgilendirme
                                 sayfalarına bakın (bilgilendirme; somut dosyada avukata danışın).
                             </p>
@@ -192,7 +192,7 @@ export default async function HesaplamaSlugPage({ params }: Props) {
                             <p className="mt-3">
                                 <Link
                                     href="/bilgi"
-                                    className="text-xs font-bold text-accent hover:underline"
+                                    className="text-xs font-bold text-accent-ink hover:underline"
                                 >
                                     Tüm vatandaş rehberleri (550+) →
                                 </Link>
@@ -246,16 +246,16 @@ export default async function HesaplamaSlugPage({ params }: Props) {
                     <div className="mt-10 flex flex-wrap gap-3">
                         <Link
                             href="/hesaplama"
-                            className="text-sm font-bold text-accent hover:underline"
+                            className="text-sm font-bold text-accent-ink hover:underline"
                         >
                             ← Tüm hesaplama araçları ({HESAPLAMA_ARACLAR.length})
                         </Link>
-                        <Link href="/on-form" className="text-sm font-bold text-charcoal/50 hover:text-accent">
+                        <Link href="/on-form" className="text-sm font-bold text-ink-muted hover:text-accent">
                             Ön değerlendirme formu
                         </Link>
                         <Link
                             href="/tarife-guncellemeleri"
-                            className="text-sm font-bold text-charcoal/50 hover:text-accent"
+                            className="text-sm font-bold text-ink-muted hover:text-accent"
                         >
                             Tarife güncellemeleri
                         </Link>

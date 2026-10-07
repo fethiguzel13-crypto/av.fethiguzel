@@ -23,9 +23,9 @@ export default function SozlesmePage() {
               { ad: 'Arşiv üyeliği', yol: '/uyelik' },
               { ad: 'Mesafeli satış sözleşmesi', yol: '/uyelik/sozlesme' },
             ]}
-            className="text-[11px] text-charcoal/40 flex flex-wrap gap-1.5"
+            className="text-[11px] text-ink-muted flex flex-wrap gap-1.5"
           />
-          <p className="text-accent text-xs font-bold tracking-widest uppercase">Yasal</p>
+          <p className="text-accent-ink text-xs font-bold tracking-widest uppercase">Yasal</p>
           <h1 className="text-3xl font-heading font-bold text-charcoal">
             Mesafeli satış sözleşmesi
           </h1>

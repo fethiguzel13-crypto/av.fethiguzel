@@ -22,7 +22,7 @@ export default function LanguageSwitcher({ className = '' }: { className?: strin
             className={`min-w-[2.5rem] rounded-full px-2.5 py-1 text-[11px] font-bold tracking-wide transition-colors ${
               active
                 ? 'bg-charcoal text-cream'
-                : 'text-charcoal/50 hover:text-charcoal/80'
+                : 'text-ink-muted hover:text-charcoal/80'
             }`}
             aria-pressed={active}
             lang={code}

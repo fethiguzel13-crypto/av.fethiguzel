@@ -64,9 +64,9 @@ export default function SiteHaritasiPage() {
                     ]}
                 />
                 <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal mb-3">Site haritası</h1>
-                <p className="text-charcoal/55 text-sm mb-10 max-w-2xl">
+                <p className="text-ink-muted text-sm mb-10 max-w-2xl">
                     {PROFILE.name} Hukuk Portalı — kullanıcı dostu HTML harita. Makine okunur XML:{' '}
-                    <a href="/sitemap.xml" className="text-accent font-semibold hover:underline">
+                    <a href="/sitemap.xml" className="text-accent-ink font-semibold hover:underline">
                         /sitemap.xml
                     </a>
                 </p>
@@ -118,7 +118,7 @@ export default function SiteHaritasiPage() {
                     <h2 className="text-lg font-heading font-bold text-charcoal mb-4">
                         Vatandaş bilgi rehberi ({PUBLISHED_ARTICLES.length})
                     </h2>
-                    <p className="text-xs text-charcoal/45 mb-3">
+                    <p className="text-xs text-ink-muted mb-3">
                         Ana sayfada öne çıkarılmaz; Google ve bu harita üzerinden erişilir.
                     </p>
                     <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2 max-h-[36rem] overflow-y-auto pr-2">
@@ -136,7 +136,7 @@ export default function SiteHaritasiPage() {
                     <h2 className="text-lg font-heading font-bold text-charcoal mb-4">
                         Bölgesel hukuki bilgilendirme
                     </h2>
-                    <p className="text-xs text-charcoal/45 mb-3">
+                    <p className="text-xs text-ink-muted mb-3">
                         Reklam niteliğinde değildir; ana sayfada listelenmez.
                     </p>
                     <ul className="grid grid-cols-2 sm:grid-cols-3 gap-2">

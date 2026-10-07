@@ -22,7 +22,7 @@ export default function YargiPaywall({
 
   return (
     <section className={`rounded-[2rem] bg-charcoal text-cream ${compact ? 'p-6 sm:p-8' : 'p-8 sm:p-12'}`}>
-      <p className="text-[11px] font-mono uppercase tracking-widest text-accent mb-3 flex items-center gap-2">
+      <p className="text-[11px] font-mono uppercase tracking-widest text-accent-light mb-3 flex items-center gap-2">
         <Lock size={13} aria-hidden />
         Üyelik kapısı
       </p>
@@ -42,10 +42,10 @@ export default function YargiPaywall({
 
       <div className="mt-8 flex flex-wrap items-end gap-6">
         <div>
-          <p className="text-cream/40 text-[10px] uppercase tracking-widest font-bold">Aylık üyelik</p>
+          <p className="text-cream/55 text-[10px] uppercase tracking-widest font-bold">Aylık üyelik</p>
           <p className="text-4xl sm:text-5xl font-heading font-bold mt-1">
             {priceLabel()}
-            <span className="text-base font-sans font-semibold text-cream/45 ml-2">/ {UYELIK.periodDays} gün</span>
+            <span className="text-base font-sans font-semibold text-cream/55 ml-2">/ {UYELIK.periodDays} gün</span>
           </p>
         </div>
       </div>
@@ -84,7 +84,7 @@ export default function YargiPaywall({
           </>
         )}
       </div>
-      <p className="mt-5 text-[12px] leading-relaxed text-cream/40 max-w-xl">
+      <p className="mt-5 text-[12px] leading-relaxed text-cream/55 max-w-xl">
         Bu tutar avukatlık ücreti veya hukuki danışmanlık bedeli değildir; yalnızca
         dijital arşiv erişimidir. Mevzuat, rehber ve hesaplama araçları ücretsiz
         kalır.

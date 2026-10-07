@@ -88,16 +88,16 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
       ) : null}
 
       <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-3xl lg:max-w-4xl mx-auto">
-        <Kirinti ogeler={kirinti} className="mb-6 text-xs text-charcoal/40" ayracSinifi="mx-2" />
+        <Kirinti ogeler={kirinti} className="mb-6 text-xs text-ink-muted" ayracSinifi="mx-2" />
 
         <header className="mb-10">
-          <p className="text-accent font-mono text-[10px] sm:text-[11px] tracking-[0.2em] uppercase mb-3">
+          <p className="text-accent-ink font-mono text-[10px] sm:text-[11px] tracking-[0.2em] uppercase mb-3">
             {veri.eyebrow}
           </p>
           <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal leading-tight mb-4">
             {veri.h1}
           </h1>
-          <div className="flex flex-wrap items-center gap-2 text-xs text-charcoal/45 mb-6">
+          <div className="flex flex-wrap items-center gap-2 text-xs text-ink-muted mb-6">
             <span className="inline-flex items-center gap-1 rounded-full bg-charcoal/5 px-3 py-1">
               <MapPin size={12} className="text-accent" />
               {veri.yerlesim} · {veri.il}
@@ -163,7 +163,7 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
                     <BookOpen size={15} className="text-accent shrink-0" />
                     {l.label}
                   </span>
-                  <ArrowRight size={14} className="text-charcoal/30 group-hover:text-accent" />
+                  <ArrowRight size={14} className="text-ink-muted group-hover:text-accent" />
                 </Link>
               ))}
               {veri.links.map((l) => (
@@ -193,9 +193,9 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
               >
                 <summary className="cursor-pointer list-none p-4 sm:p-5 font-semibold text-sm text-charcoal flex justify-between gap-3">
                   {f.q}
-                  <span className="text-charcoal/30 group-open:rotate-45 transition-transform">+</span>
+                  <span className="text-ink-muted group-open:rotate-45 transition-transform">+</span>
                 </summary>
-                <p className="px-4 sm:px-5 pb-4 sm:pb-5 text-sm text-charcoal/60 leading-relaxed">{f.a}</p>
+                <p className="px-4 sm:px-5 pb-4 sm:pb-5 text-sm text-ink-muted leading-relaxed">{f.a}</p>
               </details>
             ))}
           </div>
@@ -207,20 +207,20 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
             <p className="text-sm text-charcoal/70 leading-relaxed mb-1">
               {PROFILE.name}
             </p>
-            <p className="text-sm text-charcoal/60 leading-relaxed">
+            <p className="text-sm text-ink-muted leading-relaxed">
               {PROFILE.office.streetLines.join(', ')}
               <br />
               {PROFILE.office.locality} / {PROFILE.office.region} {PROFILE.office.postalCode}
               <br />
               {PROFILE.office.landmark}
             </p>
-            <p className="text-xs text-charcoal/45 mt-3">
+            <p className="text-xs text-ink-muted mt-3">
               Kimlik ve adres bilgisi; iş edinme çağrısı veya sonuç vaadi değildir.{' '}
-              <Link href="/avukat-fethi-guzel" className="text-accent font-semibold hover:underline">
+              <Link href="/avukat-fethi-guzel" className="text-accent-ink font-semibold hover:underline">
                 Profil sayfası
               </Link>
               {' · '}
-              <Link href="/on-form" className="text-accent font-semibold hover:underline">
+              <Link href="/on-form" className="text-accent-ink font-semibold hover:underline">
                 Ön değerlendirme formu
               </Link>
             </p>
@@ -229,22 +229,22 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
 
         <section className="mb-10 rounded-2xl border border-charcoal/[0.08] bg-white p-6">
           <h2 className="text-base font-heading font-bold text-charcoal mb-2">Kaynak ve iletişim</h2>
-          <p className="text-sm text-charcoal/60 leading-relaxed mb-4">
+          <p className="text-sm text-ink-muted leading-relaxed mb-4">
             İçerik, açık mevzuat ve genel uygulama bilgisine dayanır. Yazar:{' '}
-            <Link href="/avukat-fethi-guzel" className="text-accent font-semibold hover:underline">
+            <Link href="/avukat-fethi-guzel" className="text-accent-ink font-semibold hover:underline">
               {PROFILE.name}
             </Link>
             . Akademik arka plan için{' '}
-            <Link href="/akademik-profil" className="text-accent font-semibold hover:underline">
+            <Link href="/akademik-profil" className="text-accent-ink font-semibold hover:underline">
               akademik profil
             </Link>
             ; tüm vatandaş rehberleri için{' '}
-            <Link href="/bilgi" className="text-accent font-semibold hover:underline">
+            <Link href="/bilgi" className="text-accent-ink font-semibold hover:underline">
               /bilgi
             </Link>
             .
           </p>
-          <p className="text-xs text-charcoal/45">
+          <p className="text-xs text-ink-muted">
             Ofis adresi profil sayfasındadır. Bu sayfa konum bazlı reklam değildir.
           </p>
         </section>
@@ -259,7 +259,7 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
               <h2 className="text-lg font-heading font-bold text-charcoal mb-3">
                 {veri.yerlesim} ve çevresi — bölge yazıları
               </h2>
-              <p className="text-sm text-charcoal/50 mb-4">
+              <p className="text-sm text-ink-muted mb-4">
                 Mekânın ruhu, tarih ve bellek — fotoğraflı denemeler (reklam değil).
               </p>
               <ul className="space-y-2">
@@ -267,7 +267,7 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
                   <li key={m.slug}>
                     <Link
                       href={`/bolge-yazi/${m.slug}`}
-                      className="text-sm font-semibold text-accent hover:underline"
+                      className="text-sm font-semibold text-accent-ink hover:underline"
                     >
                       {m.h1}
                     </Link>
@@ -276,7 +276,7 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
               </ul>
               <Link
                 href="/bolge-yazi"
-                className="inline-block mt-4 text-xs font-bold text-charcoal/50 hover:text-accent"
+                className="inline-block mt-4 text-xs font-bold text-ink-muted hover:text-accent"
               >
                 Tüm bölge yazıları →
               </Link>
@@ -286,7 +286,7 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
 
         {other.length > 0 && (
           <section>
-            <h2 className="text-sm font-bold text-charcoal/50 uppercase tracking-wider mb-3">
+            <h2 className="text-sm font-bold text-ink-muted uppercase tracking-wider mb-3">
               Diğer bölgesel bilgilendirmeler
             </h2>
             <div className="flex flex-wrap gap-2">

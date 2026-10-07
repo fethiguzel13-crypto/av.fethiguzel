@@ -42,10 +42,8 @@ const ibmPlex = IBM_Plex_Mono({
 const siteUrl = 'https://www.avfethiguzel.com'
 
 export const viewport: Viewport = {
-  themeColor: [
-    { media: '(prefers-color-scheme: light)', color: '#F2F0E9' },
-    { media: '(prefers-color-scheme: dark)', color: '#1A1A1A' },
-  ],
+  // Site yalnız açık temadadır (G15, soru 21); koyu sistem temasında da çubuk sayfayla aynı krem kalır.
+  themeColor: '#F2F0E9',
   width: 'device-width',
   initialScale: 1,
   maximumScale: 5,

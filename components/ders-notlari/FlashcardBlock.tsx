@@ -10,7 +10,7 @@ export function FlashcardBlock({ cards }: { cards: NoteFlashcard[] }) {
     const c = cards[i];
     return (
         <div className="my-6 print:break-inside-avoid">
-            <p className="text-[10px] font-mono uppercase tracking-[0.14em] text-accent font-bold mb-2">
+            <p className="text-[10px] font-mono uppercase tracking-[0.14em] text-accent-ink font-bold mb-2">
                 Bilgi kartı {i + 1} / {cards.length}
             </p>
             <button
@@ -18,7 +18,7 @@ export function FlashcardBlock({ cards }: { cards: NoteFlashcard[] }) {
                 onClick={() => setBack((v) => !v)}
                 className="w-full text-left rounded-2xl border border-charcoal/10 bg-white p-5 shadow-sm min-h-[7rem]"
             >
-                <p className="text-[10px] font-mono uppercase tracking-wider text-charcoal/40 mb-2">
+                <p className="text-[10px] font-mono uppercase tracking-wider text-ink-muted mb-2">
                     {back ? 'Arka yüz' : 'Ön yüz'} · çevirmek için tıkla
                 </p>
                 <p className="text-sm sm:text-base text-charcoal leading-relaxed m-0">

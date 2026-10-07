@@ -31,15 +31,15 @@ export function MermaidBlock({ title, diagram }: { title: string; diagram: strin
 
     return (
         <figure className="my-8 rounded-2xl border border-charcoal/10 bg-white p-5 shadow-sm overflow-x-auto">
-            <figcaption className="text-[11px] font-mono uppercase tracking-[0.14em] text-accent mb-4 font-bold">
+            <figcaption className="text-[11px] font-mono uppercase tracking-[0.14em] text-accent-ink mb-4 font-bold">
                 Süreç · {title}
             </figcaption>
             {svg ? (
                 <div className="mermaid-svg [&_svg]:max-w-full" dangerouslySetInnerHTML={{ __html: svg }} />
             ) : err ? (
-                <pre className="text-xs text-charcoal/60 whitespace-pre-wrap m-0">{diagram}</pre>
+                <pre className="text-xs text-ink-muted whitespace-pre-wrap m-0">{diagram}</pre>
             ) : (
-                <p className="text-xs text-charcoal/40 m-0">Diyagram yükleniyor…</p>
+                <p className="text-xs text-ink-muted m-0">Diyagram yükleniyor…</p>
             )}
         </figure>
     );

@@ -60,13 +60,13 @@ export default function OnFormPage() {
             <Navbar />
             <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-xl mx-auto">
                 <Kirinti ogeler={[{ ad: 'Ön form', yol: '/on-form' }]} />
-                <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
+                <p className="text-accent-ink font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
                     Ön değerlendirme
                 </p>
                 <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal mb-3">
                     Müvekkil ön formu
                 </h1>
-                <p className="text-charcoal/55 text-sm leading-relaxed mb-8">
+                <p className="text-ink-muted text-sm leading-relaxed mb-8">
                     Form, e-posta uygulamanızı açar; veriler tarayıcınızda kalır, sunucuya kaydedilmez.
                     Sonuç vaadi yoktur. Acil durumlarda doğrudan e-posta:{' '}
                     <a href={`mailto:${PROFILE.email}`} className="text-accent font-semibold">
@@ -83,7 +83,7 @@ export default function OnFormPage() {
                     }}
                 >
                     <label className="block">
-                        <span className="text-xs font-bold text-charcoal/50 uppercase tracking-wider">
+                        <span className="text-xs font-bold text-ink-muted uppercase tracking-wider">
                             Ad soyad *
                         </span>
                         <input
@@ -94,7 +94,7 @@ export default function OnFormPage() {
                         />
                     </label>
                     <label className="block">
-                        <span className="text-xs font-bold text-charcoal/50 uppercase tracking-wider">
+                        <span className="text-xs font-bold text-ink-muted uppercase tracking-wider">
                             E-posta *
                         </span>
                         <input
@@ -106,7 +106,7 @@ export default function OnFormPage() {
                         />
                     </label>
                     <label className="block">
-                        <span className="text-xs font-bold text-charcoal/50 uppercase tracking-wider">
+                        <span className="text-xs font-bold text-ink-muted uppercase tracking-wider">
                             Telefon
                         </span>
                         <input
@@ -116,7 +116,7 @@ export default function OnFormPage() {
                         />
                     </label>
                     <label className="block">
-                        <span className="text-xs font-bold text-charcoal/50 uppercase tracking-wider">
+                        <span className="text-xs font-bold text-ink-muted uppercase tracking-wider">
                             Şehir
                         </span>
                         <input
@@ -127,7 +127,7 @@ export default function OnFormPage() {
                         />
                     </label>
                     <label className="block">
-                        <span className="text-xs font-bold text-charcoal/50 uppercase tracking-wider">
+                        <span className="text-xs font-bold text-ink-muted uppercase tracking-wider">
                             Konu
                         </span>
                         <select
@@ -143,7 +143,7 @@ export default function OnFormPage() {
                         </select>
                     </label>
                     <label className="block">
-                        <span className="text-xs font-bold text-charcoal/50 uppercase tracking-wider">
+                        <span className="text-xs font-bold text-ink-muted uppercase tracking-wider">
                             Olay özeti * (en az 30 karakter)
                         </span>
                         <textarea
@@ -155,7 +155,7 @@ export default function OnFormPage() {
                             className="mt-1 w-full border border-charcoal/15 rounded-xl px-4 py-2.5 text-sm bg-white"
                         />
                     </label>
-                    <label className="flex gap-2 items-start text-sm text-charcoal/60">
+                    <label className="flex gap-2 items-start text-sm text-ink-muted">
                         <input
                             type="checkbox"
                             checked={kvkk}
@@ -178,7 +178,7 @@ export default function OnFormPage() {
                     </button>
                 </form>
 
-                <p className="mt-6 text-[11px] text-charcoal/40 leading-relaxed">
+                <p className="mt-6 text-[11px] text-ink-muted leading-relaxed">
                     Reklam yasağına uygun bilgilendirme formu · Ücret teklifi veya sonuç vaadi içermez ·{' '}
                     <Link href="/yasal-uyari" className="underline">
                         Yasal uyarı

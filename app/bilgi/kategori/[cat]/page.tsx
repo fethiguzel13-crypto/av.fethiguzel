@@ -73,7 +73,7 @@ export default async function BilgiKategoriPage({ params }: Props) {
         <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal mb-3">
           {cat}
         </h1>
-        <p className="text-charcoal/55 text-sm mb-8 max-w-2xl">
+        <p className="text-ink-muted text-sm mb-8 max-w-2xl">
           {items.filter((a) => a.role === 'pillar').length
             ? 'Önce ana rehberleri okuyun; alt konular tek bir soruya cevap verir.'
             : 'Bu konudaki kısa rehberler. Somut dosyada süre ve merci değişebilir.'}
@@ -90,9 +90,9 @@ export default async function BilgiKategoriPage({ params }: Props) {
                   <div>
                     <h2 className="text-sm font-semibold text-charcoal leading-snug mb-1">{a.h1}</h2>
                     {a.role === 'pillar' && (
-                      <span className="text-[9px] uppercase font-mono text-accent">Ana rehber</span>
+                      <span className="text-[9px] uppercase font-mono text-accent-ink">Ana rehber</span>
                     )}
-                    <p className="text-xs text-charcoal/55 line-clamp-2 mt-1">{a.description}</p>
+                    <p className="text-xs text-ink-muted line-clamp-2 mt-1">{a.description}</p>
                   </div>
                 </div>
               </Link>
@@ -100,7 +100,7 @@ export default async function BilgiKategoriPage({ params }: Props) {
           ))}
         </ul>
         <p className="mt-10">
-          <Link href="/bilgi" className="text-sm font-bold text-accent hover:underline">
+          <Link href="/bilgi" className="text-sm font-bold text-accent-ink hover:underline">
             ← Tüm vatandaş rehberleri
           </Link>
         </p>

@@ -17,7 +17,7 @@ const SITE = 'https://www.avfethiguzel.com';
 function ProcessDiagram({ title, steps }: { title: string; steps: string[] }) {
   return (
     <figure className="my-8 rounded-2xl border border-charcoal/10 bg-white p-5 sm:p-6 shadow-sm overflow-hidden">
-      <figcaption className="text-[11px] font-mono uppercase tracking-[0.14em] text-accent mb-5 font-bold">
+      <figcaption className="text-[11px] font-mono uppercase tracking-[0.14em] text-accent-ink mb-5 font-bold">
         Şekil · {title}
       </figcaption>
       <div className="flex flex-col gap-0">
@@ -52,7 +52,7 @@ function CompareDiagram({
 }) {
   return (
     <figure className="my-8 rounded-2xl border border-charcoal/10 bg-white shadow-sm overflow-x-auto">
-      <figcaption className="px-5 pt-5 text-[11px] font-mono uppercase tracking-[0.14em] text-accent font-bold">
+      <figcaption className="px-5 pt-5 text-[11px] font-mono uppercase tracking-[0.14em] text-accent-ink font-bold">
         Tablo · {title}
       </figcaption>
       <table className="w-full text-sm mt-3 min-w-[320px]">
@@ -99,12 +99,12 @@ function ForkDiagram({
 }) {
   return (
     <figure className="my-8">
-      <p className="text-[11px] font-mono uppercase tracking-[0.14em] text-accent font-bold mb-3">
+      <p className="text-[11px] font-mono uppercase tracking-[0.14em] text-accent-ink font-bold mb-3">
         Ayrım · {title}
       </p>
       <div className="grid sm:grid-cols-2 gap-3">
         <div className="rounded-2xl border-2 border-accent/30 bg-gradient-to-br from-accent/10 to-white p-5">
-          <p className="text-[10px] font-mono uppercase tracking-wider text-accent font-bold mb-2">{leftTitle}</p>
+          <p className="text-[10px] font-mono uppercase tracking-wider text-accent-ink font-bold mb-2">{leftTitle}</p>
           <p className="text-sm text-charcoal/80 leading-relaxed m-0">{left}</p>
         </div>
         <div className="rounded-2xl border-2 border-primary/25 bg-gradient-to-br from-primary/10 to-white p-5">
@@ -127,7 +127,7 @@ function MindmapDiagram({
 }) {
   return (
     <figure className="my-8 rounded-2xl border border-charcoal/10 bg-white p-5 sm:p-7 shadow-sm">
-      <figcaption className="text-[11px] font-mono uppercase tracking-[0.14em] text-accent font-bold mb-6">
+      <figcaption className="text-[11px] font-mono uppercase tracking-[0.14em] text-accent-ink font-bold mb-6">
         Zihin haritası · {title}
       </figcaption>
       <div className="flex flex-col items-center gap-4">
@@ -141,7 +141,7 @@ function MindmapDiagram({
               key={b.label}
               className="rounded-xl border border-charcoal/10 bg-charcoal/[0.02] p-3 sm:p-4"
             >
-              <p className="text-xs font-bold text-accent mb-2 border-b border-accent/20 pb-1.5">{b.label}</p>
+              <p className="text-xs font-bold text-accent-ink mb-2 border-b border-accent/20 pb-1.5">{b.label}</p>
               <ul className="m-0 p-0 list-none space-y-1">
                 {b.items.map((it) => (
                   <li key={it} className="text-[12px] sm:text-xs text-charcoal/70 flex gap-1.5">
@@ -161,14 +161,14 @@ function MindmapDiagram({
 function CycleDiagram({ title, steps }: { title: string; steps: string[] }) {
   return (
     <figure className="my-8 rounded-2xl border border-charcoal/10 bg-white p-5 sm:p-6 shadow-sm">
-      <figcaption className="text-[11px] font-mono uppercase tracking-[0.14em] text-accent font-bold mb-5">
+      <figcaption className="text-[11px] font-mono uppercase tracking-[0.14em] text-accent-ink font-bold mb-5">
         Döngü · {title}
       </figcaption>
       <div className="flex flex-wrap items-center justify-center gap-2">
         {steps.map((s, i) => (
           <div key={i} className="flex items-center gap-2">
             <div className="rounded-full border-2 border-accent/40 bg-accent/5 px-4 py-2.5 text-xs sm:text-sm font-semibold text-charcoal text-center min-w-[4.5rem]">
-              <span className="block text-[10px] text-accent font-mono mb-0.5">{i + 1}</span>
+              <span className="block text-[10px] text-accent-ink font-mono mb-0.5">{i + 1}</span>
               {s}
             </div>
             {i < steps.length - 1 && (
@@ -187,7 +187,7 @@ function CycleDiagram({ title, steps }: { title: string; steps: string[] }) {
 function LadderDiagram({ title, levels }: { title: string; levels: string[] }) {
   return (
     <figure className="my-8 rounded-2xl border border-charcoal/10 bg-white p-5 sm:p-6 shadow-sm">
-      <figcaption className="text-[11px] font-mono uppercase tracking-[0.14em] text-accent font-bold mb-5">
+      <figcaption className="text-[11px] font-mono uppercase tracking-[0.14em] text-accent-ink font-bold mb-5">
         Merdiven · {title}
       </figcaption>
       <ol className="m-0 p-0 list-none space-y-2">
@@ -319,13 +319,13 @@ export function DersNotuView({
           { ad: hub.uni.shortName, yol: `/ders-notlari/${note.uniSlug}` },
           { ad: note.h1 || note.courseCode, yol: `/ders-notlari/${note.uniSlug}/${note.courseCode}` },
         ]}
-        className="text-[11px] text-charcoal/40 mb-5 flex flex-wrap gap-1.5 print:hidden"
+        className="text-[11px] text-ink-muted mb-5 flex flex-wrap gap-1.5 print:hidden"
       />
 
       {/* Hero band */}
       <div className="mb-8 rounded-3xl border border-charcoal/10 overflow-hidden bg-white shadow-sm">
         <div className="bg-gradient-to-br from-charcoal via-charcoal to-[#2a2520] px-5 sm:px-8 py-7 sm:py-9 text-cream">
-          <p className="text-accent font-mono text-[10px] tracking-[0.2em] uppercase mb-3">
+          <p className="text-accent-ink font-mono text-[10px] tracking-[0.2em] uppercase mb-3">
             Ücretsiz ders notu · {hub.uni.city} · {hub.uni.shortName}
             {note.qualityTier === 'curated'
               ? ' · elden geçirilmiş'
@@ -413,12 +413,12 @@ export function DersNotuView({
                 { code: 'borclar-ozel-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
               ],
               footer: (
-                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                <p className="text-[11px] text-ink-muted mt-3 m-0">
                   Genel hükümler için:{' '}
                   <NotBaglantisi
                     uni={note.uniSlug}
                     code="borclar-genel-yillik"
-                    className="text-accent font-semibold hover:underline"
+                    className="text-accent-ink font-semibold hover:underline"
                   >
                     Borçlar Genel yıllık
                   </NotBaglantisi>
@@ -497,12 +497,12 @@ export function DersNotuView({
                 { code: 'icra-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
               ],
               footer: (
-                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                <p className="text-[11px] text-ink-muted mt-3 m-0">
                   İflas / konkordato için:{' '}
                   <NotBaglantisi
                     uni={note.uniSlug}
                     code="iflas-yillik"
-                    className="text-accent font-semibold hover:underline"
+                    className="text-accent-ink font-semibold hover:underline"
                   >
                     İflas Hukuku yıllık
                   </NotBaglantisi>
@@ -521,12 +521,12 @@ export function DersNotuView({
                 { code: 'iflas-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
               ],
               footer: (
-                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                <p className="text-[11px] text-ink-muted mt-3 m-0">
                   Ferdi takip / haciz için:{' '}
                   <NotBaglantisi
                     uni={note.uniSlug}
                     code="icra-yillik"
-                    className="text-accent font-semibold hover:underline"
+                    className="text-accent-ink font-semibold hover:underline"
                   >
                     İcra Hukuku yıllık
                   </NotBaglantisi>
@@ -593,12 +593,12 @@ export function DersNotuView({
                 { code: 'ceza-genel-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
               ],
               footer: (
-                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                <p className="text-[11px] text-ink-muted mt-3 m-0">
                   Somut suç tipleri için:{' '}
                   <NotBaglantisi
                     uni={note.uniSlug}
                     code="ceza-ozel-yillik"
-                    className="text-accent font-semibold hover:underline"
+                    className="text-accent-ink font-semibold hover:underline"
                   >
                     Ceza Özel yıllık
                   </NotBaglantisi>
@@ -617,12 +617,12 @@ export function DersNotuView({
                 { code: 'ceza-ozel-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
               ],
               footer: (
-                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                <p className="text-[11px] text-ink-muted mt-3 m-0">
                   Suç teorisi için:{' '}
                   <NotBaglantisi
                     uni={note.uniSlug}
                     code="ceza-genel-yillik"
-                    className="text-accent font-semibold hover:underline"
+                    className="text-accent-ink font-semibold hover:underline"
                   >
                     Ceza Genel yıllık
                   </NotBaglantisi>
@@ -641,12 +641,12 @@ export function DersNotuView({
                 { code: 'cmk-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
               ],
               footer: (
-                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                <p className="text-[11px] text-ink-muted mt-3 m-0">
                   Maddi ceza için:{' '}
                   <NotBaglantisi
                     uni={note.uniSlug}
                     code="ceza-genel-yillik"
-                    className="text-accent font-semibold hover:underline"
+                    className="text-accent-ink font-semibold hover:underline"
                   >
                     Ceza Genel
                   </NotBaglantisi>
@@ -654,7 +654,7 @@ export function DersNotuView({
                   <NotBaglantisi
                     uni={note.uniSlug}
                     code="ceza-ozel-yillik"
-                    className="text-accent font-semibold hover:underline"
+                    className="text-accent-ink font-semibold hover:underline"
                   >
                     Ceza Özel
                   </NotBaglantisi>
@@ -673,12 +673,12 @@ export function DersNotuView({
                 { code: 'idare-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
               ],
               footer: (
-                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                <p className="text-[11px] text-ink-muted mt-3 m-0">
                   İptal / tam yargı usulü için:{' '}
                   <NotBaglantisi
                     uni={note.uniSlug}
                     code="idari-yargilama-yillik"
-                    className="text-accent font-semibold hover:underline"
+                    className="text-accent-ink font-semibold hover:underline"
                   >
                     İdari Yargılama yıllık
                   </NotBaglantisi>
@@ -697,12 +697,12 @@ export function DersNotuView({
                 { code: 'idari-yargilama-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
               ],
               footer: (
-                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                <p className="text-[11px] text-ink-muted mt-3 m-0">
                   Maddi idare için:{' '}
                   <NotBaglantisi
                     uni={note.uniSlug}
                     code="idare-hukuku-yillik"
-                    className="text-accent font-semibold hover:underline"
+                    className="text-accent-ink font-semibold hover:underline"
                   >
                     İdare Hukuku yıllık
                   </NotBaglantisi>
@@ -721,12 +721,12 @@ export function DersNotuView({
                 { code: 'hukuk-felsefesi-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
               ],
               footer: (
-                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                <p className="text-[11px] text-ink-muted mt-3 m-0">
                   Toplumda hukukun işleyişi için:{' '}
                   <NotBaglantisi
                     uni={note.uniSlug}
                     code="hukuk-sosyolojisi-yillik"
-                    className="text-accent font-semibold hover:underline"
+                    className="text-accent-ink font-semibold hover:underline"
                   >
                     Hukuk Sosyolojisi yıllık
                   </NotBaglantisi>
@@ -856,12 +856,12 @@ export function DersNotuView({
                 { code: 'milletlerarasi-hukuk-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
               ],
               footer: (
-                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                <p className="text-[11px] text-ink-muted mt-3 m-0">
                   Yabancı unsurlu özel hukuk için:{' '}
                   <NotBaglantisi
                     uni={note.uniSlug}
                     code="devletler-ozel-yillik"
-                    className="text-accent font-semibold hover:underline"
+                    className="text-accent-ink font-semibold hover:underline"
                   >
                     MÖHUK yıllık
                   </NotBaglantisi>
@@ -880,12 +880,12 @@ export function DersNotuView({
                 { code: 'hukuk-sosyolojisi-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
               ],
               footer: (
-                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                <p className="text-[11px] text-ink-muted mt-3 m-0">
                   Ölçüt ve akımlar için:{' '}
                   <NotBaglantisi
                     uni={note.uniSlug}
                     code="hukuk-felsefesi-yillik"
-                    className="text-accent font-semibold hover:underline"
+                    className="text-accent-ink font-semibold hover:underline"
                   >
                     Hukuk Felsefesi yıllık
                   </NotBaglantisi>
@@ -904,12 +904,12 @@ export function DersNotuView({
                 { code: 'is-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
               ],
               footer: (
-                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                <p className="text-[11px] text-ink-muted mt-3 m-0">
                   Dava şartı arabuluculuk için:{' '}
                   <NotBaglantisi
                     uni={note.uniSlug}
                     code="arabuluculuk-yillik"
-                    className="text-accent font-semibold hover:underline"
+                    className="text-accent-ink font-semibold hover:underline"
                   >
                     Arabuluculuk yıllık
                   </NotBaglantisi>
@@ -928,12 +928,12 @@ export function DersNotuView({
                 { code: 'adli-tip-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
               ],
               footer: (
-                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                <p className="text-[11px] text-ink-muted mt-3 m-0">
                   Malpraktis ve hasta hakları için:{' '}
                   <NotBaglantisi
                     uni={note.uniSlug}
                     code="saglik-hukuku-yillik"
-                    className="text-accent font-semibold hover:underline"
+                    className="text-accent-ink font-semibold hover:underline"
                   >
                     Sağlık Hukuku yıllık
                   </NotBaglantisi>
@@ -941,7 +941,7 @@ export function DersNotuView({
                   <NotBaglantisi
                     uni={note.uniSlug}
                     code="cmk-yillik"
-                    className="text-accent font-semibold hover:underline"
+                    className="text-accent-ink font-semibold hover:underline"
                   >
                     CMK yıllık
                   </NotBaglantisi>
@@ -960,12 +960,12 @@ export function DersNotuView({
                 { code: 'deniz-ticareti-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
               ],
               footer: (
-                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                <p className="text-[11px] text-ink-muted mt-3 m-0">
                   Ticaret omurgası için:{' '}
                   <NotBaglantisi
                     uni={note.uniSlug}
                     code="ticari-isletme-yillik"
-                    className="text-accent font-semibold hover:underline"
+                    className="text-accent-ink font-semibold hover:underline"
                   >
                     Ticari İşletme yıllık
                   </NotBaglantisi>
@@ -973,7 +973,7 @@ export function DersNotuView({
                   <NotBaglantisi
                     uni={note.uniSlug}
                     code="sirketler-yillik"
-                    className="text-accent font-semibold hover:underline"
+                    className="text-accent-ink font-semibold hover:underline"
                   >
                     Şirketler yıllık
                   </NotBaglantisi>
@@ -992,12 +992,12 @@ export function DersNotuView({
                 { code: 'turk-hukuk-tarihi-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
               ],
               footer: (
-                <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                <p className="text-[11px] text-ink-muted mt-3 m-0">
                   Tarih–kavram omurgası için:{' '}
                   <NotBaglantisi
                     uni={note.uniSlug}
                     code="roma-hukuku-yillik"
-                    className="text-accent font-semibold hover:underline"
+                    className="text-accent-ink font-semibold hover:underline"
                   >
                     Roma Hukuku yıllık
                   </NotBaglantisi>
@@ -1005,7 +1005,7 @@ export function DersNotuView({
                   <NotBaglantisi
                     uni={note.uniSlug}
                     code="hukuka-giris-yillik"
-                    className="text-accent font-semibold hover:underline"
+                    className="text-accent-ink font-semibold hover:underline"
                   >
                     Hukuka Giriş yıllık
                   </NotBaglantisi>
@@ -1032,7 +1032,7 @@ export function DersNotuView({
           >
             {activePacks.map((pack) => (
               <div key={pack.title}>
-                <p className="text-[11px] font-mono uppercase tracking-wider text-accent font-bold mb-3">
+                <p className="text-[11px] font-mono uppercase tracking-wider text-accent-ink font-bold mb-3">
                   {pack.title}
                 </p>
                 <div className="grid sm:grid-cols-3 gap-2">
@@ -1048,10 +1048,10 @@ export function DersNotuView({
                           }`}
                       >
                         <span className="block font-semibold">{v.label}</span>
-                        <span className="block text-[11px] font-normal text-charcoal/50 mt-0.5">
+                        <span className="block text-[11px] font-normal text-ink-muted mt-0.5">
                           {v.desc}
                         </span>
-                        <span className="block text-[10px] text-accent mt-1.5 font-semibold">
+                        <span className="block text-[10px] text-accent-ink mt-1.5 font-semibold">
                           PDF → /{v.code}/pdf
                         </span>
                       </Link>
@@ -1077,7 +1077,7 @@ export function DersNotuView({
           <ol className="m-0 p-0 list-none space-y-2">
             {note.sixtySecond.map((line, i) => (
               <li key={i} className="flex gap-2.5 text-sm text-charcoal/75 leading-snug">
-                <span className="text-accent font-bold shrink-0">{i + 1}.</span>
+                <span className="text-accent-ink font-bold shrink-0">{i + 1}.</span>
                 <span>{line}</span>
               </li>
             ))}
@@ -1091,17 +1091,17 @@ export function DersNotuView({
           <h2 className="text-sm font-heading font-bold text-charcoal mb-3">Sınav kutusu</h2>
           <ul className="text-sm text-charcoal/70 space-y-2 m-0 p-0 list-none">
             <li>
-              <span className="text-charcoal/45 text-xs uppercase tracking-wide">Takvim</span>
+              <span className="text-ink-muted text-xs uppercase tracking-wide">Takvim</span>
               <br />
               <strong className="text-charcoal">{note.examBox.calendar}</strong>
             </li>
             <li>
-              <span className="text-charcoal/45 text-xs uppercase tracking-wide">Ağırlık (tipik)</span>
+              <span className="text-ink-muted text-xs uppercase tracking-wide">Ağırlık (tipik)</span>
               <br />
               {note.examBox.typicalWeights}
             </li>
             <li>
-              <span className="text-charcoal/45 text-xs uppercase tracking-wide">Format</span>
+              <span className="text-ink-muted text-xs uppercase tracking-wide">Format</span>
               <br />
               {note.examBox.format}
             </li>
@@ -1109,7 +1109,7 @@ export function DersNotuView({
           {note.examBox.tips?.length > 0 && (
             <ul className="mt-4 pt-3 border-t border-charcoal/[0.08] space-y-1 m-0 p-0 list-none">
               {note.examBox.tips.map((t) => (
-                <li key={t} className="text-xs text-charcoal/60 flex gap-1.5">
+                <li key={t} className="text-xs text-ink-muted flex gap-1.5">
                   <span className="text-accent">✓</span> {t}
                 </li>
               ))}
@@ -1121,7 +1121,7 @@ export function DersNotuView({
           <ul className="space-y-2 m-0 p-0 list-none">
             {note.learningOutcomes.map((o) => (
               <li key={o} className="flex gap-2 text-sm text-charcoal/75">
-                <span className="text-accent font-bold shrink-0">→</span> {o}
+                <span className="text-accent-ink font-bold shrink-0">→</span> {o}
               </li>
             ))}
           </ul>
@@ -1133,13 +1133,13 @@ export function DersNotuView({
         aria-label="İçindekiler"
         className="mb-10 rounded-2xl border border-charcoal/[0.08] bg-charcoal/[0.02] p-5 print:hidden"
       >
-        <p className="text-[11px] font-mono uppercase tracking-wider text-charcoal/45 mb-3 font-bold">
+        <p className="text-[11px] font-mono uppercase tracking-wider text-ink-muted mb-3 font-bold">
           İçindekiler
         </p>
         <ol className="m-0 p-0 list-none columns-1 sm:columns-2 gap-x-8 space-y-1.5">
           {toc.map((h, i) => (
             <li key={h} className="text-sm text-charcoal/70 break-inside-avoid">
-              <span className="text-accent font-mono text-xs mr-1.5">{i + 1}.</span>
+              <span className="text-accent-ink font-mono text-xs mr-1.5">{i + 1}.</span>
               {h.replace(/^\d+\.\s*/, '')}
             </li>
           ))}
@@ -1167,7 +1167,7 @@ export function DersNotuView({
             ))}
             {sec.hapBilgi && (
               <div className="my-4 rounded-xl border border-amber-400/40 bg-amber-50/80 px-4 py-3.5">
-                <p className="text-[10px] font-mono uppercase tracking-wider text-amber-800/80 font-bold mb-1">
+                <p className="text-[10px] font-mono uppercase tracking-wider text-amber-800 font-bold mb-1">
                   Hap bilgi
                 </p>
                 <p className="text-sm text-amber-950/80 leading-relaxed m-0">{sec.hapBilgi}</p>
@@ -1213,7 +1213,7 @@ export function DersNotuView({
                     key={b}
                     className="flex gap-2.5 rounded-xl border border-charcoal/[0.08] bg-white px-3.5 py-2.5 text-sm text-charcoal/75"
                   >
-                    <span className="text-accent font-bold shrink-0">•</span>
+                    <span className="text-accent-ink font-bold shrink-0">•</span>
                     <span className="leading-snug">{b}</span>
                   </li>
                 ))}
@@ -1239,7 +1239,7 @@ export function DersNotuView({
         <h2 className="text-xl sm:text-2xl font-heading font-bold text-charcoal mb-2">
           İşlenmiş örnek olaylar
         </h2>
-        <p className="text-sm text-charcoal/50 mb-5">
+        <p className="text-sm text-ink-muted mb-5">
           Her örnekte: olay → çözüm iskeleti → tek cümlelik çıkış. Kendi defterinizde yeniden yazın.
         </p>
         <div className="flex flex-col gap-5">
@@ -1256,18 +1256,18 @@ export function DersNotuView({
               </div>
               <div className="px-4 sm:px-5 py-4 space-y-3">
                 <div>
-                  <p className="text-[10px] font-mono uppercase tracking-wider text-charcoal/40 font-bold m-0 mb-1">
+                  <p className="text-[10px] font-mono uppercase tracking-wider text-ink-muted font-bold m-0 mb-1">
                     Olay
                   </p>
                   <p className="text-sm text-charcoal/70 leading-relaxed m-0">{ex.facts}</p>
                 </div>
                 <div className="rounded-xl bg-charcoal/[0.03] border border-charcoal/[0.08] px-3.5 py-3">
-                  <p className="text-[10px] font-mono uppercase tracking-wider text-accent font-bold m-0 mb-1">
+                  <p className="text-[10px] font-mono uppercase tracking-wider text-accent-ink font-bold m-0 mb-1">
                     Çözüm iskeleti
                   </p>
                   <p className="text-sm text-charcoal/80 leading-relaxed m-0">{ex.analysis}</p>
                 </div>
-                <p className="text-sm font-semibold text-accent m-0 flex gap-2">
+                <p className="text-sm font-semibold text-accent-ink m-0 flex gap-2">
                   <span aria-hidden>→</span>
                   <span>{ex.takeaway}</span>
                 </p>
@@ -1286,7 +1286,7 @@ export function DersNotuView({
               key={c}
               className="flex gap-3 rounded-xl border border-charcoal/[0.08] bg-white px-3 py-2.5 text-sm text-charcoal/75"
             >
-              <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-md border border-charcoal/15 text-[11px] font-bold text-charcoal/40">
+              <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-md border border-charcoal/15 text-[11px] font-bold text-ink-muted">
                 {i + 1}
               </span>
               {c}
@@ -1319,7 +1319,7 @@ export function DersNotuView({
           <h2 className="text-xl font-heading font-bold text-charcoal mb-4">
             Kamuya açık kaynaklar
           </h2>
-          <p className="text-sm text-charcoal/55 mb-3 leading-relaxed">
+          <p className="text-sm text-ink-muted mb-3 leading-relaxed">
             Aşağıdakiler müfredat / duyuru / açık erişim sayfalarıdır. Hoca slaytı
             kopyalanmaz; bağlayıcı bilgi için her zaman resmi kanala bakın.
           </p>
@@ -1333,12 +1333,12 @@ export function DersNotuView({
                   href={s.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="font-semibold text-accent hover:underline"
+                  className="font-semibold text-accent-ink hover:underline"
                 >
                   {s.title}
                 </a>
                 {s.note && (
-                  <p className="m-0 mt-1 text-xs text-charcoal/50 leading-relaxed">{s.note}</p>
+                  <p className="m-0 mt-1 text-xs text-ink-muted leading-relaxed">{s.note}</p>
                 )}
               </li>
             ))}
@@ -1349,7 +1349,7 @@ export function DersNotuView({
       {/* İlişkili dersler */}
       {relatedCourses.length > 0 && (
         <section className="mb-10">
-          <h2 className="text-sm font-bold text-charcoal/50 uppercase tracking-wider mb-3">
+          <h2 className="text-sm font-bold text-ink-muted uppercase tracking-wider mb-3">
             Aynı dönemden diğer notlar
           </h2>
           <div className="flex flex-wrap gap-2">
@@ -1368,9 +1368,9 @@ export function DersNotuView({
 
       <YazarKutusu guncelleme={note.updated} className="mb-6" />
 
-      <footer className="text-xs text-charcoal/45 border-t border-charcoal/10 pt-6 leading-relaxed">
+      <footer className="text-xs text-ink-muted border-t border-charcoal/10 pt-6 leading-relaxed">
         <p className="m-0 mb-1">
-          <strong className="text-charcoal/60">Av. Fethi Güzel Hukuk Portalı</strong> · ücretsiz öğrenci
+          <strong className="text-ink-muted">Av. Fethi Güzel Hukuk Portalı</strong> · ücretsiz öğrenci
           desteği · bilgilendirme / eğitim materyali
         </p>
         <p className="m-0">
@@ -1414,7 +1414,7 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
       />
 
       <div className="mb-8 rounded-3xl bg-gradient-to-br from-charcoal to-[#2a2520] px-6 sm:px-8 py-8 text-cream">
-        <p className="text-accent font-mono text-[10px] tracking-[0.2em] uppercase mb-2">
+        <p className="text-accent-ink font-mono text-[10px] tracking-[0.2em] uppercase mb-2">
           {hub.uni.city} · {hub.uni.type} · {hub.uni.calendar} · ücretsiz premium
         </p>
         <h1 className="text-3xl sm:text-4xl font-heading font-bold mb-3 text-cream">{hub.h1}</h1>
@@ -2011,7 +2011,7 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
           .map((block) => (
             <section key={block.title} className={`rounded-2xl border-2 ${block.border} p-5`}>
               <h2 className="text-lg font-heading font-bold text-charcoal mb-2">{block.title}</h2>
-              <p className="text-sm text-charcoal/60 mb-4">{block.desc}</p>
+              <p className="text-sm text-ink-muted mb-4">{block.desc}</p>
               <ul className="grid sm:grid-cols-3 gap-2 m-0 p-0 list-none">
                 {block.items.map((v) => (
                   <li key={v.code}>
@@ -2052,7 +2052,7 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
                     return (
                       <li key={c.code}>
                         {unavailable && !resolved ? (
-                          <span className="block rounded-xl border border-dashed border-charcoal/15 bg-charcoal/[0.02] px-3 py-2.5 text-sm text-charcoal/40">
+                          <span className="block rounded-xl border border-dashed border-charcoal/15 bg-charcoal/[0.02] px-3 py-2.5 text-sm text-ink-muted">
                             {c.title}
                             <span className="block text-[10px] mt-0.5">Yakında</span>
                           </span>
@@ -2062,7 +2062,7 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
                             className="block rounded-xl border border-charcoal/10 bg-white hover:border-accent/40 hover:shadow-sm px-3 py-3 text-sm font-semibold text-charcoal transition-all"
                           >
                             {c.title}
-                            <span className="block text-[10px] font-normal text-charcoal/40 mt-1">
+                            <span className="block text-[10px] font-normal text-ink-muted mt-1">
                               şematik · örnekli · premium
                               {resolved && resolved.code !== c.code ? ' · yıllık paket' : ''}
                             </span>

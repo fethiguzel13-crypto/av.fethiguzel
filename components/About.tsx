@@ -54,7 +54,7 @@ export default function About() {
             />
             <div className="absolute inset-0 bg-gradient-to-t from-charcoal via-transparent to-transparent" />
             <div className="absolute bottom-8 sm:bottom-10 left-6 sm:left-10">
-              <span className="text-accent font-mono text-[10px] tracking-[0.3em] uppercase block mb-2">Kurucu</span>
+              <span className="text-accent-light font-mono text-[10px] tracking-[0.3em] uppercase block mb-2">Kurucu</span>
               <h3 className="text-cream text-2xl sm:text-3xl font-heading font-bold">Av. Fethi Güzel</h3>
               <p className="text-cream/50 text-xs mt-1 tracking-wide">Avukat &amp; Arabulucu · Erciş / Van</p>
             </div>
@@ -63,7 +63,7 @@ export default function About() {
 
         <div className="w-full lg:w-1/2 space-y-8 sm:space-y-10">
           <div className="space-y-5 sm:space-y-6">
-            <h2 className="philo-text text-accent font-heading text-xs sm:text-sm tracking-[0.35em] uppercase">
+            <h2 className="philo-text text-accent-light font-heading text-xs sm:text-sm tracking-[0.35em] uppercase">
               Hakkımda
             </h2>
             <p className="philo-text text-3xl sm:text-4xl md:text-5xl text-cream font-bold leading-tight font-sans">
@@ -82,22 +82,22 @@ export default function About() {
           <div className="philo-text pt-6 sm:pt-8 border-t border-cream/10 flex flex-wrap items-center gap-6 sm:gap-8">
             <div>
               <span className="block text-accent font-bold text-2xl font-heading">Doktora</span>
-              <span className="text-cream/40 text-[10px] uppercase tracking-widest font-bold">Özel hukuk</span>
+              <span className="text-cream/55 text-[10px] uppercase tracking-widest font-bold">Özel hukuk</span>
             </div>
             <div className="w-px h-12 bg-cream/10 hidden sm:block" />
             <div>
               <span className="block text-accent font-bold text-2xl font-heading">Kitap</span>
-              <span className="text-cream/40 text-[10px] uppercase tracking-widest font-bold">e-Duruşma</span>
+              <span className="text-cream/55 text-[10px] uppercase tracking-widest font-bold">e-Duruşma</span>
             </div>
             <div className="w-px h-12 bg-cream/10 hidden sm:block" />
             <div>
               <span className="block text-accent font-bold text-2xl font-heading">EN</span>
-              <span className="text-cream/40 text-[10px] uppercase tracking-widest font-bold">İngilizce</span>
+              <span className="text-cream/55 text-[10px] uppercase tracking-widest font-bold">İngilizce</span>
             </div>
             <div className="w-px h-12 bg-cream/10 hidden sm:block" />
             <div>
               <span className="block text-accent font-bold text-2xl font-heading">7.800+</span>
-              <span className="text-cream/40 text-[10px] uppercase tracking-widest font-bold">Madde + şerh</span>
+              <span className="text-cream/55 text-[10px] uppercase tracking-widest font-bold">Madde + şerh</span>
             </div>
           </div>
 

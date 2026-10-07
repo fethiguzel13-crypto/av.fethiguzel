@@ -22,7 +22,7 @@ export default function YasalUyariPage() {
                         { ad: 'Yasal uyarı', yol: '/yasal-uyari' },
                     ]}
                 />
-                <p className="text-accent text-xs font-bold tracking-widest uppercase mb-3">Yasal</p>
+                <p className="text-accent-ink text-xs font-bold tracking-widest uppercase mb-3">Yasal</p>
                 <h1 className="text-3xl sm:text-4xl font-heading font-bold mb-8">Yasal Uyarı</h1>
 
                 <div className="space-y-5 text-[15px] leading-relaxed text-charcoal/80">
@@ -72,12 +72,12 @@ export default function YasalUyariPage() {
                         Sorularınız için:{' '}
                         <a
                             href="mailto:fethiguzel@hotmail.com"
-                            className="text-accent font-semibold hover:underline"
+                            className="text-accent-ink font-semibold hover:underline"
                         >
                             fethiguzel@hotmail.com
                         </a>
                         . Ayrıca{' '}
-                        <Link href="/gizlilik" className="text-accent font-semibold hover:underline">
+                        <Link href="/gizlilik" className="text-accent-ink font-semibold hover:underline">
                             Gizlilik Politikası
                         </Link>{' '}
                         sayfasını inceleyebilirsiniz.

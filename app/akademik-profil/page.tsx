@@ -63,7 +63,7 @@ export default function AkademikProfilPage() {
                         { ad: 'Akademik profil', yol: '/akademik-profil' },
                     ]}
                 />
-                <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
+                <p className="text-accent-ink font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
                     Akademik & mesleki bilgilendirme
                 </p>
                 <h1 className="text-3xl sm:text-4xl md:text-5xl font-heading font-bold text-charcoal mb-6 leading-tight">
@@ -87,7 +87,7 @@ export default function AkademikProfilPage() {
                     </div>
                     <div>
                         <h2 className="text-2xl font-heading font-bold text-charcoal mb-2">{PROFILE.name}</h2>
-                        <p className="text-charcoal/55 text-sm mb-4">
+                        <p className="text-ink-muted text-sm mb-4">
                             {PROFILE.jobTitle} · {PROFILE.office.locality} / {PROFILE.office.region}
                         </p>
                         <ul className="space-y-2 text-sm text-charcoal/70">
@@ -106,14 +106,14 @@ export default function AkademikProfilPage() {
                         <h2 className="text-xl font-heading font-bold text-charcoal">Doktora çalışmaları</h2>
                     </div>
                     <p className="text-charcoal/65 leading-relaxed mb-4">{PROFILE.academic.detail}</p>
-                    <p className="text-xs font-bold uppercase tracking-widest text-charcoal/40 mb-2">
+                    <p className="text-xs font-bold uppercase tracking-widest text-ink-muted mb-2">
                         Araştırma ekseni
                     </p>
                     <div className="flex flex-wrap gap-2">
                         {PROFILE.academic.fields.map((f) => (
                             <span
                                 key={f}
-                                className="text-xs font-semibold px-3 py-1.5 rounded-full bg-accent/10 text-accent"
+                                className="text-xs font-semibold px-3 py-1.5 rounded-full bg-accent/10 text-accent-ink"
                             >
                                 {f}
                             </span>
@@ -127,7 +127,7 @@ export default function AkademikProfilPage() {
                         <h2 className="text-xl font-heading font-bold text-charcoal">Yayımlanmış eser</h2>
                     </div>
                     <h3 className="font-heading font-bold text-charcoal text-lg mb-2">{PROFILE.book.title}</h3>
-                    <p className="text-charcoal/55 text-sm mb-4">
+                    <p className="text-ink-muted text-sm mb-4">
                         Yazar: {PROFILE.name} · {PROFILE.book.publisher}
                     </p>
                     <p className="text-charcoal/65 leading-relaxed mb-6">{PROFILE.book.summary}</p>
@@ -158,13 +158,13 @@ export default function AkademikProfilPage() {
                         {PROFILE.languages.map((l) => (
                             <li key={l.code} className="flex justify-between gap-4 text-sm border-b border-charcoal/5 pb-3">
                                 <span className="font-bold text-charcoal">{l.label}</span>
-                                <span className="text-charcoal/55">{l.level}</span>
+                                <span className="text-ink-muted">{l.level}</span>
                             </li>
                         ))}
                     </ul>
-                    <p className="mt-4 text-charcoal/60 text-sm leading-relaxed">
+                    <p className="mt-4 text-ink-muted text-sm leading-relaxed">
                         İngilizce bilen müvekkiller ve uluslararası belge içeren dosyalar için ayrı bilgilendirme:{' '}
-                        <Link href="/english-speaking-lawyer" className="text-accent font-semibold hover:underline">
+                        <Link href="/english-speaking-lawyer" className="text-accent-ink font-semibold hover:underline">
                             English-speaking lawyer
                         </Link>
                         .
@@ -172,7 +172,7 @@ export default function AkademikProfilPage() {
                 </section>
 
                 <p className="text-center">
-                    <Link href="/avukat-fethi-guzel" className="text-accent font-bold hover:underline">
+                    <Link href="/avukat-fethi-guzel" className="text-accent-ink font-bold hover:underline">
                         Tam avukat profili →
                     </Link>
                 </p>

@@ -77,17 +77,17 @@ export default function HaftalikIctihatPage() {
                         { ad: 'Haftalık içtihat özeti', yol: '/icthat/haftalik' },
                     ]}
                 />
-                <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
+                <p className="text-accent-ink font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
                     İçtihat
                 </p>
                 <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal mb-3">
                     Haftalık içtihat özeti
                 </h1>
-                <p className="text-charcoal/55 text-sm leading-relaxed mb-2">
+                <p className="text-ink-muted text-sm leading-relaxed mb-2">
                     Otomatik derleme: her Pazartesi script çalışır, öne çıkan kararları listeler.
                     Bilgilendirme amaçlıdır; resmî metin ve dosya incelemesi yerine geçmez.
                 </p>
-                <p className="text-[11px] text-charcoal/40 mb-10">
+                <p className="text-[11px] text-ink-muted mb-10">
                     {digest
                         ? `Hafta: ${digest.weekOf} · Üretim: ${digest.generatedAt.slice(0, 16)}`
                         : 'Henüz haftalık paket yok — günlük öne çıkanlar gösteriliyor. Script: npm run maintenance:weekly'}
@@ -98,12 +98,12 @@ export default function HaftalikIctihatPage() {
                         <li key={`${it.title}-${i}`} className="bg-white border border-charcoal/[0.08] rounded-2xl p-5">
                             <h2 className="font-bold text-charcoal mb-2 leading-snug">{it.title}</h2>
                             {it.summary && (
-                                <p className="text-sm text-charcoal/60 leading-relaxed mb-2">{it.summary}</p>
+                                <p className="text-sm text-ink-muted leading-relaxed mb-2">{it.summary}</p>
                             )}
                             <div className="flex flex-wrap gap-3 text-[11px]">
-                                {it.source && <span className="text-charcoal/40">{it.source}</span>}
+                                {it.source && <span className="text-ink-muted">{it.source}</span>}
                                 {it.href && (
-                                    <Link href={it.href} className="text-accent font-bold hover:underline">
+                                    <Link href={it.href} className="text-accent-ink font-bold hover:underline">
                                         Detay →
                                     </Link>
                                 )}
@@ -111,15 +111,15 @@ export default function HaftalikIctihatPage() {
                         </li>
                     ))}
                     {items.length === 0 && (
-                        <li className="text-sm text-charcoal/45">Özet henüz oluşmadı.</li>
+                        <li className="text-sm text-ink-muted">Özet henüz oluşmadı.</li>
                     )}
                 </ul>
 
                 <div className="flex flex-wrap gap-4 text-sm font-bold">
-                    <Link href="/icthat" className="text-accent hover:underline">
+                    <Link href="/icthat" className="text-accent-ink hover:underline">
                         Tüm günlük içtihat
                     </Link>
-                    <Link href="/hesaplama" className="text-charcoal/50 hover:text-accent">
+                    <Link href="/hesaplama" className="text-ink-muted hover:text-accent">
                         Hesaplama araçları
                     </Link>
                 </div>

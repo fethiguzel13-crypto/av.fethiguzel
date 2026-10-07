@@ -84,7 +84,7 @@ export default function Hero({ sayilar }: { sayilar: HeroSayilari }) {
                 <span className="block text-xl sm:text-2xl font-bold text-accent font-heading tracking-tight">
                   {s.num}
                 </span>
-                <span className="block text-[9px] sm:text-[10px] font-mono text-cream/45 uppercase tracking-widest mt-0.5">
+                <span className="block text-[9px] sm:text-[10px] font-mono text-cream/55 uppercase tracking-widest mt-0.5">
                   {s.label}
                 </span>
               </div>
