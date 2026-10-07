@@ -376,3 +376,7 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   `raporlar/gorsel/g14-karar-sayfasi-sonra-*.png`. Sunucu kapatıldı, zaman damgalı dosyalar geri alındı (`59cbf5c58`).
   TestSprite: değişiklik yayında değil (30 Ekim), koşulmadı.
 - Adım 6 (madde ↔ karar bağlantısı) soru 20'ye bağlı kaldı, zira G11 kuralı bağlantıyı yalnız dizine açık sayfaya verir.
+- Adım 5 için tam mobil derlemenin yan etkileri salt okunur incelendi. Derleme yedi betikle izlenen birçok veri dosyasını yeniden
+  yazdığından kesilme riskine karşı başlatılmadı. Döküm ve geri alma yordamı `gorevler/G14.md` adım 5 hazırlığında.
+- Oturum 09:52'de bitirildi, port 3123 boş, ağaç temiz.
+- Sıradaki: G14 adım 5, tam süreli bir oturumun başında (mobil tam derleme, `smoke-ui`), sonra adım 7 (rapor). G14 DEVAM EDİYOR.
