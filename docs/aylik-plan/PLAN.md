@@ -227,6 +227,8 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
   - Renk/tipografi/boşluk jetonları, WCAG AA kontrast, koyu tema, bileşen tutarlılığı; ana sayfa,
     makale, mevzuat, ders notu, yargı arşivi sayfalarında en önemli sorunlar. Önce/sonra ekran görüntüsü
     `raporlar/gorsel/`.
+  - DEVAM EDİYOR (2026-10-07): Denetim betiği ve rapor hazır (13/20 → 16/20). Kontrast düğümü 1.957 → 84, hedef ihlali 120 → 4
+    (`66df4c355`). Kalan: vurgu zeminli düğmeler (77), küçük bulgular, bileşen tutarlılığı (`gorevler/G15.md`).
   - G14'ten devir (G13 notu): `/yargi-kararlari` mobil TBT'si yaklaşık 1,5 sn. Arşiv sayfası düzenlenirken React çatı
     parçasındaki uzun görevler ve yazı tipi değişiminin yerleşim maliyeti profillenir (`gorevler/G13.md`).
 

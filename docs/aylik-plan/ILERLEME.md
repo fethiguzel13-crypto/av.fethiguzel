@@ -414,3 +414,16 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - **G14 tamamlandı** (PLAN.md'de `[x]`). Arşiv sayfasının TBT notu G15'e devredilmiştir. Sıradaki: G15 (tasarım sistemi
   denetimi, bağımlılığı G06 `[x]`). Hafta 2'nin kalan görevleri bitmiştir.
 - G15 DEVAM EDİYOR (başladı 12:27). Alt plan `gorevler/G15.md` yazıldı.
+- G15 adım 1–2: `scripts/tasarim-denetim.mjs` (Playwright + axe-core, 14 sayfa × 1280/390 px, WCAG 2.2 hedef boyutu aralık
+  istisnasıyla) ve `lib/tasarim-denetim.mjs` (test 4/4) yazılmıştır. Önce ölçümü: kontrast 1.957 düğüm (14/14 sayfa), hedef ihlali 120,
+  taşma 0. Rapor `raporlar/tasarim-denetimi.md` 13/20'dir. Koyu tema kullanıcıya soru 21 olarak yazılmıştır (`19627aa2c`).
+- G15 adım 3–5 ilk dalga: Renk jetonları `lib/tasarim-jetonlari.mjs`'e taşınmış, palet değişmemiş, metin için `ink-muted`, `accent-ink`
+  ve `accent-light` eklenmiştir (test 5/5, cırcırlı). 341 saydam ikincil metin, 238 küçük punto ya da bağlantı vurgusu, kömür
+  zemindeki krem tonları ve madde rotası CSS'i çevrilmiştir. Mevzuat açılırları 44 px'e çıkarılmış, `pre` odağı ve `themeColor`
+  düzeltilmiştir. Sonra ölçümü: kontrast 1.957 → 84, hedef 120 → 4, diğer axe 2 → 0. Tam `npm run kalite` yeşildir (762 test,
+  derleme 263 sn), commit `66df4c355`. Ekran görüntüleri `raporlar/gorsel/g15-*-{once,sonra}.jpg`.
+- Kalan 84 düğümün 77'si vurgu zeminli beyaz yazılı düğmedir. Düzeltme sitenin en görünür turuncusuna dokunduğu için görsel
+  karşılaştırmayla ayrı adımda yapılacaktır. Koyu yeşil zeminli eski `app/[category]` sayfaları dönüşümden çıkarılmıştır.
+- TestSprite: değişiklik yayında değil (30 Ekim), koşulmamıştır. Sunucu kapatılmış, port 3123 boştur, zaman damgalı dosyalar geri
+  alınmıştır.
+- Sıradaki: G15 düğme kontrastı ve kalan küçük bulgular (`gorevler/G15.md` "Sıradaki"). G15 DEVAM EDİYOR.
