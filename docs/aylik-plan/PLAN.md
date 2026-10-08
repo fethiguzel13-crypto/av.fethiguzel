@@ -235,6 +235,8 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
 - [ ] **G16 — Ana sayfa ve yazar sayfaları** · bağımlı: G09, G15
   - Otorite öncelikli kurgu: yazar, eserler, şerh külliyatı, karar arşivi büyüklüğü, güncel içtihat.
     Satış/reklam dili yok.
+  - DEVAM EDİYOR (2026-10-08): Değerlendirme raporu `raporlar/g16-anasayfa-yazar.md`. Külliyat sayıları tek kaynaktan, uyum
+    beyanları kaldırıldı, cırcır testi (`d4d92766e`, `aa277ba7b`). Kalan: bölüm birleştirme, yazar sayfaları, ölçüm (`gorevler/G16.md`).
   - G15 notu: Dolgulu yuvarlak düğmeler 29 yerde 14 dolgu/punto birleşimiyle yazılmıştır. Sayfalar yeniden kurulurken `.btn-primary`
     ve küçük etiket düğmesi için tek sınıfa toplanır (renk jetonu `accent-solid` hazırdır).
 

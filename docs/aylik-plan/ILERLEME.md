@@ -457,4 +457,18 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   (PLAN.md'de `[x]`). Düğme ölçü birleştirmesi G16'ya, yargı arşivi TBT'si ile `app/[category]` denetimi G25'e not edilmiştir.
 - TestSprite: değişiklik yayında değil (30 Ekim), koşulmamıştır. Sunucu kapatılmış, port 3123 boştur, zaman damgalı dosyalar geri
   alınmıştır.
-- G16 DEVAM EDİYOR (başladı 06:58). Alt plan `gorevler/G16.md` yazıldı (`c083d9545`).
+- G16 DEVAM EDİYOR (başladı 06:54). Alt plan `gorevler/G16.md` yazıldı (`c083d9545`).
+- G16 adım 1: Ana sayfa ve üç yazar sayfası iki genişlikte çekilmiş, impeccable detektörü 0 bulgu vermiştir. Değerlendirme tek bağlamda
+  yapılmıştır, zira başsız oturumda alt ajan açılmamaktadır. Rapor `raporlar/g16-anasayfa-yazar.md`, commit `69aabde3d`. Ana bulgu,
+  külliyat sayılarının altı yerde çelişen değerlerle yazılması ile yazar bilgisinin ve uyum beyanlarının tekrarıdır.
+- G16 adım 2: Elle yazılmış sayılar ve `PROFILE.stats` kaldırılmış, sayılar `siteSayilari()`'ndan gelmektedir. Uyum beyanları ve okura
+  dönük SEO notu silinmiş, cırcır testi yazılmıştır (önce kırmızı, 3/3). Raporun ilk sürümü şerh ve rehber sayısını `site-stats`
+  yedeğinden (5.143, 579) okumuştu. Üretim sayaçları 8.088 ve 556 olduğundan rapor düzeltilmiştir. Tam `npm run kalite` yeşildir
+  (769 test), commit `d4d92766e`.
+- G16 adım 3'ün ilk dilimi: Alt bilgi başlığı "Büro ve iletişim." olmuş, günlük içtihat verisi vurgusuzken ana sayfada `/icthat`
+  bağlantılı satır çizilmektedir. Tam `npm run kalite` yeşildir (769 test, derleme 441 sn). Ana sayfa denetimi iki genişlikte 0'dır.
+  Commit `aa277ba7b`.
+- TestSprite: değişiklik yayında değil (30 Ekim), koşulmamıştır. Oturum 07:33'te bitirilmiştir. Port 3123 boş, ağaç temiz, zaman
+  damgalı dosyalar geri alınmıştır.
+- Sıradaki: G16 adım 3'ün kalanı (TrustBar ile CredentialsStrip birleşmesi, mobilde hesaplama kartı sınırı), sonra adım 4 ve 5
+  (`gorevler/G16.md` "Sıradaki"). G16 DEVAM EDİYOR.
