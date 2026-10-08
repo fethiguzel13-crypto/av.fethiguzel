@@ -113,7 +113,7 @@ export default function Footer() {
                     href="https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-semibold hover:bg-accent/90 transition-colors mb-6"
+                    className="inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent-solid text-white text-sm font-semibold hover:bg-accent-ink transition-colors mb-6"
                   >
                     Google Play&apos;de indir
                   </a>
@@ -127,7 +127,7 @@ export default function Footer() {
                     href={PROFILE.social.instagram.url}
                     target="_blank"
                     rel="noopener noreferrer me"
-                    className="inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-cream/5 border border-cream/10 text-cream text-sm hover:bg-accent hover:border-accent hover:text-white transition-colors"
+                    className="inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-cream/5 border border-cream/10 text-cream text-sm hover:bg-accent-solid hover:border-accent hover:text-white transition-colors"
                     aria-label={`Instagram — @${PROFILE.social.instagram.handle}`}
                   >
                     <InstagramIcon />
@@ -137,7 +137,7 @@ export default function Footer() {
                     href={PROFILE.social.twitter.url}
                     target="_blank"
                     rel="noopener noreferrer me"
-                    className="inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-cream/5 border border-cream/10 text-cream text-sm hover:bg-accent hover:border-accent hover:text-white transition-colors"
+                    className="inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-cream/5 border border-cream/10 text-cream text-sm hover:bg-accent-solid hover:border-accent hover:text-white transition-colors"
                     aria-label={`X / Twitter — @${PROFILE.social.twitter.handle}`}
                   >
                     <XIcon />
@@ -148,7 +148,7 @@ export default function Footer() {
                       href={`https://wa.me/${PROFILE.whatsapp}?text=${encodeURIComponent('Merhaba, avfethiguzel.com üzerinden yazıyorum.')}`}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-cream/5 border border-cream/10 text-cream text-sm hover:bg-accent hover:border-accent hover:text-white transition-colors"
+                      className="inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-cream/5 border border-cream/10 text-cream text-sm hover:bg-accent-solid hover:border-accent hover:text-white transition-colors"
                       aria-label="WhatsApp"
                     >
                       WhatsApp
@@ -156,7 +156,7 @@ export default function Footer() {
                   ) : (
                     <Link
                       href="/on-form"
-                      className="inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-cream/5 border border-cream/10 text-cream text-sm hover:bg-accent hover:border-accent hover:text-white transition-colors"
+                      className="inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-cream/5 border border-cream/10 text-cream text-sm hover:bg-accent-solid hover:border-accent hover:text-white transition-colors"
                     >
                       Ön değerlendirme formu
                     </Link>

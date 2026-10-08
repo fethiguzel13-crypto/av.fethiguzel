@@ -41,7 +41,7 @@ function GraphicBlock({ g }: { g: MakaleGrafik }) {
           <span className="absolute left-4 top-2 bottom-2 w-0.5 bg-accent/30" aria-hidden />
           {g.items.map((it, idx) => (
             <li key={idx} className="relative flex gap-4 pb-6 last:pb-0">
-              <span className="relative z-10 flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-accent text-[10px] font-bold text-white">
+              <span className="relative z-10 flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-accent-solid text-[10px] font-bold text-white">
                 {idx + 1}
               </span>
               <div>
@@ -119,7 +119,7 @@ function GraphicBlock({ g }: { g: MakaleGrafik }) {
                 <span className="text-ink-muted">{it.hint || `${it.value}${g.unit ? ` ${g.unit}` : ''}`}</span>
               </div>
               <div className="h-2 rounded-full bg-charcoal/5 overflow-hidden">
-                <div className="h-full rounded-full bg-accent/80" style={{ width: `${Math.min(100, it.value)}%` }} />
+                <div className="h-full rounded-full bg-accent-solid" style={{ width: `${Math.min(100, it.value)}%` }} />
               </div>
             </li>
           ))}

@@ -24,7 +24,7 @@ function ProcessDiagram({ title, steps }: { title: string; steps: string[] }) {
         {steps.map((step, i) => (
           <div key={i} className="flex gap-3 sm:gap-4">
             <div className="flex flex-col items-center w-10 shrink-0">
-              <span className="flex h-10 w-10 items-center justify-center rounded-full bg-accent text-white text-sm font-bold shadow-md ring-4 ring-cream">
+              <span className="flex h-10 w-10 items-center justify-center rounded-full bg-accent-solid text-white text-sm font-bold shadow-md ring-4 ring-cream">
                 {i + 1}
               </span>
               {i < steps.length - 1 && <span className="w-0.5 flex-1 min-h-[1.25rem] bg-accent/30" />}
@@ -131,7 +131,7 @@ function MindmapDiagram({
         Zihin haritası · {title}
       </figcaption>
       <div className="flex flex-col items-center gap-4">
-        <div className="rounded-2xl bg-accent text-white px-6 py-3 text-center font-heading font-bold text-base sm:text-lg shadow-lg shadow-accent/25 max-w-xs">
+        <div className="rounded-2xl bg-accent-solid text-white px-6 py-3 text-center font-heading font-bold text-base sm:text-lg shadow-lg shadow-accent/25 max-w-xs">
           {center}
         </div>
         <div className="w-px h-4 bg-accent/40" aria-hidden />
@@ -353,7 +353,7 @@ export function DersNotuView({
           <div className="flex flex-wrap gap-2 mt-5 print:hidden">
             <Link
               href={`${pdfHref}?print=1`}
-              className="inline-flex text-sm font-bold px-4 py-2.5 rounded-full bg-accent text-white hover:bg-accent/90"
+              className="inline-flex text-sm font-bold px-4 py-2.5 rounded-full bg-accent-solid text-white hover:bg-accent-ink"
               prefetch={false}
             >
               PDF indir / Yazdır
@@ -1069,7 +1069,7 @@ export function DersNotuView({
       {note.sixtySecond && note.sixtySecond.length > 0 && (
         <aside className="mb-8 rounded-2xl border-2 border-accent/25 bg-accent/[0.06] p-5 sm:p-6">
           <h2 className="text-sm font-heading font-bold text-charcoal mb-3 flex items-center gap-2">
-            <span className="inline-flex h-7 w-7 items-center justify-center rounded-full bg-accent text-white text-xs font-bold">
+            <span className="inline-flex h-7 w-7 items-center justify-center rounded-full bg-accent-solid text-white text-xs font-bold">
               60
             </span>
             Saniyede omurga
@@ -1249,7 +1249,7 @@ export function DersNotuView({
               className="rounded-2xl border border-charcoal/10 bg-white overflow-hidden shadow-sm"
             >
               <div className="bg-charcoal text-cream px-4 sm:px-5 py-3 flex items-center gap-2">
-                <span className="flex h-7 w-7 items-center justify-center rounded-full bg-accent text-xs font-bold">
+                <span className="flex h-7 w-7 items-center justify-center rounded-full bg-accent-solid text-xs font-bold">
                   {i + 1}
                 </span>
                 <h3 className="font-heading font-bold text-sm sm:text-base m-0 text-cream">{ex.title}</h3>

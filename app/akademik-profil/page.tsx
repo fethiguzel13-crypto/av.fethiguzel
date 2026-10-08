@@ -136,7 +136,7 @@ export default function AkademikProfilPage() {
                             href={PROFILE.book.url}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="inline-flex items-center gap-2 bg-charcoal text-cream px-5 py-3 rounded-full text-sm font-bold hover:bg-accent transition-colors"
+                            className="inline-flex items-center gap-2 bg-charcoal text-cream px-5 py-3 rounded-full text-sm font-bold hover:bg-accent-solid hover:text-white transition-colors"
                         >
                             Seçkin Yayıncılık <ExternalLink size={14} />
                         </a>

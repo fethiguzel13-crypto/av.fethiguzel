@@ -62,7 +62,7 @@ export default function RehberHero({
                 </div>
 
                 <div
-                    className="absolute bottom-3 right-3 sm:bottom-5 sm:right-5 min-w-[5.75rem] rounded-sm bg-accent text-cream px-3.5 py-2.5 text-center shadow-lift"
+                    className="absolute bottom-3 right-3 sm:bottom-5 sm:right-5 min-w-[5.75rem] rounded-sm bg-accent-solid text-white px-3.5 py-2.5 text-center shadow-lift"
                     style={{ transform: `rotate(${((scene.seed % 7) - 3) * 0.5}deg)` }}
                 >
                     <p className="font-drama text-[1.7rem] sm:text-[2rem] leading-none font-semibold m-0">

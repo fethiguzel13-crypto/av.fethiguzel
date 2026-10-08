@@ -75,7 +75,7 @@ export default function YargiPreview() {
           </div>
           <Link
             href="/yargi-kararlari"
-            className="self-start inline-flex items-center gap-2 bg-accent text-white px-6 py-3 rounded-full text-sm font-bold hover:bg-accent/90 transition-colors"
+            className="self-start inline-flex items-center gap-2 bg-accent-solid text-white px-6 py-3 rounded-full text-sm font-bold hover:bg-accent-ink transition-colors"
           >
             {total ? `${total.toLocaleString('tr-TR')} karar · üyelik` : 'Üyelikle aç'}
             <ArrowRight size={15} />

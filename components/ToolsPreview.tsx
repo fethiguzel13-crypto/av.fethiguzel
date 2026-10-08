@@ -98,7 +98,7 @@ export default function ToolsPreview() {
           </div>
           <Link
             href="/hesaplama"
-            className="group self-start flex items-center gap-2 bg-charcoal text-cream px-6 py-3 rounded-full font-bold text-sm transition-all hover:bg-accent"
+            className="group self-start flex items-center gap-2 bg-charcoal text-cream px-6 py-3 rounded-full font-bold text-sm transition-all hover:bg-accent-solid hover:text-white"
           >
             Tüm Araçlar
             <ArrowRight size={15} className="group-hover:translate-x-1 transition-transform" />

@@ -301,7 +301,7 @@ export default function Navbar() {
         {/* CTA */}
         <Link
           href="/#iletisim"
-          className="hidden xl:block relative overflow-hidden group bg-accent text-white px-5 py-2.5 rounded-full text-[11px] font-bold shrink-0 whitespace-nowrap transition-all"
+          className="hidden xl:block relative overflow-hidden group bg-accent-solid text-white px-5 py-2.5 rounded-full text-[11px] font-bold shrink-0 whitespace-nowrap transition-all"
         >
           <span className="relative z-10">DANIŞMANLIK</span>
           <div className="absolute inset-0 w-0 bg-charcoal transition-all duration-500 group-hover:w-full rounded-full" />
@@ -382,7 +382,7 @@ export default function Navbar() {
           <Link
             href="/#iletisim"
             onClick={() => setMobileOpen(false)}
-            className="mt-4 block text-center bg-accent text-white py-3 rounded-2xl font-bold text-sm"
+            className="mt-4 block text-center bg-accent-solid text-white py-3 rounded-2xl font-bold text-sm"
           >
             DANIŞMANLIK
           </Link>

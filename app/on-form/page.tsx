@@ -172,7 +172,7 @@ export default function OnFormPage() {
                     <button
                         type="submit"
                         disabled={!valid}
-                        className="w-full bg-accent text-white font-bold py-3.5 rounded-full disabled:opacity-40 hover:bg-accent/90 transition-colors"
+                        className="w-full bg-accent-solid text-white font-bold py-3.5 rounded-full disabled:opacity-40 hover:bg-accent-ink transition-colors"
                     >
                         E-posta ile gönder
                     </button>

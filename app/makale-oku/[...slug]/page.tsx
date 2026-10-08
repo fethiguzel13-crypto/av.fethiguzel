@@ -36,7 +36,7 @@ export default async function MakaleOku({ params }: { params: Promise<{ slug: st
         <Navbar />
         <main className="pt-40 pb-20 px-6 text-center max-w-7xl mx-auto">
           <h2 className="text-2xl font-bold mb-8">Makale bulunamadı.</h2>
-          <Link href="/makaleler" className="bg-accent text-white px-8 py-4 rounded-full font-bold">
+          <Link href="/makaleler" className="bg-accent-solid text-white px-8 py-4 rounded-full font-bold">
             ARŞİVE DÖN
           </Link>
         </main>
@@ -74,7 +74,7 @@ export default async function MakaleOku({ params }: { params: Promise<{ slug: st
           <a 
             href={publicPath} 
             download 
-            className="flex items-center gap-2 bg-charcoal text-white px-6 py-2 rounded-full text-xs font-bold hover:bg-accent transition-colors shadow-lg"
+            className="flex items-center gap-2 bg-charcoal text-white px-6 py-2 rounded-full text-xs font-bold hover:bg-accent-solid transition-colors shadow-lg"
           >
             İNDİR <Download size={14} />
           </a>

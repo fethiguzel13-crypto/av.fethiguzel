@@ -89,7 +89,7 @@ export default function BilgiHubClient({
             onClick={() => setCat('all')}
             className={`text-[11px] px-2.5 py-1 rounded-full border font-semibold ${
               cat === 'all'
-                ? 'bg-accent text-white border-accent'
+                ? 'bg-accent-solid text-white border-accent'
                 : 'bg-white border-charcoal/10 text-ink-muted'
             }`}
           >
@@ -102,7 +102,7 @@ export default function BilgiHubClient({
               onClick={() => setCat(c)}
               className={`text-[11px] px-2.5 py-1 rounded-full border font-semibold ${
                 cat === c
-                  ? 'bg-accent text-white border-accent'
+                  ? 'bg-accent-solid text-white border-accent'
                   : 'bg-white border-charcoal/10 text-ink-muted hover:border-accent/40'
               }`}
             >

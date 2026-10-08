@@ -65,9 +65,9 @@ export function RehberFork({ fork }: { fork: RehberFork }) {
                     <p className="font-heading font-bold text-cream text-lg m-0 mb-3">{fork.leftTitle}</p>
                     <p className="m-0 text-[15px] leading-relaxed text-cream/85">{fork.left}</p>
                 </div>
-                <div className="bg-accent text-cream px-5 py-6 sm:px-6">
-                    <p className="font-heading font-bold text-cream text-lg m-0 mb-3">{fork.rightTitle}</p>
-                    <p className="m-0 text-[15px] leading-relaxed text-cream/90">{fork.right}</p>
+                <div className="bg-accent-solid text-white px-5 py-6 sm:px-6">
+                    <p className="font-heading font-bold text-white text-lg m-0 mb-3">{fork.rightTitle}</p>
+                    <p className="m-0 text-[15px] leading-relaxed text-white">{fork.right}</p>
                 </div>
             </div>
         </Fig>
@@ -224,7 +224,7 @@ export function RehberAftermath({ aftermath }: { aftermath: RehberAftermath }) {
             <ol className="m-0 p-0 list-none flex flex-col sm:flex-row sm:items-stretch gap-2">
                 {aftermath.beats.map((b, i) => (
                     <li key={b} className="flex-1 flex sm:flex-col gap-3 items-start">
-                        <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-accent text-cream font-drama text-lg">
+                        <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-accent-solid text-white font-drama text-lg">
                             {i + 1}
                         </span>
                         <p className="m-0 text-[15px] leading-snug text-charcoal/80 bg-[#FFFEFA] border border-charcoal/10 px-3 py-3 flex-1 shadow-soft">

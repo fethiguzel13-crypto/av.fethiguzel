@@ -126,7 +126,7 @@ export default function HizmetlerPage() {
                     </p>
                     <a
                         href={`mailto:${PROFILE.email}`}
-                        className="inline-block bg-accent text-white px-6 py-3 rounded-full text-sm font-bold"
+                        className="inline-block bg-accent-solid text-white px-6 py-3 rounded-full text-sm font-bold"
                     >
                         {PROFILE.email}
                     </a>

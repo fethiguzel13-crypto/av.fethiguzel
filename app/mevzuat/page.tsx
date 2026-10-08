@@ -139,7 +139,7 @@ export default async function MevzuatPage() {
               <div className="space-y-4">
                 <Link
                   href={`/kategori/${category.slug}`}
-                  className="block w-full text-center py-3 bg-charcoal text-white rounded-xl text-sm font-bold hover:bg-accent transition-colors"
+                  className="block w-full text-center py-3 bg-charcoal text-white rounded-xl text-sm font-bold hover:bg-accent-solid transition-colors"
                 >
                   TÜMÜNÜ İNCELE
                 </Link>

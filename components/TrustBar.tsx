@@ -70,7 +70,7 @@ export default function TrustBar({ sayilar }: { sayilar: Sayilar }) {
                         </div>
                         <Link
                             href="/akademik-profil"
-                            className="shrink-0 inline-flex items-center justify-center gap-2 bg-charcoal text-cream text-xs font-bold uppercase tracking-widest px-5 py-3 rounded-full hover:bg-accent transition-colors"
+                            className="shrink-0 inline-flex items-center justify-center gap-2 bg-charcoal text-cream text-xs font-bold uppercase tracking-widest px-5 py-3 rounded-full hover:bg-accent-solid hover:text-white transition-colors"
                         >
                             Akademik profil
                         </Link>

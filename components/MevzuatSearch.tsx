@@ -493,7 +493,7 @@ function MevzuatSearchInner({
                     )}
                     <button
                         type="submit"
-                        className="sm:w-auto px-6 py-3.5 rounded-2xl bg-accent text-white font-bold text-sm hover:bg-accent/90"
+                        className="sm:w-auto px-6 py-3.5 rounded-2xl bg-accent-solid text-white font-bold text-sm hover:bg-accent-ink"
                     >
                         Ara
                     </button>

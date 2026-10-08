@@ -63,7 +63,7 @@ export function McqBlock({
             </ol>
             <button
                 type="button"
-                className="mt-4 text-sm font-bold px-4 py-2 rounded-full bg-accent text-white"
+                className="mt-4 text-sm font-bold px-4 py-2 rounded-full bg-accent-solid text-white"
                 onClick={() => {
                     setDone(true);
                     try {

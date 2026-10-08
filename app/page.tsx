@@ -123,13 +123,13 @@ export default function Home() {
           <div className="flex flex-wrap gap-2">
             <Link
               href="/bilgi"
-              className="inline-flex items-center gap-2 bg-accent text-white px-6 py-3 rounded-full text-sm font-bold hover:bg-accent/90 transition-colors"
+              className="inline-flex items-center gap-2 bg-accent-solid text-white px-6 py-3 rounded-full text-sm font-bold hover:bg-accent-ink transition-colors"
             >
               Vatandaş rehberi
             </Link>
             <Link
               href="/rehber"
-              className="inline-flex items-center gap-2 bg-charcoal text-cream px-6 py-3 rounded-full text-sm font-bold hover:bg-accent transition-colors"
+              className="inline-flex items-center gap-2 bg-charcoal text-cream px-6 py-3 rounded-full text-sm font-bold hover:bg-accent-solid hover:text-white transition-colors"
             >
               Süreç kılavuzları
             </Link>

@@ -25,7 +25,7 @@ export function DersNotuPrintTrigger() {
     <button
       type="button"
       onClick={() => window.print()}
-      className="inline-flex items-center justify-center rounded-full bg-accent px-4 py-2.5 text-sm font-bold text-white hover:bg-accent/90"
+      className="inline-flex items-center justify-center rounded-full bg-accent-solid px-4 py-2.5 text-sm font-bold text-white hover:bg-accent-ink"
     >
       PDF olarak kaydet / Yazdır
     </button>

@@ -339,7 +339,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           dangerouslySetInnerHTML={{ __html: jsonLdHtml(softwareSchema) }}
         />
       </head>
-      <body className="bg-cream text-charcoal font-sans antialiased selection:bg-accent selection:text-white min-h-screen app-body-pad">
+      <body className="bg-cream text-charcoal font-sans antialiased selection:bg-accent-solid selection:text-white min-h-screen app-body-pad">
         <SkipLink />
         <GalaxyChrome />
         {children}

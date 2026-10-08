@@ -206,7 +206,7 @@ export default function AvukatFethiGuzelPage() {
                         <div className="flex flex-col sm:flex-row flex-wrap gap-3 mb-10">
                             <a
                                 href={`mailto:${PROFILE.email}`}
-                                className="inline-flex items-center justify-center gap-2 bg-accent text-white px-6 py-3.5 rounded-full font-bold text-sm hover:bg-accent/90"
+                                className="inline-flex items-center justify-center gap-2 bg-accent-solid text-white px-6 py-3.5 rounded-full font-bold text-sm hover:bg-accent-ink"
                             >
                                 <Mail size={16} /> E-posta ile iletişim
                             </a>

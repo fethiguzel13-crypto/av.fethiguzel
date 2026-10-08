@@ -1,16 +1,9 @@
 {
  "etiket": "sonra",
  "taban": "http://localhost:3123",
- "tarih": "2026-10-07T10:31:24.736Z",
+ "tarih": "2026-10-08T03:32:47.970Z",
  "ozet": {
-  "kurallar": [
-   {
-    "id": "color-contrast",
-    "etki": "serious",
-    "dugum": 77,
-    "sayfa": 13
-   }
-  ],
+  "kurallar": [],
   "kucukHedef": 4,
   "tasan": []
  },
@@ -20,196 +13,29 @@
    "adres": "/",
    "durum": 200,
    "genislik": 1280,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 6,
-     "ornekler": [
-      {
-       "hedef": ".xl\\:block > .z-10.relative",
-       "html": "<span class=\"relative z-10\">DANIŞMANLIK</span>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "8.3pt (11px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".shadow-lg > span",
-       "html": "<span>KANUN MADDESİ ARA</span>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90.bg-accent[href$=\"yargi-kararlari\"]",
-       "html": "<a class=\"self-start inline-flex items-center gap-2 bg-accent text-white px-6 py-3 rounded-full text-sm font-bold hover:bg-accent/90 transition-colors\" href=\"/yargi-kararlari\">",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90.bg-accent[href$=\"avukat-fethi-guzel\"]",
-       "html": "<a class=\"inline-flex items-center justify-center gap-2 bg-accent text-white px-6 py-3.5 rounded-full font-bold text-sm hover:bg-accent/90 transition-colors\" href=\"/avukat-fethi-guzel\">",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".flex-wrap.gap-2.flex > .hover\\:bg-accent\\/90.bg-accent.text-white",
-       "html": "<a class=\"inline-flex items-center gap-2 bg-accent text-white px-6 py-3 rounded-full text-sm font-bold hover:bg-accent/90 transition-colors\" href=\"/bilgi\">Vatandaş rehberi</a>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".mb-6.hover\\:bg-accent\\/90[rel=\"noopener noreferrer\"]",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 14058
+   "sure": 14475
   },
   {
    "sayfa": "makale",
    "adres": "/makale-oku/adam çalıştıran/Adam Çalıştıranın Sorumluluğu.docx",
    "durum": 200,
    "genislik": 1280,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 2,
-     "ornekler": [
-      {
-       "hedef": ".z-10",
-       "html": "<span class=\"relative z-10\">DANIŞMANLIK</span>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "8.3pt (11px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 5279
+   "sure": 5588
   },
   {
    "sayfa": "mevzuat",
    "adres": "/mevzuat",
    "durum": 200,
    "genislik": 1280,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 3,
-     "ornekler": [
-      {
-       "hedef": ".z-10",
-       "html": "<span class=\"relative z-10\">DANIŞMANLIK</span>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "8.3pt (11px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".sm\\:w-auto",
-       "html": "<button type=\"submit\" class=\"sm:w-auto px-6 py-3.5 rounded-2xl bg-accent text-white font-bold text-sm hover:bg-accent/90\">Ara</button>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90.bg-accent[rel=\"noopener noreferrer\"]",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [
     {
      "x": 96,
@@ -223,7 +49,7 @@
    ],
    "tasma": false,
    "tasanlar": [],
-   "sure": 5018
+   "sure": 5146
   },
   {
    "sayfa": "madde",
@@ -234,796 +60,146 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3190
+   "sure": 3227
   },
   {
    "sayfa": "ders-notu",
    "adres": "/ders-notlari/ankara/aile-hukuku-yillik",
    "durum": 200,
    "genislik": 1280,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 11,
-     "ornekler": [
-      {
-       "hedef": ".z-10",
-       "html": "<span class=\"relative z-10\">DANIŞMANLIK</span>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "8.3pt (11px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".mt-5 > .hover\\:bg-accent\\/90.text-white.py-2\\.5",
-       "html": "<a class=\"inline-flex text-sm font-bold px-4 py-2.5 rounded-full bg-accent text-white hover:bg-accent/90\" href=\"/ders-notlari/ankara/aile-hukuku-yillik/pdf?print=1\">PDF indir / Yazdır</a>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".h-7.w-7.text-white",
-       "html": "<span class=\"inline-flex h-7 w-7 items-center justify-center rounded-full bg-accent text-white text-xs font-bold\">60</span>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "9.0pt (12px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": "div:nth-child(8) > .scroll-mt-28 > .sm\\:p-5.my-6.print\\:break-inside-avoid > .mt-4.text-white.bg-accent",
-       "html": "<button type=\"button\" class=\"mt-4 text-sm font-bold px-4 py-2 rounded-full bg-accent text-white\">Kontrol et</button>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": "div:nth-child(9) > .scroll-mt-28 > .sm\\:p-5.my-6.print\\:break-inside-avoid > .mt-4.text-white.bg-accent",
-       "html": "<button type=\"button\" class=\"mt-4 text-sm font-bold px-4 py-2 rounded-full bg-accent text-white\">Kontrol et</button>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": "div:nth-child(10) > .scroll-mt-28 > .sm\\:p-5.my-6.print\\:break-inside-avoid > .mt-4.text-white.bg-accent",
-       "html": "<button type=\"button\" class=\"mt-4 text-sm font-bold px-4 py-2 rounded-full bg-accent text-white\">Kontrol et</button>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": "div:nth-child(11) > .scroll-mt-28 > .sm\\:p-5.my-6.print\\:break-inside-avoid > .mt-4.text-white.bg-accent",
-       "html": "<button type=\"button\" class=\"mt-4 text-sm font-bold px-4 py-2 rounded-full bg-accent text-white\">Kontrol et</button>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": "div:nth-child(12) > .scroll-mt-28 > .sm\\:p-5.my-6.print\\:break-inside-avoid > .mt-4.text-white.bg-accent",
-       "html": "<button type=\"button\" class=\"mt-4 text-sm font-bold px-4 py-2 rounded-full bg-accent text-white\">Kontrol et</button>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": "div:nth-child(13) > .scroll-mt-28 > .sm\\:p-5.my-6.print\\:break-inside-avoid > .mt-4.text-white.bg-accent",
-       "html": "<button type=\"button\" class=\"mt-4 text-sm font-bold px-4 py-2 rounded-full bg-accent text-white\">Kontrol et</button>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": "div:nth-child(14) > .scroll-mt-28 > .sm\\:p-5.my-6.print\\:break-inside-avoid > .mt-4.text-white.bg-accent",
-       "html": "<button type=\"button\" class=\"mt-4 text-sm font-bold px-4 py-2 rounded-full bg-accent text-white\">Kontrol et</button>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90.mb-6[rel=\"noopener noreferrer\"]",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 6663
+   "sure": 6817
   },
   {
    "sayfa": "yargi-arsivi",
    "adres": "/yargi-kararlari",
    "durum": 200,
    "genislik": 1280,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 3,
-     "ornekler": [
-      {
-       "hedef": ".z-10",
-       "html": "<span class=\"relative z-10\">DANIŞMANLIK</span>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "8.3pt (11px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".btn-primary",
-       "html": "<a class=\"btn-primary justify-center\" href=\"/uyelik/kayit\">Üye ol — 500 TL</a>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 5118
+   "sure": 4567
   },
   {
    "sayfa": "karar",
    "adres": "/yargi-kararlari/752428200",
    "durum": 200,
    "genislik": 1280,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 3,
-     "ornekler": [
-      {
-       "hedef": ".z-10",
-       "html": "<span class=\"relative z-10\">DANIŞMANLIK</span>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "8.3pt (11px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".btn-primary",
-       "html": "<a class=\"btn-primary justify-center\" href=\"/uyelik/kayit\">Üye ol — 500 TL</a>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3981
+   "sure": 4260
   },
   {
    "sayfa": "rehber",
    "adres": "/bilgi/aidat-borcu-ve-gecikme-tazminati",
    "durum": 200,
    "genislik": 1280,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 2,
-     "ornekler": [
-      {
-       "hedef": ".z-10",
-       "html": "<span class=\"relative z-10\">DANIŞMANLIK</span>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "8.3pt (11px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3354
+   "sure": 3443
   },
   {
    "sayfa": "hesaplama",
    "adres": "/hesaplama/kidem",
    "durum": 200,
    "genislik": 1280,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 2,
-     "ornekler": [
-      {
-       "hedef": ".z-10",
-       "html": "<span class=\"relative z-10\">DANIŞMANLIK</span>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "8.3pt (11px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3395
+   "sure": 3502
   },
   {
    "sayfa": "icthat",
    "adres": "/icthat",
    "durum": 200,
    "genislik": 1280,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 3,
-     "ornekler": [
-      {
-       "hedef": ".z-10",
-       "html": "<span class=\"relative z-10\">DANIŞMANLIK</span>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "8.3pt (11px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".mb-12.flex-wrap.justify-center > .bg-accent.text-white.px-5",
-       "html": "<button class=\"px-5 py-2 rounded-full text-xs font-heading font-bold uppercase tracking-widest transition bg-accent text-white\">Tümü</button>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "9.0pt (12px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3254
+   "sure": 3304
   },
   {
    "sayfa": "kavram",
    "adres": "/kavram/satim",
    "durum": 200,
    "genislik": 1280,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 2,
-     "ornekler": [
-      {
-       "hedef": ".z-10",
-       "html": "<span class=\"relative z-10\">DANIŞMANLIK</span>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "8.3pt (11px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3150
+   "sure": 3218
   },
   {
    "sayfa": "yazar",
    "adres": "/avukat-fethi-guzel",
    "durum": 200,
    "genislik": 1280,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 3,
-     "ornekler": [
-      {
-       "hedef": ".z-10",
-       "html": "<span class=\"relative z-10\">DANIŞMANLIK</span>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "8.3pt (11px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90.bg-accent[href=\"mailto:fethiguzel@hotmail.com\"]",
-       "html": "<a href=\"mailto:fethiguzel@hotmail.com\" class=\"inline-flex items-center justify-center gap-2 bg-accent text-white px-6 py-3.5 rounded-full font-bold text-sm hover:bg-accent/90\">",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": "div:nth-child(4) > .hover\\:bg-accent\\/90.bg-accent.text-white",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3365
+   "sure": 3370
   },
   {
    "sayfa": "bolge",
    "adres": "/van-avukat",
    "durum": 200,
    "genislik": 1280,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 2,
-     "ornekler": [
-      {
-       "hedef": ".z-10",
-       "html": "<span class=\"relative z-10\">DANIŞMANLIK</span>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "8.3pt (11px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3199
+   "sure": 3249
   },
   {
    "sayfa": "uyelik",
    "adres": "/uyelik",
    "durum": 200,
    "genislik": 1280,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 3,
-     "ornekler": [
-      {
-       "hedef": ".z-10",
-       "html": "<span class=\"relative z-10\">DANIŞMANLIK</span>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "8.3pt (11px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".btn-primary",
-       "html": "<a class=\"btn-primary justify-center\" href=\"/uyelik/kayit\">Üye ol</a>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3519
+   "sure": 3508
   },
   {
    "sayfa": "anasayfa",
    "adres": "/",
    "durum": 200,
    "genislik": 390,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 5,
-     "ornekler": [
-      {
-       "hedef": ".shadow-lg > span",
-       "html": "<span>KANUN MADDESİ ARA</span>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90.bg-accent[href$=\"yargi-kararlari\"]",
-       "html": "<a class=\"self-start inline-flex items-center gap-2 bg-accent text-white px-6 py-3 rounded-full text-sm font-bold hover:bg-accent/90 transition-colors\" href=\"/yargi-kararlari\">",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90.bg-accent[href$=\"avukat-fethi-guzel\"]",
-       "html": "<a class=\"inline-flex items-center justify-center gap-2 bg-accent text-white px-6 py-3.5 rounded-full font-bold text-sm hover:bg-accent/90 transition-colors\" href=\"/avukat-fethi-guzel\">",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".flex-wrap.gap-2.flex > .hover\\:bg-accent\\/90.bg-accent.text-white",
-       "html": "<a class=\"inline-flex items-center gap-2 bg-accent text-white px-6 py-3 rounded-full text-sm font-bold hover:bg-accent/90 transition-colors\" href=\"/bilgi\">Vatandaş rehberi</a>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".mb-6.hover\\:bg-accent\\/90[rel=\"noopener noreferrer\"]",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3434
+   "sure": 4188
   },
   {
    "sayfa": "makale",
    "adres": "/makale-oku/adam çalıştıran/Adam Çalıştıranın Sorumluluğu.docx",
    "durum": 200,
    "genislik": 390,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 1,
-     "ornekler": [
-      {
-       "hedef": ".hover\\:bg-accent\\/90",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 4522
+   "sure": 4868
   },
   {
    "sayfa": "mevzuat",
    "adres": "/mevzuat",
    "durum": 200,
    "genislik": 390,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 2,
-     "ornekler": [
-      {
-       "hedef": ".sm\\:w-auto",
-       "html": "<button type=\"submit\" class=\"sm:w-auto px-6 py-3.5 rounded-2xl bg-accent text-white font-bold text-sm hover:bg-accent/90\">Ara</button>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90.bg-accent[rel=\"noopener noreferrer\"]",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [
     {
      "x": 92,
@@ -1055,7 +231,7 @@
    ],
    "tasma": false,
    "tasanlar": [],
-   "sure": 4420
+   "sure": 6528
   },
   {
    "sayfa": "madde",
@@ -1066,509 +242,117 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 2784
+   "sure": 2968
   },
   {
    "sayfa": "ders-notu",
    "adres": "/ders-notlari/ankara/aile-hukuku-yillik",
    "durum": 200,
    "genislik": 390,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 10,
-     "ornekler": [
-      {
-       "hedef": ".mt-5 > .hover\\:bg-accent\\/90.text-white.py-2\\.5",
-       "html": "<a class=\"inline-flex text-sm font-bold px-4 py-2.5 rounded-full bg-accent text-white hover:bg-accent/90\" href=\"/ders-notlari/ankara/aile-hukuku-yillik/pdf?print=1\">PDF indir / Yazdır</a>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".h-7.w-7.text-white",
-       "html": "<span class=\"inline-flex h-7 w-7 items-center justify-center rounded-full bg-accent text-white text-xs font-bold\">60</span>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "9.0pt (12px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": "div:nth-child(8) > .scroll-mt-28 > .sm\\:p-5.my-6.print\\:break-inside-avoid > .mt-4.text-white.bg-accent",
-       "html": "<button type=\"button\" class=\"mt-4 text-sm font-bold px-4 py-2 rounded-full bg-accent text-white\">Kontrol et</button>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": "div:nth-child(9) > .scroll-mt-28 > .sm\\:p-5.my-6.print\\:break-inside-avoid > .mt-4.text-white.bg-accent",
-       "html": "<button type=\"button\" class=\"mt-4 text-sm font-bold px-4 py-2 rounded-full bg-accent text-white\">Kontrol et</button>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": "div:nth-child(10) > .scroll-mt-28 > .sm\\:p-5.my-6.print\\:break-inside-avoid > .mt-4.text-white.bg-accent",
-       "html": "<button type=\"button\" class=\"mt-4 text-sm font-bold px-4 py-2 rounded-full bg-accent text-white\">Kontrol et</button>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": "div:nth-child(11) > .scroll-mt-28 > .sm\\:p-5.my-6.print\\:break-inside-avoid > .mt-4.text-white.bg-accent",
-       "html": "<button type=\"button\" class=\"mt-4 text-sm font-bold px-4 py-2 rounded-full bg-accent text-white\">Kontrol et</button>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": "div:nth-child(12) > .scroll-mt-28 > .sm\\:p-5.my-6.print\\:break-inside-avoid > .mt-4.text-white.bg-accent",
-       "html": "<button type=\"button\" class=\"mt-4 text-sm font-bold px-4 py-2 rounded-full bg-accent text-white\">Kontrol et</button>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": "div:nth-child(13) > .scroll-mt-28 > .sm\\:p-5.my-6.print\\:break-inside-avoid > .mt-4.text-white.bg-accent",
-       "html": "<button type=\"button\" class=\"mt-4 text-sm font-bold px-4 py-2 rounded-full bg-accent text-white\">Kontrol et</button>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": "div:nth-child(14) > .scroll-mt-28 > .sm\\:p-5.my-6.print\\:break-inside-avoid > .mt-4.text-white.bg-accent",
-       "html": "<button type=\"button\" class=\"mt-4 text-sm font-bold px-4 py-2 rounded-full bg-accent text-white\">Kontrol et</button>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90.mb-6[rel=\"noopener noreferrer\"]",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 5577
+   "sure": 5477
   },
   {
    "sayfa": "yargi-arsivi",
    "adres": "/yargi-kararlari",
    "durum": 200,
    "genislik": 390,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 2,
-     "ornekler": [
-      {
-       "hedef": ".btn-primary",
-       "html": "<a class=\"btn-primary justify-center\" href=\"/uyelik/kayit\">Üye ol — 500 TL</a>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 2983
+   "sure": 2994
   },
   {
    "sayfa": "karar",
    "adres": "/yargi-kararlari/752428200",
    "durum": 200,
    "genislik": 390,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 2,
-     "ornekler": [
-      {
-       "hedef": ".btn-primary",
-       "html": "<a class=\"btn-primary justify-center\" href=\"/uyelik/kayit\">Üye ol — 500 TL</a>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 2801
+   "sure": 2860
   },
   {
    "sayfa": "rehber",
    "adres": "/bilgi/aidat-borcu-ve-gecikme-tazminati",
    "durum": 200,
    "genislik": 390,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 1,
-     "ornekler": [
-      {
-       "hedef": ".hover\\:bg-accent\\/90",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3000
+   "sure": 3103
   },
   {
    "sayfa": "hesaplama",
    "adres": "/hesaplama/kidem",
    "durum": 200,
    "genislik": 390,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 1,
-     "ornekler": [
-      {
-       "hedef": ".hover\\:bg-accent\\/90",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3160
+   "sure": 3225
   },
   {
    "sayfa": "icthat",
    "adres": "/icthat",
    "durum": 200,
    "genislik": 390,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 2,
-     "ornekler": [
-      {
-       "hedef": ".mb-12.flex-wrap.justify-center > .bg-accent.text-white.px-5",
-       "html": "<button class=\"px-5 py-2 rounded-full text-xs font-heading font-bold uppercase tracking-widest transition bg-accent text-white\">Tümü</button>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "9.0pt (12px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3098
+   "sure": 3117
   },
   {
    "sayfa": "kavram",
    "adres": "/kavram/satim",
    "durum": 200,
    "genislik": 390,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 1,
-     "ornekler": [
-      {
-       "hedef": ".hover\\:bg-accent\\/90",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 2887
+   "sure": 2920
   },
   {
    "sayfa": "yazar",
    "adres": "/avukat-fethi-guzel",
    "durum": 200,
    "genislik": 390,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 2,
-     "ornekler": [
-      {
-       "hedef": ".hover\\:bg-accent\\/90.bg-accent[href=\"mailto:fethiguzel@hotmail.com\"]",
-       "html": "<a href=\"mailto:fethiguzel@hotmail.com\" class=\"inline-flex items-center justify-center gap-2 bg-accent text-white px-6 py-3.5 rounded-full font-bold text-sm hover:bg-accent/90\">",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": "div:nth-child(4) > .hover\\:bg-accent\\/90.bg-accent.text-white",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3001
+   "sure": 3062
   },
   {
    "sayfa": "bolge",
    "adres": "/van-avukat",
    "durum": 200,
    "genislik": 390,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 1,
-     "ornekler": [
-      {
-       "hedef": ".hover\\:bg-accent\\/90",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3073
+   "sure": 3132
   },
   {
    "sayfa": "uyelik",
    "adres": "/uyelik",
    "durum": 200,
    "genislik": 390,
-   "ihlaller": [
-    {
-     "id": "color-contrast",
-     "etki": "serious",
-     "dugum": 2,
-     "ornekler": [
-      {
-       "hedef": ".btn-primary",
-       "html": "<a class=\"btn-primary justify-center\" href=\"/uyelik/kayit\">Üye ol</a>",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "bold",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      },
-      {
-       "hedef": ".hover\\:bg-accent\\/90",
-       "html": "<a href=\"https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-se",
-       "veri": {
-        "fgColor": "#ffffff",
-        "bgColor": "#cc5833",
-        "contrastRatio": 4.19,
-        "fontSize": "10.5pt (14px)",
-        "fontWeight": "normal",
-        "messageKey": null,
-        "expectedContrastRatio": "4.5:1"
-       }
-      }
-     ]
-    }
-   ],
+   "ihlaller": [],
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 2963
+   "sure": 2891
   }
  ]
 }

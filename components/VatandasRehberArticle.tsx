@@ -24,7 +24,7 @@ import { yazarRef } from '@/lib/yazar';
 const SITE = 'https://www.avfethiguzel.com';
 
 const HEADING_TONES = [
-  { text: 'text-accent', bar: 'bg-accent', wash: 'from-accent/12' },
+  { text: 'text-accent', bar: 'bg-accent-solid', wash: 'from-accent/12' },
   { text: 'text-primary', bar: 'bg-primary', wash: 'from-primary/12' },
   { text: 'text-[#1F6F8B]', bar: 'bg-[#1F6F8B]', wash: 'from-[#1F6F8B]/12' },
   { text: 'text-[#9A4A1E]', bar: 'bg-[#9A4A1E]', wash: 'from-[#9A4A1E]/12' },
@@ -314,7 +314,7 @@ export default function VatandasRehberArticle({
               <li key={l.href}>
                 <Link
                   href={l.href}
-                  className="inline-flex text-xs font-semibold px-3 py-1.5 rounded-full bg-accent/10 text-accent-ink hover:bg-accent hover:text-white transition-colors"
+                  className="inline-flex text-xs font-semibold px-3 py-1.5 rounded-full bg-accent/10 text-accent-ink hover:bg-accent-solid hover:text-white transition-colors"
                 >
                   {l.label}
                 </Link>

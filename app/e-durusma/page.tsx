@@ -69,7 +69,7 @@ export default function EDurusmaHubPage() {
                         href={PROFILE.book.url}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="inline-flex items-center gap-2 bg-accent text-white px-5 py-2.5 rounded-full text-sm font-bold hover:bg-accent/90"
+                        className="inline-flex items-center gap-2 bg-accent-solid text-white px-5 py-2.5 rounded-full text-sm font-bold hover:bg-accent-ink"
                     >
                         Seçkin Yayıncılık <ExternalLink size={14} />
                     </a>

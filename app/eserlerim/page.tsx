@@ -72,7 +72,7 @@ export default function EserlerimPage() {
                   <div className="absolute left-0 top-0 bottom-0 w-4 bg-black/40 z-10"></div>
                   <div className="absolute inset-0 p-12 flex flex-col justify-between text-center">
                     <div className="space-y-4">
-                      <div className="w-12 h-1 bg-accent mx-auto"></div>
+                      <div className="w-12 h-1 bg-accent-solid mx-auto"></div>
                       <h4 className="text-accent font-heading text-4xl font-bold">e-duruşma</h4>
                     </div>
                     <p className="text-cream/55 text-[10px] font-mono leading-relaxed uppercase tracking-widest">

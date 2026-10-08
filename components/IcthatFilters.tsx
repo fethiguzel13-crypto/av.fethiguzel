@@ -19,7 +19,7 @@ export default function IcthatFilters({ active, onChange }: { active: string; on
           onClick={() => onChange(f.value)}
           className={`px-5 py-2 rounded-full text-xs font-heading font-bold uppercase tracking-widest transition ${
             active === f.value
-              ? 'bg-accent text-white'
+              ? 'bg-accent-solid text-white'
               : 'bg-white text-charcoal/70 border border-charcoal/10 hover:border-accent/40'
           }`}
         >

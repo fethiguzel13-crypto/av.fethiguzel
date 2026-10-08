@@ -929,7 +929,7 @@ function NafakaArtisi() {
   const tabBtn = (key: typeof tab, label: string) => (
     <button
       onClick={() => setTab(key)}
-      className={`px-3 py-1.5 rounded-full text-xs font-bold transition-colors ${tab === key ? "bg-accent text-white" : "bg-charcoal/5 text-ink-muted hover:bg-charcoal/10"}`}
+      className={`px-3 py-1.5 rounded-full text-xs font-bold transition-colors ${tab === key ? "bg-accent-solid text-white" : "bg-charcoal/5 text-ink-muted hover:bg-charcoal/10"}`}
     >{label}</button>
   );
 
@@ -3905,7 +3905,7 @@ export default function HesaplamaHub({ kirinti }: { kirinti?: React.ReactNode })
                           key={a.id}
                           href={`#${a.id}`}
                           onClick={() => { window.location.hash = a.id; }}
-                          className="inline-flex items-center gap-1.5 text-xs font-semibold px-3 py-1.5 rounded-full bg-accent/10 text-accent-ink hover:bg-accent hover:text-white transition-colors"
+                          className="inline-flex items-center gap-1.5 text-xs font-semibold px-3 py-1.5 rounded-full bg-accent/10 text-accent-ink hover:bg-accent-solid hover:text-white transition-colors"
                         >
                           <Icon size={13} aria-hidden /> {a.baslik}
                         </a>
@@ -3963,7 +3963,7 @@ export default function HesaplamaHub({ kirinti }: { kirinti?: React.ReactNode })
               <button
                 type="button"
                 onClick={() => { setSadeceFav(v => !v); setAktifTag(null); }}
-                className={`inline-flex items-center gap-1 text-[10px] sm:text-[11px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-full transition-colors ${sadeceFav ? "bg-accent text-white" : "bg-charcoal/5 text-ink-muted hover:bg-charcoal/10"}`}
+                className={`inline-flex items-center gap-1 text-[10px] sm:text-[11px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-full transition-colors ${sadeceFav ? "bg-accent-solid text-white" : "bg-charcoal/5 text-ink-muted hover:bg-charcoal/10"}`}
               >
                 <Star size={11} className={sadeceFav ? "fill-white" : ""} /> Favori ({favs.length})
               </button>
@@ -4033,7 +4033,7 @@ export default function HesaplamaHub({ kirinti }: { kirinti?: React.ReactNode })
             <div className="flex flex-wrap justify-center gap-3">
               <Link
                 href="/on-form"
-                className="inline-block bg-accent text-white px-6 sm:px-8 py-3 sm:py-3.5 rounded-full font-bold text-sm hover:bg-accent/90 transition-colors"
+                className="inline-block bg-accent-solid text-white px-6 sm:px-8 py-3 sm:py-3.5 rounded-full font-bold text-sm hover:bg-accent-ink transition-colors"
               >
                 Ön değerlendirme formu
               </Link>

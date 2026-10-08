@@ -111,7 +111,7 @@ export default async function KanunHubPage({ params }: Props) {
         <div className="flex flex-wrap gap-2 mb-10">
           <Link
             href={`/ara?q=${encodeURIComponent(code)}`}
-            className="text-sm px-4 py-2 rounded-full bg-accent text-white font-bold hover:bg-accent/90"
+            className="text-sm px-4 py-2 rounded-full bg-accent-solid text-white font-bold hover:bg-accent-ink"
           >
             {code} maddelerinde ara
           </Link>

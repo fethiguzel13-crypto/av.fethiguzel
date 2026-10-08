@@ -104,7 +104,7 @@ export default function About() {
           <div className="philo-text flex flex-col sm:flex-row flex-wrap gap-3 pt-2">
             <Link
               href="/avukat-fethi-guzel"
-              className="inline-flex items-center justify-center gap-2 bg-accent text-white px-6 py-3.5 rounded-full font-bold text-sm hover:bg-accent/90 transition-colors"
+              className="inline-flex items-center justify-center gap-2 bg-accent-solid text-white px-6 py-3.5 rounded-full font-bold text-sm hover:bg-accent-ink transition-colors"
             >
               Tam profil
               <ArrowRight size={16} aria-hidden />

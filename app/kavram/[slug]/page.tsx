@@ -126,7 +126,7 @@ export default async function KavramSlugPage({ params }: Props) {
                                 <li key={m.href}>
                                     <Link
                                         href={m.href}
-                                        className="inline-block text-sm px-3 py-1.5 rounded-full bg-accent/10 text-accent-ink font-semibold hover:bg-accent hover:text-white"
+                                        className="inline-block text-sm px-3 py-1.5 rounded-full bg-accent/10 text-accent-ink font-semibold hover:bg-accent-solid hover:text-white"
                                     >
                                         {m.label}
                                     </Link>

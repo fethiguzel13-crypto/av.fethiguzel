@@ -111,7 +111,7 @@ export default function Hero({ sayilar }: { sayilar: HeroSayilari }) {
             </Link>
             <Link
               href="/ara"
-              className="group flex items-center justify-center gap-2 sm:gap-3 bg-accent text-white px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all shadow-lg shadow-accent/30 hover:bg-accent/90 hover:-translate-y-0.5"
+              className="group flex items-center justify-center gap-2 sm:gap-3 bg-accent-solid text-white px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all shadow-lg shadow-accent/30 hover:bg-accent-ink hover:-translate-y-0.5"
             >
               <BookOpen size={16} className="shrink-0" />
               <span>KANUN MADDESİ ARA</span>

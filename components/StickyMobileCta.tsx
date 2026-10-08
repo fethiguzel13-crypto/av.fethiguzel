@@ -51,7 +51,7 @@ export default function StickyMobileCta() {
                 </Link>
                 <Link
                     href="/on-form"
-                    className="flex-1 flex flex-col items-center justify-center gap-0.5 py-2.5 rounded-xl bg-accent text-white font-bold"
+                    className="flex-1 flex flex-col items-center justify-center gap-0.5 py-2.5 rounded-xl bg-accent-solid text-white font-bold"
                 >
                     <FileText size={16} aria-hidden />
                     <span className="text-[10px] uppercase tracking-wider">Form</span>

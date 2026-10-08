@@ -42,7 +42,7 @@ export default function ArabicLandingPage() {
                 <div className="flex flex-col sm:flex-row flex-wrap gap-3">
                     <a
                         href={`mailto:${PROFILE.email}?subject=Legal%20inquiry%20(Arabic%2FEN)`}
-                        className="inline-flex justify-center bg-accent text-white px-6 py-3 rounded-full font-bold text-sm"
+                        className="inline-flex justify-center bg-accent-solid text-white px-6 py-3 rounded-full font-bold text-sm"
                     >
                         راسلنا بالبريد
                     </a>
