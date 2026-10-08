@@ -64,13 +64,13 @@ export default function Footer() {
                     href={`https://www.google.com/maps/search/?api=1&query=${PROFILE.office.mapQuery}`}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-block mt-4 text-accent-light text-xs font-bold uppercase tracking-widest hover:underline"
+                    className="inline-flex items-center min-h-6 mt-3 text-accent-light text-xs font-bold uppercase tracking-widest hover:underline"
                   >
                     Google Haritalar&apos;da Aç →
                   </a>
                   <Link
                     href="/ercis-avukat"
-                    className="block mt-2 text-cream/50 text-xs font-bold uppercase tracking-widest hover:text-accent-light"
+                    className="flex items-center min-h-6 mt-1 text-cream/55 text-xs font-bold uppercase tracking-widest hover:text-accent-light"
                   >
                     Erciş hukuki bilgilendirme
                   </Link>
@@ -85,7 +85,7 @@ export default function Footer() {
                   <h4 className="text-cream/55 text-[10px] uppercase tracking-widest mb-2 font-bold">E-Posta</h4>
                   <a
                     href={`mailto:${PROFILE.email}`}
-                    className="text-cream text-lg hover:text-accent-light transition-colors"
+                    className="inline-flex items-center min-h-6 text-cream text-lg hover:text-accent-light transition-colors"
                   >
                     {PROFILE.email}
                   </a>

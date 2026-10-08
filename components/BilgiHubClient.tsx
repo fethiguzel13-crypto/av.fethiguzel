@@ -70,7 +70,7 @@ export default function BilgiHubClient({
             value={q}
             onChange={(e) => setQ(e.target.value)}
             placeholder="Ne arıyorsunuz? Kıdem, nafaka, ödeme emri, emlak vergisi…"
-            className="w-full pl-9 pr-9 py-3 rounded-xl border border-charcoal/10 bg-white text-sm text-charcoal placeholder:text-charcoal/35 focus:outline-none focus:border-accent"
+            className="w-full pl-9 pr-9 py-3 rounded-xl border border-charcoal/10 bg-white text-sm text-charcoal placeholder:text-charcoal/35 field-focus"
           />
           {q && (
             <button

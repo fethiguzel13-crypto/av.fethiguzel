@@ -189,7 +189,7 @@ function Field({ label, children }: { label: string; children: React.ReactNode }
   );
 }
 
-const inp = "w-full border border-charcoal/15 rounded-xl px-3 sm:px-4 py-2.5 text-charcoal text-sm focus:outline-none focus:border-accent transition-colors bg-cream/60";
+const inp = "w-full border border-charcoal/15 rounded-xl px-3 sm:px-4 py-2.5 text-charcoal text-sm field-focus transition-colors bg-cream/60";
 const sel = inp + " cursor-pointer";
 
 // ─── BİNLİK AYRAÇLI PARA GİRİŞİ ───────────────────────────────────────────────
@@ -3949,7 +3949,7 @@ export default function HesaplamaHub({ kirinti }: { kirinti?: React.ReactNode })
                 onChange={e => setArama(e.target.value)}
                 placeholder="Akıllı ara — kıdem, satım, faiz, ihbar, yatar, harç…"
                 aria-label="Hesaplama aracı ara"
-                className="w-full border border-charcoal/15 rounded-full pl-10 pr-4 py-2.5 sm:py-3 text-sm text-charcoal bg-white focus:outline-none focus:border-accent transition-colors shadow-sm"
+                className="w-full border border-charcoal/15 rounded-full pl-10 pr-4 py-2.5 sm:py-3 text-sm text-charcoal bg-white field-focus transition-colors shadow-sm"
               />
             </div>
             <div className="flex flex-wrap gap-1.5 sm:gap-2">

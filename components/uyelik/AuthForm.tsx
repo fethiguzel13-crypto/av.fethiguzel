@@ -6,7 +6,7 @@ import { useRouter } from 'next/navigation';
 import { priceLabel } from '@/lib/uyelik/config';
 
 const inp =
-  'w-full rounded-2xl border border-charcoal/10 bg-white px-4 py-3 text-sm text-charcoal outline-none focus:border-accent';
+  'w-full rounded-2xl border border-charcoal/10 bg-white px-4 py-3 text-sm text-charcoal field-focus';
 
 export default function AuthForm({ mode }: { mode: 'giris' | 'kayit' }) {
   const router = useRouter();

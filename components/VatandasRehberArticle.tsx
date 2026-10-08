@@ -171,7 +171,7 @@ export default function VatandasRehberArticle({
       {plan.clocks.length > 0 ? <RehberClocks clocks={plan.clocks} /> : null}
       {plan.fork ? <RehberFork fork={plan.fork} /> : null}
       {plan.trap ? <RehberTrap text={plan.trap} /> : article.keyInsight ? (
-        <p className="mb-10 rounded-xl border-l-4 border-accent bg-accent/[0.06] px-4 py-3 text-[15px] text-charcoal/85 leading-relaxed">
+        <p className="mb-10 rounded-xl border border-accent/20 bg-accent/[0.06] px-4 py-3 text-[15px] text-charcoal/85 leading-relaxed">
           <RichText text={article.keyInsight} />
         </p>
       ) : null}

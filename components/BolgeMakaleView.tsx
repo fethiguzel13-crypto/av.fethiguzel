@@ -270,7 +270,7 @@ export default function BolgeMakaleView({
                   </ul>
                 )}
                 {sec.callout && (
-                  <div className="mt-5 rounded-xl border-l-4 border-accent bg-charcoal/[0.03] px-4 py-3">
+                  <div className="mt-5 rounded-xl border border-accent/20 bg-accent/[0.05] px-4 py-3">
                     <p className="text-xs font-bold text-accent-ink uppercase tracking-wide mb-1">{sec.callout.title}</p>
                     <p className="text-sm text-charcoal/70 leading-relaxed m-0">{sec.callout.body}</p>
                   </div>

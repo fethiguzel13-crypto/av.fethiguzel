@@ -241,6 +241,20 @@ body::before {
     transform: translateY(-2px);
   }
 
+  /* Metin girdisinin odak göstergesi: Kenar vurgu rengine döner (beyaz zeminde 4,19:1), halka görünürlüğü artırır (G15). */
+  .field-focus {
+    @apply focus:outline-none focus:border-accent focus:ring-2 focus:ring-accent/30;
+  }
+
+  /* Çerçevesiz girdiyi saran kap (ör. üst çubuk araması): Odak göstergesi kabın kenarındadır. */
+  .field-focus-within {
+    @apply focus-within:border-accent focus-within:ring-2 focus-within:ring-accent/30;
+  }
+
+  .field-focus-within input {
+    @apply outline-none;
+  }
+
   .btn-primary {
     @apply inline-flex items-center justify-center gap-2 bg-accent-solid text-white font-bold text-sm px-6 py-3.5 rounded-full transition-all;
     box-shadow: 0 8px 24px -6px rgba(204, 88, 51, 0.45);

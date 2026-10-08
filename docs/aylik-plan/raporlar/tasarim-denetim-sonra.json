@@ -1,10 +1,10 @@
 {
  "etiket": "sonra",
  "taban": "http://localhost:3123",
- "tarih": "2026-10-08T03:32:47.970Z",
+ "tarih": "2026-10-08T03:50:20.150Z",
  "ozet": {
   "kurallar": [],
-  "kucukHedef": 4,
+  "kucukHedef": 0,
   "tasan": []
  },
  "sonuclar": [
@@ -17,7 +17,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 14475
+   "sure": 14300
   },
   {
    "sayfa": "makale",
@@ -28,7 +28,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 5588
+   "sure": 5510
   },
   {
    "sayfa": "mevzuat",
@@ -36,20 +36,10 @@
    "durum": 200,
    "genislik": 1280,
    "ihlaller": [],
-   "hedef": [
-    {
-     "x": 96,
-     "y": 9823,
-     "w": 206,
-     "h": 16,
-     "etiket": "a",
-     "metin": "Google Haritalar'da Aç →",
-     "sinif": "inline-block mt-4 text-accent-light text-xs font-bold uppercase tracking-widest hover:underline"
-    }
-   ],
+   "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 5146
+   "sure": 5082
   },
   {
    "sayfa": "madde",
@@ -60,7 +50,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3227
+   "sure": 3503
   },
   {
    "sayfa": "ders-notu",
@@ -71,7 +61,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 6817
+   "sure": 7012
   },
   {
    "sayfa": "yargi-arsivi",
@@ -82,7 +72,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 4567
+   "sure": 4314
   },
   {
    "sayfa": "karar",
@@ -93,7 +83,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 4260
+   "sure": 4086
   },
   {
    "sayfa": "rehber",
@@ -104,7 +94,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3443
+   "sure": 3546
   },
   {
    "sayfa": "hesaplama",
@@ -115,7 +105,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3502
+   "sure": 3477
   },
   {
    "sayfa": "icthat",
@@ -126,7 +116,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3304
+   "sure": 3274
   },
   {
    "sayfa": "kavram",
@@ -137,7 +127,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3218
+   "sure": 3754
   },
   {
    "sayfa": "yazar",
@@ -148,7 +138,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3370
+   "sure": 3883
   },
   {
    "sayfa": "bolge",
@@ -159,7 +149,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3249
+   "sure": 3215
   },
   {
    "sayfa": "uyelik",
@@ -170,7 +160,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3508
+   "sure": 3448
   },
   {
    "sayfa": "anasayfa",
@@ -181,7 +171,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 4188
+   "sure": 4037
   },
   {
    "sayfa": "makale",
@@ -192,7 +182,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 4868
+   "sure": 4530
   },
   {
    "sayfa": "mevzuat",
@@ -200,38 +190,10 @@
    "durum": 200,
    "genislik": 390,
    "ihlaller": [],
-   "hedef": [
-    {
-     "x": 92,
-     "y": 25928,
-     "w": 206,
-     "h": 16,
-     "etiket": "a",
-     "metin": "Google Haritalar'da Aç →",
-     "sinif": "inline-block mt-4 text-accent-light text-xs font-bold uppercase tracking-widest hover:underline"
-    },
-    {
-     "x": 92,
-     "y": 25954,
-     "w": 278,
-     "h": 16,
-     "etiket": "a",
-     "metin": "Erciş hukuki bilgilendirme",
-     "sinif": "block mt-2 text-cream/50 text-xs font-bold uppercase tracking-widest hover:text-accent-light"
-    },
-    {
-     "x": 92,
-     "y": 26027,
-     "w": 208,
-     "h": 23,
-     "etiket": "a",
-     "metin": "fethiguzel@hotmail.com",
-     "sinif": "text-cream text-lg hover:text-accent-light transition-colors"
-    }
-   ],
+   "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 6528
+   "sure": 4660
   },
   {
    "sayfa": "madde",
@@ -242,7 +204,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 2968
+   "sure": 2765
   },
   {
    "sayfa": "ders-notu",
@@ -253,7 +215,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 5477
+   "sure": 5984
   },
   {
    "sayfa": "yargi-arsivi",
@@ -264,7 +226,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 2994
+   "sure": 3171
   },
   {
    "sayfa": "karar",
@@ -275,7 +237,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 2860
+   "sure": 3064
   },
   {
    "sayfa": "rehber",
@@ -286,7 +248,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3103
+   "sure": 3232
   },
   {
    "sayfa": "hesaplama",
@@ -297,7 +259,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3225
+   "sure": 3248
   },
   {
    "sayfa": "icthat",
@@ -308,7 +270,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3117
+   "sure": 3086
   },
   {
    "sayfa": "kavram",
@@ -319,7 +281,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 2920
+   "sure": 2901
   },
   {
    "sayfa": "yazar",
@@ -330,7 +292,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3062
+   "sure": 3192
   },
   {
    "sayfa": "bolge",
@@ -341,7 +303,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3132
+   "sure": 2993
   },
   {
    "sayfa": "uyelik",
@@ -352,7 +314,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 2891
+   "sure": 2819
   }
  ]
 }

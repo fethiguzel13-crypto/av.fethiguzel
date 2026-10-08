@@ -460,7 +460,7 @@ function MevzuatSearchInner({
                             onFocus={requestIndex}
                             autoFocus={autoFocus}
                             placeholder="Örn. satım, taşınır satışı, TBK 207, kıdem, nafaka…"
-                            className="w-full pl-11 pr-10 py-4 rounded-2xl border border-charcoal/10 bg-white shadow-sm text-charcoal placeholder:text-charcoal/35 focus:outline-none focus:ring-2 focus:ring-accent/40 focus:border-accent/30 text-sm sm:text-base"
+                            className="w-full pl-11 pr-10 py-4 rounded-2xl border border-charcoal/10 bg-white shadow-sm text-charcoal placeholder:text-charcoal/35 field-focus text-sm sm:text-base"
                             aria-label="Site ve mevzuat ara"
                             autoComplete="off"
                         />
@@ -480,7 +480,7 @@ function MevzuatSearchInner({
                             value={kanunFilter}
                             onChange={(e) => setKanunFilter(e.target.value)}
                             onFocus={requestIndex}
-                            className="sm:w-56 py-4 px-4 rounded-2xl border border-charcoal/10 bg-white text-sm text-charcoal/80 focus:outline-none focus:ring-2 focus:ring-accent/40"
+                            className="sm:w-56 py-4 px-4 rounded-2xl border border-charcoal/10 bg-white text-sm text-charcoal/80 field-focus"
                             aria-label="Kanun filtresi"
                         >
                             <option value="all">Tüm kanunlar + site</option>

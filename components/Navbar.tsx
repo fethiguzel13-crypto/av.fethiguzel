@@ -272,7 +272,7 @@ export default function Navbar() {
         {/* Gerçek arama — /ara?q= */}
         <form
           onSubmit={submitNavSearch}
-          className={`hidden 2xl:flex items-center gap-1 rounded-full border px-2.5 py-1.5 shrink-0 max-w-[14rem] 2xl:max-w-[15rem] ${solid ? 'border-charcoal/[0.12] bg-white/90' : 'border-cream/25 bg-cream/10'
+          className={`hidden 2xl:flex items-center gap-1 rounded-full border field-focus-within px-2.5 py-1.5 shrink-0 max-w-[14rem] 2xl:max-w-[15rem] ${solid ? 'border-charcoal/[0.12] bg-white/90' : 'border-cream/25 bg-cream/10'
             }`}
           role="search"
         >
@@ -283,7 +283,7 @@ export default function Navbar() {
             onChange={(e) => setNavQ(e.target.value)}
             placeholder="Satım, kıdem, TBK…"
             aria-label="Site ve mevzuat ara"
-            className={`w-full min-w-0 bg-transparent text-[11px] outline-none placeholder:opacity-60 ${solid ? 'text-charcoal placeholder:text-charcoal/40' : 'text-cream placeholder:text-cream/55'
+            className={`w-full min-w-0 bg-transparent text-[11px] placeholder:opacity-60 ${solid ? 'text-charcoal placeholder:text-charcoal/40' : 'text-cream placeholder:text-cream/55'
               }`}
           />
         </form>

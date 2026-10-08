@@ -34,7 +34,7 @@ export default function CategoryArticleList({ articles }: { articles: Article[] 
                     value={q}
                     onChange={(e) => setQ(e.target.value)}
                     placeholder="Bu kategoride madde ara…"
-                    className="w-full pl-11 pr-4 py-3 rounded-xl border border-charcoal/10 bg-white text-sm focus:outline-none focus:ring-2 focus:ring-accent/30"
+                    className="w-full pl-11 pr-4 py-3 rounded-xl border border-charcoal/10 bg-white text-sm field-focus"
                 />
             </div>
             <p className="text-[11px] font-mono uppercase tracking-widest text-ink-muted mb-6">

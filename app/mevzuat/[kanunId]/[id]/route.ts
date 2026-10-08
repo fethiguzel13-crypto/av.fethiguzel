@@ -239,7 +239,7 @@ h1{font-size:clamp(1.45rem,3vw,2rem);line-height:1.22;margin:.45rem 0 0;font-wei
 .topbar a.brand{font-weight:800;color:#1C1C1C;font-size:.95rem}
 .topbar nav a{margin-left:.85rem;font-size:.8rem;font-weight:600;color:rgba(28,28,28,.65)}
 .prose p{margin:.55rem 0}
-.notice{border-left:3px solid #C45A38;padding:.15rem 0 .15rem 1rem}
+.notice{border:1px solid rgba(204,88,51,.22);border-radius:.75rem;background:rgba(204,88,51,.05);padding:.35rem 1rem}
 .notice p{margin:.5rem 0}
 .notice strong{color:#A7482A}
 .yazar{border:1px solid rgba(0,0,0,.08);border-radius:1rem;background:rgba(255,254,250,.6);padding:1rem 1.25rem;margin:1.1rem 0;font-size:.88rem;color:rgba(28,28,28,.72)}

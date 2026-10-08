@@ -1186,7 +1186,7 @@ export function DersNotuView({
                 {sec.kartlar.map((k) => (
                   <div
                     key={k.baslik}
-                    className="rounded-2xl border border-charcoal/10 bg-white p-4 shadow-sm border-t-4 border-t-accent"
+                    className="rounded-2xl border border-charcoal/10 bg-white p-4 shadow-sm"
                   >
                     <p className="text-sm font-heading font-bold text-charcoal mb-2 m-0">{k.baslik}</p>
                     <p className="text-xs sm:text-[13px] text-charcoal/65 leading-relaxed m-0">{k.govde}</p>

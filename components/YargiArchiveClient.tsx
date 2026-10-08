@@ -175,7 +175,7 @@ export default function YargiArchiveClient() {
           onChange={(e) => setQ(e.target.value)}
           placeholder="HGK · vekâlet · 2026/3267 · Türk Borçlar Kanunu"
           aria-label="Yargıtay arşivinde ara"
-          className="w-full rounded-2xl border border-charcoal/10 bg-white pl-10 pr-10 py-3.5 text-sm outline-none focus:border-accent"
+          className="w-full rounded-2xl border border-charcoal/10 bg-white pl-10 pr-10 py-3.5 text-sm field-focus"
         />
         {q && (
           <button
