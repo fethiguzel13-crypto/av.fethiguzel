@@ -472,3 +472,34 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   damgalı dosyalar geri alınmıştır.
 - Sıradaki: G16 adım 3'ün kalanı (TrustBar ile CredentialsStrip birleşmesi, mobilde hesaplama kartı sınırı), sonra adım 4 ve 5
   (`gorevler/G16.md` "Sıradaki"). G16 DEVAM EDİYOR.
+
+## 2026-10-08 08:00 — G16 DEVAM EDİYOR (başsız oturum, başladı 08:00)
+
+- Kayıt bu oturumda yazılamamıştır, oturum 09:37'de kullanım sınırıyla kesilmiştir (döküm `064f15ab…jsonl`, `"error":"rate_limit"`).
+  10:00 ve 11:00 oturumları da sınıra takılıp iş yapmadan kapanmıştır. Aşağıdaki özet 12:00 oturumunun dökümden çıkardığıdır.
+  Adım 3 tamamlanıp commit edilmiştir (`3a9f11b78`). Adım 4 için `lib/__tests__/yazar-sayfalari.test.mjs` yazılmış, önce
+  kırmızıdır (0/5). CredentialsStrip silinmiş, üç sayfa künyeyi `YAZAR`'dan almaya başlamış, `/eserlerim` sunucu bileşenine dönmüş
+  ve "Sitedeki yayınlar" bölümü eklenmiştir. Kesinti anında test 3/5 yeşildir.
+
+## 2026-10-08 12:00 — G16 DEVAM EDİYOR (başsız oturum, başladı 12:00)
+
+- Devralma: `DURAKLAT` yok, son commit `3a9f11b78`. Ağaçtaki dokuz değişiklik 08:00 oturumunun adım 4 işidir. Port 3123 boştur.
+  Perşembe olduğundan G08 yapılmamıştır.
+- Yazar sayfasında kalan iki elle yazılmış ad (Twitter başlığı, kırıntı) `YAZAR.ad`'a bağlanmış, yorumdaki eski bileşen adı
+  çıkarılmıştır. `yazar-sayfalari` testi 5/5 yeşildir.
+- Adım 4: Tam `npm run kalite` yeşildir (780 test, derleme 401 sn, boş bellek ~280 MB). Commit `3d557a0a8`.
+- Adım 5 ilk ölçüm iki bulgu vermiştir. `/eserlerim` alt başlığı açık zeminde `text-accent` ile 3,67:1'di, `text-accent-ink`'e
+  çevrilmiştir. Ana sayfanın mobil aktarımı 811 KB'tı (G13 sonrası 758 KB). İstek dökümüne göre artış ön getirmedendir: Sayı
+  rozetleri kalkınca külliyat şeridi ve Hero'nun iki ikincil düğmesi mobil ilk ekrana girmiştir. Bu bağlantılarda `prefetch={false}`
+  kullanılmış (G13 alt çubuk emsali), cırcır testi önce kırmızıdır. Tam kapı iki kez yeşildir (781 test). Kapanış ölçümünde dört
+  sayfa iki genişlikte kontrast, hedef ve taşma bakımından 0'dır. Ana sayfa mobil ortancası LCP 4.938 ms ve aktarım 716 KB'tır,
+  detektör 0 bulgu vermiştir. Commit `f5091f063`.
+- G15 notundaki düğme birleştirmesi: Açık zemindeki 14 satır içi düğme `.btn-primary`, `.btn-dark`, `.btn-secondary`, `.btn-chip`
+  sınıflarına toplanmıştır, Hero'nun koyu zemindeki kademeli düğmeleri değişmemiştir. Cırcır testi önce kırmızıdır (14). Tam kapı
+  yeşildir (782 test, derleme 277 sn). Denetim yine 0, aktarım 716 KB, LCP 4.903 ms'dir. Commit `9d11f11ba`.
+- **G16 tamamlanmıştır** (PLAN.md'de `[x]`). Alt bilgideki iki uyum beyanı ile `/akademik-profil` ve `/eserlerim`'in denetim
+  listesine eklenmesi G25'e devredilmiştir. Soru 10–14'e bağlı öğeler değiştirilmemiştir.
+- OTONOM.md teknik tuzaklarına Git Bash yol dönüşümü eklenmiştir (`/` argümanı `C:/Program Files/Git/` oldu; `MSYS_NO_PATHCONV=1`).
+- TestSprite: değişiklik yayında değil (30 Ekim), koşulmamıştır. Sunucu kapatılmış, port 3123 boştur, zaman damgalı dosyalar geri
+  alınmıştır. Kapının düşürdüğü betik bütçe tabanı (`/` 530,2 → 529,8 KB) bu kayıtla commit edilmiştir.
+- Sıradaki: G17 (grafikler, beceri dataviz). Bağımlılığı G15 `[x]`'tir. Alt plan `gorevler/G17.md` henüz yazılmamıştır.
