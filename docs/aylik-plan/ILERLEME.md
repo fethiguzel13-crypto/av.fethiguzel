@@ -457,3 +457,4 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   (PLAN.md'de `[x]`). Düğme ölçü birleştirmesi G16'ya, yargı arşivi TBT'si ile `app/[category]` denetimi G25'e not edilmiştir.
 - TestSprite: değişiklik yayında değil (30 Ekim), koşulmamıştır. Sunucu kapatılmış, port 3123 boştur, zaman damgalı dosyalar geri
   alınmıştır.
+- G16 DEVAM EDİYOR (başladı 06:58). Alt plan `gorevler/G16.md` yazıldı (`c083d9545`).
