@@ -38,7 +38,7 @@ export default function Footer() {
           <div>
             <h2 className="text-accent-light font-heading text-xs sm:text-sm tracking-widest uppercase mb-5 sm:mb-8">İletişim & Ofis</h2>
             <h3 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-cream font-bold mb-6 sm:mb-8 leading-tight">
-              Çözüm için <span className="font-drama italic text-accent">Buradayız.</span>
+              Büro ve <span className="font-drama italic text-accent">iletişim.</span>
             </h3>
             <p className="text-cream/55 text-sm sm:text-base max-w-md mb-8 sm:mb-12 leading-relaxed">
               Erciş / Van ofisi · dava vekilliği, arabuluculuk ve hukuki danışmanlık.

@@ -5,7 +5,25 @@ import DailyNewsCards from './DailyNewsCards';
 
 export default function DailyNews() {
   const data = loadDaily();
-  if (!data || !data.highlights || data.highlights.length === 0) return null;
+  // Günün vurgusu yoksa (veri eski ya da boş) bölüm kısa bir satıra iner; ana sayfanın güncel içtihat ayağı kaybolmaz (G16).
+  if (!data || !data.highlights || data.highlights.length === 0) {
+    return (
+      <section id="guncel" className="py-10 px-5 sm:px-6 bg-cream border-t border-charcoal/5">
+        <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
+          <p className="text-charcoal font-heading font-bold text-lg m-0">
+            Günlük içtihat: Yargıtay, Anayasa Mahkemesi ve Resmî Gazete taraması
+          </p>
+          <Link
+            href="/icthat"
+            className="inline-flex items-center gap-2 min-h-6 text-accent-ink font-bold text-sm tracking-widest uppercase border-b-2 border-accent pb-1 shrink-0"
+          >
+            Güncel içtihatlar
+            <ArrowUpRight size={16} aria-hidden />
+          </Link>
+        </div>
+      </section>
+    );
+  }
 
   return (
     <section id="guncel" className="py-16 sm:py-24 md:py-32 px-5 sm:px-6 bg-cream">
