@@ -245,6 +245,7 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
   - "Yargıtay karar arşivi" istatistik sayfası: yıllara, birimlere, hukuk alanlarına göre dağılım,
     emsal/benzer oranları (veri: `_state/benzerlik.jsonl`, `index.jsonl`; derleme anında statik JSON).
   - Hesaplama araçlarına görsel döküm (tazminat bileşenleri, faiz zaman çizelgesi).
+  - DEVAM EDİYOR (2026-10-08 13:03): Alt plan `gorevler/G17.md`.
 
 - [ ] **G18 — Ders notlarına şemalar** · bağımlı: G15
   - Veriyle beslenen SVG bileşeni `<AkisSemasi>`: dava süreci, icra takibi, ceza muhakemesi evreleri,

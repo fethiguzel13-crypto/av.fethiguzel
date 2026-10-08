@@ -502,4 +502,6 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - OTONOM.md teknik tuzaklarına Git Bash yol dönüşümü eklenmiştir (`/` argümanı `C:/Program Files/Git/` oldu; `MSYS_NO_PATHCONV=1`).
 - TestSprite: değişiklik yayında değil (30 Ekim), koşulmamıştır. Sunucu kapatılmış, port 3123 boştur, zaman damgalı dosyalar geri
   alınmıştır. Kapının düşürdüğü betik bütçe tabanı (`/` 530,2 → 529,8 KB) bu kayıtla commit edilmiştir.
-- Sıradaki: G17 (grafikler, beceri dataviz). Bağımlılığı G15 `[x]`'tir. Alt plan `gorevler/G17.md` henüz yazılmamıştır.
+- Sıradaki: G17 (grafikler, beceri dataviz). Bağımlılığı G15 `[x]`'tir.
+- G17 DEVAM EDİYOR (başladı 13:03). Alt plan `gorevler/G17.md` yazıldı: kütüphanesiz sunucu SVG'si, yayımlanabilir kararların
+  dağılımı `/yargi-kararlari/istatistik` sayfasında, hesaplama dökümü kıdem ve faizde. dataviz becerisi yüklenmiştir.
