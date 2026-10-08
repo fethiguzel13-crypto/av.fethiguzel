@@ -12,7 +12,8 @@ function etiketGorunur(yil: number, ilk: number, son: number) {
 /**
  * Yıllara göre sütun grafiği (Aylık plan G17): Tek seri, tek renk, sıfırdan başlayan tek eksen. Eksen tikleri yuvarlak
  * sayılardır (`tikler`), sütun tabanda kare, ucunda 4 px yuvarlatılmıştır ve en çok 24 px genişliktedir. Değer sütunun
- * üstüne yazılmaz; üzerine gelme ipucu ve `GrafikTablo` taşır. Dar ekranda gizlenen yıl etiketi yerini korur.
+ * üstüne yazılmaz; üzerine gelme ipucu ve `GrafikTablo` taşır. Yıl etiketi sütun yuvasının ortasına mutlak konumla yazılır,
+ * böylece metin genişliği yuvayı büyütüp satırı taşırmaz. Dar ekranda gizlenen etiket yerini korur.
  */
 export default function ZamanGrafik({ baslik, veri }: { baslik: string; veri: YilDegeri[] }) {
   const t = tikler(Math.max(0, ...veri.map((d) => d.sayi)));
@@ -58,12 +59,13 @@ export default function ZamanGrafik({ baslik, veri }: { baslik: string; veri: Yi
           <div className="w-12 shrink-0" />
           <div className="flex flex-1">
             {veri.map((d) => (
-              <span
-                key={d.yil}
-                className={`flex-1 whitespace-nowrap text-center${etiketGorunur(d.yil, ilk, son) ? '' : ' invisible sm:visible'}`}
-              >
-                {d.yil}
-              </span>
+              <div key={d.yil} className="relative h-4 min-w-0 flex-1">
+                <span
+                  className={`absolute left-1/2 -translate-x-1/2 whitespace-nowrap${etiketGorunur(d.yil, ilk, son) ? '' : ' invisible sm:visible'}`}
+                >
+                  {d.yil}
+                </span>
+              </div>
             ))}
           </div>
         </div>

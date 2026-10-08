@@ -103,9 +103,16 @@ export default function YargiPreview() {
           ))}
         </ul>
 
-        <p className="mt-8 flex items-center gap-2 text-cream/55 text-[12px]">
+        <p className="mt-8 flex flex-wrap items-center gap-x-2 gap-y-1 text-cream/55 text-[12px]">
           <Landmark size={14} aria-hidden />
-          Kaynak: karararama.yargitay.gov.tr · Bilgilendirme amaçlıdır
+          Kaynak: karararama.yargitay.gov.tr · Bilgilendirme amaçlıdır ·
+          <Link
+            href="/yargi-kararlari/istatistik"
+            prefetch={false}
+            className="text-accent-light underline-offset-2 hover:underline"
+          >
+            Arşiv istatistikleri
+          </Link>
         </p>
       </div>
     </section>

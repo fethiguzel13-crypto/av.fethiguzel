@@ -64,6 +64,10 @@ export default function YargiKararlariPage() {
             <Link href="/ara" className="text-accent-ink hover:underline">
               Madde ara
             </Link>
+            <span aria-hidden="true" className="text-ink-muted">·</span>
+            <Link href="/yargi-kararlari/istatistik" className="text-accent-ink hover:underline">
+              Arşiv istatistikleri
+            </Link>
           </div>
 
           <div className="mt-10">
