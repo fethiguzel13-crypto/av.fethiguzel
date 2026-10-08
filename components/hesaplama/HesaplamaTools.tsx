@@ -16,6 +16,8 @@ import { matchHesaplamaTool } from "@/lib/hesaplama-search";
 import { loadFavorites, toggleFavorite, loadRecent, pushRecent } from "@/lib/hesaplama-prefs";
 import { getKavramForHesaplama } from "@/lib/kavramlar";
 import { shareContent } from "@/lib/native-app";
+import { kidemIhbarDokumu, faizDokumu } from "@/lib/hesaplama-dokum.mjs";
+import YiginCubuk from "@/components/grafik/YiginCubuk";
 
 // ─── YARDIMCI ─────────────────────────────────────────────────────────────────
 
@@ -468,6 +470,20 @@ function KidemIhbarTazminati() {
               note="İhbar süresi (İş K. md.17): 0–6 ay 2 hafta · 6 ay–1,5 yıl 4 hafta · 1,5–3 yıl 6 hafta · 3+ yıl 8 hafta. İhbar tazminatı giydirilmiş ücret üzerinden, TAVANSIZ hesaplanır. İhbar tazminatından gelir vergisi (kümüle matrah dilimine göre) ve damga vergisi (‰7,59) kesilir; SGK primi kesilmez."
             />
           </div>
+          {(() => {
+            const dokum = kidemIhbarDokumu(result);
+            if (dokum.toplam <= 0) return null;
+            return (
+              <div>
+                <div className="mb-2 text-[11px] font-mono uppercase tracking-widest text-accent-ink">Brüt Toplamın Dökümü</div>
+                <YiginCubuk
+                  baslik="Brüt kıdem ve ihbar tazminatının dağılımı"
+                  toplamMetin={`${fmt(dokum.toplam)} TL`}
+                  kesimler={dokum.kesimler.map((k) => ({ ...k, metin: `${fmt(k.deger)} TL` }))}
+                />
+              </div>
+            );
+          })()}
         </div>
       ) : (
         <div className="col-span-full text-sm text-ink-muted italic">Tarihleri ve ücret bilgilerini girin.</div>
@@ -1318,6 +1334,19 @@ function FaizHesaplama() {
             ]}
             note="Dönemsel modda her dilim için faiz ayrı hesaplanır ve toplanır (oran değişen yasal/ticari faiz pratikleri). 3095 sayılı Kanun / TCMB oranlarını işlem tarihinize göre TEYİT EDİN. Bileşik faiz kural olarak yasaktır. ⚠️ AYM E.2024/24, K.2025/164: sözleşmeden doğmayan borçlarda %24 yasal faiz iptali 01.09.2026'da yürürlüğe girer."
           />
+          {(() => {
+            const dokum = faizDokumu(result);
+            return (
+              <div>
+                <div className="mb-2 text-[11px] font-mono uppercase tracking-widest text-accent-ink">Anapara ve Faiz</div>
+                <YiginCubuk
+                  baslik="Anapara ve faizin toplamdaki payı"
+                  toplamMetin={`${fmt(dokum.toplam)} TL`}
+                  kesimler={dokum.kesimler.map((k) => ({ ...k, metin: `${fmt(k.deger)} TL` }))}
+                />
+              </div>
+            );
+          })()}
         </div>
       ) : (
         <div className="col-span-full text-sm text-ink-muted italic">Bilgileri doldurun.</div>
