@@ -156,16 +156,58 @@ Diğer axe ihlalleri 2 → 0, yatay taşma 0 → 0.
 dosyaları bu koşudandır) kontrast **77 düğümdür ve tamamı vurgu zeminli beyaz yazılı düğmelerdir.** Yukarıdaki tablo 13:18
 koşusunu gösterir.
 
-### Kalanlar
+### Kalanlar (13:31 itibarıyla; ikinci dalgada kapananlar aşağıda)
 
-- **[P1] Vurgu zeminli beyaz yazılı düğmeler (77 düğüm, 4,19:1).** "Danışmanlık", "Ara", Play Store ve üyelik düğmeleri ile
-  `.btn-primary` bu gruptadır. Düzeltme düğme zeminini `accent-ink`'e (5,81:1) çekmektir, ne var ki bu sitenin en görünür
-  turuncusunu koyulaştırır. Alternatif yol, düğme yazısını 18,66 px kalın yaparak büyük metin eşiğine (3:1) taşımaktır. Görsel
-  karşılaştırmayla ayrı adımda karara bağlanacaktır.
+- ~~[P1] Vurgu zeminli beyaz yazılı düğmeler (77 düğüm, 4,19:1).~~ 2026-10-08'de `accent-solid` ile giderilmiştir.
 - ~~[P2] Mobil alt gezinmede etkin sekme etiketi (6 düğüm) ve ana sayfada bir `font-drama` vurgu satırı.~~ 13:31'de giderilmiştir.
-- **[P2] Mevzuat dizininde alt bilgi bağlantıları (4 hedef).** Yalnız bu sayfada, sayfa sonu yerleşiminden doğar.
+- ~~[P2] Mevzuat dizininde alt bilgi bağlantıları (4 hedef).~~ 2026-10-08'de giderilmiştir.
 - **[P2] `app/[category]` eski sayfaları.** Koyu yeşil zeminde `text-accent` ve tanımsız `text-light` sınıfı kullanılır. Sayfaların
   hâlâ yönlendirme dışı kalıp kalmadığı G25 regresyonunda denetlenecektir.
+
+## İkinci dalga ve kapanış ölçümü (2026-10-08 06:50)
+
+**Ham veri:** `raporlar/tasarim-denetim-sonra.json` (bu koşu) · **Ekran görüntüleri:** `raporlar/gorsel/g15-*-sonra.jpg`,
+düğme seçenekleri `raporlar/gorsel/g15-dugme-{anasayfa,uyelik}-{a,b,c,d}.jpg`
+
+- **Düğme dolgusu.** Dört seçenek ana sayfada ve üyelik sayfasında CSS enjeksiyonuyla yan yana çekilmiştir: `a` bugünkü `#CC5833`
+  (4,19:1), `b` `#C15330` (4,62:1), `c` `accent-ink #A7482A` (5,81:1) ve `d` 18,67 px yazı. `c` turuncuyu belirgin biçimde
+  kahverengiye çektiği, `d` ise üst çubuktaki "Danışmanlık" düğmesini çubuğun dışına taşırdığı için elenmiştir. `b`, kanal başına en çok 11 birim koyu olup
+  görüntülerde `a`'dan ayırt edilememekte ve AA eşiğini geçmektedir. `accent-solid` jetonu olarak eklenmiş, düz `bg-accent` dolgusu
+  37 dosyada bu jetona, açılan `hover:bg-accent/90` ise `hover:bg-accent-ink`'e çevrilmiştir. Turuncu dolgu üzerinde krem yazı 4,05:1
+  verdiğinden yazı beyazdır. İki cırcır testi düz `bg-accent` dolgusunu ve krem yazı ile dolgu eşleşmesini yasaklar.
+- **Odak göstergesi.** Dokuz metin girdisi genel `:focus-visible` çerçevesini `outline-none` ile kaldırmakta, yerine yalnız kenar
+  rengi değişimi ya da beyaz zeminde 1,5:1 veren soluk bir halka koymaktaydı. Üst çubuk araması odağı hiç göstermemekteydi (WCAG
+  2.4.7). `field-focus` (kenar `accent`, 4,19:1, ve halka) ile çerçevesiz girdinin kabı için `field-focus-within` tanımlanmış,
+  girdilerin hepsi bu iki sınıfa bağlanmıştır. Derlenmiş sitede odaklanan girdinin kenarı `rgb(204, 88, 51)` olmaktadır. Cırcır
+  testi `.tsx` dosyalarında `outline-none` kullanımını yasaklar.
+- **Dokunma hedefi.** Alt bilgideki harita, Erciş ve e-posta bağlantıları `min-h-6` (24 px) ile WCAG 2.5.8 eşiğine çıkarılmıştır.
+- **Dedektör kalıpları.** Üç bileşendeki ve madde rotası CSS'indeki kalın tek kenar vurgu çizgisi, ince tam kenar ile hafif vurgu
+  zeminine dönüştürülmüştür. Cırcır testi kalıbın geri dönmesini engeller.
+- **Bileşen tutarlılığı.** Dolgulu yuvarlak düğmeler 29 yerde 14 farklı dolgu ve punto birleşimiyle yazılmıştır. En sık iki
+  birleşim (`px-6 py-3.5 text-sm`, `px-3 py-1.5 text-xs`) `.btn-primary` ve küçük etiket düğmesine karşılık gelir. Ölçümde sorun
+  çıkmadığından toplu birleştirme yapılmamış, G16 ana sayfa düzenlemesine not olarak bırakılmıştır.
+
+| Ölçüt (14 sayfa × 1280/390 px) | Önce (10-07 12:34) | İlk dalga (10-07 13:18) | Kapanış (10-08 06:50) |
+|---|---:|---:|---:|
+| axe `color-contrast` düğümü | 1.957 | 84 | **0** |
+| Dokunma hedefi < 24 px | 120 | 4 | **0** |
+| Diğer axe ihlali | 2 | 0 | **0** |
+| 390 px'te yatay taşma | 0 | 0 | **0** |
+
+Tam `npm run kalite` iki kez yeşildir (764 ve 766 test, derleme 601 ve 444 sn). Marka paleti değişmemiştir (test).
+
+| # | Boyut | Önce | İlk dalga | Kapanış |
+|---|---|---|---|---|
+| 1 | Erişilebilirlik | 2 | 3 | 4 |
+| 2 | Performans | 3 | 3 | 3 |
+| 3 | Duyarlı tasarım | 3 | 4 | 4 |
+| 4 | Tema | 2 | 3 | 3 |
+| 5 | Uygulama bütünlüğü | 3 | 3 | 4 |
+| | **Toplam** | **13/20** | **16/20** | **18/20 (iyi)** |
+
+Tema puanı koyu tema kararına (soru 21), performans puanı G13'ün açık notuna (yargı arşivi TBT, G25'e devredildi) bağlıdır.
+
+### İlk dalga sonundaki puan tablosu
 
 | # | Boyut | Önce | Sonra |
 |---|---|---|---|

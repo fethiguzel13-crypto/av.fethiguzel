@@ -223,18 +223,20 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
 
 ## Hafta 3 (15–21 Ekim) — Görsel tasarım, grafikler, ders notları
 
-- [ ] **G15 — Tasarım sistemi denetimi** · bağımlı: G06 · beceri: impeccable
+- [x] **G15 — Tasarım sistemi denetimi** · bağımlı: G06 · beceri: impeccable · 2026-10-08: 14 sayfa × 2 genişlikte kontrast 1.957 → 0, dokunma hedefi 120 → 0, diğer axe 2 → 0; puan 13/20 → 18/20; palet değişmedi
   - Renk/tipografi/boşluk jetonları, WCAG AA kontrast, koyu tema, bileşen tutarlılığı; ana sayfa,
     makale, mevzuat, ders notu, yargı arşivi sayfalarında en önemli sorunlar. Önce/sonra ekran görüntüsü
     `raporlar/gorsel/`.
-  - DEVAM EDİYOR (2026-10-07): Denetim betiği ve rapor hazır (13/20 → 16/20). Kontrast düğümü 1.957 → 84, hedef ihlali 120 → 4
-    (`66df4c355`). Kalan: vurgu zeminli düğmeler (77), küçük bulgular, bileşen tutarlılığı (`gorevler/G15.md`).
-  - G14'ten devir (G13 notu): `/yargi-kararlari` mobil TBT'si yaklaşık 1,5 sn. Arşiv sayfası düzenlenirken React çatı
-    parçasındaki uzun görevler ve yazı tipi değişiminin yerleşim maliyeti profillenir (`gorevler/G13.md`).
+  - Kapanış (`66df4c355`, `94aa8ee83`, `ca9ee5784`, `58e5a4665`): Metin tonu jetonları (`ink-muted`, `accent-ink`, `accent-light`) ve
+    düğme dolgusu `accent-solid` tek kaynaktan (`lib/tasarim-jetonlari.mjs`), `field-focus` odak kalıbı. Dört cırcır testi saydam ikincil
+    metni, düz `bg-accent` dolgusunu, krem yazı ile dolgu eşleşmesini, `outline-none` ve kalın tek kenar çizgisini engeller. Rapor
+    `raporlar/tasarim-denetimi.md`. Koyu tema soru 21'e bağlıdır.
 
 - [ ] **G16 — Ana sayfa ve yazar sayfaları** · bağımlı: G09, G15
   - Otorite öncelikli kurgu: yazar, eserler, şerh külliyatı, karar arşivi büyüklüğü, güncel içtihat.
     Satış/reklam dili yok.
+  - G15 notu: Dolgulu yuvarlak düğmeler 29 yerde 14 dolgu/punto birleşimiyle yazılmıştır. Sayfalar yeniden kurulurken `.btn-primary`
+    ve küçük etiket düğmesi için tek sınıfa toplanır (renk jetonu `accent-solid` hazırdır).
 
 - [ ] **G17 — Grafikler** · bağımlı: G15 · beceri: dataviz
   - "Yargıtay karar arşivi" istatistik sayfası: yıllara, birimlere, hukuk alanlarına göre dağılım,
@@ -273,6 +275,10 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
 - [ ] **G25 — Son regresyon** · bağımlı: hepsi
   - `npm run kalite`, Lighthouse, güvenlik yeniden taraması, SEO taraması (G06 başlangıcıyla
     karşılaştırmalı) → `raporlar/final.md`.
+  - G15'ten devir (G13 notu): `/yargi-kararlari` mobil TBT'si yaklaşık 1,5 sn. Lighthouse ölçümünde React çatı parçasındaki uzun
+    görevler ve yazı tipi değişiminin yerleşim maliyeti profillenir (`gorevler/G13.md`). `app/[category]` eski sayfalarının
+    yönlendirme dışı kalıp kalmadığı da burada denetlenir (`raporlar/tasarim-denetimi.md`). Tasarım denetimi
+    `node scripts/tasarim-denetim.mjs --etiket=final` ile yinelenir.
 
 - [ ] **G26 — Yayın paketi** · bağımlı: G25
   - `PUSH-KONTROL-LISTESI.md`: `git fetch` + uzak `main`'deki günlük içtihat commit'leriyle birleştirme

@@ -430,3 +430,30 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   (762 test), yenilenen ölçümde kontrast 77 düğümdür ve tamamı vurgu zeminli düğmedir (`94aa8ee83`).
 - Oturum 13:35'te bitirilmiştir. Port 3123 boş, ağaç temiz, hasat motoru çalışmaya devam etmektedir.
 - Sıradaki: G15 düğme kontrastı ve kalan küçük bulgular (`gorevler/G15.md` "Sıradaki"). G15 DEVAM EDİYOR.
+
+## 2026-10-07 14:00 — G15 DEVAM EDİYOR (başsız oturum, başladı 14:00)
+
+- Devralma: `DURAKLAT` yok, ağaç temiz, son commit `0c8f2a8f6`. Çarşamba olduğundan G08 yapılmamıştır. Sıradaki adım vurgu zeminli
+  düğmelerin kontrastıdır.
+- Kayıt bu oturumda yazılamamıştır, oturum 14:06'da kullanım sınırıyla kesilmiştir (döküm `2b7e477f…jsonl`, `"error":"rate_limit"`).
+  Aşağıdaki özet 2026-10-08 06:11 oturumunun dökümden çıkardığıdır. Dört seçenek (`a` bugünkü `#CC5833`, `b` `#C15330`, `c` `#A7482A`,
+  `d` 18,67 px yazı) ana sayfa ve üyelik sayfasında CSS enjeksiyonuyla karşılaştırılmış, görüntüler `raporlar/gorsel/g15-dugme-*.jpg`
+  dosyalarına yazılmıştır. Seçilen `b`, `accent-solid` jetonu olarak eklenmiş, beyaz yazıyla 4,62:1 vermektedir. Düz `bg-accent` dolgusu
+  37 dosyada `bg-accent-solid`'e, üzerine gelmede açılan `bg-accent/90` `accent-ink`'e çevrilmiş ve iki cırcır testi yazılmıştır.
+
+## 2026-10-08 06:11 — G15 DEVAM EDİYOR (başsız oturum, başladı 06:11)
+
+- Devralma: `DURAKLAT` yok, son commit `0c8f2a8f6`. Ağaçtaki 40 değişiklik ve geçici `g15-dugme-gecici.mjs` 14:00 oturumunundur,
+  jeton testi 7/7 yeşildir. `RehberFigures` çatal kartının iç paragrafları turuncu dolguda krem kalmıştı (4,05), beyaza çevrilmiştir.
+  Perşembe olduğundan G08 yapılmamıştır. Sıradaki: kalite kapısı, sonra ölçümü, commit.
+- 14:00 oturumundan kalan `next start` (PID 6008) 3123'ü tutmaktaydı, durdurulmuştur. Tam `npm run kalite` yeşildir (764 test, derleme
+  601 sn, boş bellek ~800 MB). Sonra ölçümünde kontrast 77 → 0 düğüme inmiştir, commit `ca9ee5784`.
+- Kalan küçük bulgular kapatılmıştır. Dokuz girdi odak çerçevesini `outline-none` ile kaldırmakta, üst çubuk araması odağı hiç
+  göstermemekteydi. `field-focus` ve `field-focus-within` sınıfları ile cırcır testi yazılmıştır (önce kırmızı). Alt bilgideki üç
+  bağlantı 24 px'e çıkmış, dört kalın tek kenar çizgisi ince tam kenara dönmüş ve cırcıra bağlanmıştır. Tam `npm run kalite` yeşildir
+  (766 test, derleme 444 sn). Kapanış ölçümünde 28 ölçümün hepsinde kontrast, küçük hedef, diğer axe ve taşma 0'dır. Odaklanan girdinin
+  kenarı derlenmiş sitede vurgu rengine dönmektedir (Playwright ile sınanmıştır). Commit `58e5a4665`.
+- Rapor `raporlar/tasarim-denetimi.md` "İkinci dalga ve kapanış ölçümü" bölümünde, puan 13/20 → 18/20'dir. **G15 tamamlanmıştır**
+  (PLAN.md'de `[x]`). Düğme ölçü birleştirmesi G16'ya, yargı arşivi TBT'si ile `app/[category]` denetimi G25'e not edilmiştir.
+- TestSprite: değişiklik yayında değil (30 Ekim), koşulmamıştır. Sunucu kapatılmış, port 3123 boştur, zaman damgalı dosyalar geri
+  alınmıştır.
