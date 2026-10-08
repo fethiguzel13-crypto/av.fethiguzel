@@ -38,7 +38,7 @@ const GENISLIK = 320;
 const CX = 18;
 const R = 11;
 const METIN_X = 42;
-const SATIR = 17;
+const SATIR = 18;
 const ARALIK = 22;
 const SATIR_EN = 30;
 
@@ -57,8 +57,8 @@ function yerlesim(adimlar: Adim[]) {
 /**
  * Ders notu şeması (Aylık plan G18): `lib/ders-notlari/semalar.mjs` verisinden sunucuda çizilen SVG. `akis` numaralı ve oklu
  * sıralı adımdır, `dal` ortak bir gövdeden ayrılan eş düzey kalemdir. Şema dikey akar ve `viewBox` 320 birim genişliktedir;
- * 360 px ekranda kart iç boşluğundan sonra kalan ~300 px'te 13 birimlik yazı 12 px'in altına inmez, geniş ekranda çizim 400 px'te
- * durur (G17: `viewBox` dar ekranda yazıyı küçültür). Renk anlam taşımaz, sırayı numara ve metin verir. Adımların açıklaması ve
+ * 360 px ekranda ders notu figürünün içinde kalan 278 px'te (ölçüm) 14 birimlik yazı 12,2 px olur, geniş ekranda çizim 366 px'te
+ * durur ve yazı gövde boyunu (16 px) geçmez (G17: `viewBox` dar ekranda yazıyı küçültür). Renk anlam taşımaz, sırayı numara ve metin verir. Adımların açıklaması ve
  * kanun maddesi bağlantısı alttaki metin karşılığındadır; SVG `role="img"` ile başlığa ve özete bağlanır.
  */
 export default function AkisSemasi({ sema }: { sema: Sema }) {
@@ -81,7 +81,7 @@ export default function AkisSemasi({ sema }: { sema: Sema }) {
         aria-labelledby={`${baslikId} ${ozetId}`}
         viewBox={`0 0 ${GENISLIK} ${yukseklik}`}
         width="100%"
-        style={{ maxWidth: 400 }}
+        style={{ maxWidth: 366 }}
         className="block h-auto font-sans"
       >
         <title id={baslikId}>{sema.baslik}</title>
@@ -111,7 +111,7 @@ export default function AkisSemasi({ sema }: { sema: Sema }) {
                   />
                 )}
                 <circle cx={CX} cy={cy} r={R} fill={RENKLER.accent.solid} />
-                <text x={CX} y={cy + 4.5} textAnchor="middle" fontSize="13" fontWeight="700" fill="#FFFFFF">
+                <text x={CX} y={cy + 5} textAnchor="middle" fontSize="14" fontWeight="700" fill="#FFFFFF">
                   {i + 1}
                 </text>
               </>
@@ -121,7 +121,7 @@ export default function AkisSemasi({ sema }: { sema: Sema }) {
                 <circle cx={CX} cy={cy} r={5} fill={GRAFIK.isaret} />
               </>
             )}
-            <text x={METIN_X} y={cy + 4.5} fontSize="13" fontWeight="600" fill={GRAFIK.metin}>
+            <text x={METIN_X} y={cy + 5} fontSize="14" fontWeight="600" fill={GRAFIK.metin}>
               {parca.map((p, j) => (
                 <tspan key={p} x={METIN_X} dy={j === 0 ? 0 : SATIR}>
                   {p}
