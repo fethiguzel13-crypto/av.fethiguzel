@@ -1,0 +1,100 @@
+{
+ "etiket": "g16-sonra",
+ "taban": "http://localhost:3123",
+ "tarih": "2026-10-08T09:44:18.882Z",
+ "ozet": {
+  "kurallar": [],
+  "kucukHedef": 0,
+  "tasan": []
+ },
+ "sonuclar": [
+  {
+   "sayfa": "anasayfa",
+   "adres": "/",
+   "durum": 200,
+   "genislik": 1280,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 14202
+  },
+  {
+   "sayfa": "yazar",
+   "adres": "/avukat-fethi-guzel",
+   "durum": 200,
+   "genislik": 1280,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 3333
+  },
+  {
+   "sayfa": "akademik",
+   "adres": "/akademik-profil",
+   "durum": 200,
+   "genislik": 1280,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 3108
+  },
+  {
+   "sayfa": "eserler",
+   "adres": "/eserlerim",
+   "durum": 200,
+   "genislik": 1280,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 2967
+  },
+  {
+   "sayfa": "anasayfa",
+   "adres": "/",
+   "durum": 200,
+   "genislik": 390,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 3576
+  },
+  {
+   "sayfa": "yazar",
+   "adres": "/avukat-fethi-guzel",
+   "durum": 200,
+   "genislik": 390,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 3035
+  },
+  {
+   "sayfa": "akademik",
+   "adres": "/akademik-profil",
+   "durum": 200,
+   "genislik": 390,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 2896
+  },
+  {
+   "sayfa": "eserler",
+   "adres": "/eserlerim",
+   "durum": 200,
+   "genislik": 390,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 2852
+  }
+ ]
+}

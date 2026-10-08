@@ -91,7 +91,8 @@ export default function TrustBar({ sayilar }: { sayilar: Sayilar }) {
                             return (
                                 <li key={s.label}>
                                     {s.href ? (
-                                        <Link href={s.href} className={`${kutu} hover:border-accent/40 transition-colors`}>
+                                        // Ön getirme kapalı (G16): şerit ilk ekranda, /bilgi ve /mevzuat yükü her açılışta iniyordu.
+                                        <Link href={s.href} prefetch={false} className={`${kutu} hover:border-accent/40 transition-colors`}>
                                             {icerik}
                                         </Link>
                                     ) : (

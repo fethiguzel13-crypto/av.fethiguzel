@@ -58,6 +58,8 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
   dosyaya bir düzey eksik geçti; düzenli ifade kaçışları düştü, `\b` geri silme karakterine döndü). Düzenli ifade ya da kaçış
   dizisi taşıyan parçayı Edit/Write aracıyla yaz; betikten sonra `node --check` çalıştır. Aynısı kesme işaretinde de
   olur (2026-10-06: tek tırnaklı `node -e '…'` ILERLEME'ye "14:34'te" yerine "14:34te" yazdı). Türkçe metni Edit aracıyla ekle.
+- **Git Bash `/` ile başlayan argümanı Windows yoluna çevirir** (2026-10-08: `node betik.mjs / anasayfa` tarayıcıya
+  `http://localhost:3123C:/Program Files/Git/` adresini verdi). Adres yolu geçen komuttan önce `export MSYS_NO_PATHCONV=1` yazılır.
 - `.ps1` dosyası düzenlendikten sonra UTF-8 BOM yeniden eklenir (düzenleme aracı BOM'u siler; PowerShell 5.1
   Türkçe karakterli betiği BOM'suz ANSI okur ve ayrıştırma hatası verir). Sonra
   `[System.Management.Automation.Language.Parser]::ParseFile` ile sözdizimi doğrulanır.

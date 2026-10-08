@@ -92,7 +92,7 @@ export default function EserlerimPage() {
               <h3 className="text-3xl md:text-5xl font-heading font-bold text-charcoal mb-6 leading-tight">
                 {book.title}
               </h3>
-              <p className="text-accent font-heading text-xl mb-8">{book.subtitle}</p>
+              <p className="text-accent-ink font-heading text-xl mb-8">{book.subtitle}</p>
               <p className="text-ink-muted text-lg leading-relaxed mb-12 font-sans">
                 {book.desc}
               </p>

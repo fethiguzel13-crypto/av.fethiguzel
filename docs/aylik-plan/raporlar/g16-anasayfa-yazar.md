@@ -80,6 +80,40 @@ yeni künye yazılmaz.
 - Üst çubuk ve ilk ekrandaki "Danışmanlık" düğmesi ile mobil çubuktaki "Form" düğmesi soru 13'e bağlıdır.
 - "Avukat & Arabulucu" sıfatı soru 12'ye, sitede bulunmayan yazar bilgileri soru 14'e bağlıdır.
 
+## Sonra ölçümü (2026-10-08 12:43)
+
+**Derleme:** `3d557a0a8` ve ön getirme düzeltmesi · **Ekran görüntüleri:** `raporlar/gorsel/g16-{anasayfa,yazar,akademik,eserler}-{masaustu,mobil}-sonra.jpg`
+· **Ham veri:** `raporlar/tasarim-denetim-g16-sonra.json`, `raporlar/lighthouse-g16.json`
+
+| Sayfa | Masaüstü yükseklik | Mobil yükseklik | Kontrast, hedef, taşma |
+|---|---:|---:|---|
+| Ana sayfa | 9.990 → 9.201 px | 13.653 → 11.483 px | 0 / 0 / yok |
+| `/avukat-fethi-guzel` | 4.574 → 4.423 px | 6.682 → 6.332 px | 0 / 0 / yok |
+| `/akademik-profil` | 4.036 → 4.031 px | 5.198 → 5.198 px | 0 / 0 / yok |
+| `/eserlerim` | 3.635 → 3.839 px | 4.951 → 5.255 px | 0 / 0 / yok |
+
+`/eserlerim`, şerh ve makalelere giden "Sitedeki yayınlar" bölümü eklendiği için uzamıştır. Bu sayfa ile akademik profil G15
+denetim listesinde yer almadığından ölçüm, aynı betiğin dört sayfalık geçici kopyasıyla yapılmıştır. İlk koşuda `/eserlerim`'deki
+alt başlık açık zeminde `text-accent` ile 3,67:1 vermiş, `text-accent-ink`'e çevrilmiştir. Detektör değişen sekiz dosyada 0 bulgu
+vermektedir.
+
+Ana sayfa, Lighthouse mobil üç koşu ortancası:
+
+| Ölçü | G13 sonrası | G16 ilk ölçüm | G16 son |
+|---|---:|---:|---:|
+| Performans | 44 | 73 | 74 |
+| LCP | 5.618 ms | 4.862 ms | 4.938 ms |
+| TBT | 2.418 ms | 352 ms | 327 ms |
+| CLS | 0 | 0 | 0 |
+| Aktarım | 758 KB | 811 KB | 716 KB |
+| Erişilebilirlik | 94 | 98 | 98 |
+
+İlk ölçümde aktarım bütçeyi 53 KB aşmıştır. İstek dökümü artışın betik, görsel ya da yazı tipinde değil, ön getirme isteklerinde
+olduğunu göstermiştir. Sayı rozetleri kaldırılınca Hero'nun ikincil düğmeleri ve yeni külliyat şeridi mobil ilk ekrana girmiş,
+`/bilgi` (36 KB), `/mevzuat` (25 KB) ve `/mevzuat/tbk` (18 KB) her açılışta indirilmeye başlamıştır. G13'teki alt çubuk emsaliyle
+şeritte ve iki ikincil düğmede `prefetch={false}` kullanılmıştır. Birincil düğmeler (`/ara`, `/yargi-kararlari`) ön getirmeyi
+korur. Erişilebilirlikte kalan tek kural `heading-order`'dır ve G13 ölçümünde de bulunmaktadır (G24).
+
 ## Güçlü yanlar
 
 - İlk ekran kimliği ve külliyatı birlikte verir, arama ilk eylemdir.

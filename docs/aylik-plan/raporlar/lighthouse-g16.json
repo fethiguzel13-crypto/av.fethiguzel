@@ -1,0 +1,46 @@
+{
+  "tarih": "2026-10-08T09:46:35.508Z",
+  "taban": "http://localhost:3123",
+  "tekrar": 3,
+  "ortalama": {
+    "performance": 74,
+    "accessibility": 98,
+    "best-practices": 100,
+    "seo": 100
+  },
+  "sayfalar": [
+    {
+      "tur": "ana sayfa",
+      "yol": "/",
+      "puan": {
+        "performance": 74,
+        "accessibility": 98,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 4938,
+      "fcpMs": 1553,
+      "tbtMs": 327,
+      "cls": 0,
+      "siMs": 3067,
+      "anaIsMs": 3860,
+      "aktarimKb": 716,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "heading-order"
+      ],
+      "tbtAralik": [
+        294,
+        879
+      ],
+      "anaIsAralik": [
+        3781,
+        4559
+      ],
+      "kosu": 3,
+      "kosuHatalari": [
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)"
+      ]
+    }
+  ]
+}

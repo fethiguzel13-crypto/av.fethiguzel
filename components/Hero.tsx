@@ -106,14 +106,17 @@ export default function Hero({ sayilar }: { sayilar: HeroSayilari }) {
               <Gavel size={16} className="shrink-0" />
               <span>YARGITAY ARŞİVİ</span>
             </Link>
+            {/* İkincil düğmeler mobilde ilk ekranda; ön getirme her açılışta /bilgi ve /mevzuat/tbk yükünü indiriyordu (G16). */}
             <Link
               href="/bilgi"
+              prefetch={false}
               className="group flex items-center justify-center gap-2 sm:gap-3 bg-transparent text-cream/85 border border-cream/20 px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all hover:text-cream hover:border-cream/40"
             >
               <span>VATANDAŞ REHBERİ</span>
             </Link>
             <Link
               href="/mevzuat/tbk"
+              prefetch={false}
               className="group flex items-center justify-center gap-2 sm:gap-3 bg-transparent text-cream/75 border border-cream/15 px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all hover:text-cream hover:border-cream/30"
             >
               <span>TBK MADDELERİ</span>
