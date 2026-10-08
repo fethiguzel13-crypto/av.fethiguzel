@@ -99,20 +99,32 @@ vermektedir.
 
 Ana sayfa, Lighthouse mobil üç koşu ortancası:
 
-| Ölçü | G13 sonrası | G16 ilk ölçüm | G16 son |
-|---|---:|---:|---:|
-| Performans | 44 | 73 | 74 |
-| LCP | 5.618 ms | 4.862 ms | 4.938 ms |
-| TBT | 2.418 ms | 352 ms | 327 ms |
-| CLS | 0 | 0 | 0 |
-| Aktarım | 758 KB | 811 KB | 716 KB |
-| Erişilebilirlik | 94 | 98 | 98 |
+| Ölçü | G13 sonrası | G16 ilk ölçüm | Ön getirme sonrası | Düğme sınıfları sonrası |
+|---|---:|---:|---:|---:|
+| Performans | 44 | 73 | 74 | 70 |
+| LCP | 5.618 ms | 4.862 ms | 4.938 ms | 4.903 ms |
+| TBT | 2.418 ms | 352 ms | 327 ms | 460 ms (128–465) |
+| CLS | 0 | 0 | 0 | 0 |
+| Aktarım | 758 KB | 811 KB | 716 KB | 716 KB |
+| Erişilebilirlik | 94 | 98 | 98 | 98 |
+
+Son sütundaki TBT ve performans farkı koşular arası dağılım içindedir (TBT aralığı 128–465 ms), düğme değişikliği yalnız CSS
+sınıflarını taşır ve aktarımı değiştirmemiştir.
 
 İlk ölçümde aktarım bütçeyi 53 KB aşmıştır. İstek dökümü artışın betik, görsel ya da yazı tipinde değil, ön getirme isteklerinde
 olduğunu göstermiştir. Sayı rozetleri kaldırılınca Hero'nun ikincil düğmeleri ve yeni külliyat şeridi mobil ilk ekrana girmiş,
 `/bilgi` (36 KB), `/mevzuat` (25 KB) ve `/mevzuat/tbk` (18 KB) her açılışta indirilmeye başlamıştır. G13'teki alt çubuk emsaliyle
 şeritte ve iki ikincil düğmede `prefetch={false}` kullanılmıştır. Birincil düğmeler (`/ara`, `/yargi-kararlari`) ön getirmeyi
 korur. Erişilebilirlikte kalan tek kural `heading-order`'dır ve G13 ölçümünde de bulunmaktadır (G24).
+
+Düğmeler: Açık zemindeki 14 satır içi düğme dört ortak sınıfa toplanmıştır (`.btn-primary`, `.btn-dark`, `.btn-secondary`,
+`.btn-chip`). Yazar sayfasının bağlantı satırı dört dolgudan üç düzeye inmiştir: e-posta birincil, akademik profil koyu, diğerleri
+çerçeveli. Çipin üzerine gelme rengi `text-accent` yerine `text-accent-ink` olmuştur. Hero'nun koyu zemindeki kademeli düğmeleri
+bilinçli hiyerarşi olduğundan değiştirilmemiştir. Bu değişiklikten sonra denetim dört sayfada iki genişlikte yine 0'dır.
+
+Kalan, kullanıcı yanıtına bağlı maddeler (soru 10–14) yukarıdaki "Dokunulmayanlar" listesindedir. Alt bilgide iki uyum beyanı
+kalmıştır (`components/Footer.tsx`: "Reklam Yasağına Uygundur." ve "Reklam yasağına uygundur; sonuç vaadi içermez."). Alt bilgi
+bütün sitede ortak olduğundan bu görevde değiştirilmemiş, G25 son regresyon listesine not edilmiştir.
 
 ## Güçlü yanlar
 

@@ -1,9 +1,9 @@
 {
-  "tarih": "2026-10-08T09:46:35.508Z",
+  "tarih": "2026-10-08T10:00:04.345Z",
   "taban": "http://localhost:3123",
   "tekrar": 3,
   "ortalama": {
-    "performance": 74,
+    "performance": 70,
     "accessibility": 98,
     "best-practices": 100,
     "seo": 100
@@ -13,29 +13,29 @@
       "tur": "ana sayfa",
       "yol": "/",
       "puan": {
-        "performance": 74,
+        "performance": 70,
         "accessibility": 98,
         "best-practices": 100,
         "seo": 100
       },
-      "lcpMs": 4938,
-      "fcpMs": 1553,
-      "tbtMs": 327,
+      "lcpMs": 4903,
+      "fcpMs": 1546,
+      "tbtMs": 460,
       "cls": 0,
-      "siMs": 3067,
-      "anaIsMs": 3860,
+      "siMs": 2981,
+      "anaIsMs": 4006,
       "aktarimKb": 716,
       "seoBasarisiz": [],
       "erisilebilirlikBasarisiz": [
         "heading-order"
       ],
       "tbtAralik": [
-        294,
-        879
+        128,
+        465
       ],
       "anaIsAralik": [
-        3781,
-        4559
+        3131,
+        4039
       ],
       "kosu": 3,
       "kosuHatalari": [

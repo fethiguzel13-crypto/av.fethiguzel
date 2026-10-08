@@ -1,7 +1,7 @@
 {
  "etiket": "g16-sonra",
  "taban": "http://localhost:3123",
- "tarih": "2026-10-08T09:44:18.882Z",
+ "tarih": "2026-10-08T09:57:34.849Z",
  "ozet": {
   "kurallar": [],
   "kucukHedef": 0,
@@ -17,7 +17,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 14202
+   "sure": 13769
   },
   {
    "sayfa": "yazar",
@@ -28,7 +28,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3333
+   "sure": 3351
   },
   {
    "sayfa": "akademik",
@@ -39,7 +39,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3108
+   "sure": 3095
   },
   {
    "sayfa": "eserler",
@@ -50,7 +50,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 2967
+   "sure": 3067
   },
   {
    "sayfa": "anasayfa",
@@ -72,7 +72,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 3035
+   "sure": 3010
   },
   {
    "sayfa": "akademik",
@@ -83,7 +83,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 2896
+   "sure": 2957
   },
   {
    "sayfa": "eserler",
@@ -94,7 +94,7 @@
    "hedef": [],
    "tasma": false,
    "tasanlar": [],
-   "sure": 2852
+   "sure": 2920
   }
  ]
 }

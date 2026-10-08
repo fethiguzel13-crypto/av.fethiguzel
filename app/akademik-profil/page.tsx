@@ -142,13 +142,13 @@ export default function AkademikProfilPage() {
                             href={YAZAR.eser.url}
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="inline-flex items-center gap-2 bg-charcoal text-cream px-5 py-3 rounded-full text-sm font-bold hover:bg-accent-solid hover:text-white transition-colors"
+                            className="btn-dark"
                         >
                             {YAZAR.eser.yayinevi} <ExternalLink size={14} />
                         </a>
                         <Link
                             href="/eserlerim"
-                            className="inline-flex items-center gap-2 border border-charcoal/15 px-5 py-3 rounded-full text-sm font-bold text-charcoal hover:border-accent"
+                            className="btn-secondary"
                         >
                             Tüm eserler
                         </Link>

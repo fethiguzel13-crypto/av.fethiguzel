@@ -232,13 +232,14 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     metni, düz `bg-accent` dolgusunu, krem yazı ile dolgu eşleşmesini, `outline-none` ve kalın tek kenar çizgisini engeller. Rapor
     `raporlar/tasarim-denetimi.md`. Koyu tema soru 21'e bağlıdır.
 
-- [ ] **G16 — Ana sayfa ve yazar sayfaları** · bağımlı: G09, G15
+- [x] **G16 — Ana sayfa ve yazar sayfaları** · bağımlı: G09, G15 · 2026-10-08: elle yazılmış külliyat sayısı 11 → 0, bölüm otorite sırasıyla, üç yazar sayfası tek kaynaktan; mobil ana sayfa 13.653 → 11.483 px, aktarım 758 → 716 KB, LCP 5.618 → 4.903 ms; dört sayfada denetim 0
   - Otorite öncelikli kurgu: yazar, eserler, şerh külliyatı, karar arşivi büyüklüğü, güncel içtihat.
     Satış/reklam dili yok.
-  - DEVAM EDİYOR (2026-10-08): Değerlendirme raporu `raporlar/g16-anasayfa-yazar.md`. Külliyat sayıları tek kaynaktan, uyum
-    beyanları kaldırıldı, cırcır testi (`d4d92766e`, `aa277ba7b`). Kalan: bölüm birleştirme, yazar sayfaları, ölçüm (`gorevler/G16.md`).
+  - Tamamlandı (2026-10-08): Rapor `raporlar/g16-anasayfa-yazar.md`, alt plan `gorevler/G16.md`. Commit'ler `d4d92766e`,
+    `aa277ba7b`, `3a9f11b78`, `3d557a0a8`, `f5091f063` ve düğme sınıfları. Soru 10–14'e bağlı öğeler değiştirilmemiştir.
   - G15 notu: Dolgulu yuvarlak düğmeler 29 yerde 14 dolgu/punto birleşimiyle yazılmıştır. Sayfalar yeniden kurulurken `.btn-primary`
-    ve küçük etiket düğmesi için tek sınıfa toplanır (renk jetonu `accent-solid` hazırdır).
+    ve küçük etiket düğmesi için tek sınıfa toplanır (renk jetonu `accent-solid` hazırdır). G16'da ana sayfa ve yazar sayfalarındaki
+    14 düğme `.btn-primary`, `.btn-dark`, `.btn-secondary`, `.btn-chip` sınıflarına toplanmıştır; sitenin geri kalanı G21/G24'te.
 
 - [ ] **G17 — Grafikler** · bağımlı: G15 · beceri: dataviz
   - "Yargıtay karar arşivi" istatistik sayfası: yıllara, birimlere, hukuk alanlarına göre dağılım,
@@ -281,6 +282,10 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     görevler ve yazı tipi değişiminin yerleşim maliyeti profillenir (`gorevler/G13.md`). `app/[category]` eski sayfalarının
     yönlendirme dışı kalıp kalmadığı da burada denetlenir (`raporlar/tasarim-denetimi.md`). Tasarım denetimi
     `node scripts/tasarim-denetim.mjs --etiket=final` ile yinelenir.
+  - G16'dan devir: Alt bilgide iki uyum beyanı kalmıştır ("Reklam Yasağına Uygundur.", "Reklam yasağına uygundur; sonuç vaadi
+    içermez."). G16 ana sayfa ve yazar sayfalarındaki aynı türden beyanları kaldırmıştır; alt bilgi bütün sitede ortak olduğundan
+    burada ele alınır. `/akademik-profil` ve `/eserlerim` denetim listesine (`lib/tasarim-denetim.mjs`) eklenir, G16 bunları geçici
+    kopyayla ölçmüştür.
 
 - [ ] **G26 — Yayın paketi** · bağımlı: G25
   - `PUSH-KONTROL-LISTESI.md`: `git fetch` + uzak `main`'deki günlük içtihat commit'leriyle birleştirme

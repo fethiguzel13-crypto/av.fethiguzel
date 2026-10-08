@@ -106,7 +106,7 @@ export default function About({ serh, kitap }: { serh: string; kitap: string }) 
           <div className="philo-text pt-2">
             <Link
               href="/avukat-fethi-guzel"
-              className="inline-flex items-center justify-center gap-2 bg-accent-solid text-white px-6 py-3.5 rounded-full font-bold text-sm hover:bg-accent-ink transition-colors"
+              className="btn-primary"
             >
               Tam profil
               <ArrowRight size={16} aria-hidden />

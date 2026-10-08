@@ -206,7 +206,7 @@ export default function AvukatFethiGuzelPage() {
                         <div className="flex flex-col sm:flex-row flex-wrap gap-3 mb-10">
                             <a
                                 href={`mailto:${PROFILE.email}`}
-                                className="inline-flex items-center justify-center gap-2 bg-accent-solid text-white px-6 py-3.5 rounded-full font-bold text-sm hover:bg-accent-ink"
+                                className="btn-primary"
                             >
                                 <Mail size={16} /> E-posta ile iletişim
                             </a>
@@ -214,7 +214,7 @@ export default function AvukatFethiGuzelPage() {
                                 href={PROFILE.social.instagram.url}
                                 target="_blank"
                                 rel="noopener noreferrer me"
-                                className="inline-flex items-center justify-center gap-2 bg-charcoal/5 text-charcoal px-6 py-3.5 rounded-full font-bold text-sm hover:bg-charcoal/10"
+                                className="btn-secondary"
                             >
                                 Instagram
                             </a>
@@ -222,25 +222,25 @@ export default function AvukatFethiGuzelPage() {
                                 href={PROFILE.social.twitter.url}
                                 target="_blank"
                                 rel="noopener noreferrer me"
-                                className="inline-flex items-center justify-center gap-2 bg-charcoal/5 text-charcoal px-6 py-3.5 rounded-full font-bold text-sm hover:bg-charcoal/10"
+                                className="btn-secondary"
                             >
                                 X / Twitter
                             </a>
                             <Link
                                 href="/akademik-profil"
-                                className="inline-flex items-center justify-center gap-2 bg-charcoal text-cream px-6 py-3.5 rounded-full font-bold text-sm hover:bg-charcoal/90"
+                                className="btn-dark"
                             >
                                 Akademik profil
                             </Link>
                             <Link
                                 href="/eserlerim"
-                                className="inline-flex items-center justify-center gap-2 bg-charcoal/5 text-charcoal px-6 py-3.5 rounded-full font-bold text-sm hover:bg-charcoal/10"
+                                className="btn-secondary"
                             >
                                 Kitap & eserler
                             </Link>
                             <Link
                                 href="/english-speaking-lawyer"
-                                className="inline-flex items-center justify-center gap-2 border border-charcoal/15 text-charcoal px-6 py-3.5 rounded-full font-bold text-sm hover:border-accent"
+                                className="btn-secondary"
                             >
                                 English
                             </Link>

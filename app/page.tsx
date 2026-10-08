@@ -92,7 +92,7 @@ export default function Home() {
               <li key={href}>
                 <a
                   href={href}
-                  className="inline-block text-sm px-3 py-1.5 rounded-full bg-cream border border-charcoal/10 font-semibold text-charcoal hover:border-accent hover:text-accent transition-colors"
+                  className="btn-chip"
                 >
                   {label}
                 </a>
@@ -120,13 +120,13 @@ export default function Home() {
           <div className="flex flex-wrap gap-2">
             <Link
               href="/bilgi"
-              className="inline-flex items-center gap-2 bg-accent-solid text-white px-6 py-3 rounded-full text-sm font-bold hover:bg-accent-ink transition-colors"
+              className="btn-primary"
             >
               Vatandaş rehberi
             </Link>
             <Link
               href="/rehber"
-              className="inline-flex items-center gap-2 bg-charcoal text-cream px-6 py-3 rounded-full text-sm font-bold hover:bg-accent-solid hover:text-white transition-colors"
+              className="btn-dark"
             >
               Süreç kılavuzları
             </Link>

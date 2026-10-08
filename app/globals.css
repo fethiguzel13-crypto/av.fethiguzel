@@ -269,6 +269,19 @@ body::before {
     @apply inline-flex items-center justify-center gap-2 bg-white/10 text-cream border border-white/20 font-bold text-sm px-6 py-3.5 rounded-full transition-all hover:bg-white/20;
   }
 
+  /* Açık zeminde ikinci ve üçüncü düzey düğme, küçük bağlantı çipi (G16; önceden 14 satır içi birleşim). */
+  .btn-dark {
+    @apply inline-flex items-center justify-center gap-2 bg-charcoal text-cream font-bold text-sm px-6 py-3.5 rounded-full transition-colors hover:bg-accent-solid hover:text-white;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 border border-charcoal/15 text-charcoal font-bold text-sm px-6 py-3.5 rounded-full transition-colors hover:border-accent hover:text-accent-ink;
+  }
+
+  .btn-chip {
+    @apply inline-block text-sm font-semibold text-charcoal bg-cream border border-charcoal/10 px-3 py-1.5 rounded-full transition-colors hover:border-accent hover:text-accent-ink;
+  }
+
   .section-label {
     @apply text-accent-ink font-heading text-xs sm:text-sm tracking-[0.2em] uppercase font-semibold;
   }
