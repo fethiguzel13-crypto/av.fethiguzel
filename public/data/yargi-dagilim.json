@@ -1,0 +1,136 @@
+{
+ "kaynakTarihi": "2026-10-07",
+ "arsiv": 114625,
+ "yayinda": 39718,
+ "suzulen": 74907,
+ "tarihsiz": 4293,
+ "birimler": [
+  {
+   "anahtar": "hgk",
+   "ad": "Hukuk Genel Kurulu",
+   "sayi": 16309
+  },
+  {
+   "anahtar": "ceza-daire",
+   "ad": "Ceza daireleri",
+   "sayi": 7444
+  },
+  {
+   "anahtar": "cgk",
+   "ad": "Ceza Genel Kurulu",
+   "sayi": 6116
+  },
+  {
+   "anahtar": "borclar-daire",
+   "ad": "Borçlar odaklı hukuk daireleri",
+   "sayi": 2770
+  },
+  {
+   "anahtar": "medeni-daire",
+   "ad": "Medeni odaklı hukuk daireleri",
+   "sayi": 2286
+  },
+  {
+   "anahtar": "is-daire",
+   "ad": "İş/SGK hukuk daireleri",
+   "sayi": 2258
+  },
+  {
+   "anahtar": "hdbk",
+   "ad": "Hukuk Daireleri Başkanlar Kurulu",
+   "sayi": 1797
+  },
+  {
+   "anahtar": "diger",
+   "ad": "Diğer",
+   "sayi": 738
+  }
+ ],
+ "digerDetay": [
+  {
+   "anahtar": "hukuk-daire",
+   "ad": "Diğer hukuk daireleri",
+   "sayi": 404
+  },
+  {
+   "anahtar": "icra-daire",
+   "ad": "İcra-İflas odaklı hukuk daireleri",
+   "sayi": 294
+  },
+  {
+   "anahtar": "yibk",
+   "ad": "İçtihadı Birleştirme",
+   "sayi": 40
+  }
+ ],
+ "yillar": [
+  {
+   "yil": 2010,
+   "sayi": 854
+  },
+  {
+   "yil": 2011,
+   "sayi": 877
+  },
+  {
+   "yil": 2012,
+   "sayi": 597
+  },
+  {
+   "yil": 2013,
+   "sayi": 5676
+  },
+  {
+   "yil": 2014,
+   "sayi": 1145
+  },
+  {
+   "yil": 2015,
+   "sayi": 295
+  },
+  {
+   "yil": 2016,
+   "sayi": 1136
+  },
+  {
+   "yil": 2017,
+   "sayi": 968
+  },
+  {
+   "yil": 2018,
+   "sayi": 1638
+  },
+  {
+   "yil": 2019,
+   "sayi": 1687
+  },
+  {
+   "yil": 2020,
+   "sayi": 1294
+  },
+  {
+   "yil": 2021,
+   "sayi": 2126
+  },
+  {
+   "yil": 2022,
+   "sayi": 2324
+  },
+  {
+   "yil": 2023,
+   "sayi": 1645
+  },
+  {
+   "yil": 2024,
+   "sayi": 703
+  },
+  {
+   "yil": 2025,
+   "sayi": 1183
+  },
+  {
+   "yil": 2026,
+   "sayi": 11277
+  }
+ ]
+}
