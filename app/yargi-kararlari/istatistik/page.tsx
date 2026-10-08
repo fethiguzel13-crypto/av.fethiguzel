@@ -107,7 +107,7 @@ export default function YargiIstatistikPage() {
 
           <p className="mt-8 text-sm text-ink-muted">
             Kararların kendisi{' '}
-            <Link href="/yargi-kararlari" className="text-accent-ink underline-offset-2 hover:underline">
+            <Link href="/yargi-kararlari" className="text-accent-ink underline underline-offset-2">
               Yargıtay karar arşivinde
             </Link>{' '}
             okunur.
