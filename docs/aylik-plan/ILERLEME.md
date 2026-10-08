@@ -505,3 +505,14 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Sıradaki: G17 (grafikler, beceri dataviz). Bağımlılığı G15 `[x]`'tir.
 - G17 DEVAM EDİYOR (başladı 13:03). Alt plan `gorevler/G17.md` yazıldı: kütüphanesiz sunucu SVG'si, yayımlanabilir kararların
   dağılımı `/yargi-kararlari/istatistik` sayfasında, hesaplama dökümü kıdem ve faizde. dataviz becerisi yüklenmiştir.
+- G17 adım 1 (`0499a26d6`): Dağılım verisi `public/data/yargi-dagilim.json`. Canlı hasat indeksi bugün 40.640 kararı süzgeçten
+  geçirmekte, sitede ise 39.718 karar yayındadır; veri bu yüzden yayımlanan web indeksinden ve aynı üretimin `yargi-stats.json`'ından
+  sayılır, çelişkide üretici hata verir. Defter tabanlı ilk tasarım bırakılmış, `mobile/` betiklerine yapılan geçici değişiklik
+  geri alınmıştır. Test önce kırmızı, 7/7.
+- G17 adım 2 (`e18c7ae41`): `lib/grafik-palet.mjs`. Kategorik palet `#CC5833, #2a78d6, #1baf7a` dataviz doğrulayıcısından iki
+  zeminde geçmiştir (üçüncü renk 2,79:1, etiket ve tablo zorunlu). Rapor `raporlar/g17-grafikler.md`. Test 3/3.
+- G17 adım 3'ün ilk dilimi (`849dc80f8`): `lib/grafik-olcek.mjs` (tikler, sütun yolu), test 4/4. `kalite:hizli` yeşildir (796 test).
+- TestSprite: değişiklik yayında değil (30 Ekim), koşulmamıştır. Port 3123 boştur, ağaç temizdir. Oturum 13:20'de, yeni iş
+  başlatmadan kapatılmıştır (bileşenler derleme ve görsel doğrulama ister).
+- Sıradaki: G17 adım 3'ün kalanı (`components/grafik/`, dataviz `marks-and-anatomy.md` ve `interaction.md`), sonra adım 4
+  (`gorevler/G17.md` "Sıradaki"). G17 DEVAM EDİYOR.
