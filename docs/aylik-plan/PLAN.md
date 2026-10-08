@@ -241,11 +241,15 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     ve küçük etiket düğmesi için tek sınıfa toplanır (renk jetonu `accent-solid` hazırdır). G16'da ana sayfa ve yazar sayfalarındaki
     14 düğme `.btn-primary`, `.btn-dark`, `.btn-secondary`, `.btn-chip` sınıflarına toplanmıştır; sitenin geri kalanı G21/G24'te.
 
-- [ ] **G17 — Grafikler** · bağımlı: G15 · beceri: dataviz
+- [x] **G17 — Grafikler** · bağımlı: G15 · beceri: dataviz
   - "Yargıtay karar arşivi" istatistik sayfası: yıllara, birimlere, hukuk alanlarına göre dağılım,
     emsal/benzer oranları (veri: `_state/benzerlik.jsonl`, `index.jsonl`; derleme anında statik JSON).
   - Hesaplama araçlarına görsel döküm (tazminat bileşenleri, faiz zaman çizelgesi).
-  - DEVAM EDİYOR (2026-10-08 13:03): Alt plan `gorevler/G17.md`.
+  - Tamamlandı (2026-10-08): Alt plan `gorevler/G17.md`, rapor `raporlar/g17-grafikler.md`. Commit'ler `0499a26d6`, `e18c7ae41`,
+    `849dc80f8`, `6b817a363`, `2a8ae6a66`, `d7ae0c56c` ve kapanış. `/yargi-kararlari/istatistik` yıl ve birim dağılımını verir.
+    Hukuk alanı dağılımı ile emsal ve benzer oranı çizilmemiştir, zira yayımlanan web indeksinde alan bilgisi yoktur ve canlı
+    hasat indeksi sitede yayımlanan sayıyla çelişmektedir (adım 1 kararı, `kullaniciya-sorular.md`). Kıdem ve faiz aracına
+    yığılmış çubuk dökümü eklenmiş, faizin dönem çizelgesi korunmuştur.
 
 - [ ] **G18 — Ders notlarına şemalar** · bağımlı: G15
   - Veriyle beslenen SVG bileşeni `<AkisSemasi>`: dava süreci, icra takibi, ceza muhakemesi evreleri,

@@ -49,3 +49,43 @@ Kontrast uyarısı üçüncü rengi kullanan grafikte görünür değer etiketi 
 ve doygunluk tabanının altında kalmış, normal görüş tabanını da geçememiştir (ΔE 14,9). Eksen ve ızgara renkleri (`#C9C6BD`,
 `#E4E1D8`) seri rengi değildir, krem tonlarından türetilmiş geri planda kalan çizgilerdir. Sitede karanlık kip yoktur; kömür zeminde
 grafik çizilirse palet `--mode dark` ile ayrıca doğrulanır.
+
+## Hesaplama dökümü (adım 5)
+
+Kıdem aracında brüt kıdem ile brüt ihbarın toplamı net kıdem, net ihbar ve vergi kesintileri olarak üç kesimli tek çubukta
+gösterilir. Faiz aracında "Anapara + Faiz" toplamı anapara ve toplam faiz olarak ikiye ayrılır. Varsayılan girdilerle ölçülen
+erişilebilir ad şöyledir: Kıdemde toplam 818.520,55 TL olup net kıdem %85,7, net ihbar %11,5, vergi kesintileri %2,8'dir, faizde
+ise toplam 166.476,71 TL'nin %60,1'i anapara, %39,9'u faizdir. Görüntüler `gorsel/g17-dokum-{kidem,faiz}-{masaustu,mobil}.jpg`
+dosyalarındadır, iki genişlikte de yatay taşma ve konsol hatası yoktur.
+
+## dataviz anti-pattern gözden geçirmesi (adım 6)
+
+Çift eksen, renk döngüsü, sıralamaya göre boyama, her işarette sayı, kenarlıkla ayrılan işaret, kesik etiket ve yalnız ipucuyla
+okunan değer bulunmamaktadır. Yıl ve birim grafiği tek seri olup tek renkle çizilir, her birinin tablo görünümü vardır. Yığılmış
+çubukta lejant her kesimin tutarını ve payını metin rengiyle yazar, bu liste aynı zamanda tablo görünümü işlevi görür.
+
+Tartışmaya açık tek nokta faiz dökümüdür. İki kesimli tek çubuk, listedeki "2 dilimli pasta" maddesine yakındır. Çubuk yine de
+korunmuştur, zira faizin anaparaya oranı aracın verdiği asıl bilgidir ve uzunluk karşılaştırması ortak tabanda yapılır. Tutarlar
+lejantta metin olarak da yer alır. Kullanıcı bunu fazlalık sayarsa yerine sayı kutusu konulabilir. Dönemsel modda dilimler renge
+bölünmemiştir, zira dilim sayısı üç renklik paleti aşabilir ve dilim tutarları aracın dönem çizelgesinde zaten yazılıdır.
+
+## Ölçüm (adım 6)
+
+Tasarım denetimi (`tasarim-denetim-g17.json`) ilk koşuda istatistik sayfasında bir `link-in-text-block` ihlali bulmuştur. Kapanış
+cümlesindeki arşiv bağlantısı çevre metinden yalnız renkle ayrılmakta olup iki renk arasındaki kontrast 1,03:1'dir. Bağlantıya
+kalıcı alt çizgi verilmiş ve sayfa testine bu kural eklenmiştir (önce kırmızı). Yeniden derlemeden sonra `/yargi-kararlari/istatistik`
+ve `/hesaplama/kidem` 1280 ve 390 px genişlikte ihlal, kontrast, küçük hedef ve taşma bakımından 0 vermiştir.
+
+Lighthouse mobil ölçümü sayfa başına üç koşunun ortancasıyla yapılmıştır (`lighthouse-g17.json`, G13 kapanışı
+`lighthouse-g13-sonra-ortanca.json`):
+
+| Sayfa | Performans | Erişilebilirlik | LCP | TBT | Aktarım |
+|---|---|---|---|---|---|
+| `/hesaplama/kidem` | 57 → 77 | 96 → 100 | 4.701 → 4.800 ms | 1.216 → 271 ms | 603 → 639 KB |
+| `/yargi-kararlari` | 61 → 77 | 96 → 100 | 4.695 → 4.700 ms | 877 → 254 ms | 628 → 667 KB |
+
+LCP aynı düzeydedir. Aktarım iki sayfada da yaklaşık 36-39 KB artmıştır. Artış betikten gelmemektedir, zira derleme taramasındaki
+ilk yük betik bütçesi (`scripts/betik-butce-taban.json`) değişmeden geçmiştir. Arşiv sayfasına G17'de yalnız bir bağlantı
+eklendiğinden farkın G15 ve G16'nın ortak değişikliklerinden geldiği düşünülmekte olup kaynağın ayrıştırılması G25'teki
+karşılaştırmalı ölçüme bırakılmıştır.
+`npm run kalite` iki kez yeşildir (817 ve 818 test).

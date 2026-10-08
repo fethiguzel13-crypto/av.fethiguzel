@@ -516,3 +516,22 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   başlatmadan kapatılmıştır (bileşenler derleme ve görsel doğrulama ister).
 - Sıradaki: G17 adım 3'ün kalanı (`components/grafik/`, dataviz `marks-and-anatomy.md` ve `interaction.md`), sonra adım 4
   (`gorevler/G17.md` "Sıradaki"). G17 DEVAM EDİYOR.
+
+## 2026-10-08 17:00 — G17 DEVAM EDİYOR (başsız oturum, başladı 17:00)
+
+- Devralma: 14:00 oturumu 14:27'de sınıra takılmıştır (döküm `29eced20`, `"error":"rate_limit"`), 15:00 ve 16:00 oturumları iş
+  yapmadan kapanmıştır. 14:24'te başlatılan `next start` 3123'ü tutmaktaydı, durdurulmuştur.
+- Kesintide yarım kalan bağlama testi `node -e` ile yazılmış ve heredoc kaçış tuzağına düşmüştü (`\b` geri silme karakterine, `\/`
+  ile `\(` çıplak karaktere dönmüştü). Test Edit ile yeniden yazılmış, değişen dosyalarda denetim karakteri taraması 0 vermiştir.
+- G17 adım 5: Kıdem aracına net kıdem, net ihbar ve vergi kesintilerinden oluşan, faiz aracına ise anapara ve faizden oluşan
+  yığılmış çubuk dökümü eklenmiştir. Sonuç satırları ve faizin dönem çizelgesi korunmuştur. Test 25/25 (önce kırmızı).
+  Tam `npm run kalite` yeşildir (817 test, derleme 1018 sn, boş bellek ~350 MB). Adım 4 `2a8ae6a66`, adım 5 `d7ae0c56c`.
+- G17 adım 6: Tasarım denetimi istatistik sayfasında `link-in-text-block` bulmuştur (cümle içi bağlantı yalnız renkle ayrılıyordu,
+  1,03:1). Kalıcı alt çizgi eklenmiş, sayfa testine kural yazılmıştır (önce kırmızı). Yeniden derlemeden sonra kapı yeşildir
+  (818 test, derleme 380 sn). Denetim yeni sayfada ve `/hesaplama/kidem`'de iki genişlikte 0'dır. Lighthouse mobil ortancası
+  hesaplamada performans 77 ve LCP 4,8 sn, arşivde 77 ve 4,7 sn'dir. G13'e göre aktarım ~36-39 KB artmış, betik bütçesi ise
+  değişmemiştir (`raporlar/g17-grafikler.md`).
+- **G17 tamamlanmıştır** (PLAN.md'de `[x]`). Hukuk alanı dağılımı ile emsal oranı, yayımlanan indekste alan bilgisi bulunmadığından
+  çizilmemiş ve soru 22'ye yazılmıştır.
+- TestSprite: değişiklik yayında değil (30 Ekim), koşulmamıştır. Sunucu kapatılmış, port 3123 boştur, zaman damgalı dosyalar geri
+  alınmıştır.

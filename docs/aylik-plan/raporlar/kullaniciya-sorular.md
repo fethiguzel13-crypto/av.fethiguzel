@@ -120,3 +120,9 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     tema için ayrı ayrı denetlenmesini gerektirir. Bu, renk dilinin yeniden tasarımıdır. G15 bunun yerine açık temadaki
     kontrast sorunlarını gidermektedir (`raporlar/tasarim-denetimi.md`). *Varsayım:* yanıt gelene kadar site yalnız açık temada
     kalır. Koyu sistem temasında tarayıcı çubuğunun kömür rengi alması da krem yapılacaktır, böylece çubuk ile sayfa uyumlu olur.
+22. **Karar arşivi istatistiklerinde hukuk alanı ve emsal oranı (G17).** Plan, `/yargi-kararlari/istatistik` sayfasında hukuk
+    alanına göre dağılım ile emsal ve benzer oranını da öngörmekteydi. Sayfadaki sayılar sitede yayımlanan web indeksinden
+    (39.718 karar) alınmış olup bu indekste alan bilgisi bulunmamaktadır. Canlı hasat indeksi ise bugün 40.640 kararı süzgeçten
+    geçirmekte olduğundan iki kaynak birleştirilirse sayfadaki toplamlar sitede yayımlanan sayıyla çelişir. *Varsayım:* sayfa
+    yalnız yıl ve birim dağılımını gösterir. Alan dağılımı istenirse yayın üretimi (`data/yayin/`) alan sayımını da yazacak
+    biçimde genişletilir, bu da bir sonraki yayın üretiminde iki kaynağı aynı anlık görüntüye bağlar.

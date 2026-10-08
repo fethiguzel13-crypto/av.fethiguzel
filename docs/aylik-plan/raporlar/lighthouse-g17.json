@@ -1,0 +1,74 @@
+{
+  "tarih": "2026-10-08T14:34:30.302Z",
+  "taban": "http://localhost:3123",
+  "tekrar": 3,
+  "ortalama": {
+    "performance": 77,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 100
+  },
+  "sayfalar": [
+    {
+      "tur": "hesaplama",
+      "yol": "/hesaplama/kidem",
+      "puan": {
+        "performance": 77,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 4793,
+      "fcpMs": 1550,
+      "tbtMs": 271,
+      "cls": 0,
+      "siMs": 2645,
+      "anaIsMs": 2983,
+      "aktarimKb": 639,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [
+        "label-content-name-mismatch"
+      ],
+      "tbtAralik": [
+        216,
+        318
+      ],
+      "anaIsAralik": [
+        2760,
+        3114
+      ],
+      "kosu": 3,
+      "kosuHatalari": [
+        "NO_NAVSTART: Something went wrong with recording the trace over your page load. Please run Lighthouse again. (NO_NAVSTART)"
+      ]
+    },
+    {
+      "tur": "yargı arşivi",
+      "yol": "/yargi-kararlari",
+      "puan": {
+        "performance": 77,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcpMs": 4737,
+      "fcpMs": 1549,
+      "tbtMs": 254,
+      "cls": 0.011,
+      "siMs": 2383,
+      "anaIsMs": 2800,
+      "aktarimKb": 667,
+      "seoBasarisiz": [],
+      "erisilebilirlikBasarisiz": [],
+      "tbtAralik": [
+        146,
+        287
+      ],
+      "anaIsAralik": [
+        2317,
+        2959
+      ],
+      "kosu": 3
+    }
+  ]
+}

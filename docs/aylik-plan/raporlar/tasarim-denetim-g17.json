@@ -1,0 +1,56 @@
+{
+ "etiket": "g17",
+ "taban": "http://localhost:3123",
+ "tarih": "2026-10-08T14:46:08.571Z",
+ "ozet": {
+  "kurallar": [],
+  "kucukHedef": 0,
+  "tasan": []
+ },
+ "sonuclar": [
+  {
+   "sayfa": "yargi-istatistik",
+   "adres": "/yargi-kararlari/istatistik",
+   "durum": 200,
+   "genislik": 1280,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 14366
+  },
+  {
+   "sayfa": "hesaplama",
+   "adres": "/hesaplama/kidem",
+   "durum": 200,
+   "genislik": 1280,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 3652
+  },
+  {
+   "sayfa": "yargi-istatistik",
+   "adres": "/yargi-kararlari/istatistik",
+   "durum": 200,
+   "genislik": 390,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 3750
+  },
+  {
+   "sayfa": "hesaplama",
+   "adres": "/hesaplama/kidem",
+   "durum": 200,
+   "genislik": 390,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 3306
+  }
+ ]
+}
