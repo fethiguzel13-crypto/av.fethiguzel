@@ -5,8 +5,11 @@ import Link from "@/components/SiteLink";
 import { ArrowRight } from 'lucide-react';
 import { gsapGorununce } from '@/lib/gsap-yukle';
 
-/** `serh`: yayımlanabilir şerh sayısı, sunucuda `siteSayilari()`'ndan yuvarlanmış olarak gelir (istemci bileşeni dosya okuyamaz). */
-export default function About({ serh }: { serh: string }) {
+/**
+ * `serh`: yayımlanabilir şerh sayısı, sunucuda `siteSayilari()`'ndan yuvarlanmış olarak gelir (istemci bileşeni dosya okuyamaz).
+ * `kitap`: kitabın kısa adı ve yayınevi, `PROFILE.book`'tan (istemci paketine bütün profil nesnesi girmesin diye).
+ */
+export default function About({ serh, kitap }: { serh: string; kitap: string }) {
   const containerRef = useRef(null);
   const imageRef = useRef(null);
 
@@ -76,51 +79,37 @@ export default function About({ serh }: { serh: string }) {
           <p className="philo-text text-cream/65 text-base sm:text-lg md:text-xl font-sans leading-relaxed">
             Avukatlık; mevzuata hâkimiyet, güncel içtihat takibi ve somut olayın çok yönlü incelenmesini gerektirir. Av. Fethi Güzel, özel hukuk alanında doktora çalışmaları yürüten bir avukat ve arabulucu olarak Van, Erciş ve çevre bölgelerde dava vekilliği ile önleyici danışmanlık sunar.
           </p>
-          <p className="philo-text text-cream/65 text-base sm:text-lg md:text-xl font-sans leading-relaxed">
-            Yayımlanmış e-duruşma monografisi (Seçkin Yayıncılık), iyi düzeyde İngilizce ve {serh} maddede akademik şerh içeren açık erişimli arşiv, bilgilendirme odaklı dijital varlığın omurgasıdır.
-          </p>
+          {/*
+            Yazar ve eserler (G16): Bu liste eskiden üç yerde yazılıydı (TrustBar başlığı, CredentialsStrip, buradaki
+            sayı satırı) ve hemen üstteki paragraf aynı bilgiyi dördüncü kez veriyordu. Artık yalnız burada, her satır
+            ilgili sayfaya bağlı olarak durur. Eser künyesi `lib/profile.ts`'ten prop olarak gelir.
+          */}
+          <ul className="philo-text pt-6 sm:pt-8 border-t border-cream/10 grid grid-cols-1 sm:grid-cols-2 gap-3">
+            {[
+              { baslik: 'Doktora çalışmaları', metin: 'Özel hukuk', href: '/akademik-profil' },
+              { baslik: 'Yayımlanmış kitap', metin: kitap, href: '/eserlerim' },
+              { baslik: `${serh} şerhli madde`, metin: 'Açık erişimli kanun şerhi', href: '/mevzuat' },
+              { baslik: 'İngilizce', metin: 'İyi düzeyde iletişim ve yazışma', href: '/english-speaking-lawyer' },
+            ].map((s) => (
+              <li key={s.href}>
+                <Link
+                  href={s.href}
+                  className="block h-full rounded-2xl border border-cream/10 px-4 py-3.5 hover:border-accent-light/50 hover:bg-cream/[0.04] transition-colors"
+                >
+                  <span className="block text-accent-light font-heading font-bold text-base">{s.baslik}</span>
+                  <span className="block text-cream/60 text-xs mt-1 leading-snug">{s.metin}</span>
+                </Link>
+              </li>
+            ))}
+          </ul>
 
-          <div className="philo-text pt-6 sm:pt-8 border-t border-cream/10 flex flex-wrap items-center gap-6 sm:gap-8">
-            <div>
-              <span className="block text-accent font-bold text-2xl font-heading">Doktora</span>
-              <span className="text-cream/55 text-[10px] uppercase tracking-widest font-bold">Özel hukuk</span>
-            </div>
-            <div className="w-px h-12 bg-cream/10 hidden sm:block" />
-            <div>
-              <span className="block text-accent font-bold text-2xl font-heading">Kitap</span>
-              <span className="text-cream/55 text-[10px] uppercase tracking-widest font-bold">e-Duruşma</span>
-            </div>
-            <div className="w-px h-12 bg-cream/10 hidden sm:block" />
-            <div>
-              <span className="block text-accent font-bold text-2xl font-heading">EN</span>
-              <span className="text-cream/55 text-[10px] uppercase tracking-widest font-bold">İngilizce</span>
-            </div>
-            <div className="w-px h-12 bg-cream/10 hidden sm:block" />
-            <div>
-              <span className="block text-accent font-bold text-2xl font-heading">{serh}</span>
-              <span className="text-cream/55 text-[10px] uppercase tracking-widest font-bold">Şerhli madde</span>
-            </div>
-          </div>
-
-          <div className="philo-text flex flex-col sm:flex-row flex-wrap gap-3 pt-2">
+          <div className="philo-text pt-2">
             <Link
               href="/avukat-fethi-guzel"
               className="inline-flex items-center justify-center gap-2 bg-accent-solid text-white px-6 py-3.5 rounded-full font-bold text-sm hover:bg-accent-ink transition-colors"
             >
               Tam profil
               <ArrowRight size={16} aria-hidden />
-            </Link>
-            <Link
-              href="/akademik-profil"
-              className="inline-flex items-center justify-center gap-2 border border-cream/20 text-cream px-6 py-3.5 rounded-full font-bold text-sm hover:bg-cream/10 transition-colors"
-            >
-              Akademik profil
-            </Link>
-            <Link
-              href="/eserlerim"
-              className="inline-flex items-center justify-center gap-2 border border-cream/20 text-cream px-6 py-3.5 rounded-full font-bold text-sm hover:bg-cream/10 transition-colors"
-            >
-              Kitap
             </Link>
           </div>
         </div>

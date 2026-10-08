@@ -70,6 +70,9 @@ const FEATURED_TOOLS = [
   },
 ];
 
+/** Mobilde gösterilen kart sayısı; kalanlar "Tüm Araçlar" bağlantısıyla açılır (G16: dokuz kart mobil sayfayı uzatıyordu). */
+const MOBIL_KART = 4;
+
 const ETIKET_RENK: Record<string, string> = {
   'Miras Hukuku': 'bg-indigo-50 text-indigo-700',
   'İş Hukuku': 'bg-blue-50 text-blue-700',
@@ -107,11 +110,11 @@ export default function ToolsPreview() {
 
         {/* Kart grid — mobil 2 sütun, tablet 2, masaüstü 4 */}
         <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-5">
-          {FEATURED_TOOLS.map(tool => (
+          {FEATURED_TOOLS.map((tool, i) => (
             <Link
               key={tool.id}
               href={`/hesaplama/${tool.id}`}
-              className="group bg-white border border-charcoal/[0.06] rounded-2xl sm:rounded-[2rem] p-4 sm:p-6 hover:shadow-lg transition-all duration-300 flex flex-col"
+              className={`group bg-white border border-charcoal/[0.06] rounded-2xl sm:rounded-[2rem] p-4 sm:p-6 hover:shadow-lg transition-all duration-300 flex-col ${i < MOBIL_KART ? 'flex' : 'hidden sm:flex'}`}
             >
               {/* Etiket */}
               <span className={`self-start text-[9px] sm:text-[10px] font-bold uppercase tracking-wider px-2 sm:px-3 py-0.5 sm:py-1 rounded-full mb-3 sm:mb-4 ${ETIKET_RENK[tool.etiket] ?? 'bg-charcoal/5 text-ink-muted'}`}>

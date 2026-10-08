@@ -3,8 +3,6 @@ import type { Metadata } from 'next';
 import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
 import TrustBar from '@/components/TrustBar';
-import CredentialsStrip from '@/components/CredentialsStrip';
-import LibraryStrip from '@/components/LibraryStrip';
 import ToolsPreview from '@/components/ToolsPreview';
 import YargiPreview from '@/components/YargiPreview';
 import About from '@/components/About';
@@ -14,6 +12,7 @@ import FaqSection from '@/components/FaqSection';
 import Footer from '@/components/Footer';
 import StickyMobileCta from '@/components/StickyMobileCta';
 import { siteSayilari, tr, yaklasik } from '@/lib/site-stats';
+import { PROFILE } from '@/lib/profile';
 
 const N = siteSayilari();
 
@@ -64,6 +63,7 @@ export default function Home() {
       <Navbar />
       <Hero sayilar={sayilar} />
       <TrustBar sayilar={sayilar} />
+      <YargiPreview />
       {/* Google + kullanıcı: taranabilir sık aranan madde linkleri (JS yok) */}
       <section className="py-8 sm:py-10 px-5 sm:px-6 border-b border-charcoal/5 bg-white/40">
         <div className="max-w-7xl mx-auto">
@@ -101,11 +101,8 @@ export default function Home() {
           </ul>
         </div>
       </section>
-      <CredentialsStrip />
-      <LibraryStrip sayilar={sayilar} />
-      <YargiPreview />
+      <About serh={yaklasik(n.serh, 100)} kitap={`${PROFILE.book.shortTitle} — ${PROFILE.book.publisher}`} />
       <DailyNews />
-      <About serh={yaklasik(n.serh, 100)} />
       <ToolsPreview />
       <Articles />
       <section className="py-12 sm:py-16 px-5 sm:px-6 border-t border-charcoal/5">

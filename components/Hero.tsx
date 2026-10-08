@@ -16,12 +16,6 @@ export type HeroSayilari = {
 };
 
 export default function Hero({ sayilar }: { sayilar: HeroSayilari }) {
-  const STAT_ITEMS = [
-    { num: sayilar.kanun, label: 'Kanun' },
-    { num: sayilar.madde, label: 'Madde metni' },
-    { num: sayilar.karar, label: 'Yargıtay Kararı' },
-    { num: sayilar.rehber, label: 'Vatandaş Rehberi' },
-  ];
   /*
     Giriş animasyonu CSS'te (globals.css `.hero-fade`). GSAP ile yapıldığında hidrasyon metni bir an gizleyip yeniden
     açıyordu; LCP bütün betiklerin bitişine bağlanıyor, 140 KB'lık kütüphane de ilk yüke giriyordu (G13).
@@ -75,22 +69,10 @@ export default function Hero({ sayilar }: { sayilar: HeroSayilari }) {
             içtihat ve vatandaş rehberi aynı yerde.
           </p>
 
-          <div className="hero-fade flex items-stretch gap-4 sm:gap-8 mb-9 sm:mb-12">
-            {STAT_ITEMS.map((s) => (
-              <div
-                key={s.label}
-                className="px-3 sm:px-5 py-3 rounded-2xl bg-cream/[0.06] border border-cream/10 backdrop-blur-sm text-center min-w-[4.5rem]"
-              >
-                <span className="block text-xl sm:text-2xl font-bold text-accent font-heading tracking-tight">
-                  {s.num}
-                </span>
-                <span className="block text-[9px] sm:text-[10px] font-mono text-cream/55 uppercase tracking-widest mt-0.5">
-                  {s.label}
-                </span>
-              </div>
-            ))}
-          </div>
-
+          {/*
+            Sayı rozetleri KALDIRILDI (G16): Hemen üstteki cümlenin sayılarını ikinci kez veriyorlardı. Sayılar
+            ilk ekranda cümlede, ayrıntısı alttaki külliyat şeridinde (TrustBar) bir kez yazılır.
+          */}
           <div className="hero-fade flex flex-col sm:flex-row flex-wrap gap-3 sm:gap-3.5 items-stretch sm:items-center">
             <Link
               href="/avukat-fethi-guzel"
