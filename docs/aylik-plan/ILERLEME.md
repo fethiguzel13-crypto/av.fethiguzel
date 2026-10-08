@@ -535,3 +535,5 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   çizilmemiş ve soru 22'ye yazılmıştır.
 - TestSprite: değişiklik yayında değil (30 Ekim), koşulmamıştır. Sunucu kapatılmış, port 3123 boştur, zaman damgalı dosyalar geri
   alınmıştır.
+- G18 DEVAM EDİYOR (başladı 17:49). Alt plan `gorevler/G18.md` yazıldı: kanun metnine testle bağlanan şema verisi, sunucu SVG
+  bileşeni `AkisSemasi`, ders taban koduna göre bağlama.
