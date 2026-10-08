@@ -5,10 +5,9 @@ import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 import Kirinti from '@/components/Kirinti';
-import CredentialsStrip from '@/components/CredentialsStrip'
 import { Scale, MapPin, BookOpen, Gavel, Mail, GraduationCap, Globe2, ExternalLink } from 'lucide-react'
-import { PROFILE, BOLGELER, SITE_URL, CREDENTIAL_BULLETS, SOCIAL_SAME_AS } from '@/lib/profile'
-import { yazarRef } from '@/lib/yazar';
+import { PROFILE, BOLGELER, SITE_URL, SOCIAL_SAME_AS } from '@/lib/profile'
+import { YAZAR, yazarRef } from '@/lib/yazar';
 import { siteSayilari, tr, yaklasik } from '@/lib/site-stats';
 
 const photoPath = PROFILE.photo
@@ -46,7 +45,7 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: 'summary_large_image',
-        title: 'Av. Fethi Güzel',
+        title: YAZAR.ad,
         images: [photoAbs],
         site: '@avfethiguzel',
         creator: '@avfethiguzel',
@@ -57,7 +56,7 @@ export default function AvukatFethiGuzelPage() {
     const personLd = {
         '@context': 'https://schema.org',
         '@type': 'Attorney',
-        name: PROFILE.name,
+        name: YAZAR.ad,
         alternateName: [...PROFILE.alternateNames],
         image: photoAbs,
         url: `${SITE_URL}/avukat-fethi-guzel`,
@@ -90,10 +89,10 @@ export default function AvukatFethiGuzelPage() {
     const bookLd = {
         '@context': 'https://schema.org',
         '@type': 'Book',
-        name: PROFILE.book.title,
+        name: YAZAR.eser.ad,
         author: yazarRef(),
-        publisher: { '@type': 'Organization', name: PROFILE.book.publisher },
-        url: PROFILE.book.url,
+        publisher: { '@type': 'Organization', name: YAZAR.eser.yayinevi },
+        url: YAZAR.eser.url,
         inLanguage: 'tr',
     }
 
@@ -105,7 +104,7 @@ export default function AvukatFethiGuzelPage() {
         name: 'Av. Fethi Güzel portresi',
         description:
             'Avukat Fethi Güzel portresi. Özel hukuk doktora çalışmaları, e-duruşma yazarı.',
-        creditText: PROFILE.name,
+        creditText: YAZAR.ad,
         creator: yazarRef(),
     }
 
@@ -119,7 +118,7 @@ export default function AvukatFethiGuzelPage() {
             <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-6xl mx-auto">
                 <Kirinti
                     ogeler={[
-                        { ad: 'Av. Fethi Güzel', yol: '/avukat-fethi-guzel' },
+                        { ad: YAZAR.ad, yol: YAZAR.sayfa },
                     ]}
                 />
                 <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-14 items-start">
@@ -137,7 +136,7 @@ export default function AvukatFethiGuzelPage() {
                             />
                         </div>
                         <figcaption className="mt-4 text-center text-sm text-ink-muted">
-                            <strong className="text-charcoal">{PROFILE.name}</strong>
+                            <strong className="text-charcoal">{YAZAR.ad}</strong>
                             <span className="block mt-1 text-xs">
                                 Avukat & arabulucu · özel hukuk doktora çalışmaları · e-duruşma yazarı
                             </span>
@@ -146,7 +145,7 @@ export default function AvukatFethiGuzelPage() {
 
                     <div className="lg:col-span-7">
                         <p className="text-accent-ink font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
-                            Profil · nesnel bilgilendirme
+                            Yazar ve avukat
                         </p>
                         <h1 className="text-3xl sm:text-4xl md:text-5xl font-heading font-bold text-charcoal leading-tight mb-5">
                             Av. Fethi Güzel
@@ -169,8 +168,8 @@ export default function AvukatFethiGuzelPage() {
                             <li className="flex gap-3">
                                 <BookOpen className="text-accent shrink-0 mt-0.5" size={18} />
                                 <span>
-                                    <strong className="text-charcoal">Kitap:</strong> {PROFILE.book.shortTitle} —{' '}
-                                    {PROFILE.book.publisher}
+                                    <strong className="text-charcoal">Kitap:</strong> {YAZAR.eser.kisaAd} —{' '}
+                                    {YAZAR.eser.yayinevi}
                                 </span>
                             </li>
                             <li className="flex gap-3">
@@ -257,22 +256,46 @@ export default function AvukatFethiGuzelPage() {
 
                         <div className="bg-white border border-charcoal/[0.08] rounded-2xl p-5 sm:p-6">
                             <h2 className="font-heading font-bold text-charcoal mb-3 text-lg">Yayımlanmış eser</h2>
-                            <p className="text-charcoal/70 text-sm leading-relaxed mb-3">{PROFILE.book.title}</p>
+                            <p className="text-charcoal/70 text-sm leading-relaxed mb-3">{YAZAR.eser.ad}</p>
                             <a
-                                href={PROFILE.book.url}
+                                href={YAZAR.eser.url}
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="inline-flex items-center gap-1.5 text-accent-ink text-sm font-bold hover:underline"
                             >
-                                {PROFILE.book.publisher} <ExternalLink size={14} />
+                                {YAZAR.eser.yayinevi} <ExternalLink size={14} />
                             </a>
                         </div>
                     </div>
                 </div>
 
-                <div className="mt-12">
-                    <CredentialsStrip compact />
-                </div>
+                {/*
+                    Sitedeki çalışmalar (G16): Burada ana sayfanın kutucuk sırası duruyor ve hemen üstteki
+                    listeyi yineliyordu. Yazarın sitedeki asıl külliyatına giden yol yoktu; bölüm o yolu verir.
+                */}
+                <section className="mt-12" aria-labelledby="calismalar-baslik">
+                    <h2 id="calismalar-baslik" className="text-2xl font-heading font-bold text-charcoal mb-5">
+                        Sitedeki çalışmalar
+                    </h2>
+                    <ul className="grid grid-cols-1 sm:grid-cols-3 gap-3 sm:gap-4">
+                        {[
+                            {
+                                href: '/mevzuat',
+                                baslik: 'Kanun şerhleri',
+                                metin: `${yaklasik(siteSayilari().serh, 100)} maddede akademik şerh, ${tr(siteSayilari().kanun)} kanunun resmî metniyle`,
+                            },
+                            { href: '/makaleler', baslik: 'Makaleler', metin: 'Akademik makaleler, tebliğler ve hukuki değerlendirmeler' },
+                            { href: '/eserlerim', baslik: 'Kitap', metin: `${YAZAR.eser.kisaAd} — ${YAZAR.eser.yayinevi}` },
+                        ].map((c) => (
+                            <li key={c.href}>
+                                <Link href={c.href} className="block h-full surface-card-hover p-5">
+                                    <span className="block font-heading font-bold text-charcoal">{c.baslik}</span>
+                                    <span className="block text-ink-muted text-sm mt-1 leading-snug">{c.metin}</span>
+                                </Link>
+                            </li>
+                        ))}
+                    </ul>
+                </section>
 
                 <section className="mt-14 sm:mt-16">
                     <h2 className="text-2xl font-heading font-bold text-charcoal mb-3">
@@ -309,17 +332,11 @@ export default function AvukatFethiGuzelPage() {
                     <h2 className="text-xl font-heading font-bold text-charcoal mb-3">
                         Bilgilendirme yaklaşımı
                     </h2>
-                    <p className="text-charcoal/65 text-sm sm:text-base leading-relaxed mb-4">
+                    {/* Uyum beyanı ve sayfanın üstündeki listeyi yineleyen madde listesi kaldırıldı (G16). */}
+                    <p className="text-charcoal/65 text-sm sm:text-base leading-relaxed">
                         Hukuki metinlerin kamuya açık, düzenli ve akademik dilde sunulması ile bireysel dava ve
-                        danışmanlık süreçlerinin aynı standartta yürütülmesi büronun temel yaklaşımıdır. Bu
-                        profil sayfası reklam yasağına uygundur: nesnel unvan, yayın, dil ve ofis bilgisi verir;
-                        sonuç vaadi veya &quot;en iyi avukat&quot; iddiası içermez.
+                        danışmanlık süreçlerinin aynı standartta yürütülmesi büronun temel yaklaşımıdır.
                     </p>
-                    <ul className="text-sm text-ink-muted space-y-2">
-                        {CREDENTIAL_BULLETS.map((b) => (
-                            <li key={b}>· {b}</li>
-                        ))}
-                    </ul>
                 </section>
             </main>
             <Footer />

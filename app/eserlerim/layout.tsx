@@ -1,11 +1,11 @@
 import type { Metadata } from 'next';
 import type { ReactNode } from 'react';
 
-// Sayfa istemci bileşeni olduğu için metadata burada (G06b).
+// Metadata burada kalır (G06b'de sayfa istemci bileşeniydi; G16'da sunucu bileşenine döndü).
 export const metadata: Metadata = {
   title: 'Eserlerim ve Yayınlar',
   description:
-    'Av. Fethi Güzel’in kitap ve akademik yayınlarına ilişkin nesnel yayın bilgisi: e-duruşma monografisi ve diğer çalışmalar.',
+    'Av. Fethi Güzel’in kitabı, kanun şerhleri ve makaleleri: e-duruşma monografisi, yayınevi ve satış kanalları.',
   alternates: { canonical: 'https://www.avfethiguzel.com/eserlerim' },
 };
 

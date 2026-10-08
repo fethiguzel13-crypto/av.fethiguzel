@@ -7,12 +7,12 @@ import Footer from '@/components/Footer';
 import Kirinti from '@/components/Kirinti';
 import { PROFILE, SITE_URL, CREDENTIAL_BULLETS, SOCIAL_SAME_AS } from '@/lib/profile';
 import { BookOpen, GraduationCap, Globe2, ExternalLink } from 'lucide-react';
-import { yazarRef } from '@/lib/yazar';
+import { YAZAR, yazarRef } from '@/lib/yazar';
 
 export const metadata: Metadata = {
     title: 'Akademik Profil | Doktora, Kitap ve Özel Hukuk',
     description:
-        'Av. Fethi Güzel akademik profil: özel hukuk alanında doktora çalışmaları, e-duruşma monografisi (Seçkin), medeni usul ve özel hukuk araştırması. Reklam yasağına uygun bilgilendirme.',
+        `${YAZAR.ad} akademik profil: özel hukuk alanında doktora çalışmaları, ${YAZAR.eser.kisaAd} monografisi (${YAZAR.eser.yayinevi}), medeni usul ve özel hukuk araştırması.`,
     alternates: { canonical: `${SITE_URL}/akademik-profil` },
     openGraph: {
         title: 'Akademik Profil — Av. Fethi Güzel',
@@ -44,10 +44,10 @@ export default function AkademikProfilPage() {
     const bookLd = {
         '@context': 'https://schema.org',
         '@type': 'Book',
-        name: PROFILE.book.title,
+        name: YAZAR.eser.ad,
         author: yazarRef(),
-        publisher: { '@type': 'Organization', name: PROFILE.book.publisher },
-        url: PROFILE.book.url,
+        publisher: { '@type': 'Organization', name: YAZAR.eser.yayinevi },
+        url: YAZAR.eser.url,
         inLanguage: 'tr',
     };
 
@@ -70,9 +70,15 @@ export default function AkademikProfilPage() {
                     Akademik profil
                 </h1>
                 <p className="text-charcoal/65 text-base sm:text-lg leading-relaxed mb-10 max-w-2xl">
-                    Bu sayfa Avukatlık Kanunu ve TBB reklam yasağı kurallarına uygun olarak yalnızca{' '}
-                    <strong className="text-charcoal">nesnel unvan, yayın ve dil bilgisi</strong> içerir.
-                    Sonuç vaadi veya karşılaştırmalı iddia bulunmaz.
+                    Doktora çalışmaları, yayımlanmış eser ve dil bilgisi. Sitedeki şerh ve makaleler{' '}
+                    <Link href="/avukat-fethi-guzel" className="text-accent-ink font-semibold hover:underline">
+                        yazar sayfasında
+                    </Link>
+                    , kitabın satış kanalları{' '}
+                    <Link href="/eserlerim" className="text-accent-ink font-semibold hover:underline">
+                        eserler sayfasında
+                    </Link>{' '}
+                    yer alır.
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-8 mb-14 items-start">
@@ -86,7 +92,7 @@ export default function AkademikProfilPage() {
                         />
                     </div>
                     <div>
-                        <h2 className="text-2xl font-heading font-bold text-charcoal mb-2">{PROFILE.name}</h2>
+                        <h2 className="text-2xl font-heading font-bold text-charcoal mb-2">{YAZAR.ad}</h2>
                         <p className="text-ink-muted text-sm mb-4">
                             {PROFILE.jobTitle} · {PROFILE.office.locality} / {PROFILE.office.region}
                         </p>
@@ -126,19 +132,19 @@ export default function AkademikProfilPage() {
                         <BookOpen className="text-accent" size={22} />
                         <h2 className="text-xl font-heading font-bold text-charcoal">Yayımlanmış eser</h2>
                     </div>
-                    <h3 className="font-heading font-bold text-charcoal text-lg mb-2">{PROFILE.book.title}</h3>
+                    <h3 className="font-heading font-bold text-charcoal text-lg mb-2">{YAZAR.eser.ad}</h3>
                     <p className="text-ink-muted text-sm mb-4">
-                        Yazar: {PROFILE.name} · {PROFILE.book.publisher}
+                        Yazar: {YAZAR.ad} · {YAZAR.eser.yayinevi}
                     </p>
-                    <p className="text-charcoal/65 leading-relaxed mb-6">{PROFILE.book.summary}</p>
+                    <p className="text-charcoal/65 leading-relaxed mb-6">{YAZAR.eser.ozet}</p>
                     <div className="flex flex-wrap gap-3">
                         <a
-                            href={PROFILE.book.url}
+                            href={YAZAR.eser.url}
                             target="_blank"
                             rel="noopener noreferrer"
                             className="inline-flex items-center gap-2 bg-charcoal text-cream px-5 py-3 rounded-full text-sm font-bold hover:bg-accent-solid hover:text-white transition-colors"
                         >
-                            Seçkin Yayıncılık <ExternalLink size={14} />
+                            {YAZAR.eser.yayinevi} <ExternalLink size={14} />
                         </a>
                         <Link
                             href="/eserlerim"

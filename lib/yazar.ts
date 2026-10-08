@@ -15,7 +15,13 @@ export const YAZAR = {
   unvan: 'Avukat',
   sayfa: '/avukat-fethi-guzel',
   akademik: PROFILE.academic.headline,
-  eser: { ad: PROFILE.book.title, kisaAd: PROFILE.book.shortTitle, yayinevi: PROFILE.book.publisher, url: PROFILE.book.url },
+  eser: {
+    ad: PROFILE.book.title,
+    kisaAd: PROFILE.book.shortTitle,
+    yayinevi: PROFILE.book.publisher,
+    url: PROFILE.book.url,
+    ozet: PROFILE.book.summary,
+  },
   diller: PROFILE.languages.map((l) => l.code),
 } as const;
 

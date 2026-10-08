@@ -1,23 +1,21 @@
-"use client";
-
 import { jsonLdHtml } from "@/lib/json-ld";
-import React from 'react';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import Kirinti from '@/components/Kirinti';
 import { ShoppingCart, ArrowRight } from 'lucide-react';
-import { yazarRef } from '@/lib/yazar';
+import { YAZAR, yazarRef } from '@/lib/yazar';
+import { siteSayilari, tr, yaklasik } from '@/lib/site-stats';
 
 export default function EserlerimPage() {
   const books = [
     {
-      title: "Medeni Usul Hukukunda Ses ve Görüntünün Nakledilmesi Yoluyla Duruşma İcrası (e-duruşma)",
-      subtitle: "Medeni Usul Hukukunda Teknoloji Entegrasyonu · Av. Fethi Güzel",
-      author: "Av. Fethi Güzel",
-      desc: "Teknolojinin gelişmesiyle birlikte yargılama hukukumuza giren 'e-duruşma' kurumunu tüm boyutlarıyla ele alan monografik eser. Yazar, özel hukuk alanında doktora çalışmaları yürüten bir avukat olarak teori ile uygulamayı birleştirir. Seçkin Yayıncılık.",
+      title: YAZAR.eser.ad,
+      subtitle: `${YAZAR.ad} · ${YAZAR.eser.yayinevi}`,
+      author: YAZAR.ad,
+      desc: YAZAR.eser.ozet,
       links: [
-        { name: "Seçkin Yayıncılık", url: "https://www.seckin.com.tr/kitap/614840900" },
+        { name: YAZAR.eser.yayinevi, url: YAZAR.eser.url },
         { name: "Pelikan Kitabevi", url: "https://www.pelikankitabevi.com.tr" },
         { name: "Filiz Kitabevi", url: "https://www.filizkitabevi.com" },
         { name: "Legal Kitabevi", url: "https://www.legalkitabevi.com" }
@@ -30,8 +28,8 @@ export default function EserlerimPage() {
     '@type': 'Book',
     name: books[0].title,
     author: yazarRef(),
-    publisher: { '@type': 'Organization', name: 'Seçkin Yayıncılık' },
-    url: 'https://www.seckin.com.tr/kitap/614840900',
+    publisher: { '@type': 'Organization', name: YAZAR.eser.yayinevi },
+    url: YAZAR.eser.url,
     inLanguage: 'tr',
   };
 
@@ -52,9 +50,13 @@ export default function EserlerimPage() {
             Eserlerim & <span className="font-drama italic text-accent">Yayınlar</span>
           </h1>
           <p className="text-ink-muted max-w-2xl mx-auto text-lg">
-            Monografi, yayınevi ve satış kanalları. Doktora çalışmaları ve dil bilgisi için{' '}
+            Kitap, şerh ve makaleler. Doktora çalışmaları ve dil bilgisi için{' '}
             <Link href="/akademik-profil" className="text-accent-ink font-semibold hover:underline">
               akademik profil
+            </Link>
+            , yazar ve büro bilgisi için{' '}
+            <Link href="/avukat-fethi-guzel" className="text-accent-ink font-semibold hover:underline">
+              yazar sayfası
             </Link>
             .
           </p>
@@ -73,13 +75,13 @@ export default function EserlerimPage() {
                   <div className="absolute inset-0 p-12 flex flex-col justify-between text-center">
                     <div className="space-y-4">
                       <div className="w-12 h-1 bg-accent-solid mx-auto"></div>
-                      <h4 className="text-accent font-heading text-4xl font-bold">e-duruşma</h4>
+                      <h4 className="text-accent font-heading text-4xl font-bold">{YAZAR.eser.kisaAd}</h4>
                     </div>
                     <p className="text-cream/55 text-[10px] font-mono leading-relaxed uppercase tracking-widest">
-                      Medeni Usul Hukukunda Ses ve Görüntünün Nakledilmesi
+                      {YAZAR.eser.ad.replace(/ Yoluyla.*$/, '')}
                     </p>
                     <div className="text-cream/80 font-heading text-sm border-t border-cream/10 pt-4">
-                      AV. FETHİ GÜZEL
+                      {YAZAR.ad.toLocaleUpperCase('tr-TR')}
                     </div>
                   </div>
                 </div>
@@ -118,6 +120,30 @@ export default function EserlerimPage() {
             </div>
           </section>
         ))}
+
+        {/*
+          Sitedeki yayınlar (G16): Sayfa yalnız kitabı gösteriyordu; yazarın sitedeki asıl külliyatı olan şerhler ve
+          makaleler buradan bağlanmıyordu. Bölüm yalnız var olan içeriğe bağlanır, yeni künye yazılmaz.
+        */}
+        <section aria-labelledby="site-yayinlari" className="border-t border-charcoal/10 pt-14 sm:pt-16">
+          <h2 id="site-yayinlari" className="text-2xl sm:text-3xl font-heading font-bold text-charcoal mb-6">
+            Sitedeki yayınlar
+          </h2>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <Link href="/mevzuat" className="block surface-card-hover p-6">
+              <span className="block font-heading font-bold text-charcoal text-lg">Kanun şerhleri</span>
+              <span className="block text-ink-muted text-sm mt-2 leading-relaxed">
+                {yaklasik(siteSayilari().serh, 100)} maddede akademik şerh, {tr(siteSayilari().kanun)} kanunun resmî metniyle.
+              </span>
+            </Link>
+            <Link href="/makaleler" className="block surface-card-hover p-6">
+              <span className="block font-heading font-bold text-charcoal text-lg">Makaleler</span>
+              <span className="block text-ink-muted text-sm mt-2 leading-relaxed">
+                Akademik makaleler, tebliğler ve hukuki değerlendirmeler.
+              </span>
+            </Link>
+          </div>
+        </section>
       </main>
 
       <Footer />
