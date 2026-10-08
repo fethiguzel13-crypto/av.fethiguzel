@@ -6,6 +6,8 @@ import { resolveHubCourseHref } from '@/lib/ders-notlari';
 import { McqBlock } from '@/components/ders-notlari/McqBlock';
 import { FlashcardBlock } from '@/components/ders-notlari/FlashcardBlock';
 import { MermaidBlock } from '@/components/ders-notlari/MermaidBlock';
+import AkisSemasi from '@/components/ders-notlari/AkisSemasi';
+import { dersSemalari } from '@/lib/ders-notlari/semalar.mjs';
 import YazarKutusu from '@/components/YazarKutusu';
 import Kirinti from '@/components/Kirinti';
 import { yazarRef } from '@/lib/yazar';
@@ -279,6 +281,8 @@ export function DersNotuView({
   const pageUrl = `${SITE}/ders-notlari/${note.uniSlug}/${note.courseCode}`;
   const pdfHref = `/ders-notlari/${note.uniSlug}/${note.courseCode}/pdf`;
   const toc = note.sections.map((s) => s.heading);
+  // G18: kanun metnine bağlı şemalar, ders koduna göre (sürüm eki atılır); ilk öğretim bölümünden sonra çizilir.
+  const semalar = dersSemalari(note.courseCode);
   const relatedCourses = note.relatedCourses.flatMap((code) => {
     const r = resolveHubCourseHref(note.uniSlug, code);
     return r ? [{ code, href: r.href }] : [];
@@ -1154,7 +1158,7 @@ export function DersNotuView({
         const teach = indexed.filter(({ sec }) => !metaRe.test(sec.heading));
         const meta = indexed.filter(({ sec }) => metaRe.test(sec.heading));
         return [...teach, ...meta];
-      })().map(({ sec, si }) => (
+      })().map(({ sec, si }, sira) => (
         <div key={sec.heading}>
           <section className="mb-10 scroll-mt-28">
             <h2 className="text-xl sm:text-2xl font-heading font-bold text-charcoal mb-4 pb-2 border-b border-charcoal/10">
@@ -1223,6 +1227,7 @@ export function DersNotuView({
           {(graphicsAfter.get(si) || []).map((d) => (
             <Diagram key={d.title} d={d} />
           ))}
+          {sira === 0 && semalar.map((s) => <AkisSemasi key={s.id} sema={s} />)}
         </div>
       ))}
 
