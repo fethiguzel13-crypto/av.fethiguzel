@@ -77,12 +77,6 @@ export const PROFILE = {
         summary:
             'Medeni usul hukukunda e-duruşma kurumunu teorik ve pratik boyutlarıyla ele alan monografik eser. Seçkin Yayıncılık ve hukuk kitabevlerinde.',
     },
-    stats: {
-        kanun: '45+',
-        madde: '7.800+',
-        arac: '30',
-        tecrube: '15+',
-    },
     /** Bilgilendirme odaklı hizmet alanları — reklam vaadi yok */
     practiceAreas: [
         'Ceza hukuku',
@@ -148,6 +142,6 @@ export const CREDENTIAL_BULLETS = [
     `${PROFILE.academic.headline} — medeni, borçlar, ticaret ve usul hukuku ekseninde akademik araştırma.`,
     `Yayımlanmış eser: “${PROFILE.book.shortTitle}” monografisi (${PROFILE.book.publisher}).`,
     'İyi düzeyde İngilizce; yabancılar, uluslararası belgeler ve İngilizce yazışma gerektiren dosyalarda iletişim imkânı.',
-    `${PROFILE.stats.madde} kanun maddesi ve akademik şerh içeren açık erişimli hukuk portalı kurucusu.`,
+    'Kanun metni, akademik şerh ve Yargıtay kararlarını bir arada sunan açık erişimli hukuk portalının kurucusu.',
     `Merkez ofis: Erciş / Van; Doğu Anadolu ve ihtiyaç halinde diğer illerde dosya takibi.`,
 ] as const;

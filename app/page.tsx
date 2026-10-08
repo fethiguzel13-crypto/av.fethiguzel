@@ -105,7 +105,7 @@ export default function Home() {
       <LibraryStrip sayilar={sayilar} />
       <YargiPreview />
       <DailyNews />
-      <About />
+      <About serh={yaklasik(n.serh, 100)} />
       <ToolsPreview />
       <Articles />
       <section className="py-12 sm:py-16 px-5 sm:px-6 border-t border-charcoal/5">
@@ -113,11 +113,11 @@ export default function Home() {
           <div>
             <p className="section-label mb-2">Bilgilendirme</p>
             <h2 className="text-2xl sm:text-3xl font-heading font-bold text-charcoal">
-              554 vatandaş rehberi + süreç kılavuzları
+              {sayilar.rehber} vatandaş rehberi ve süreç kılavuzları
             </h2>
             <p className="text-ink-muted text-sm mt-2 max-w-lg">
-              Kıdem, nafaka, icra, kira, boşanma ve 50+ ana rehber — reklam yasağına uygun genel
-              bilgilendirme. Arama motorları için tam dizin: /bilgi
+              Kıdem, nafaka, icra, kira ve boşanma başta olmak üzere genel bilgilendirme. Somut uyuşmazlıkta
+              değerlendirme dosyanın belgelerine göre yapılır.
             </p>
           </div>
           <div className="flex flex-wrap gap-2">

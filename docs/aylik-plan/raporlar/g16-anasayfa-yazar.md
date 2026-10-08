@@ -22,11 +22,12 @@ Detektör (`detect.mjs`, 14 dosya): 0 bulgu. G15'in kontrast, hedef ve taşma ö
 
 Ana sayfanın ilk ekranında 47 / 8.000+ / 39.700+ / 550+ sayıları yer alır. Aynı sayılar TrustBar'da, LibraryStrip'te, Yargıtay
 önizlemesinin düğmesinde (39.718), Hakkımda bölümünde (7.800+) ve rehber çağrısında (554, 50+) yinelenir. Elle yazılmış değerler
-üretimden okunan değerlerle uyuşmaz: Madde sayısı 8.000+ ile 7.800+, rehber sayısı 550+ ile 554 ve 579 arasında değişir. Alt bilgi
+üretimden okunan değerlerle uyuşmaz: Madde sayısı 8.000+ ile 7.800+, rehber sayısı 550+ ile 554 arasında değişir (üretim sayacı 556). Alt bilgi
 "45+ kanun · 7.800+ madde şerhi", SSS yanıtı "45+ mevzuat kaynağı; 7.800'ü aşkın madde metni ve akademik şerh" der.
 
-"7.800+ madde şerhi" ifadesi ayrıca içerik bakımından yanlıştır. Kalite kapısından geçen, yayımlanabilir şerh sayısı 5.143'tür
-(`siteSayilari().serh`). Geri kalan şerhler şablon olduğu için gizlenmekte ve dizine kapatılmaktadır (PRODUCT.md, ilke 2).
+Kalite kapısından geçen, yayımlanabilir şerh sayısı (`siteSayilari().serh`, `publishable.json` `counts.mevzuat`) 8.088'dir.
+"7.800+" bu yüzden aşırı bir iddia değil, eski ve düşük kalmış bir değerdir. `lib/site-stats.ts`'teki yedek değer (`serh: 5143`)
+de eskidir. Yedek yalnız veri dosyası okunamazsa kullanıldığından sayfaya yansımaz.
 
 **Karar:** Sayılar yalnız `siteSayilari()`'ndan gelir ve sayfada tek bir şeritte gösterilir. İstemci bileşenleri (About, Footer,
 LibraryStrip) sayıyı ya prop olarak alır ya da sayısız yazılır. Cırcır testi rakamla yazılmış külliyat sayısını engeller.

@@ -65,7 +65,7 @@ export default function TrustBar({ sayilar }: { sayilar: Sayilar }) {
                                 </span>
                             </h2>
                             <p className="text-ink-muted text-xs sm:text-sm mt-2 max-w-xl">
-                                Nesnel unvan ve yayın · reklam yasağına uygun · sonuç vaadi yok
+                                Özel hukuk doktora çalışmaları · Seçkin Yayıncılık&apos;tan e-duruşma monografisi · kalite denetiminden geçen şerhler
                             </p>
                         </div>
                         <Link

@@ -9,6 +9,7 @@ import CredentialsStrip from '@/components/CredentialsStrip'
 import { Scale, MapPin, BookOpen, Gavel, Mail, GraduationCap, Globe2, ExternalLink } from 'lucide-react'
 import { PROFILE, BOLGELER, SITE_URL, CREDENTIAL_BULLETS, SOCIAL_SAME_AS } from '@/lib/profile'
 import { yazarRef } from '@/lib/yazar';
+import { siteSayilari, tr, yaklasik } from '@/lib/site-stats';
 
 const photoPath = PROFILE.photo
 const photoAbs = `${SITE_URL}${photoPath}`
@@ -188,7 +189,7 @@ export default function AvukatFethiGuzelPage() {
                             <li className="flex gap-3">
                                 <Scale className="text-accent shrink-0 mt-0.5" size={18} />
                                 <span>
-                                    {PROFILE.stats.madde} kanun maddesi ve akademik şerh; açık erişimli hukuk portalı
+                                    {tr(siteSayilari().kanun)} kanunun resmî metni, {yaklasik(siteSayilari().serh, 100)} maddede akademik şerh; açık erişimli hukuk portalı
                                 </span>
                             </li>
                             <li className="flex gap-3">

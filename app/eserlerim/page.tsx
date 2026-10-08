@@ -52,7 +52,7 @@ export default function EserlerimPage() {
             Eserlerim & <span className="font-drama italic text-accent">Yayınlar</span>
           </h1>
           <p className="text-ink-muted max-w-2xl mx-auto text-lg">
-            Nesnel yayın bilgisi — reklam yasağına uygun. Kitap ve akademik profil:{' '}
+            Monografi, yayınevi ve satış kanalları. Doktora çalışmaları ve dil bilgisi için{' '}
             <Link href="/akademik-profil" className="text-accent-ink font-semibold hover:underline">
               akademik profil
             </Link>

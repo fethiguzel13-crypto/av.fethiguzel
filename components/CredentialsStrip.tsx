@@ -29,7 +29,7 @@ export default function CredentialsStrip({ compact = false }: { compact?: boolea
         {
             icon: Scale,
             title: 'Açık erişim kütüphane',
-            text: `${PROFILE.stats.madde} madde · akademik şerh`,
+            text: 'Kanun metni · akademik şerh · Yargıtay arşivi',
             href: '/mevzuat',
         },
     ];
@@ -42,7 +42,7 @@ export default function CredentialsStrip({ compact = false }: { compact?: boolea
             <div className={compact ? '' : 'max-w-7xl mx-auto'}>
                 {!compact && (
                     <p className="section-label mb-6 text-center sm:text-left">
-                        Nesnel mesleki bilgiler · Reklam yasağına uygun bilgilendirme
+                        Akademik ve mesleki bilgiler
                     </p>
                 )}
                 <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4">

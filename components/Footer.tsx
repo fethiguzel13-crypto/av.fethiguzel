@@ -220,8 +220,8 @@ export default function Footer() {
           </div>
           <div>
             <p className="text-cream/55 text-[10px] uppercase tracking-widest font-bold mb-3">Profil</p>
-            <p className="text-cream/50 text-xs leading-relaxed">
-              Özel hukuk doktora çalışmaları · e-duruşma monografisi · iyi düzeyde İngilizce · 45+ kanun · 7.800+ madde şerhi
+            <p className="text-cream/55 text-xs leading-relaxed">
+              Özel hukuk doktora çalışmaları · e-duruşma monografisi · iyi düzeyde İngilizce · kanun metni, şerh ve Yargıtay arşivi
             </p>
           </div>
         </div>

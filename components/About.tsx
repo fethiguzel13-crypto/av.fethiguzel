@@ -5,7 +5,8 @@ import Link from "@/components/SiteLink";
 import { ArrowRight } from 'lucide-react';
 import { gsapGorununce } from '@/lib/gsap-yukle';
 
-export default function About() {
+/** `serh`: yayımlanabilir şerh sayısı, sunucuda `siteSayilari()`'ndan yuvarlanmış olarak gelir (istemci bileşeni dosya okuyamaz). */
+export default function About({ serh }: { serh: string }) {
   const containerRef = useRef(null);
   const imageRef = useRef(null);
 
@@ -76,7 +77,7 @@ export default function About() {
             Avukatlık; mevzuata hâkimiyet, güncel içtihat takibi ve somut olayın çok yönlü incelenmesini gerektirir. Av. Fethi Güzel, özel hukuk alanında doktora çalışmaları yürüten bir avukat ve arabulucu olarak Van, Erciş ve çevre bölgelerde dava vekilliği ile önleyici danışmanlık sunar.
           </p>
           <p className="philo-text text-cream/65 text-base sm:text-lg md:text-xl font-sans leading-relaxed">
-            Yayımlanmış e-duruşma monografisi (Seçkin Yayıncılık), iyi düzeyde İngilizce ve 7.800+ maddeyi kapsayan açık erişimli şerh arşivi; bilgilendirme odaklı dijital varlığın omurgasıdır. Reklam yasağına uygun, nesnel unvan ve yayın bilgisi esastır.
+            Yayımlanmış e-duruşma monografisi (Seçkin Yayıncılık), iyi düzeyde İngilizce ve {serh} maddede akademik şerh içeren açık erişimli arşiv, bilgilendirme odaklı dijital varlığın omurgasıdır.
           </p>
 
           <div className="philo-text pt-6 sm:pt-8 border-t border-cream/10 flex flex-wrap items-center gap-6 sm:gap-8">
@@ -96,8 +97,8 @@ export default function About() {
             </div>
             <div className="w-px h-12 bg-cream/10 hidden sm:block" />
             <div>
-              <span className="block text-accent font-bold text-2xl font-heading">7.800+</span>
-              <span className="text-cream/55 text-[10px] uppercase tracking-widest font-bold">Madde + şerh</span>
+              <span className="block text-accent font-bold text-2xl font-heading">{serh}</span>
+              <span className="text-cream/55 text-[10px] uppercase tracking-widest font-bold">Şerhli madde</span>
             </div>
           </div>
 

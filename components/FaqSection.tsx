@@ -1,5 +1,9 @@
 import { jsonLdHtml } from "@/lib/json-ld";
 import Link from "@/components/SiteLink";
+import { siteSayilari, tr, yaklasik } from '@/lib/site-stats';
+
+// Külliyat sayıları üretim çıktısından okunur (G16); SSS yanıtı ve FAQPage şeması aynı değeri taşır.
+const N = siteSayilari();
 
 /**
  * FAQ is a top conversion + SEO lever on award-winning law firm sites (Clio, Lawyerist).
@@ -12,7 +16,7 @@ export const HOME_FAQS = [
     },
     {
         q: 'Hangi kanunlar ve ne kadar içerik var?',
-        a: 'TBK, TMK, TTK, TCK, HMK, İİK, VUK, İş Kanunu ve 40’tan fazla ek kanun dâhil 45+ mevzuat kaynağı; 7.800’ü aşkın madde metni ve akademik şerh aynı platformdadır. Kütüphane sürekli genişlemektedir.',
+        a: `TBK, TMK, TTK, TCK, HMK, İİK, VUK ve İş Kanunu dâhil ${tr(N.kanun)} kanunun ${yaklasik(N.madde, 100)} maddesinin resmî metni ve ${yaklasik(N.serh, 100)} maddede akademik şerh aynı platformdadır. Kütüphane sürekli genişlemektedir.`,
     },
     {
         q: 'Hesaplama araçları bağlayıcı mıdır?',

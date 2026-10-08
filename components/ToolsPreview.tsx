@@ -93,7 +93,7 @@ export default function ToolsPreview() {
               Hesaplama araçları
             </h2>
             <p className="mt-2 text-ink-muted text-sm max-w-xl leading-relaxed">
-              Kıdem, faiz, miras, nafaka ve süre — kütüphanenin yanında, 33 araç.
+              Kıdem, faiz, miras, nafaka ve süre hesapları, ilgili kanun maddesine bağlantıyla kütüphanenin yanında.
             </p>
           </div>
           <Link
