@@ -251,9 +251,12 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     hasat indeksi sitede yayımlanan sayıyla çelişmektedir (adım 1 kararı, `kullaniciya-sorular.md`). Kıdem ve faiz aracına
     yığılmış çubuk dökümü eklenmiş, faizin dönem çizelgesi korunmuştur.
 
-- [ ] **G18 — Ders notlarına şemalar** · bağımlı: G15
+- [x] **G18 — Ders notlarına şemalar** · bağımlı: G15
   - Veriyle beslenen SVG bileşeni `<AkisSemasi>`: dava süreci, icra takibi, ceza muhakemesi evreleri,
     borç ilişkisi, yasal miras payları. Erişilebilir alt metin; en az 10 derste kullanım.
+  - Tamamlandı (2026-10-08): Alt plan `gorevler/G18.md`, rapor `raporlar/g18-semalar.md`. Commit'ler `1b49be875`, `239edcea9`,
+    `5b4fb471c`, `3b46f13e0`, `26f71edc5` ve kapanış. Sekiz şemanın 40 adımı testle kanun metnine bağlıdır; şemalar on derste
+    2.673 nota gider. Tasarım denetimi 0, etkin şema yazısı 360 px'te 12,2 px'tir.
 
 - [ ] **G19 — Ders notları kalite dalgası 1** · bağımlı: G11, G18 · beceri: hukuki-halusinasyon-onleme
   - En çok aranan 10 ders (borçlar genel, medeni usul, ceza genel, anayasa, idare, iş, ticari işletme/

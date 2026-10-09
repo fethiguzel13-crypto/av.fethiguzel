@@ -537,3 +537,22 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   alınmıştır.
 - G18 DEVAM EDİYOR (başladı 17:49). Alt plan `gorevler/G18.md` yazıldı: kanun metnine testle bağlanan şema verisi, sunucu SVG
   bileşeni `AkisSemasi`, ders taban koduna göre bağlama.
+
+## 2026-10-08 22:00 — G18 DEVAM EDİYOR (başsız oturum, başladı 22:00)
+
+- Devralma: 17:00 oturumu adım 3'ün testini yazdıktan sonra kesilmiştir (test commit'siz kalmıştır). 20:00 ve 21:00 oturumları
+  açılışta `rate_limit` ile iş yapmadan kapanmıştır. Port 3123 boştur.
+- G18 adım 3 (`5b4fb471c`): `DersNotuView` şemaları ders koduna göre ilk öğretim bölümünden sonra çizmektedir. Test önce kırmızı,
+  12/12. `kalite:hizli` yeşildir (830 test).
+- G18 adım 4: Denetim listesine akış şemalı `ankara/medeni-usul-donem-1` ve dal şemalı `ankara/esya-hukuku-yillik` eklenmiştir
+  (`3b46f13e0`, test önce kırmızı). İlk ölçüm 360 px'te şema yazısını 11,3 px bulmuştur, zira figürde çizime 278 px kalmaktadır.
+  Yazı 14 birime çıkarılmış, en büyük çizim 366 px'e indirilmiştir (`26f71edc5`); etkin yazı 360 px'te 12,2 px, 1280 px'te 16 px'tir.
+  Üç ders notu iki genişlikte denetimde 0 vermiş, sekiz şemada metin `viewBox` içinde kalmıştır (en çok 232/320).
+  Tam `npm run kalite` iki kez yeşildir (831 test, derleme 1001 ve 800 sn, boş bellek 280-420 MB). Rapor `raporlar/g18-semalar.md`.
+- Hata ve geri alma: "önce" görüntülerini yeniden adlandırırken adım 2'nin izlenen `g18-akis|dal|miras-*.jpg` dosyaları da
+  `-once` ekini almıştı; git'ten geri yüklenmiştir. Ölçüm betiği ilk koşuda yazı boyunu sabit 13 almıştı, düzeltilip yeniden
+  koşulmuştur. Geçici betikler `tmp/` altındadır (git dışı).
+- **G18 tamamlanmıştır** (PLAN.md'de `[x]`). G18 için kullanıcıya soru yoktur.
+- TestSprite: değişiklik yayında değil (30 Ekim), koşulmamıştır. Sunucu kapatılmış, port 3123 boştur, zaman damgalı dosyalar geri
+  alınmıştır.
+- Sıradaki: G19 (ders notları kalite dalgası 1, beceri hukuki-halusinasyon-onleme). Bağımlılıkları G11 ve G18 `[x]`'tir.

@@ -1,0 +1,78 @@
+{
+ "etiket": "g18-once",
+ "taban": "http://localhost:3123",
+ "tarih": "2026-10-08T19:34:13.935Z",
+ "ozet": {
+  "kurallar": [],
+  "kucukHedef": 0,
+  "tasan": []
+ },
+ "sonuclar": [
+  {
+   "sayfa": "ders-notu",
+   "adres": "/ders-notlari/ankara/aile-hukuku-yillik",
+   "durum": 200,
+   "genislik": 1280,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 11422
+  },
+  {
+   "sayfa": "ders-notu-usul",
+   "adres": "/ders-notlari/ankara/medeni-usul-donem-1",
+   "durum": 200,
+   "genislik": 1280,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 7792
+  },
+  {
+   "sayfa": "ders-notu-esya",
+   "adres": "/ders-notlari/ankara/esya-hukuku-yillik",
+   "durum": 200,
+   "genislik": 1280,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 8391
+  },
+  {
+   "sayfa": "ders-notu",
+   "adres": "/ders-notlari/ankara/aile-hukuku-yillik",
+   "durum": 200,
+   "genislik": 390,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 7373
+  },
+  {
+   "sayfa": "ders-notu-usul",
+   "adres": "/ders-notlari/ankara/medeni-usul-donem-1",
+   "durum": 200,
+   "genislik": 390,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 6978
+  },
+  {
+   "sayfa": "ders-notu-esya",
+   "adres": "/ders-notlari/ankara/esya-hukuku-yillik",
+   "durum": 200,
+   "genislik": 390,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 8995
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "sayfa": "usul",
+    "genislik": 360,
+    "baslik": "Yazılı yargılama usulünde davanın evreleri",
+    "svgEn": 278,
+    "yaziBirim": 14,
+    "etkinYazi": 12.2,
+    "olculenYazi": 12.1625,
+    "oncekiBaslik": "Görev",
+    "ilkBaslik": "60Saniyede omurga",
+    "liste": 6,
+    "tasma": false
+  },
+  {
+    "sayfa": "usul",
+    "genislik": 390,
+    "baslik": "Yazılı yargılama usulünde davanın evreleri",
+    "svgEn": 308,
+    "yaziBirim": 14,
+    "etkinYazi": 13.5,
+    "olculenYazi": 13.475,
+    "oncekiBaslik": "Görev",
+    "ilkBaslik": "60Saniyede omurga",
+    "liste": 6,
+    "tasma": false
+  },
+  {
+    "sayfa": "usul",
+    "genislik": 1280,
+    "baslik": "Yazılı yargılama usulünde davanın evreleri",
+    "svgEn": 366,
+    "yaziBirim": 14,
+    "etkinYazi": 16,
+    "olculenYazi": 16.0125,
+    "oncekiBaslik": "Görev",
+    "ilkBaslik": "60Saniyede omurga",
+    "liste": 6,
+    "tasma": false
+  },
+  {
+    "sayfa": "esya",
+    "genislik": 360,
+    "baslik": "Taşınmaz mülkiyetinin kazanılması ve tescil",
+    "svgEn": 278,
+    "yaziBirim": 14,
+    "etkinYazi": 12.2,
+    "olculenYazi": 12.1625,
+    "oncekiBaslik": "Zilyetlik",
+    "ilkBaslik": "60Saniyede omurga",
+    "liste": 4,
+    "tasma": false
+  },
+  {
+    "sayfa": "esya",
+    "genislik": 390,
+    "baslik": "Taşınmaz mülkiyetinin kazanılması ve tescil",
+    "svgEn": 308,
+    "yaziBirim": 14,
+    "etkinYazi": 13.5,
+    "olculenYazi": 13.475,
+    "oncekiBaslik": "Zilyetlik",
+    "ilkBaslik": "60Saniyede omurga",
+    "liste": 4,
+    "tasma": false
+  },
+  {
+    "sayfa": "esya",
+    "genislik": 1280,
+    "baslik": "Taşınmaz mülkiyetinin kazanılması ve tescil",
+    "svgEn": 366,
+    "yaziBirim": 14,
+    "etkinYazi": 16,
+    "olculenYazi": 16.0125,
+    "oncekiBaslik": "Zilyetlik",
+    "ilkBaslik": "60Saniyede omurga",
+    "liste": 4,
+    "tasma": false
+  }
+]
