@@ -1277,18 +1277,17 @@ export function DersNotuView({
                   <span>{ex.takeaway}</span>
                 </p>
                 {ex.dayanaklar && ex.dayanaklar.length > 0 && (
-                  <p className="text-xs text-ink-muted m-0">
-                    Dayanak:{' '}
-                    {ex.dayanaklar.map((d, di) => (
-                      <span key={`${d.kanun}-${d.madde}-${di}`}>
-                        {di > 0 && ', '}
-                        <Link
-                          href={`/mevzuat/${d.kanun}/madde-${d.madde}`}
-                          className="text-accent-ink underline underline-offset-2"
-                        >
-                          {maddeAdi(d)}
-                        </Link>
-                      </span>
+                  <p className="text-xs text-ink-muted m-0 flex flex-wrap items-center gap-1.5">
+                    <span>Dayanak:</span>
+                    {/* Aynı madde birden çok ifadeyle bağlanabilir; bağlantı madde başına bir kez, 24 px dokunma hedefiyle. */}
+                    {[...new Map(ex.dayanaklar.map((d) => [`${d.kanun}/${d.madde}`, d])).values()].map((d) => (
+                      <Link
+                        key={`${d.kanun}-${d.madde}`}
+                        href={`/mevzuat/${d.kanun}/madde-${d.madde}`}
+                        className="inline-flex min-h-6 items-center rounded-md border border-charcoal/10 px-2 text-accent-ink underline underline-offset-2"
+                      >
+                        {maddeAdi(d)}
+                      </Link>
                     ))}
                   </p>
                 )}
