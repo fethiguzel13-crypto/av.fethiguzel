@@ -556,3 +556,8 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - TestSprite: değişiklik yayında değil (30 Ekim), koşulmamıştır. Sunucu kapatılmış, port 3123 boştur, zaman damgalı dosyalar geri
   alınmıştır.
 - Sıradaki: G19 (ders notları kalite dalgası 1, beceri hukuki-halusinasyon-onleme). Bağımlılıkları G11 ve G18 `[x]`'tir.
+
+## 2026-10-09 07:00 — G19 DEVAM EDİYOR (başsız oturum, başladı 07:00)
+
+- G19 DEVAM EDİYOR (başladı 07:10). Alt plan `gorevler/G19.md` yazıldı: elle yazılan, kanun metnine testle bağlanan kanonik katman
+  yalnız 10 temsilci nota uygulanır.
