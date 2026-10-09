@@ -1354,10 +1354,10 @@ export function DersNotuView({
         <section className="mb-12">
           <h2 className="text-xl sm:text-2xl font-heading font-bold text-charcoal mb-2">Kısa test</h2>
           <p className="text-sm text-ink-muted mb-1">
-            Cevaplar kontrol edildiğinde her sorunun gerekçesi ve dayandığı madde görünür.
+            Cevaplar kontrol edildiğinde her sorunun dayandığı maddeyi anan gerekçe görünür.
           </p>
           <McqBlock
-            items={note.kisaTest.map((q) => ({ ...q, reason: `${q.reason} (${maddeAdi(q.dayanak)})` }))}
+            items={note.kisaTest}
             storageKey={`${note.slug}:kisa-test`}
             etiket="Kanun metnine dayalı sorular"
           />
