@@ -3,6 +3,7 @@ import path from 'node:path';
 import type { CourseNote, UniHubContent, LawUniversity } from './types';
 import { LAW_UNIVERSITIES, getActiveUniversities, getUniversityBySlug } from './universiteler';
 import { CURRICULUM, getCoreCourses, getCourseByCode } from './mufredat';
+import { kanonikKatmanUygula } from './kanonik-katman.mjs';
 
 export type {
   CourseNote,
@@ -157,7 +158,8 @@ export function getHub(uniSlug: string): UniHubContent | undefined {
 export function getNote(uniSlug: string, courseCode: string): CourseNote | undefined {
   const resolved = resolveNoteCourseCode(uniSlug, courseCode);
   if (!resolved) return undefined;
-  return readNoteFile(uniSlug, resolved);
+  // Dersin temsilci notuna elle yazılmış kanonik katman (G19); diğer notlar olduğu gibi döner.
+  return kanonikKatmanUygula(readNoteFile(uniSlug, resolved)) as CourseNote | undefined;
 }
 
 /** Hub listesinde tıklanabilir ders: mevcut nota çözülen href. */

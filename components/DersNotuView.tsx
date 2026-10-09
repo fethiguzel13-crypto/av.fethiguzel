@@ -6,7 +6,7 @@ import { resolveHubCourseHref } from '@/lib/ders-notlari';
 import { McqBlock } from '@/components/ders-notlari/McqBlock';
 import { FlashcardBlock } from '@/components/ders-notlari/FlashcardBlock';
 import { MermaidBlock } from '@/components/ders-notlari/MermaidBlock';
-import AkisSemasi from '@/components/ders-notlari/AkisSemasi';
+import AkisSemasi, { maddeAdi } from '@/components/ders-notlari/AkisSemasi';
 import { dersSemalari } from '@/lib/ders-notlari/semalar.mjs';
 import YazarKutusu from '@/components/YazarKutusu';
 import Kirinti from '@/components/Kirinti';
@@ -1276,11 +1276,93 @@ export function DersNotuView({
                   <span aria-hidden>→</span>
                   <span>{ex.takeaway}</span>
                 </p>
+                {ex.dayanaklar && ex.dayanaklar.length > 0 && (
+                  <p className="text-xs text-ink-muted m-0">
+                    Dayanak:{' '}
+                    {ex.dayanaklar.map((d, di) => (
+                      <span key={`${d.kanun}-${d.madde}-${di}`}>
+                        {di > 0 && ', '}
+                        <Link
+                          href={`/mevzuat/${d.kanun}/madde-${d.madde}`}
+                          className="text-accent-ink underline underline-offset-2"
+                        >
+                          {maddeAdi(d)}
+                        </Link>
+                      </span>
+                    ))}
+                  </p>
+                )}
               </div>
             </article>
           ))}
         </div>
       </section>
+
+      {/* Kanonik katman (G19): yalnız dersin temsilci notunda */}
+      {note.sinavIskeleti && note.sinavIskeleti.length > 0 && (
+        <section className="mb-12">
+          <h2 className="text-xl sm:text-2xl font-heading font-bold text-charcoal mb-2">Sınav iskeleti</h2>
+          <p className="text-sm text-ink-muted mb-5">
+            Olay sorusunda cevap bu sırayla kurulur; bir adım atlanırsa sonraki adımın gerekçesi eksik kalır.
+          </p>
+          <ol className="m-0 p-0 list-none space-y-3">
+            {note.sinavIskeleti.map((s, i) => (
+              <li
+                key={s.adim}
+                className="flex gap-3 rounded-xl border border-charcoal/[0.08] bg-white px-4 py-3"
+              >
+                <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-accent-solid text-xs font-bold text-white">
+                  {i + 1}
+                </span>
+                <span className="text-sm text-charcoal/75 leading-relaxed">
+                  <strong className="font-semibold text-charcoal">{s.adim}</strong>: {s.aciklama}
+                </span>
+              </li>
+            ))}
+          </ol>
+        </section>
+      )}
+
+      {note.tuzakDefteri && note.tuzakDefteri.length > 0 && (
+        <section className="mb-12">
+          <h2 className="text-xl sm:text-2xl font-heading font-bold text-charcoal mb-2">Tuzak defteri</h2>
+          <p className="text-sm text-ink-muted mb-5">
+            Sınav kâğıtlarında sık görülen yanlış önermeler, kanun metnindeki doğrusu ve dayandığı madde.
+          </p>
+          <ul className="m-0 p-0 list-none space-y-3">
+            {note.tuzakDefteri.map((t) => (
+              <li key={t.tuzak} className="rounded-xl border border-red-300/50 bg-red-50/70 px-4 py-3.5">
+                <p className="text-sm text-red-950/80 leading-relaxed m-0 mb-1.5">
+                  <span className="font-semibold">Yanlış:</span> {t.tuzak}
+                </p>
+                <p className="text-sm text-charcoal/80 leading-relaxed m-0">
+                  <span className="font-semibold">Doğrusu:</span> {t.dogrusu}{' '}
+                  <Link
+                    href={`/mevzuat/${t.dayanak.kanun}/madde-${t.dayanak.madde}`}
+                    className="text-accent-ink underline underline-offset-2"
+                  >
+                    {maddeAdi(t.dayanak)}
+                  </Link>
+                </p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      {note.kisaTest && note.kisaTest.length > 0 && (
+        <section className="mb-12">
+          <h2 className="text-xl sm:text-2xl font-heading font-bold text-charcoal mb-2">Kısa test</h2>
+          <p className="text-sm text-ink-muted mb-1">
+            Cevaplar kontrol edildiğinde her sorunun gerekçesi ve dayandığı madde görünür.
+          </p>
+          <McqBlock
+            items={note.kisaTest.map((q) => ({ ...q, reason: `${q.reason} (${maddeAdi(q.dayanak)})` }))}
+            storageKey={`${note.slug}:kisa-test`}
+            etiket="Kanun metnine dayalı sorular"
+          />
+        </section>
+      )}
 
       {/* Checklist */}
       <section className="mb-10">

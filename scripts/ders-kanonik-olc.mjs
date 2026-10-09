@@ -33,7 +33,7 @@ let uygula = (n) => n;
 const katmanYolu = join(KOK, 'lib/ders-notlari/kanonik-katman.mjs');
 if (existsSync(katmanYolu)) {
   const m = await import(new URL('../lib/ders-notlari/kanonik-katman.mjs', import.meta.url));
-  uygula = m.kanonikKatmanUygula;
+  uygula = (n) => m.kanonikKatmanUygula(n);
 }
 
 const ayrinti = process.argv.includes('--ayrinti');

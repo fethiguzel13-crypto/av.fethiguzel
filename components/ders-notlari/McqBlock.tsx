@@ -6,9 +6,12 @@ import type { NoteMcq } from '@/lib/ders-notlari/types';
 export function McqBlock({
     items,
     storageKey,
+    etiket = 'Konu sonu test',
 }: {
     items: NoteMcq[];
     storageKey: string;
+    /** Bloğun üst etiketi */
+    etiket?: string;
 }) {
     const [picked, setPicked] = useState<Record<number, number>>({});
     const [done, setDone] = useState(false);
@@ -22,7 +25,7 @@ export function McqBlock({
     return (
         <div className="my-6 rounded-2xl border border-charcoal/10 bg-white p-4 sm:p-5 shadow-sm print:break-inside-avoid">
             <p className="text-[10px] font-mono uppercase tracking-[0.14em] text-accent-ink font-bold mb-3">
-                Konu sonu test
+                {etiket}
             </p>
             <ol className="m-0 p-0 list-none space-y-4">
                 {items.map((it, i) => (

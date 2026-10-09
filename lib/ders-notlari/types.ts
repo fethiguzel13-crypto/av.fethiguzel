@@ -50,11 +50,35 @@ export type NoteSection = {
   kartlar?: NoteKart[];
 };
 
+/** Kanun metninde aynen geçen ifadeyle maddeye bağlanan dayanak (G18 şemaları, G19 kanonik katman). */
+export type NoteDayanak = {
+  kanun: string;
+  madde: string;
+  ifade: string;
+};
+
 export type NoteExample = {
   title: string;
   facts: string;
   analysis: string;
   takeaway: string;
+  /** Kanonik katmanda (G19) çözümün dayandığı maddeler */
+  dayanaklar?: NoteDayanak[];
+};
+
+export type NoteIskeletAdimi = {
+  adim: string;
+  aciklama: string;
+};
+
+export type NoteTuzak = {
+  tuzak: string;
+  dogrusu: string;
+  dayanak: NoteDayanak;
+};
+
+export type NoteTestSorusu = NoteMcq & {
+  dayanak: NoteDayanak;
 };
 
 export type NoteMcq = {
@@ -197,6 +221,10 @@ export type CourseNote = {
   qualityTier?: 'template' | 'research-draft' | 'curated' | 'premium';
   /** Kamuya açık kaynaklar (müfredat, açık ders, fakülte sayfası) */
   sources?: { title: string; url: string; note?: string }[];
+  /** Kanonik katman (G19): yalnız dersin temsilci notunda */
+  sinavIskeleti?: NoteIskeletAdimi[];
+  tuzakDefteri?: NoteTuzak[];
+  kisaTest?: NoteTestSorusu[];
   /** Örn. borclar-genel */
   variantOf?: string;
   /** Örn. 1. Dönem (Güz) */

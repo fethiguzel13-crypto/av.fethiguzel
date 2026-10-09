@@ -12,11 +12,13 @@ const KISALTMA: Record<string, string> = {
   cmk: 'CMK',
   tmk: 'TMK',
   tbk: 'TBK',
+  tck: 'TCK',
+  ttk: 'TTK',
   tkhk: 'TKHK',
   arabuluculuk: 'HUAK',
   'is-kanunu': 'İş K.',
 };
-const maddeAdi = (d: Dayanak) => `${KISALTMA[d.kanun] ?? d.kanun.toUpperCase()} m.${d.madde.replace(/^(\d+)([A-Z])$/, '$1/$2')}`;
+export const maddeAdi = (d: Dayanak) => `${KISALTMA[d.kanun] ?? d.kanun.toUpperCase()} m.${d.madde.replace(/^(\d+)([A-Z])$/, '$1/$2')}`;
 
 /** Etiketi sözcük sınırında en çok `en` karakterlik satırlara böler; tek sözcük sınırı aşarsa kendi satırında kalır. */
 export function satirlara(metin: string, en: number): string[] {
