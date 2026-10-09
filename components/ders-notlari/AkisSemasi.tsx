@@ -17,6 +17,10 @@ const KISALTMA: Record<string, string> = {
   tkhk: 'TKHK',
   arabuluculuk: 'HUAK',
   'is-kanunu': 'İş K.',
+  'is-kanunu-1475': '1475 s. K.',
+  kamulastirma: 'KK',
+  belediye: 'Belediye K.',
+  imar: 'İmar K.',
 };
 export const maddeAdi = (d: Dayanak) => `${KISALTMA[d.kanun] ?? d.kanun.toUpperCase()} m.${d.madde.replace(/^(\d+)([A-Z])$/, '$1/$2')}`;
 
