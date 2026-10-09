@@ -126,3 +126,9 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     geçirmekte olduğundan iki kaynak birleştirilirse sayfadaki toplamlar sitede yayımlanan sayıyla çelişir. *Varsayım:* sayfa
     yalnız yıl ve birim dağılımını gösterir. Alan dağılımı istenirse yayın üretimi (`data/yayin/`) alan sayımını da yazacak
     biçimde genişletilir, bu da bir sonraki yayın üretiminde iki kaynağı aynı anlık görüntüye bağlar.
+23. **Anayasa hukuku ders notu ve İYUK metni (G19).** Plan, kalite dalgası 1'deki on ders arasında anayasa hukukunu da saymaktadır.
+    Sitede anayasa hukukunun ders notu, ders grafı ve depoda Anayasa metni bulunmamaktadır. İdare hukuku notunun kanonik katmanı da
+    depoda İdari Yargılama Usulü Kanunu metni olmadığından yalnız Kamulaştırma, Belediye ve İmar Kanunlarına dayanmaktadır.
+    *Varsayım:* on ders, plandaki "ticari işletme/şirketler" kalemi iki ayrı not sayılarak tamamlanmıştır. Anayasa notu G23'te,
+    önce Anayasa ve İYUK metni mevzuat.gov.tr'den depoya alınıp kanun metnine bağlanarak yazılır. Anayasa notu bu dalgaya
+    alınmalıysa ya da hiç yazılmamalıysa bildirmeniz yeterlidir.

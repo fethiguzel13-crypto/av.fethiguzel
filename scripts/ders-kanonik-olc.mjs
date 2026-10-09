@@ -37,6 +37,33 @@ if (existsSync(katmanYolu)) {
 }
 
 const ayrinti = process.argv.includes('--ayrinti');
+
+// --dayanak: Kanonik katmandaki her dayanağın kalemi, maddesi, ifadesi ve kanun metninde geçip geçmediği (halüsinasyon denetimi).
+if (process.argv.includes('--dayanak')) {
+  const { KATMANLAR } = await import(new URL('../lib/ders-notlari/kanonik-katman.mjs', import.meta.url));
+  const { maddeMetni, kucuk } = await import(new URL('../lib/ders-notlari/mevzuat-metni.mjs', import.meta.url));
+  let toplam = 0;
+  let gecen = 0;
+  console.log('| Ders | Kalem | Dayanak | İfade (kanun metninde aranan) | Sonuç |');
+  console.log('|---|---|---|---|---|');
+  for (const k of KATMANLAR) {
+    const kalemler = [
+      ...k.ornekOlaylar.flatMap((o) => o.dayanaklar.map((d) => [`Olay: ${o.baslik}`, d])),
+      ...k.tuzakDefteri.map((t) => [`Tuzak: ${t.tuzak}`, t.dayanak]),
+      ...k.kisaTest.map((q) => [`Soru: ${q.q}`, q.dayanak]),
+    ];
+    for (const [kalem, d] of kalemler) {
+      const metin = maddeMetni(d.kanun, String(d.madde));
+      const ok = Boolean(metin) && metin.includes(kucuk(d.ifade));
+      toplam += 1;
+      if (ok) gecen += 1;
+      const hucre = (s) => s.replace(/\|/g, '/');
+      console.log(`| ${k.ders} | ${hucre(kalem)} | ${d.kanun} m.${d.madde} | ${hucre(d.ifade)} | ${ok ? 'metinde geçer' : 'BULUNAMADI'} |`);
+    }
+  }
+  console.log(`\nToplam ${toplam} dayanak, ${gecen} kanun metninde doğrulandı.`);
+  process.exit(0);
+}
 const KISA = { paragraf: 'Paragraf', ornekOlay: 'Örnek olay', sinavIskeleti: 'İskelet', tuzakDefteri: 'Tuzak', kaynak: 'Kaynak', sema: 'Şema', kisaTest: 'Test' };
 
 console.log(`| Ders | ${OLCUTLER.map((o) => KISA[o]).join(' | ')} | Geçen |`);

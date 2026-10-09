@@ -258,11 +258,15 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     `5b4fb471c`, `3b46f13e0`, `26f71edc5` ve kapanış. Sekiz şemanın 40 adımı testle kanun metnine bağlıdır; şemalar on derste
     2.673 nota gider. Tasarım denetimi 0, etkin şema yazısı 360 px'te 12,2 px'tir.
 
-- [ ] **G19 — Ders notları kalite dalgası 1** · bağımlı: G11, G18 · beceri: hukuki-halusinasyon-onleme
+- [x] **G19 — Ders notları kalite dalgası 1** · bağımlı: G11, G18 · beceri: hukuki-halusinasyon-onleme · 2026-10-09: on temsilci not yedi ölçütte 0-1/7 → 7/7; 235 dayanak kanun metninde doğrulandı; şema 8 → 12; soru 23
   - En çok aranan 10 ders (borçlar genel, medeni usul, ceza genel, anayasa, idare, iş, ticari işletme/
     şirketler, icra-iflas, miras, eşya): her biri için kanonik `curated` not — paragraf anlatım, ≥ 3 örnek
     olay, sınav iskeleti, tuzak defteri, doğrulanmış kaynaklar, şema, kısa test.
   - Kabul: `docs/ders-notlari/KALITE-VE-ARASTIRMA.md` §4 ölçütleri; halüsinasyon denetimi raporu.
+  - Tamamlandı (2026-10-09): Alt plan `gorevler/G19.md`, rapor `raporlar/g19-ders-notlari.md`, dayanak dökümü
+    `raporlar/g19-dayanak-denetimi.md`. Elle yazılan kanonik katman (`lib/ders-notlari/kanonik/`) yalnız temsilci nota uygulanır:
+    31 olay, 59 iskelet adımı, 63 tuzak, 55 soru. Kalıp paragraflar temizlenmiştir (5.682 → 3.666). Anayasa notu ve İYUK metni
+    bulunmadığından "ticari işletme/şirketler" iki not sayılmış, anayasa G23'e devredilmiştir (soru 23).
 
 - [ ] **G20 — Paylaşım görselleri (OG)** · bağımlı: G09
   - `next/og` ile içerik türüne göre dinamik görseller (başlık + yazar adı + tür); reklam unsuru yok.
@@ -279,6 +283,11 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
 
 - [ ] **G23 — Ders notları kalite dalgası 2** · bağımlı: G19
   - Sonraki 10 ders; aynı ölçütler.
+  - G19'dan devir: Yöntem hazırdır (`lib/ders-notlari/kanonik/<ders>.mjs` + `KATMANLAR`, ölçüm `node scripts/ders-kanonik-olc.mjs`;
+    betikteki `G19_DERSLER` listesi genişletilir). Anayasa hukuku notu, Anayasa ve İYUK metni önce mevzuat.gov.tr'den depoya alınarak
+    yazılır (soru 23). Kalan 16 temsilci not: aile, arabuluculuk, bilişim, borçlar özel, ceza muhakemesi, ceza özel, deniz ticareti,
+    hukuka giriş, inşaat, kıymetli evrak, medeni başlangıç, rekabet, sermaye piyasası, sigorta, tüketici, vergi. Üretilmiş notlardaki
+    biçimsel `topics[].mcq` soruları temsilci notta kaldırılabilir.
 
 - [ ] **G24 — Erişilebilirlik** · bağımlı: G15
   - axe-core ile anahtar sayfalar; ciddi/kritik ihlal 0.

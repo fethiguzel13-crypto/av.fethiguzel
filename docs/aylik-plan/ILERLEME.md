@@ -561,3 +561,21 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 
 - G19 DEVAM EDİYOR (başladı 07:10). Alt plan `gorevler/G19.md` yazıldı: elle yazılan, kanun metnine testle bağlanan kanonik katman
   yalnız 10 temsilci nota uygulanır.
+- Ara kayıt 07:45: Adım 1 (`8de11d662`), adım 2-3 (`11d6c9a11`, `37eb6e01f`), adım 4-7 (`df2d61e61`). Beş ders 6/7'dedir; paragraf
+  ölçütü adım 13'e kalmıştır. Tam kapı yeşildir (851 test, derleme 426 sn).
+- Devralma: Ağaç temizdi, port 3123 boştu. Pazartesi olmadığından G08 yapılmamıştır.
+- G19 adım 8-12 (`cbe933148`): Eşya, iş, ticari işletme, şirketler ve idare katmanları ile üç yeni şema. İdare katmanı, depoda İYUK
+  ve Anayasa metni bulunmadığından Kamulaştırma, Belediye ve İmar Kanunlarına dayanmaktadır. Kaynak gösterilen dokuz mevzuat.gov.tr
+  PDF adresi tek tek denenmiş, hepsi yanıt vermiştir.
+- G19 adım 13 (`b4887ae7c`): Temsilci notta kanun alıntısının ham başlık artığı temizlenmiş, alıntı yineleyen kalıp paragraflar
+  düşürülmüştür (5.682 → 3.666 paragraf). On ders 7/7'dir.
+- G19 adım 14: 235 dayanağın tamamı kanun metninde, 190 düzyazı göndermesinin tamamı var olan maddede doğrulanmıştır
+  (`raporlar/g19-dayanak-denetimi.md`). Tasarım denetimi ilk turda olay altındaki madde bağlantılarında dört küçük dokunma hedefi
+  bulmuş, bağlantılar 24 px'lik etiketlere çevrilmiştir. Yeniden derlemeden sonra denetim 0'dır. Tam `npm run kalite` üç kez
+  yeşildir (son tur 853 test, derleme 355 sn, boş bellek ~1 GB).
+- Hata ve geri alma: Desen içeren bir düzeltme `node - <<'EOF'` ile yazılmaya çalışılmış, ters bölü kaçışı yüzünden eşleşme bulunamamış
+  ve betik değişiklik yapmadan durmuştur; düzeltme Edit aracıyla yapılmıştır (OTONOM tuzağı, zarar yok).
+- **G19 tamamlanmıştır** (PLAN.md'de `[x]`). Soru 23 (anayasa notu ve İYUK metni) eklenmiştir.
+- TestSprite: değişiklik yayında değil (30 Ekim), koşulmamıştır. Sunucu kapatılmış, port 3123 boştur, zaman damgalı dosyalar geri
+  alınmıştır. `git stash` listesindeki `wip-side2` bu oturuma ait değildir, dokunulmamıştır.
+- Sıradaki: G20 (paylaşım görselleri, bağımlılığı G09 `[x]`).
