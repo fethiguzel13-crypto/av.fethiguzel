@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from "@/components/SiteLink";
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import { categories } from '@/lib/categories';
 import { getArticlesByCategory } from '@/lib/api';
 import Navbar from '@/components/Navbar';
@@ -31,12 +32,13 @@ export const metadata: Metadata = {
     'mevzuat bankası',
   ],
   alternates: { canonical: 'https://www.avfethiguzel.com/mevzuat' },
-  openGraph: {
-    title: 'Kanun Maddesi ve Mevzuat Bankası | 7800+ Madde + Şerh',
-    description:
-      `Kanun maddesi arama: ${tr(N.kanun)} kanun, ${yaklasik(N.madde, 100)} madde metni ve akademik şerh. Açık erişim dijital hukuk arşivi.`,
-    url: 'https://www.avfethiguzel.com/mevzuat',
-  },
+  ...paylasimMeta({
+    baslik: 'Kanun Maddesi ve Mevzuat Bankası | 7800+ Madde + Şerh',
+    aciklama: `Kanun maddesi arama: ${tr(N.kanun)} kanun, ${yaklasik(N.madde, 100)} madde metni ve akademik şerh. Açık erişim dijital hukuk arşivi.`,
+    adres: '/mevzuat',
+    tur: 'bolum',
+    anahtar: 'mevzuat',
+  }),
 };
 
 export default async function MevzuatPage() {

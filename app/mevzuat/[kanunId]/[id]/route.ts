@@ -17,6 +17,7 @@ import { maddeJsonLd } from '@/lib/madde-ld';
 import { yazarKutusuHtml } from '@/lib/yazar';
 import icBaglantiSikisik from '@/lib/ic-baglanti/dizin.json';
 import { dizinAc, maddeIlgiliHtml, maddeyeDeginen } from '@/lib/ic-baglanti/dizin.mjs';
+import { paylasimGorselYolu } from '@/lib/paylasim';
 
 const icBaglantiDizini = dizinAc(icBaglantiSikisik);
 
@@ -177,6 +178,8 @@ function buildHtml(
     : `${code} ${n} — ${kanun} Madde ${n} (${code} m. ${n}) resmî metni. Şerh yeniden yazılıyor.`;
   const h1 = `${code} ${n} — ${code} Madde ${n} (${code} m. ${n})`;
   const canonical = `${SITE}/mevzuat/${kanunId}/${id}`;
+  // ~7.600 madde sayfası kanunun derlemede üretilmiş kartını paylaşır (G20); madde başına görsel üretilmez.
+  const gorsel = `${SITE}${paylasimGorselYolu('kanun', kanunId)}`;
   const officialHtml = mdLite(article.official);
   // Bu maddeye kendi bağlantı listesinde değinen rehber, kavram ve hesaplama (G12); dizin yalnız açık maddeleri taşır.
   const ilgiliHtml = maddeIlgiliHtml(maddeyeDeginen(`${kanunId}/${id}`, icBaglantiDizini), SITE);
@@ -214,9 +217,16 @@ esas alınmalıdır.</p>
 <meta property="og:title" content="${esc(title)}"/>
 <meta property="og:description" content="${esc(description)}"/>
 <meta property="og:site_name" content="Av. Fethi Güzel Hukuk Portalı"/>
-<meta name="twitter:card" content="summary"/>
+<meta property="og:image" content="${gorsel}"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta property="og:image:type" content="image/png"/>
+<meta property="og:image:alt" content="${esc(kanun)}"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@avfethiguzel"/>
 <meta name="twitter:title" content="${esc(title)}"/>
 <meta name="twitter:description" content="${esc(description)}"/>
+<meta name="twitter:image" content="${gorsel}"/>
 <script type="application/ld+json">${jsonLdHtml(
     maddeJsonLd({ kanunId, id, kanun, maddeNo: n, aciklama: description, serhVar: hasCommentary })
   )}</script>

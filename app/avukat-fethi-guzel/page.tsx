@@ -1,5 +1,6 @@
 import { jsonLdHtml } from "@/lib/json-ld";
 import type { Metadata } from 'next'
+import { paylasimMeta } from '@/lib/paylasim';
 import Image from 'next/image'
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar'
@@ -27,29 +28,15 @@ export const metadata: Metadata = {
         'hukuk portalı',
     ].join(', '),
     alternates: { canonical: `${SITE_URL}/avukat-fethi-guzel` },
-    openGraph: {
-        title: 'Av. Fethi Güzel | Akademik Profil · e-Duruşma',
-        description:
-            'Özel hukuk doktora çalışmaları · e-duruşma monografisi · İngilizce · dijital hukuk portalı.',
-        url: `${SITE_URL}/avukat-fethi-guzel`,
-        type: 'profile',
-        locale: 'tr_TR',
-        images: [
-            {
-                url: photoAbs,
-                width: 640,
-                height: 640,
-                alt: 'Av. Fethi Güzel portresi',
-            },
-        ],
-    },
-    twitter: {
-        card: 'summary_large_image',
-        title: YAZAR.ad,
-        images: [photoAbs],
-        site: '@avfethiguzel',
-        creator: '@avfethiguzel',
-    },
+    // Portre JSON-LD Person'da kalır; paylaşımda 1200×630 yazar kartı (G20). Kare portre büyük kartta kırpılıyordu.
+    ...paylasimMeta({
+        baslik: 'Av. Fethi Güzel | Akademik Profil · e-Duruşma',
+        aciklama: 'Özel hukuk doktora çalışmaları · e-duruşma monografisi · İngilizce · dijital hukuk portalı.',
+        adres: '/avukat-fethi-guzel',
+        tur: 'yazar',
+        anahtar: 'avukat-fethi-guzel',
+        ogTuru: 'profile',
+    }),
 }
 
 export default function AvukatFethiGuzelPage() {

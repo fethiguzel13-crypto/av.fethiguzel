@@ -1,5 +1,6 @@
 import { jsonLdHtml } from "@/lib/json-ld";
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import Image from 'next/image';
 import Navbar from '@/components/Navbar';
@@ -14,11 +15,14 @@ export const metadata: Metadata = {
     description:
         `${YAZAR.ad} akademik profil: özel hukuk alanında doktora çalışmaları, ${YAZAR.eser.kisaAd} monografisi (${YAZAR.eser.yayinevi}), medeni usul ve özel hukuk araştırması.`,
     alternates: { canonical: `${SITE_URL}/akademik-profil` },
-    openGraph: {
-        title: 'Akademik Profil — Av. Fethi Güzel',
-        description: 'Özel hukuk doktora çalışmaları, yayımlanmış eser, İngilizce yeterlilik.',
-        url: `${SITE_URL}/akademik-profil`,
-    },
+    ...paylasimMeta({
+        baslik: 'Akademik Profil — Av. Fethi Güzel',
+        aciklama: 'Özel hukuk doktora çalışmaları, yayımlanmış eser, İngilizce yeterlilik.',
+        adres: '/akademik-profil',
+        tur: 'yazar',
+        anahtar: 'akademik-profil',
+        ogTuru: 'profile',
+    }),
 };
 
 export default function AkademikProfilPage() {

@@ -1,5 +1,6 @@
 import { jsonLdHtml } from "@/lib/json-ld";
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -13,11 +14,13 @@ export const metadata: Metadata = {
     description:
         'Medeni usul hukukunda e-duruşma: monografi, ilgili HMK çerçevesi ve bilgilendirme. Av. Fethi Güzel — Seçkin Yayıncılık.',
     alternates: { canonical: `${SITE_URL}/e-durusma` },
-    openGraph: {
-        title: 'e-Duruşma hub — Av. Fethi Güzel',
-        description: 'Monografi, akademik bağlam ve ilgili mevzuat bağlantıları.',
-        url: `${SITE_URL}/e-durusma`,
-    },
+    ...paylasimMeta({
+        baslik: 'e-Duruşma hub — Av. Fethi Güzel',
+        aciklama: 'Monografi, akademik bağlam ve ilgili mevzuat bağlantıları.',
+        adres: '/e-durusma',
+        tur: 'yazar',
+        anahtar: 'e-durusma',
+    }),
 };
 
 export default function EDurusmaHubPage() {

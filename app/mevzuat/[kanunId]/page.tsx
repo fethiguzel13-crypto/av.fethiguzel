@@ -1,5 +1,6 @@
 import { jsonLdHtml } from "@/lib/json-ld";
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
@@ -48,12 +49,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       'Av. Fethi Güzel',
     ],
     alternates: { canonical: url },
-    openGraph: {
-      title: `${code} — Tüm maddeler ve şerhler`,
-      description: `${articles.length} madde · resmî metin + akademik şerh · Av. Fethi Güzel`,
-      url,
-      type: 'website',
-    },
+    ...paylasimMeta({
+      baslik: `${code} — Tüm maddeler ve şerhler`,
+      aciklama: `${articles.length} madde · resmî metin + akademik şerh · Av. Fethi Güzel`,
+      adres: url,
+      tur: 'kanun',
+      anahtar: kanunId,
+    }),
     robots: { index: true, follow: true },
   };
 }

@@ -1,5 +1,6 @@
 import { jsonLdHtml } from "@/lib/json-ld";
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Image from 'next/image';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
@@ -25,11 +26,13 @@ export const metadata: Metadata = {
   ],
   alternates: { canonical: `${SITE_URL}/bolge-yazi` },
   robots: { index: true, follow: true },
-  openGraph: {
-    title: 'Bölge yazıları — fotoğraflı denemeler',
-    description: 'Şehrin ruhu, tarih ve bellek. “X avukat” sayfası değildir.',
-    url: `${SITE_URL}/bolge-yazi`,
-  },
+  ...paylasimMeta({
+    baslik: 'Bölge yazıları — fotoğraflı denemeler',
+    aciklama: 'Şehrin ruhu, tarih ve bellek. “X avukat” sayfası değildir.',
+    adres: '/bolge-yazi',
+    tur: 'bolum',
+    anahtar: 'bolge-yazi',
+  }),
 };
 
 export default function BolgeYaziHubPage() {

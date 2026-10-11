@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
@@ -47,15 +48,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description,
     keywords: quality.publishable ? a.keywords : undefined,
     alternates: { canonical },
-    openGraph: {
-      type: 'article',
-      locale: 'tr_TR',
-      url: ogUrl,
-      title,
-      description,
-      siteName: 'Av. Fethi Güzel Hukuk Portalı',
-    },
-    twitter: { card: 'summary', title, description },
+    // Yayında olmayan rehber kendi kartını almaz (kart kümesinde yok); türün genel kartı (G20).
+    ...paylasimMeta({
+      baslik: title,
+      aciklama: description,
+      adres: ogUrl,
+      tur: 'rehber',
+      anahtar: quality.publishable ? a.slug : 'genel',
+      ogTuru: 'article',
+    }),
     robots: quality.publishable
       ? { index: true, follow: true, 'max-snippet': -1, 'max-image-preview': 'large' }
       : { index: false, follow: true },

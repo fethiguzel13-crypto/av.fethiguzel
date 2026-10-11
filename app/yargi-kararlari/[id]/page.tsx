@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -39,7 +40,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description: bilgi.aciklama,
     alternates: { canonical: adres },
     robots: { index: KARAR_SAYFASI_DIZINDE, follow: true },
-    openGraph: { title: bilgi.kunye, description: bilgi.aciklama, url: adres, type: 'article' },
+    ...paylasimMeta({ baslik: bilgi.kunye, aciklama: bilgi.aciklama, adres, tur: 'karar', ogTuru: 'article' }),
   };
 }
 

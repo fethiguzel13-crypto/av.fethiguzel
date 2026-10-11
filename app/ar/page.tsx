@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -10,11 +11,7 @@ export const metadata: Metadata = {
     description:
         'معلومات مهنية: محامٍ ووسيط في فان / أرجيش، تركيا. دراسات دكتوراه في القانون الخاص. للتواصل عبر البريد الإلكتروني.',
     alternates: { canonical: `${SITE_URL}/ar` },
-    openGraph: {
-        title: 'محامٍ تركي — Av. Fethi Güzel',
-        url: `${SITE_URL}/ar`,
-        locale: 'ar_AR',
-    },
+    ...paylasimMeta({ baslik: 'محامٍ تركي — Av. Fethi Güzel', adres: '/ar', tur: 'site', dil: 'ar_AR' }),
 };
 
 export default function ArabicLandingPage() {

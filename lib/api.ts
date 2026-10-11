@@ -233,6 +233,17 @@ export async function resolvePackArticle(
   return null;
 }
 
+/** Kanun başına resmî ad ve madde sayısı (paylaşım kartı, Aylık plan G20). */
+export async function getKanunOzetleri(): Promise<{ kanunId: string; kanun: string; maddeSayisi: number }[]> {
+  const ozet = new Map<string, { kanunId: string; kanun: string; maddeSayisi: number }>();
+  for (const i of await loadIndex()) {
+    const o = ozet.get(i.kanunId) || { kanunId: i.kanunId, kanun: i.kanun || i.kanunId.toUpperCase(), maddeSayisi: 0 };
+    o.maddeSayisi++;
+    ozet.set(i.kanunId, o);
+  }
+  return [...ozet.values()].sort((a, b) => a.kanunId.localeCompare(b.kanunId));
+}
+
 export async function getAllKanunDirs(): Promise<string[]> {
   const items = await loadIndex();
   return Array.from(new Set(items.map((i) => i.kanunId))).sort();

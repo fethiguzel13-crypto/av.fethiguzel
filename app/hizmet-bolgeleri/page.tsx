@@ -1,5 +1,6 @@
 import { jsonLdHtml } from "@/lib/json-ld";
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -12,11 +13,13 @@ export const metadata: Metadata = {
     description:
         'Yerleşim bağlamlı genel hukuki bilgilendirme sayfaları: miras, taşınmaz, aile, icra ve idare. Reklam yasağına uygun; ana sayfada listelenmez.',
     alternates: { canonical: `${SITE_URL}/hizmet-bolgeleri` },
-    openGraph: {
-        title: 'Bölgesel hukuki bilgilendirme',
-        description: 'Genel bilgilendirme rehberleri — sonuç vaadi içermez.',
-        url: `${SITE_URL}/hizmet-bolgeleri`,
-    },
+    ...paylasimMeta({
+        baslik: 'Bölgesel hukuki bilgilendirme',
+        aciklama: 'Genel bilgilendirme rehberleri — sonuç vaadi içermez.',
+        adres: '/hizmet-bolgeleri',
+        tur: 'bolum',
+        anahtar: 'hizmet-bolgeleri',
+    }),
     robots: {
         index: true,
         follow: true,

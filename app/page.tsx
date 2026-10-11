@@ -1,5 +1,6 @@
 import Link from "@/components/SiteLink";
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
 import TrustBar from '@/components/TrustBar';
@@ -33,12 +34,12 @@ export const metadata: Metadata = {
     'hukuki hesaplama',
   ],
   alternates: { canonical: 'https://www.avfethiguzel.com' },
-  openGraph: {
-    title: 'Av. Fethi Güzel | Kanun, Şerh ve Yargıtay Arşivi',
-    description:
-      'Kanun maddesi, akademik şerh, Yargıtay arşivi (üyelik) ve günlük içtihat.',
-    url: 'https://www.avfethiguzel.com',
-  },
+  ...paylasimMeta({
+    baslik: 'Av. Fethi Güzel | Kanun, Şerh ve Yargıtay Arşivi',
+    aciklama: 'Kanun maddesi, akademik şerh, Yargıtay arşivi (üyelik) ve günlük içtihat.',
+    adres: 'https://www.avfethiguzel.com',
+    tur: 'site',
+  }),
 };
 
 export default function Home() {

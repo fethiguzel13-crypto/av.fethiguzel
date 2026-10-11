@@ -1,5 +1,6 @@
 import { jsonLdHtml } from "@/lib/json-ld";
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
@@ -31,11 +32,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
     description: `${cat} kategorisinde ${items.length} vatandaş bilgilendirme rehberi. Adım adım süreç, belge ve süre notları — Av. Fethi Güzel.`,
     alternates: { canonical: url },
-    openGraph: {
-      title: `${cat} — Vatandaş rehberleri`,
-      description: `${items.length} rehber · Av. Fethi Güzel Hukuk Portalı`,
-      url,
-    },
+    ...paylasimMeta({
+      baslik: `${cat} — Vatandaş rehberleri`,
+      aciklama: `${items.length} rehber · Av. Fethi Güzel Hukuk Portalı`,
+      adres: url,
+      tur: 'rehber',
+      anahtar: `kategori-${cat}`,
+    }),
     robots: { index: true, follow: true },
   };
 }

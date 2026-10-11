@@ -6,6 +6,7 @@ import Link from "@/components/SiteLink";
 import Kirinti from '@/components/Kirinti';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import { yazarRef } from '@/lib/yazar';
 import { maddeYolu } from '@/lib/madde-yolu';
 
@@ -61,12 +62,13 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
     title: `${sub.name} – ${parent.kanunAdi}`,
     description: sub.description,
     keywords: [...sub.seoKeywords, ...parent.seoKeywords].join(', '),
-    openGraph: {
-      title: `${sub.name} | Av. Fethi Güzel – Hukuk Portalı`,
-      description: sub.description,
-      type: 'website',
-      locale: 'tr_TR',
-    },
+    ...paylasimMeta({
+      baslik: `${sub.name} | Av. Fethi Güzel – Hukuk Portalı`,
+      aciklama: sub.description,
+      adres: `/${category}/${slug}`,
+      tur: 'alan',
+      anahtar: `${parent.slug}-${sub.slug}`,
+    }),
     alternates: {
       canonical: `https://www.avfethiguzel.com/${category}/${slug}`,
     },

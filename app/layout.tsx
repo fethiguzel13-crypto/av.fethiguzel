@@ -8,6 +8,7 @@ import { PROFILE } from '@/lib/profile'
 import './globals.css'
 import { siteSayilari, tr, yaklasik } from '@/lib/site-stats';
 import { yazarPersonDugumu } from '@/lib/yazar'
+import { paylasimMeta } from '@/lib/paylasim'
 
 /* Külliyat sayıları tek kaynaktan; SEO metni gövdeyle aynı rakamı söylesin. */
 const N = siteSayilari();
@@ -96,38 +97,13 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  openGraph: {
-    type: 'website',
-    locale: 'tr_TR',
-    url: siteUrl,
-    siteName: 'Av. Fethi Güzel Hukuk Portalı',
-    title: 'Av. Fethi Güzel | Mevzuat, Akademik Şerh & Hukuki Hesaplama',
-    description:
-      `${yaklasik(N.madde, 100)} madde metni, günlük içtihat ve hukuki hesaplama araçları. Açık erişimli dijital hukuk arşivi.`,
-    images: [
-      {
-        url: '/images/av-fethi-guzel-og.jpg',
-        width: 1200,
-        height: 630,
-        alt: 'Av. Fethi Güzel hukuk portalı',
-      },
-      {
-        url: '/images/av-fethi-guzel-van-ercis-avukat.jpg',
-        width: 640,
-        height: 640,
-        alt: 'Avukat Fethi Güzel portresi',
-      },
-    ],
-  },
-  twitter: {
-    card: 'summary_large_image',
-    title: 'Av. Fethi Güzel | Mevzuat & Akademik Şerh',
-    description:
-      `${yaklasik(N.madde, 100)} kanun maddesi, akademik şerhler, günlük içtihat, hesaplama araçları. Ücretsiz dijital hukuk kütüphanesi.`,
-    images: ['/images/av-fethi-guzel-og.jpg'],
-    site: '@avfethiguzel',
-    creator: '@avfethiguzel',
-  },
+  // Kendi openGraph'ını vermeyen sayfalar bunu miras alır; verenler `paylasimMeta` ile tam alan üretir (G20).
+  ...paylasimMeta({
+    baslik: 'Av. Fethi Güzel | Mevzuat, Akademik Şerh & Hukuki Hesaplama',
+    aciklama: `${yaklasik(N.madde, 100)} madde metni, günlük içtihat ve hukuki hesaplama araçları. Açık erişimli dijital hukuk arşivi.`,
+    adres: siteUrl,
+    tur: 'site',
+  }),
   robots: {
     index: true,
     follow: true,

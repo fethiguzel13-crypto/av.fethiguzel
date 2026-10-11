@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from '@/components/SiteLink';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -18,11 +19,13 @@ export const metadata: Metadata = {
   title: 'Yargıtay Karar Arşivi İstatistikleri',
   description: `Arşivdeki ${sayi(dagilim.yayinda)} yayımlanmış Yargıtay kararının yıllara ve birimlere göre dağılımı, grafik ve tablo olarak.`,
   alternates: { canonical: ADRES },
-  openGraph: {
-    title: 'Yargıtay Karar Arşivi İstatistikleri',
-    description: 'Yayımlanan kararların yıllara ve birimlere göre dağılımı.',
-    url: ADRES,
-  },
+  ...paylasimMeta({
+    baslik: 'Yargıtay Karar Arşivi İstatistikleri',
+    aciklama: 'Yayımlanan kararların yıllara ve birimlere göre dağılımı.',
+    adres: ADRES,
+    tur: 'bolum',
+    anahtar: 'yargi-istatistik',
+  }),
 };
 
 /** Sayfanın sayı kutuları: arşiv, yayında ve süzgeçte ayrılan. */

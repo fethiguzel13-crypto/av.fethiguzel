@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -19,11 +20,13 @@ export function generateMetadata(): Metadata {
     title: `Yargıtay Karar Arşivi | ${totalLabel}`,
     description: `İçtihadı birleştirme, HGK, CGK ve daire kararları. Aylık üyelik ${priceLabel()}. Kararlar sitede okunur; indirme yoktur.`,
     alternates: { canonical: 'https://www.avfethiguzel.com/yargi-kararlari' },
-    openGraph: {
-      title: 'Yargıtay Karar Arşivi | Av. Fethi Güzel',
-      description: `Üyelikle açılan araştırma arşivi. Aylık ${priceLabel()}.`,
-      url: 'https://www.avfethiguzel.com/yargi-kararlari',
-    },
+    ...paylasimMeta({
+      baslik: 'Yargıtay Karar Arşivi | Av. Fethi Güzel',
+      aciklama: `Üyelikle açılan araştırma arşivi. Aylık ${priceLabel()}.`,
+      adres: '/yargi-kararlari',
+      tur: 'bolum',
+      anahtar: 'yargi-kararlari',
+    }),
   };
 }
 

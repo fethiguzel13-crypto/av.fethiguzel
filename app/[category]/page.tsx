@@ -4,6 +4,7 @@ import Link from "@/components/SiteLink";
 import Kirinti from '@/components/Kirinti';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import { yazarRef } from '@/lib/yazar';
 
 export function generateStaticParams() {
@@ -22,12 +23,13 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
     title: `${cat.name} – ${cat.kanunAdi}`,
     description: cat.description,
     keywords: cat.seoKeywords.join(', '),
-    openGraph: {
-      title: `${cat.name} | Av. Fethi Güzel`,
-      description: cat.description,
-      type: 'website',
-      locale: 'tr_TR',
-    },
+    ...paylasimMeta({
+      baslik: `${cat.name} | Av. Fethi Güzel`,
+      aciklama: cat.description,
+      adres: `/${category}`,
+      tur: 'alan',
+      anahtar: cat.slug,
+    }),
     alternates: {
       canonical: `https://www.avfethiguzel.com/${category}`,
     },

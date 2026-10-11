@@ -1,5 +1,6 @@
 import { jsonLdHtml } from "@/lib/json-ld";
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import Image from 'next/image';
 import Navbar from '@/components/Navbar';
@@ -13,12 +14,13 @@ export const metadata: Metadata = {
     description:
         'English-speaking lawyer in Turkey (Van / Erciş): Av. Fethi Güzel — private-law doctoral research, published e-hearing monograph, civil & commercial matters. Informational only; no outcome guarantees.',
     alternates: { canonical: `${SITE_URL}/english-speaking-lawyer` },
-    openGraph: {
-        title: 'English-Speaking Lawyer | Av. Fethi Güzel',
-        description: 'Turkish attorney with professional English — Van/Erciş office, remote consultation available.',
-        url: `${SITE_URL}/english-speaking-lawyer`,
-        locale: 'en_US',
-    },
+    ...paylasimMeta({
+        baslik: 'English-Speaking Lawyer | Av. Fethi Güzel',
+        aciklama: 'Turkish attorney with professional English — Van/Erciş office, remote consultation available.',
+        adres: '/english-speaking-lawyer',
+        tur: 'site',
+        dil: 'en_US',
+    }),
 };
 
 export default function EnglishLawyerPage() {

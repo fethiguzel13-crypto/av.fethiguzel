@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import { notFound, permanentRedirect } from 'next/navigation';
 import Navbar from '@/components/Navbar';
@@ -45,11 +46,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       : 'Bu ders notu yeniden yazılıyor. Kanun metinleri ve hesaplama araçları kullanılabilir durumda.',
     keywords: quality.publishable ? note.keywords : undefined,
     alternates: { canonical: `${SITE}/ders-notlari/${uni}/${ders}` },
-    openGraph: {
-      title: note.h1,
-      description: quality.publishable ? note.description : 'Yeniden yazılıyor.',
-      url: `${SITE}/ders-notlari/${uni}/${ders}`,
-    },
+    // Yalnız dersin temsilci notu kendi kartını alır; diğer notlar türün genel kartını (G20).
+    ...paylasimMeta({
+      baslik: note.h1,
+      aciklama: quality.publishable ? note.description : 'Yeniden yazılıyor.',
+      adres: `/ders-notlari/${uni}/${ders}`,
+      tur: 'ders-notu',
+      anahtar: notDizinKarari(note, kanonik).index ? `${note.uniSlug}-${note.slug}` : 'genel',
+      ogTuru: 'article',
+    }),
     // Yalnız dersin temsilci notu dizinde; ad değiştirmeli kopyalar okunur ama noindex (G11).
     // Canonical kendi adresinde kalır: noindex ile başka adrese canonical çelişkili sinyaldir.
     robots: notDizinKarari(note, kanonik).index

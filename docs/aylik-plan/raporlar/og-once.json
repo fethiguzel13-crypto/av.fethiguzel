@@ -1,0 +1,174 @@
+{
+  "derlenmis": 941,
+  "dizineAcik": 827,
+  "eksikli": 746,
+  "ayriGorsel": 2,
+  "kirikGorsel": 0,
+  "eksikTurleri": {
+    "og:image": 745,
+    "twitter:image": 589,
+    "twitter:card=summary_large_image": 589,
+    "og:site_name": 190,
+    "og:locale": 146,
+    "og:type": 69,
+    "og:url": 17
+  },
+  "gruplar": {
+    "bilgi": {
+      "sayi": 556,
+      "ornek": "og:image, twitter:image, twitter:card=summary_large_image"
+    },
+    "mevzuat": {
+      "sayi": 46,
+      "ornek": "og:site_name, og:locale, og:image"
+    },
+    "hesaplama": {
+      "sayi": 33,
+      "ornek": "og:site_name, og:locale, og:image, twitter:image, twitter:card=summary_large_image"
+    },
+    "kavram": {
+      "sayi": 31,
+      "ornek": "og:type, og:site_name, og:locale, og:image"
+    },
+    "bilgi/kategori": {
+      "sayi": 24,
+      "ornek": "og:type, og:site_name, og:locale, og:image"
+    },
+    "bolge-yazi": {
+      "sayi": 12,
+      "ornek": "og:site_name, og:image"
+    },
+    "ticaret-hukuku": {
+      "sayi": 7,
+      "ornek": "og:url, og:site_name, og:image"
+    },
+    "medeni-hukuk": {
+      "sayi": 5,
+      "ornek": "og:url, og:site_name, og:image"
+    },
+    "borclar-hukuku": {
+      "sayi": 2,
+      "ornek": "og:url, og:site_name, og:image"
+    },
+    "adilcevaz-avukat.html": {
+      "sayi": 1,
+      "ornek": "og:site_name, og:image"
+    },
+    "agri-avukat.html": {
+      "sayi": 1,
+      "ornek": "og:site_name, og:image"
+    },
+    "ahlat-avukat.html": {
+      "sayi": 1,
+      "ornek": "og:site_name, og:image"
+    },
+    "akademik-profil.html": {
+      "sayi": 1,
+      "ornek": "og:type, og:site_name, og:locale, og:image"
+    },
+    "ankara-avukat.html": {
+      "sayi": 1,
+      "ornek": "og:site_name, og:image"
+    },
+    "ar.html": {
+      "sayi": 1,
+      "ornek": "og:type, og:site_name, og:image"
+    },
+    "ara.html": {
+      "sayi": 1,
+      "ornek": "og:type, og:site_name, og:locale, og:image"
+    },
+    "avukat-fethi-guzel.html": {
+      "sayi": 1,
+      "ornek": "og:site_name"
+    },
+    "bilgi.html": {
+      "sayi": 1,
+      "ornek": "og:type, og:site_name, og:locale, og:image"
+    },
+    "bitlis-avukat.html": {
+      "sayi": 1,
+      "ornek": "og:site_name, og:image"
+    },
+    "bolge-yazi.html": {
+      "sayi": 1,
+      "ornek": "og:type, og:site_name, og:locale, og:image"
+    },
+    "borclar-hukuku.html": {
+      "sayi": 1,
+      "ornek": "og:url, og:site_name, og:image"
+    },
+    "caldiran-avukat.html": {
+      "sayi": 1,
+      "ornek": "og:site_name, og:image"
+    },
+    "ders-notlari": {
+      "sayi": 1,
+      "ornek": "og:type, og:site_name, og:locale, og:image"
+    },
+    "e-durusma.html": {
+      "sayi": 1,
+      "ornek": "og:type, og:site_name, og:locale, og:image"
+    },
+    "english-speaking-lawyer.html": {
+      "sayi": 1,
+      "ornek": "og:type, og:site_name, og:image"
+    },
+    "ercis-avukat.html": {
+      "sayi": 1,
+      "ornek": "og:site_name, og:image"
+    },
+    "hesaplama.html": {
+      "sayi": 1,
+      "ornek": "og:type, og:site_name, og:locale, og:image"
+    },
+    "hizmet-bolgeleri.html": {
+      "sayi": 1,
+      "ornek": "og:type, og:site_name, og:locale, og:image"
+    },
+    "index.html": {
+      "sayi": 1,
+      "ornek": "og:type, og:site_name, og:locale, og:image"
+    },
+    "medeni-hukuk.html": {
+      "sayi": 1,
+      "ornek": "og:url, og:site_name, og:image"
+    },
+    "mevzuat.html": {
+      "sayi": 1,
+      "ornek": "og:type, og:site_name, og:locale, og:image"
+    },
+    "muradiye-avukat.html": {
+      "sayi": 1,
+      "ornek": "og:site_name, og:image"
+    },
+    "ozalp-avukat.html": {
+      "sayi": 1,
+      "ornek": "og:site_name, og:image"
+    },
+    "patnos-avukat.html": {
+      "sayi": 1,
+      "ornek": "og:site_name, og:image"
+    },
+    "tatvan-avukat.html": {
+      "sayi": 1,
+      "ornek": "og:site_name, og:image"
+    },
+    "ticaret-hukuku.html": {
+      "sayi": 1,
+      "ornek": "og:url, og:site_name, og:image"
+    },
+    "van-avukat.html": {
+      "sayi": 1,
+      "ornek": "og:site_name, og:image"
+    },
+    "yargi-kararlari": {
+      "sayi": 1,
+      "ornek": "og:type, og:site_name, og:locale, og:image"
+    },
+    "yargi-kararlari.html": {
+      "sayi": 1,
+      "ornek": "og:type, og:site_name, og:locale, og:image"
+    }
+  }
+}

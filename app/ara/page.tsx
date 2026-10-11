@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import { Suspense } from 'react';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
@@ -31,12 +32,13 @@ export const metadata: Metadata = {
     'akademik şerh arama',
   ],
   alternates: { canonical: 'https://www.avfethiguzel.com/ara' },
-  openGraph: {
-    title: 'Kanun Maddesi Arama | Av. Fethi Güzel',
-    description:
-      'Kanun maddesi arama: TBK 13, satım, kıdem… madde metni + şerh. Av. Fethi Güzel.',
-    url: 'https://www.avfethiguzel.com/ara',
-  },
+  ...paylasimMeta({
+    baslik: 'Kanun Maddesi Arama | Av. Fethi Güzel',
+    aciklama: 'Kanun maddesi arama: TBK 13, satım, kıdem… madde metni + şerh. Av. Fethi Güzel.',
+    adres: '/ara',
+    tur: 'bolum',
+    anahtar: 'ara',
+  }),
   robots: { index: true, follow: true },
 };
 

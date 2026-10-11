@@ -1,5 +1,6 @@
 import { jsonLdHtml } from "@/lib/json-ld";
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -35,11 +36,13 @@ export const metadata: Metadata = {
     'Av. Fethi Güzel',
   ],
   alternates: { canonical: `${SITE}/bilgi` },
-  openGraph: {
-    title: `Vatandaş Bilgi Rehberi | ${N} Konu | Av. Fethi Güzel`,
-    description: `Google’da aranan ${N} hukuki ve idari konuda sade, detaylı bilgilendirme.`,
-    url: `${SITE}/bilgi`,
-  },
+  ...paylasimMeta({
+    baslik: `Vatandaş Bilgi Rehberi | ${N} Konu | Av. Fethi Güzel`,
+    aciklama: `Google’da aranan ${N} hukuki ve idari konuda sade, detaylı bilgilendirme.`,
+    adres: '/bilgi',
+    tur: 'bolum',
+    anahtar: 'bilgi',
+  }),
   robots: {
     index: true,
     follow: true,

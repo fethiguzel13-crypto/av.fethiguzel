@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -38,11 +39,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       'ücretsiz hukuk ders notu pdf',
     ],
     alternates: { canonical: `${SITE}/ders-notlari/${uni}` },
-    openGraph: {
-      title: hub.h1,
-      description: hub.description,
-      url: `${SITE}/ders-notlari/${uni}`,
-    },
+    ...paylasimMeta({ baslik: hub.h1, aciklama: hub.description, adres: `/ders-notlari/${uni}`, tur: 'ders-notu', anahtar: hub.uni.slug }),
     robots: hubDizinde(uni, kanonik)
       ? { index: true, follow: true }
       : { index: false, follow: true },

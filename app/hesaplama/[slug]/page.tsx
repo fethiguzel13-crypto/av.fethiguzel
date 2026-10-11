@@ -1,5 +1,6 @@
 import { jsonLdHtml } from "@/lib/json-ld";
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
@@ -33,19 +34,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         description: meta.aciklama,
         keywords: meta.keywords.join(', '),
         alternates: { canonical: url },
-        openGraph: {
-            title: meta.baslik,
-            description: meta.aciklama,
-            url,
-            type: 'website',
-        },
-        twitter: {
-            card: 'summary',
-            title: meta.baslik,
-            description: meta.aciklama,
-            site: '@avfethiguzel',
-            creator: '@avfethiguzel',
-        },
+        ...paylasimMeta({ baslik: meta.baslik, aciklama: meta.aciklama, adres: url, tur: 'hesaplama', anahtar: meta.id }),
     };
 }
 

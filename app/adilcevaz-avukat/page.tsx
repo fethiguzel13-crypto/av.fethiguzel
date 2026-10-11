@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import BolgeBilgiSayfasi from '@/components/BolgeBilgiSayfasi';
 import { bolgeBilgiBySlug } from '@/lib/bolge-bilgi';
 import { SITE_URL } from '@/lib/profile';
+import { paylasimMeta } from '@/lib/paylasim';
 
 const SLUG = 'adilcevaz-avukat';
 const veri = bolgeBilgiBySlug(SLUG);
@@ -13,13 +14,7 @@ export const metadata: Metadata = veri
       description: veri.description,
       keywords: veri.keywords,
       alternates: { canonical: `${SITE_URL}/${SLUG}` },
-      openGraph: {
-        title: veri.title,
-        description: veri.description,
-        url: `${SITE_URL}/${SLUG}`,
-        type: 'article',
-        locale: 'tr_TR',
-      },
+      ...paylasimMeta({ baslik: veri.title, aciklama: veri.description, adres: `/${SLUG}`, tur: 'site', ogTuru: 'article' }),
       robots: {
         index: true,
         follow: true,

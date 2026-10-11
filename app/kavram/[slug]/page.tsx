@@ -1,5 +1,6 @@
 import { jsonLdHtml } from "@/lib/json-ld";
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
@@ -28,11 +29,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         description: k.ozet,
         keywords: k.keywords.join(', '),
         alternates: { canonical: `${SITE_URL}/kavram/${k.slug}` },
-        openGraph: {
-            title: k.baslik,
-            description: k.ozet,
-            url: `${SITE_URL}/kavram/${k.slug}`,
-        },
+        ...paylasimMeta({ baslik: k.baslik, aciklama: k.ozet, adres: `/kavram/${k.slug}`, tur: 'kavram', anahtar: k.slug, ogTuru: 'article' }),
     };
 }
 

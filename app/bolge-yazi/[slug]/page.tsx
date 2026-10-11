@@ -1,5 +1,6 @@
 import Link from "@/components/SiteLink";
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import { notFound } from 'next/navigation';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -27,13 +28,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description: m.description,
     keywords: m.keywords,
     alternates: { canonical: `${SITE_URL}/bolge-yazi/${m.slug}` },
-    openGraph: {
-      type: 'article',
-      title: m.h1,
-      description: m.description,
-      url: `${SITE_URL}/bolge-yazi/${m.slug}`,
-      locale: 'tr_TR',
-    },
+    ...paylasimMeta({ baslik: m.h1, aciklama: m.description, adres: `/bolge-yazi/${m.slug}`, tur: 'yazi', anahtar: m.slug, ogTuru: 'article' }),
     robots: {
       index: true,
       follow: true,
