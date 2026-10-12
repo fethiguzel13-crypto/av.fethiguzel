@@ -594,3 +594,27 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - **G08 (pazartesi):** Motor çalışmaktadır, düzeltme gerekmemiştir (`c14d1a537`, `raporlar/hasat-haftalik.md`). Arşiv 120.940,
   emsal 43.271 (geçen hafta 36.159), captcha 7-11 Ekim arası toplam 6, disk C'de 46 GB boş alan vardır. Günlükteki uzun boşluklar
   otonom oturumların da açılmadığı aralıklardadır, yani makine kapalı ya da uykudaydı.
+- G20 adım 5, ilk tam kapı (`dba223c66` + kart düzeltmesi): Yeşildir (874 test, derleme 521 sn, boş bellek ~900 MB). Sonra ölçümü
+  dizine açık 827 sayfada eksik 0, ayrı görsel 732, kırık görsel 0 vermiş, derlemede 846 kart üretilmiştir (`.next/server/app/og`, 29 MB).
+- Kod gözden geçirmesinde üç kusur bulunmuş, üçü de önce kırmızı testle düzeltilmiştir (`f31880c0d`):
+  - Kart tür etiketi `textTransform: 'uppercase'` ile yazılıyordu; Satori yerel ayar verilmezse sunucunun varsayılanını kullandığından
+    "Vatandaş rehberi" Vercel'de "REHBERI" çıkardı. Etiket artık `toLocaleUpperCase('tr')` ile yazılır, görüntüde "REHBERİ" doğrulanmıştır
+    (`raporlar/gorsel/g20-kart-*.png`).
+  - Temsilci ders notu kart anahtarı iki yerde elle kuruluyor ve `ankara-ankara-…` biçiminde çift önek taşıyordu; tek yardımcıya
+    (`dersNotuKartAnahtari`) bağlanmıştır.
+  - Ölçüm `og:url`'ün canonical ile aynı olup olmadığına bakmıyordu. Kural eklenince 93 dizine açık sayfa kırmızı çıkmıştır. Kendi
+    `openGraph`'ını vermeyen 79 sayfa kökün ana sayfa adresini ve başlığını miras alıyor, 14 madde özeti ise canonical'ı madde
+    sayfasına verirken `og:url`'de kendini gösteriyordu. Kök artık adres, başlık ve açıklama taşımaz (`paylasimKokMeta`; Next
+    başlığı sayfanın `title` değerinden doldurur). 14 sayfa yardımcıya bağlanmış, madde özetinde `og:url` canonical'a eşitlenmiştir.
+    Meta veren ve noindex olmayan sayfanın yardımcıyı atlaması testle kilitlenmiştir.
+- İkinci tam kapı: 879 test ve derleme geçmiştir. Derleme 6.128 sn sürmüştür, zira makine 09:15-10:13 ve 10:13-10:42 arasında uykuya
+  geçmiş, boş bellek 272 MB'ye düşmüştür. `derleme-tarama` **kırıktır**: 93 → 7 sayfada yalnız `og:url` eksiktir, yanlış adres kalmamıştır.
+  Eksik sayfalar `bookmarklet`, `eserlerim`, `ingilizce-avukat`, `on-form`, `site-haritasi`, `uyelik`, `uyelik/sozlesme`'dir.
+  `og-sonra.json` bu ara durumu taşır.
+- Hata: Testteki kilit `uyelik` ve `uyelik/sozlesme`'yi "çalışma anında üretilen sayfa" diye istisna saymıştır, ne var ki ikisi de
+  derlemede üretilip dizine açılmaktadır. Sonraki oturum istisnadan çıkarıp bağlamalıdır.
+- Süre: 110 dakika sınırı makinenin uykusu yüzünden aşılmış, yeni iş başlatılmamıştır. Sunucu başlatılmamıştır, port 3123 boştur.
+  TestSprite: değişiklik yayında değildir (30 Ekim), koşulmamıştır.
+- **G20 DEVAM EDİYOR.** Sıradaki adım: Yedi sayfayı `paylasimMeta`'ya bağla (`eserlerim` ve `on-form` dosyalarında meta yoktur, yerleşim
+  dosyalarına bak), kilitteki iki `uyelik` istisnasını kaldır, tam kapı ve `og-sonra.json`'ı yeniden üret. Ardından rapor
+  `raporlar/g20-paylasim-gorselleri.md` (önce 745 → sonra 0, derleme süresi farkı, örnek kartlar) yazılır ve PLAN'da `[x]` yapılır.

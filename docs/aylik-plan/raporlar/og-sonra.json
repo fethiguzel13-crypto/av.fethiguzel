@@ -1,0 +1,40 @@
+{
+  "derlenmis": 941,
+  "dizineAcik": 827,
+  "eksikli": 7,
+  "ayriGorsel": 735,
+  "kirikGorsel": 0,
+  "eksikTurleri": {
+    "og:url": 7
+  },
+  "gruplar": {
+    "bookmarklet.html": {
+      "sayi": 1,
+      "ornek": "og:url"
+    },
+    "eserlerim.html": {
+      "sayi": 1,
+      "ornek": "og:url"
+    },
+    "ingilizce-avukat.html": {
+      "sayi": 1,
+      "ornek": "og:url"
+    },
+    "on-form.html": {
+      "sayi": 1,
+      "ornek": "og:url"
+    },
+    "site-haritasi.html": {
+      "sayi": 1,
+      "ornek": "og:url"
+    },
+    "uyelik": {
+      "sayi": 1,
+      "ornek": "og:url"
+    },
+    "uyelik.html": {
+      "sayi": 1,
+      "ornek": "og:url"
+    }
+  }
+}
