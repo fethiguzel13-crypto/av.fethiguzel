@@ -579,3 +579,18 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - TestSprite: değişiklik yayında değil (30 Ekim), koşulmamıştır. Sunucu kapatılmış, port 3123 boştur, zaman damgalı dosyalar geri
   alınmıştır. `git stash` listesindeki `wip-side2` bu oturuma ait değildir, dokunulmamıştır.
 - Sıradaki: G20 (paylaşım görselleri, bağımlılığı G09 `[x]`).
+
+## 2026-10-11 22:00 — G20 DEVAM EDİYOR (başsız oturum, başladı 22:00)
+
+- G20 DEVAM EDİYOR (başladı 22:05). Alt plan `gorevler/G20.md` yazıldı: statik, kapalı `/og/<tür>/<anahtar>` görsel kümesi,
+  merkezi `lib/paylasim.ts`, ölçüm betiği `scripts/derleme-og-tara.mjs`.
+- Ara kayıt 22:30: Adım 1-4 `dba223c66` (ölçüm betiği, yardımcı, kart, 38 sayfa, madde şablonu). Önce ölçümü: dizine açık 827 sayfanın
+  745'inde og:image yok (`raporlar/og-once.json`). `kalite:hizli` yeşil (873 test). Sıradaki: tam derleme ve sonra ölçümü.
+
+## 2026-10-12 08:04 — G20 DEVAM EDİYOR (başsız oturum, başladı 08:04)
+
+- G20 DEVAM EDİYOR (başladı 08:50, adım 5'ten). Devralma: `DURAKLAT` yok; ağaçta yalnız G20'nin kaydı, `gorevler/G20.md` ve zaman
+  damgalı dosyalar vardı. Port 3123 boştur, boş bellek 923 MB'dir. `wip-side2` saklaması bu oturuma ait değildir.
+- **G08 (pazartesi):** Motor çalışmaktadır, düzeltme gerekmemiştir (`c14d1a537`, `raporlar/hasat-haftalik.md`). Arşiv 120.940,
+  emsal 43.271 (geçen hafta 36.159), captcha 7-11 Ekim arası toplam 6, disk C'de 46 GB boş alan vardır. Günlükteki uzun boşluklar
+  otonom oturumların da açılmadığı aralıklardadır, yani makine kapalı ya da uykudaydı.
