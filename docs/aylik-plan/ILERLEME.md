@@ -649,3 +649,12 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Oturum 12:20'de bitirilmiştir, ağaç temizdir, sunucu başlatılmamıştır. TestSprite: G21'de kod değişmemiştir.
 - **G21 DEVAM EDİYOR.** Sıradaki: Adım 2 (başlık harf aralığı, `.btn-*` tutarlılığı), ardından tam süreli bir oturumun başında adım 3
   (çevrimdışı paketler).
+
+## 2026-10-12 14:22 — G21 DEVAM EDİYOR (başsız oturum, başladı 14:22)
+
+- G21 DEVAM EDİYOR (başladı 14:22). Devralma: `DURAKLAT` yok, ağaç temiz, son commit `94dbf45ba`, port 3123 boş, boş bellek 792 MB.
+  G08 bugün 08:04 oturumunda yapılmıştır.
+- `67e22aacf` adım 2: `design-audit` iki kural kazanmıştır (küçük puntoda dar harf aralığı, anahtar rayında 3:1 altı kontrast),
+  karar testlidir ve önce kırmızıdır. Üst çubuk başlığındaki `tracking-tight` kaldırılmış, Takip ekranının anahtarı Ayarlar'la ortak
+  `Anahtar` bileşenine taşınmış, ilgi alanı düğmeleri ham kod yerine etiket ve binlik ayraçlı sayı yazmaktadır. Denetim önce 6 bulgu,
+  sonra 20 ekranda 0 bulgu vermiştir. `kalite:hizli` yeşildir (885 test). Ayrıntı `gorevler/G21.md`.

@@ -1,0 +1,31 @@
+══ TASARIM DENETİMİ ══
+
+✓ home           /                              0 bulgu
+✓ mevzuat        /mevzuat                       0 bulgu
+✓ kanun          /mevzuat/tbk                   0 bulgu
+✓ madde          /mevzuat/is-kanunu/madde-17    0 bulgu
+✓ madde-serh     /mevzuat/cek/madde-5           0 bulgu
+✓ ara            /ara                           0 bulgu
+✓ arsiv          /arsiv                         0 bulgu
+✓ karar-kilitli  /karar/752428200               0 bulgu
+✓ uyelik         /uyelik                        0 bulgu
+✓ icthat         /icthat                        0 bulgu
+✓ takip          /takip                         0 bulgu
+✓ kitaplik       /kitaplik                      0 bulgu
+✓ kavram         /kavram                        0 bulgu
+✓ kavram-detay   /kavram/kidem-tazminati        0 bulgu
+✓ eserler        /eserler                       0 bulgu
+✓ rehber         /rehber                        0 bulgu
+✓ hesap          /hesap                         0 bulgu
+✓ arac           /arac/kidem                    0 bulgu
+✓ diger          /diger                         0 bulgu
+✓ ayarlar        /ayarlar                       0 bulgu
+
+── toplam ──
+  kontrast altı : 0
+  küçük hedef   : 0
+  12px altı     : 0
+  yatay taşma   : 0
+  dar harf aral.: 0
+  bileşen < 3:1 : 0
+  tarayıcı yüzeyleri: {"secimTanimli":true,"caret":"rgb(26, 26, 26)","scrollbarWidth":"auto","accentColor":"rgb(194, 78, 40)","colorScheme":"light"}
