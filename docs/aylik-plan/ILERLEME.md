@@ -618,3 +618,7 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - **G20 DEVAM EDİYOR.** Sıradaki adım: Yedi sayfayı `paylasimMeta`'ya bağla (`eserlerim` ve `on-form` dosyalarında meta yoktur, yerleşim
   dosyalarına bak), kilitteki iki `uyelik` istisnasını kaldır, tam kapı ve `og-sonra.json`'ı yeniden üret. Ardından rapor
   `raporlar/g20-paylasim-gorselleri.md` (önce 745 → sonra 0, derleme süresi farkı, örnek kartlar) yazılır ve PLAN'da `[x]` yapılır.
+
+## 2026-10-12 11:00 — G20 DEVAM EDİYOR (başsız oturum, başladı 11:00)
+
+- G20 DEVAM EDİYOR (başladı 11:02, yedi sayfanın `og:url` eksiği). Devralma: `DURAKLAT` yok, ağaç temiz, son commit `134ef581e`.

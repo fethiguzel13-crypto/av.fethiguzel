@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -10,6 +11,7 @@ export const metadata: Metadata = {
   title: 'Mesafeli satış sözleşmesi — arşiv üyeliği',
   description: 'Yargıtay arşivi dijital üyelik mesafeli satış metni.',
   alternates: { canonical: 'https://www.avfethiguzel.com/uyelik/sozlesme' },
+  ...paylasimMeta({ adres: '/uyelik/sozlesme', tur: 'site' }),
 };
 
 export default function SozlesmePage() {

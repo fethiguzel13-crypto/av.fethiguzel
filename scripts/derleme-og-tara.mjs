@@ -6,7 +6,7 @@
  */
 import { existsSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join, relative, sep } from 'node:path';
-import { dizinde, paylasimDenetle, siteIciYol } from '../lib/paylasim-denetim.mjs';
+import { dizinde, paylasimDenetle, siteIciYol, yonlendirmeMi } from '../lib/paylasim-denetim.mjs';
 
 const KOK = '.next/server/app';
 
@@ -34,6 +34,8 @@ const gorselKumesi = new Map();
     else if (o.name.endsWith('.html')) {
       toplam++;
       const html = readFileSync(yol, 'utf8');
+      const meta = yol.replace(/\.html$/, '.meta');
+      if (yonlendirmeMi(existsSync(meta) ? readFileSync(meta, 'utf8') : null)) continue;
       if (!dizinde(html) || /^_(not-found|global-error)/.test(relative(KOK, yol))) continue;
       dizinAcik++;
       const { eksik, gorseller } = paylasimDenetle(html);

@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import Kirinti from '@/components/Kirinti';
@@ -12,6 +13,7 @@ export const metadata: Metadata = {
   description: `Yargıtay karar arşivine aylık erişim. ${priceLabel()} / ${UYELIK.periodDays} gün. Kararlar sitede okunur; indirme yoktur.`,
   robots: { index: true, follow: true },
   alternates: { canonical: 'https://www.avfethiguzel.com/uyelik' },
+  ...paylasimMeta({ adres: '/uyelik', tur: 'bolum', anahtar: 'yargi-kararlari' }),
 };
 
 export default function UyelikPage() {

@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -21,6 +22,7 @@ export const metadata: Metadata = {
         'Av. Fethi Güzel Hukuk Portalı HTML site haritası: mevzuat, hesaplama, içtihat, hizmet bölgeleri, akademik profil.',
     alternates: { canonical: `${SITE_URL}/site-haritasi` },
     robots: { index: true, follow: true },
+    ...paylasimMeta({ adres: '/site-haritasi', tur: 'site' }),
 };
 
 const CORE = [
