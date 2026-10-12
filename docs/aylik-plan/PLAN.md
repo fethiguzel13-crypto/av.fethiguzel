@@ -268,8 +268,10 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     31 olay, 59 iskelet adımı, 63 tuzak, 55 soru. Kalıp paragraflar temizlenmiştir (5.682 → 3.666). Anayasa notu ve İYUK metni
     bulunmadığından "ticari işletme/şirketler" iki not sayılmış, anayasa G23'e devredilmiştir (soru 23).
 
-- [ ] **G20 — Paylaşım görselleri (OG)** · bağımlı: G09
+- [x] **G20 — Paylaşım görselleri (OG)** · bağımlı: G09
   - `next/og` ile içerik türüne göre dinamik görseller (başlık + yazar adı + tür); reklam unsuru yok.
+  - Tamamlandı 2026-10-12: Derlemede üretilen kapalı 846 kartlık küme, tek yardımcı `lib/paylasim.ts`. Dizine açık 826 sayfada paylaşım
+    etiketi eksiği 745 → 0, kırık görsel 0. Rapor `raporlar/g20-paylasim-gorselleri.md`. Yayın günü önizleme araçlarıyla denenecek.
 
 ## Hafta 4 (22–30 Ekim) — Mobil, testler, cila, yayın hazırlığı
 
@@ -288,6 +290,8 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     yazılır (soru 23). Kalan 16 temsilci not: aile, arabuluculuk, bilişim, borçlar özel, ceza muhakemesi, ceza özel, deniz ticareti,
     hukuka giriş, inşaat, kıymetli evrak, medeni başlangıç, rekabet, sermaye piyasası, sigorta, tüketici, vergi. Üretilmiş notlardaki
     biçimsel `topics[].mcq` soruları temsilci notta kaldırılabilir.
+  - G20'den not: Aile hukuku temsilci notunun başlığı "AÜHF Aile Hukuku Yıllık (Konsolide Master)" biçimindedir; iç üretim etiketi
+    sayfa başlığına ve paylaşım kartına (`raporlar/gorsel/g20-kart-ders-notu.png`) geçmektedir. Not ele alınırken başlık düzeltilir.
 
 - [ ] **G24 — Erişilebilirlik** · bağımlı: G15
   - axe-core ile anahtar sayfalar; ciddi/kritik ihlal 0.

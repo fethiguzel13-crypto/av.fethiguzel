@@ -622,3 +622,19 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 ## 2026-10-12 11:00 — G20 DEVAM EDİYOR (başsız oturum, başladı 11:00)
 
 - G20 DEVAM EDİYOR (başladı 11:02, yedi sayfanın `og:url` eksiği). Devralma: `DURAKLAT` yok, ağaç temiz, son commit `134ef581e`.
+- `d50fac255`: Altı sayfa yardımcıya bağlanmıştır (`bookmarklet` için yeni yerleşim dosyası). Kaynak kilidi artık yerleşim zincirine
+  bakmakta, yorumdaki "noindex" sözcüğünü istisna saymamaktadır. Tarama 308 dönen `/ingilizce-avukat`'ı `.meta` durumundan tanıyıp
+  atlamaktadır. Kilit önce altı sayfada kırmızıydı. `kalite:hizli` yeşildir (880 test).
+- 11:33 tam kapı: Testler yeşil, ne var ki derleme 1.090 sn sonra 749 sayfayla (beklenen 941) kırık çıkmıştır. Kapı yalnız son 25
+  satırı tuttuğundan hata iletisi uyarıların altında kalmıştır. 11:40'ta derleme tam günlükle yeniden başlatılmıştır
+  (`logs/g20-build-1140.log`).
+- 11:40 derlemesi aynı kodla geçmiştir (1.790 çıktı). Sekiz fakülte sayfası 60 sn sınırını ilk denemede aşıp yeniden denenmiştir;
+  ilk kırılmanın bu zaman aşımının üç denemede tekrarlanması olduğu muhtemeldir, ne var ki kanıt kaybolduğundan doğrulanamamıştır.
+  Kapı artık kırık adımın tam çıktısını `logs/kalite-<adım>-kirik.log` dosyasına yazmaktadır (`9d5b2f08e`, test önce kırmızı).
+- 12:07 tam `npm run kalite` tek koşuda yeşildir: 881 test, derleme 684 sn (başlangıçta boş bellek 846 MB), dört derleme taraması geçmiştir.
+  Paylaşım ölçümü: Dizine açık 826 sayfada eksik 0, ayrı görsel 735, kırık görsel 0 (`og-sonra.json`). Rapor
+  `raporlar/g20-paylasim-gorselleri.md` yazılmıştır (önce 745 → sonra 0, derleme süresi, örnek kartlar). Aile hukuku notu başlığındaki
+  "Konsolide Master" iç etiketi PLAN.md G23'e not edilmiştir.
+- Zaman damgalı dosyalar geri alınmıştır. Sunucu başlatılmamıştır, port 3123 boştur. TestSprite: değişiklik yayında değildir (30 Ekim),
+  koşulmamıştır.
+- **G20 tamamlanmıştır** (PLAN.md'de `[x]`). Sıradaki: G21 (mobil uygulama cilası, bağımlılıkları G05 ve G15 `[x]`).
