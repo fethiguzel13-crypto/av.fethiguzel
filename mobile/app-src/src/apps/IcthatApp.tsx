@@ -47,6 +47,7 @@ import { okumaKaydet } from '../lib/okuma';
 import MorePage from '../shell/MorePage';
 import UyelikPage from '../shell/UyelikPage';
 import SettingsPage from '../shell/SettingsPage';
+import Anahtar from '../shell/Anahtar';
 import EmptyState from '../shell/EmptyState';
 
 /**
@@ -1163,15 +1164,11 @@ function FollowPage() {
             </p>
           )}
         </div>
-        <button
-          type="button"
-          role="switch"
-          aria-checked={daily}
-          aria-label="Günlük hatırlatma"
-          className="shrink-0 w-12 h-7 rounded-full p-0.5 transition-colors tap"
-          style={{ background: daily ? 'var(--brand)' : 'rgba(26,26,26,0.18)' }}
-          onClick={async () => {
-            if (daily) {
+        <Anahtar
+          checked={daily}
+          label="Günlük hatırlatma"
+          onChange={async (ac) => {
+            if (!ac) {
               await cancelDailyBrief();
               setDaily(false);
               return;
@@ -1185,12 +1182,7 @@ function FollowPage() {
             await scheduleDailyBrief();
             setDaily(true);
           }}
-        >
-          <span
-            className="block w-6 h-6 rounded-full bg-white shadow transition-transform"
-            style={{ transform: daily ? 'translateX(20px)' : 'translateX(0)' }}
-          />
-        </button>
+        />
       </section>
 
       <h3 className="text-[12px] font-mono tracking-widest uppercase text-ink-3 mb-2.5">
@@ -1223,7 +1215,7 @@ function FollowPage() {
                       }
                 }
               >
-                {a} · {n}
+                {tierLabel(a)} · {trNum(n)}
               </button>
             );
           })}

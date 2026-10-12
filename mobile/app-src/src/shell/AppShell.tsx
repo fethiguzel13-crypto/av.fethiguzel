@@ -141,10 +141,15 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
             </span>
           )}
 
+          {/*
+            16 px'te tracking-tight kelime arasını daraltıyor, «Av. Fethi»
+            bitişik okunuyordu; sıkı aralık yalnız 20 px üstü başlıklara
+            (scripts/lib/tasarim-olcut.mjs, design-audit).
+          */}
           <h1
             className={`flex-1 min-w-0 truncate ${
               atRoot
-                ? 'font-heading font-bold text-[16px] tracking-tight'
+                ? 'font-heading font-bold text-[16px]'
                 : 'font-heading font-semibold text-[15px]'
             } leading-tight`}
           >

@@ -14,6 +14,8 @@ import { createServer } from 'node:http';
 import { readFileSync, existsSync, mkdirSync } from 'node:fs';
 import { join, extname } from 'node:path';
 
+import { harfAraligiDar, harfAraligiEm } from './lib/tasarim-olcut.mjs';
+
 const WWW = 'mobile/flavors/asistan/www';
 const OUT = process.argv[2] || 'mobile/.design-audit';
 const ONLY = process.argv.slice(3);
@@ -57,6 +59,7 @@ const EKRANLAR = [
   ['karar-kilitli', '/karar/752428200'], // yayın süzgecinden geçen YİBK kararı (smoke-ui ile aynı)
   ['uyelik', '/uyelik'],
   ['icthat', '/icthat'],
+  ['takip', '/takip'], // günlük hatırlatma anahtarı (role=switch)
   ['kitaplik', '/kitaplik'],
   ['kavram', '/kavram'],
   ['kavram-detay', '/kavram/kidem-tazminati'],
@@ -84,7 +87,7 @@ page.on('console', (m) => {
 
 /** Sayfa içinde çalışan ölçüm — hesaplanmış değerleri okur. */
 const OLC = () => {
-  const out = { kontrast: [], hedef: [], punto: [], tasma: [], odak: [], sayi: {} };
+  const out = { kontrast: [], hedef: [], punto: [], tasma: [], odak: [], harf: [], bilesen: [], sayi: {} };
 
   function rgb(s) {
     const m = /rgba?\(([\d.]+),\s*([\d.]+),\s*([\d.]+)(?:,\s*([\d.]+))?\)/.exec(s || '');
@@ -171,6 +174,10 @@ const OLC = () => {
         }
       }
       if (px < 12) out.punto.push({ yol: yol(el), px: +px.toFixed(1), metin: dogrudanMetin.slice(0, 30) });
+      // Harf aralığı: ham değer toplanır, kararı Node tarafı verir (lib/tasarim-olcut.mjs)
+      if (parseFloat(st.letterSpacing) < 0) {
+        out.harf.push({ yol: yol(el), px: +px.toFixed(1), harfAraligi: st.letterSpacing, metin: dogrudanMetin.slice(0, 30) });
+      }
     }
 
     // Dokunma hedefi
@@ -182,6 +189,18 @@ const OLC = () => {
       const w = kutu.width;
       if (h < 40 || w < 40) {
         out.hedef.push({ yol: yol(el), w: Math.round(w), h: Math.round(h), metin: (el.textContent || '').trim().slice(0, 28) });
+      }
+    }
+
+    // Metin dışı kontrast (WCAG 1.4.11): anahtarın görünen rayı zeminden
+    // en az 3:1 ayrışmalı. Ray düğmenin kendisi ya da ilk alt öğesidir.
+    if (el.getAttribute('role') === 'switch') {
+      const ray = rgb(st.backgroundColor)?.[3] > 0 ? el : el.firstElementChild;
+      const rayRengi = ray && rgb(getComputedStyle(ray).backgroundColor);
+      if (rayRengi) {
+        const zemin = arkaPlan(el.parentElement);
+        const o = oran(rayRengi[3] < 1 ? karistir(rayRengi, zemin) : rayRengi.slice(0, 3), zemin);
+        if (o < 3) out.bilesen.push({ yol: yol(ray), oran: +o.toFixed(2), metin: el.getAttribute('aria-label') || '' });
       }
     }
 
@@ -230,6 +249,7 @@ for (const [ad, yolu] of hedefler) {
   await page.screenshot({ path: join(OUT, `${ad}-tam.png`), fullPage: true });
 
   const olcum = await page.evaluate(OLC);
+  olcum.harf = olcum.harf.filter(harfAraligiDar);
   rapor.push({ ad, yol: yolu, ...olcum });
 }
 
@@ -243,13 +263,18 @@ let toplamKontrast = 0;
 let toplamHedef = 0;
 let toplamPunto = 0;
 let toplamTasma = 0;
+let toplamHarf = 0;
+let toplamBilesen = 0;
 
 for (const r of rapor) {
-  const sorun = r.kontrast.length + r.hedef.length + r.punto.length + r.tasma.length;
+  const sorun =
+    r.kontrast.length + r.hedef.length + r.punto.length + r.tasma.length + r.harf.length + r.bilesen.length;
+  toplamBilesen += r.bilesen.length;
   toplamKontrast += r.kontrast.length;
   toplamHedef += r.hedef.length;
   toplamPunto += r.punto.length;
   toplamTasma += r.tasma.length;
+  toplamHarf += r.harf.length;
 
   console.log(`${sorun === 0 ? '✓' : '✗'} ${r.ad.padEnd(14)} ${String(r.yol).padEnd(30)} ${sorun} bulgu`);
 
@@ -265,6 +290,12 @@ for (const r of rapor) {
   for (const t of r.tasma.slice(0, 4)) {
     console.log(`    taşma    sağ ${t.sag}px · "${t.metin}"`);
   }
+  for (const h of r.harf.slice(0, 4)) {
+    console.log(`    harf     ${harfAraligiEm(h.harfAraligi, h.px)}em ${h.px}px · "${h.metin}" · ${h.yol}`);
+  }
+  for (const b of r.bilesen) {
+    console.log(`    bileşen  ${b.oran}:1 (< 3) · "${b.metin}" · ${b.yol}`);
+  }
 }
 
 console.log('\n── toplam ──');
@@ -272,6 +303,8 @@ console.log(`  kontrast altı : ${toplamKontrast}`);
 console.log(`  küçük hedef   : ${toplamHedef}`);
 console.log(`  12px altı     : ${toplamPunto}`);
 console.log(`  yatay taşma   : ${toplamTasma}`);
+console.log(`  dar harf aral.: ${toplamHarf}`);
+console.log(`  bileşen < 3:1 : ${toplamBilesen}`);
 console.log(`  tarayıcı yüzeyleri:`, JSON.stringify(rapor[0]?.yuzey ?? {}));
 
 if (konsolHatalari.length) {

@@ -62,6 +62,8 @@ export const TIER_LABEL: Record<string, string> = {
   is_sgk: 'İş / SGK',
   icra: 'İcra',
   ceza: 'Ceza',
+  // Takip ekranı alan (`a`) kodunu da bu tablodan okur; yalnız alanda geçer
+  hukuk: 'Hukuk',
   diger: 'Diğer',
 };
 

@@ -6,6 +6,7 @@ import { uyelikVerisiniSil, incelemeKoduDene } from '../lib/uyelik';
 import { hapticsEnabled, setHapticsEnabled, tapFeedback } from '../lib/haptics';
 import { ensureNotificationPermission, scheduleDailyBrief, cancelDailyBrief } from '../lib/notify';
 import { APP_ID } from '../lib/config';
+import Anahtar from './Anahtar';
 
 const FONT_STEPS = [
   { v: 0.9, label: 'Küçük' },
@@ -167,28 +168,11 @@ function Toggle({
         <h3 className="text-[14px] font-bold mb-0.5">{title}</h3>
         <p className="text-[12px] text-ink-2 leading-relaxed">{body}</p>
       </div>
-      <button
-        type="button"
-        role="switch"
-        aria-checked={checked}
-        aria-label={title}
-        onClick={() => void onChange(!checked)}
-        className="shrink-0 grid place-items-center w-14 h-11 -mr-1 rounded-xl tap"
-      >
-        {/*
-          Dokunma hedefi 48×28'di; parmak için alçak. Kutu 56×44'e çıkarıldı,
-          görünen ray aynı ölçüde kaldı — hedef büyüdü, tasarım değişmedi.
-        */}
-        <span
-          className="block w-12 h-7 rounded-full p-0.5 transition-colors"
-          style={{ background: checked ? 'var(--brand)' : 'var(--ink-4)' }}
-        >
-          <span
-            className="block w-6 h-6 rounded-full bg-white shadow transition-transform"
-            style={{ transform: checked ? 'translateX(20px)' : 'translateX(0)' }}
-          />
-        </span>
-      </button>
+      {/*
+        Dokunma hedefi 48×28'di; parmak için alçak. Kutu 56×44'e çıkarıldı,
+        görünen ray aynı ölçüde kaldı — hedef büyüdü, tasarım değişmedi.
+      */}
+      <Anahtar checked={checked} label={title} onChange={onChange} />
     </section>
   );
 }
