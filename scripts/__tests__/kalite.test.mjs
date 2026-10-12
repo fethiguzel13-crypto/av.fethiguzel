@@ -4,13 +4,21 @@
  */
 import { describe, it } from "node:test";
 import assert from "node:assert/strict";
-import { ADIMLAR, testSayilari } from "../kalite.mjs";
+import { readFileSync } from "node:fs";
+import { ADIMLAR, kirikGunlukYolu, testSayilari } from "../kalite.mjs";
 import { hataHaritasi, karsilastir } from "../lint-cirir.mjs";
 
 describe("kalite kapısı", () => {
   it("node --test özetinden geçen/kalan sayısını okur", () => {
     assert.deepEqual(testSayilari("ℹ tests 12\nℹ pass 11\nℹ fail 1\n"), { gecen: 11, kalan: 1 });
     assert.equal(testSayilari("derleme tamam"), null);
+  });
+
+  it("kırık adımın tam çıktısı adıma özgü dosyaya yazılır (2026-10-12: derleme hatası son 25 satırın uyarılarında kayboldu)", () => {
+    assert.equal(kirikGunlukYolu("derleme"), "logs/kalite-derleme-kirik.log");
+    assert.equal(kirikGunlukYolu("test:quality"), "logs/kalite-test-quality-kirik.log");
+    const kaynak = readFileSync(new URL("../kalite.mjs", import.meta.url), "utf8");
+    assert.match(kaynak, /writeFileSync\(join\(ROOT, kirikGunlukYolu\(/);
   });
 
   it("tüm test takımları ve tam modda derleme adımı var", () => {

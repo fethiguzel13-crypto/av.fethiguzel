@@ -37,10 +37,19 @@ export function testSayilari(cikti) {
   return pass ? { gecen: Number(pass[1]), kalan: Number(fail?.[1] ?? 0) } : null;
 }
 
+/** Kırık adımın tam çıktısının yazıldığı dosya; ekrandaki 25 satırlık kuyruk derlemede uyarılarla dolup hatayı gizleyebilir. */
+export function kirikGunlukYolu(ad) {
+  return `logs/kalite-${ad.replace(/[^a-z0-9-]+/gi, "-")}-kirik.log`;
+}
+
 function calistir(adim) {
   const t0 = Date.now();
   const r = spawnSync(adim.komut, { cwd: ROOT, shell: true, encoding: "utf8", maxBuffer: 64 * 1024 * 1024, env: { ...process.env, FORCE_COLOR: "0" } });
   const cikti = `${r.stdout || ""}\n${r.stderr || ""}`;
+  if (r.status !== 0) {
+    mkdirSync(join(ROOT, "logs"), { recursive: true });
+    writeFileSync(join(ROOT, kirikGunlukYolu(adim.ad)), cikti, "utf8");
+  }
   return {
     ad: adim.ad,
     ok: r.status === 0,
@@ -59,7 +68,7 @@ function main() {
     process.stderr.write(`▶ ${adim.ad} … `);
     const r = calistir(adim);
     process.stderr.write(`${r.ok ? "✔" : "✖"} (${r.sure} sn)\n`);
-    if (!r.ok) process.stderr.write(`${r.kuyruk}\n\n`);
+    if (!r.ok) process.stderr.write(`${r.kuyruk}\n(tam çıktı: ${kirikGunlukYolu(adim.ad)})\n\n`);
     sonuc.push(r);
   }
   const toplamTest = sonuc.reduce((s, r) => s + (r.testler?.gecen || 0), 0);
