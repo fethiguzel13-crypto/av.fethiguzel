@@ -638,3 +638,7 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Zaman damgalı dosyalar geri alınmıştır. Sunucu başlatılmamıştır, port 3123 boştur. TestSprite: değişiklik yayında değildir (30 Ekim),
   koşulmamıştır.
 - **G20 tamamlanmıştır** (PLAN.md'de `[x]`). Sıradaki: G21 (mobil uygulama cilası, bağımlılıkları G05 ve G15 `[x]`).
+- G21 DEVAM EDİYOR (başladı 12:15). Alt plan `gorevler/G21.md` yazılmıştır: Kapsam `asistan` (1.2.3, kod 9), son Gradle derlemesi
+  27 Ağustos'tur. Kalan süre tam mobil derlemeye yetmediğinden uygulamaya geçilmemiştir; ağaç temizdir.
+- Sıradaki: G21 adım 1 (`build-app.mjs` kaynağını okuyup yazdığı yolları belirle, sonra `design-audit` önce ölçümü). Çevrimdışı paket
+  derlemesi (adım 3) tam süreli bir oturumun başında başlatılmalıdır.
