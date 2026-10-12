@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import { paylasimMeta } from '@/lib/paylasim';
 import { getArticlesByCategory } from '@/lib/api'
 import { getCategoryBySlug, categories } from '@/lib/categories'
 import Kirinti from '@/components/Kirinti';
@@ -24,6 +25,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     title: `${category.name} Arşivi`,
     description: `${category.description} ile ilgili akademik incelemeler, güncel mevzuat maddeleri ve emsal Yargıtay kararları.`,
     alternates: { canonical: `https://www.avfethiguzel.com/kategori/${category.slug}` },
+    ...paylasimMeta({ adres: `/kategori/${category.slug}`, tur: 'site' }),
   }
 }
 

@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -12,6 +13,7 @@ export const metadata: Metadata = {
     description:
         'Satım, kıdem, nafaka, miras, icra, arabuluculuk ve diğer hukuki kavramlar — bilgilendirme, madde ve hesaplama linkleri. Av. Fethi Güzel.',
     alternates: { canonical: `${SITE_URL}/kavram` },
+    ...paylasimMeta({ adres: '/kavram', tur: 'bolum', anahtar: 'kavram' }),
 };
 
 export default function KavramHubPage() {

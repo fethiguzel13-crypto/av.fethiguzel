@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -10,6 +11,7 @@ export const metadata: Metadata = {
     description:
         'Kıdem tazminatı hakkında genel bilgilendirme: koşullar, tavan ve hesaplama yaklaşımı. Bağlayıcı olmayan araç. Av. Fethi Güzel Hukuk Portalı.',
     alternates: { canonical: `${SITE_URL}/rehber/kidem-tazminati` },
+    ...paylasimMeta({ adres: '/rehber/kidem-tazminati', tur: 'rehber' }),
 };
 
 export default function KidemRehberPage() {

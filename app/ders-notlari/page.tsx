@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -17,6 +18,7 @@ export const metadata: Metadata = {
   description:
     'Hukuk fakültesi ders notları arşivi yeniden yazılıyor. Kanun metinleri, hesaplama araçları ve güncel içtihat takibi kullanılabilir durumda.',
   alternates: { canonical: `${SITE}/ders-notlari` },
+  ...paylasimMeta({ adres: '/ders-notlari', tur: 'bolum', anahtar: 'ders-notlari' }),
   // Yayınlanabilir tek bir not kalmadığı sürece bölüm indekse girmez:
   // 84 fakülte sayfası, açılamayan notlara giden giriş kapılarından ibaret.
   robots: LIVE_NOTES > 0 ? { index: true, follow: true } : { index: false, follow: true },

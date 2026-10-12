@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import { readFileSync, existsSync } from 'fs';
 import { join } from 'path';
@@ -13,6 +14,7 @@ export const metadata: Metadata = {
     description:
         'Kıdem tavanı, AAÜT, harç ve bordro parametrelerinin portal güncelleme kaydı. Av. Fethi Güzel Hukuk Portalı.',
     alternates: { canonical: `${SITE_URL}/tarife-guncellemeleri` },
+    ...paylasimMeta({ adres: '/tarife-guncellemeleri', tur: 'site' }),
 };
 
 type Changelog = {

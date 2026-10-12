@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -9,6 +10,7 @@ export const metadata: Metadata = {
     description:
         'Av. Fethi Güzel Hukuk Portalı yasal uyarı, bilgilendirme amacı ve sorumluluk sınırları.',
     alternates: { canonical: 'https://www.avfethiguzel.com/yasal-uyari' },
+    ...paylasimMeta({ adres: '/yasal-uyari', tur: 'site' }),
     robots: { index: true, follow: true },
 };
 

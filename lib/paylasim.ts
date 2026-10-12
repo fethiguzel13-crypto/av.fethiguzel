@@ -42,12 +42,18 @@ export function paylasimAnahtari(deger: string): string {
     .replace(/^-+|-+$/g, '');
 }
 
+/** Temsilci ders notunun kart anahtarı; not slug'ı üniversiteyi zaten taşır (`ankara__aile-hukuku-yillik`). */
+export function dersNotuKartAnahtari(not: { slug: string }): string {
+  return paylasimAnahtari(not.slug);
+}
+
 export function paylasimGorselYolu(tur: PaylasimTuru, anahtar: string): string {
   return `/og/${tur}/${paylasimAnahtari(anahtar)}`;
 }
 
 type Girdi = {
-  baslik: string;
+  /** Verilmezse başlık alanı yazılmaz; Next sayfanın `title` değerini kullanır (`inheritFromMetadata`). */
+  baslik?: string;
   aciklama?: string;
   /** Sayfanın mutlak ya da kökten göreli adresi. */
   adres: string;
@@ -62,22 +68,37 @@ type Girdi = {
 export function paylasimMeta({ baslik, aciklama, adres, tur, anahtar = 'genel', ogTuru = 'website', dil = 'tr_TR' }: Girdi) {
   const url = adres.startsWith('http') ? adres : `${SITE}${adres.startsWith('/') ? '' : '/'}${adres}`;
   const gorsel = `${SITE}${paylasimGorselYolu(tur, anahtar)}`;
+  const alt = baslik ?? SITE_ADI;
   const openGraph = {
     type: ogTuru,
     locale: dil,
     siteName: SITE_ADI,
     url,
-    title: baslik,
+    ...(baslik ? { title: baslik } : {}),
     ...(aciklama ? { description: aciklama } : {}),
-    images: [{ url: gorsel, width: 1200, height: 630, alt: baslik, type: 'image/png' }],
+    images: [{ url: gorsel, width: 1200, height: 630, alt, type: 'image/png' }],
   } satisfies Metadata['openGraph'];
   const twitter = {
     card: 'summary_large_image',
     site: '@avfethiguzel',
     creator: '@avfethiguzel',
-    title: baslik,
+    ...(baslik ? { title: baslik } : {}),
     ...(aciklama ? { description: aciklama } : {}),
-    images: [{ url: gorsel, alt: baslik }],
+    images: [{ url: gorsel, alt }],
   } satisfies Metadata['twitter'];
   return { openGraph, twitter };
+}
+
+/**
+ * Kök yerleşimin paylaşım alanları. Adres, başlık ve açıklama bilerek yoktur: Bu yardımcıyı çağırmayan sayfa kökü
+ * miras alır ve 2026-10-12 derlemesinde 93 dizine açık sayfa ana sayfanın `og:url`'ünü ve başlığını gösteriyordu. Next
+ * boş kalan başlık ve açıklamayı sayfanın kendi `title` ve `description`'ından doldurur (`resolve-metadata.js`
+ * `inheritFromMetadata`); eksik `og:url`'ü `scripts/derleme-og-tara.mjs` yakalar.
+ */
+export function paylasimKokMeta() {
+  const { openGraph, twitter } = paylasimMeta({ adres: SITE, tur: 'site' });
+  return {
+    openGraph: { type: openGraph.type, locale: openGraph.locale, siteName: openGraph.siteName, images: openGraph.images },
+    twitter: { card: twitter.card, site: twitter.site, creator: twitter.creator, images: twitter.images },
+  };
 }

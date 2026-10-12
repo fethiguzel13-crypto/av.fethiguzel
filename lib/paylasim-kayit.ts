@@ -13,7 +13,7 @@ import kanonik from '@/lib/ders-notlari/dizin-kanonik.json';
 import { HESAPLAMA_ARACLAR } from '@/lib/hesaplama-meta';
 import { KAVRAMLAR } from '@/lib/kavramlar';
 import { lawCategories } from '@/lib/laws';
-import { paylasimAnahtari, PAYLASIM_TURLERI, type PaylasimTuru } from '@/lib/paylasim';
+import { dersNotuKartAnahtari, paylasimAnahtari, PAYLASIM_TURLERI, type PaylasimTuru } from '@/lib/paylasim';
 import { getGuidePageSlugs, getGuidePageState, getPublishedCategories } from '@/lib/vatandas-rehberi/published';
 
 export type PaylasimKarti = { tur: PaylasimTuru; anahtar: string; baslik: string; ust?: string };
@@ -62,8 +62,8 @@ export async function paylasimKartlari(): Promise<PaylasimKarti[]> {
     ...DERS_NOTLARI_HUBS.map((h) => ({ tur: 'ders-notu' as const, anahtar: h.uni.slug, baslik: h.h1 })),
     ...Object.values(kanonik.dersler as Record<string, { uni: string; ders: string }>).flatMap(({ uni, ders }) => {
       const not = getNote(uni, ders);
-      // Sayfa da aynı ifadeyi kullanır (app/ders-notlari/[uni]/[ders]/page.tsx).
-      return not ? [{ tur: 'ders-notu' as const, anahtar: `${not.uniSlug}-${not.slug}`, baslik: not.h1 }] : [];
+      // Sayfa da aynı yardımcıyı kullanır (app/ders-notlari/[uni]/[ders]/page.tsx).
+      return not ? [{ tur: 'ders-notu' as const, anahtar: dersNotuKartAnahtari(not), baslik: not.h1 }] : [];
     }),
     ...BOLGE_MAKALELER.map((m) => ({ tur: 'yazi' as const, anahtar: m.slug, baslik: m.h1 })),
   ];

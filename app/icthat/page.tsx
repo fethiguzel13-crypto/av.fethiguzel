@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import Kirinti from '@/components/Kirinti';
@@ -9,6 +10,7 @@ import IcthatList from '@/components/IcthatList';
 export const metadata: Metadata = {
   title: 'Güncel İçtihat & Mevzuat',
   alternates: { canonical: 'https://www.avfethiguzel.com/icthat' },
+  ...paylasimMeta({ adres: '/icthat', tur: 'site' }),
   description: 'Yargıtay, Anayasa Mahkemesi, AİHM kararları ve Resmî Gazete mevzuat değişikliklerinin günlük takibi.'
 };
 

@@ -8,7 +8,7 @@ import { PROFILE } from '@/lib/profile'
 import './globals.css'
 import { siteSayilari, tr, yaklasik } from '@/lib/site-stats';
 import { yazarPersonDugumu } from '@/lib/yazar'
-import { paylasimMeta } from '@/lib/paylasim'
+import { paylasimKokMeta } from '@/lib/paylasim'
 
 /* Külliyat sayıları tek kaynaktan; SEO metni gövdeyle aynı rakamı söylesin. */
 const N = siteSayilari();
@@ -97,13 +97,9 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  // Kendi openGraph'ını vermeyen sayfalar bunu miras alır; verenler `paylasimMeta` ile tam alan üretir (G20).
-  ...paylasimMeta({
-    baslik: 'Av. Fethi Güzel | Mevzuat, Akademik Şerh & Hukuki Hesaplama',
-    aciklama: `${yaklasik(N.madde, 100)} madde metni, günlük içtihat ve hukuki hesaplama araçları. Açık erişimli dijital hukuk arşivi.`,
-    adres: siteUrl,
-    tur: 'site',
-  }),
+  // Kendi openGraph'ını vermeyen sayfalar bunu miras alır: Adres ve başlık bilerek yoktur, sayfa kendi başlığını taşır;
+  // verenler `paylasimMeta` ile tam alan üretir (G20).
+  ...paylasimKokMeta(),
   robots: {
     index: true,
     follow: true,

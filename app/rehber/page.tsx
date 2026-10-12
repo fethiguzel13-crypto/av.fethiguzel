@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -11,6 +12,7 @@ export const metadata: Metadata = {
     description:
         'Miras, kıdem, boşanma süreci ve arabuluculuk hakkında reklam yasağına uygun bilgilendirme rehberleri. Av. Fethi Güzel Hukuk Portalı.',
     alternates: { canonical: `${SITE_URL}/rehber` },
+    ...paylasimMeta({ adres: '/rehber', tur: 'rehber' }),
 };
 
 const REHBERLER = [

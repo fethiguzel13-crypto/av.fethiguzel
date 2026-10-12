@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { paylasimMeta } from '@/lib/paylasim';
+import { dersNotuKartAnahtari, paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import { notFound, permanentRedirect } from 'next/navigation';
 import Navbar from '@/components/Navbar';
@@ -52,7 +52,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       aciklama: quality.publishable ? note.description : 'Yeniden yazılıyor.',
       adres: `/ders-notlari/${uni}/${ders}`,
       tur: 'ders-notu',
-      anahtar: notDizinKarari(note, kanonik).index ? `${note.uniSlug}-${note.slug}` : 'genel',
+      anahtar: notDizinKarari(note, kanonik).index ? dersNotuKartAnahtari(note) : 'genel',
       ogTuru: 'article',
     }),
     // Yalnız dersin temsilci notu dizinde; ad değiştirmeli kopyalar okunur ama noindex (G11).

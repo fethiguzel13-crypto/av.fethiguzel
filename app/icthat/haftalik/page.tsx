@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import { readFileSync, existsSync, readdirSync } from 'fs';
 import { join } from 'path';
@@ -12,6 +13,7 @@ export const metadata: Metadata = {
     description:
         'Otomatik derlenen haftalık içtihat özetleri — Yargıtay, AYM ve güncel gelişmeler. Av. Fethi Güzel Hukuk Portalı.',
     alternates: { canonical: `${SITE_URL}/icthat/haftalik` },
+    ...paylasimMeta({ adres: '/icthat/haftalik', tur: 'site' }),
 };
 
 type Digest = {

@@ -1,5 +1,6 @@
 import fs from 'fs';
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import path from 'path';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
@@ -12,6 +13,7 @@ export const metadata: Metadata = {
   description:
     'Av. Fethi Güzel tarafından özel hukuk alanında kaleme alınmış akademik makaleler, sempozyum tebliğleri ve hukuki değerlendirmeler.',
   alternates: { canonical: 'https://www.avfethiguzel.com/makaleler' },
+  ...paylasimMeta({ adres: '/makaleler', tur: 'site' }),
 };
 
 type Makale = { name: string; path: string; category: string; ext: string };

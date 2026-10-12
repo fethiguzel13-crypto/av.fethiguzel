@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -10,6 +11,7 @@ export const metadata: Metadata = {
     description:
         'Hukuk uyuşmazlıklarında arabuluculuk süreci, anlaşma belgesi ve dava şartı hakkında genel bilgilendirme. Av. Fethi Güzel — arabulucu.',
     alternates: { canonical: `${SITE_URL}/rehber/arabuluculuk` },
+    ...paylasimMeta({ adres: '/rehber/arabuluculuk', tur: 'rehber' }),
 };
 
 export default function ArabuluculukRehberPage() {

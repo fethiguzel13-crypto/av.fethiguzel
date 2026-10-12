@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -10,6 +11,7 @@ export const metadata: Metadata = {
     description:
         'TMK yasal mirasçılık, zümre sistemi ve saklı pay hakkında genel bilgilendirme. Hesaplama aracı ve akademik şerhlere yönlendirme. Av. Fethi Güzel Hukuk Portalı.',
     alternates: { canonical: `${SITE_URL}/rehber/miras-paylasimi` },
+    ...paylasimMeta({ adres: '/rehber/miras-paylasimi', tur: 'rehber' }),
 };
 
 export default function MirasRehberPage() {

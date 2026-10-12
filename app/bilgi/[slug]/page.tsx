@@ -36,7 +36,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     ? canonicalPath
     : `${SITE}${canonicalPath.startsWith('/') ? '' : '/'}${canonicalPath}`;
 
-  const ogUrl = `${SITE}/bilgi/${encodeURIComponent(a.slug)}`;
   const title = quality.publishable ? a.title : `${a.h1} — yeniden yazılıyor`;
   const description = quality.publishable
     ? a.description
@@ -49,10 +48,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     keywords: quality.publishable ? a.keywords : undefined,
     alternates: { canonical },
     // Yayında olmayan rehber kendi kartını almaz (kart kümesinde yok); türün genel kartı (G20).
+    // og:url canonical ile aynıdır; madde özetinde canonical madde sayfasıdır ve paylaşım oraya toplanır (G20).
     ...paylasimMeta({
       baslik: title,
       aciklama: description,
-      adres: ogUrl,
+      adres: canonical,
       tur: 'rehber',
       anahtar: quality.publishable ? a.slug : 'genel',
       ogTuru: 'article',
