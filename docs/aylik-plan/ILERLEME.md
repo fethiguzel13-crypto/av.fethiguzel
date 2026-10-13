@@ -707,4 +707,10 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   eklenmiştir. Sunucu başlatılmamıştır. TestSprite: değişiklik yayında değildir (30 Ekim), koşulmamıştır.
 - **G21 tamamlanmıştır** (PLAN.md'de `[x]`). Commit'ler `458b503cc`, `6ea7e66df` ve bu kaydı taşıyan belge commit'idir.
   Sıradaki: G22 (uçtan uca testler, bağımlılığı G01 `[x]`), önce alt plan `gorevler/G22.md`.
-- G22 DEVAM EDİYOR (başladı 13:59). Alt plan `gorevler/G22.md` yazılmıştır.
+- G22 DEVAM EDİYOR (başladı 13:59). Alt plan `gorevler/G22.md` yazılmıştır (`bf152a1b5`).
+- 14:16 adım 1 (`57db59796`): `npm run test:e2e` koşucusu 3123'ü kendisi açıp kapatmaktadır, port doluysa hiçbir sürece dokunmadan
+  durur. Arama akışı 3/3 yeşildir. `test:e2e` tam kapıya derlemeden sonra girmiştir, hızlı kapı 892 testte yeşildir.
+- 14:19 adım 2 (`9a49885bb`): Mevzuat madde akışı 4/4 yeşildir (metin, kırıntı, canonical, 404, 308). Port 3123 test sonrasında boştur.
+- Oturum 14:22'de bitirilmiştir, ağaç temizdir. Tam kapı bu oturumda 13:57'de yeşil koşmuştur; `test:e2e` adımı tam kapıda henüz
+  koşmamıştır, bir sonraki tam kapıda koşacaktır. TestSprite: değişiklik yayında değildir, koşulmamıştır.
+- **G22 DEVAM EDİYOR.** Sıradaki: Adım 3 (hesaplama sabitlerinin birincil kaynakla doğrulanması, ardından arayüz testi).
