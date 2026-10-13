@@ -1,39 +1,39 @@
 {
- "kaynakTarihi": "2026-10-07",
- "arsiv": 114625,
- "yayinda": 39718,
- "suzulen": 74907,
+ "kaynakTarihi": "2026-10-13",
+ "arsiv": 121937,
+ "yayinda": 43764,
+ "suzulen": 78173,
  "tarihsiz": 4293,
  "birimler": [
   {
    "anahtar": "hgk",
    "ad": "Hukuk Genel Kurulu",
-   "sayi": 16309
+   "sayi": 16314
   },
   {
    "anahtar": "ceza-daire",
    "ad": "Ceza daireleri",
-   "sayi": 7444
+   "sayi": 9470
   },
   {
    "anahtar": "cgk",
    "ad": "Ceza Genel Kurulu",
-   "sayi": 6116
+   "sayi": 6125
   },
   {
    "anahtar": "borclar-daire",
    "ad": "Borçlar odaklı hukuk daireleri",
-   "sayi": 2770
-  },
-  {
-   "anahtar": "medeni-daire",
-   "ad": "Medeni odaklı hukuk daireleri",
-   "sayi": 2286
+   "sayi": 3442
   },
   {
    "anahtar": "is-daire",
    "ad": "İş/SGK hukuk daireleri",
-   "sayi": 2258
+   "sayi": 2965
+  },
+  {
+   "anahtar": "medeni-daire",
+   "ad": "Medeni odaklı hukuk daireleri",
+   "sayi": 2704
   },
   {
    "anahtar": "hdbk",
@@ -43,19 +43,19 @@
   {
    "anahtar": "diger",
    "ad": "Diğer",
-   "sayi": 738
+   "sayi": 947
   }
  ],
  "digerDetay": [
   {
    "anahtar": "hukuk-daire",
    "ad": "Diğer hukuk daireleri",
-   "sayi": 404
+   "sayi": 605
   },
   {
    "anahtar": "icra-daire",
    "ad": "İcra-İflas odaklı hukuk daireleri",
-   "sayi": 294
+   "sayi": 302
   },
   {
    "anahtar": "yibk",
@@ -130,7 +130,7 @@
   },
   {
    "yil": 2026,
-   "sayi": 11277
+   "sayi": 15323
   }
  ]
 }
