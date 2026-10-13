@@ -707,3 +707,4 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   eklenmiştir. Sunucu başlatılmamıştır. TestSprite: değişiklik yayında değildir (30 Ekim), koşulmamıştır.
 - **G21 tamamlanmıştır** (PLAN.md'de `[x]`). Commit'ler `458b503cc`, `6ea7e66df` ve bu kaydı taşıyan belge commit'idir.
   Sıradaki: G22 (uçtan uca testler, bağımlılığı G01 `[x]`), önce alt plan `gorevler/G22.md`.
+- G22 DEVAM EDİYOR (başladı 13:59). Alt plan `gorevler/G22.md` yazılmıştır.
