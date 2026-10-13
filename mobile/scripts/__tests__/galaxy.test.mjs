@@ -143,6 +143,18 @@ test(
   }
 );
 
+// Yayındaki uygulamanın sürüm kaydı da katalogla aynı olmalı: meta.json
+// build-flavor.mjs'in ürettiği, depoda izlenen tek sürüm kaydıdır (G21).
+test('yayındaki uygulamaların meta.json sürümü katalogla aynı', () => {
+  for (const app of published) {
+    const yol = join(root, 'flavors', app.id, 'meta.json');
+    if (!existsSync(yol)) continue;
+    const meta = JSON.parse(readFileSync(yol, 'utf8'));
+    assert.equal(meta.versionName, app.versionName, `${app.id} versionName`);
+    assert.equal(meta.versionCode, app.versionCode, `${app.id} versionCode`);
+  }
+});
+
 test('strings.xml, build.gradle resValue ile çakışmıyor', () => {
   const gradlePath = join(root, 'android', 'app', 'build.gradle');
   const stringsPath = join(root, 'android', 'app', 'src', 'main', 'res', 'values', 'strings.xml');
