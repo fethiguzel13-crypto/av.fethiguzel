@@ -658,3 +658,52 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   karar testlidir ve önce kırmızıdır. Üst çubuk başlığındaki `tracking-tight` kaldırılmış, Takip ekranının anahtarı Ayarlar'la ortak
   `Anahtar` bileşenine taşınmış, ilgi alanı düğmeleri ham kod yerine etiket ve binlik ayraçlı sayı yazmaktadır. Denetim önce 6 bulgu,
   sonra 20 ekranda 0 bulgu vermiştir. `kalite:hizli` yeşildir (885 test). Ayrıntı `gorevler/G21.md`.
+- 14:50 adım 3 başladı: Tam `build-app.mjs --app=asistan` (boş bellek 889 MB, günlük `logs/g21-mobil-tam-1450.log`). Kesilirse
+  `git checkout -- mobile/data-src public/data data/yayin mobile/app-src/public` yeterlidir.
+
+## 2026-10-12 15:00 — G21 DEVAM EDİYOR (başsız oturum, başladı 15:00)
+
+- G21 DEVAM EDİYOR (başladı 15:05, adım 3 yeniden). Devralma: `DURAKLAT` yok. 14:22 oturumu derlemenin bitişini beklerken kesilmiştir,
+  zira makine 14:58:36'da yeniden başlatılmıştır (Sistem günlüğü 6006/109, açılış 14:58:51). `calis.log`'da 14:22 oturumunun bitiş
+  satırı yoktur, döküm 14:50'de araç çağrısının ortasında kalmıştır. Derleme `icthat` adımında, `fulltext/` yazılırken (14:58:09)
+  ölmüştür. Ağaçta kalan yarım `archive.json.gz` geri alınmıştır.
+- 15:05 tam `build-app.mjs --app=asistan` yeniden başlatılmıştır (boş bellek ~1.000 MB, günlük `logs/g21-mobil-tam-1505.log`).
+  Kesilirse `git checkout -- mobile/data-src public/data data/yayin mobile/app-src/public` yeterlidir.
+
+## 2026-10-13 00:00 — G21 DEVAM EDİYOR (başsız oturum, başladı 00:00)
+
+- G21 DEVAM EDİYOR (başladı 00:02, adım 3 üçüncü deneme). Devralma: `DURAKLAT` yok. 15:05 derlemesi `yargi` taramasında
+  (72.500/121.591 dosya, günlüğün son yazımı 15:20) kesilmiştir, zira makine 15:22:45'te uykuya geçmiş (Kernel-Power 42) ve
+  23:07'de uyanmıştır. 15:00 oturumunun `calis.log`'da bitiş satırı yoktur, derleme süreci de artık yaşamamaktadır.
+- Yarım derleme çıktıları geri alınmıştır. 15:00 oturumunun adım 4 için bıraktığı iki değişiklik korunmuştur: Katalogda `asistan`
+  1.2.3 (9) → 1.3.0 (10) ve `galaxy.test.mjs`'e eklenen `meta.json` sürüm testi (önce kırmızı, `build-flavor` ile yeşile dönecek).
+- 00:04 tam `build-app.mjs --app=asistan` yeniden başlatılmıştır (boş bellek 586 MB, hasat çalışıyor; günlük
+  `logs/g21-mobil-tam-0004.log`). Kesilirse `git checkout -- mobile/data-src public/data data/yayin mobile/app-src/public` yeterlidir.
+
+## 2026-10-13 13:00 — G21 DEVAM EDİYOR (başsız oturum, başladı 13:00)
+
+- G21 DEVAM EDİYOR (başladı 13:03, adım 3 dördüncü deneme). Devralma: `DURAKLAT` yok. 00:04 derlemesi `icthat` tohum satırından sonra
+  kesilmiştir, zira makine 00:04:10'da uykuya geçmiş (Kernel-Power 42, neden «Application API») ve 11:54'te uyanmıştır. 00:00
+  oturumunun dökümü boştur, bitiş satırı yoktur. Önceki iki uykunun nedeni «Battery»dir (15:22:45 ve 23:07:59). Bekleme zaman aşımı
+  AC ve pilde 0'dır, yani boşta uyku kapalıdır. Bu yüzden uyku kilidi eklemek kesintiyi önlemezdi, eklenmemiştir. Şu an makine
+  prizdedir (%97). İzlenen ağaçta yarım çıktı yoktur, adım 4'ün iki değişikliği korunmuştur. 12:05 oturumu ağ gelmediği için atlanmıştır.
+- 13:04 tam `build-app.mjs --app=asistan` yeniden başlatılmıştır (boş bellek 816 MB, hasat çalışıyor, port 3123 boş; günlük
+  `logs/g21-mobil-tam-1304.log`). Kesilirse `git checkout -- mobile/data-src public/data data/yayin mobile/app-src/public` yeterlidir.
+- 13:19 adım 3 bitmiştir (16 dk, çıkış 0). Arşiv 121.937 karardır, yayın süzgecinden 43.764 karar geçmektedir (önce 39.718).
+  Madde atfı 1.521 maddeden 1.547 maddeye çıkmıştır. `smoke-ui` 23/23 yeşildir. İlk `kalite:hizli` bir testte kırılmıştır, zira
+  `yargi-dagilim.json` eski anlık görüntüde kalmıştır. Dosya `yargi-dagilim-uret.mjs` ile yeniden üretilmiş, `lib/site-stats.ts` yedeği
+  43.764 yapılmış ve kapı 886 testte geçmiştir. Commit `458b503cc`.
+- 13:26 adım 4: `build-flavor.mjs --app=asistan` sürümü `flavor.properties` ve `meta.json`'a yazmış, `galaxy.test` yeşile dönmüştür.
+  Yalnız satır sonu değişen dört üretilmiş dosya geri alınmıştır. Commit `6ea7e66df`.
+- 13:29 adım 5 başladı: `npx cap sync android`, ardından `gradlew assembleDebug --no-daemon` (boş bellek 1.404 MB, günlük
+  `logs/g21-gradle-debug-1329.log`).
+- 13:38 adım 5 bitmiştir: `assembleDebug` 8 dk 53 sn'de geçmiştir. APK `com.avfethiguzel.hesap.debug`, kod 10, `1.3.0-debug`'dır
+  (`aapt2 dump badging`). İlk iki deneme `gradlew.bat`'ı tam yolsuz çağırdığı için başlamamıştır. `cap sync`'in yalnız satır sonunu
+  değiştirdiği `capacitor.build.gradle` geri alınmıştır. M5 için `lintRelease` güvenlik bulgusu vermemiştir. Yedi Fatal bulgunun hepsi
+  yedekleme dosyalarındaki etkisiz WebView dışlamalarıdır ve bu dosyalar soru 8'e bağlıdır. Bu yüzden `checkReleaseBuilds false`
+  bırakılmış, soru 24 yazılmıştır.
+- 13:57 adım 6: Tam `npm run kalite` geçmiştir (886 test, derleme 509 sn, derleme taraması yeşil). Zaman damgalı dosyalar geri
+  alınmıştır. Rapor `raporlar/g21-mobil-cila.md`'dir. OTONOM.md uyku tuzağına uyku nedenleri ve uzun işten önce priz denetimi
+  eklenmiştir. Sunucu başlatılmamıştır. TestSprite: değişiklik yayında değildir (30 Ekim), koşulmamıştır.
+- **G21 tamamlanmıştır** (PLAN.md'de `[x]`). Commit'ler `458b503cc`, `6ea7e66df` ve bu kaydı taşıyan belge commit'idir.
+  Sıradaki: G22 (uçtan uca testler, bağımlılığı G01 `[x]`), önce alt plan `gorevler/G22.md`.

@@ -81,6 +81,10 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
   işini durdurmak yalnız `npx` sarmalayıcısını öldürür, portu tutan `node … next start` alt süreci ayrıca durdurulur.
 - Makine kapanınca ya da uykuya geçince oturum uyarısız kesilir (2026-10-03 06:48 → 2026-10-05 10:23 arası ne oturum
   ne hasat çalıştı); devralmada hasat günlüğünün son satır saati kesinti anını doğrulamaya yarar.
+  Boşta uyku zaman aşımı kapalıdır (AC ve pil 0). 12–13 Ekim'deki üç uykunun nedeni «Battery» ve «Application API»dir (Sistem
+  günlüğü Kernel-Power 42). Bu yüzden uyku kilidi kesintiyi önlemez. Uzun işten (tam mobil derleme, tam kapı) önce
+  `Win32_Battery` denetlenir: `BatteryStatus` 2 prizde demektir. Makine pildeyse ve `EstimatedChargeRemaining` %50'nin altındaysa
+  uzun iş başlatılmaz, kısa işe geçilir.
 - Başsız oturum `ANTHROPIC_API_KEY` görürse abonelik yerine API kredisi kullanır; çalıştırıcı bunu
   kaldırır, elle `claude -p` çağrılırken de kaldırılmalıdır.
 

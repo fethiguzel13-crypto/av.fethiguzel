@@ -275,7 +275,7 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
 
 ## Hafta 4 (22–30 Ekim) — Mobil, testler, cila, yayın hazırlığı
 
-- [ ] **G21 — Mobil uygulama cilası** · bağımlı: G05, G15
+- [x] **G21 — Mobil uygulama cilası** · bağımlı: G05, G15 · 2026-10-13: tasarım denetimi iki yeni kuralla önce 6 → sonra 0 bulgu (20 ekran); çevrimdışı paketler güncel, yayındaki karar 39.718 → 43.764, `smoke-ui` 23/23; `asistan` 1.3.0 (10), hata ayıklama APK'sı derlendi; M5 soru 24'te
   - Görsel tutarlılık, erişilebilirlik, çevrimdışı paketlerin güncellenmesi (yeni kararlar, notlar),
     sürüm numarası artırımı; mağazaya yükleme YOK (yayın günü).
 

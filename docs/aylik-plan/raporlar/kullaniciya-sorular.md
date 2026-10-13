@@ -132,3 +132,10 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     *Varsayım:* on ders, plandaki "ticari işletme/şirketler" kalemi iki ayrı not sayılarak tamamlanmıştır. Anayasa notu G23'te,
     önce Anayasa ve İYUK metni mevzuat.gov.tr'den depoya alınıp kanun metnine bağlanarak yazılır. Anayasa notu bu dalgaya
     alınmalıysa ya da hiç yazılmamalıysa bildirmeniz yeterlidir.
+24. **Sürüm derlemesinde Android lint denetimi açılsın mı? (G21, G05/M5).** `lintRelease` 13 Ekim'de güvenlik kategorisinde
+    bulgu vermemiştir. Yedi "Fatal" bulgunun hepsi yedekleme kurallarındadır: `backup_rules.xml` ve `data_extraction_rules.xml`
+    WebView veritabanlarını dışlamakta, ne var ki bu yollar zaten hiçbir `<include>` altında bulunmadığından dışlama etkisizdir.
+    WebView verisi bugün de yedeğe girmemektedir. `checkReleaseBuilds true` yapılırsa bu bulgular imzalı sürüm derlemesini
+    durdurabilir. Etkisiz satırların silinmesi davranışı değiştirmez, ama aynı dosyalar soru 8'in konusudur.
+    *Varsayım:* soru 8 yanıtlanana kadar `checkReleaseBuilds false` ve yedekleme dosyaları olduğu gibi kalır. Soru 8 yanıtlandığında
+    dosyalar yeniden yazılır, etkisiz dışlamalar kaldırılır ve denetim açılır.
