@@ -28,6 +28,8 @@ export const ADIMLAR = [
   { ad: "derleme", komut: "npm run -s build", tam: true },
   // Örneklemli SEO taramasının göremediği sınıflar: tüm derlenmiş sayfalarda çift marka eki ve JSON-LD alanları (G10), paylaşım etiketleri ve kırık paylaşım görseli (G20).
   { ad: "derleme-tarama", komut: "node scripts/derleme-baslik-tara.mjs && node scripts/derleme-jsonld-tara.mjs && node scripts/derleme-butce-tara.mjs && node scripts/derleme-og-tara.mjs", tam: true },
+  // Derlenmiş site tarayıcıda: arama, madde, hesaplama, üyelik, yargı arşivi, ders notu akışları (G22). Koşucu 3123'ü kendisi açıp kapatır.
+  { ad: "test:e2e", komut: "npm run -s test:e2e", tam: true },
 ];
 
 /** node --test çıktısından geçen/kalan sayısını çıkarır (yoksa null). */

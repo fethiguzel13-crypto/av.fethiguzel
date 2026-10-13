@@ -37,6 +37,14 @@ describe("kalite kapısı", () => {
     assert.match(ADIMLAR[tarama].komut, /derleme-baslik-tara\.mjs/);
     assert.match(ADIMLAR[tarama].komut, /derleme-jsonld-tara\.mjs/);
   });
+
+  it("tam modda derlenmiş site uçtan uca testlerle sınanır, hızlı kapı tarayıcı açmaz (G22)", () => {
+    const i = ADIMLAR.findIndex((a) => a.ad === "derleme");
+    const e2e = ADIMLAR.findIndex((a) => a.ad === "test:e2e");
+    assert.ok(e2e > i, "test:e2e derlemeden sonra gelmeli");
+    assert.equal(ADIMLAR[e2e].tam, true);
+    assert.match(ADIMLAR[e2e].komut, /test:e2e/);
+  });
 });
 
 
