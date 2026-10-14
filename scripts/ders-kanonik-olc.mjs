@@ -1,9 +1,10 @@
 #!/usr/bin/env node
 /**
- * G19: Kalite dalgası derslerinin temsilci notlarını yedi ölçütle ölçer ve Markdown tablo basar (yalnız stdout, dosya yazmaz).
+ * G19/G23: Kalite dalgası derslerinin temsilci notlarını yedi ölçütle ölçer ve Markdown tablo basar (yalnız stdout, dosya yazmaz).
  *
- *   node scripts/ders-kanonik-olc.mjs            # tablo
- *   node scripts/ders-kanonik-olc.mjs --ayrinti  # ölçüt ayrıntısıyla
+ *   node scripts/ders-kanonik-olc.mjs              # tablo (dalga 1)
+ *   node scripts/ders-kanonik-olc.mjs --dalga=2    # G23 dersleri
+ *   node scripts/ders-kanonik-olc.mjs --ayrinti    # ölçüt ayrıntısıyla
  *
  * Not, sitede gösterildiği gibi kanonik katman uygulanarak ölçülür (`lib/ders-notlari/kanonik-katman.mjs`).
  */
@@ -11,23 +12,17 @@ import { readFileSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { kanonikKalite, OLCUTLER } from '../lib/ders-notlari/kanonik-kalite.mjs';
+import { DALGALAR } from '../lib/ders-notlari/kalite-dalgalari.mjs';
 
 const KOK = join(dirname(fileURLToPath(import.meta.url)), '..');
 const kanonik = JSON.parse(readFileSync(join(KOK, 'lib/ders-notlari/dizin-kanonik.json'), 'utf8'));
 
-/** Plan G19'daki on ders (anayasa notu yok; ticari işletme ve şirketler iki ayrı ders, `gorevler/G19.md`). */
-export const G19_DERSLER = [
-  'borclar-genel',
-  'medeni-usul',
-  'ceza-genel',
-  'icra-iflas',
-  'miras-hukuku',
-  'esya-hukuku',
-  'is-hukuku',
-  'ticari-isletme',
-  'ticaret-sirketler',
-  'idare-hukuku',
-];
+const dalga = Number(process.argv.find((a) => a.startsWith('--dalga='))?.slice('--dalga='.length) ?? 1);
+const DERSLER = DALGALAR[dalga];
+if (!DERSLER) {
+  console.error(`Bilinmeyen dalga: ${dalga} (var olanlar: ${Object.keys(DALGALAR).join(', ')})`);
+  process.exit(2);
+}
 
 let uygula = (n) => n;
 const katmanYolu = join(KOK, 'lib/ders-notlari/kanonik-katman.mjs');
@@ -69,7 +64,7 @@ const KISA = { paragraf: 'Paragraf', ornekOlay: 'Örnek olay', sinavIskeleti: '�
 console.log(`| Ders | ${OLCUTLER.map((o) => KISA[o]).join(' | ')} | Geçen |`);
 console.log(`|---|${OLCUTLER.map(() => '---').join('|')}|---|`);
 const notlar = [];
-for (const ders of G19_DERSLER) {
+for (const ders of DERSLER) {
   const t = kanonik.dersler[ders];
   if (!t) {
     console.log(`| ${ders} | ${OLCUTLER.map(() => '—').join(' | ')} | temsilci yok |`);
