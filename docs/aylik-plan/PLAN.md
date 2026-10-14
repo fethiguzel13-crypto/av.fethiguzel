@@ -279,7 +279,7 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
   - Görsel tutarlılık, erişilebilirlik, çevrimdışı paketlerin güncellenmesi (yeni kararlar, notlar),
     sürüm numarası artırımı; mağazaya yükleme YOK (yayın günü).
 
-- [ ] **G22 — Uçtan uca testler** · bağımlı: G01
+- [x] **G22 — Uçtan uca testler** · bağımlı: G01 · 2026-10-14: altı akışta 29 test (`npm run test:e2e`, tam kapıda derlemeden sonra); hesaplamada iki araç düzeltildi (net-brüt: 2026 SGK tavanı ve işveren oranı; vekalet: AAÜT m.13/2, m.11/3, m.11/5), sabitler birincil kaynakla doğrulandı; tam kapı 923 testte yeşil; soru 25; rapor `raporlar/g22-e2e.md`
   - Playwright: arama, mevzuat madde, hesaplama (2026 değerleriyle doğruluk), üyelik giriş/ödeme (sandbox
     taklidi), yargı arşivi erişim kontrolü, ders notu gezinmesi.
 
@@ -316,6 +316,9 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     yanıtlanmadan push yapılmaz; yanıta göre değişiklik tarifi `raporlar/reklam-uyum.md` R1–R4'te.
   - G05 notu: Play Console → Uygulama erişimi talimatındaki inceleme kodu `mobile/inceleme-kodu.local.txt`
     ile güncellenir (eski kod açık depodaydı); CI derlemesi varsa `INCELEME_KODU` gizli değişkeni eklenir.
+  - G22 notu: `.testsprite/` altındaki beş canlı site planı (`home`, `search`, `mevzuatTbk1`, `mevzuatIndex`, `hesaplama`) site
+    yayına alındıktan sonra `testsprite test run … --target-url https://www.avfethiguzel.com` ile koşulur. Planlar yalnız sayfanın
+    açıldığını ve bağlantı görüldüğünü iddia eder, hesap doğruluğu yerel `e2e/hesaplama.e2e.mjs`'tedir.
 
 ---
 

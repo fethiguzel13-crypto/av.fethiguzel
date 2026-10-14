@@ -736,3 +736,29 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - 03:20 adım 3 (`ca0c3c96c`): Düşük bellekte derleme denenmemiş, test `next dev -p 3124`'e karşı `E2E_TABAN` ile koşulmuştur. İki kıdem
   testi hidrasyon yarışıyla kırılmış, `aracAc()` hidrasyonu bekleyecek biçimde düzeltilmiştir. Hesaplama 9/9, `tsc` temiz, hızlı kapı
   892 testte yeşildir. Geliştirme sunucusu kapatılmış, 3124 boştur. Zaman damgalı dosyalar geri alınmıştır.
+- 03:29 adım 4 (`39a86d884`): `e2e/uyelik.e2e.mjs` 6/6. 03:50 adım 5-6 (`7d0ad4d00`): `e2e/yargi.e2e.mjs` 3/3, `e2e/ders-notlari.e2e.mjs`
+  4/4. Hepsi `next dev` üzerinde koşulmuştur. Açık bulgu: Kopya nottan fakülteye istemci içinde geçişte başta iki canonical kalmaktadır.
+- 03:56 adım 7: Tam `npm run kalite` başlatılmıştır (boş bellek 458 MB, prizde; günlük `logs/g22-kalite-0356.log`). 18:45 kapısı
+  `/ders-notlari/bogazici` sayfası üç denemede 60 sn'yi aştığı için kırılmıştı.
+- (14 Ekim 06:17 oturumunun eki) Kapının dokuz test adımı yeşil geçmiş, döküm 03:58'de derleme beklenirken kayıtsız kesilmiştir. Sistem
+  günlüğüne göre 04:04'te oturum kilidi açılmış, 04:42'de Windows Update (`MoUsoCoreWorker`) makineyi yeniden başlatmıştır. Derleme
+  adımı sonuçsuzdur. `calis.log`'da 03:02 oturumunun bitiş satırı yoktur, 04:00 ve 05:00 oturumları başlamamıştır.
+
+## 2026-10-14 06:17 — G22 DEVAM EDİYOR (başsız oturum, başladı 06:17)
+
+- G22 DEVAM EDİYOR (başladı 06:21, adım 7). Devralma: `DURAKLAT` yok, değişiklikler 03:02 oturumunundur, zaman damgalı dosyalar geri
+  alınmıştır. Makine pildedir (%100), boş bellek 1.198 MB'tır, 3123 ve 3124 boştur. Yalnız hasat süreci çalışmaktadır.
+- 06:23 tam kapı (`logs/g22-kalite-0623.log`): Dokuz test adımı yeşildir (892 test). Derleme 1.041 sn sonra kırılmış, 11 işçiyle
+  `/og/rehber/*` sayfaları ve `/ders-notlari/ankara-hacibayram` 60 sn sınırını aşmış, sonuncusu üç denemede de geçememiştir. Tarama ve
+  e2e adımları derleme olmadığı için kırılmıştır. Bu, üst üste üçüncü derleme kırığıdır ve kod hatası görülmemiştir.
+- 06:49: `scripts/kalite.mjs` derleme adımına `DERLEME_ISCI` (işçi başına ~250 MB boş bellek, en az 2, en çok çekirdek - 1) geçirir,
+  `next.config.ts` bu değişken varsa `experimental.cpus`'a yazar. Yayın derlemesinde değişken tanımsızdır. Önce kırmızı iki test
+  yazılmış, kalite testi 9/9, `tsc` temizdir. Tam kapı yeniden başlatılmıştır (`logs/g22-kalite-0650.log`, boş bellek 1.226 MB, pil %81).
+- 07:11 adım 7 (`4df60d030`): Tam `npm run kalite` geçmiştir. Toplam 923 test, derleme 4 işçiyle 904 sn, `derleme-tarama` 36 sn,
+  `test:e2e` 29/29 (`next start`, 91 sn). Koşucu sunucusunu kapatmış, 3123 boş kalmıştır.
+- 07:13: Çift canonical bulgusu `next start -p 3123`'te iki kez yoklanmıştır. Kopya nottan fakülteye geçişte her anda tek canonical ve
+  tek robots vardır, yani bulgu geliştirme sunucusuna özgüdür. Sunucu süreç ağacıyla kapatılmış, 3123 boştur. Rapor kapatılmış, TestSprite
+  planları G26 notuna eklenmiştir (site yayında değildir, CLI koşulmamıştır). OTONOM.md derleme tuzağına `DERLEME_ISCI` eklenmiştir.
+  Zaman damgalı dosyalar geri alınmıştır.
+- **G22 tamamlanmıştır** (PLAN.md'de `[x]`). Commit'ler `4df60d030` ve bu kaydı taşıyan belge commit'idir. Sıradaki: G23 (ders
+  notları kalite dalgası 2, bağımlılığı G19 `[x]`), önce alt plan `gorevler/G23.md`.

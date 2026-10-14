@@ -69,6 +69,12 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
 - **Düşük boş bellekte derleme yavaşlar** (2026-10-06 18:50: 777 MB boş bellek, işlemci %1; 88 sayfa "took more than 60 seconds"
   ile yeniden denendi, derleme 12 yerine 26 dk sürdü ama geçti). Yeniden deneme iletisi hata değildir, derleme iptal edilmez.
   Derlemeden önce boş belleği denetle (`Win32_OperatingSystem.FreePhysicalMemory`) ve kendi `next start` sunucularını kapat.
+  2026-10-13 18:45 kapısı ise 11 işçiyle `/ders-notlari/bogazici` üç denemede 60 sn'yi aşınca kırılmıştır, yani yeniden deneme bazen
+  tükenir. Bellek düşükken tek bir `e2e/*.e2e.mjs` dosyası derlemesiz doğrulanabilir: `npx next dev -p 3124` arka planda açılır, sayfa
+  bir kez `curl` ile ısıtılır, `E2E_TABAN=http://localhost:3124 node --test e2e/x.e2e.mjs` koşulur, sonra portu tutan süreç ağacı
+  `taskkill //PID … //T //F` ile kapatılır. Geliştirme sunucusu yavaş hidrasyon nedeniyle zamanlama hatalarını görünür kılar. Tam
+  kapının yerini tutmaz. 2026-10-14'ten beri `npm run kalite` derleme işçisini boş belleğe göre sınırlar (`DERLEME_ISCI`, ~1 GB'ta 4
+  işçi; 06:50 kapısı 904 sn'de geçmiştir). Elle `next build` çağrılırken aynı değişken verilir: `DERLEME_ISCI=4 npm run build`.
 - **Sahte KIRIK kalite günlüğü** (2026-10-05 16:46: arka planda başlatılan `npm run kalite`, oturum sınırıyla süreç ağacı
   öldürülünce tip adımından sonraki her adımı "KIRIK 0 sn" ve "toplam 0 test" diye yazdı). Devralmada her adım 0 sn ise
   kırmızı test aranmaz, kapı yeniden çalıştırılır. Tam kapıyı oturumun sonuna bırakma; ~15 dk sürer. 21:33'te aynısı
