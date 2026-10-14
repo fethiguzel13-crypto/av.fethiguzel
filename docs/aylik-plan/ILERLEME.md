@@ -763,3 +763,15 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - **G22 tamamlanmıştır** (PLAN.md'de `[x]`). Commit'ler `4df60d030` ve bu kaydı taşıyan belge commit'idir. Sıradaki: G23 (ders
   notları kalite dalgası 2, bağımlılığı G19 `[x]`), önce alt plan `gorevler/G23.md`.
 - G23 DEVAM EDİYOR (başladı 07:25). Alt plan `gorevler/G23.md` yazılmıştır, on ders seçilmiştir.
+
+## 2026-10-14 08:07 — çakışan oturum; G23'e dokunulmadı (başsız oturum, başladı 08:07)
+
+- Devralmada `DURAKLAT` yoktur, makine pildedir (%65) ve boş bellek 536 MB'tır. 06:17 başsız oturumu (claude pid 4308) hâlâ
+  çalışmakta olup 08:09'da `4b1ca79fd` commit'ini atmış ve G23 adım 1 dosyalarını yazmaktadır. Sistem günlüğüne göre makine
+  07:17'de kapak kapanınca bekleme konumuna girmiş, 08:04'te uyanmıştır. Bu arada 06:17 çalıştırıcısı (pid 5312) ölmüş, claude
+  alt süreci ise yaşamıştır. Kilit yalnız çalıştırıcı PID'ine baktığından 08:04 tetiği ikinci bir oturum açmıştır.
+- Karar (en güvenli): Bu oturum G23 dosyalarına ve kapıya dokunmamıştır, zira aynı ağaçta iki oturum birbirinin testini ve
+  commit'ini bozar ve 536 MB bellekle ikinci bir derleme kaldırılamaz. `scripts/otonom/calis.ps1` kilit denetiminden sonra komut
+  satırında `-p` ve `OTONOM.md` taşıyan canlı `claude.exe` arar, bulursa "başsız oturum sürüyor" yazıp atlar. Süzgeç o an 4308 ve
+  10064'ü bulmuş, IDE süreçlerini dışarıda bırakmıştır. BOM ve CRLF korunmuş, `ParseFile` 0 hata vermiştir.
+- Sıradaki: G23, 06:17 oturumunun kaydından devam edilir.

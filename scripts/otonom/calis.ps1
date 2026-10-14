@@ -100,6 +100,11 @@ if (Test-Path $Lock) {
   $old = Get-Content $Lock -ErrorAction SilentlyContinue | Select-Object -First 1
   if ($old -and (Get-Process -Id $old -ErrorAction SilentlyContinue)) { L "önceki oturum sürüyor (pid $old) — atlandı"; exit 0 }
 }
+# Kilit çalıştırıcının PID'ini tutar. 2026-10-14 07:17-08:04 bekleme konumunda 06:17 çalıştırıcısı öldü, claude alt süreci
+# yaşadı; 08:04 oturumu kilidi boş sayıp aynı ağaçta ikinci oturum açtı. Yetim başsız oturum varsa da atlanır.
+$yetim = Get-CimInstance Win32_Process -Filter "Name='claude.exe'" -ErrorAction SilentlyContinue |
+  Where-Object { $_.CommandLine -match '\s-p\s' -and $_.CommandLine -match 'OTONOM\.md' } | Select-Object -First 1
+if ($yetim) { L "başsız oturum sürüyor (claude pid $($yetim.ProcessId)) — atlandı"; exit 0 }
 $PID | Set-Content $Lock -Encoding ascii
 
 try {
