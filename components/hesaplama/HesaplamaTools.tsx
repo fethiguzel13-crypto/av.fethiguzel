@@ -1625,23 +1625,27 @@ function nispiVekaletHam(dava: number): number {
   return toplam;
 }
 
+// AAÜT m.13/1-2: nispi ücret maktunun altına inmez, kabul ya da ret edilen miktarı da geçmez
 function nispiVekalet(dava: number): number {
-  return Math.max(nispiVekaletHam(dava), AAUT_MAKTU_ASLIYE);
+  return Math.min(Math.max(nispiVekaletHam(dava), AAUT_MAKTU_ASLIYE), dava);
 }
 
-// 2026 AAÜT İkinci Kısım — mahkeme/işlem bazında maktu vekalet ücretleri (kaynak: kadimhukuk; resmî tarifeden teyit edilmelidir)
-const VEKALET_MAHKEME = [
-  { ad: "İcra Dairelerinde Takip", maktu: 9000, cap: true },
-  { ad: "İcra Mahkemelerinde Dava (duruşmalı)", maktu: 18000, cap: true },
-  { ad: "Tahliyeye İlişkin İcra Takibi", maktu: 20000, cap: true },
-  { ad: "Sulh Hukuk Mahkemesi", maktu: 30000, cap: false },
-  { ad: "Asliye Hukuk / Ticaret / İş Mahkemesi", maktu: 45000, cap: false },
-  { ad: "Aile Mahkemesi", maktu: 45000, cap: false },
-  { ad: "Tüketici Mahkemesi", maktu: 22500, cap: false },
-  { ad: "Fikrî ve Sınai Haklar Mahkemesi", maktu: 55000, cap: false },
-  { ad: "İdare / Vergi Mahkemesi (duruşmasız)", maktu: 30000, cap: false },
-  { ad: "İdare / Vergi Mahkemesi (duruşmalı)", maktu: 40000, cap: false },
-  { ad: "Ağır Ceza Mahkemesi", maktu: 65000, cap: false },
+// 2026 AAÜT İkinci Kısım İkinci Bölüm — mahkeme/işlem bazında maktu vekalet ücretleri (RG 04.11.2025/33067 eki, sıra 1, 3, 4,
+// 8, 10, 11, 12, 13, 17). Aile mahkemesinin ayrı sırası yoktur; asliye düzeyindeki mahkeme olarak 10. sıradan alınmıştır.
+// kural: "tavan" → Üçüncü Kısım ücreti maktuyu geçemez (m.11/3, istihkak davaları hariç); "sabit" → maktu ücret (m.11/5).
+// İcra dairesinde 56.250 TL'ye kadar maktu, asıl alacağı geçmemek üzere (m.11/1); genel kural bunu kendiliğinden verir.
+const VEKALET_MAHKEME: { ad: string; maktu: number; kural?: "tavan" | "sabit" }[] = [
+  { ad: "İcra Dairelerinde Takip", maktu: 9000 },
+  { ad: "İcra Mahkemelerinde Dava (duruşmalı)", maktu: 18000, kural: "tavan" },
+  { ad: "Tahliyeye İlişkin İcra Takibi", maktu: 20000, kural: "sabit" },
+  { ad: "Sulh Hukuk Mahkemesi", maktu: 30000 },
+  { ad: "Asliye Hukuk / Ticaret / İş Mahkemesi", maktu: 45000 },
+  { ad: "Aile Mahkemesi", maktu: 45000 },
+  { ad: "Tüketici Mahkemesi", maktu: 22500 },
+  { ad: "Fikrî ve Sınai Haklar Mahkemesi", maktu: 55000 },
+  { ad: "İdare / Vergi Mahkemesi (duruşmasız)", maktu: 30000 },
+  { ad: "İdare / Vergi Mahkemesi (duruşmalı)", maktu: 40000 },
+  { ad: "Ağır Ceza Mahkemesi", maktu: 65000 },
 ];
 
 function NispiVekalet() {
@@ -1663,20 +1667,20 @@ function NispiVekalet() {
     const oran = Math.min(100, Math.max(0, parseFloat(kabulOrani) || 0)) / 100;
 
     if (davaTipi === "maktu") {
-      return { tip: "maktu" as const, maktu, m, tam: maktu, leh: 0, aleyh: 0, kabulEdilen: 0, reddedilen: 0, capUyg: false };
+      return { tip: "maktu" as const, maktu, m, tam: maktu, leh: 0, aleyh: 0, kabulEdilen: 0, reddedilen: 0 };
     }
-    // Nispi: Üçüncü Kısım basamaklı; mahkeme maktusunun altına inilemez; icra/icra mah. için tutarı geçemez
+    // Nispi: Üçüncü Kısım basamaklı; maktunun altına inmez, miktarı geçmez (m.13/1-2); icra mahkemesi ve tahliye m.11/3, m.11/5
     const hesapla = (tutar: number) => {
-      let v = Math.max(nispiVekaletHam(tutar), maktu);
-      if (m.cap && v > tutar) v = tutar;
-      return v;
+      if (m.kural === "sabit") return maktu;
+      if (m.kural === "tavan") return Math.min(maktu, tutar);
+      return Math.min(Math.max(nispiVekaletHam(tutar), maktu), tutar);
     };
     const kabulEdilen = d * oran;
     const reddedilen = d * (1 - oran);
     return {
       tip: "nispi" as const, maktu, m,
       tam: hesapla(d), leh: hesapla(kabulEdilen), aleyh: hesapla(reddedilen),
-      kabulEdilen, reddedilen, capUyg: m.cap,
+      kabulEdilen, reddedilen,
     };
   }, [davaTipi, mahkemeIdx, maktuTutar, davaD, kabulOrani]);
 
@@ -1714,20 +1718,20 @@ function NispiVekalet() {
               ["Mahkeme / İşlem", result.m.ad],
               ["Maktu Vekalet Ücreti", `${fmt(result.maktu)} TL`],
             ]}
-            note="Konusu para olmayan davalarda (boşanma, velayet, tespit, iptal vb.) AAÜT İkinci Kısım maktu vekalet ücreti uygulanır. Tutarlar 2026 AAÜT'ye göredir; resmî tarifeden teyit ediniz. Taraflar maktu tutarın üzerinde anlaşabilir, altına inemez."
+            note="Konusu para olmayan davalarda (boşanma, velayet, tespit, iptal vb.) AAÜT İkinci Kısım maktu vekalet ücreti uygulanır. Tutarlar 2025-2026 AAÜT İkinci Kısım İkinci Bölüm'e göredir (RG 04.11.2025/33067). Taraflar maktu tutarın üzerinde anlaşabilir, altına inemez."
           />
         ) : (
           <Result
             rows={[
               ["Mahkeme / İşlem", result.m.ad],
-              ["Maktu Alt Sınır", `${fmt(result.maktu)} TL`],
+              [result.m.kural === "tavan" ? "Maktu Üst Sınır" : result.m.kural === "sabit" ? "Maktu Ücret" : "Maktu Alt Sınır", `${fmt(result.maktu)} TL`],
               ["Tam Kabulde Vekalet Ücreti", `${fmt(result.tam)} TL`],
               ...(parseFloat(kabulOrani) < 100
                 ? [["Kabul Edilen Kısım (davacı lehine)", `${fmt(result.leh)} TL`] as [string, string],
                 ["Reddedilen Kısım (davalı lehine)", `${fmt(result.aleyh)} TL`] as [string, string]]
                 : []),
             ]}
-            note={`2026 AAÜT Üçüncü Kısım basamaklı oranları uygulanır (%16, %15, %14, %13, %11, %8, %5, %3, %2, %1). Hesaplanan nispi ücret, seçilen mahkemenin maktu alt sınırının (${fmt(result.maktu)} TL) altına inemez.${result.capUyg ? " İcra/icra mahkemesi işlerinde vekalet ücreti asıl alacağı (takip/dava değerini) geçemez." : ""} Kısmen kabul/ret hâlinde her iki taraf lehine ayrı vekalet ücretine hükmedilir. Maktu değerler resmî AAÜT 2026 tarifesinden teyit edilmelidir.`}
+            note={`2026 AAÜT Üçüncü Kısım basamaklı oranları uygulanır (%16, %15, %14, %13, %11, %8, %5, %3, %2, %1). ${result.m.kural === "tavan" ? `İcra mahkemesinde Üçüncü Kısma göre hesaplanan ücret maktu tutarı (${fmt(result.maktu)} TL) geçemez; icra mahkemesinde açılan istihkak davaları bu sınırın dışındadır (AAÜT m.11/3).` : result.m.kural === "sabit" ? `Tahliyeye ilişkin icra takiplerinde takip miktarından bağımsız olarak maktu ücrete (${fmt(result.maktu)} TL) hükmedilir (AAÜT m.11/5).` : `Hesaplanan nispi ücret, seçilen mahkemenin maktu ücretinin (${fmt(result.maktu)} TL) altına inemez (AAÜT m.13/1).`}${result.m.kural === "sabit" ? "" : " Hükmedilen ücret kabul ya da ret edilen miktarı geçemez (m.13/2)."} Kısmen kabul/ret hâlinde her iki taraf lehine ayrı vekalet ücretine hükmedilir. Borçlu ödeme süresi içinde öderse icra takibinde ücretin dörtte üçü takdir edilir (m.11/4); hesap bunu dikkate almaz. Tarife: RG 04.11.2025/33067.`}
           />
         )}
       </div>
@@ -2797,7 +2801,7 @@ function InfazHesaplama() {
 const ASGARI_BRUT_2026 = 33030;
 const ASGARI_GV_MATRAH_2026 = 28075.50;                  // 33.030 × 0,85 (SGK %15 sonrası gelir vergisi matrahı)
 const ASGARI_DAMGA_2026 = ASGARI_BRUT_2026 * 0.00759;    // asgari ücret damga vergisi istisnası
-const SGK_TAVAN_2026 = ASGARI_BRUT_2026 * 7.5;           // 247.725 — SGK prime esas kazanç tavanı
+const SGK_TAVAN_2026 = ASGARI_BRUT_2026 * 9;             // 297.270 — SGK prime esas kazanç tavanı (5510 m.82, 7566 s.K. m.24 ile 1.1.2026'dan 9 kat)
 
 function bordroNet(brut: number, ay: number) {
   const sgkMatrah = Math.min(brut, SGK_TAVAN_2026);
@@ -2810,7 +2814,7 @@ function bordroNet(brut: number, ay: number) {
   const damga = brut * 0.00759;
   const netDamga = Math.max(0, damga - ASGARI_DAMGA_2026);
   const net = brut - sgkIsci - issizlik - netGV - netDamga;
-  const sgkIsveren = sgkMatrah * 0.2075;   // %20,75 (5 puanlık indirim hariç genel oran)
+  const sgkIsveren = sgkMatrah * 0.2175;   // %21,75 = KVSK %2,25 + MYÖ %12 (7566 s.K. m.23) + GSS %7,5; Hazine desteği hariç
   const issizlikIsveren = sgkMatrah * 0.02;
   const isverenMaliyet = brut + sgkIsveren + issizlikIsveren;
   return { sgkIsci, issizlik, netGV, netDamga, gvIstisna, net, sgkIsveren, issizlikIsveren, isverenMaliyet };
@@ -2864,7 +2868,7 @@ function NetBrutMaas() {
               ["NET ELE GEÇEN", `${fmt(result.net)} TL`],
               ["İşverene Toplam Maliyeti (indirim hariç)", `${fmt(result.isverenMaliyet)} TL`],
             ]}
-            note="2026 bordro: asgari ücret brüt 33.030 TL. Kesintiler — SGK işçi %14, işsizlik %1; gelir vergisi (kümülatif matrah dilimine göre) ve damga vergisi (‰7,59). 2022'den beri asgari ücret tutarına isabet eden gelir ve damga vergisi tüm ücretlerde İSTİSNADIR; bu nedenle her ücretten asgari ücret kadar gelir/damga vergisi düşülmez. Hesap, yıl boyunca aynı brütle çalışıldığı varsayımıyla seçilen aya kadar kümülatif gelir vergisi matrahını dikkate alır (üst dilime geçildikçe net düşer). SGK tavanı 247.725 TL. İşveren maliyetinde %20,75 SGK + %2 işsizlik esas alınmıştır; 5 puanlık işveren indirimi (5510 m.81) uygulanabilen işverende maliyet daha düşüktür. Kesin bordro için mali müşavirinize danışın."
+            note="2026 bordro: asgari ücret brüt 33.030 TL. Kesintiler — SGK işçi %14, işsizlik %1; gelir vergisi (kümülatif matrah dilimine göre) ve damga vergisi (‰7,59). 2022'den beri asgari ücret tutarına isabet eden gelir ve damga vergisi tüm ücretlerde İSTİSNADIR; bu nedenle her ücretten asgari ücret kadar gelir/damga vergisi düşülmez. Hesap, yıl boyunca aynı brütle çalışıldığı varsayımıyla seçilen aya kadar kümülatif gelir vergisi matrahını dikkate alır (üst dilime geçildikçe net düşer). SGK tavanı 297.270 TL (asgari ücretin 9 katı, 1.1.2026'dan). İşveren maliyetinde %21,75 SGK + %2 işsizlik esas alınmıştır; 5510 m.81/1-ı uyarınca işveren hissesinin iki puanlık kısmı Hazinece karşılanan işverende maliyet daha düşüktür. Kesin bordro için mali müşavirinize danışın."
           />
         ) : (
           <div className="text-sm text-ink-muted italic">Ücret tutarını girin.</div>

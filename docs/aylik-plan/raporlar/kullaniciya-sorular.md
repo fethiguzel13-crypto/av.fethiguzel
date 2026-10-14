@@ -139,3 +139,11 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     durdurabilir. Etkisiz satırların silinmesi davranışı değiştirmez, ama aynı dosyalar soru 8'in konusudur.
     *Varsayım:* soru 8 yanıtlanana kadar `checkReleaseBuilds false` ve yedekleme dosyaları olduğu gibi kalır. Soru 8 yanıtlandığında
     dosyalar yeniden yazılır, etkisiz dışlamalar kaldırılır ve denetim açılır.
+25. **Vekalet ücreti hesaplayıcısında iki yorum kararı (G22).** Hesaplayıcı 13 Ekim'de AAÜT (RG 04.11.2025/33067) metniyle
+    karşılaştırılmış ve üç kuralı yanlış uyguladığı görülmüştür. Bunlar düzeltilmiştir: Hükmedilen ücret artık her mahkemede kabul ya
+    da ret edilen miktarı geçmemektedir (m.13/2), icra mahkemesinde Üçüncü Kısım ücreti 18.000 TL'yi aşmamaktadır (m.11/3), tahliye
+    takibinde ise miktardan bağımsız olarak 20.000 TL maktu ücret verilmektedir (m.11/5). İki nokta tarifenin lafzından kesin çıkmamaktadır.
+    Birincisi, tahliye takibinde maktu ücretin kira alacağı tutarıyla sınırlı olup olmadığıdır. Hesaplayıcı tutarla sınırlamamaktadır,
+    zira m.11/5 bir sınır öngörmemekte ve m.13/2 kabul ya da ret edilen miktara bağlanmaktadır. İkincisi, tarifede ayrı sırası olmayan
+    aile mahkemesine asliye mahkemesi ücretinin (45.000 TL, İkinci Kısım İkinci Bölüm sıra 10) uygulanmasıdır.
+    *Varsayım:* iki nokta da yukarıdaki biçimde kalır. Yerleşik uygulama farklıysa bildirmeniz yeterlidir.
