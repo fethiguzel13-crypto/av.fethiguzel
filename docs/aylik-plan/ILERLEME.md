@@ -714,3 +714,25 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Oturum 14:22'de bitirilmiştir, ağaç temizdir. Tam kapı bu oturumda 13:57'de yeşil koşmuştur; `test:e2e` adımı tam kapıda henüz
   koşmamıştır, bir sonraki tam kapıda koşacaktır. TestSprite: değişiklik yayında değildir, koşulmamıştır.
 - **G22 DEVAM EDİYOR.** Sıradaki: Adım 3 (hesaplama sabitlerinin birincil kaynakla doğrulanması, ardından arayüz testi).
+
+## 2026-10-13 15:00 — G22 DEVAM EDİYOR (başsız oturum, başladı 15:00)
+
+- G22 DEVAM EDİYOR (başladı 15:01, adım 3). Devralma: `DURAKLAT` yok, ağaç temiz, makine prizde (%96), boş bellek 872 MB, port 3123 boş.
+- Oturum 15:17'de kullanım sınırıyla kesilmiştir (döküm `c8b74769…`, `"error":"rate_limit"`). 16:09 oturumu da aynı sınıra takılmış,
+  iş yapmamıştır. Geride commit'siz `e2e/hesaplama.e2e.mjs` kalmıştır.
+
+## 2026-10-13 18:26 — G22 DEVAM EDİYOR (başsız oturum, başladı 18:26)
+
+- G22 DEVAM EDİYOR (başladı 18:28, adım 3). Devralma: `DURAKLAT` yok, izlenmeyen dosya 15:00 oturumunundur. Makine pilde (%75),
+  boş bellek 1.494 MB, port 3123 boş.
+- (14 Ekim 03:02 oturumunun eki) Bu oturum adım 3'ün kodunu, testini ve raporunu yazmış, 18:45'te tam kapıyı başlatmıştır. Kapının
+  derleme adımı 736 sn sonra kırılmış, `/og/[tur]/[anahtar]` sayfaları 60 sn sınırını iki kez aşmıştır. Oturum 19:08'de ağ kesintisiyle
+  (ENOTFOUND) commit'siz bitmiştir. 20:00-23:00 arasındaki dört oturum kullanım sınırına takılmış, 00:00-02:00 arasında döküm yoktur.
+
+## 2026-10-14 03:02 — G22 DEVAM EDİYOR (başsız oturum, başladı 03:02)
+
+- G22 DEVAM EDİYOR (başladı 03:05, adım 3 doğrulaması). Devralma: `DURAKLAT` yok, değişiklikler 18:26 oturumunundur. Makine prizdedir
+  (%100), boş bellek 180-250 MB'tır (MRT ve tarayıcılar açık), port 3123 boştur.
+- 03:20 adım 3 (`ca0c3c96c`): Düşük bellekte derleme denenmemiş, test `next dev -p 3124`'e karşı `E2E_TABAN` ile koşulmuştur. İki kıdem
+  testi hidrasyon yarışıyla kırılmış, `aracAc()` hidrasyonu bekleyecek biçimde düzeltilmiştir. Hesaplama 9/9, `tsc` temiz, hızlı kapı
+  892 testte yeşildir. Geliştirme sunucusu kapatılmış, 3124 boştur. Zaman damgalı dosyalar geri alınmıştır.
