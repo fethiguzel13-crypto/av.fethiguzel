@@ -762,7 +762,12 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   Zaman damgalı dosyalar geri alınmıştır.
 - **G22 tamamlanmıştır** (PLAN.md'de `[x]`). Commit'ler `4df60d030` ve bu kaydı taşıyan belge commit'idir. Sıradaki: G23 (ders
   notları kalite dalgası 2, bağımlılığı G19 `[x]`), önce alt plan `gorevler/G23.md`.
-- G23 DEVAM EDİYOR (başladı 07:25). Alt plan `gorevler/G23.md` yazılmıştır, on ders seçilmiştir.
+- G23 DEVAM EDİYOR (başladı 07:25). Alt plan `gorevler/G23.md` yazılmıştır (`4b1ca79fd`), on ders seçilmiştir.
+- 07:35 adım 1 (`1cd58c2f7`): Ölçüm betiği `--dalga=2` almaktadır, başlangıçta on not 0-1/7'dir. Hızlı kapı 896 testte yeşildir,
+  ancak 07:36'da başlayıp 08:16'da bitmiştir. Adımların toplamı ~6 dk'dır. Sistem günlüğüne göre kapak 07:17'de kapanmış, makine
+  pilde modern beklemede yavaş çalışmış, kapak 08:06'da açılmıştır. Zaman damgalı dosyalar geri alınmıştır.
+- Oturum 08:17'de bitirilmiştir, ağaç temizdir, 3123 ve 3124 boştur. TestSprite: değişiklik yayında değildir, koşulmamıştır.
+- **G23 DEVAM EDİYOR.** Sıradaki: Adım 2, aile hukuku katmanı (`lib/ders-notlari/kanonik/aile-hukuku.mjs`, TMK).
 
 ## 2026-10-14 08:07 — çakışan oturum; G23'e dokunulmadı (başsız oturum, başladı 08:07)
 
