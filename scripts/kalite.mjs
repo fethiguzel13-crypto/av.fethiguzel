@@ -10,6 +10,7 @@
 
 import { spawnSync } from "child_process";
 import { mkdirSync, writeFileSync } from "fs";
+import { cpus, freemem } from "os";
 import { dirname, join } from "path";
 import { fileURLToPath, pathToFileURL } from "url";
 
@@ -39,6 +40,20 @@ export function testSayilari(cikti) {
   return pass ? { gecen: Number(pass[1]), kalan: Number(fail?.[1] ?? 0) } : null;
 }
 
+/**
+ * Derleme işçi sayısı: işçi başına ~250 MB boş bellek, en az 2, en çok çekirdek - 1 (Next.js varsayılanı).
+ * 2026-10-13/14'te 11 işçi ~1 GB boş bellekte sayfa başına 60 sn sınırını aşmış, derleme üç kez kırılmıştır.
+ */
+export function derlemeIsciSayisi(bosBayt, cekirdek) {
+  const ust = Math.max(1, cekirdek - 1);
+  return Math.min(ust, Math.max(2, Math.floor(bosBayt / 250e6)));
+}
+
+/** Adıma özgü ek ortam değişkenleri. İşçi sınırı yalnız yerel kapının derlemesine geçer; yayın derlemesi etkilenmez. */
+export function adimOrtami(adim, bosBayt = freemem(), cekirdek = cpus().length) {
+  return adim.ad === "derleme" ? { DERLEME_ISCI: String(derlemeIsciSayisi(bosBayt, cekirdek)) } : {};
+}
+
 /** Kırık adımın tam çıktısının yazıldığı dosya; ekrandaki 25 satırlık kuyruk derlemede uyarılarla dolup hatayı gizleyebilir. */
 export function kirikGunlukYolu(ad) {
   return `logs/kalite-${ad.replace(/[^a-z0-9-]+/gi, "-")}-kirik.log`;
@@ -46,7 +61,9 @@ export function kirikGunlukYolu(ad) {
 
 function calistir(adim) {
   const t0 = Date.now();
-  const r = spawnSync(adim.komut, { cwd: ROOT, shell: true, encoding: "utf8", maxBuffer: 64 * 1024 * 1024, env: { ...process.env, FORCE_COLOR: "0" } });
+  const ek = adimOrtami(adim);
+  if (ek.DERLEME_ISCI) process.stderr.write(`(${ek.DERLEME_ISCI} işçi) `);
+  const r = spawnSync(adim.komut, { cwd: ROOT, shell: true, encoding: "utf8", maxBuffer: 64 * 1024 * 1024, env: { ...process.env, ...ek, FORCE_COLOR: "0" } });
   const cikti = `${r.stdout || ""}\n${r.stderr || ""}`;
   if (r.status !== 0) {
     mkdirSync(join(ROOT, "logs"), { recursive: true });

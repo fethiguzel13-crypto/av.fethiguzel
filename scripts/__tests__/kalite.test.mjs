@@ -5,7 +5,7 @@
 import { describe, it } from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
-import { ADIMLAR, kirikGunlukYolu, testSayilari } from "../kalite.mjs";
+import { ADIMLAR, adimOrtami, derlemeIsciSayisi, kirikGunlukYolu, testSayilari } from "../kalite.mjs";
 import { hataHaritasi, karsilastir } from "../lint-cirir.mjs";
 
 describe("kalite kapısı", () => {
@@ -44,6 +44,21 @@ describe("kalite kapısı", () => {
     assert.ok(e2e > i, "test:e2e derlemeden sonra gelmeli");
     assert.equal(ADIMLAR[e2e].tam, true);
     assert.match(ADIMLAR[e2e].komut, /test:e2e/);
+  });
+
+  it("derleme işçi sayısı boş belleğe göre sınırlanır (2026-10-13/14: 11 işçi ~1 GB boş bellekte sayfa başına 60 sn'yi aştı)", () => {
+    assert.equal(derlemeIsciSayisi(1.06e9, 12), 4);
+    assert.equal(derlemeIsciSayisi(458e6, 12), 2);
+    assert.equal(derlemeIsciSayisi(8e9, 12), 11);
+    assert.equal(derlemeIsciSayisi(8e9, 4), 3);
+    assert.equal(derlemeIsciSayisi(8e9, 1), 1);
+  });
+
+  it("işçi sınırı yalnız derleme adımına ortam değişkeniyle geçer; next.config yalnız bu değişken varsa uygular", () => {
+    assert.deepEqual(adimOrtami({ ad: "derleme" }, 1.06e9, 12), { DERLEME_ISCI: "4" });
+    assert.deepEqual(adimOrtami({ ad: "test:e2e" }, 1.06e9, 12), {});
+    const config = readFileSync(new URL("../../next.config.ts", import.meta.url), "utf8");
+    assert.match(config, /process\.env\.DERLEME_ISCI\s*&&\s*\{\s*experimental:\s*\{\s*cpus:\s*Number\(process\.env\.DERLEME_ISCI\)/);
   });
 });
 
