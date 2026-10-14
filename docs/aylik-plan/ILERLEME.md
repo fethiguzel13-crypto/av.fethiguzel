@@ -762,3 +762,4 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   Zaman damgalı dosyalar geri alınmıştır.
 - **G22 tamamlanmıştır** (PLAN.md'de `[x]`). Commit'ler `4df60d030` ve bu kaydı taşıyan belge commit'idir. Sıradaki: G23 (ders
   notları kalite dalgası 2, bağımlılığı G19 `[x]`), önce alt plan `gorevler/G23.md`.
+- G23 DEVAM EDİYOR (başladı 07:25). Alt plan `gorevler/G23.md` yazılmıştır, on ders seçilmiştir.
