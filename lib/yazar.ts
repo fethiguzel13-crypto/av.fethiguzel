@@ -25,6 +25,27 @@ export const YAZAR = {
   diller: PROFILE.languages.map((l) => l.code),
 } as const;
 
+/** Yayımlanmış kitaplar (yayın sırasıyla). */
+export const ESERLER = PROFILE.books;
+export type Eser = (typeof ESERLER)[number];
+
+/** Kitap sayfası ve profil sayfaları için Book düğümü; künye alanları yalnız biliniyorsa yazılır. */
+export function kitapLd(k: Eser) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Book' as const,
+    name: k.title,
+    ...('subtitle' in k ? { alternativeHeadline: k.subtitle } : {}),
+    author: yazarRef(),
+    publisher: { '@type': 'Organization' as const, name: k.publisher },
+    url: k.url,
+    inLanguage: 'tr',
+    ...('isbn' in k
+      ? { isbn: k.isbn, numberOfPages: k.numberOfPages, datePublished: k.datePublished, bookEdition: '1', bookFormat: 'https://schema.org/Paperback' }
+      : {}),
+  };
+}
+
 /** Makale, şerh, rehber, ders notu, karar ve kavram sayfalarındaki `author` alanı. */
 export function yazarRef() {
   return { '@type': 'Person' as const, '@id': YAZAR_ID, name: PROFILE.name, url: YAZAR_SAYFA };
@@ -38,9 +59,15 @@ export function yazarPersonDugumu() {
     alternateName: PROFILE.alternateNames.filter((ad) => ad !== PROFILE.name),
     jobTitle: PROFILE.jobTitle,
     description:
-      'Van ve Erciş merkezli avukat; özel hukuk doktora çalışmaları; e-duruşma monografisi yazarı; iyi düzeyde İngilizce. Medeni, borçlar, ticaret, ceza ve usul hukuku.',
-    image: `${SITE_URL}${PROFILE.photo}`,
+      'Erciş / Van merkezli avukat ve arabulucu; özel hukuk doktora çalışmaları; e-duruşma ve arsa payı karşılığı inşaat sözleşmesi monografilerinin yazarı; iyi düzeyde İngilizce.',
+    image: {
+      '@type': 'ImageObject',
+      url: `${SITE_URL}${PROFILE.photo}`,
+      contentUrl: `${SITE_URL}${PROFILE.photo}`,
+      caption: `${PROFILE.name} — avukat, Erciş / Van`,
+    },
     email: PROFILE.email,
+    telephone: PROFILE.phone.e164,
     knowsLanguage: [...YAZAR.diller],
     address: {
       '@type': 'PostalAddress',
@@ -93,7 +120,7 @@ export function yazarKutusuVerisi({ guncelleme, kaynaklar }: YazarKutusuGirdi = 
   return {
     ad: YAZAR.ad,
     sayfa: YAZAR.sayfa,
-    kimlik: `${YAZAR.akademik} · “${YAZAR.eser.kisaAd}” monografisi (${YAZAR.eser.yayinevi})`,
+    kimlik: `${YAZAR.akademik} · ${ESERLER.map((k) => `“${k.shortTitle}”`).join(' ve ')} monografileri`,
     guncelleme: tarihVerisi(guncelleme),
     // Bağlantı yalnız http(s) ya da site içi yol; `javascript:`, `//başka-alan` gibi adresler düz metne iner.
     kaynaklar: (kaynaklar ?? [])

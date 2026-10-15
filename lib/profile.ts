@@ -82,6 +82,44 @@ export const PROFILE = {
         summary:
             'Medeni usul hukukunda e-duruşma kurumunu teorik ve pratik boyutlarıyla ele alan monografik eser. Seçkin Yayıncılık ve hukuk kitabevlerinde.',
     },
+    /**
+     * Yayımlanmış monografiler, yayın sırasıyla. Künyeler yayınevi/kitabevi ürün sayfasından (2026-10-15); `book`
+     * ilk kitabı taşıyan eski alan olarak kalır.
+     */
+    books: [
+        {
+            title: 'Medeni Usul Hukukunda Ses ve Görüntünün Nakledilmesi Yoluyla Duruşma İcrası (e-duruşma)',
+            shortTitle: 'e-duruşma',
+            publisher: 'Seçkin Yayıncılık',
+            url: 'https://www.seckin.com.tr/kitap/614840900',
+            summary:
+                'Medeni usul hukukunda e-duruşma kurumunu teorik ve pratik boyutlarıyla ele alan monografik eser. Seçkin Yayıncılık ve hukuk kitabevlerinde.',
+            satis: [
+                { ad: 'Seçkin Yayıncılık', url: 'https://www.seckin.com.tr/kitap/614840900' },
+                { ad: 'Pelikan Kitabevi', url: 'https://www.pelikankitabevi.com.tr' },
+                { ad: 'Filiz Kitabevi', url: 'https://www.filizkitabevi.com' },
+                { ad: 'Legal Kitabevi', url: 'https://www.legalkitabevi.com' },
+            ],
+        },
+        {
+            title: 'Arsa Payı Karşılığı İnşaat Sözleşmesinde Üçüncü Kişilerin Ayni Hak İktisabı',
+            subtitle: '16.05.2025 Tarihli İçtihadı Birleştirme Kararı Işığında Teori ve Uygulama',
+            shortTitle: 'Arsa payı karşılığı inşaat',
+            publisher: 'Filiz Kitabevi',
+            datePublished: '2026-09',
+            isbn: '9786255007162',
+            numberOfPages: 430,
+            url: 'https://www.filizkitabevi.com/arsa-payi-karsiligi-insaat-sozlesmesinde-ucuncu-kisilerin-ayni-hak-iktisabi',
+            summary:
+                'Arsa payı karşılığı inşaat sözleşmesinde üçüncü kişilerin ayni hak iktisabını 16.05.2025 tarihli içtihadı birleştirme kararı ışığında teori ve uygulama yönünden inceleyen monografi. Sözleşme ve devir, üçüncü kişinin korunması, uygulama sorunları ve usul hukuku bölümlerinden oluşur; dilekçe örnekleri ve kontrol listeleri içerir. 1. baskı, Eylül 2026, 430 sayfa.',
+            satis: [
+                {
+                    ad: 'Filiz Kitabevi',
+                    url: 'https://www.filizkitabevi.com/arsa-payi-karsiligi-insaat-sozlesmesinde-ucuncu-kisilerin-ayni-hak-iktisabi',
+                },
+            ],
+        },
+    ],
     /** Bilgilendirme odaklı hizmet alanları — reklam vaadi yok */
     practiceAreas: [
         'Ceza hukuku',
@@ -138,6 +176,7 @@ export const SOCIAL_SAME_AS = [
     `${SITE_URL}/akademik-profil`,
     `${SITE_URL}/eserlerim`,
     PROFILE.book.url,
+    PROFILE.books[1].url,
     PROFILE.social.instagram.url,
     PROFILE.social.twitter.url,
     'https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk',
@@ -145,7 +184,7 @@ export const SOCIAL_SAME_AS = [
 
 export const CREDENTIAL_BULLETS = [
     `${PROFILE.academic.headline} — medeni, borçlar, ticaret ve usul hukuku ekseninde akademik araştırma.`,
-    `Yayımlanmış eser: “${PROFILE.book.shortTitle}” monografisi (${PROFILE.book.publisher}).`,
+    `Yayımlanmış eserler: ${PROFILE.books.map((k) => `“${k.shortTitle}” (${k.publisher})`).join(' ve ')} monografileri.`,
     'İyi düzeyde İngilizce; yabancılar, uluslararası belgeler ve İngilizce yazışma gerektiren dosyalarda iletişim imkânı.',
     'Kanun metni, akademik şerh ve Yargıtay kararlarını bir arada sunan açık erişimli hukuk portalının kurucusu.',
     `Merkez ofis: Erciş / Van; Doğu Anadolu ve ihtiyaç halinde diğer illerde dosya takibi.`,

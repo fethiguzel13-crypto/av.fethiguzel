@@ -1,12 +1,12 @@
-﻿﻿﻿﻿# Av. Fethi Güzel Hukuk Portalı
+# Av. Fethi Güzel Hukuk Portalı
 
 > Türkiye merkezli, açık erişimli dijital hukuk kütüphanesi ve avukatlık bilgilendirme sitesi.
 > Kanun maddeleri, akademik şerhler, günlük içtihat, hukuki hesaplama araçları.
 > Ücretsiz; kayıt zorunlu değil. Reklam yasağına uygun nesnel bilgilendirme.
 
 Site: https://avfethiguzel.com
-İletişim: av.fethiguzel@hotmail.com
-Ofis: Vanyolu Mah. Karayusuf Bey Bulvarı, Zenginler İş Hanı Kat 4 No 26, Erciş / Van
+İletişim: fethiguzel@hotmail.com · Telefon: 0545 409 54 42 (+90 545 409 54 42)
+Ofis: Van Yolu Mah. Karayusuf Bey Bulvarı, Zenginler İş Hanı Kat 5 Daire 33, Erciş / Van
 Kurucu: Av. Fethi Güzel (avukat & arabulucu)
 Instagram: https://www.instagram.com/av.fethiguzel/ (@av.fethiguzel)
 X / Twitter: https://x.com/avfethiguzel (@avfethiguzel)
@@ -15,6 +15,7 @@ X / Twitter: https://x.com/avfethiguzel (@avfethiguzel)
 
 - Özel hukuk alanında doktora çalışmaları (medeni, borçlar, ticaret, usul ekseni)
 - Yayımlanmış monografi: Medeni Usul Hukukunda Ses ve Görüntünün Nakledilmesi Yoluyla Duruşma İcrası (e-duruşma) — Seçkin Yayıncılık — https://www.seckin.com.tr/kitap/614840900
+- Yayımlanmış monografi: Arsa Payı Karşılığı İnşaat Sözleşmesinde Üçüncü Kişilerin Ayni Hak İktisabı — 16.05.2025 Tarihli İçtihadı Birleştirme Kararı Işığında Teori ve Uygulama — Filiz Kitabevi, 1. baskı, Eylül 2026, 430 s., ISBN 9786255007162 — https://www.filizkitabevi.com/arsa-payi-karsiligi-insaat-sozlesmesinde-ucuncu-kisilerin-ayni-hak-iktisabi
 - Dil: Türkçe (ana dil); İngilizce (iyi düzey / professional working proficiency)
 - Açık erişim portal: 45+ kanun, 7.800+ madde + akademik şerh, 554 vatandaş SEO rehberi (/bilgi; 53 ana rehber + spoke hub-spoke), 30 hesaplama aracı
 - Arama niyetleri: kanun maddesi, mevzuat arama, kıdem/nafaka/icra/boşanma/kira vb. vatandaş soruları
