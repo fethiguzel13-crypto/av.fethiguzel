@@ -780,3 +780,47 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   satırında `-p` ve `OTONOM.md` taşıyan canlı `claude.exe` arar, bulursa "başsız oturum sürüyor" yazıp atlar. Süzgeç o an 4308 ve
   10064'ü bulmuş, IDE süreçlerini dışarıda bırakmıştır. BOM ve CRLF korunmuş, `ParseFile` 0 hata vermiştir.
 - Sıradaki: G23, 06:17 oturumunun kaydından devam edilir.
+
+## 2026-10-14 12:27 — G23 DEVAM EDİYOR (başsız oturum, başladı 12:27)
+
+- G23 DEVAM EDİYOR (başladı 12:27, adım 2: aile hukuku). Devralma: `DURAKLAT` yok, ağaç temiz, başka başsız oturum yoktur (yalnız IDE
+  oturumu açıktır). Makine prizdedir (%56), boş bellek 786 MB'tır, 3123 ve 3124 boştur.
+- 13:01 adım 2: aile hukuku (`f19a3a51b`), borçlar özel (`258244281`) ve medeni başlangıç (`e4e85f767`) katmanları ve birer şeması
+  yazılmıştır, üçü de 7/7'dir. Her commit'ten önce hızlı kapı 897 testte yeşildir. Sıradaki: kıymetli evrak (TTK).
+- 13:09: Kıymetli evrak katmanı ve çekte ibraz şeması commit edilmiştir (`61771322c`). Oturum 13:11'de sigorta katmanını yazarken
+  kullanım sınırıyla kesilmiştir (döküm `05b8c195…jsonl`, `"error":"rate_limit"`). Katman dosyası izlenmeyen, test listesi ve bu kayıt
+  commit'siz kalmıştır.
+
+## 2026-10-14 22:05 — G23 DEVAM EDİYOR (başsız oturum, başladı 22:05)
+
+- G23 DEVAM EDİYOR (başladı 22:05, adım 2: sigorta hukuku). Devralma: `DURAKLAT` yok, başka başsız oturum yoktur (IDE oturumu ve
+  claude-mem gözlemcisi açıktır). Ağaçtaki üç değişiklik 13:11'de kesilen G23 oturumuna aittir ve sürdürülmektedir. Makine pildedir
+  (%62), boş bellek 415 MB'tır, 3123 ve 3124 boştur. Bu bellekle tam kapı kaldırılamayacağından yalnız hızlı kapı koşulur.
+- 22:25 adım 2 (`f76aea6b4`): Sigorta katmanının bütün önermeleri TTK m.1420-1490 metniyle tek tek karşılaştırılmış, m.1421 ile
+  m.1430-1431 arasında çelişki görülmemiştir. Katman kaydedilmiş (önce kırmızı test), `rizikodan-tazminata` şeması (TTK m.1446, 1427,
+  1472, 1420) eklenmiştir. Temsilci not 7/7'dir, dalga 2'de beş ders tamamdır. Hızlı kapı 897 testte yeşildir, ancak pilde ve düşük
+  bellekte ~22 dk sürmüştür (`logs/g23-hizli-2210.log`). Zaman damgalı `priority-sitemap.xml` geri alınmıştır.
+- 22:35: Ceza özel katmanı ve hırsızlıkta inceleme sırası şeması commit edilmiştir (`27e24859f`). Ceza muhakemesi katmanı yazılıp
+  kaydedilmiş, hızlı kapı lint adımındayken makine 22:38'de uykuya geçmiştir (Kernel-Power 42, «Application API»). Katman dosyası
+  izlenmeyen, kayıt, test listesi ve bu kayıt commit'siz kalmıştır.
+
+## 2026-10-15 09:43 — G23 DEVAM EDİYOR (başsız oturum, başladı 09:43)
+
+- G23 DEVAM EDİYOR (başladı 09:43, adım 2: ceza muhakemesi). Devralma: `DURAKLAT` yok, başka başsız oturum yoktur (IDE oturumu ve
+  claude-mem gözlemcisi açıktır). Ağaçtaki dört değişiklik 22:38'de kesilen G23 oturumuna aittir ve sürdürülmektedir. Makine 09:36'da
+  uyanmıştır, pildedir (%38) ve boş bellek 558 MB'tır, 3123 ve 3124 boştur. Pil %50'nin altında olduğundan tam kapı başlatılmaz.
+- 10:06 adım 2 (`053693254`): Ceza muhakemesi katmanının 22 dayanağı ve metindeki fıkra-bent göndermeleri CMK metniyle tek tek
+  karşılaştırılmıştır. Uzlaştırma olayındaki "komşunun bahçesinden bisiklet" kurgusu TCK m.142/2-h kapsamında nitelikli hırsızlık
+  sayılabileceğinden ve bu hâlde uzlaştırma dışında kalacağından olay, ödünç bisikletin satılması biçiminde yeniden yazılmıştır. Sonuç
+  artık hırsızlık ve güveni kötüye kullanma nitelendirmelerinin ikisinde de aynıdır (CMK m.253/1-b-6, 7, TCK m.155/1). Temsilci not 7/7,
+  hızlı kapı 897 testte yeşildir (`logs/g23-hizli-0950.log`, pilde ~25 dk). Zaman damgalı `priority-sitemap.xml` geri alınmıştır.
+- 10:12 adım 2: Tüketici hukuku katmanı yazılmış ve kaydedilmiştir (önce kırmızı test). Dört olay ayıplı malda altı aylık karine ve
+  değiştirme hakkını, mesafeli sözleşmede bildirilmeyen cayma hakkını, tüketici kredisinde muacceliyet koşullarını ve hakem heyeti
+  sınırının üzerindeki uyuşmazlıkta dava şartı arabuluculuğu işler. 30 dayanak TKHK ve 6325 sayılı Kanun m.18/A metninde aynen
+  geçmektedir. Her yıl yeniden değerlenen hakem heyeti sınırı tutar olarak yazılmamıştır (TKHK m.68/4). Temsilci not 7/7'dir.
+  Aynı kapıya ceza muhakemesi ve ceza özel katmanlarındaki üç hikâye kipi düzeltmesi (YAZIM-DILI §12.2) de girmiştir. Hızlı kapı
+  pil %26'dayken başlatılmıştır (`logs/g23-hizli-1013.log`).
+- 10:16 (`e36310de6`, `da66a015d`): Hızlı kapı 897 testte yeşildir ve bu kez ~6 dk sürmüştür (pil %26 → %20). Tüketici katmanı ile
+  hikâye kipi düzeltmesi ayrı commit edilmiştir. Kapı sürerken başsız olmayan bir oturum 10:14'te `80f2774d2` (büro telefonu: `lib/profile.ts`,
+  `components/Footer.tsx`, `app/layout.tsx`, `app/avukat-fethi-guzel/page.tsx`) commit'ini atmıştır. Bu dosyalara dokunulmamıştır.
+  G23 commit'leri yalnız kendi dosyalarını içerir.
