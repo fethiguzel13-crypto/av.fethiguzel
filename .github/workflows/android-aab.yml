@@ -112,12 +112,13 @@ jobs:
 
       # Capacitor 7 kaynak uyumluluğu Java 21. Önceki sürüm Java 17
       # kuruyordu ve derleme "invalid source release: 21" ile kırılıyordu.
-      - uses: actions/setup-java@v4
+      - uses: actions/setup-java@v5
         with:
           distribution: temurin
           java-version: '21'
 
-      - uses: android-actions/setup-android@v3
+      # v3 kaldırılan "tools" paketini kurmaya çalışıp düşüyordu (Google, Eylül 2026); v4.0.2 düzeltti (2026-10-15).
+      - uses: android-actions/setup-android@v4
 
       - uses: actions/download-artifact@v4
         with:
