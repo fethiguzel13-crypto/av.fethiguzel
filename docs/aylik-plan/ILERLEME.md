@@ -878,7 +878,10 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   20:32 oturumuna aittir ve devralınmıştır. Makine pildedir (%47, şarj olmuyor), boş bellek 365 MB'tır, 3123 ve 3124 boştur, çalışan
   `node` süreci yoktur. Pil %50'nin altında olduğundan tam kapı başlatılmamıştır (OTONOM.md, uyku tuzağı).
 - 22:05: 20:32 oturumunun kaydı ve raporu tamamlanmış, derlemenin yeniden ürettiği üç harita ile iki veri dosyası geri alınmış, G23 belgeleri
-  commit edilmiştir. Kod değişikliği olmadığından hızlı kapı koşulmamıştır.
+  commit edilmiştir (`e253dcc9e`). Kod değişikliği olmadığından hızlı kapı koşulmamıştır.
+- 22:15: Kısa iş olarak G24 (erişilebilirlik) alt planı `gorevler/G24.md`'ye yazılmıştır, görev başlatılmamıştır. Ön bulguya göre
+  atlama bağlantısının hedefi (`#main-content`) ortak yerleşimde değil sayfa dosyalarındadır, ders notu sayfaları, `/ara` ve
+  `/gizlilik` için karşılık bulunamamıştır. Bu durum G24'ün 3. adımında tarayıcıda doğrulanacaktır.
 - **G23 DEVAM EDİYOR.** Kabul ölçütünden yalnız `npm run kalite`'nin yeşil sonucu eksiktir. Sıradaki oturum makine prizdeyse ya da pil
   %50'nin üzerindeyse önce boş belleği denetler, sonra tam kapıyı ön planda bitişini bekleyerek koşar. Kapı yeşilse PLAN.md'de G23 `[x]`
   yapılır ve G24'e geçilir.
