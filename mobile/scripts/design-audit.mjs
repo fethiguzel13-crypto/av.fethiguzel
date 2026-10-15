@@ -17,8 +17,18 @@ import { join, extname } from 'node:path';
 import { harfAraligiDar, harfAraligiEm } from './lib/tasarim-olcut.mjs';
 
 const WWW = 'mobile/flavors/asistan/www';
-const OUT = process.argv[2] || 'mobile/.design-audit';
-const ONLY = process.argv.slice(3);
+// Bayraklar konumsal argümandan ayrılır: önceden `--only=karar-kilitli` çıktı klasörü sanılıp
+// bu adla bir klasör açılmış ve 38 ekran görüntüsü depoya girmişti (2026-10-15).
+const ARGS = process.argv.slice(2);
+const BAYRAK = ARGS.filter((a) => a.startsWith('--'));
+const KONUM = ARGS.filter((a) => !a.startsWith('--'));
+const BILINMEYEN = BAYRAK.filter((a) => !a.startsWith('--only='));
+if (BILINMEYEN.length) {
+  console.error(`Bilinmeyen bayrak: ${BILINMEYEN.join(' ')} — kullanım: design-audit.mjs [çıktı-klasörü] [--only=ad1,ad2] [ad…]`);
+  process.exit(2);
+}
+const OUT = KONUM[0] || 'mobile/.design-audit';
+const ONLY = [...KONUM.slice(1), ...BAYRAK.flatMap((a) => a.slice('--only='.length).split(',').filter(Boolean))];
 
 mkdirSync(OUT, { recursive: true });
 
