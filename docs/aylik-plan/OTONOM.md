@@ -79,7 +79,9 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
   öldürülünce tip adımından sonraki her adımı "KIRIK 0 sn" ve "toplam 0 test" diye yazdı). Devralmada her adım 0 sn ise
   kırmızı test aranmaz, kapı yeniden çalıştırılır. Tam kapıyı oturumun sonuna bırakma; ~15 dk sürer. 21:33'te aynısı
   sınır olmadan tekrarladı: başsız oturum arka plan işini başlatıp turu (son yanıtı) bitirince `claude -p` süreci kapanır,
-  iş de ölür. Arka plandaki kapının bitiş bildirimi gelmeden son yanıt yazılmaz.
+  iş de ölür. Arka plandaki kapının bitiş bildirimi gelmeden son yanıt yazılmaz. Ağ kesintisi de aynı sonucu doğurur (2026-10-15
+  21:17: API'ye on denemede `ENOTFOUND`, oturum kapandı, derleme 497. sn'de iletisiz öldü). Derleme günlüğü hata satırı olmadan
+  kesilmişse önce son dökümün sonunda `"error"` aranır.
 - **Kesilen oturumdan kalan `next start`** (2026-10-06 11:25: 06:38'de başlatılan sunucu 3123'ü tutuyordu). Yeni `next start`
   `EADDRINUSE` ile ölür, ama eski süreç yanıt verdiği için ölçüm eski derlemeyi ve başlatıldığı andaki `next.config`'i
   (başlık kuralları dahil) sınar. Sunucu başlatmadan önce `netstat -ano | grep ":3123 "` ile portu kontrol et; tutan süreç
