@@ -119,6 +119,9 @@ const nextConfig: NextConfig = {
   // notes (107MB) + public/data (112MB) + seo-madde (78MB) into content-pack → OOM/size fail.
   // Use '*' key (Next 16) so excludes apply broadly; route includes below re-add only notes.
   outputFileTracingExcludes: {
+    // Paylaşım kartları derlemede üretilir (dynamicParams = false); çalışma anında not okunmaz. getNote üzerinden
+    // izlenen 1 GB'lık not klasörü bu fonksiyona girmesin.
+    "/og/**": ["./lib/ders-notlari/generated/**/*"],
     "*": [
       "./content/**/*",
       "./content-packs/**/*",

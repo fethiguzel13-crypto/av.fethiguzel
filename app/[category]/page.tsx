@@ -22,7 +22,6 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
   return {
     title: `${cat.name} – ${cat.kanunAdi}`,
     description: cat.description,
-    keywords: cat.seoKeywords.join(', '),
     ...paylasimMeta({
       baslik: `${cat.name} | Av. Fethi Güzel`,
       aciklama: cat.description,

@@ -4,34 +4,21 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import Kirinti from '@/components/Kirinti';
 import { ShoppingCart, ArrowRight } from 'lucide-react';
-import { YAZAR, yazarRef } from '@/lib/yazar';
+import { YAZAR, ESERLER, kitapLd } from '@/lib/yazar';
 import { siteSayilari, tr, yaklasik } from '@/lib/site-stats';
 
 export default function EserlerimPage() {
-  const books = [
-    {
-      title: YAZAR.eser.ad,
-      subtitle: `${YAZAR.ad} · ${YAZAR.eser.yayinevi}`,
-      author: YAZAR.ad,
-      desc: YAZAR.eser.ozet,
-      links: [
-        { name: YAZAR.eser.yayinevi, url: YAZAR.eser.url },
-        { name: "Pelikan Kitabevi", url: "https://www.pelikankitabevi.com.tr" },
-        { name: "Filiz Kitabevi", url: "https://www.filizkitabevi.com" },
-        { name: "Legal Kitabevi", url: "https://www.legalkitabevi.com" }
-      ]
-    }
-  ];
+  // Yeni kitap üstte; künye ve satış kanalları lib/profile.ts → books.
+  const books = [...ESERLER].reverse().map((k) => ({
+    title: k.title,
+    subtitle: `${'subtitle' in k ? `${k.subtitle} · ` : ''}${YAZAR.ad} · ${k.publisher}`,
+    kisaAd: k.shortTitle,
+    desc: k.summary,
+    isbn: 'isbn' in k ? k.isbn : null,
+    links: k.satis.map((s) => ({ name: s.ad, url: s.url })),
+  }));
 
-  const bookLd = {
-    '@context': 'https://schema.org',
-    '@type': 'Book',
-    name: books[0].title,
-    author: yazarRef(),
-    publisher: { '@type': 'Organization', name: YAZAR.eser.yayinevi },
-    url: YAZAR.eser.url,
-    inLanguage: 'tr',
-  };
+  const bookLd = ESERLER.map(kitapLd);
 
   return (
     <div className="bg-cream min-h-screen">
@@ -75,10 +62,10 @@ export default function EserlerimPage() {
                   <div className="absolute inset-0 p-12 flex flex-col justify-between text-center">
                     <div className="space-y-4">
                       <div className="w-12 h-1 bg-accent-solid mx-auto"></div>
-                      <h4 className="text-accent font-heading text-4xl font-bold">{YAZAR.eser.kisaAd}</h4>
+                      <h4 className="text-accent font-heading text-3xl font-bold leading-tight">{book.kisaAd}</h4>
                     </div>
                     <p className="text-cream/55 text-[10px] font-mono leading-relaxed uppercase tracking-widest">
-                      {YAZAR.eser.ad.replace(/ Yoluyla.*$/, '')}
+                      {book.title.replace(/ Yoluyla.*$/, '')}
                     </p>
                     <div className="text-cream/80 font-heading text-sm border-t border-cream/10 pt-4">
                       {YAZAR.ad.toLocaleUpperCase('tr-TR')}
@@ -93,6 +80,7 @@ export default function EserlerimPage() {
                 {book.title}
               </h3>
               <p className="text-accent-ink font-heading text-xl mb-8">{book.subtitle}</p>
+              {book.isbn && <p className="text-ink-muted text-sm font-mono mb-6">ISBN {book.isbn}</p>}
               <p className="text-ink-muted text-lg leading-relaxed mb-12 font-sans">
                 {book.desc}
               </p>

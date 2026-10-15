@@ -21,16 +21,6 @@ export const metadata: Metadata = {
   },
   description:
     `Kanun maddesi arama: TBK 13, TMK, TCK, HMK, İİK… ${yaklasik(N.madde, 100)} madde metni + akademik şerh. Av. Fethi Güzel Hukuk Portalı.`,
-  keywords: [
-    'kanun maddesi arama',
-    'kanun maddesi',
-    'mevzuat arama',
-    'TBK 13',
-    'TBK madde ara',
-    'TCK madde ara',
-    'madde metni',
-    'akademik şerh arama',
-  ],
   alternates: { canonical: 'https://www.avfethiguzel.com/ara' },
   ...paylasimMeta({
     baslik: 'Kanun Maddesi Arama | Av. Fethi Güzel',

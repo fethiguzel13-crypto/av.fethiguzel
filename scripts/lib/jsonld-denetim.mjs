@@ -15,7 +15,8 @@ export const PERSON_ID = "https://www.avfethiguzel.com/#person";
 
 const MAKALE = new Set(["Article", "ScholarlyArticle", "NewsArticle", "BlogPosting", "TechArticle", "Report"]);
 const TARIHLER = ["datePublished", "dateModified", "dateCreated", "uploadDate"];
-const ISO = /^\d{4}-\d{2}-\d{2}(T\d{2}:\d{2}(:\d{2}(\.\d+)?)?(Z|[+-]\d{2}:?\d{2})?)?$/;
+// ISO 8601 azaltılmış hassasiyet de geçerlidir (schema.org Date): kitabevi yalnız ay verirse gün uydurulmaz.
+const ISO = /^\d{4}(-\d{2}(-\d{2}(T\d{2}:\d{2}(:\d{2}(\.\d+)?)?(Z|[+-]\d{2}:?\d{2})?)?)?)?$/;
 
 const dolu = (v) => typeof v === "string" && v.trim().length > 0;
 const turler = (o) => (Array.isArray(o["@type"]) ? o["@type"] : o["@type"] ? [o["@type"]] : []);

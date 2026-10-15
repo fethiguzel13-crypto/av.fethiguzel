@@ -45,7 +45,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     // Veri başlığı "… | Av. Fethi Güzel" ekiyle geliyor; kök şablon eki yeniden ekler (G10). OG/Twitter ekli kalır.
     title: sayfaBasligi(title),
     description,
-    keywords: quality.publishable ? a.keywords : undefined,
     alternates: { canonical },
     // Yayında olmayan rehber kendi kartını almaz (kart kümesinde yok); türün genel kartı (G20).
     // og:url canonical ile aynıdır; madde özetinde canonical madde sayfasıdır ve paylaşım oraya toplanır (G20).

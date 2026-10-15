@@ -8,7 +8,7 @@ import Footer from '@/components/Footer'
 import Kirinti from '@/components/Kirinti';
 import { Scale, MapPin, BookOpen, Gavel, Mail, Phone, GraduationCap, Globe2, ExternalLink } from 'lucide-react'
 import { PROFILE, BOLGELER, SITE_URL, SOCIAL_SAME_AS } from '@/lib/profile'
-import { YAZAR, yazarRef } from '@/lib/yazar';
+import { YAZAR, ESERLER, kitapLd, yazarRef } from '@/lib/yazar';
 import { siteSayilari, tr, yaklasik } from '@/lib/site-stats';
 
 const photoPath = PROFILE.photo
@@ -18,15 +18,6 @@ export const metadata: Metadata = {
     title: 'Avukat Fethi Güzel | Erciş / Van · Özel Hukuk · e-Duruşma',
     description:
         'Av. Fethi Güzel — Van ili Erciş ilçesinde avukat ve arabulucu. Özel hukuk doktora çalışmaları, yayımlanmış e-duruşma kitabı, iyi düzeyde İngilizce. Mevzuat şerhi, dava vekilliği, arabuluculuk.',
-    keywords: [
-        'Fethi Güzel',
-        'Avukat Fethi Güzel',
-        'Van Erciş',
-        'özel hukuk doktora',
-        'e-duruşma kitabı',
-        'arabulucu',
-        'hukuk portalı',
-    ].join(', '),
     alternates: { canonical: `${SITE_URL}/avukat-fethi-guzel` },
     // Portre JSON-LD Person'da kalır; paylaşımda 1200×630 yazar kartı (G20). Kare portre büyük kartta kırpılıyordu.
     ...paylasimMeta({
@@ -74,15 +65,7 @@ export default function AvukatFethiGuzelPage() {
         sameAs: [...SOCIAL_SAME_AS],
     }
 
-    const bookLd = {
-        '@context': 'https://schema.org',
-        '@type': 'Book',
-        name: YAZAR.eser.ad,
-        author: yazarRef(),
-        publisher: { '@type': 'Organization', name: YAZAR.eser.yayinevi },
-        url: YAZAR.eser.url,
-        inLanguage: 'tr',
-    }
+    const bookLd = ESERLER.map(kitapLd)
 
     const imageLd = {
         '@context': 'https://schema.org',
@@ -156,8 +139,8 @@ export default function AvukatFethiGuzelPage() {
                             <li className="flex gap-3">
                                 <BookOpen className="text-accent shrink-0 mt-0.5" size={18} />
                                 <span>
-                                    <strong className="text-charcoal">Kitap:</strong> {YAZAR.eser.kisaAd} —{' '}
-                                    {YAZAR.eser.yayinevi}
+                                    <strong className="text-charcoal">Kitaplar:</strong>{' '}
+                                    {ESERLER.map((k) => `${k.shortTitle} (${k.publisher})`).join(' · ')}
                                 </span>
                             </li>
                             <li className="flex gap-3">
@@ -249,16 +232,20 @@ export default function AvukatFethiGuzelPage() {
                         </div>
 
                         <div className="bg-white border border-charcoal/[0.08] rounded-2xl p-5 sm:p-6">
-                            <h2 className="font-heading font-bold text-charcoal mb-3 text-lg">Yayımlanmış eser</h2>
-                            <p className="text-charcoal/70 text-sm leading-relaxed mb-3">{YAZAR.eser.ad}</p>
-                            <a
-                                href={YAZAR.eser.url}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="inline-flex items-center gap-1.5 text-accent-ink text-sm font-bold hover:underline"
-                            >
-                                {YAZAR.eser.yayinevi} <ExternalLink size={14} />
-                            </a>
+                            <h2 className="font-heading font-bold text-charcoal mb-3 text-lg">Yayımlanmış eserler</h2>
+                            {ESERLER.map((k) => (
+                                <div key={k.url} className="mb-4 last:mb-0">
+                                    <p className="text-charcoal/70 text-sm leading-relaxed mb-1">{k.title}</p>
+                                    <a
+                                        href={k.url}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        className="inline-flex items-center gap-1.5 text-accent-ink text-sm font-bold hover:underline"
+                                    >
+                                        {k.publisher} <ExternalLink size={14} />
+                                    </a>
+                                </div>
+                            ))}
                         </div>
                     </div>
                 </div>

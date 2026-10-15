@@ -16,14 +16,6 @@ export const metadata: Metadata = {
   },
   description:
     'Van, Bitlis, Ağrı ve ilçelerine dair fotoğraflı denemeler: göl, taş, ova, liman, deprem belleği. Reklam değil; mekânın ruhunu anlatan uzun okumalar.',
-  keywords: [
-    'Van Gölü deneme',
-    'Ahlat Selçuklu mezarlığı yazı',
-    'Bitlis vadi',
-    'Tatvan feribot',
-    'Ağrı Dağı deneme',
-    'Doğu Anadolu bellek',
-  ],
   alternates: { canonical: `${SITE_URL}/bolge-yazi` },
   robots: { index: true, follow: true },
   ...paylasimMeta({

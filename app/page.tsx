@@ -23,16 +23,6 @@ export const metadata: Metadata = {
   },
   description:
     `Türk hukuku araştırma kütüphanesi: ${tr(N.kanun)} kanun, ${yaklasik(N.madde, 100)} madde metni, ${yaklasik(N.karar, 100)} Yargıtay kararı, akademik şerh, günlük içtihat ve vatandaş rehberi. Av. Fethi Güzel.`,
-  keywords: [
-    'kanun maddesi',
-    'kanun maddesi arama',
-    'TBK 13',
-    'mevzuat arama',
-    'Avukat Fethi Güzel',
-    'akademik şerh',
-    'vatandaş rehberi',
-    'hukuki hesaplama',
-  ],
   alternates: { canonical: 'https://www.avfethiguzel.com' },
   ...paylasimMeta({
     baslik: 'Av. Fethi Güzel | Kanun, Şerh ve Yargıtay Arşivi',

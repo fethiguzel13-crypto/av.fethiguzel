@@ -8,7 +8,7 @@ import Footer from '@/components/Footer';
 import Kirinti from '@/components/Kirinti';
 import { PROFILE, SITE_URL, CREDENTIAL_BULLETS, SOCIAL_SAME_AS } from '@/lib/profile';
 import { BookOpen, GraduationCap, Globe2, ExternalLink } from 'lucide-react';
-import { YAZAR, yazarRef } from '@/lib/yazar';
+import { YAZAR, ESERLER, kitapLd, yazarRef } from '@/lib/yazar';
 
 export const metadata: Metadata = {
     title: 'Akademik Profil | Doktora, Kitap ve Özel Hukuk',
@@ -45,15 +45,7 @@ export default function AkademikProfilPage() {
         sameAs: [...SOCIAL_SAME_AS],
     };
 
-    const bookLd = {
-        '@context': 'https://schema.org',
-        '@type': 'Book',
-        name: YAZAR.eser.ad,
-        author: yazarRef(),
-        publisher: { '@type': 'Organization', name: YAZAR.eser.yayinevi },
-        url: YAZAR.eser.url,
-        inLanguage: 'tr',
-    };
+    const bookLd = ESERLER.map(kitapLd);
 
     return (
         <div className="bg-cream min-h-screen">
@@ -134,22 +126,26 @@ export default function AkademikProfilPage() {
                 <section className="mb-12 surface-card p-6 sm:p-8">
                     <div className="flex items-center gap-3 mb-4">
                         <BookOpen className="text-accent" size={22} />
-                        <h2 className="text-xl font-heading font-bold text-charcoal">Yayımlanmış eser</h2>
+                        <h2 className="text-xl font-heading font-bold text-charcoal">Yayımlanmış eserler</h2>
                     </div>
-                    <h3 className="font-heading font-bold text-charcoal text-lg mb-2">{YAZAR.eser.ad}</h3>
-                    <p className="text-ink-muted text-sm mb-4">
-                        Yazar: {YAZAR.ad} · {YAZAR.eser.yayinevi}
-                    </p>
-                    <p className="text-charcoal/65 leading-relaxed mb-6">{YAZAR.eser.ozet}</p>
+                    {[...ESERLER].reverse().map((k) => (
+                        <div key={k.url} className="mb-6">
+                            <h3 className="font-heading font-bold text-charcoal text-lg mb-2">{k.title}</h3>
+                            <p className="text-ink-muted text-sm mb-3">
+                                Yazar: {YAZAR.ad} · {k.publisher}
+                            </p>
+                            <p className="text-charcoal/65 leading-relaxed mb-3">{k.summary}</p>
+                            <a
+                                href={k.url}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="inline-flex items-center gap-1.5 text-accent-ink text-sm font-bold hover:underline"
+                            >
+                                {k.publisher} <ExternalLink size={14} />
+                            </a>
+                        </div>
+                    ))}
                     <div className="flex flex-wrap gap-3">
-                        <a
-                            href={YAZAR.eser.url}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="btn-dark"
-                        >
-                            {YAZAR.eser.yayinevi} <ExternalLink size={14} />
-                        </a>
                         <Link
                             href="/eserlerim"
                             className="btn-secondary"

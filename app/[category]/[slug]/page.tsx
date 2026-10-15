@@ -61,7 +61,6 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
   return {
     title: `${sub.name} – ${parent.kanunAdi}`,
     description: sub.description,
-    keywords: [...sub.seoKeywords, ...parent.seoKeywords].join(', '),
     ...paylasimMeta({
       baslik: `${sub.name} | Av. Fethi Güzel – Hukuk Portalı`,
       aciklama: sub.description,
@@ -117,7 +116,7 @@ export default async function SubCategoryPage({ params }: { params: Promise<{ ca
             </div>
             <div>
               <p className="font-sans text-sm font-semibold text-light">Av. Fethi Güzel</p>
-              <p className="font-sans text-xs text-light/50">Özel Hukuk Uzmanı &amp; Arabulucu – Erciş/Van</p>
+              <p className="font-sans text-xs text-light/50">Avukat &amp; Arabulucu – Erciş/Van</p>
             </div>
           </div>
         </div>

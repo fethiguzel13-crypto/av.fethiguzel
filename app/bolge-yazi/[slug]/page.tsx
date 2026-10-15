@@ -26,7 +26,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: { absolute: m.title },
     description: m.description,
-    keywords: m.keywords,
     alternates: { canonical: `${SITE_URL}/bolge-yazi/${m.slug}` },
     ...paylasimMeta({ baslik: m.h1, aciklama: m.description, adres: `/bolge-yazi/${m.slug}`, tur: 'yazi', anahtar: m.slug, ogTuru: 'article' }),
     robots: {

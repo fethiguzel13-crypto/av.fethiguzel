@@ -209,7 +209,6 @@ esas alınmalıdır.</p>
 <meta name="description" content="${esc(description)}"/>
 <meta name="robots" content="${robots}"/>
 <meta name="author" content="Av. Fethi Güzel"/>
-<meta name="keywords" content="${esc(`${code} ${n}, ${code} madde ${n}, ${code} m. ${n}, ${code} m ${n}, ${code} Madde ${n}, ${kanun} madde ${n}, Av. Fethi Güzel, Fethi Güzel, kanun maddesi${hasCommentary ? ', akademik şerh' : ''}`)}"/>
 <link rel="canonical" href="${canonical}"/>
 <meta property="og:type" content="article"/>
 <meta property="og:locale" content="tr_TR"/>
