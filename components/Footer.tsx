@@ -2,7 +2,7 @@
 
 import React from 'react';
 import Link from "@/components/SiteLink";
-import { MapPin, Mail, Clock } from 'lucide-react';
+import { MapPin, Mail, Clock, Phone } from 'lucide-react';
 import BrandMark from '@/components/BrandMark';
 import { PROFILE } from '@/lib/profile';
 import { isNativeApp } from '@/lib/native-app';
@@ -90,6 +90,21 @@ export default function Footer() {
                     {PROFILE.email}
                   </a>
                   <p className="mt-2 text-cream/55 text-xs">Yanıt süresi genellikle 1–2 iş günü</p>
+                </div>
+              </div>
+
+              <div className="flex gap-6 items-start">
+                <div className="w-12 h-12 bg-cream/5 rounded-full flex items-center justify-center text-accent shrink-0">
+                  <Phone size={24} aria-hidden />
+                </div>
+                <div>
+                  <h4 className="text-cream/55 text-[10px] uppercase tracking-widest mb-2 font-bold">Telefon</h4>
+                  <a
+                    href={`tel:${PROFILE.phone.e164}`}
+                    className="inline-flex items-center min-h-6 text-cream text-lg hover:text-accent-light transition-colors"
+                  >
+                    {PROFILE.phone.display}
+                  </a>
                 </div>
               </div>
 

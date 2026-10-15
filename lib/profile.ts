@@ -12,6 +12,11 @@ export const PROFILE = {
     alternateNames: ['Avukat Fethi Güzel', 'Fethi Güzel', 'Av. Fethi Güzel'],
     jobTitle: 'Avukat & Arabulucu',
     email: 'fethiguzel@hotmail.com',
+    /** Büro telefonu: `display` ekranda, `e164` tel: bağlantısı ve JSON-LD için. */
+    phone: {
+        display: '0545 409 54 42',
+        e164: '+905454095442',
+    },
     /**
      * WhatsApp iş hattı — rakamları güncelleyin (ülke kodu + numara, + yok).
      * Boş bırakılırsa sitede e-posta CTA kullanılır.

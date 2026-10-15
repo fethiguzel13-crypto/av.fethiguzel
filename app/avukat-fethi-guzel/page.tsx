@@ -6,7 +6,7 @@ import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 import Kirinti from '@/components/Kirinti';
-import { Scale, MapPin, BookOpen, Gavel, Mail, GraduationCap, Globe2, ExternalLink } from 'lucide-react'
+import { Scale, MapPin, BookOpen, Gavel, Mail, Phone, GraduationCap, Globe2, ExternalLink } from 'lucide-react'
 import { PROFILE, BOLGELER, SITE_URL, SOCIAL_SAME_AS } from '@/lib/profile'
 import { YAZAR, yazarRef } from '@/lib/yazar';
 import { siteSayilari, tr, yaklasik } from '@/lib/site-stats';
@@ -51,6 +51,7 @@ export default function AvukatFethiGuzelPage() {
         description:
             'Van ve Erciş merkezli avukat; özel hukuk doktora çalışmaları; e-duruşma monografisi yazarı; iyi düzeyde İngilizce.',
         email: PROFILE.email,
+        telephone: PROFILE.phone.e164,
         knowsLanguage: ['tr', 'en'],
         address: {
             '@type': 'PostalAddress',
@@ -196,6 +197,12 @@ export default function AvukatFethiGuzelPage() {
                                 className="btn-primary"
                             >
                                 <Mail size={16} /> E-posta ile iletişim
+                            </a>
+                            <a
+                                href={`tel:${PROFILE.phone.e164}`}
+                                className="btn-secondary"
+                            >
+                                <Phone size={16} /> {PROFILE.phone.display}
                             </a>
                             <a
                                 href={PROFILE.social.instagram.url}

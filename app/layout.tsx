@@ -167,6 +167,7 @@ const orgSchema = {
   description:
     'Van ili Erciş ilçesinde avukatlık bürosu. Mevzuat bankası, akademik şerhler, günlük içtihat ve hukuki hesaplama araçları sunan dijital hukuk portalı.',
   email: 'fethiguzel@hotmail.com',
+  telephone: PROFILE.phone.e164,
   address: {
     '@type': 'PostalAddress',
     streetAddress: PROFILE.office.street,
