@@ -834,3 +834,51 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   koşulmamıştır. Ağaç temizdir, 3123 ve 3124 boştur, bu oturum sunucu başlatmamıştır. TestSprite: değişiklik yayında değildir, koşulmamıştır.
 - **G23 DEVAM EDİYOR.** Sıradaki: Adım 2-3, vergi hukuku katmanı (VUK madde dosyaları okunmadan dayanak yazılmaz) ve yeni şema. Ardından
   adım 4 (aile hukuku notunun "Konsolide Master" başlığı), 5, 7. Makine prizdeyse önce `npm run kalite` koşulur.
+
+## 2026-10-15 15:00 — G23 DEVAM EDİYOR (başsız oturum, başladı 15:00)
+
+- G23 DEVAM EDİYOR (başladı 15:00, adım 2: vergi hukuku). Devralma: `DURAKLAT` yok, ağaç temizdir, son commit `c8f44209a`'dır.
+  Makine prizdedir (%100), boş bellek 584 MB'tır, 3123 boştur. 3124'ü bu oturuma ait olmayan bir `next start` tutmaktadır
+  (11:00'de `D:/yayin-tam` klasöründen başlatılmıştır, o klasörün dalı `yayin/tam-2026-10-15`'tir). Sunucuya ve klasöre dokunulmamıştır.
+- 15:03-15:16 tam kapı (`logs/g23-tam-1503.log`): Tip, lint ve dokuz test takımı 897 testte geçmiş, derleme 602 sn sonra 40 hatayla
+  kırılmıştır. Bütün hatalar `next/font/google` yazı tipi dosyasının çözülememesidir (`Can't resolve '@vercel/turbopack-next/internal/
+  font/google/font'`, `next/font/google queries have exactly one entry`). Derleme sırasında boş bellek 143 MB'a düşmüş, derleme 2 işçiyle
+  koşmuştur. Son commit'lerde yazı tipi ya da yapılandırma değişikliği yoktur ve ağ 15:17'de Google Fonts'a 200 dönmektedir. Kırık
+  derleme kod hatası değil, yazı tipi indirmesinin geçici başarısızlığı sayılmış, kapı aşağıda yeniden koşulmuştur.
+- 15:21 adım 2-3 (`a26685f1d`): Vergi hukuku katmanı yazılmış ve kaydedilmiştir (önce kırmızı test: dalga 2'nin tamamı kayıtlı olmalı).
+  Dört olay kesilmeyen kira stopajında vergi sorumlusu ve vergi dairesini bağlamayan özel sözleşmeyi, sicilden silinen limited şirkette
+  kanuni temsilci, ortak ve tasfiye memurunun sorumluluğunu, takdir komisyonuna sevkte tarh zamanaşımının durmasını ve pişmanlık ile
+  ceza indirimi arasındaki farkı işler. 33 dayanak VUK ve GVK metninde aynen geçmektedir. Her yıl değerlenen parasal sınırlar ve uzlaşma
+  hükümleri katmana alınmamıştır, zira depodaki `vuk/madde-376.md` dosyası ek madde metnini de taşımaktadır. `vergilendirme-sureci`
+  şeması (VUK m.19-23) eklenmiştir. Şemasız ders örneği olarak vergi hukukunu kullanan birim testi adli tıpa taşınmıştır. Dalga 2'de on
+  ders 7/7'dir. Hızlı kapı 897 testte yeşildir (`logs/g23-hizli-1520.log`, prizde ~1,5 dk).
+- 15:26 adım 4-5 (`c74889b89`): Yirmi altı temsilci notun tamamı üreticinin "Yıllık (Konsolide Master)" etiketini taşımaktadır.
+  Etiket, katman uygulanan notta başlık, açıklama, anahtar sözcük, bölüm başlığı ve paragraflardan düşmektedir (`etiketTemizle`, önce
+  kırmızı test). Sayfa başlığı ve paylaşım kartı `getNote(...).h1`'den beslendiğinden kart başlığı "AÜHF Aile Hukuku Yıllık" olmuştur.
+  Katmanlı 20 notta dayanaksız 316 üretilmiş konu sorusu bulunmuş olup 158'i kalıp şıklıdır ("Hocanın slaytını ezberden aktarmak").
+  Bu sorular katmanlı notta çizilmemekte, kartlar korunmaktadır. Yayınlanabilirlik denetimi konu sorularına bakmadığından sayfa durumu
+  değişmemiştir. Katmansız altı temsilci not ile 84 fakülte sayfasındaki 974 liste satırı etiketi taşımaya devam etmektedir. Bu kalan iş
+  G25'e bırakılmıştır. Hızlı kapı 899 testte yeşildir (`logs/g23-hizli-1524.log`).
+
+## 2026-10-15 20:32 — G23 DEVAM EDİYOR (başsız oturum, başladı 20:32)
+
+- G23 DEVAM EDİYOR (başladı 20:32, adım 7: kapanış). Devralma: `DURAKLAT` yok, son commit `c74889b89`'dur. 15:00 oturumu kaydını,
+  rapor güncellemesini ve `raporlar/g23-dayanak-denetimi.md` dosyasını commit'siz bırakarak kesilmiştir. Değişiklikler G23'e ait
+  olduğundan devralınmıştır. Makine pildedir (%96), boş bellek 755 MB'tır, 3123 ve 3124 boştur.
+- 20:37-21:03 adım 7 (22:00 oturumunun döküm ve günlük okumasından yazılmıştır): Aile hukuku temsilci notunda tasarım denetimi 1280 ve
+  390 px'te 0'dır (`raporlar/tasarim-denetim-g23.json`). 15:40 derlemesi üzerinde uçtan uca testler 29'da 27 geçmiş, düşük bellekte
+  zaman aşımına uğrayan iki dosya yeniden koşulmuş ve 10/10 geçmiştir (`logs/g23-e2e-2037.log`, `logs/g23-e2e-2105.log`). Hızlı kapı 899
+  testte yeşildir (`logs/g23-hizli-2115.log`). 21:04'te tam kapı başlatılmış, oturum ise 21:17'de ağ kesintisiyle (`ENOTFOUND`, döküm
+  `4914c489…jsonl`) sonlanmıştır. Süreç ağacı kapanınca derleme 497. saniyede iletisiz ölmüş, kapı "KIRIK" yazmıştır
+  (`logs/g23-tam-2104.log`). Kırık kod hatası değildir. Bu kayıt ve rapor commit'siz kalmıştır.
+
+## 2026-10-15 22:00 — G23 DEVAM EDİYOR (başsız oturum, başladı 22:00)
+
+- G23 DEVAM EDİYOR (başladı 22:00, adım 7: kapanış). Devralma: `DURAKLAT` yok, son commit `c74889b89`'dur, ağaçtaki değişiklikler
+  20:32 oturumuna aittir ve devralınmıştır. Makine pildedir (%47, şarj olmuyor), boş bellek 365 MB'tır, 3123 ve 3124 boştur, çalışan
+  `node` süreci yoktur. Pil %50'nin altında olduğundan tam kapı başlatılmamıştır (OTONOM.md, uyku tuzağı).
+- 22:05: 20:32 oturumunun kaydı ve raporu tamamlanmış, derlemenin yeniden ürettiği üç harita ile iki veri dosyası geri alınmış, G23 belgeleri
+  commit edilmiştir. Kod değişikliği olmadığından hızlı kapı koşulmamıştır.
+- **G23 DEVAM EDİYOR.** Kabul ölçütünden yalnız `npm run kalite`'nin yeşil sonucu eksiktir. Sıradaki oturum makine prizdeyse ya da pil
+  %50'nin üzerindeyse önce boş belleği denetler, sonra tam kapıyı ön planda bitişini bekleyerek koşar. Kapı yeşilse PLAN.md'de G23 `[x]`
+  yapılır ve G24'e geçilir.
