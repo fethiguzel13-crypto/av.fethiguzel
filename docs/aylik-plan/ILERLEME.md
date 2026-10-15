@@ -813,14 +813,24 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   karşılaştırılmıştır. Uzlaştırma olayındaki "komşunun bahçesinden bisiklet" kurgusu TCK m.142/2-h kapsamında nitelikli hırsızlık
   sayılabileceğinden ve bu hâlde uzlaştırma dışında kalacağından olay, ödünç bisikletin satılması biçiminde yeniden yazılmıştır. Sonuç
   artık hırsızlık ve güveni kötüye kullanma nitelendirmelerinin ikisinde de aynıdır (CMK m.253/1-b-6, 7, TCK m.155/1). Temsilci not 7/7,
-  hızlı kapı 897 testte yeşildir (`logs/g23-hizli-0950.log`, pilde ~25 dk). Zaman damgalı `priority-sitemap.xml` geri alınmıştır.
-- 10:12 adım 2: Tüketici hukuku katmanı yazılmış ve kaydedilmiştir (önce kırmızı test). Dört olay ayıplı malda altı aylık karine ve
+  hızlı kapı 897 testte yeşildir (`logs/g23-hizli-0950.log`, pilde ~15 dk). Zaman damgalı `priority-sitemap.xml` geri alınmıştır.
+- 10:09 adım 2: Tüketici hukuku katmanı yazılmış ve kaydedilmiştir (önce kırmızı test). Dört olay ayıplı malda altı aylık karine ve
   değiştirme hakkını, mesafeli sözleşmede bildirilmeyen cayma hakkını, tüketici kredisinde muacceliyet koşullarını ve hakem heyeti
   sınırının üzerindeki uyuşmazlıkta dava şartı arabuluculuğu işler. 30 dayanak TKHK ve 6325 sayılı Kanun m.18/A metninde aynen
   geçmektedir. Her yıl yeniden değerlenen hakem heyeti sınırı tutar olarak yazılmamıştır (TKHK m.68/4). Temsilci not 7/7'dir.
   Aynı kapıya ceza muhakemesi ve ceza özel katmanlarındaki üç hikâye kipi düzeltmesi (YAZIM-DILI §12.2) de girmiştir. Hızlı kapı
   pil %26'dayken başlatılmıştır (`logs/g23-hizli-1013.log`).
-- 10:16 (`e36310de6`, `da66a015d`): Hızlı kapı 897 testte yeşildir ve bu kez ~6 dk sürmüştür (pil %26 → %20). Tüketici katmanı ile
+- 10:17 (`e36310de6`, `da66a015d`): Hızlı kapı 897 testte yeşildir ve bu kez ~6 dk sürmüştür (pil %26 → %20). Tüketici katmanı ile
   hikâye kipi düzeltmesi ayrı commit edilmiştir. Kapı sürerken başsız olmayan bir oturum 10:14'te `80f2774d2` (büro telefonu: `lib/profile.ts`,
   `components/Footer.tsx`, `app/layout.tsx`, `app/avukat-fethi-guzel/page.tsx`) commit'ini atmıştır. Bu dosyalara dokunulmamıştır.
   G23 commit'leri yalnız kendi dosyalarını içerir.
+- 10:17 adım 2: Arabuluculuk katmanı yazılmış ve kaydedilmiştir (önce kırmızı test). Dört olay kira uyuşmazlığında ilk toplantıya
+  gelmemenin gider sonucunu, ortaklığın giderilmesinde zorunlu şerh ve dava yasağını, arabuluculuktaki kabulün delil olamamasını ve
+  aile içi şiddet iddiasında elverişsizliği işler. 29 dayanak 6325 sayılı Kanun metninde aynen geçmektedir, ücret tarifesi tutarları
+  yazılmamıştır. Temsilci not 7/7'dir. Hızlı kapı pil %19'dayken başlatılmıştır (`logs/g23-hizli-1021.log`).
+- 10:26 (`21eb9c00a`): Hızlı kapı 897 testte yeşildir (6,5 dk). Dalga 2'de dokuz ders 7/7'dir, yalnız vergi hukuku 0/7'dir.
+  OTONOM.md'ye pildeki kapı süresi ve aynı ağaçta commit atan etkileşimli oturum için iki tuzak satırı eklenmiştir.
+- Oturum 10:27'de bitirilmiştir. Pil %15'e indiğinden vergi katmanı ve tam kapı başlatılmamıştır, bugün tam kapı (`npm run kalite`)
+  koşulmamıştır. Ağaç temizdir, 3123 ve 3124 boştur, bu oturum sunucu başlatmamıştır. TestSprite: değişiklik yayında değildir, koşulmamıştır.
+- **G23 DEVAM EDİYOR.** Sıradaki: Adım 2-3, vergi hukuku katmanı (VUK madde dosyaları okunmadan dayanak yazılmaz) ve yeni şema. Ardından
+  adım 4 (aile hukuku notunun "Konsolide Master" başlığı), 5, 7. Makine prizdeyse önce `npm run kalite` koşulur.

@@ -91,6 +91,12 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
   günlüğü Kernel-Power 42). Bu yüzden uyku kilidi kesintiyi önlemez. Uzun işten (tam mobil derleme, tam kapı) önce
   `Win32_Battery` denetlenir: `BatteryStatus` 2 prizde demektir. Makine pildeyse ve `EstimatedChargeRemaining` %50'nin altındaysa
   uzun iş başlatılmaz, kısa işe geçilir.
+  Pildeki hızlı kapının süresi değişkendir: 2026-10-15'te uykudan hemen sonraki kapı 15 dk, sonraki iki kapı 6-7 dk sürmüş,
+  pil 40 dk içinde %38'den %15'e inmiştir. Kapı beklenirken sıradaki katmanın taslağı depo dışında (`%TEMP%/g23-taslak/`) yazılır ve
+  dayanakları `maddeMetni` ile sınanır. Böylece taslak, kapı biter bitmez kırmızı testle depoya alınabilir.
+- **Etkileşimli oturum aynı ağaçta commit atabilir** (2026-10-15 10:14: başsız kapı sürerken `80f2774d2` atılmıştır). `git add` yalnız
+  bu oturumun yollarıyla yapılır, `git commit -a` ve `git add -A` kullanılmaz. Commit'ten önce `git log -3` ile araya giren commit aranır
+  ve kayda yazılır.
 - Başsız oturum `ANTHROPIC_API_KEY` görürse abonelik yerine API kredisi kullanır; çalıştırıcı bunu
   kaldırır, elle `claude -p` çağrılırken de kaldırılmalıdır.
 
