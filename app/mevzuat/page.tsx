@@ -19,18 +19,6 @@ export const metadata: Metadata = {
   title: 'Kanun Maddesi ve Mevzuat Arama | 7800+ Madde + Şerh',
   description:
     `Kanun maddesi ara ve oku: ${yaklasik(N.madde, 100)} madde metni + akademik şerh. TBK, TMK, TTK, TCK, HMK, İİK, VUK, İş Kanunu ve ${tr(N.kanun)} kanun — ücretsiz açık erişim mevzuat bankası.`,
-  keywords: [
-    'kanun maddesi',
-    'kanun maddesi arama',
-    'mevzuat arama',
-    'TBK madde',
-    'TMK madde',
-    'TCK madde',
-    'HMK madde',
-    'İİK madde',
-    'akademik şerh',
-    'mevzuat bankası',
-  ],
   alternates: { canonical: 'https://www.avfethiguzel.com/mevzuat' },
   ...paylasimMeta({
     baslik: 'Kanun Maddesi ve Mevzuat Bankası | 7800+ Madde + Şerh',

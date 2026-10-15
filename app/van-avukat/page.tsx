@@ -12,7 +12,6 @@ export const metadata: Metadata = veri
   ? {
       title: { absolute: veri.title },
       description: veri.description,
-      keywords: veri.keywords,
       alternates: { canonical: `${SITE_URL}/${SLUG}` },
       ...paylasimMeta({ baslik: veri.title, aciklama: veri.description, adres: `/${SLUG}`, tur: 'site', ogTuru: 'article' }),
       robots: {

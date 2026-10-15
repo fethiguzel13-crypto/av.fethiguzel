@@ -40,14 +40,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${code} Madde Listesi — ${name}`,
     description: `${code} (${name}) tüm maddeler: ${articles.length} madde resmî metin + akademik şerh. ${code} 1, ${code} 13, ${code} madde araması — Av. Fethi Güzel Hukuk Portalı.`,
-    keywords: [
-      code,
-      `${code} madde`,
-      `${code} maddeleri`,
-      name,
-      'kanun maddesi',
-      'Av. Fethi Güzel',
-    ],
     alternates: { canonical: url },
     ...paylasimMeta({
       baslik: `${code} — Tüm maddeler ve şerhler`,

@@ -27,7 +27,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return {
         title: `${k.baslik} | Hukuki Kavram`,
         description: k.ozet,
-        keywords: k.keywords.join(', '),
         alternates: { canonical: `${SITE_URL}/kavram/${k.slug}` },
         ...paylasimMeta({ baslik: k.baslik, aciklama: k.ozet, adres: `/kavram/${k.slug}`, tur: 'kavram', anahtar: k.slug, ogTuru: 'article' }),
     };

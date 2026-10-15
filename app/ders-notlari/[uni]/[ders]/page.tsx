@@ -44,7 +44,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description: quality.publishable
       ? note.description
       : 'Bu ders notu yeniden yazılıyor. Kanun metinleri ve hesaplama araçları kullanılabilir durumda.',
-    keywords: quality.publishable ? note.keywords : undefined,
     alternates: { canonical: `${SITE}/ders-notlari/${uni}/${ders}` },
     // Yalnız dersin temsilci notu kendi kartını alır; diğer notlar türün genel kartını (G20).
     ...paylasimMeta({

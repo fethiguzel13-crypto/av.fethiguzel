@@ -32,7 +32,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return {
         title: `${meta.baslik} | Hesaplama`,
         description: meta.aciklama,
-        keywords: meta.keywords.join(', '),
         alternates: { canonical: url },
         ...paylasimMeta({ baslik: meta.baslik, aciklama: meta.aciklama, adres: url, tur: 'hesaplama', anahtar: meta.id }),
     };

@@ -23,18 +23,6 @@ export const metadata: Metadata = {
     absolute: `Vatandaş Bilgi Rehberi | ${N} Hukuki Konu | Av. Fethi Güzel`,
   },
   description: `${N} vatandaş bilgilendirme sayfası: emlak vergisi, veraset, boşanma, icra, kira, kıdem, trafik cezası, kanun maddesi, e-Devlet. Sade anlatım — Av. Fethi Güzel Hukuk Portalı.`,
-  keywords: [
-    'vatandaş bilgi rehberi',
-    'hukuki bilgi',
-    'vatandaş rehberi',
-    'sık sorulan hukuki sorular',
-    'kanun maddesi',
-    'dava nasıl açılır',
-    'icra takibi',
-    'kıdem tazminatı',
-    'boşanma davası',
-    'Av. Fethi Güzel',
-  ],
   alternates: { canonical: `${SITE}/bilgi` },
   ...paylasimMeta({
     baslik: `Vatandaş Bilgi Rehberi | ${N} Konu | Av. Fethi Güzel`,
@@ -59,7 +47,6 @@ export default function BilgiIndexPage() {
     description: a.description,
     category: a.category,
     role: a.role,
-    keywords: a.keywords,
   }));
 
   const collectionLd = {

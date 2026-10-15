@@ -32,12 +32,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: { absolute: `${hub.title} | Av. Fethi Güzel` },
     description: hub.description,
-    keywords: [
-      `${hub.uni.shortName} hukuk ders notları`,
-      ...hub.uni.aliases.map((a) => `${a} ders notları`),
-      `${hub.uni.city} hukuk fakültesi not`,
-      'ücretsiz hukuk ders notu pdf',
-    ],
     alternates: { canonical: `${SITE}/ders-notlari/${uni}` },
     ...paylasimMeta({ baslik: hub.h1, aciklama: hub.description, adres: `/ders-notlari/${uni}`, tur: 'ders-notu', anahtar: hub.uni.slug }),
     robots: hubDizinde(uni, kanonik)
