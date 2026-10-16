@@ -485,9 +485,15 @@ function KidemIhbarTazminati() {
             );
           })()}
         </div>
-      ) : (
-        <div className="col-span-full text-sm text-ink-muted italic">Tarihleri ve ücret bilgilerini girin.</div>
-      )}
+      ) : null}
+      {/* Durum bölgesi hep DOM'dadır; içerik değişince ekran okuyucu iletiyi duyurur (WCAG 4.1.3). */}
+      <div role="status" className={result ? "sr-only" : "col-span-full text-sm text-ink-muted italic"}>
+        {result
+          ? ""
+          : new Date(bitis) <= new Date(baslangic)
+            ? "İşten ayrılış tarihi işe giriş tarihinden sonra olmalıdır."
+            : "Tarihleri ve ücret bilgilerini girin."}
+      </div>
     </div>
   );
 }
