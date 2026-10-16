@@ -73,7 +73,9 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
   tükenir. Bellek düşükken tek bir `e2e/*.e2e.mjs` dosyası derlemesiz doğrulanabilir: `npx next dev -p 3124` arka planda açılır, sayfa
   bir kez `curl` ile ısıtılır, `E2E_TABAN=http://localhost:3124 node --test e2e/x.e2e.mjs` koşulur, sonra portu tutan süreç ağacı
   `taskkill //PID … //T //F` ile kapatılır. Geliştirme sunucusu yavaş hidrasyon nedeniyle zamanlama hatalarını görünür kılar. Tam
-  kapının yerini tutmaz. 2026-10-14'ten beri `npm run kalite` derleme işçisini boş belleğe göre sınırlar (`DERLEME_ISCI`, ~1 GB'ta 4
+  kapının yerini tutmaz. Geliştirme sunucusu `.next/dev/types/validator.ts`'i yazar, `tsconfig.json` de bu dosyayı içerir. 2026-10-16 22:41'de
+  sunucu kapatılınca dosya bozuk kalmış ve hızlı kapının tip adımı `TS1005` ile kırılmıştır. Sunucu kapatıldıktan sonra bu dosya silinir,
+  sonra kapı koşulur. 2026-10-14'ten beri `npm run kalite` derleme işçisini boş belleğe göre sınırlar (`DERLEME_ISCI`, ~1 GB'ta 4
   işçi; 06:50 kapısı 904 sn'de geçmiştir). Elle `next build` çağrılırken aynı değişken verilir: `DERLEME_ISCI=4 npm run build`.
 - **Sahte KIRIK kalite günlüğü** (2026-10-05 16:46: arka planda başlatılan `npm run kalite`, oturum sınırıyla süreç ağacı
   öldürülünce tip adımından sonraki her adımı "KIRIK 0 sn" ve "toplam 0 test" diye yazdı). Devralmada her adım 0 sn ise

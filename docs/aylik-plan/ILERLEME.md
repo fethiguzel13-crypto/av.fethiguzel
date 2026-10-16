@@ -918,4 +918,23 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   3123 ve 3124 boştur, yalnız hasat motoru ve MCP süreçleri çalışmaktadır.
 - 22:02-22:06: G24 1. adımın (`e1a52d631`) hızlı kapısı 909 testte yeşildir (`logs/g24-hizli-2202.log`).
 - 22:07-22:24: Tam kapı 938 testte yeşildir. Derleme iki işçiyle 840 sn, uçtan uca adımı 29/29'dur (`logs/g23-tam-2207.log`). G23 PLAN.md'de
-  `[x]` yapılmış, rapora kapanış satırı eklenmiş, soru 26 düşmüştür. Derlemenin yeniden ürettiği beş dosya geri alınmıştır.
+  `[x]` yapılmış, rapora kapanış satırı eklenmiş, soru 26 düşmüştür. Derlemenin yeniden ürettiği beş dosya geri alınmıştır. Commit `c1cc4d8bc`.
+- 22:25-22:36 G24 2. adım: `yapiDenetimi` ve `yapiOzeti` beş yeni testle (önce kırmızı) `lib/erisilebilirlik.mjs`'e,
+  `--yapi` seçeneği `scripts/tasarim-denetim.mjs`'e eklenmiştir. G23 derlemesinde 17 sayfa × 2 genişlikte axe ihlali 0'dır. Yapı
+  taraması atlama hedefi eksikliği (6 tür), başlık düzeyi atlaması (ana sayfa, kavram, madde), `header-yok` (12 tür) ve `footer-yok`
+  (madde) bulmuştur (`raporlar/erisilebilirlik-g24-once.json`). Commit `789f4c562`.
+- 22:30-22:36 düzeltme: 17 dosyadaki 18 `<main>`'e `id="main-content"` verilmiş, statik test önce 18 konumla kırmızı, sonra yeşildir. Commit
+  `47fdc3fd8`. Bu sırada başlatılan bir hızlı kapı, yeni kırmızı testi okuyacağından durdurulmuş ve düzeltmeden sonra yeniden koşulmuştur
+  (916 test yeşil).
+- 22:38-22:47 düzeltme: ana sayfa kartları ve güncel kartları `h3`, kavram sayfasındaki cevap kutusu `h2` olmuştur (`ShareableAnswer`'a
+  `duzey` özelliği). `next dev -p 3124` üzerinde altı sayfada atlama ve düzey bulgusu kalmamıştır. Hızlı kapının ilk koşusu tip adımında
+  kırılmıştır: Kapatılan geliştirme sunucusunun yarım bıraktığı `.next/dev/types/validator.ts` silinince 918 testte yeşildir
+  (tuzak OTONOM.md'ye eklendi). Commit `ba3e99fb3`.
+- 22:48-22:54 G24 3. adım: `e2e/erisilebilirlik.e2e.mjs` (beş test). Menü testi önce kırmızıdır, `Navbar`'a `Escape` dinleyicisi,
+  `aria-expanded`, `aria-controls` eklenince beşi yeşildir. Odak halkaları CSS ile kapatılınca ölçüm `false` döner. Hızlı kapı 918 testte
+  yeşildir. Commit `3b3a592df`.
+- 22:55-23:06 tam kapı 952 testte yeşildir. Derleme beş işçiyle 466 sn, uçtan uca adımı 34/34'tür (`logs/g24-tam-2255.log`). Araya giren
+  commit yoktur, 3123 ve 3124 boştur.
+- **G23 tamamlandı.** **G24 DEVAM EDİYOR** (1-3. adım bitti, sıradaki 4. adım: etkileşim sonrası axe). Açık bulgular `gorevler/G24.md`'dedir:
+  madde sayfası (bağımsız HTML, alt bilgi ve atlama bağlantısı yok, şerh başlıkları `h2`'den `h4`'e atlar), `header-yok` kararı ve içtihat
+  sayfasında 390 px'teki küçük hedef. Bunlar 6. adımda ele alınır.
