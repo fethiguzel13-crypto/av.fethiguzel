@@ -114,6 +114,8 @@ export default function Navbar() {
   const uyelikUi = useTarayiciDegeri(uyelikCereziOku, null);
   const megaRef = useRef<HTMLDivElement>(null);
   const burgerRef = useRef<HTMLButtonElement>(null);
+  // Fare düğmeye gelince menüyü açar; aynı ziyaretteki tıklama menüyü kapatmaz, açık tutar (G24).
+  const fareActi = useRef(false);
   const pathname = usePathname();
   const router = useRouter();
 
@@ -191,7 +193,9 @@ export default function Navbar() {
 
   const linkCls = solid ? 'text-charcoal hover:text-accent' : 'text-cream/85 hover:text-accent';
 
+  // `header` sayfanın `banner` işaret bölgesidir (G24); çubuk sabit konumlu olduğundan kabın kendi yüksekliği yoktur.
   return (
+    <header>
     <nav className={`fixed top-6 left-1/2 -translate-x-1/2 z-[900] w-[95%] max-w-7xl transition-all duration-500 rounded-[3rem] ${solid ? 'glass py-3 px-6' : 'bg-transparent py-4 px-4'
       }`}>
       <div className="flex items-center justify-between gap-3">
@@ -228,8 +232,19 @@ export default function Navbar() {
               düğmeye göre ortalanan 860 px'lik panel 1280 px'te sağ kenardan taşıyordu (G24). */}
           <div ref={megaRef}>
             <button
-              onMouseEnter={() => setMegaOpen(true)}
-              onClick={() => setMegaOpen(v => !v)}
+              onMouseEnter={() => {
+                if (!megaOpen) fareActi.current = true;
+                setMegaOpen(true);
+              }}
+              onMouseLeave={() => { fareActi.current = false; }}
+              onClick={() => {
+                if (fareActi.current) {
+                  fareActi.current = false;
+                  setMegaOpen(true);
+                } else {
+                  setMegaOpen(v => !v);
+                }
+              }}
               aria-expanded={megaOpen}
               aria-controls="mevzuat-menu"
               className={`flex items-center gap-1 px-3 py-2 rounded-full transition-colors whitespace-nowrap ${linkCls}`}
@@ -412,5 +427,6 @@ export default function Navbar() {
         </div>
       )}
     </nav>
+    </header>
   );
 }

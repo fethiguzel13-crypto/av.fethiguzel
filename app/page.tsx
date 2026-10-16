@@ -50,8 +50,10 @@ export default function Home() {
   };
 
   return (
-    <main id="main-content" className="relative w-full bg-cream overflow-hidden pb-20 lg:pb-0">
+    // Üst bilgi ve alt bilgi `main`'in dışındadır: Atlama bağlantısı gezinmeyi atlar, `banner` ve `contentinfo` doğar (G24).
+    <div className="relative w-full bg-cream overflow-hidden pb-20 lg:pb-0">
       <Navbar />
+      <main id="main-content">
       <Hero sayilar={sayilar} />
       <TrustBar sayilar={sayilar} />
       <YargiPreview />
@@ -125,8 +127,9 @@ export default function Home() {
         </div>
       </section>
       <FaqSection />
+      </main>
       <Footer />
       <StickyMobileCta />
-    </main>
+    </div>
   );
 }
