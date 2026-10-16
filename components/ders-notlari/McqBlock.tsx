@@ -50,10 +50,18 @@ export function McqBlock({
                                         key={c}
                                         type="button"
                                         disabled={done}
+                                        aria-pressed={selected}
                                         onClick={() => setPicked((p) => ({ ...p, [i]: ci }))}
                                         className={`text-left text-sm px-3 py-2 rounded-xl border ${cls}`}
                                     >
                                         {c}
+                                        {/* Sonuç yalnız renkle verilmez (WCAG 1.4.1). */}
+                                        {reveal && correct && (
+                                            <span className="ml-2 text-xs font-bold text-emerald-800">✓ Doğru cevap</span>
+                                        )}
+                                        {reveal && selected && !correct && (
+                                            <span className="ml-2 text-xs font-bold text-red-800">✗ Yanlış seçim</span>
+                                        )}
                                     </button>
                                 );
                             })}
@@ -78,6 +86,10 @@ export function McqBlock({
             >
                 {done ? `Sonuç: ${score} / ${items.length}` : 'Kontrol et'}
             </button>
+            {/* Düğmenin metni değişince duyurulmaz; sonuç ayrı durum bölgesinden okunur (WCAG 4.1.3). */}
+            <span role="status" className="sr-only">
+                {done ? `Sonuç: ${score} / ${items.length}` : ''}
+            </span>
         </div>
     );
 }
