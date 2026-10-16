@@ -1,0 +1,201 @@
+{
+ "etiket": "g24-dar",
+ "taban": "http://localhost:3123",
+ "tarih": "2026-10-16T21:52:17.724Z",
+ "ozet": {
+  "kurallar": [],
+  "kucukHedef": 0,
+  "tasan": [
+   "madde@320"
+  ]
+ },
+ "sonuclar": [
+  {
+   "sayfa": "anasayfa",
+   "adres": "/",
+   "durum": 200,
+   "genislik": 320,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 5811
+  },
+  {
+   "sayfa": "makale",
+   "adres": "/makale-oku/adam çalıştıran/Adam Çalıştıranın Sorumluluğu.docx",
+   "durum": 200,
+   "genislik": 320,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 6082
+  },
+  {
+   "sayfa": "mevzuat",
+   "adres": "/mevzuat",
+   "durum": 200,
+   "genislik": 320,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 4972
+  },
+  {
+   "sayfa": "madde",
+   "adres": "/mevzuat/tbk/madde-1",
+   "durum": 200,
+   "genislik": 320,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": true,
+   "tasanlar": [],
+   "sure": 3400
+  },
+  {
+   "sayfa": "ders-notu",
+   "adres": "/ders-notlari/ankara/aile-hukuku-yillik",
+   "durum": 200,
+   "genislik": 320,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 6554
+  },
+  {
+   "sayfa": "ders-notu-usul",
+   "adres": "/ders-notlari/ankara/medeni-usul-donem-1",
+   "durum": 200,
+   "genislik": 320,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 6649
+  },
+  {
+   "sayfa": "ders-notu-esya",
+   "adres": "/ders-notlari/ankara/esya-hukuku-yillik",
+   "durum": 200,
+   "genislik": 320,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 7079
+  },
+  {
+   "sayfa": "yargi-arsivi",
+   "adres": "/yargi-kararlari",
+   "durum": 200,
+   "genislik": 320,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 3585
+  },
+  {
+   "sayfa": "yargi-istatistik",
+   "adres": "/yargi-kararlari/istatistik",
+   "durum": 200,
+   "genislik": 320,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 3016
+  },
+  {
+   "sayfa": "karar",
+   "adres": "/yargi-kararlari/752428200",
+   "durum": 200,
+   "genislik": 320,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 3661
+  },
+  {
+   "sayfa": "rehber",
+   "adres": "/bilgi/aidat-borcu-ve-gecikme-tazminati",
+   "durum": 200,
+   "genislik": 320,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 4139
+  },
+  {
+   "sayfa": "hesaplama",
+   "adres": "/hesaplama/kidem",
+   "durum": 200,
+   "genislik": 320,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 3659
+  },
+  {
+   "sayfa": "icthat",
+   "adres": "/icthat",
+   "durum": 200,
+   "genislik": 320,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 3096
+  },
+  {
+   "sayfa": "kavram",
+   "adres": "/kavram/satim",
+   "durum": 200,
+   "genislik": 320,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 3202
+  },
+  {
+   "sayfa": "yazar",
+   "adres": "/avukat-fethi-guzel",
+   "durum": 200,
+   "genislik": 320,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 4168
+  },
+  {
+   "sayfa": "bolge",
+   "adres": "/van-avukat",
+   "durum": 200,
+   "genislik": 320,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 3911
+  },
+  {
+   "sayfa": "uyelik",
+   "adres": "/uyelik",
+   "durum": 200,
+   "genislik": 320,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 3292
+  }
+ ]
+}

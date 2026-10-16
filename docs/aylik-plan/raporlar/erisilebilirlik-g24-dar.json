@@ -1,0 +1,1882 @@
+{
+ "etiket": "g24-dar",
+ "taban": "http://localhost:3123",
+ "tarih": "2026-10-16T21:52:17.759Z",
+ "ozet": [
+  {
+   "kural": "header-yok",
+   "bulgu": 12,
+   "sayfalar": [
+    "anasayfa",
+    "ders-notu",
+    "ders-notu-esya",
+    "ders-notu-usul",
+    "hesaplama",
+    "karar",
+    "kavram",
+    "rehber",
+    "uyelik",
+    "yargi-arsivi",
+    "yargi-istatistik",
+    "yazar"
+   ]
+  },
+  {
+   "kural": "duzey-atlama",
+   "bulgu": 1,
+   "sayfalar": [
+    "madde"
+   ]
+  },
+  {
+   "kural": "footer-yok",
+   "bulgu": 1,
+   "sayfalar": [
+    "madde"
+   ]
+  }
+ ],
+ "sonuclar": [
+  {
+   "sayfa": "anasayfa",
+   "adres": "/",
+   "genislik": 320,
+   "bulgular": [
+    {
+     "kural": "header-yok"
+    }
+   ],
+   "basliklar": [
+    {
+     "duzey": 1,
+     "metin": "Kanun, İçtihat, ŞerhAraştırma Kütüphanesi."
+    },
+    {
+     "duzey": 2,
+     "metin": "Sitede yayımlanan kaynaklar"
+    },
+    {
+     "duzey": 2,
+     "metin": "Yargıtay arşivi, üyelikle."
+    },
+    {
+     "duzey": 3,
+     "metin": "Yargıtay Büyük Genel Kurulu, E. 2019/2, K. 2019/2, T. 30.01."
+    },
+    {
+     "duzey": 3,
+     "metin": "Yargıtay Büyük Genel Kurulu, E. 2022/2, K. 2022/2, T. 26.01."
+    },
+    {
+     "duzey": 3,
+     "metin": "Yargıtay Büyük Genel Kurulu, E. 2022/1, K. 2022/1, T. 26.01."
+    },
+    {
+     "duzey": 3,
+     "metin": "Yargıtay Büyük Genel Kurulu, E. 2014/3, K. 2014/16, T. 21.11"
+    },
+    {
+     "duzey": 3,
+     "metin": "Yargıtay Büyük Genel Kurulu, E. 2016/4, K. 2016/4, T. 13.05."
+    },
+    {
+     "duzey": 3,
+     "metin": "Yargıtay Büyük Genel Kurulu, E. 2016/5, K. 2016/5, T. 13.05."
+    },
+    {
+     "duzey": 2,
+     "metin": "TBK, TMK, TCK madde metni + şerh"
+    },
+    {
+     "duzey": 3,
+     "metin": "Av. Fethi Güzel"
+    },
+    {
+     "duzey": 2,
+     "metin": "Hakkımda"
+    },
+    {
+     "duzey": 2,
+     "metin": "Hesaplama araçları"
+    },
+    {
+     "duzey": 3,
+     "metin": "Miras Paylaşımı"
+    },
+    {
+     "duzey": 3,
+     "metin": "Saklı Pay"
+    },
+    {
+     "duzey": 3,
+     "metin": "Kıdem & İhbar Tazminatı"
+    },
+    {
+     "duzey": 3,
+     "metin": "Birleşik İşçilik Raporu"
+    },
+    {
+     "duzey": 2,
+     "metin": "Akademik Arşiv"
+    },
+    {
+     "duzey": 3,
+     "metin": "Hükmün Açıklanmasının Geri Bırakılması (HAGB) ve Şartları"
+    },
+    {
+     "duzey": 3,
+     "metin": "Mal Rejimi Tasfiyesi"
+    },
+    {
+     "duzey": 3,
+     "metin": "Saklı Pay ve Tenkis Davası"
+    },
+    {
+     "duzey": 3,
+     "metin": "Araç Değer Kaybı ve Tazminat"
+    },
+    {
+     "duzey": 3,
+     "metin": "İzale-i Şüyu Davası"
+    },
+    {
+     "duzey": 3,
+     "metin": "Haklı Nedenle Fesih ve Kıdem"
+    },
+    {
+     "duzey": 2,
+     "metin": "550+ vatandaş rehberi ve süreç kılavuzları"
+    },
+    {
+     "duzey": 2,
+     "metin": "Merak edilenler, net cevaplar."
+    },
+    {
+     "duzey": 2,
+     "metin": "İletişim & Ofis"
+    },
+    {
+     "duzey": 3,
+     "metin": "Büro ve iletişim."
+    },
+    {
+     "duzey": 4,
+     "metin": "Ofis Adresi"
+    },
+    {
+     "duzey": 4,
+     "metin": "E-Posta"
+    },
+    {
+     "duzey": 4,
+     "metin": "Telefon"
+    },
+    {
+     "duzey": 4,
+     "metin": "Çalışma"
+    },
+    {
+     "duzey": 4,
+     "metin": "Mobil uygulama"
+    },
+    {
+     "duzey": 4,
+     "metin": "Sosyal Medya"
+    },
+    {
+     "duzey": 2,
+     "metin": "Diğer uygulamalarımız"
+    }
+   ],
+   "bolgeler": {
+    "main": 1,
+    "nav": 3,
+    "header": 0,
+    "footer": 1
+   }
+  },
+  {
+   "sayfa": "makale",
+   "adres": "/makale-oku/adam çalıştıran/Adam Çalıştıranın Sorumluluğu.docx",
+   "genislik": 320,
+   "bulgular": [],
+   "basliklar": [
+    {
+     "duzey": 1,
+     "metin": "Adam Çalıştıranın Sorumluluğu"
+    },
+    {
+     "duzey": 2,
+     "metin": "İletişim & Ofis"
+    },
+    {
+     "duzey": 3,
+     "metin": "Büro ve iletişim."
+    },
+    {
+     "duzey": 4,
+     "metin": "Ofis Adresi"
+    },
+    {
+     "duzey": 4,
+     "metin": "E-Posta"
+    },
+    {
+     "duzey": 4,
+     "metin": "Telefon"
+    },
+    {
+     "duzey": 4,
+     "metin": "Çalışma"
+    },
+    {
+     "duzey": 4,
+     "metin": "Mobil uygulama"
+    },
+    {
+     "duzey": 4,
+     "metin": "Sosyal Medya"
+    },
+    {
+     "duzey": 2,
+     "metin": "Diğer uygulamalarımız"
+    }
+   ],
+   "bolgeler": {
+    "main": 1,
+    "nav": 2,
+    "header": 1,
+    "footer": 1
+   }
+  },
+  {
+   "sayfa": "mevzuat",
+   "adres": "/mevzuat",
+   "genislik": 320,
+   "bulgular": [],
+   "basliklar": [
+    {
+     "duzey": 2,
+     "metin": "Kanun maddesi · Mevzuat arama"
+    },
+    {
+     "duzey": 1,
+     "metin": "Kanun Maddesi ve Şerh Bankası"
+    },
+    {
+     "duzey": 2,
+     "metin": "Sık aranan kanun maddeleri"
+    },
+    {
+     "duzey": 3,
+     "metin": "Başlangıç Hükümleri"
+    },
+    {
+     "duzey": 3,
+     "metin": "Kişiler Hukuku"
+    },
+    {
+     "duzey": 3,
+     "metin": "Aile Hukuku"
+    },
+    {
+     "duzey": 3,
+     "metin": "Miras Hukuku"
+    },
+    {
+     "duzey": 3,
+     "metin": "Eşya Hukuku"
+    },
+    {
+     "duzey": 3,
+     "metin": "Borçlar Genel Hükümler"
+    },
+    {
+     "duzey": 3,
+     "metin": "Borçlar Özel Hükümler"
+    },
+    {
+     "duzey": 3,
+     "metin": "Ticari İşletme Hukuku"
+    },
+    {
+     "duzey": 3,
+     "metin": "Ticaret Şirketleri"
+    },
+    {
+     "duzey": 3,
+     "metin": "Kıymetli Evrak Hukuku"
+    },
+    {
+     "duzey": 3,
+     "metin": "Taşıma Hukuku"
+    },
+    {
+     "duzey": 3,
+     "metin": "Deniz Ticareti Hukuku"
+    },
+    {
+     "duzey": 3,
+     "metin": "Sigorta Hukuku"
+    },
+    {
+     "duzey": 3,
+     "metin": "Yürürlük ve Son Hükümler"
+    },
+    {
+     "duzey": 3,
+     "metin": "Genel Hükümler"
+    },
+    {
+     "duzey": 3,
+     "metin": "Uluslararası Suçlar"
+    },
+    {
+     "duzey": 3,
+     "metin": "Kişilere Karşı Suçlar"
+    },
+    {
+     "duzey": 3,
+     "metin": "Topluma Karşı Suçlar"
+    },
+    {
+     "duzey": 3,
+     "metin": "Millete ve Devlete Karşı Suçlar"
+    },
+    {
+     "duzey": 3,
+     "metin": "Hukuk Muhakemeleri Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "İcra ve İflas Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Ceza Muhakemesi Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Vergi Usul Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Gelir Vergisi Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Kurumlar Vergisi Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Katma Değer Vergisi Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Amme Alacakları Tahsil Usulü"
+    },
+    {
+     "duzey": 3,
+     "metin": "Devlet Memurları Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Kaçakçılıkla Mücadele Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Bankacılık Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Sermaye Piyasası Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Rekabetin Korunması Hakkında Kanun"
+    },
+    {
+     "duzey": 3,
+     "metin": "Çek Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Tüketicinin Korunması Hakkında Kanun"
+    },
+    {
+     "duzey": 3,
+     "metin": "Kişisel Verilerin Korunması Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "İmar Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Dernekler Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Vakıflar Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Karayolları Trafik Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Ailenin Korunması Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Çocuk Koruma Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Kat Mülkiyeti Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Türk Vatandaşlığı Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Nüfus Hizmetleri Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Yabancılar ve Uluslararası Koruma Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "İş Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Sosyal Sigortalar ve GSS Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Sendikalar ve Toplu İş Sözleşmesi Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "İş Sağlığı ve Güvenliği Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Tebligat Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Arabuluculuk Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Polis Vazife ve Salâhiyet Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Jandarma Teşkilat, Görev ve Yetkileri Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "TSK İç Hizmet Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Özel Tüketim Vergisi Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "İl İdaresi Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Belediye Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Büyükşehir Belediyesi Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Kamu İhale Sözleşmeleri Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Devlet İhale Kanunu"
+    },
+    {
+     "duzey": 3,
+     "metin": "Kamulaştırma Kanunu"
+    },
+    {
+     "duzey": 2,
+     "metin": "İletişim & Ofis"
+    },
+    {
+     "duzey": 3,
+     "metin": "Büro ve iletişim."
+    },
+    {
+     "duzey": 4,
+     "metin": "Ofis Adresi"
+    },
+    {
+     "duzey": 4,
+     "metin": "E-Posta"
+    },
+    {
+     "duzey": 4,
+     "metin": "Telefon"
+    },
+    {
+     "duzey": 4,
+     "metin": "Çalışma"
+    },
+    {
+     "duzey": 4,
+     "metin": "Mobil uygulama"
+    },
+    {
+     "duzey": 4,
+     "metin": "Sosyal Medya"
+    },
+    {
+     "duzey": 2,
+     "metin": "Diğer uygulamalarımız"
+    }
+   ],
+   "bolgeler": {
+    "main": 1,
+    "nav": 3,
+    "header": 1,
+    "footer": 1
+   }
+  },
+  {
+   "sayfa": "madde",
+   "adres": "/mevzuat/tbk/madde-1",
+   "genislik": 320,
+   "bulgular": [
+    {
+     "kural": "duzey-atlama",
+     "sira": 2,
+     "onceki": 2,
+     "sonraki": 4,
+     "metin": "1. Maddenin Sistematiği ve Genel Açıklama"
+    },
+    {
+     "kural": "footer-yok"
+    }
+   ],
+   "basliklar": [
+    {
+     "duzey": 1,
+     "metin": "TBK 1 — TBK Madde 1 (TBK m. 1)"
+    },
+    {
+     "duzey": 2,
+     "metin": "Akademik yorum ve analiz — TBK m. 1 şerhi"
+    },
+    {
+     "duzey": 4,
+     "metin": "1. Maddenin Sistematiği ve Genel Açıklama"
+    },
+    {
+     "duzey": 4,
+     "metin": "2. Maddedeki Kavramların Analizi"
+    },
+    {
+     "duzey": 5,
+     "metin": "2.1. Sözleşme Kavramı"
+    },
+    {
+     "duzey": 5,
+     "metin": "2.2. İrade Açıklaması"
+    },
+    {
+     "duzey": 5,
+     "metin": "2.3. Karşılıklılık ve Birbirine Uygunluk"
+    },
+    {
+     "duzey": 5,
+     "metin": "2.4. Açık ve Örtülü İrade Açıklaması"
+    },
+    {
+     "duzey": 4,
+     "metin": "3. Sistematik İlişkiler"
+    },
+    {
+     "duzey": 4,
+     "metin": "4. Uygulama: Yargıtay İçtihadı"
+    },
+    {
+     "duzey": 5,
+     "metin": "4.1. Yargıtay İçtihadı Birleştirme Kararları (Özel Öncelik)"
+    },
+    {
+     "duzey": 5,
+     "metin": "4.2. Yargıtay Hukuk Genel Kurulu Kararı"
+    },
+    {
+     "duzey": 5,
+     "metin": "4.3. Yargıtay Daire Kararları"
+    },
+    {
+     "duzey": 5,
+     "metin": "4.4. Yargıtay İçtihadının Sentezi"
+    },
+    {
+     "duzey": 4,
+     "metin": "5. Pratik Örnek Olaylar"
+    },
+    {
+     "duzey": 4,
+     "metin": "6. Pratik Uygulama Notları"
+    },
+    {
+     "duzey": 4,
+     "metin": "7. Eleştirel Değerlendirme"
+    },
+    {
+     "duzey": 3,
+     "metin": "Metodolojik Not"
+    },
+    {
+     "duzey": 2,
+     "metin": "Bu maddeye değinen içerik"
+    }
+   ],
+   "bolgeler": {
+    "main": 1,
+    "nav": 2,
+    "header": 1,
+    "footer": 0
+   }
+  },
+  {
+   "sayfa": "ders-notu",
+   "adres": "/ders-notlari/ankara/aile-hukuku-yillik",
+   "genislik": 320,
+   "bulgular": [
+    {
+     "kural": "header-yok"
+    }
+   ],
+   "basliklar": [
+    {
+     "duzey": 1,
+     "metin": "AÜHF Aile Hukuku Yıllık"
+    },
+    {
+     "duzey": 2,
+     "metin": "60Saniyede omurga"
+    },
+    {
+     "duzey": 2,
+     "metin": "Sınav kutusu"
+    },
+    {
+     "duzey": 2,
+     "metin": "Bu notu bitirince"
+    },
+    {
+     "duzey": 2,
+     "metin": "Nişanlanma"
+    },
+    {
+     "duzey": 2,
+     "metin": "Evlenme"
+    },
+    {
+     "duzey": 2,
+     "metin": "Evliliğin butlanı"
+    },
+    {
+     "duzey": 2,
+     "metin": "Boşanma"
+    },
+    {
+     "duzey": 2,
+     "metin": "Mal rejimi"
+    },
+    {
+     "duzey": 2,
+     "metin": "Velayet"
+    },
+    {
+     "duzey": 2,
+     "metin": "Nafaka"
+    },
+    {
+     "duzey": 2,
+     "metin": "Güz ve bahar nasıl birleşir"
+    },
+    {
+     "duzey": 2,
+     "metin": "Sınav iskeleti ve kaynakça disiplini"
+    },
+    {
+     "duzey": 2,
+     "metin": "Aile tuzak defteri"
+    },
+    {
+     "duzey": 2,
+     "metin": "AÜHF · Yıllık — nasıl okunur"
+    },
+    {
+     "duzey": 2,
+     "metin": "İşlenmiş örnek olaylar"
+    },
+    {
+     "duzey": 3,
+     "metin": "Düğünden iki hafta önce bozulan nişan ve geri istenen altın "
+    },
+    {
+     "duzey": 3,
+     "metin": "Kredili daire, miras arsa ve kira geliri: katılma alacağının"
+    },
+    {
+     "duzey": 3,
+     "metin": "Ortak konutu terk eden eş ve ihtarın takvimi"
+    },
+    {
+     "duzey": 3,
+     "metin": "Boşanmadan sonra doğan çocuk, soybağının reddi ve babalık da"
+    },
+    {
+     "duzey": 2,
+     "metin": "Sınav iskeleti"
+    },
+    {
+     "duzey": 2,
+     "metin": "Tuzak defteri"
+    },
+    {
+     "duzey": 2,
+     "metin": "Kısa test"
+    },
+    {
+     "duzey": 2,
+     "metin": "Kontrol listesi"
+    },
+    {
+     "duzey": 2,
+     "metin": "Sık sorulanlar"
+    },
+    {
+     "duzey": 2,
+     "metin": "Kamuya açık kaynaklar"
+    },
+    {
+     "duzey": 2,
+     "metin": "Aynı dönemden diğer notlar"
+    },
+    {
+     "duzey": 2,
+     "metin": "Aynı maddelere değinen içerik"
+    },
+    {
+     "duzey": 2,
+     "metin": "İletişim & Ofis"
+    },
+    {
+     "duzey": 3,
+     "metin": "Büro ve iletişim."
+    },
+    {
+     "duzey": 4,
+     "metin": "Ofis Adresi"
+    },
+    {
+     "duzey": 4,
+     "metin": "E-Posta"
+    },
+    {
+     "duzey": 4,
+     "metin": "Telefon"
+    },
+    {
+     "duzey": 4,
+     "metin": "Çalışma"
+    },
+    {
+     "duzey": 4,
+     "metin": "Mobil uygulama"
+    },
+    {
+     "duzey": 4,
+     "metin": "Sosyal Medya"
+    },
+    {
+     "duzey": 2,
+     "metin": "Diğer uygulamalarımız"
+    }
+   ],
+   "bolgeler": {
+    "main": 1,
+    "nav": 4,
+    "header": 0,
+    "footer": 2
+   }
+  },
+  {
+   "sayfa": "ders-notu-usul",
+   "adres": "/ders-notlari/ankara/medeni-usul-donem-1",
+   "genislik": 320,
+   "bulgular": [
+    {
+     "kural": "header-yok"
+    }
+   ],
+   "basliklar": [
+    {
+     "duzey": 1,
+     "metin": "AÜHF Medeni Usul Hukuku 1. Dönem (Güz)"
+    },
+    {
+     "duzey": 2,
+     "metin": "60Saniyede omurga"
+    },
+    {
+     "duzey": 2,
+     "metin": "Sınav kutusu"
+    },
+    {
+     "duzey": 2,
+     "metin": "Bu notu bitirince"
+    },
+    {
+     "duzey": 2,
+     "metin": "Görev"
+    },
+    {
+     "duzey": 2,
+     "metin": "Yetki"
+    },
+    {
+     "duzey": 2,
+     "metin": "Dava şartları"
+    },
+    {
+     "duzey": 2,
+     "metin": "Dava ve cevap dilekçesi"
+    },
+    {
+     "duzey": 2,
+     "metin": "Sınav iskeleti ve kaynakça disiplini"
+    },
+    {
+     "duzey": 2,
+     "metin": "HMK tuzak defteri"
+    },
+    {
+     "duzey": 2,
+     "metin": "AÜHF · 1. Dönem (Güz) — nasıl okunur"
+    },
+    {
+     "duzey": 2,
+     "metin": "İşlenmiş örnek olaylar"
+    },
+    {
+     "duzey": 3,
+     "metin": "Olay (kurmaca senaryo) — Görev"
+    },
+    {
+     "duzey": 3,
+     "metin": "Olay (kurmaca senaryo) — Yetki"
+    },
+    {
+     "duzey": 3,
+     "metin": "Olay (kurmaca senaryo) — Dava şartları"
+    },
+    {
+     "duzey": 3,
+     "metin": "Olay (kurmaca senaryo) — Dava ve cevap dilekçesi"
+    },
+    {
+     "duzey": 2,
+     "metin": "Kontrol listesi"
+    },
+    {
+     "duzey": 2,
+     "metin": "Sık sorulanlar"
+    },
+    {
+     "duzey": 2,
+     "metin": "Kamuya açık kaynaklar"
+    },
+    {
+     "duzey": 2,
+     "metin": "Aynı dönemden diğer notlar"
+    },
+    {
+     "duzey": 2,
+     "metin": "İletişim & Ofis"
+    },
+    {
+     "duzey": 3,
+     "metin": "Büro ve iletişim."
+    },
+    {
+     "duzey": 4,
+     "metin": "Ofis Adresi"
+    },
+    {
+     "duzey": 4,
+     "metin": "E-Posta"
+    },
+    {
+     "duzey": 4,
+     "metin": "Telefon"
+    },
+    {
+     "duzey": 4,
+     "metin": "Çalışma"
+    },
+    {
+     "duzey": 4,
+     "metin": "Mobil uygulama"
+    },
+    {
+     "duzey": 4,
+     "metin": "Sosyal Medya"
+    },
+    {
+     "duzey": 2,
+     "metin": "Diğer uygulamalarımız"
+    }
+   ],
+   "bolgeler": {
+    "main": 1,
+    "nav": 4,
+    "header": 0,
+    "footer": 2
+   }
+  },
+  {
+   "sayfa": "ders-notu-esya",
+   "adres": "/ders-notlari/ankara/esya-hukuku-yillik",
+   "genislik": 320,
+   "bulgular": [
+    {
+     "kural": "header-yok"
+    }
+   ],
+   "basliklar": [
+    {
+     "duzey": 1,
+     "metin": "AÜHF Eşya Hukuku Yıllık"
+    },
+    {
+     "duzey": 2,
+     "metin": "60Saniyede omurga"
+    },
+    {
+     "duzey": 2,
+     "metin": "Sınav kutusu"
+    },
+    {
+     "duzey": 2,
+     "metin": "Bu notu bitirince"
+    },
+    {
+     "duzey": 2,
+     "metin": "Zilyetlik"
+    },
+    {
+     "duzey": 2,
+     "metin": "Tapu sicili"
+    },
+    {
+     "duzey": 2,
+     "metin": "Mülkiyet"
+    },
+    {
+     "duzey": 2,
+     "metin": "Paylı mülkiyet ve elbirliği"
+    },
+    {
+     "duzey": 2,
+     "metin": "İrtifak hakları"
+    },
+    {
+     "duzey": 2,
+     "metin": "Taşınmaz rehni (ipotek)"
+    },
+    {
+     "duzey": 2,
+     "metin": "Taşınır rehni"
+    },
+    {
+     "duzey": 2,
+     "metin": "Kat mülkiyeti"
+    },
+    {
+     "duzey": 2,
+     "metin": "Güz ve bahar nasıl birleşir"
+    },
+    {
+     "duzey": 2,
+     "metin": "Sınav iskeleti ve kaynakça disiplini"
+    },
+    {
+     "duzey": 2,
+     "metin": "Eşya tuzak defteri"
+    },
+    {
+     "duzey": 2,
+     "metin": "AÜHF · Yıllık — nasıl okunur"
+    },
+    {
+     "duzey": 2,
+     "metin": "İşlenmiş örnek olaylar"
+    },
+    {
+     "duzey": 3,
+     "metin": "Harici satışla alınan arsa için tescil talebi"
+    },
+    {
+     "duzey": 3,
+     "metin": "Sahte vekâletnameyle satılan daire ve iyiniyetli alıcı"
+    },
+    {
+     "duzey": 3,
+     "metin": "Tamirciye bırakılan dizüstü bilgisayar ile çalınan bisiklet"
+    },
+    {
+     "duzey": 2,
+     "metin": "Sınav iskeleti"
+    },
+    {
+     "duzey": 2,
+     "metin": "Tuzak defteri"
+    },
+    {
+     "duzey": 2,
+     "metin": "Kısa test"
+    },
+    {
+     "duzey": 2,
+     "metin": "Kontrol listesi"
+    },
+    {
+     "duzey": 2,
+     "metin": "Sık sorulanlar"
+    },
+    {
+     "duzey": 2,
+     "metin": "Kamuya açık kaynaklar"
+    },
+    {
+     "duzey": 2,
+     "metin": "Aynı dönemden diğer notlar"
+    },
+    {
+     "duzey": 2,
+     "metin": "İletişim & Ofis"
+    },
+    {
+     "duzey": 3,
+     "metin": "Büro ve iletişim."
+    },
+    {
+     "duzey": 4,
+     "metin": "Ofis Adresi"
+    },
+    {
+     "duzey": 4,
+     "metin": "E-Posta"
+    },
+    {
+     "duzey": 4,
+     "metin": "Telefon"
+    },
+    {
+     "duzey": 4,
+     "metin": "Çalışma"
+    },
+    {
+     "duzey": 4,
+     "metin": "Mobil uygulama"
+    },
+    {
+     "duzey": 4,
+     "metin": "Sosyal Medya"
+    },
+    {
+     "duzey": 2,
+     "metin": "Diğer uygulamalarımız"
+    }
+   ],
+   "bolgeler": {
+    "main": 1,
+    "nav": 5,
+    "header": 0,
+    "footer": 2
+   }
+  },
+  {
+   "sayfa": "yargi-arsivi",
+   "adres": "/yargi-kararlari",
+   "genislik": 320,
+   "bulgular": [
+    {
+     "kural": "header-yok"
+    }
+   ],
+   "basliklar": [
+    {
+     "duzey": 1,
+     "metin": "Yargıtay karar arşivi"
+    },
+    {
+     "duzey": 2,
+     "metin": "Yargıtay arşivi üyelikle"
+    },
+    {
+     "duzey": 2,
+     "metin": "İletişim & Ofis"
+    },
+    {
+     "duzey": 3,
+     "metin": "Büro ve iletişim."
+    },
+    {
+     "duzey": 4,
+     "metin": "Ofis Adresi"
+    },
+    {
+     "duzey": 4,
+     "metin": "E-Posta"
+    },
+    {
+     "duzey": 4,
+     "metin": "Telefon"
+    },
+    {
+     "duzey": 4,
+     "metin": "Çalışma"
+    },
+    {
+     "duzey": 4,
+     "metin": "Mobil uygulama"
+    },
+    {
+     "duzey": 4,
+     "metin": "Sosyal Medya"
+    },
+    {
+     "duzey": 2,
+     "metin": "Diğer uygulamalarımız"
+    }
+   ],
+   "bolgeler": {
+    "main": 1,
+    "nav": 3,
+    "header": 0,
+    "footer": 1
+   }
+  },
+  {
+   "sayfa": "yargi-istatistik",
+   "adres": "/yargi-kararlari/istatistik",
+   "genislik": 320,
+   "bulgular": [
+    {
+     "kural": "header-yok"
+    }
+   ],
+   "basliklar": [
+    {
+     "duzey": 1,
+     "metin": "Karar arşivi istatistikleri"
+    },
+    {
+     "duzey": 2,
+     "metin": "Yıllara göre yayımlanan karar sayısı"
+    },
+    {
+     "duzey": 2,
+     "metin": "Birimlere göre yayımlanan karar sayısı"
+    },
+    {
+     "duzey": 2,
+     "metin": "İletişim & Ofis"
+    },
+    {
+     "duzey": 3,
+     "metin": "Büro ve iletişim."
+    },
+    {
+     "duzey": 4,
+     "metin": "Ofis Adresi"
+    },
+    {
+     "duzey": 4,
+     "metin": "E-Posta"
+    },
+    {
+     "duzey": 4,
+     "metin": "Telefon"
+    },
+    {
+     "duzey": 4,
+     "metin": "Çalışma"
+    },
+    {
+     "duzey": 4,
+     "metin": "Mobil uygulama"
+    },
+    {
+     "duzey": 4,
+     "metin": "Sosyal Medya"
+    },
+    {
+     "duzey": 2,
+     "metin": "Diğer uygulamalarımız"
+    }
+   ],
+   "bolgeler": {
+    "main": 1,
+    "nav": 3,
+    "header": 0,
+    "footer": 1
+   }
+  },
+  {
+   "sayfa": "karar",
+   "adres": "/yargi-kararlari/752428200",
+   "genislik": 320,
+   "bulgular": [
+    {
+     "kural": "header-yok"
+    }
+   ],
+   "basliklar": [
+    {
+     "duzey": 1,
+     "metin": "Yargıtay Büyük Genel Kurulu, E. 2022/1, K. 2022/1, T. 26.01."
+    },
+    {
+     "duzey": 2,
+     "metin": "Kararın başı"
+    },
+    {
+     "duzey": 2,
+     "metin": "Yargıtay arşivi üyelikle"
+    },
+    {
+     "duzey": 2,
+     "metin": "İletişim & Ofis"
+    },
+    {
+     "duzey": 3,
+     "metin": "Büro ve iletişim."
+    },
+    {
+     "duzey": 4,
+     "metin": "Ofis Adresi"
+    },
+    {
+     "duzey": 4,
+     "metin": "E-Posta"
+    },
+    {
+     "duzey": 4,
+     "metin": "Telefon"
+    },
+    {
+     "duzey": 4,
+     "metin": "Çalışma"
+    },
+    {
+     "duzey": 4,
+     "metin": "Mobil uygulama"
+    },
+    {
+     "duzey": 4,
+     "metin": "Sosyal Medya"
+    },
+    {
+     "duzey": 2,
+     "metin": "Diğer uygulamalarımız"
+    }
+   ],
+   "bolgeler": {
+    "main": 1,
+    "nav": 3,
+    "header": 0,
+    "footer": 1
+   }
+  },
+  {
+   "sayfa": "rehber",
+   "adres": "/bilgi/aidat-borcu-ve-gecikme-tazminati",
+   "genislik": 320,
+   "bulgular": [
+    {
+     "kural": "header-yok"
+    }
+   ],
+   "basliklar": [
+    {
+     "duzey": 1,
+     "metin": "Aidat borcu ve gecikme tazminatı"
+    },
+    {
+     "duzey": 2,
+     "metin": "Kısa not"
+    },
+    {
+     "duzey": 2,
+     "metin": "Kontrol listesi"
+    },
+    {
+     "duzey": 2,
+     "metin": "Sık sorulan sorular"
+    },
+    {
+     "duzey": 2,
+     "metin": "İlgili mevzuat"
+    },
+    {
+     "duzey": 2,
+     "metin": "Bunlar da işinize yarar"
+    },
+    {
+     "duzey": 2,
+     "metin": "İletişim & Ofis"
+    },
+    {
+     "duzey": 3,
+     "metin": "Büro ve iletişim."
+    },
+    {
+     "duzey": 4,
+     "metin": "Ofis Adresi"
+    },
+    {
+     "duzey": 4,
+     "metin": "E-Posta"
+    },
+    {
+     "duzey": 4,
+     "metin": "Telefon"
+    },
+    {
+     "duzey": 4,
+     "metin": "Çalışma"
+    },
+    {
+     "duzey": 4,
+     "metin": "Mobil uygulama"
+    },
+    {
+     "duzey": 4,
+     "metin": "Sosyal Medya"
+    },
+    {
+     "duzey": 2,
+     "metin": "Diğer uygulamalarımız"
+    }
+   ],
+   "bolgeler": {
+    "main": 1,
+    "nav": 3,
+    "header": 0,
+    "footer": 1
+   }
+  },
+  {
+   "sayfa": "hesaplama",
+   "adres": "/hesaplama/kidem",
+   "genislik": 320,
+   "bulgular": [
+    {
+     "kural": "header-yok"
+    }
+   ],
+   "basliklar": [
+    {
+     "duzey": 1,
+     "metin": "Kıdem & İhbar Tazminatı"
+    },
+    {
+     "duzey": 2,
+     "metin": "Kavram & forum cevabı"
+    },
+    {
+     "duzey": 3,
+     "metin": "Kopyalanabilir mini cevap"
+    },
+    {
+     "duzey": 2,
+     "metin": "Kısa bilgilendirme"
+    },
+    {
+     "duzey": 2,
+     "metin": "Vatandaş rehberi — derin okuma"
+    },
+    {
+     "duzey": 2,
+     "metin": "İlgili mevzuat & sayfalar"
+    },
+    {
+     "duzey": 2,
+     "metin": "İlgili hesaplama araçları"
+    },
+    {
+     "duzey": 2,
+     "metin": "İletişim & Ofis"
+    },
+    {
+     "duzey": 3,
+     "metin": "Büro ve iletişim."
+    },
+    {
+     "duzey": 4,
+     "metin": "Ofis Adresi"
+    },
+    {
+     "duzey": 4,
+     "metin": "E-Posta"
+    },
+    {
+     "duzey": 4,
+     "metin": "Telefon"
+    },
+    {
+     "duzey": 4,
+     "metin": "Çalışma"
+    },
+    {
+     "duzey": 4,
+     "metin": "Mobil uygulama"
+    },
+    {
+     "duzey": 4,
+     "metin": "Sosyal Medya"
+    },
+    {
+     "duzey": 2,
+     "metin": "Diğer uygulamalarımız"
+    }
+   ],
+   "bolgeler": {
+    "main": 1,
+    "nav": 3,
+    "header": 0,
+    "footer": 1
+   }
+  },
+  {
+   "sayfa": "icthat",
+   "adres": "/icthat",
+   "genislik": 320,
+   "bulgular": [],
+   "basliklar": [
+    {
+     "duzey": 2,
+     "metin": "Günlük Takip"
+    },
+    {
+     "duzey": 1,
+     "metin": "İçtihat & Mevzuat"
+    },
+    {
+     "duzey": 2,
+     "metin": "Resmî Gazete"
+    },
+    {
+     "duzey": 3,
+     "metin": "–– Coğrafi Veri İzinleri Yönetmeliği"
+    },
+    {
+     "duzey": 3,
+     "metin": "a - Yargı İlânları"
+    },
+    {
+     "duzey": 3,
+     "metin": "b - Artırma, Eksiltme ve İhale İlânları"
+    },
+    {
+     "duzey": 3,
+     "metin": "c - Çeşitli İlânlar"
+    },
+    {
+     "duzey": 3,
+     "metin": "– T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet "
+    },
+    {
+     "duzey": 3,
+     "metin": "–– Elektrikli Skuter Yönetmeliğinde Değişiklik Yapılmasına D"
+    },
+    {
+     "duzey": 3,
+     "metin": "a - Yargı İlânları"
+    },
+    {
+     "duzey": 3,
+     "metin": "b - Artırma, Eksiltme ve İhale İlânları"
+    },
+    {
+     "duzey": 3,
+     "metin": "c - Çeşitli İlânlar"
+    },
+    {
+     "duzey": 3,
+     "metin": "– T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet "
+    },
+    {
+     "duzey": 2,
+     "metin": "İletişim & Ofis"
+    },
+    {
+     "duzey": 3,
+     "metin": "Büro ve iletişim."
+    },
+    {
+     "duzey": 4,
+     "metin": "Ofis Adresi"
+    },
+    {
+     "duzey": 4,
+     "metin": "E-Posta"
+    },
+    {
+     "duzey": 4,
+     "metin": "Telefon"
+    },
+    {
+     "duzey": 4,
+     "metin": "Çalışma"
+    },
+    {
+     "duzey": 4,
+     "metin": "Mobil uygulama"
+    },
+    {
+     "duzey": 4,
+     "metin": "Sosyal Medya"
+    },
+    {
+     "duzey": 2,
+     "metin": "Diğer uygulamalarımız"
+    }
+   ],
+   "bolgeler": {
+    "main": 1,
+    "nav": 3,
+    "header": 1,
+    "footer": 1
+   }
+  },
+  {
+   "sayfa": "kavram",
+   "adres": "/kavram/satim",
+   "genislik": 320,
+   "bulgular": [
+    {
+     "kural": "header-yok"
+    }
+   ],
+   "basliklar": [
+    {
+     "duzey": 1,
+     "metin": "Satım sözleşmesi"
+    },
+    {
+     "duzey": 2,
+     "metin": "Forum / grup için mini cevap"
+    },
+    {
+     "duzey": 2,
+     "metin": "Mevzuat"
+    },
+    {
+     "duzey": 2,
+     "metin": "Hesaplama araçları"
+    },
+    {
+     "duzey": 2,
+     "metin": "İlgili kavramlar"
+    },
+    {
+     "duzey": 2,
+     "metin": "Aynı maddelere değinen içerik"
+    },
+    {
+     "duzey": 2,
+     "metin": "İletişim & Ofis"
+    },
+    {
+     "duzey": 3,
+     "metin": "Büro ve iletişim."
+    },
+    {
+     "duzey": 4,
+     "metin": "Ofis Adresi"
+    },
+    {
+     "duzey": 4,
+     "metin": "E-Posta"
+    },
+    {
+     "duzey": 4,
+     "metin": "Telefon"
+    },
+    {
+     "duzey": 4,
+     "metin": "Çalışma"
+    },
+    {
+     "duzey": 4,
+     "metin": "Mobil uygulama"
+    },
+    {
+     "duzey": 4,
+     "metin": "Sosyal Medya"
+    },
+    {
+     "duzey": 2,
+     "metin": "Diğer uygulamalarımız"
+    }
+   ],
+   "bolgeler": {
+    "main": 1,
+    "nav": 3,
+    "header": 0,
+    "footer": 1
+   }
+  },
+  {
+   "sayfa": "yazar",
+   "adres": "/avukat-fethi-guzel",
+   "genislik": 320,
+   "bulgular": [
+    {
+     "kural": "header-yok"
+    }
+   ],
+   "basliklar": [
+    {
+     "duzey": 1,
+     "metin": "Av. Fethi Güzel"
+    },
+    {
+     "duzey": 2,
+     "metin": "Ofis"
+    },
+    {
+     "duzey": 2,
+     "metin": "Yayımlanmış eserler"
+    },
+    {
+     "duzey": 2,
+     "metin": "Sitedeki çalışmalar"
+    },
+    {
+     "duzey": 2,
+     "metin": "Bölgesel hukuki bilgilendirme"
+    },
+    {
+     "duzey": 2,
+     "metin": "Bilgilendirme yaklaşımı"
+    },
+    {
+     "duzey": 2,
+     "metin": "İletişim & Ofis"
+    },
+    {
+     "duzey": 3,
+     "metin": "Büro ve iletişim."
+    },
+    {
+     "duzey": 4,
+     "metin": "Ofis Adresi"
+    },
+    {
+     "duzey": 4,
+     "metin": "E-Posta"
+    },
+    {
+     "duzey": 4,
+     "metin": "Telefon"
+    },
+    {
+     "duzey": 4,
+     "metin": "Çalışma"
+    },
+    {
+     "duzey": 4,
+     "metin": "Mobil uygulama"
+    },
+    {
+     "duzey": 4,
+     "metin": "Sosyal Medya"
+    },
+    {
+     "duzey": 2,
+     "metin": "Diğer uygulamalarımız"
+    }
+   ],
+   "bolgeler": {
+    "main": 1,
+    "nav": 3,
+    "header": 0,
+    "footer": 1
+   }
+  },
+  {
+   "sayfa": "bolge",
+   "adres": "/van-avukat",
+   "genislik": 320,
+   "bulgular": [],
+   "basliklar": [
+    {
+     "duzey": 1,
+     "metin": "Van’da miras, taşınmaz ve aile hukuku bilgilendirmesi"
+    },
+    {
+     "duzey": 2,
+     "metin": "Taşınmaz ve tapu uyuşmazlıkları"
+    },
+    {
+     "duzey": 2,
+     "metin": "Aile ve miras kesişimi"
+    },
+    {
+     "duzey": 2,
+     "metin": "Ticaret ve tüketici"
+    },
+    {
+     "duzey": 2,
+     "metin": "Ceza ve soruşturma bilgilendirmesi"
+    },
+    {
+     "duzey": 2,
+     "metin": "İlgili rehberler ve mevzuat"
+    },
+    {
+     "duzey": 2,
+     "metin": "Sık sorulanlar"
+    },
+    {
+     "duzey": 2,
+     "metin": "Kaynak ve iletişim"
+    },
+    {
+     "duzey": 2,
+     "metin": "Van ve çevresi — bölge yazıları"
+    },
+    {
+     "duzey": 2,
+     "metin": "Diğer bölgesel bilgilendirmeler"
+    },
+    {
+     "duzey": 2,
+     "metin": "İletişim & Ofis"
+    },
+    {
+     "duzey": 3,
+     "metin": "Büro ve iletişim."
+    },
+    {
+     "duzey": 4,
+     "metin": "Ofis Adresi"
+    },
+    {
+     "duzey": 4,
+     "metin": "E-Posta"
+    },
+    {
+     "duzey": 4,
+     "metin": "Telefon"
+    },
+    {
+     "duzey": 4,
+     "metin": "Çalışma"
+    },
+    {
+     "duzey": 4,
+     "metin": "Mobil uygulama"
+    },
+    {
+     "duzey": 4,
+     "metin": "Sosyal Medya"
+    },
+    {
+     "duzey": 2,
+     "metin": "Diğer uygulamalarımız"
+    }
+   ],
+   "bolgeler": {
+    "main": 1,
+    "nav": 3,
+    "header": 1,
+    "footer": 1
+   }
+  },
+  {
+   "sayfa": "uyelik",
+   "adres": "/uyelik",
+   "genislik": 320,
+   "bulgular": [
+    {
+     "kural": "header-yok"
+    }
+   ],
+   "basliklar": [
+    {
+     "duzey": 1,
+     "metin": "Yargıtay arşivi"
+    },
+    {
+     "duzey": 2,
+     "metin": "İletişim & Ofis"
+    },
+    {
+     "duzey": 3,
+     "metin": "Büro ve iletişim."
+    },
+    {
+     "duzey": 4,
+     "metin": "Ofis Adresi"
+    },
+    {
+     "duzey": 4,
+     "metin": "E-Posta"
+    },
+    {
+     "duzey": 4,
+     "metin": "Telefon"
+    },
+    {
+     "duzey": 4,
+     "metin": "Çalışma"
+    },
+    {
+     "duzey": 4,
+     "metin": "Mobil uygulama"
+    },
+    {
+     "duzey": 4,
+     "metin": "Sosyal Medya"
+    },
+    {
+     "duzey": 2,
+     "metin": "Diğer uygulamalarımız"
+    }
+   ],
+   "bolgeler": {
+    "main": 1,
+    "nav": 3,
+    "header": 0,
+    "footer": 1
+   }
+  }
+ ]
+}

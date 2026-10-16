@@ -14,6 +14,7 @@
  *
  * Kullanım:
  *   node scripts/tasarim-denetim.mjs --etiket=once [--taban=http://localhost:3123] [--sadece=anasayfa,madde] [--yapi]
+ *     [--genislik=320]   (varsayılan 1280,390; 320 px WCAG 1.4.10 yeniden akış ölçümüdür)
  * Çıktı:
  *   docs/aylik-plan/raporlar/tasarim-denetim-<etiket>.json
  *   docs/aylik-plan/raporlar/gorsel/g15-<sayfa>-<genişlik>-<etiket>.jpg
@@ -24,7 +25,7 @@ import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { createRequire } from 'node:module';
-import { DENETIM_SAYFALARI, hedefIhlalleri, ozetle } from '../lib/tasarim-denetim.mjs';
+import { DENETIM_SAYFALARI, genislikSec, hedefIhlalleri, ozetle } from '../lib/tasarim-denetim.mjs';
 import { yapiDenetimi, yapiOzeti } from '../lib/erisilebilirlik.mjs';
 
 const kok = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -46,10 +47,7 @@ const gorselKlasoru = join(raporKlasoru, 'gorsel');
 mkdirSync(gorselKlasoru, { recursive: true });
 
 const axeKaynak = readFileSync(createRequire(import.meta.url).resolve('axe-core/axe.min.js'), 'utf8');
-const GENISLIKLER = [
-  { ad: 'masaustu', w: 1280, h: 800 },
-  { ad: 'mobil', w: 390, h: 844 },
-];
+const GENISLIKLER = genislikSec(arg('genislik', ''));
 
 /** Sayfa içinde: hedef kutuları ve taşma. */
 const OLC = () => {
