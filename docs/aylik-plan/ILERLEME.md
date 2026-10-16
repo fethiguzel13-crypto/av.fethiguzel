@@ -885,3 +885,18 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - **G23 DEVAM EDİYOR.** Kabul ölçütünden yalnız `npm run kalite`'nin yeşil sonucu eksiktir. Sıradaki oturum makine prizdeyse ya da pil
   %50'nin üzerindeyse önce boş belleği denetler, sonra tam kapıyı ön planda bitişini bekleyerek koşar. Kapı yeşilse PLAN.md'de G23 `[x]`
   yapılır ve G24'e geçilir.
+
+## 2026-10-16 10:02 — G23 DEVAM EDİYOR, G24 1. adım (başsız oturum, başladı 10:02)
+
+- G23 DEVAM EDİYOR, G24 DEVAM EDİYOR (başladı 10:05, kısa iş: 1. adım). Devralma: `DURAKLAT` yok, ağaç temizdir. Son iki commit
+  (`aa6e15c00`, `b83d1c34e`) ile `76ba645f9` birleştirmesi etkileşimli oturuma aittir. Makine pildedir (%20, şarj olmuyor), boş bellek
+  833 MB'tır, 3123 ve 3124 boştur, yalnız hasat motoru ve MCP süreçleri çalışmaktadır. Pil %50'nin altında olduğundan tam kapı
+  başlatılmamıştır.
+- 10:05-10:13 G24 1. adım: `lib/erisilebilirlik.mjs` (başlık sırası, işaret bölgeleri, odak görünürlüğü) ve dokuz birim testi
+  `lib/__tests__/erisilebilirlik.test.mjs`'e yazılmıştır. Testler önce kırmızı (modül yok), sonra 9/9 yeşildir. İki dosyada ESLint
+  temizdir, `test:quality` takımı 398 testte yeşildir (`logs/g24-quality-1011.log`). Modülü henüz hiçbir sayfa ya da betik
+  çağırmamaktadır.
+- Pil 10:04'te %20, 10:09'da %17'dir (5 dk'da %3). Hızlı kapı pilde 6-15 dk sürdüğünden kapı ortasında uyku riski görülmüş ve kapı
+  koşulmamıştır. Bu yüzden commit `wip:` önekiyle atılmıştır. Sıradaki oturum hızlı kapıyı koşar ve kayda yazar.
+- **G23 DEVAM EDİYOR** (yalnız `npm run kalite` eksik), **G24 DEVAM EDİYOR** (1. adım bitti, sıradaki 2. adım). Sıradaki oturum makine
+  prizdeyse ya da pil %50'nin üzerindeyse önce tam kapıyı ön planda koşar. Kapı yeşilse G23 `[x]` yapılır ve G24 2. adıma geçilir.
