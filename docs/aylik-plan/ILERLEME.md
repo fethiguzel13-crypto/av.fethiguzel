@@ -956,4 +956,18 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   izlenmeyen `scripts/karar-arama/`, çalışan `scripts/karar-arama/sunucu.mjs`). Kapı yeni `test:karar-arama` adımını da koşmuş ve
   44/44 yeşil bulmuştur. Bu dosyalara dokunulmamış, commit'lere eklenmemiştir. Araya giren commit yoktur.
 - **G24 DEVAM EDİYOR** (1-4. adım bitti, sıradaki 5. adım: 320 px yeniden akış ve azaltılmış hareket). 6. adıma devredilen yeni bulgu:
-  1280 px'te mevzuat açılır menüsü sağ kenardan taşmaktadır.
+  1280 px'te mevzuat açılır menüsü sağ kenardan taşmaktadır. Kayıt commit'i `dff3ad96d`.
+- 00:50-01:00 G24 5. adım: `genislikSec` (test önce kırmızı) ve `tasarim-denetim --genislik=320` eklenmiştir (`ba9835234`). 17 sayfanın
+  320 px taramasında axe ihlali ve küçük hedef 0, taşan tek sayfa madde (350 px) çıkmıştır. Nedeni şerhteki boşluksuz yazar dizisidir,
+  `main`'e `overflow-wrap:anywhere` verilmiştir (`bb823d00b`). Mevzuat açılır menüsü `nav`'a göre ortalanmış, düğmeye `aria-controls`
+  verilmiştir (`57433374d`). Uçtan uca dosyasına 320 px yeniden akış ve azaltılmış hareket testleri eklenmiş, masaüstü menü testi panel
+  sınırını da iddia etmektedir (`f5d709218`). Yeniden akış ve menü testleri geliştirme sunucusunda önce kırmızı, sonra yeşildir.
+  Hareket testi, CSS kuralı önceden bulunduğundan ilk koşuda yeşildir. Ayrıntı `gorevler/G24.md`'dedir.
+- 01:00-01:01 hızlı kapı 963 testte yeşildir (`logs/g24-hizli-0100.log`).
+- 01:03-01:21 tam kapı 1004 testte yeşildir. Derleme dört işçiyle 763 sn, uçtan uca adımı 41/41'dir (`logs/g24-tam-0103.log`). Derlemenin
+  yeniden ürettiği dosyalar geri alınmıştır. `public/priority-sitemap.xml` bir kez de derlemesiz, içeriği aynı kalıp yalnız satır sonu
+  değişmiş olarak görülmüş ve geri alınmıştır. Makine pildedir (01:21'de %70). Başka oturumun dosyaları yine dokunulmadan bırakılmıştır,
+  araya giren commit yoktur, 3123 ve 3124 boştur.
+- **G24 DEVAM EDİYOR** (1-5. adım bitti, sıradaki 6. adım). Açık bulgular: madde sayfasının bağımsız HTML'i (`duzey-atlama`,
+  `footer-yok`, atlama bağlantısı yok), `header-yok` kararı (WCAG şartı değildir) ve fareyle tıklamanın açılır menüyü `mouseenter`
+  sonrası kapatması. Ardından 7. adım (kapanış raporu `raporlar/g24-erisilebilirlik.md`) gelir.
