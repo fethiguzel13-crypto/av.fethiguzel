@@ -42,7 +42,7 @@ export default async function MevzuatPage() {
     <div className="bg-cream min-h-screen font-sans">
       <Navbar />
 
-      <main className="pt-40 pb-20 px-6 max-w-7xl mx-auto">
+      <main id="main-content" className="pt-40 pb-20 px-6 max-w-7xl mx-auto">
         <Kirinti
             ogeler={[
                 { ad: 'Mevzuat', yol: '/mevzuat' },

@@ -44,7 +44,7 @@ export default async function CategoryLandingPage({ params }: { params: Promise<
   }
 
   return (
-    <main className="min-h-screen bg-primary text-light">
+    <main id="main-content" className="min-h-screen bg-primary text-light">
       {/* Hero */}
       <div className="relative pt-32 pb-20 px-6 md:px-20">
         <div className="max-w-5xl mx-auto">

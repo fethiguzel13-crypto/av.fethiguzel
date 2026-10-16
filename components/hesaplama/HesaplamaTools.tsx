@@ -3878,7 +3878,7 @@ export default function HesaplamaHub({ kirinti }: { kirinti?: React.ReactNode })
   return (
     <>
       <Navbar />
-      <main className="min-h-screen bg-cream pt-24 sm:pt-32 md:pt-36 pb-16 sm:pb-24 px-4 sm:px-6">
+      <main id="main-content" className="min-h-screen bg-cream pt-24 sm:pt-32 md:pt-36 pb-16 sm:pb-24 px-4 sm:px-6">
         <div className="max-w-4xl mx-auto">
           {kirinti}
 

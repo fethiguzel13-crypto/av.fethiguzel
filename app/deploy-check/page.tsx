@@ -7,7 +7,7 @@ export const metadata: Metadata = { robots: { index: false, follow: false } };
 
 export default function DeployCheckPage() {
     return (
-        <main className="min-h-screen flex items-center justify-center bg-cream p-8">
+        <main id="main-content" className="min-h-screen flex items-center justify-center bg-cream p-8">
             <div className="text-center">
                 <h1 className="text-2xl font-bold text-charcoal mb-2">Deploy OK</h1>
                 <p className="text-ink-muted text-sm font-mono">

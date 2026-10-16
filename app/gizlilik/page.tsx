@@ -17,7 +17,7 @@ export default function GizlilikPage() {
     return (
         <div className="bg-cream min-h-screen">
             <Navbar />
-            <main className="pt-36 pb-20 px-5 sm:px-6 max-w-3xl mx-auto text-charcoal">
+            <main id="main-content" className="pt-36 pb-20 px-5 sm:px-6 max-w-3xl mx-auto text-charcoal">
                 <Kirinti
                     ogeler={[
                         { ad: 'Gizlilik', yol: '/gizlilik' },

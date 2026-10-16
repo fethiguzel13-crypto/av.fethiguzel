@@ -34,7 +34,7 @@ export default async function MakaleOku({ params }: { params: Promise<{ slug: st
     return (
       <div className="bg-cream min-h-screen">
         <Navbar />
-        <main className="pt-40 pb-20 px-6 text-center max-w-7xl mx-auto">
+        <main id="main-content" className="pt-40 pb-20 px-6 text-center max-w-7xl mx-auto">
           <h2 className="text-2xl font-bold mb-8">Makale bulunamadı.</h2>
           <Link href="/makaleler" className="bg-accent-solid text-white px-8 py-4 rounded-full font-bold">
             ARŞİVE DÖN
@@ -63,7 +63,7 @@ export default async function MakaleOku({ params }: { params: Promise<{ slug: st
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(makaleOkuJsonLd(filePathParams)) }} />
       <Navbar />
 
-      <main className="pt-40 pb-20 px-6 max-w-4xl mx-auto">
+      <main id="main-content" className="pt-40 pb-20 px-6 max-w-4xl mx-auto">
         <div className="mb-12 flex justify-between items-center">
           <Link 
             href="/makaleler" 

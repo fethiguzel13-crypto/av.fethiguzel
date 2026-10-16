@@ -88,7 +88,7 @@ export default async function SubCategoryPage({ params }: { params: Promise<{ ca
   const articles = oldSlug ? await getArticlesByCategory(oldSlug) : [];
 
   return (
-    <main className="min-h-screen bg-primary text-light">
+    <main id="main-content" className="min-h-screen bg-primary text-light">
       {/* Hero Banner */}
       <div className="relative pt-32 pb-16 px-6 md:px-20">
         <div className="max-w-5xl mx-auto">

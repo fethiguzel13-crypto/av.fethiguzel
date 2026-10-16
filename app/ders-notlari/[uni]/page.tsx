@@ -48,7 +48,7 @@ export default async function UniDersNotlariPage({ params }: Props) {
   return (
     <div className="bg-cream min-h-screen">
       <Navbar />
-      <main className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-3xl mx-auto">
+      <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-3xl mx-auto">
         <UniHubView hub={hub} />
       </main>
       <Footer />

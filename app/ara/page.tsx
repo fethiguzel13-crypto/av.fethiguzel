@@ -40,7 +40,7 @@ export default function AraPage() {
   return (
     <div className="bg-cream min-h-screen font-sans">
       <Navbar />
-      <main className="pt-36 sm:pt-40 pb-20 px-5 sm:px-6 max-w-4xl mx-auto">
+      <main id="main-content" className="pt-36 sm:pt-40 pb-20 px-5 sm:px-6 max-w-4xl mx-auto">
         <Kirinti
             ogeler={[
                 { ad: 'Arama', yol: '/ara' },

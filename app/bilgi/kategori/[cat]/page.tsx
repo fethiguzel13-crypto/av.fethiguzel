@@ -66,7 +66,7 @@ export default async function BilgiKategoriPage({ params }: Props) {
     <div className="bg-cream min-h-screen">
       <Navbar />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(ld) }} />
-      <main className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-4xl mx-auto">
+      <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-4xl mx-auto">
         <Kirinti
           ogeler={[
             { ad: 'Vatandaş rehberi', yol: '/bilgi' },

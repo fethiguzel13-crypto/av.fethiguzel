@@ -46,7 +46,7 @@ export default async function AnalysisPage({ params }: Props) {
       <Navbar />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLdHtml(kararAnaliziJsonLd(data)) }} />
 
-      <main className="pt-40 pb-20 px-6 max-w-3xl mx-auto">
+      <main id="main-content" className="pt-40 pb-20 px-6 max-w-3xl mx-auto">
         <Link
           href="/icthat"
           className="inline-flex items-center gap-2 text-sm text-ink-muted hover:text-accent transition mb-10 font-mono uppercase tracking-widest"

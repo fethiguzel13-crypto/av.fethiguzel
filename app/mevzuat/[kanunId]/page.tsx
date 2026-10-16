@@ -81,7 +81,7 @@ export default async function KanunHubPage({ params }: Props) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: jsonLdHtml(itemListLd) }}
       />
-      <main className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-5xl mx-auto">
+      <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-5xl mx-auto">
         <Kirinti
           ogeler={[
             { ad: 'Mevzuat', yol: '/mevzuat' },
