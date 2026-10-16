@@ -26,7 +26,7 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { createRequire } from 'node:module';
 import { DENETIM_SAYFALARI, genislikSec, hedefIhlalleri, ozetle } from '../lib/tasarim-denetim.mjs';
-import { yapiDenetimi, yapiOzeti } from '../lib/erisilebilirlik.mjs';
+import { yapiDenetimi, yapiOzeti, yapiTopla } from '../lib/erisilebilirlik.mjs';
 
 const kok = join(dirname(fileURLToPath(import.meta.url)), '..');
 const arg = (ad, varsayilan) => {
@@ -89,44 +89,6 @@ const OLC = () => {
   return { hedefler, tasanlar, belgeGenisligi: document.documentElement.scrollWidth };
 };
 
-/** Sayfa içinde (G24 `--yapi`): dil, başlıklar, işaret bölgeleri, adsız görsel ve grafik, atlama hedefi. */
-const YAPI = () => {
-  // Yardımcı teknolojinin gördüğü öğeler: sr-only öğe sayılır, display:none ve aria-hidden altı sayılmaz.
-  const erisilir = (el) =>
-    (el.checkVisibility ? el.checkVisibility({ visibilityProperty: true }) : true) && !el.closest('[aria-hidden="true"]');
-  const say = (secici) => [...document.querySelectorAll(secici)].filter(erisilir).length;
-  const tanim = (el) => {
-    const sinif = (el.getAttribute('class') || '').trim();
-    return el.tagName.toLowerCase() + (sinif ? '.' + sinif.split(/\s+/).slice(0, 3).join('.') : '');
-  };
-  const adli = (el) => {
-    const baslik = el.querySelector(':scope > title');
-    return Boolean((el.getAttribute('aria-label') || '').trim() || el.getAttribute('aria-labelledby') || (baslik && baslik.textContent.trim()));
-  };
-  return {
-    lang: document.documentElement.getAttribute('lang'),
-    basliklar: [...document.querySelectorAll('h1, h2, h3, h4, h5, h6')].filter(erisilir).map((h) => ({
-      duzey: Number(h.tagName[1]),
-      metin: h.textContent.trim().replace(/\s+/g, ' ').slice(0, 60),
-    })),
-    bolgeler: {
-      main: say('main, [role="main"]'),
-      nav: say('nav, [role="navigation"]'),
-      header: say('header, [role="banner"]'),
-      footer: say('footer, [role="contentinfo"]'),
-    },
-    altsizGorsel: [...document.querySelectorAll('img:not([alt])')]
-      .filter((el) => erisilir(el) && !['presentation', 'none'].includes(el.getAttribute('role')))
-      .slice(0, 10)
-      .map((el) => (el.getAttribute('src') || '').slice(0, 120)),
-    adsizGrafik: [...document.querySelectorAll('[role="img"]')].filter((el) => erisilir(el) && !adli(el)).slice(0, 10).map(tanim),
-    atlama: {
-      baglanti: Boolean(document.querySelector('a[href="#main-content"]')),
-      hedef: Boolean(document.getElementById('main-content')),
-    },
-  };
-};
-
 const browser = await chromium.launch();
 const sonuclar = [];
 const yapiSonuclari = [];
@@ -183,7 +145,7 @@ try {
           `  küçük hedef ${hedefIhlalleri(olcum.hedefler).length}  taşma ${olcum.belgeGenisligi > g.w + 1 ? 'VAR' : 'yok'}`
       );
       if (yapi) {
-        const veri = await page.evaluate(YAPI);
+        const veri = await page.evaluate(yapiTopla);
         const bulgular = yapiDenetimi(veri);
         yapiSonuclari.push({ sayfa: s.ad, adres, genislik: g.w, bulgular, basliklar: veri.basliklar, bolgeler: veri.bolgeler });
         console.log(`${''.padEnd(19)}yapı bulgusu ${bulgular.length}${bulgular.length ? '  ' + bulgular.map((b) => b.kural).join(', ') : ''}`);

@@ -11,13 +11,17 @@
  *
  * Yeniden akış ve hareket (G24 adım 5): On yedi sayfa türü 320 px'te yatay taşmaz (WCAG 1.4.10); azaltılmış hareket tercihinde ana
  * sayfa giriş canlandırması kapanır.
+ *
+ * Yapı (G24 adım 6): On yedi sayfa türünde `yapiDenetimi` bulgusuzdur (tek `h1`, atlamasız başlık sırası, `banner`, `main`,
+ * `contentinfo`, atlama bağlantısı ve hedefi). Kök yerleşimi kullanmayan madde sayfasında da atlama bağlantısı ilk odaktır.
+ * Fareyle tıklanan mevzuat açılır menüsü açık kalır.
  */
 import { test, before, after } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { createRequire } from 'node:module';
 import { chromium } from 'playwright';
-import { odakGorunur } from '../lib/erisilebilirlik.mjs';
+import { odakGorunur, yapiDenetimi, yapiTopla } from '../lib/erisilebilirlik.mjs';
 
 const TABAN = process.env.E2E_TABAN || 'http://localhost:3123';
 const axeKaynak = readFileSync(createRequire(import.meta.url).resolve('axe-core/axe.min.js'), 'utf8');
@@ -169,7 +173,7 @@ test('axe: masaüstünde mevzuat açılır menüsü açıkken ciddi ve kritik ih
   try {
     const dugme = sayfa.locator('nav button[aria-expanded]', { hasText: 'Mevzuat' });
     await hidrasyonBekle(sayfa, 'nav button[aria-expanded]');
-    // Fareyle tıklama önce `mouseenter` ile açar, sonra `click` ile kapatır; menü klavyeyle açılır.
+    // Klavye yolu: Fareyle açılış ayrı testtedir.
     await dugme.focus();
     await sayfa.keyboard.press('Enter');
     assert.equal(await dugme.getAttribute('aria-expanded'), 'true');
@@ -183,6 +187,66 @@ test('axe: masaüstünde mevzuat açılır menüsü açıkken ciddi ve kritik ih
     assert.ok(kutu.sol >= 0 && kutu.sag <= kutu.en, `açılır menü görünüm alanından taşıyor: ${JSON.stringify(kutu)}`);
     assert.deepEqual(await ciddiIhlaller(sayfa), []);
     assert.deepEqual(hatalar, []);
+  } finally {
+    await sayfa.close();
+  }
+});
+
+test('masaüstünde fareyle tıklanan mevzuat menüsü açık kalır, ikinci tıklama kapatır', async () => {
+  const { sayfa, hatalar } = await ac('/');
+  try {
+    const dugme = sayfa.locator('nav button[aria-expanded]', { hasText: 'Mevzuat' });
+    await hidrasyonBekle(sayfa, 'nav button[aria-expanded]');
+    // Fare düğmeye gelince `mouseenter` menüyü açar; ardından gelen tıklama onu kapatmamalıdır.
+    await dugme.click();
+    assert.equal(await dugme.getAttribute('aria-expanded'), 'true', 'fareyle tıklama menüyü açık bırakmadı');
+    await sayfa.locator('nav a[href="/mevzuat"]', { hasText: 'Tüm Kanunlar' }).waitFor({ state: 'visible', timeout: 5_000 });
+    await dugme.click();
+    assert.equal(await dugme.getAttribute('aria-expanded'), 'false', 'ikinci tıklama menüyü kapatmadı');
+    assert.deepEqual(hatalar, []);
+  } finally {
+    await sayfa.close();
+  }
+});
+
+test('yapı: on yedi sayfa türünde başlık sırası, işaret bölgeleri ve atlama bağlantısı bulgusuzdur (G24 adım 6)', async () => {
+  const { DENETIM_SAYFALARI } = await import('../lib/tasarim-denetim.mjs');
+  const ctx = await tarayici.newContext({ viewport: { width: 1280, height: 844 } });
+  const bulgulu = [];
+  try {
+    const sayfa = await ctx.newPage();
+    for (const s of DENETIM_SAYFALARI) {
+      let yanit = await sayfa.goto(TABAN + s.yol, { waitUntil: 'networkidle', timeout: 60_000 });
+      if (s.izle) {
+        const href = await sayfa.getAttribute(s.izle, 'href');
+        yanit = await sayfa.goto(TABAN + href, { waitUntil: 'networkidle', timeout: 60_000 });
+      }
+      assert.equal(yanit.status(), 200, s.ad);
+      const bulgular = yapiDenetimi(await sayfa.evaluate(yapiTopla));
+      if (bulgular.length) bulgulu.push(`${s.ad}: ${JSON.stringify(bulgular)}`);
+    }
+  } finally {
+    await ctx.close();
+  }
+  assert.deepEqual(bulgulu, []);
+});
+
+test('madde: ilk Tab atlama bağlantısına gelir, hedef ana içeriktir', async () => {
+  const { sayfa, yanit } = await ac('/mevzuat/tbk/madde-1');
+  try {
+    assert.equal(yanit.status(), 200);
+    await sayfa.keyboard.press('Tab');
+    const ilk = await sayfa.evaluate(() => {
+      const el = document.activeElement;
+      const k = el.getBoundingClientRect();
+      return { href: el.getAttribute('href'), metin: el.textContent.trim(), w: k.width, h: k.height };
+    });
+    assert.equal(ilk.href, '#main-content');
+    assert.equal(ilk.metin, 'İçeriğe atla');
+    assert.ok(ilk.w > 1 && ilk.h > 1, `odaktaki atlama bağlantısı görünmüyor (${ilk.w}×${ilk.h})`);
+    await sayfa.keyboard.press('Enter');
+    await sayfa.keyboard.press('Tab');
+    assert.ok(await sayfa.evaluate(() => Boolean(document.activeElement.closest('#main-content'))), 'atlamadan sonraki odak ana içerikte değil');
   } finally {
     await sayfa.close();
   }
