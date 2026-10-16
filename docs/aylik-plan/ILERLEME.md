@@ -897,6 +897,6 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   temizdir, `test:quality` takımı 398 testte yeşildir (`logs/g24-quality-1011.log`). Modülü henüz hiçbir sayfa ya da betik
   çağırmamaktadır.
 - Pil 10:04'te %20, 10:09'da %17'dir (5 dk'da %3). Hızlı kapı pilde 6-15 dk sürdüğünden kapı ortasında uyku riski görülmüş ve kapı
-  koşulmamıştır. Bu yüzden commit `wip:` önekiyle atılmıştır. Sıradaki oturum hızlı kapıyı koşar ve kayda yazar.
+  koşulmamıştır. Bu yüzden commit `wip:` önekiyle atılmıştır (`e1a52d631`). Sıradaki oturum hızlı kapıyı koşar ve kayda yazar.
 - **G23 DEVAM EDİYOR** (yalnız `npm run kalite` eksik), **G24 DEVAM EDİYOR** (1. adım bitti, sıradaki 2. adım). Sıradaki oturum makine
   prizdeyse ya da pil %50'nin üzerindeyse önce tam kapıyı ön planda koşar. Kapı yeşilse G23 `[x]` yapılır ve G24 2. adıma geçilir.
