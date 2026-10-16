@@ -54,9 +54,9 @@ export default function DailyNewsCards({ highlights }: { highlights: DailyItem[]
               {item.sourceLabel}
             </span>
           </div>
-          <h4 className="text-base sm:text-lg md:text-xl font-heading font-bold text-charcoal mb-2 sm:mb-4 group-hover:text-accent transition-colors line-clamp-3 leading-snug">
+          <h3 className="text-base sm:text-lg md:text-xl font-heading font-bold text-charcoal mb-2 sm:mb-4 group-hover:text-accent transition-colors line-clamp-3 leading-snug">
             {itemTitle(item)}
-          </h4>
+          </h3>
           <p className="text-ink-muted text-xs sm:text-sm leading-relaxed mb-4 sm:mb-8 line-clamp-3 flex-1">
             {item.publicSummary || item.konu.slice(0, 200)}
           </p>

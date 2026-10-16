@@ -62,7 +62,7 @@ export default function Articles() {
                 </div>
                 <span className="text-[9px] sm:text-[10px] font-mono font-bold text-ink-muted uppercase tracking-widest">{item.category}</span>
               </div>
-              <h4 className="text-base sm:text-lg md:text-xl font-heading font-bold text-charcoal mb-2 sm:mb-4 group-hover:text-accent transition-colors leading-snug">{item.title}</h4>
+              <h3 className="text-base sm:text-lg md:text-xl font-heading font-bold text-charcoal mb-2 sm:mb-4 group-hover:text-accent transition-colors leading-snug">{item.title}</h3>
               <p className="text-ink-muted text-xs sm:text-sm leading-relaxed mb-4 sm:mb-8 flex-1">
                 {item.desc}
               </p>

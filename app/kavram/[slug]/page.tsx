@@ -83,7 +83,7 @@ export default async function KavramSlugPage({ params }: Props) {
                 <p className="text-ink-muted text-base leading-relaxed mb-8">{k.ozet}</p>
 
                 <div className="mb-10">
-                    <ShareableAnswer text={k.miniCevap} title="Forum / grup için mini cevap" />
+                    <ShareableAnswer text={k.miniCevap} title="Forum / grup için mini cevap" duzey={2} />
                 </div>
 
                 <section className="space-y-4 mb-10">

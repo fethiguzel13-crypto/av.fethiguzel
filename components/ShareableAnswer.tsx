@@ -9,14 +9,17 @@ type Props = {
     title?: string;
     /** compact = daha küçük padding */
     compact?: boolean;
+    /** Başlık düzeyi: sayfada h1'in hemen altında duruyorsa 2, bir h2 bölümünün içindeyse 3 (G24, düzey atlamasın). */
+    duzey?: 2 | 3;
 };
 
 /**
  * Forum / sosyal için kopyalanabilir mini cevap.
  * Reklam yasağına uygun kısa metin + link; otomatik paylaşım yapmaz.
  */
-export default function ShareableAnswer({ text, title = 'Kısa bilgilendirme (kopyala)', compact }: Props) {
+export default function ShareableAnswer({ text, title = 'Kısa bilgilendirme (kopyala)', compact, duzey = 3 }: Props) {
     const [ok, setOk] = useState(false);
+    const Baslik = duzey === 2 ? 'h2' : 'h3';
 
     const copy = async () => {
         try {
@@ -39,7 +42,7 @@ export default function ShareableAnswer({ text, title = 'Kısa bilgilendirme (ko
                 }`}
         >
             <div className="flex flex-wrap items-center justify-between gap-2 mb-3">
-                <h3 className="text-sm font-heading font-bold text-charcoal">{title}</h3>
+                <Baslik className="text-sm font-heading font-bold text-charcoal">{title}</Baslik>
                 <div className="flex gap-2">
                     <button
                         type="button"
