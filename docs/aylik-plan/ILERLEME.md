@@ -971,3 +971,23 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - **G24 DEVAM EDİYOR** (1-5. adım bitti, sıradaki 6. adım). Açık bulgular: madde sayfasının bağımsız HTML'i (`duzey-atlama`,
   `footer-yok`, atlama bağlantısı yok), `header-yok` kararı (WCAG şartı değildir) ve fareyle tıklamanın açılır menüyü `mouseenter`
   sonrası kapatması. Ardından 7. adım (kapanış raporu `raporlar/g24-erisilebilirlik.md`) gelir.
+
+## 2026-10-17 02:00 — G24 DEVAM EDİYOR (başsız oturum, başladı 02:00)
+
+- G24 DEVAM EDİYOR (başladı 02:00, 6. adım: madde sayfası, `header-yok`, açılır menü tıklaması).
+- Devralma: `DURAKLAT` yok, son commit `fa5b4d8c7`'dir. Ağaçta yalnız başka oturumun dosyaları vardır (`.gitignore`, `package.json`,
+  `scripts/kalite.mjs`, izlenmeyen `scripts/karar-arama/`); bunlara dokunulmamıştır. Makine pildedir (%62), boş bellek 813 MB'tır,
+  3123 ve 3124 boştur.
+- 02:02-02:25 G24 6. adım: Yapı toplayıcısı `lib/erisilebilirlik.mjs`'e `yapiTopla` olarak taşınmış, `header` ve `footer` yalnız
+  `banner` ve `contentinfo` olduklarında sayılmakta, atlama bağlantısı olmayan sayfa `atlama-yok` bulgusu vermektedir. Yeni sayımla
+  `header-yok` 16 sayfada, ana sayfada ayrıca `footer-yok` çıkmıştır, zira ana sayfada `Navbar` ve `Footer` `main`'in içindeydi ve
+  atlama bağlantısı gezinmeyi atlamıyordu. Uçtan uca dosyasına üç test eklenmiş (yapı bulgusuz, madde atlama bağlantısı, fareyle
+  tıklanan menü açık kalır), üçü de `next dev -p 3124` üzerinde önce kırmızıdır. Düzeltmeler: `Navbar` kökü `<header>` içindedir, ana
+  sayfada `Navbar` ve `Footer` `main` dışındadır, madde sayfasında şerh başlıkları `baslikDuzeyleriniDuzle` ile h3'ten başlar, sayfaya
+  atlama bağlantısı, `main#main-content` ve `<footer>` eklenmiştir, fareyle açılan mevzuat menüsünü aynı ziyaretteki tıklama kapatmaz.
+  Sonra erişilebilirlik dosyası 15/15, mevzuat dosyası 4/4 yeşildir. Önce/sonra görüntüleri `raporlar/gorsel/g24-yapi-*.jpg`'dir, ana
+  sayfa yüksekliği değişmemiştir. Commit'ler `0134702cd` (kurallar ve testler), `8c0ca0c5f` (madde), `2316da152` (gezinme ve ana sayfa).
+- 02:19-02:27 hızlı kapı 967 testte yeşildir (`logs/g24-hizli-0219.log`). Geliştirme sunucusu kapatılmış, `validator.ts` silinmiştir.
+  Derlemesiz değişmiş görünen `public/priority-sitemap.xml` (yalnız satır sonu) geri alınmıştır. Araya giren commit yoktur.
+- **G24 DEVAM EDİYOR** (1-6. adım bitti, sıradaki 7. adım: kapanış taraması, tam kapı, rapor `raporlar/g24-erisilebilirlik.md`).
+  Tam kapı makine %51 pildeyken bu oturumda denenmektedir, sonucu aşağıdaki satırdadır.
