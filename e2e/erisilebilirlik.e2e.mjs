@@ -4,13 +4,20 @@
  * Atlama bağlantısı ilk odaktır ve odağı ana içeriğe taşır (WCAG 2.4.1). Mobil menü klavyeyle açılır, `Escape` ile kapanır ve odak
  * açma düğmesine döner. Ders notu, madde ve hesaplama sayfalarında ilk on `Tab` adımının her birinde odak görünürdür (WCAG 2.4.7);
  * karar `lib/erisilebilirlik.mjs` içindeki `odakGorunur`'dadır.
+ *
+ * Etkileşim sonrası axe (G24 adım 4): Menü açıkken, arama sonuçları gelince, kıdem aracında geçersiz tarih girilince ve kısa testte
+ * şık seçilip cevaplar kontrol edilince axe yeniden koşulur; ciddi ve kritik ihlal 0 olmalıdır. Aynı durumlarda yalnız renkle
+ * verilen bilgi (seçili şık, doğru ve yanlış cevap) ile duyurulmayan durum iletisi ayrıca sınanır (WCAG 1.4.1, 4.1.2, 4.1.3).
  */
 import { test, before, after } from 'node:test';
 import assert from 'node:assert/strict';
+import { readFileSync } from 'node:fs';
+import { createRequire } from 'node:module';
 import { chromium } from 'playwright';
 import { odakGorunur } from '../lib/erisilebilirlik.mjs';
 
 const TABAN = process.env.E2E_TABAN || 'http://localhost:3123';
+const axeKaynak = readFileSync(createRequire(import.meta.url).resolve('axe-core/axe.min.js'), 'utf8');
 let tarayici;
 
 before(async () => {
@@ -111,3 +118,118 @@ for (const { ad, yol } of ODAK_SAYFALARI) {
     }
   });
 }
+
+/** axe'yi o anki DOM'da koşar; ciddi ve kritik ihlalleri `kural: hedef` biçiminde döner. */
+async function ciddiIhlaller(sayfa) {
+  // Giriş ve açılış canlandırmaları bitsin, yoksa saydam ara karede kontrast yanlış ölçülür (tasarim-denetim ile aynı bekleme).
+  await sayfa.waitForTimeout(1500);
+  await sayfa.addScriptTag({ content: axeKaynak });
+  return sayfa.evaluate(async () => {
+    const r = await window.axe.run(document, {
+      runOnly: { type: 'tag', values: ['wcag2a', 'wcag2aa', 'wcag21a', 'wcag21aa', 'wcag22aa'] },
+      resultTypes: ['violations'],
+    });
+    return r.violations
+      .filter((v) => v.impact === 'serious' || v.impact === 'critical')
+      .flatMap((v) => v.nodes.slice(0, 5).map((n) => `${v.id}: ${n.target.join(' ')}`));
+  });
+}
+
+/** React olay dinleyicisini bağlayınca düğüme `__reactProps…` anahtarını ekler; hidrasyon o ana kadar beklenir. */
+async function hidrasyonBekle(sayfa, secici) {
+  await sayfa.waitForFunction(
+    (s) => {
+      const el = document.querySelector(s);
+      return !!el && Object.keys(el).some((k) => k.startsWith('__reactProps'));
+    },
+    secici,
+    { timeout: 60_000 },
+  );
+}
+
+test('axe: mobil menü açıkken ciddi ve kritik ihlal yoktur', async () => {
+  const { sayfa, hatalar } = await ac('/', 390);
+  try {
+    await hidrasyonBekle(sayfa, 'nav button[aria-label="Menü"]');
+    const dugme = sayfa.locator('nav button[aria-label="Menü"]');
+    await dugme.click();
+    await sayfa.locator(`#${await dugme.getAttribute('aria-controls')}`).waitFor({ state: 'visible', timeout: 5_000 });
+    assert.deepEqual(await ciddiIhlaller(sayfa), []);
+    assert.deepEqual(hatalar, []);
+  } finally {
+    await sayfa.close();
+  }
+});
+
+test('axe: masaüstünde mevzuat açılır menüsü açıkken ciddi ve kritik ihlal yoktur', async () => {
+  const { sayfa, hatalar } = await ac('/');
+  try {
+    const dugme = sayfa.locator('nav button[aria-expanded]', { hasText: 'Mevzuat' });
+    await hidrasyonBekle(sayfa, 'nav button[aria-expanded]');
+    // Fareyle tıklama önce `mouseenter` ile açar, sonra `click` ile kapatır; menü klavyeyle açılır.
+    await dugme.focus();
+    await sayfa.keyboard.press('Enter');
+    assert.equal(await dugme.getAttribute('aria-expanded'), 'true');
+    await sayfa.locator('nav a[href="/mevzuat"]', { hasText: 'Tüm Kanunlar' }).waitFor({ state: 'visible', timeout: 5_000 });
+    assert.deepEqual(await ciddiIhlaller(sayfa), []);
+    assert.deepEqual(hatalar, []);
+  } finally {
+    await sayfa.close();
+  }
+});
+
+test('axe: arama sonuçları gelince ciddi ve kritik ihlal yoktur', async () => {
+  const { sayfa, yanit, hatalar } = await ac(`/ara?q=${encodeURIComponent('kıdem')}`);
+  try {
+    assert.equal(yanit.status(), 200);
+    await sayfa.locator('main a[href="/hesaplama/kidem"]').first().waitFor({ timeout: 30_000 });
+    assert.deepEqual(await ciddiIhlaller(sayfa), []);
+    assert.deepEqual(hatalar, []);
+  } finally {
+    await sayfa.close();
+  }
+});
+
+test('kıdem: ayrılış girişten önceyse hata iletisi durum bölgesinde duyurulur; axe ciddi ve kritik ihlal yoktur', async () => {
+  const { sayfa, yanit, hatalar } = await ac('/hesaplama/kidem');
+  try {
+    assert.equal(yanit.status(), 200);
+    await hidrasyonBekle(sayfa, 'main input');
+    await sayfa.getByLabel('İşe Giriş Tarihi', { exact: true }).fill('2026-07-01');
+    await sayfa.getByLabel('İşten Ayrılış Tarihi', { exact: true }).fill('2016-07-03');
+    const ileti = sayfa.getByRole('status').filter({ hasText: 'İşten ayrılış tarihi işe giriş tarihinden sonra olmalıdır' });
+    await ileti.waitFor({ state: 'visible', timeout: 10_000 });
+    assert.deepEqual(await ciddiIhlaller(sayfa), []);
+    assert.deepEqual(hatalar, []);
+  } finally {
+    await sayfa.close();
+  }
+});
+
+test('kısa test: seçili şık aria-pressed taşır, kontrolden sonra doğru ve yanlış cevap metinle belirtilir; axe ciddi ve kritik ihlal yoktur', async () => {
+  const { sayfa, yanit, hatalar } = await ac('/ders-notlari/ankara/aile-hukuku-yillik');
+  try {
+    assert.equal(yanit.status(), 200);
+    const blok = sayfa.locator('section', { has: sayfa.getByRole('heading', { name: 'Kısa test', level: 2 }) });
+    const ilkSoru = blok.locator('ol > li').first();
+    const siklar = ilkSoru.locator('button');
+    await siklar.first().scrollIntoViewIfNeeded();
+    await hidrasyonBekle(sayfa, 'section ol > li button');
+    const n = await siklar.count();
+    assert.ok(n >= 2, `ilk soruda şık yok (${n})`);
+    await siklar.nth(0).click();
+    const basili = await siklar.evaluateAll((d) => d.map((b) => b.getAttribute('aria-pressed')));
+    assert.deepEqual(basili, ['true', ...Array(n - 1).fill('false')]);
+    assert.deepEqual(await ciddiIhlaller(sayfa), []);
+
+    await blok.getByRole('button', { name: 'Kontrol et' }).click();
+    await blok.getByRole('status').filter({ hasText: /Sonuç: \d+ \/ \d+/ }).waitFor({ timeout: 5_000 });
+    const metinler = await siklar.allInnerTexts();
+    assert.equal(metinler.filter((m) => m.includes('Doğru cevap')).length, 1, `doğru cevap metinle belirtilmiyor: ${metinler.join(' | ')}`);
+    assert.ok(metinler[0].includes('Doğru cevap') || metinler[0].includes('Yanlış seçim'), `seçilen şıkkın sonucu metinle belirtilmiyor: ${metinler[0]}`);
+    assert.deepEqual(await ciddiIhlaller(sayfa), []);
+    assert.deepEqual(hatalar, []);
+  } finally {
+    await sayfa.close();
+  }
+});
