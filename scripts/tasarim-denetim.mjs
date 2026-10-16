@@ -6,15 +6,18 @@
  *   - axe-core WCAG 2.x A/AA kuralları (kontrast dahil; büyük metin ve saydamlığı axe hesaplar),
  *   - hedef boyutu (WCAG 2.2 2.5.8, 24 px; aralık istisnası ve cümle içindeki bağlantı istisnası uygulanır),
  *   - yatay taşma (yatay kaydırıcı içindekiler sayılmaz),
- *   - ilk ekranın görüntüsü.
+ *   - ilk ekranın görüntüsü,
+ *   - `--yapi` verilirse (G24) belge dili, başlık sırası, işaret bölgeleri, alt metni olmayan görsel, adı olmayan grafik ve atlama
+ *     bağlantısının hedefi (`lib/erisilebilirlik.mjs`).
  *
  * Sunucu bu betik tarafından başlatılmaz; önce `npx next start -p 3123` çalışmalıdır.
  *
  * Kullanım:
- *   node scripts/tasarim-denetim.mjs --etiket=once [--taban=http://localhost:3123] [--sadece=anasayfa,madde]
+ *   node scripts/tasarim-denetim.mjs --etiket=once [--taban=http://localhost:3123] [--sadece=anasayfa,madde] [--yapi]
  * Çıktı:
  *   docs/aylik-plan/raporlar/tasarim-denetim-<etiket>.json
  *   docs/aylik-plan/raporlar/gorsel/g15-<sayfa>-<genişlik>-<etiket>.jpg
+ *   docs/aylik-plan/raporlar/erisilebilirlik-<etiket>.json (`--yapi` ile)
  */
 import { chromium } from 'playwright';
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
@@ -22,6 +25,7 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { createRequire } from 'node:module';
 import { DENETIM_SAYFALARI, hedefIhlalleri, ozetle } from '../lib/tasarim-denetim.mjs';
+import { yapiDenetimi, yapiOzeti } from '../lib/erisilebilirlik.mjs';
 
 const kok = join(dirname(fileURLToPath(import.meta.url)), '..');
 const arg = (ad, varsayilan) => {
@@ -35,6 +39,7 @@ if (!/^[a-z0-9-]+$/.test(etiket)) {
 }
 const taban = arg('taban', 'http://localhost:3123');
 const sadece = arg('sadece', '');
+const yapi = process.argv.includes('--yapi');
 const sayfalar = sadece ? DENETIM_SAYFALARI.filter((s) => sadece.split(',').includes(s.ad)) : DENETIM_SAYFALARI;
 const raporKlasoru = join(kok, 'docs', 'aylik-plan', 'raporlar');
 const gorselKlasoru = join(raporKlasoru, 'gorsel');
@@ -86,8 +91,47 @@ const OLC = () => {
   return { hedefler, tasanlar, belgeGenisligi: document.documentElement.scrollWidth };
 };
 
+/** Sayfa içinde (G24 `--yapi`): dil, başlıklar, işaret bölgeleri, adsız görsel ve grafik, atlama hedefi. */
+const YAPI = () => {
+  // Yardımcı teknolojinin gördüğü öğeler: sr-only öğe sayılır, display:none ve aria-hidden altı sayılmaz.
+  const erisilir = (el) =>
+    (el.checkVisibility ? el.checkVisibility({ visibilityProperty: true }) : true) && !el.closest('[aria-hidden="true"]');
+  const say = (secici) => [...document.querySelectorAll(secici)].filter(erisilir).length;
+  const tanim = (el) => {
+    const sinif = (el.getAttribute('class') || '').trim();
+    return el.tagName.toLowerCase() + (sinif ? '.' + sinif.split(/\s+/).slice(0, 3).join('.') : '');
+  };
+  const adli = (el) => {
+    const baslik = el.querySelector(':scope > title');
+    return Boolean((el.getAttribute('aria-label') || '').trim() || el.getAttribute('aria-labelledby') || (baslik && baslik.textContent.trim()));
+  };
+  return {
+    lang: document.documentElement.getAttribute('lang'),
+    basliklar: [...document.querySelectorAll('h1, h2, h3, h4, h5, h6')].filter(erisilir).map((h) => ({
+      duzey: Number(h.tagName[1]),
+      metin: h.textContent.trim().replace(/\s+/g, ' ').slice(0, 60),
+    })),
+    bolgeler: {
+      main: say('main, [role="main"]'),
+      nav: say('nav, [role="navigation"]'),
+      header: say('header, [role="banner"]'),
+      footer: say('footer, [role="contentinfo"]'),
+    },
+    altsizGorsel: [...document.querySelectorAll('img:not([alt])')]
+      .filter((el) => erisilir(el) && !['presentation', 'none'].includes(el.getAttribute('role')))
+      .slice(0, 10)
+      .map((el) => (el.getAttribute('src') || '').slice(0, 120)),
+    adsizGrafik: [...document.querySelectorAll('[role="img"]')].filter((el) => erisilir(el) && !adli(el)).slice(0, 10).map(tanim),
+    atlama: {
+      baglanti: Boolean(document.querySelector('a[href="#main-content"]')),
+      hedef: Boolean(document.getElementById('main-content')),
+    },
+  };
+};
+
 const browser = await chromium.launch();
 const sonuclar = [];
+const yapiSonuclari = [];
 try {
   for (const g of GENISLIKLER) {
     const ctx = await browser.newContext({ viewport: { width: g.w, height: g.h }, deviceScaleFactor: 1, locale: 'tr-TR' });
@@ -140,6 +184,12 @@ try {
         `${s.ad.padEnd(13)} ${String(g.w).padStart(4)}  durum ${yanit && yanit.status()}  ihlal ${axe.length}  kontrast ${kontrast ? kontrast.dugum : 0}` +
           `  küçük hedef ${hedefIhlalleri(olcum.hedefler).length}  taşma ${olcum.belgeGenisligi > g.w + 1 ? 'VAR' : 'yok'}`
       );
+      if (yapi) {
+        const veri = await page.evaluate(YAPI);
+        const bulgular = yapiDenetimi(veri);
+        yapiSonuclari.push({ sayfa: s.ad, adres, genislik: g.w, bulgular, basliklar: veri.basliklar, bolgeler: veri.bolgeler });
+        console.log(`${''.padEnd(19)}yapı bulgusu ${bulgular.length}${bulgular.length ? '  ' + bulgular.map((b) => b.kural).join(', ') : ''}`);
+      }
     }
     await ctx.close();
   }
@@ -155,3 +205,14 @@ writeFileSync(
 console.log('\nkural başına:');
 for (const k of ozet.kurallar) console.log(`  ${k.id.padEnd(28)} ${k.etki.padEnd(9)} düğüm ${String(k.dugum).padStart(4)}  sayfa ${k.sayfa}`);
 console.log(`küçük hedef: ${ozet.kucukHedef}  ·  taşan: ${ozet.tasan.join(', ') || 'yok'}`);
+
+if (yapi) {
+  const yapiOzet = yapiOzeti(yapiSonuclari);
+  writeFileSync(
+    join(raporKlasoru, `erisilebilirlik-${etiket}.json`),
+    JSON.stringify({ etiket, taban, tarih: new Date().toISOString(), ozet: yapiOzet, sonuclar: yapiSonuclari }, null, 1)
+  );
+  console.log('\nyapı kuralı başına:');
+  for (const k of yapiOzet) console.log(`  ${k.kural.padEnd(20)} bulgu ${String(k.bulgu).padStart(3)}  sayfa ${k.sayfalar.join(', ')}`);
+  if (!yapiOzet.length) console.log('  yapı bulgusu yok');
+}
