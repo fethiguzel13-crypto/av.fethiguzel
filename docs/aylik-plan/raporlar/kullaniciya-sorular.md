@@ -151,3 +151,4 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     yordam pil %50'nin altındayken uzun işi başlatmadığından G23'ün kapanışı için gereken `npm run kalite` 15 Ekim akşamından beri koşulamamakta,
     G24 1. adımı da hızlı kapısız `wip:` commit'te beklemektedir.
     *Varsayım:* makine prize takılana kadar oturumlar yalnız kayıt ve kısa iş yapar.
+    *Durum (16 Ekim 22:00):* makine prizdedir (%100). Hızlı ve tam kapı koşulmuş, G23 kapanmıştır. Soru kendiliğinden düşmüştür.

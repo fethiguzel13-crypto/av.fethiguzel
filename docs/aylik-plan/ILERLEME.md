@@ -910,3 +910,12 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   (`raporlar/kullaniciya-sorular.md`).
 - **G23 DEVAM EDİYOR** (yalnız `npm run kalite` eksik), **G24 DEVAM EDİYOR** (1. adım `wip:` commit'tedir, hızlı kapısı eksik). Sıradaki
   oturum makine prizdeyse önce hızlı kapıyı, sonra tam kapıyı ön planda koşar.
+
+## 2026-10-16 22:00 — G23 ve G24 DEVAM EDİYOR (başsız oturum, başladı 22:00)
+
+- G23 DEVAM EDİYOR, G24 DEVAM EDİYOR (başladı 22:00, önce hızlı kapı, sonra tam kapı).
+- Devralma: `DURAKLAT` yok, ağaç temizdir, son commit `fd001bf7a`'dır. Makine prizdedir (`BatteryStatus` 2, %100), boş bellek 462 MB'tır,
+  3123 ve 3124 boştur, yalnız hasat motoru ve MCP süreçleri çalışmaktadır.
+- 22:02-22:06: G24 1. adımın (`e1a52d631`) hızlı kapısı 909 testte yeşildir (`logs/g24-hizli-2202.log`).
+- 22:07-22:24: Tam kapı 938 testte yeşildir. Derleme iki işçiyle 840 sn, uçtan uca adımı 29/29'dur (`logs/g23-tam-2207.log`). G23 PLAN.md'de
+  `[x]` yapılmış, rapora kapanış satırı eklenmiş, soru 26 düşmüştür. Derlemenin yeniden ürettiği beş dosya geri alınmıştır.

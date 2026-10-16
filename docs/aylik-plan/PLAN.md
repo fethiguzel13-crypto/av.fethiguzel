@@ -283,7 +283,7 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
   - Playwright: arama, mevzuat madde, hesaplama (2026 değerleriyle doğruluk), üyelik giriş/ödeme (sandbox
     taklidi), yargı arşivi erişim kontrolü, ders notu gezinmesi.
 
-- [ ] **G23 — Ders notları kalite dalgası 2** · bağımlı: G19
+- [x] **G23 — Ders notları kalite dalgası 2** · bağımlı: G19 · 2026-10-16: on temsilci not yedi ölçütün tamamını geçmektedir; tam kapı 938 testte yeşil (`logs/g23-tam-2207.log`); rapor `raporlar/g23-ders-notlari.md`
   - Sonraki 10 ders; aynı ölçütler.
   - G19'dan devir: Yöntem hazırdır (`lib/ders-notlari/kanonik/<ders>.mjs` + `KATMANLAR`, ölçüm `node scripts/ders-kanonik-olc.mjs`;
     betikteki `G19_DERSLER` listesi genişletilir). Anayasa hukuku notu, Anayasa ve İYUK metni önce mevzuat.gov.tr'den depoya alınarak

@@ -103,6 +103,8 @@ alınması, yeni bir kanun klasörü ve yaklaşık 180 yeni madde sayfası doğu
   test takımı geçmiş, derleme ise 497. saniyede hata iletisi vermeden kesilmiştir (`logs/g23-tam-2104.log`). Oturum 21:17'de ağ
   kesintisiyle (`ENOTFOUND`) sonlanmış, süreç ağacı kapanınca derleme de ölmüştür. Bu kırık, kod hatası sayılmamıştır. Tam kapı, 22:00
   oturumunda makine pilde (%47) ve boş bellek 365 MB olduğundan yeniden başlatılmamış, prize bağlı ilk oturuma bırakılmıştır.
+- **Kapanış kapısı (16 Ekim 22:07).** Makine prizdeyken koşulan `npm run kalite` 938 testte yeşildir. Derleme boş belleğe göre iki
+  işçiyle 840 sn sürmüş, derleme taraması 20 sn'de ve uçtan uca adımı 29/29 ile 78 sn'de geçmiştir (`logs/g23-tam-2207.log`).
 
 ## Kalan işler ve devir
 
