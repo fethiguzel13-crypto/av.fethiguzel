@@ -113,6 +113,7 @@ export default function Navbar() {
   const [navQ, setNavQ] = useState('');
   const uyelikUi = useTarayiciDegeri(uyelikCereziOku, null);
   const megaRef = useRef<HTMLDivElement>(null);
+  const burgerRef = useRef<HTMLButtonElement>(null);
   const pathname = usePathname();
   const router = useRouter();
 
@@ -149,6 +150,21 @@ export default function Navbar() {
     document.addEventListener('mousedown', handler);
     return () => document.removeEventListener('mousedown', handler);
   }, []);
+
+  // Escape açık menüyü kapatır; mobil panelde odak açma düğmesine döner (G24, WCAG 2.1.2).
+  useEffect(() => {
+    if (!mobileOpen && !megaOpen) return;
+    const handler = (e: KeyboardEvent) => {
+      if (e.key !== 'Escape') return;
+      setMegaOpen(false);
+      if (mobileOpen) {
+        setMobileOpen(false);
+        burgerRef.current?.focus();
+      }
+    };
+    document.addEventListener('keydown', handler);
+    return () => document.removeEventListener('keydown', handler);
+  }, [mobileOpen, megaOpen]);
 
   const uyelikHref = uyelikUi === '1' ? '/yargi-kararlari' : uyelikUi === '0' ? '/uyelik/odeme' : '/uyelik';
   const uyelikLabel = uyelikUi === '1' ? 'Hesabım' : uyelikUi === '0' ? 'Üyelik' : 'Üye ol';
@@ -213,6 +229,7 @@ export default function Navbar() {
             <button
               onMouseEnter={() => setMegaOpen(true)}
               onClick={() => setMegaOpen(v => !v)}
+              aria-expanded={megaOpen}
               className={`flex items-center gap-1 px-3 py-2 rounded-full transition-colors whitespace-nowrap ${linkCls}`}
             >
               Mevzuat
@@ -310,8 +327,11 @@ export default function Navbar() {
         {/* Mobile burger */}
         <button
           className={`xl:hidden transition-colors ${solid ? 'text-charcoal' : 'text-cream'}`}
+          ref={burgerRef}
           onClick={() => setMobileOpen(v => !v)}
           aria-label="Menü"
+          aria-expanded={mobileOpen}
+          aria-controls="mobil-menu"
         >
           {mobileOpen ? <X size={22} /> : <Menu size={22} />}
         </button>
@@ -319,7 +339,7 @@ export default function Navbar() {
 
       {/* Mobile panel */}
       {mobileOpen && (
-        <div className="absolute top-full left-0 right-0 mt-3 bg-cream rounded-[2rem] p-6 xl:hidden max-h-[82vh] overflow-y-auto flex flex-col gap-1 z-[9999] shadow-2xl border border-charcoal/10">
+        <div id="mobil-menu" className="absolute top-full left-0 right-0 mt-3 bg-cream rounded-[2rem] p-6 xl:hidden max-h-[82vh] overflow-y-auto flex flex-col gap-1 z-[9999] shadow-2xl border border-charcoal/10">
           <div className="flex justify-end pb-2">
             <Suspense fallback={null}>
               <LanguageSwitcher />
