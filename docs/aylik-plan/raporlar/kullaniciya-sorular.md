@@ -147,3 +147,7 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     zira m.11/5 bir sınır öngörmemekte ve m.13/2 kabul ya da ret edilen miktara bağlanmaktadır. İkincisi, tarifede ayrı sırası olmayan
     aile mahkemesine asliye mahkemesi ücretinin (45.000 TL, İkinci Kısım İkinci Bölüm sıra 10) uygulanmasıdır.
     *Varsayım:* iki nokta da yukarıdaki biçimde kalır. Yerleşik uygulama farklıysa bildirmeniz yeterlidir.
+26. **Makine prize takılabilir mi? (G23, G24).** 16 Ekim 10:00'dan bu yana makine pildedir ve 11:00'de şarj %4'e inmiştir. Otonom
+    yordam pil %50'nin altındayken uzun işi başlatmadığından G23'ün kapanışı için gereken `npm run kalite` 15 Ekim akşamından beri koşulamamakta,
+    G24 1. adımı da hızlı kapısız `wip:` commit'te beklemektedir.
+    *Varsayım:* makine prize takılana kadar oturumlar yalnız kayıt ve kısa iş yapar.

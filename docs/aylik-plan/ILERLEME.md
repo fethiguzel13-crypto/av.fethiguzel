@@ -900,3 +900,13 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   koşulmamıştır. Bu yüzden commit `wip:` önekiyle atılmıştır (`e1a52d631`). Sıradaki oturum hızlı kapıyı koşar ve kayda yazar.
 - **G23 DEVAM EDİYOR** (yalnız `npm run kalite` eksik), **G24 DEVAM EDİYOR** (1. adım bitti, sıradaki 2. adım). Sıradaki oturum makine
   prizdeyse ya da pil %50'nin üzerindeyse önce tam kapıyı ön planda koşar. Kapı yeşilse G23 `[x]` yapılır ve G24 2. adıma geçilir.
+
+## 2026-10-16 11:00 — G23 ve G24 DEVAM EDİYOR, iş yapılmadı (başsız oturum, başladı 11:00)
+
+- Devralma: `DURAKLAT` yok, ağaç temizdir, son commit `e2fb36fbb`'dir. 3123 ve 3124 boştur, boş bellek 834 MB'tır. Makine pildedir
+  (`BatteryStatus` 1) ve şarj %4'tür, yani 10:09'daki %17'den bu yana düşüş sürmüştür. Kapanma her an gerçekleşebileceğinden ne tam kapı
+  ne hızlı kapı ne de G24 2. adımı başlatılmış, oturum yalnız bu kaydı commit ederek kapanmıştır.
+- Kullanıcıya not: Makine 10:00'dan beri prize takılı değildir ve otonom oturumlar pil yüzünden iki saattir kapı koşamamaktadır
+  (`raporlar/kullaniciya-sorular.md`).
+- **G23 DEVAM EDİYOR** (yalnız `npm run kalite` eksik), **G24 DEVAM EDİYOR** (1. adım `wip:` commit'tedir, hızlı kapısı eksik). Sıradaki
+  oturum makine prizdeyse önce hızlı kapıyı, sonra tam kapıyı ön planda koşar.
