@@ -224,12 +224,14 @@ export default function Navbar() {
             {uyelikLabel}
           </Link>
 
-          {/* Mevzuat mega trigger */}
-          <div ref={megaRef} className="relative">
+          {/* Mevzuat mega trigger. Panel düğmeye değil çubuğa (`nav`) göre ortalanır; düğme çubuğun sağında olduğundan
+              düğmeye göre ortalanan 860 px'lik panel 1280 px'te sağ kenardan taşıyordu (G24). */}
+          <div ref={megaRef}>
             <button
               onMouseEnter={() => setMegaOpen(true)}
               onClick={() => setMegaOpen(v => !v)}
               aria-expanded={megaOpen}
+              aria-controls="mevzuat-menu"
               className={`flex items-center gap-1 px-3 py-2 rounded-full transition-colors whitespace-nowrap ${linkCls}`}
             >
               Mevzuat
@@ -238,6 +240,7 @@ export default function Navbar() {
 
             {megaOpen && (
               <div
+                id="mevzuat-menu"
                 onMouseLeave={() => setMegaOpen(false)}
                 className="absolute top-full mt-3 left-1/2 -translate-x-1/2 w-[860px] max-w-[calc(100vw-2rem)] glass rounded-[2rem] shadow-2xl border border-charcoal/[0.08] z-[9999] p-6 lg:p-8"
               >
