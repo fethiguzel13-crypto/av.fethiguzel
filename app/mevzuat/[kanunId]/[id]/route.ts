@@ -232,7 +232,7 @@ esas alınmalıdır.</p>
 <style>
 body{margin:0;font-family:system-ui,-apple-system,sans-serif;background:#F4F1EA;color:#1C1C1C;line-height:1.55}
 a{color:#A7482A;text-decoration:none} a:hover{text-decoration:underline}
-main{max-width:42rem;margin:0 auto;padding:1.75rem 1.1rem 3rem}
+main{max-width:42rem;margin:0 auto;padding:1.75rem 1.1rem 3rem;overflow-wrap:anywhere}
 .badge{display:inline-block;padding:.28rem .75rem;border-radius:999px;background:rgba(196,90,56,.08);color:#A7482A;font-size:.68rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase}
 .box{border-radius:1.15rem;padding:1.25rem 1.4rem;margin:1.1rem 0}
 .off{background:linear-gradient(145deg,#2E4036,#1f2e26);color:#FFFEFA}
