@@ -624,7 +624,7 @@ function MevzuatSearchInner({
                                                                 {r.kanun}
                                                             </span>
                                                             {r.status === "completed" && (
-                                                                <span className="text-[9px] font-bold uppercase tracking-wider text-emerald-700/70 bg-emerald-50 px-2 py-0.5 rounded-full">
+                                                                <span className="text-[9px] font-bold uppercase tracking-wider text-emerald-800 bg-emerald-50 px-2 py-0.5 rounded-full">
                                                                     Şerh hazır
                                                                 </span>
                                                             )}

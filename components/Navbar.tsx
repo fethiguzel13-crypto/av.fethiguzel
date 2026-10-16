@@ -245,13 +245,13 @@ export default function Navbar() {
                   {MEVZUAT_GRUPLARI.map(g => (
                     <div key={g.grup}>
                       <p className="text-[10px] font-bold uppercase tracking-widest text-accent-ink mb-3">{g.grup}</p>
-                      <div className="flex flex-col gap-[3px]">
+                      <div className="flex flex-col">
                         {g.maddeler.map(m => (
                           <Link
                             key={m.href}
                             href={m.href}
                             onClick={() => setMegaOpen(false)}
-                            className="text-charcoal/65 hover:text-accent text-[11px] leading-5 transition-colors"
+                            className="text-charcoal/65 hover:text-accent text-[11px] leading-5 py-0.5 transition-colors"
                           >
                             {m.ad}
                           </Link>
@@ -359,7 +359,7 @@ export default function Navbar() {
           <Link
             href={uyelikHref}
             onClick={() => setMobileOpen(false)}
-            className="text-accent font-heading font-bold uppercase text-base py-2.5 border-b border-charcoal/[0.06]"
+            className="text-accent-ink font-heading font-bold uppercase text-base py-2.5 border-b border-charcoal/[0.06]"
           >
             {uyelikLabel}
           </Link>
