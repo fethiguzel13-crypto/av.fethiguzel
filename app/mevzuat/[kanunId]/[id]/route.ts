@@ -12,6 +12,7 @@ export const maxDuration = 30;
 
 import { gunzipSync } from 'node:zlib';
 import { auditCommentary } from '@/lib/content-quality.mjs';
+import { baslikDuzeyleriniDuzle } from '@/lib/erisilebilirlik.mjs';
 import { jsonLdHtml } from '@/lib/json-ld';
 import { maddeJsonLd } from '@/lib/madde-ld';
 import { yazarKutusuHtml } from '@/lib/yazar';
@@ -180,12 +181,14 @@ function buildHtml(
   const canonical = `${SITE}/mevzuat/${kanunId}/${id}`;
   // ~7.600 madde sayfası kanunun derlemede üretilmiş kartını paylaşır (G20); madde başına görsel üretilmez.
   const gorsel = `${SITE}${paylasimGorselYolu('kanun', kanunId)}`;
-  const officialHtml = mdLite(article.official);
+  // Başlıklar sayfadaki yerinden başlar: resmî metin h1'in, şerh "Akademik yorum" h2'sinin altındadır. Şerh dosyaları `####` ile
+  // başladığından h2'den h4'e atlıyordu (G24, WCAG 1.3.1).
+  const officialHtml = mdLite(baslikDuzeyleriniDuzle(article.official, 2));
   // Bu maddeye kendi bağlantı listesinde değinen rehber, kavram ve hesaplama (G12); dizin yalnız açık maddeleri taşır.
   const ilgiliHtml = maddeIlgiliHtml(maddeyeDeginen(`${kanunId}/${id}`, icBaglantiDizini), SITE);
 
   const commentaryHtml = hasCommentary
-    ? mdLite(commentary)
+    ? mdLite(baslikDuzeyleriniDuzle(commentary, 3))
     : `<div class="notice">
 <p><strong>Bu maddenin şerhi yayından kaldırıldı.</strong></p>
 <p>${esc(quality.reason || 'Şerh yeniden yazılıyor.')}</p>
@@ -232,7 +235,10 @@ esas alınmalıdır.</p>
 <style>
 body{margin:0;font-family:system-ui,-apple-system,sans-serif;background:#F4F1EA;color:#1C1C1C;line-height:1.55}
 a{color:#A7482A;text-decoration:none} a:hover{text-decoration:underline}
-main{max-width:42rem;margin:0 auto;padding:1.75rem 1.1rem 3rem;overflow-wrap:anywhere}
+main{max-width:42rem;margin:0 auto;padding:1.75rem 1.1rem 0;overflow-wrap:anywhere}
+.altbilgi{max-width:42rem;margin:0 auto;padding:0 1.1rem 3rem}
+.atla{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}
+.atla:focus{left:1rem;top:1rem;z-index:10;width:auto;height:auto;margin:0;padding:.75rem 1.25rem;overflow:visible;clip:auto;background:#A7482A;color:#fff;border-radius:999px;font-weight:700;font-size:.875rem;outline:2px solid #1C1C1C;outline-offset:2px}
 .badge{display:inline-block;padding:.28rem .75rem;border-radius:999px;background:rgba(196,90,56,.08);color:#A7482A;font-size:.68rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase}
 .box{border-radius:1.15rem;padding:1.25rem 1.4rem;margin:1.1rem 0}
 .off{background:linear-gradient(145deg,#2E4036,#1f2e26);color:#FFFEFA}
@@ -263,6 +269,7 @@ h1{font-size:clamp(1.45rem,3vw,2rem);line-height:1.22;margin:.45rem 0 0;font-wei
 </style>
 </head>
 <body>
+<a class="atla" href="#main-content">İçeriğe atla</a>
 <header class="topbar">
   <a class="brand" href="${SITE}/">Av. Fethi Güzel</a>
   <nav>
@@ -272,7 +279,7 @@ h1{font-size:clamp(1.45rem,3vw,2rem);line-height:1.22;margin:.45rem 0 0;font-wei
     <a href="${SITE}/avukat-fethi-guzel">Profil</a>
   </nav>
 </header>
-<main>
+<main id="main-content">
 <nav class="nav" aria-label="Konum">
 <a href="${SITE}/">Ana sayfa</a> ·
 <a href="${SITE}/mevzuat">Mevzuat</a> ·
@@ -304,12 +311,14 @@ ${ilgiliHtml}
 Kaynak ve uyarı: Bilgilendirme amaçlıdır; Resmî Gazete / mevzuat.gov.tr esas alınmalıdır.
 ${hasCommentary ? 'Şerh akademik niteliktedir.' : ''} Arama: ${code} madde ${n}, ${code} m. ${n}, Fethi Güzel.
 </aside>
+</main>
+<footer class="altbilgi">
 <p class="alt-bag" style="margin-top:1.35rem;font-size:.9rem">
 <a href="${SITE}/mevzuat">← Tüm mevzuat</a> ·
 <a href="${SITE}/ara?q=${encodeURIComponent(code + ' madde ' + n)}">Benzer maddelerde ara</a> ·
 <a href="${SITE}/avukat-fethi-guzel">Av. Fethi Güzel</a>
 </p>
-</main>
+</footer>
 </body>
 </html>`,
   };
