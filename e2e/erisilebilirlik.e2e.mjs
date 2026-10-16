@@ -8,6 +8,9 @@
  * Etkileşim sonrası axe (G24 adım 4): Menü açıkken, arama sonuçları gelince, kıdem aracında geçersiz tarih girilince ve kısa testte
  * şık seçilip cevaplar kontrol edilince axe yeniden koşulur; ciddi ve kritik ihlal 0 olmalıdır. Aynı durumlarda yalnız renkle
  * verilen bilgi (seçili şık, doğru ve yanlış cevap) ile duyurulmayan durum iletisi ayrıca sınanır (WCAG 1.4.1, 4.1.2, 4.1.3).
+ *
+ * Yeniden akış ve hareket (G24 adım 5): On yedi sayfa türü 320 px'te yatay taşmaz (WCAG 1.4.10); azaltılmış hareket tercihinde ana
+ * sayfa giriş canlandırması kapanır.
  */
 import { test, before, after } from 'node:test';
 import assert from 'node:assert/strict';
@@ -171,6 +174,13 @@ test('axe: masaüstünde mevzuat açılır menüsü açıkken ciddi ve kritik ih
     await sayfa.keyboard.press('Enter');
     assert.equal(await dugme.getAttribute('aria-expanded'), 'true');
     await sayfa.locator('nav a[href="/mevzuat"]', { hasText: 'Tüm Kanunlar' }).waitFor({ state: 'visible', timeout: 5_000 });
+    const kimlik = await dugme.getAttribute('aria-controls');
+    assert.ok(kimlik, 'açılır menü düğmesi aria-controls taşımıyor');
+    const kutu = await sayfa.locator(`#${kimlik}`).evaluate((p) => {
+      const k = p.getBoundingClientRect();
+      return { sol: Math.round(k.left), sag: Math.round(k.right), en: innerWidth };
+    });
+    assert.ok(kutu.sol >= 0 && kutu.sag <= kutu.en, `açılır menü görünüm alanından taşıyor: ${JSON.stringify(kutu)}`);
     assert.deepEqual(await ciddiIhlaller(sayfa), []);
     assert.deepEqual(hatalar, []);
   } finally {
@@ -232,4 +242,47 @@ test('kısa test: seçili şık aria-pressed taşır, kontrolden sonra doğru ve
   } finally {
     await sayfa.close();
   }
+});
+
+test('azaltılmış hareket: ana sayfa giriş canlandırması kapanır, normal bağlamda süresi vardır (WCAG 2.3.3)', async () => {
+  const sure = async (reducedMotion) => {
+    const ctx = await tarayici.newContext({ reducedMotion, viewport: { width: 1280, height: 800 } });
+    try {
+      const sayfa = await ctx.newPage();
+      const yanit = await sayfa.goto(TABAN + '/', { waitUntil: 'domcontentloaded', timeout: 60_000 });
+      assert.equal(yanit.status(), 200);
+      return await sayfa.locator('.hero-fade').first().evaluate((el) => {
+        const s = getComputedStyle(el);
+        return { ad: s.animationName, sure: parseFloat(s.animationDuration) };
+      });
+    } finally {
+      await ctx.close();
+    }
+  };
+  const normal = await sure('no-preference');
+  assert.ok(normal.ad !== 'none' && normal.sure > 0.1, `normal bağlamda canlandırma yok: ${JSON.stringify(normal)}`);
+  const azaltilmis = await sure('reduce');
+  assert.ok(azaltilmis.ad === 'none' || azaltilmis.sure <= 0.01, `azaltılmış harekette canlandırma sürüyor: ${JSON.stringify(azaltilmis)}`);
+});
+
+test('yeniden akış: on yedi sayfa türü 320 px genişlikte yatay taşmaz (WCAG 1.4.10)', async () => {
+  const { DENETIM_SAYFALARI } = await import('../lib/tasarim-denetim.mjs');
+  const ctx = await tarayici.newContext({ viewport: { width: 320, height: 720 } });
+  const tasan = [];
+  try {
+    const sayfa = await ctx.newPage();
+    for (const s of DENETIM_SAYFALARI) {
+      let yanit = await sayfa.goto(TABAN + s.yol, { waitUntil: 'networkidle', timeout: 60_000 });
+      if (s.izle) {
+        const href = await sayfa.getAttribute(s.izle, 'href');
+        yanit = await sayfa.goto(TABAN + href, { waitUntil: 'networkidle', timeout: 60_000 });
+      }
+      assert.equal(yanit.status(), 200, s.ad);
+      const genislik = await sayfa.evaluate(() => document.documentElement.scrollWidth);
+      if (genislik > 321) tasan.push(`${s.ad} ${genislik} px`);
+    }
+  } finally {
+    await ctx.close();
+  }
+  assert.deepEqual(tasan, []);
 });
