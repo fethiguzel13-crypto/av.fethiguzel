@@ -991,3 +991,10 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   Derlemesiz değişmiş görünen `public/priority-sitemap.xml` (yalnız satır sonu) geri alınmıştır. Araya giren commit yoktur.
 - **G24 DEVAM EDİYOR** (1-6. adım bitti, sıradaki 7. adım: kapanış taraması, tam kapı, rapor `raporlar/g24-erisilebilirlik.md`).
   Tam kapı makine %51 pildeyken bu oturumda denenmektedir, sonucu aşağıdaki satırdadır.
+- 02:29-02:48 tam kapı 1011 testte yeşildir. Derleme dört işçiyle 812 sn, uçtan uca adımı 44/44'tür (`logs/g24-tam-0229.log`). Derlenmiş
+  sitede yeni yapı testi on yedi sayfada bulgusuzdur, yani geliştirme sunucusunda bir kez görülen `ders-notu` `footer-yok` bulgusu
+  tekrarlanmamıştır. Derlemenin yeniden ürettiği beş dosya yalnız zaman damgası taşıdığından geri alınmıştır. Başka oturumun dosyaları
+  dokunulmadan bırakılmıştır, araya giren commit yoktur, 3123 ve 3124 boştur.
+- **G24 DEVAM EDİYOR** (1-6. adım bitti, sıradaki 7. adım). Kapı bittiğinde makine %42 pildeydi. `next start` ile iki genişlikte kapanış
+  taraması (`node scripts/tasarim-denetim.mjs --etiket=g24 --yapi`) uzun iş sayıldığından başlatılmamıştır. Sonraki oturum prizdeyken
+  taramayı koşar ve `raporlar/g24-erisilebilirlik.md` raporunu yazar. Önce/sonra tablosunun dayanakları `gorevler/G24.md`'dedir.
