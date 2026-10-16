@@ -938,3 +938,22 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - **G23 tamamlandı.** **G24 DEVAM EDİYOR** (1-3. adım bitti, sıradaki 4. adım: etkileşim sonrası axe). Açık bulgular `gorevler/G24.md`'dedir:
   madde sayfası (bağımsız HTML, alt bilgi ve atlama bağlantısı yok, şerh başlıkları `h2`'den `h4`'e atlar), `header-yok` kararı ve içtihat
   sayfasında 390 px'teki küçük hedef. Bunlar 6. adımda ele alınır.
+
+## 2026-10-17 00:00 — G24 DEVAM EDİYOR (başsız oturum, başladı 00:00)
+
+- G24 DEVAM EDİYOR (başladı 00:00, 4. adım: etkileşim sonrası axe).
+- Devralma: `DURAKLAT` yok, ağaç temizdir, son commit `c54c50f29`'dur. Makine prizdedir (%100), boş bellek 985 MB'tır, 3123 ve 3124 boştur.
+- 00:05-00:20 G24 4. adım: `e2e/erisilebilirlik.e2e.mjs`'e beş test eklenmiştir (mobil menü açık, mevzuat açılır menüsü açık, arama
+  sonucu, kıdem aracında ters tarih, aile hukuku notunun kısa testi). `next dev -p 3124` üzerinde beşi de önce kırmızıdır. Bulgular üç ciddi
+  axe ihlalidir (mobil menüde üyelik bağlantısı ve arama sonucundaki "Şerh hazır" etiketinde kontrast, açılır menü bağlantılarında 24 px
+  hedef ölçüsü). Bunlara axe'nin görmediği iki sorun eklenmiştir: Kıdem aracındaki ileti duyurulmamakta, kısa testte seçim ve sonuç
+  yalnız renkle verilmektedir. Düzeltmeler üç ayrı commit'tir (`65cce1fd3`, `d24ef44d7`, `6a3b9e856`), testler ve görüntüler
+  `4466747dc`'dedir. Düzeltmelerden sonra beşi de yeşildir. Ayrıntı ve tablo `gorevler/G24.md`'dedir.
+- 00:22-00:27 hızlı kapı 962 testte yeşildir (`logs/g24-hizli-0022.log`, kapatılan geliştirme sunucusunun `validator.ts`'i önceden silinmiştir).
+- 00:29-00:48 tam kapı 1001 testte yeşildir. Derleme dört işçiyle 848 sn, uçtan uca adımı 39/39'dur (`logs/g24-tam-0029.log`). Makine
+  kapı başlarken pile geçmiştir (%91). Derlemenin yeniden ürettiği beş dosya yalnız zaman damgası taşıdığından geri alınmıştır.
+- Başka oturum: Ağaçta bu oturuma ait olmayan değişiklikler vardır (`.gitignore`, `package.json`, `scripts/kalite.mjs`,
+  izlenmeyen `scripts/karar-arama/`, çalışan `scripts/karar-arama/sunucu.mjs`). Kapı yeni `test:karar-arama` adımını da koşmuş ve
+  44/44 yeşil bulmuştur. Bu dosyalara dokunulmamış, commit'lere eklenmemiştir. Araya giren commit yoktur.
+- **G24 DEVAM EDİYOR** (1-4. adım bitti, sıradaki 5. adım: 320 px yeniden akış ve azaltılmış hareket). 6. adıma devredilen yeni bulgu:
+  1280 px'te mevzuat açılır menüsü sağ kenardan taşmaktadır.
