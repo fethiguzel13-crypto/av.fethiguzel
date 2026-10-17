@@ -1,0 +1,212 @@
+{
+ "etiket": "g24-icthat-sonra",
+ "taban": "http://localhost:3124",
+ "tarih": "2026-10-17T00:09:07.689Z",
+ "ozet": [],
+ "sonuclar": [
+  {
+   "sayfa": "icthat",
+   "adres": "/icthat",
+   "genislik": 1280,
+   "bulgular": [],
+   "basliklar": [
+    {
+     "duzey": 2,
+     "metin": "Günlük Takip"
+    },
+    {
+     "duzey": 1,
+     "metin": "İçtihat & Mevzuat"
+    },
+    {
+     "duzey": 2,
+     "metin": "Resmî Gazete"
+    },
+    {
+     "duzey": 3,
+     "metin": "–– Coğrafi Veri İzinleri Yönetmeliği"
+    },
+    {
+     "duzey": 3,
+     "metin": "a - Yargı İlânları"
+    },
+    {
+     "duzey": 3,
+     "metin": "b - Artırma, Eksiltme ve İhale İlânları"
+    },
+    {
+     "duzey": 3,
+     "metin": "c - Çeşitli İlânlar"
+    },
+    {
+     "duzey": 3,
+     "metin": "– T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet "
+    },
+    {
+     "duzey": 3,
+     "metin": "–– Elektrikli Skuter Yönetmeliğinde Değişiklik Yapılmasına D"
+    },
+    {
+     "duzey": 3,
+     "metin": "a - Yargı İlânları"
+    },
+    {
+     "duzey": 3,
+     "metin": "b - Artırma, Eksiltme ve İhale İlânları"
+    },
+    {
+     "duzey": 3,
+     "metin": "c - Çeşitli İlânlar"
+    },
+    {
+     "duzey": 3,
+     "metin": "– T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet "
+    },
+    {
+     "duzey": 2,
+     "metin": "İletişim & Ofis"
+    },
+    {
+     "duzey": 3,
+     "metin": "Büro ve iletişim."
+    },
+    {
+     "duzey": 4,
+     "metin": "Ofis Adresi"
+    },
+    {
+     "duzey": 4,
+     "metin": "E-Posta"
+    },
+    {
+     "duzey": 4,
+     "metin": "Telefon"
+    },
+    {
+     "duzey": 4,
+     "metin": "Çalışma"
+    },
+    {
+     "duzey": 4,
+     "metin": "Mobil uygulama"
+    },
+    {
+     "duzey": 4,
+     "metin": "Sosyal Medya"
+    },
+    {
+     "duzey": 2,
+     "metin": "Diğer uygulamalarımız"
+    }
+   ],
+   "bolgeler": {
+    "main": 1,
+    "nav": 2,
+    "header": 1,
+    "footer": 1
+   }
+  },
+  {
+   "sayfa": "icthat",
+   "adres": "/icthat",
+   "genislik": 390,
+   "bulgular": [],
+   "basliklar": [
+    {
+     "duzey": 2,
+     "metin": "Günlük Takip"
+    },
+    {
+     "duzey": 1,
+     "metin": "İçtihat & Mevzuat"
+    },
+    {
+     "duzey": 2,
+     "metin": "Resmî Gazete"
+    },
+    {
+     "duzey": 3,
+     "metin": "–– Coğrafi Veri İzinleri Yönetmeliği"
+    },
+    {
+     "duzey": 3,
+     "metin": "a - Yargı İlânları"
+    },
+    {
+     "duzey": 3,
+     "metin": "b - Artırma, Eksiltme ve İhale İlânları"
+    },
+    {
+     "duzey": 3,
+     "metin": "c - Çeşitli İlânlar"
+    },
+    {
+     "duzey": 3,
+     "metin": "– T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet "
+    },
+    {
+     "duzey": 3,
+     "metin": "–– Elektrikli Skuter Yönetmeliğinde Değişiklik Yapılmasına D"
+    },
+    {
+     "duzey": 3,
+     "metin": "a - Yargı İlânları"
+    },
+    {
+     "duzey": 3,
+     "metin": "b - Artırma, Eksiltme ve İhale İlânları"
+    },
+    {
+     "duzey": 3,
+     "metin": "c - Çeşitli İlânlar"
+    },
+    {
+     "duzey": 3,
+     "metin": "– T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet "
+    },
+    {
+     "duzey": 2,
+     "metin": "İletişim & Ofis"
+    },
+    {
+     "duzey": 3,
+     "metin": "Büro ve iletişim."
+    },
+    {
+     "duzey": 4,
+     "metin": "Ofis Adresi"
+    },
+    {
+     "duzey": 4,
+     "metin": "E-Posta"
+    },
+    {
+     "duzey": 4,
+     "metin": "Telefon"
+    },
+    {
+     "duzey": 4,
+     "metin": "Çalışma"
+    },
+    {
+     "duzey": 4,
+     "metin": "Mobil uygulama"
+    },
+    {
+     "duzey": 4,
+     "metin": "Sosyal Medya"
+    },
+    {
+     "duzey": 2,
+     "metin": "Diğer uygulamalarımız"
+    }
+   ],
+   "bolgeler": {
+    "main": 1,
+    "nav": 3,
+    "header": 1,
+    "footer": 1
+   }
+  }
+ ]
+}

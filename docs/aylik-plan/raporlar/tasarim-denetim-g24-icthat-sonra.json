@@ -1,0 +1,34 @@
+{
+ "etiket": "g24-icthat-sonra",
+ "taban": "http://localhost:3124",
+ "tarih": "2026-10-17T00:09:07.683Z",
+ "ozet": {
+  "kurallar": [],
+  "kucukHedef": 0,
+  "tasan": []
+ },
+ "sonuclar": [
+  {
+   "sayfa": "icthat",
+   "adres": "/icthat",
+   "durum": 200,
+   "genislik": 1280,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 30804
+  },
+  {
+   "sayfa": "icthat",
+   "adres": "/icthat",
+   "durum": 200,
+   "genislik": 390,
+   "ihlaller": [],
+   "hedef": [],
+   "tasma": false,
+   "tasanlar": [],
+   "sure": 4987
+  }
+ ]
+}

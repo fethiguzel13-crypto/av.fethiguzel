@@ -293,8 +293,13 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
   - G20'den not: Aile hukuku temsilci notunun başlığı "AÜHF Aile Hukuku Yıllık (Konsolide Master)" biçimindedir; iç üretim etiketi
     sayfa başlığına ve paylaşım kartına (`raporlar/gorsel/g20-kart-ders-notu.png`) geçmektedir. Not ele alınırken başlık düzeltilir.
 
-- [ ] **G24 — Erişilebilirlik** · bağımlı: G15
+- [x] **G24 — Erişilebilirlik** · bağımlı: G15
   - axe-core ile anahtar sayfalar; ciddi/kritik ihlal 0.
+  - Kapandı (2026-10-17 03:15): 17 sayfa × 2 genişlikte ve beş etkileşim durumunda axe ihlali 0, yapı bulgusu 0, 320 px taşma 0.
+    Klavye, odak, etkileşim sonrası axe, yeniden akış ve azaltılmış hareket on beş uçtan uca testle her tam kapıda sınanır. Tam kapı
+    1011 testte yeşildir (02:29). Rapor `raporlar/g24-erisilebilirlik.md`'dedir.
+  - G25'e not: İçtihat kartındaki 24 px hedef düzeltmesi (`b8d5403b6`) pil nedeniyle yalnız geliştirme sunucusunda ölçülmüştür;
+    derlenmiş sitede `tasarim-denetim.mjs --sadece=icthat` ile yeniden ölçülür. axe `best-practice` kuralları istenirse bir kez raporlanır.
 
 - [ ] **G25 — Son regresyon** · bağımlı: hepsi
   - `npm run kalite`, Lighthouse, güvenlik yeniden taraması, SEO taraması (G06 başlangıcıyla

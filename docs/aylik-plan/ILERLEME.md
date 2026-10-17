@@ -998,3 +998,21 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - **G24 DEVAM EDİYOR** (1-6. adım bitti, sıradaki 7. adım). Kapı bittiğinde makine %42 pildeydi. `next start` ile iki genişlikte kapanış
   taraması (`node scripts/tasarim-denetim.mjs --etiket=g24 --yapi`) uzun iş sayıldığından başlatılmamıştır. Sonraki oturum prizdeyken
   taramayı koşar ve `raporlar/g24-erisilebilirlik.md` raporunu yazar. Önce/sonra tablosunun dayanakları `gorevler/G24.md`'dedir.
+
+## 2026-10-17 03:00 — G24 DEVAM EDİYOR (başsız oturum, başladı 03:00)
+
+- G24 DEVAM EDİYOR (başladı 03:01, 7. adım: kapanış taraması ve rapor).
+- Devralma: `DURAKLAT` yok, son commit `c8f0ad234`'tür. Ağaçta yalnız başka oturumun dosyaları vardır (`.gitignore`, `package.json`,
+  `scripts/kalite.mjs`, izlenmeyen `scripts/karar-arama/`); bunlara dokunulmamıştır. Bu değişiklikler kapıya `test:karar-arama` adımını
+  eklemektedir. Makine pildedir (%40), boş bellek 880 MB'tır, 3123 ve 3124 boştur. Tam kapı 02:29'da bugünkü kodla yeşil geçtiğinden
+  yeniden koşulmamış, `.next` derlemesi (02:36) kapanış taramasına kullanılmıştır. Tarama 153 sn sürdüğünden kısa iş sayılmıştır.
+- 03:02-03:05 kapanış taraması (`node scripts/tasarim-denetim.mjs --etiket=g24 --yapi`, `next start -p 3123`): 17 sayfa × 2 genişlikte
+  axe ihlali 0, yapı bulgusu 0, taşma yoktur. İçtihat sayfasında 390 px'te "Kaynak" bağlantısı 73×16 px ölçülmüştür, sayfa günlük veriyle
+  değiştiğinden bulgu 00:52 taramasında görülmemişti. Statik test önce kırmızı (0/2), kart altındaki iki bağlantıya `inline-flex` ve
+  `min-h-6` verilince yeşildir (`b8d5403b6`). Derleme pilde uzun iş olduğundan doğrulama `next dev -p 3124` üzerinde yapılmıştır: küçük
+  hedef 0, on "Kaynak" bağlantısının hepsi 73×24 px. Sunucular kapatılmış, `validator.ts` silinmiştir.
+- 03:10-03:14 hızlı kapı 969 testte yeşildir (`logs/g24-hizli-0315.log`). Derlemesiz değişmiş görünen `public/priority-sitemap.xml`
+  (yalnız satır sonu) geri alınmıştır. Araya giren commit yoktur.
+- **G24 BİTTİ** (`PLAN.md` `[x]`). Kapanış raporu `raporlar/g24-erisilebilirlik.md`'dedir. Kabul ölçütünün beşi de karşılanmıştır, düzeltilen
+  hedefin derlenmiş sitede yeniden ölçümü G25'e not edilmiştir. Sıradaki görev G25'tir (son regresyon, bağımlı: hepsi). Bağımlılıkları
+  sonraki oturum `PLAN.md`'de denetler. Tam kapı ve Lighthouse içerdiğinden makine prizdeyken başlatılır.
