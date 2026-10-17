@@ -65,13 +65,13 @@ function Item({ item, hasAnalysis }: { item: DailyItem; hasAnalysis: boolean }) 
           {hasAnalysis && (
             <Link
               href={`/icthat/${item.id}`}
-              className="text-xs text-accent-ink font-bold tracking-widest uppercase hover:underline"
+              className="inline-flex items-center min-h-6 text-xs text-accent-ink font-bold tracking-widest uppercase hover:underline"
             >
               Analizi Oku →
             </Link>
           )}
           {item.url && (
-            <a href={item.url} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-xs text-accent-ink font-bold tracking-widest uppercase">
+            <a href={item.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 min-h-6 text-xs text-accent-ink font-bold tracking-widest uppercase">
               Kaynak <ExternalLink size={12} />
             </a>
           )}
