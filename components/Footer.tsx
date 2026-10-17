@@ -248,7 +248,7 @@ export default function Footer() {
               <span className="text-cream font-bold font-heading tracking-tight">AV. FETHİ GÜZEL</span>
             </Link>
             <p className="text-cream/55 text-xs font-sans">
-              © {new Date().getFullYear()} Tüm Hakları Saklıdır. Reklam Yasağına Uygundur.
+              © {new Date().getFullYear()} Tüm Hakları Saklıdır.
             </p>
           </div>
 
@@ -293,7 +293,6 @@ export default function Footer() {
         <p className="mt-6 text-center text-cream/55 text-xs font-sans leading-relaxed max-w-3xl mx-auto">
           Av. Fethi Güzel — özel hukuk alanında doktora çalışmaları yürüten avukat ve arabulucu; e-duruşma monografisi yazarı; iyi düzeyde İngilizce.
           Site; mevzuat, akademik şerh, vatandaş bilgilendirme rehberleri ve hesaplama araçları sunar.
-          Reklam yasağına uygundur; sonuç vaadi içermez.
         </p>
       </div>
     </footer>
