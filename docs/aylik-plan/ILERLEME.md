@@ -1016,3 +1016,10 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - **G24 BİTTİ** (`PLAN.md` `[x]`). Kapanış raporu `raporlar/g24-erisilebilirlik.md`'dedir. Kabul ölçütünün beşi de karşılanmıştır, düzeltilen
   hedefin derlenmiş sitede yeniden ölçümü G25'e not edilmiştir. Sıradaki görev G25'tir (son regresyon, bağımlı: hepsi). Bağımlılıkları
   sonraki oturum `PLAN.md`'de denetler. Tam kapı ve Lighthouse içerdiğinden makine prizdeyken başlatılır.
+
+## 2026-10-17 04:00 — G25 DEVAM EDİYOR (başsız oturum, başladı 04:00)
+
+- G25 DEVAM EDİYOR (başladı 04:05, alt plan `gorevler/G25.md`).
+- Devralma: `DURAKLAT` yok, son commit `142051bb6`'dır. Ağaçta yalnız başka oturumun dosyaları vardır (`.gitignore`, `package.json`,
+  `scripts/kalite.mjs`, izlenmeyen `scripts/karar-arama/`); bunlara dokunulmamıştır. Makine pildedir (%25), boş bellek 826 MB'tır,
+  3123 ve 3124 boştur. G00 ve G08 ajanın kapatabileceği iş olmadığından G25'in önünde engel sayılmamış, karar soru 27'ye yazılmıştır.

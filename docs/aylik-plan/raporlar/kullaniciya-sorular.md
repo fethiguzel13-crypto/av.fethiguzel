@@ -152,3 +152,7 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     G24 1. adımı da hızlı kapısız `wip:` commit'te beklemektedir.
     *Varsayım:* makine prize takılana kadar oturumlar yalnız kayıt ve kısa iş yapar.
     *Durum (16 Ekim 22:00):* makine prizdedir (%100). Hızlı ve tam kapı koşulmuş, G23 kapanmıştır. Soru kendiliğinden düşmüştür.
+27. **G25 "bağımlı: hepsi" G00'ı da kapsar mı? (G25).** `PLAN.md`'de G00 (canlı sitenin Vercel 402 ile kapalı olması) ve G08 (haftalık
+    hasat bakımı) `[ ]` durmaktadır. G00'ı yalnız siz Vercel panelinden çözebilirsiniz, G08 ise her hafta tekrarlanan ve işaret kutusu
+    taşımayan bir bakımdır. Bu iki madde ajanın kapatabileceği iş olmadığından G25 (son regresyon) 17 Ekim 04:00'te başlatılmıştır.
+    *Varsayım:* G25 yerel derleme üzerinde yürür. G00 30 Ekim yayınından önce sizin eyleminizi bekler, G26'nın push adımı da buna bağlıdır.
