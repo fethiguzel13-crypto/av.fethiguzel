@@ -94,7 +94,8 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
   Boşta uyku zaman aşımı kapalıdır (AC ve pil 0). 12–13 Ekim'deki üç uykunun nedeni «Battery» ve «Application API»dir (Sistem
   günlüğü Kernel-Power 42). Bu yüzden uyku kilidi kesintiyi önlemez. Uzun işten (tam mobil derleme, tam kapı) önce
   `Win32_Battery` denetlenir: `BatteryStatus` 2 prizde demektir. Makine pildeyse ve `EstimatedChargeRemaining` %50'nin altındaysa
-  uzun iş başlatılmaz, kısa işe geçilir.
+  uzun iş başlatılmaz, kısa işe geçilir. Tam kapı pilde yaklaşık %25-30 tüketir (2026-10-18: iki kapı %81'den %47'ye indirmiştir), bu
+  yüzden kapıdan sonra ölçüm gibi ikinci bir uzun iş planlanıyorsa başlangıçta pilin %80'in üstünde olması gerekir.
   Pildeki hızlı kapının süresi değişkendir: 2026-10-15'te uykudan hemen sonraki kapı 15 dk, sonraki iki kapı 6-7 dk sürmüş,
   pil 40 dk içinde %38'den %15'e inmiştir. Kapı beklenirken sıradaki katmanın taslağı depo dışında (`%TEMP%/g23-taslak/`) yazılır ve
   dayanakları `maddeMetni` ile sınanır. Böylece taslak, kapı biter bitmez kırmızı testle depoya alınabilir.
