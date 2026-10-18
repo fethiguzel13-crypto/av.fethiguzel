@@ -1,5 +1,4 @@
 import { MetadataRoute } from 'next';
-import { lawCategories } from '@/lib/laws';
 import { publishableMevzuat, publishableRehber } from '@/lib/publishable';
 import fs from 'fs';
 import path from 'path';
@@ -122,24 +121,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     })),
   ];
 
-  const categoryRoutes: MetadataRoute.Sitemap = lawCategories.map((cat) => ({
-    url: `${baseUrl}/${cat.slug}`,
-    lastModified: new Date(),
-    changeFrequency: 'weekly' as const,
-    priority: 0.9,
-  }));
-
-  const subCategoryRoutes: MetadataRoute.Sitemap = [];
-  for (const cat of lawCategories) {
-    for (const sub of cat.subCategories) {
-      subCategoryRoutes.push({
-        url: `${baseUrl}/${cat.slug}/${sub.slug}`,
-        lastModified: new Date(),
-        changeFrequency: 'weekly',
-        priority: 0.8,
-      });
-    }
-  }
+  // Eski alan sayfaları (`/medeni-hukuk` ve alt alanları) /mevzuat/<kanun>'a 308 ile gider, haritada yer almaz (G25 adım 4).
 
   const { categories } = await import('@/lib/categories');
   const kategoriRoutes: MetadataRoute.Sitemap = categories.map((c) => ({
@@ -220,8 +202,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     ...hesaplamaRoutes,
     ...kavramRoutes,
     ...ilceRoutes,
-    ...categoryRoutes,
-    ...subCategoryRoutes,
     ...kategoriRoutes,
     ...mevzuatRoutes,
     ...personalArticleRoutes,

@@ -18,6 +18,23 @@ const nextConfig: NextConfig = {
    */
   async redirects() {
     return [
+      // Eski alan ve alt alan sayfaları: aynı madde listesi /mevzuat/<kanun>'dadır (G25 adım 4).
+      ...[
+        ["medeni-hukuk", "tmk"],
+        ["borclar-hukuku", "tbk"],
+        ["ticaret-hukuku", "ttk"],
+      ].flatMap(([alan, kanun]) => [
+        {
+          source: `/${alan}`,
+          destination: `/mevzuat/${kanun}`,
+          permanent: true,
+        },
+        {
+          source: `/${alan}/:sub`,
+          destination: `/mevzuat/${kanun}`,
+          permanent: true,
+        },
+      ]),
       {
         source: "/borclar-hukuku/:sub/:maddeId",
         destination: "/mevzuat/tbk/:maddeId",
