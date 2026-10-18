@@ -32,7 +32,7 @@ export default function EserlerimPage() {
             ]}
         />
         <header className="mb-16 sm:mb-24 text-center">
-          <h2 className="text-accent-ink font-heading text-sm tracking-widest uppercase mb-4">Akademik Yayınlar</h2>
+          <p className="text-accent-ink font-heading text-sm tracking-widest uppercase mb-4">Akademik Yayınlar</p>
           <h1 className="text-4xl md:text-6xl text-charcoal font-bold mb-6">
             Eserlerim & <span className="font-drama italic text-accent">Yayınlar</span>
           </h1>
@@ -52,17 +52,18 @@ export default function EserlerimPage() {
         {books.map((book, index) => (
           <section key={index} className="flex flex-col lg:flex-row gap-20 items-center mb-32">
             <div className="w-full lg:w-1/2 flex justify-center">
-              <div className="relative group">
+              {/* Kapak taslağı yandaki h3 başlığının görsel tekrarıdır; başlık sırasına girmez, 320 px ekranda taşmaz (G25). */}
+              <div className="relative group w-full max-w-[320px]" aria-hidden="true">
                 {/* Book Shadow/Glow */}
                 <div className="absolute -inset-4 bg-accent/20 rounded-[2rem] blur-2xl opacity-0 group-hover:opacity-100 transition-opacity"></div>
 
                 {/* Book Mockup */}
-                <div className="relative w-[320px] aspect-[2/3] bg-charcoal rounded-r-2xl shadow-[20px_20px_60px_rgba(0,0,0,0.3)] overflow-hidden border-y border-r border-cream/10">
+                <div className="relative w-full aspect-[2/3] bg-charcoal rounded-r-2xl shadow-[20px_20px_60px_rgba(0,0,0,0.3)] overflow-hidden border-y border-r border-cream/10">
                   <div className="absolute left-0 top-0 bottom-0 w-4 bg-black/40 z-10"></div>
                   <div className="absolute inset-0 p-12 flex flex-col justify-between text-center">
                     <div className="space-y-4">
                       <div className="w-12 h-1 bg-accent-solid mx-auto"></div>
-                      <h4 className="text-accent font-heading text-3xl font-bold leading-tight">{book.kisaAd}</h4>
+                      <p className="text-accent font-heading text-3xl font-bold leading-tight">{book.kisaAd}</p>
                     </div>
                     <p className="text-cream/55 text-[10px] font-mono leading-relaxed uppercase tracking-widest">
                       {book.title.replace(/ Yoluyla.*$/, '')}
@@ -76,9 +77,9 @@ export default function EserlerimPage() {
             </div>
 
             <div className="w-full lg:w-1/2">
-              <h3 className="text-3xl md:text-5xl font-heading font-bold text-charcoal mb-6 leading-tight">
+              <h2 className="text-3xl md:text-5xl font-heading font-bold text-charcoal mb-6 leading-tight">
                 {book.title}
-              </h3>
+              </h2>
               <p className="text-accent-ink font-heading text-xl mb-8">{book.subtitle}</p>
               {book.isbn && <p className="text-ink-muted text-sm font-mono mb-6">ISBN {book.isbn}</p>}
               <p className="text-ink-muted text-lg leading-relaxed mb-12 font-sans">
@@ -88,7 +89,7 @@ export default function EserlerimPage() {
               <div className="space-y-8">
                 <div className="flex items-center gap-4">
                   <ShoppingCart className="text-accent" />
-                  <h4 className="text-charcoal font-bold uppercase tracking-widest text-sm">Satın Alma Kanalları</h4>
+                  <h3 className="text-charcoal font-bold uppercase tracking-widest text-sm">Satın Alma Kanalları</h3>
                 </div>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                   {book.links.map((link) => (
