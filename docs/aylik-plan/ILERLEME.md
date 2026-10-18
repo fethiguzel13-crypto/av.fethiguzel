@@ -1068,3 +1068,13 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   belgede olduğundan hızlı kapı koşulmamıştır (testler plan belgelerini yalnız yorumda anar). Commit `1237701ba`'dır, araya giren commit yoktur.
 - **G25 DEVAM EDİYOR** (1-5. ve 8. adım bitti, 9. adımın taslağı yazıldı). Sıradaki oturum prizdeyken ya da pil %80'in üstündeyken 6. adımdan
   başlar. 16:01 derlemesinden sonra yalnız belge commit'leri atıldığından `.next` HEAD koduyla aynıdır, kapı yeniden koşulmaz.
+
+## 2026-10-18 22:00 — G25 DEVAM EDİYOR (başsız oturum, iş başlatılmadı)
+
+- Devralma: `DURAKLAT` yok, son commit `b43f0aef5`'tir. Ağaçta yalnız başka oturumun dosyaları vardır (`.gitignore`, `package.json`,
+  `scripts/kalite.mjs`, izlenmeyen `scripts/karar-arama/`), bunlara dokunulmamıştır. `.next/BUILD_ID` 15:47 tarihli olup HEAD koduyla aynıdır.
+- Makine pildedir (%19), boş bellek 221 MB'tır, 3123 ve 3124 boştur. G25'in kalan işleri (6. adımın ölçümleri, 7. adımın Lighthouse izi)
+  uzun iştir ve kural gereği pilde başlatılmamıştır. 9. adımın taslağı ölçüm sonuçlarını beklemektedir. G26, G25'e bağımlı olduğundan
+  seçilememiştir. Bu nedenle oturum yalnız bu kaydı yazmıştır, kod ve test değişikliği yoktur.
+- **G25 DEVAM EDİYOR.** Sıradaki oturum prizdeyken ya da pil %80'in üstündeyken 6. adımdan başlar (komutlar `gorevler/G25.md`'nin
+  16:02 maddesindedir).
