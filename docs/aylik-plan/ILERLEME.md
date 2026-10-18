@@ -1050,3 +1050,21 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   Hasat motoru çalışmaktadır (130.860 karar, emsal ve benzersiz 49.088).
 - **G25 DEVAM EDİYOR** (1-5. adım bitti, 8. adımın bağımlılık ve başlık kısmı yapıldı). Pil %47'ye indiğinden 6. adımın ölçümleri
   başlatılmamıştır. Sıradaki oturum prizdeyken bugünkü derlemeyle 6. adımdan başlar, komutlar `gorevler/G25.md`'nin son maddesindedir.
+
+## 2026-10-18 21:26 — G25 DEVAM EDİYOR (başsız oturum, başladı 21:26)
+
+- G25 DEVAM EDİYOR (başladı 21:30, 8. adımın kaynak denetimi ve 9. adımın rapor taslağı).
+- Devralma: `DURAKLAT` yok, son commit `dbb748e99`'dur. Ağaçta yalnız başka oturumun dosyaları vardır (`.gitignore`, `package.json`,
+  `scripts/kalite.mjs`, izlenmeyen `scripts/karar-arama/`), bunlara dokunulmamıştır. Makine pildedir (%35), boş bellek 689 MB'tır, 3123 ve 3124
+  boştur. Pil %50'nin altında olduğundan 6. adımın ölçümleri başlatılmamış, pilde yapılabilen 8. adım ile rapor taslağı seçilmiştir.
+- 21:30-21:45 **8. adım bitti.** G04 (`8a625ea35`) ve G05 (`96947f660`) kapanışlarından bu yana güvenlikle ilgili kaynakta yalnız G14'ün indeks
+  yolu ve mobilde bir etiket değişmiştir. On G04 bulgusunu `test:uyelik` 61/61, G05 değişmezlerini `test:mobil` 67/67 kilitlemektedir (15:34 kapısı).
+  Yüzde kodlu adres sorusu, indeks `public/` dışında olduğundan konusuz kalmıştır. Tam `npm audit`: site üretimde 0/0, tamamında 7 yüksek;
+  mobil üretimde 0, tamamında 6 yüksek. Hepsi geliştirme aracıdır (`braces` GHSA-vfj7-8cjw-p6xm zinciri ve `sharp`), ana sürüm ister ve
+  gerekçesi rapordadır. Başka oturumun yerel karar arama sunucusu yalnız `127.0.0.1`'e bağlanmaktadır.
+- Test sayısı düzeltmesi: 15:34 kapısının 1015 testinin 44'ü başka oturumun commit'siz `test:karar-arama` adımındandır, depodaki kodun test
+  sayısı 971'dir (hedef ≥ 699).
+- 9. adımın taslağı `raporlar/final.md`'dedir. Ölçüm hücreleri "6. adım" diye bırakılmış olup tahminle doldurulmamıştır. Değişiklik yalnız
+  belgede olduğundan hızlı kapı koşulmamıştır (testler plan belgelerini yalnız yorumda anar). Commit `1237701ba`'dır, araya giren commit yoktur.
+- **G25 DEVAM EDİYOR** (1-5. ve 8. adım bitti, 9. adımın taslağı yazıldı). Sıradaki oturum prizdeyken ya da pil %80'in üstündeyken 6. adımdan
+  başlar. 16:01 derlemesinden sonra yalnız belge commit'leri atıldığından `.next` HEAD koduyla aynıdır, kapı yeniden koşulmaz.
