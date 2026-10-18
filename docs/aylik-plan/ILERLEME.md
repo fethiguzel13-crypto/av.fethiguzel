@@ -1023,3 +1023,30 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Devralma: `DURAKLAT` yok, son commit `142051bb6`'dır. Ağaçta yalnız başka oturumun dosyaları vardır (`.gitignore`, `package.json`,
   `scripts/kalite.mjs`, izlenmeyen `scripts/karar-arama/`); bunlara dokunulmamıştır. Makine pildedir (%25), boş bellek 826 MB'tır,
   3123 ve 3124 boştur. G00 ve G08 ajanın kapatabileceği iş olmadığından G25'in önünde engel sayılmamış, karar soru 27'ye yazılmıştır.
+- 04:03-04:08 2. ve 3. adım: Alt bilgideki iki uyum beyanı ("Reklam Yasağına Uygundur.", "Reklam yasağına uygundur; sonuç vaadi
+  içermez.") G16 kararıyla kaldırılmıştır. `anasayfa-sayilar.test.mjs` artık `components/Footer.tsx`'i de taramakta olup önce kırmızıdır
+  (üç eşleşme), sonra yeşildir. `DENETIM_SAYFALARI`'na `akademik-profil` ve `eserlerim` eklenmiş, sayfa sayısı 19'a çıkmıştır. İki
+  sayfa derlenmiş sitede ilk kez sonraki tam kapının uçtan uca erişilebilirlik adımında ölçülecektir.
+- 04:10 4. adım (yalnız kaynak okuması): `app/[category]` altındaki üç alan ve on dört alt alan sayfası yönlendirme dışındadır,
+  `sitemap.xml`'de durmaktadır ve hiçbir denetim listesinde yoktur. Alan sayfasında `h1`'den `h3`'e atlama ve düşük karşıtlık
+  görülmüştür. Düzeltme ile `/mevzuat`'a 308 yönlendirme arasındaki seçim SEO taramasına bırakılmıştır (`gorevler/G25.md`).
+- 04:09-04:12 hızlı kapı 969 testte yeşildir (`logs/g25-hizli-0412.log`). Derlemesiz değişmiş görünen `public/priority-sitemap.xml`
+  geri alınmıştır. Commit `7829c6d6f`'dir, araya giren commit yoktur. Başka oturumun dosyalarına dokunulmamıştır.
+- **G25 DEVAM EDİYOR** (1-3. adım bitti, 4. adımın kararı bekliyor). Pil %20 olduğundan tam kapı başlatılmamıştır. Sıradaki oturum
+  prizdeyken 5. adımla (`npm run kalite`) başlar, sonra aynı derlemeyle 6. adımın dört ölçümünü koşar.
+
+## 2026-10-18 15:00 — G25 DEVAM EDİYOR (başsız oturum, başladı 15:00)
+
+- G25 DEVAM EDİYOR (başladı 15:03, 5. adım: tam kapı).
+- Devralma: `DURAKLAT` yok, son commit `7829c6d6f`'dir. Önceki oturumun 04:12 kaydı (`ILERLEME.md`, `gorevler/G25.md`) commit'lenmemişti,
+  bu oturumun commit'ine katılır. Başka oturumun dosyalarına (`.gitignore`, `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`)
+  dokunulmamıştır, `npm audit fix` kök `package.json`'u değiştirmemiştir. Makine pildedir (%81), boş bellek 1,1 GB'tır, 3123 ve 3124 boştur.
+- 15:04-15:27 ilk tam kapı 1009/1011'dir (`logs/g25-tam-1504.log`). Kırık iki uçtan uca test, listeye 3. adımda giren `/eserlerim`'de başlık
+  düzeyi atlaması ve 320 px'te 336 px taşma bulmuştur. Düzeltme, 4. adımın 308 yönlendirmesi (soru 28) ve iki `npm audit fix`
+  (site `source-map-js`, mobil `@capacitor/android` kritik açığı) ayrıntısıyla `gorevler/G25.md`'dedir. 15:34'te ikinci tam kapı başlatılmıştır.
+- 15:34-16:01 ikinci tam kapı 1015 testte yeşildir, uçtan uca 44/44'tür (`logs/g25-tam-1534.log`). Derlenmiş sitede eski alan adresleri 308
+  ile kanun sayfasına gitmekte, ücretli indeks üyeliksiz 401 dönmekte, güvenlik başlıkları yerinde durmaktadır. Derlemenin değiştirdiği
+  site haritaları ve iki veri dosyası geri alınmıştır. Commit'ler `d47d6602c`, `00afbb0ab`, `70cbc763b`'dir, araya giren commit yoktur.
+  Hasat motoru çalışmaktadır (130.860 karar, emsal ve benzersiz 49.088).
+- **G25 DEVAM EDİYOR** (1-5. adım bitti, 8. adımın bağımlılık ve başlık kısmı yapıldı). Pil %47'ye indiğinden 6. adımın ölçümleri
+  başlatılmamıştır. Sıradaki oturum prizdeyken bugünkü derlemeyle 6. adımdan başlar, komutlar `gorevler/G25.md`'nin son maddesindedir.

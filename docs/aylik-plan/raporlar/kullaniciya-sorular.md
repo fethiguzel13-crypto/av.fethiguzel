@@ -156,3 +156,11 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     hasat bakımı) `[ ]` durmaktadır. G00'ı yalnız siz Vercel panelinden çözebilirsiniz, G08 ise her hafta tekrarlanan ve işaret kutusu
     taşımayan bir bakımdır. Bu iki madde ajanın kapatabileceği iş olmadığından G25 (son regresyon) 17 Ekim 04:00'te başlatılmıştır.
     *Varsayım:* G25 yerel derleme üzerinde yürür. G00 30 Ekim yayınından önce sizin eyleminizi bekler, G26'nın push adımı da buna bağlıdır.
+28. **Eski alan sayfaları `/mevzuat`'a yönlendirildi (G25 adım 4).** `/medeni-hukuk`, `/borclar-hukuku`, `/ticaret-hukuku` ve on dört alt
+    alan adresi (`/medeni-hukuk/aile-hukuku` gibi) sitenin içinden bağlantı almıyordu, buna karşılık `sitemap.xml`'de 0,9 ve 0,8 önceliğiyle
+    duruyor ve eski tasarımı taşıyordu (`h1`'den `h3`'e atlama, 2,63:1 karşıtlık). Aynı madde listesi `/mevzuat/tmk`, `/mevzuat/tbk` ve
+    `/mevzuat/ttk`'da güncel tasarımla bulunduğundan on yedi adres 18 Ekim'de ilgili kanun sayfasına kalıcı (308) yönlendirilmiş ve site
+    haritasından çıkarılmıştır. Arama motorundaki eski adresler böylece kaybolmaz, değerini kanun sayfasına aktarır. Sayfa dosyaları
+    (`app/[category]/`) silinmemiş, yalnız erişilmez hâle gelmiştir.
+    *Varsayım:* yönlendirme kalır. Alan sayfalarını ayrı açılış sayfası olarak korumak isterseniz yönlendirme `next.config.ts`'ten
+    kaldırılır ve sayfalar yeni tasarıma taşınır.
