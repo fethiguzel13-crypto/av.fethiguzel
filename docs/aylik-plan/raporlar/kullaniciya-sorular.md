@@ -164,3 +164,11 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     (`app/[category]/`) silinmemiş, yalnız erişilmez hâle gelmiştir.
     *Varsayım:* yönlendirme kalır. Alan sayfalarını ayrı açılış sayfası olarak korumak isterseniz yönlendirme `next.config.ts`'ten
     kaldırılır ve sayfalar yeni tasarıma taşınır.
+
+## 2026-10-19
+
+29. **Yerel karar arama aracı yayına girsin mi? (G26).** Başka bir oturumun yazdığı araç (`scripts/karar-arama/`, `package.json`'daki üç
+    satır, `scripts/kalite.mjs` ve `.gitignore` değişikliği) 18 Ekim'den beri commit'sizdir. Kalite kapısı onun 44 testini de koşmaktadır,
+    araç yalnız `127.0.0.1`'e bağlanır. Başsız oturumlar bu dosyalara dokunmamıştır.
+    *Varsayım:* araç commit'lenmeden bekler, kontrol listesinin (`PUSH-KONTROL-LISTESI.md` A bölümü) ilk adımı bu kararı ister. Push'a
+    girecekse önce commit'lenir, girmeyecekse `git stash -u` ile ayrılır.

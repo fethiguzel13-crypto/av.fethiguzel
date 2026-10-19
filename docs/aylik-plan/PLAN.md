@@ -313,7 +313,7 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
     burada ele alınır. `/akademik-profil` ve `/eserlerim` denetim listesine (`lib/tasarim-denetim.mjs`) eklenir, G16 bunları geçici
     kopyayla ölçmüştür.
 
-- [ ] **G26 — Yayın paketi** · bağımlı: G25
+- [ ] **G26 — Yayın paketi** · bağımlı: G25 · 2026-10-19: ajan payı bitti; `docs/aylik-plan/PUSH-KONTROL-LISTESI.md` (A-G), ortam değişkeni listesi testle kilitli, uzak dalla deneme birleştirmesi çakışmasız, soru 29; birleştirme, push ve canlı doğrulama kullanıcıyla
   - `PUSH-KONTROL-LISTESI.md`: `git fetch` + uzak `main`'deki günlük içtihat commit'leriyle birleştirme
     (çakışma beklenen dosyalar: `public/data/daily.json`, arşiv JSON'ları), Vercel ortam değişkenleri,
     mobil sürüm adımları, geri alma planı. **Push kullanıcıyla birlikte yapılır.**
