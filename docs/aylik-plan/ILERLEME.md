@@ -1102,3 +1102,15 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - **G26 DEVAM EDİYOR (kullanıcı payı).** Ajanın yapabileceği iş bitmiştir. Kalan adımlar (soru 1 ve 10-13'ün yanıtı, soru 29, birleştirme,
   push, canlı doğrulama, mobil yükleme) kullanıcıyla `PUSH-KONTROL-LISTESI.md` sırasıyla yapılır. Sıradaki başsız oturumlar G08'i
   pazartesi yapar, hasat ve kapı durumunu izler; açık görev olmadığından yeni kod işi başlatılmaz.
+
+## 2026-10-19 08:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `e651d5914`'tür ve araya giren commit olmamıştır. Ağaçta yalnız başka oturumun dosyaları vardır
+  (`.gitignore`, `package.json`, `scripts/kalite.mjs`, izlenmeyen `scripts/karar-arama/`), bunlara dokunulmamıştır.
+- Görev seçimi: G00 ve G26'nın kalan adımları kullanıcı eylemidir, G08 bu sabah 06:10 oturumunda yapılmıştır. Bağımlılığı bitmiş başka
+  `[ ]` görev bulunmadığından kod ve test değişikliği yapılmamıştır. Günün tam kapısı 06:44'te yeşil geçtiği ve HEAD'den sonra kod
+  değişmediği için kapı yeniden koşulmamıştır.
+- Hasat (`npm run yargi:hasat-durum`, 08:01): motor pid 9468 ile çalışmakta olup `getDokuman` bakım sayfası nedeniyle moladadır. Arşiv
+  131.215, kuyruk 813, kalıcı hata 161, son bir saatte 429 ve ağ hatası 0'dır. Hız 6.5/dk hedefinde kalmış, ayar değiştirilmemiştir.
+- Sıradaki başsız oturumlar aynı izlemeyi yapar. Tam metin servisi açıldığında motor kendiliğinden devam eder; servis 20 Ekim akşamına
+  kadar kapalı kalırsa durum `raporlar/hasat-haftalik.md`'ye tek satırla yazılır.
