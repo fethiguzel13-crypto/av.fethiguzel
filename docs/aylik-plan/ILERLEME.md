@@ -1114,3 +1114,14 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   131.215, kuyruk 813, kalıcı hata 161, son bir saatte 429 ve ağ hatası 0'dır. Hız 6.5/dk hedefinde kalmış, ayar değiştirilmemiştir.
 - Sıradaki başsız oturumlar aynı izlemeyi yapar. Tam metin servisi açıldığında motor kendiliğinden devam eder; servis 20 Ekim akşamına
   kadar kapalı kalırsa durum `raporlar/hasat-haftalik.md`'ye tek satırla yazılır.
+
+## 2026-10-19 09:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `159ef79ac`'dir ve araya giren commit olmamıştır. Ağaçta yalnız başka oturumun dosyaları vardır
+  (`.gitignore`, `package.json`, `scripts/kalite.mjs`, izlenmeyen `scripts/karar-arama/`), bunlara dokunulmamıştır. 3123 ve 3124 boştur.
+- Görev seçimi 08:00 oturumuyla aynıdır: G00 ve G26'nın kalan adımları kullanıcı eylemi olup G08 bu sabah yapılmıştır. Bağımlılığı bitmiş
+  başka `[ ]` görev bulunmadığından kod ve test değişikliği yapılmamış, HEAD'den sonra kod değişmediği için kapı yeniden koşulmamıştır.
+- Hasat (`npm run yargi:hasat-durum`, 09:01): motor pid 9468 ile çalışmakta olup tam metin servisi kapalı olduğu için moladadır. Arşiv
+  131.215, kuyruk 813, kalıcı hata 161, son bir saatte 429 ve ağ hatası 0'dır. Son `endpoint-down` hatası 11 dk öncedir, hız ayarı
+  değiştirilmemiştir.
+- Sıradaki başsız oturumlar aynı izlemeyi yapar; servis 20 Ekim akşamına kadar kapalı kalırsa durum `raporlar/hasat-haftalik.md`'ye yazılır.
