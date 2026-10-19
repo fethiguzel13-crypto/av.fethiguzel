@@ -1137,3 +1137,14 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   131.215, kuyruk 813, kalıcı hata 161, son bir saatte 429 ve ağ hatası 0'dır. Son `endpoint-down` hatası yine 11 dk öncedir. `_state/harvester.log`
   motorun servisi 1800 sn'lik molalarla yokladığını göstermektedir (son deneme 09:50). Hız ayarı değiştirilmemiştir.
 - Sıradaki başsız oturumlar aynı izlemeyi yapar; servis 20 Ekim akşamına kadar kapalı kalırsa durum `raporlar/hasat-haftalik.md`'ye yazılır.
+
+## 2026-10-19 11:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `c5bcc4a8b`'dir ve araya giren commit olmamıştır. Ağaçta yalnız başka oturumun dosyaları vardır,
+  bunlara dokunulmamıştır. 3123 ve 3124 boştur, makine prizdedir (%100) ve boş bellek 951 MB'tır.
+- Görev seçimi 08:00'den beri değişmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiş, kapı da koşulmamıştır.
+- Hasat (`npm run yargi:hasat-durum`, 11:01): motor pid 9468 ile çalışmakta olup tam metin servisi kapalı olduğu için moladadır. Arşiv
+  131.215, kuyruk 813, kalıcı hata 161 olup sayaçlar 10:00 kaydıyla aynıdır. Son yoklama 10:50'de `endpoint-down` ile dönmüş, hız ayarı
+  değiştirilmemiştir.
+- Dört oturumdur aynı içerikte kayıt ve commit üretildiğinden boşta kalma kuralı soru 30 olarak kullanıcıya yazılmıştır. Yanıt gelene kadar
+  yordam değişmez, sıradaki oturumlar aynı izlemeyi kısa blokla sürdürür.

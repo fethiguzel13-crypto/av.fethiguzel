@@ -172,3 +172,9 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     araç yalnız `127.0.0.1`'e bağlanır. Başsız oturumlar bu dosyalara dokunmamıştır.
     *Varsayım:* araç commit'lenmeden bekler, kontrol listesinin (`PUSH-KONTROL-LISTESI.md` A bölümü) ilk adımı bu kararı ister. Push'a
     girecekse önce commit'lenir, girmeyecekse `git stash -u` ile ayrılır.
+30. **Açık ajan görevi yokken saatlik kayıt sürsün mü? (OTONOM yordamı).** G26'nın ajan payı 19 Ekim 07:11'de bitmiştir. O saatten beri
+    her başsız oturum `ILERLEME.md`'ye aynı içerikte bir izleme bloğu ekleyip yerel commit atmaktadır (08:00, 09:00, 10:00 ve 11:00).
+    Bu biçim yayın gününe kadar yaklaşık 250 içeriksiz commit üretir ve push öncesinde gözden geçirilecek geçmişi kalabalıklaştırır.
+    *Varsayım:* yordam değiştirilmemiş olup kayıt ve commit sürmektedir, bloklar kısa tutulur. İsterseniz `OTONOM.md`'ye boşta kalma kuralı
+    eklenir: Durum (son commit, çalışma ağacı, hasat sayaçları) önceki kayıtla aynıysa kayıt ve commit atlanır, yalnız bir değişiklik
+    (hasat servisinin açılması, yeni commit, bir sorunun yanıtlanması) olduğunda blok yazılır.
