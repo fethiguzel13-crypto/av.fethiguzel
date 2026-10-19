@@ -1235,3 +1235,5 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   yılının 89/390. penceresindedir. Hız ayarına dokunulmamıştır.
 - Soru 29 ve 30 yanıtlanmadığı için yordam aynen uygulanmıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Beceri
   gözlem günlüğünün gözden geçirmesi (son tarih 2 Ekim) gözlem 202'deki gerekçeyle yine ertelenmiştir.
+- `OTONOM.md`'nin teknik tuzaklar bölümüne, kapak kapanınca gelen modern beklemenin Kernel-Power 42 değil 506/507 olaylarıyla
+  izlendiğini belirten bir not eklenmiştir. Bu kayıt ilk commit'te (`90f8780cb`) yer almış, not ve bu madde ikinci commit'le girmiştir.

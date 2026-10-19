@@ -92,7 +92,9 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
 - Makine kapanınca ya da uykuya geçince oturum uyarısız kesilir (2026-10-03 06:48 → 2026-10-05 10:23 arası ne oturum
   ne hasat çalıştı); devralmada hasat günlüğünün son satır saati kesinti anını doğrulamaya yarar.
   Boşta uyku zaman aşımı kapalıdır (AC ve pil 0). 12–13 Ekim'deki üç uykunun nedeni «Battery» ve «Application API»dir (Sistem
-  günlüğü Kernel-Power 42). Bu yüzden uyku kilidi kesintiyi önlemez. Uzun işten (tam mobil derleme, tam kapı) önce
+  günlüğü Kernel-Power 42). Bu yüzden uyku kilidi kesintiyi önlemez. Kapak kapanınca makine 42 kaydı bırakmadan modern beklemeye
+  girer, bu geçiş Kernel-Power 506 (giriş) ve 507 (çıkış, `neden: Lid`) olaylarıyla okunur (2026-10-19: 17:20-21:50 arasında 18:00-21:00
+  oturumları ve hasat bu yüzden çalışmamıştır). Kaçan oturum aranırken yalnız 42'ye bakılmaz. Uzun işten (tam mobil derleme, tam kapı) önce
   `Win32_Battery` denetlenir: `BatteryStatus` 2 prizde demektir. Makine pildeyse ve `EstimatedChargeRemaining` %50'nin altındaysa
   uzun iş başlatılmaz, kısa işe geçilir. Tam kapı pilde yaklaşık %25-30 tüketir (2026-10-18: iki kapı %81'den %47'ye indirmiştir), bu
   yüzden kapıdan sonra ölçüm gibi ikinci bir uzun iş planlanıyorsa başlangıçta pilin %80'in üstünde olması gerekir.
