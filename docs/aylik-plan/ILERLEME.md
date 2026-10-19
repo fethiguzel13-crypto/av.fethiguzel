@@ -1078,3 +1078,27 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   seçilememiştir. Bu nedenle oturum yalnız bu kaydı yazmıştır, kod ve test değişikliği yoktur.
 - **G25 DEVAM EDİYOR.** Sıradaki oturum prizdeyken ya da pil %80'in üstündeyken 6. adımdan başlar (komutlar `gorevler/G25.md`'nin
   16:02 maddesindedir).
+
+## 2026-10-19 06:10 — G08 (pazartesi) + G25 DEVAM EDİYOR (başsız oturum, başladı 06:10)
+
+- G25 DEVAM EDİYOR (başladı 06:15, 6. adımın ölçümleri). Makine prizdedir (`BatteryStatus` 2, %19), boş bellek 924 MB'tır.
+- G26 DEVAM EDİYOR (başladı 07:00).
+- Devralma: `DURAKLAT` yok, son commit `fe07a14a0`'dır. Ağaçta yalnız başka oturumun dosyaları vardır (`.gitignore`, `package.json`,
+  `scripts/kalite.mjs`, izlenmeyen `scripts/karar-arama/`), bunlara dokunulmamıştır. 3123 ve 3124 boştu. Araya giren commit olmamıştır.
+- **G08 (pazartesi):** Motor çalışmaktadır, düzeltme gerekmemiştir (`32fcb7507`, `raporlar/hasat-haftalik.md`). Arşiv 131.215 (haftada
+  10.275), emsal ve benzersiz 49.366 (geçen hafta 43.271), captcha 12-18 Ekim arası toplam 10, disk C'de 43 GB boş alan vardır. 18 Ekim
+  21:25'ten beri `getDokuman` Adalet Bakanlığı bakım sayfası dönmekte, motor 1800 sn tavanlı molalarla beklemektedir (07:12'de sürüyordu).
+- 06:15-06:41 **G25 6. ve 7. adım** (16:01 derlemesi, `next start -p 3123`, sonra kapatıldı): SEO taraması 267/267 sayfa 200, canonical
+  uyumsuzluğu 0, kırık iç bağlantı 0/600. Lighthouse ortalama P 79 (G06'da 47), SEO 97 (tek düşük sayfa bilinçli `noindex` kopya not).
+  Tasarım denetimi 19 tür × 2 genişlikte 0 bulgu, içtihat sayfasında küçük hedef 0. `/yargi-kararlari` TBT 316-391 ms (G13'te 1.549), kalan
+  uzun görevler React çatı parçasının hidrasyonudur ve yayın sonrası işe yazılmıştır. 06:44-06:58 günün tam kapısı 1015 testte yeşildir
+  (`logs/g25-tam-0644.log`). Derlemenin değiştirdiği site haritaları ve iki veri dosyası geri alınmıştır. **G25 TAMAM** (`1db213607`), PLAN
+  ölçüm tablosu ve `raporlar/final.md` doldurulmuştur. Lighthouse ≥ 90 hedefi tutmamış, gerekçesi rapordadır.
+- 07:00-07:10 **G26 ajan payı:** `git fetch` sonrasında yerel dal 47 commit önde, uzak dal 3 günlük içtihat commit'i öndedir. `git merge-tree`
+  denemesi çakışmasızdır, birleştirme yapılmamıştır. `docs/aylik-plan/PUSH-KONTROL-LISTESI.md` (kararlar, birleştirme, Vercel ortam
+  değişkenleri, yayın sırası, mobil, geri alma, yayın sonrası) yazılmış, `lib/__tests__/yayin-kontrol.test.mjs` koddaki 25 ortam değişkeni
+  adının listede geçtiğini ve listenin değer taşımadığını denetlemektedir (önce kırmızı, sonra 3/3). Hızlı kapı 974 testte yeşildir
+  (`logs/g26-hizli-0725.log`). Yeni karar soru 29'dur. Commit `39e99d8eb`'dir.
+- **G26 DEVAM EDİYOR (kullanıcı payı).** Ajanın yapabileceği iş bitmiştir. Kalan adımlar (soru 1 ve 10-13'ün yanıtı, soru 29, birleştirme,
+  push, canlı doğrulama, mobil yükleme) kullanıcıyla `PUSH-KONTROL-LISTESI.md` sırasıyla yapılır. Sıradaki başsız oturumlar G08'i
+  pazartesi yapar, hasat ve kapı durumunu izler; açık görev olmadığından yeni kod işi başlatılmaz.
