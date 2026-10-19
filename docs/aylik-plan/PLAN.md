@@ -301,7 +301,7 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
   - G25'e not: İçtihat kartındaki 24 px hedef düzeltmesi (`b8d5403b6`) pil nedeniyle yalnız geliştirme sunucusunda ölçülmüştür;
     derlenmiş sitede `tasarim-denetim.mjs --sadece=icthat` ile yeniden ölçülür. axe `best-practice` kuralları istenirse bir kez raporlanır.
 
-- [ ] **G25 — Son regresyon** · bağımlı: hepsi
+- [x] **G25 — Son regresyon** · bağımlı: hepsi · 2026-10-19: tam kapı 1015 testte yeşil; SEO canonical 0/267, kırık bağlantı 0/600; Lighthouse ort. P 79 (G06'da 47, hedef ≥ 90 tutmadı, gerekçeli), SEO 97; tasarım denetimi 19 tür × 2 genişlikte 0 bulgu; rapor `raporlar/final.md`
   - `npm run kalite`, Lighthouse, güvenlik yeniden taraması, SEO taraması (G06 başlangıcıyla
     karşılaştırmalı) → `raporlar/final.md`.
   - G15'ten devir (G13 notu): `/yargi-kararlari` mobil TBT'si yaklaşık 1,5 sn. Lighthouse ölçümünde React çatı parçasındaki uzun
@@ -331,11 +331,11 @@ biter; çalıştırıcı limit mesajındaki yenilenme saatini okuyup 3 dk sonras
 
 | Ölçüt | Başlangıç (G06) | Hedef | Final (G25) |
 |---|---|---|---|
-| npm audit kritik/yüksek | 1 / 7 | 0 / 0 | |
-| Lighthouse mobil performans (ort.) | 47 (10/12 sayfa; ders notu ikisi ölçülemedi) | ≥ 90 | |
-| Lighthouse SEO (ort.) | 99 | 100 | |
-| Dizine açık ince/şablon sayfa | ~11.600 | 0 | |
-| Test sayısı (tüm takımlar) | 466 (G01, 2026-09-30) | +%50 (≥ 699) | |
-| Emsal ve benzersiz Yargıtay kararı | 32.394 | artış | |
-| Canonical başka adresi gösteren (örnek) | 60 / 307 | 0 | |
-| Kırık iç bağlantı (600 örnek) | 18 | 0 | |
+| npm audit kritik/yüksek | 1 / 7 | 0 / 0 | Üretimde 0 / 0; geliştirme araçlarında 0 / 7 (`braces` zinciri, gerekçe `raporlar/final.md`) |
+| Lighthouse mobil performans (ort.) | 47 (10/12 sayfa; ders notu ikisi ölçülemedi) | ≥ 90 | 79 (12/12; hedef tutmadı, gerekçe `raporlar/final.md`) |
+| Lighthouse SEO (ort.) | 99 | 100 | 97 (dizine açık 11 sayfa 100; ölçülen kopya not bilinçli `noindex`) |
+| Dizine açık ince/şablon sayfa | ~11.600 | 0 | 0 (G11: 26 temsilci not + 1 fakülte sayfası dizinde) |
+| Test sayısı (tüm takımlar) | 466 (G01, 2026-09-30) | +%50 (≥ 699) | 971 (kapıda 1015; 44'ü commit'siz `test:karar-arama`) |
+| Emsal ve benzersiz Yargıtay kararı | 32.394 | artış | 49.366 (2026-10-19) |
+| Canonical başka adresi gösteren (örnek) | 60 / 307 | 0 | 0 / 267 |
+| Kırık iç bağlantı (600 örnek) | 18 | 0 | 0 / 600 |
