@@ -1179,3 +1179,16 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   koşulmamıştır.
 - Hasat (`npm run yargi:hasat-durum`, 14:01): motor pid 9468 ile moladadır. Arşiv 131.215, kuyruk 813 ve kalıcı hata 161 olup sayaçlar
   13:00 kaydıyla aynıdır. Son yoklama 13:50'de `endpoint-down` ile dönmüş, hız ayarı değiştirilmemiştir.
+
+## 2026-10-19 15:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `e6c49a536`'dır ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlindedir, bunlara dokunulmamıştır. 3123 ve 3124 boştur.
+- Makine pildedir (`BatteryStatus` 1) ve şarj bir saatte %76'dan %55'e inmiştir. Bu hızla %50 eşiği 15:15 dolayında aşılır, pil de 17:30
+  civarında tükenir. Boş bellek 767 MB'tan 115 MB'a düşmüştür. Bunun nedeni 14:59-15:01 arasında açılan ve toplam yaklaşık 3 GB tutan
+  Opera süreçleri olup makinede etkileşimli kullanım başladığını göstermektedir. Bu bellekle derleme ve tam kapı koşulamaz, sıradaki
+  oturumlar uzun iş planlamadan önce belleği ve pili yeniden denetler.
+- Soru 29 ve 30 yanıtlanmadığı için yordam aynen uygulanmıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiş, kapı da
+  koşulmamıştır.
+- Hasat (`npm run yargi:hasat-durum`, 15:01): motor pid 9468 ile moladadır. Arşiv 131.215, kuyruk 813 ve kalıcı hata 161 olup sayaçlar
+  14:00 kaydıyla aynıdır. Son yoklama 14:50'de `endpoint-down` ile dönmüş, hız ayarı değiştirilmemiştir.
