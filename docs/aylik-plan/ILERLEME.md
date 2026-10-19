@@ -1204,3 +1204,17 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   koşulmamıştır.
 - Hasat (`npm run yargi:hasat-durum`, 16:01): motor pid 9468 ile moladadır. Arşiv 131.215, kuyruk 813 ve kalıcı hata 161 olup sayaçlar
   15:00 kaydıyla aynıdır. Son yoklama 15:50'de `endpoint-down` ile dönmüş, hız ayarı değiştirilmemiştir.
+
+## 2026-10-19 17:00 — izleme (başsız oturum, açık ajan görevi yok, hasat yeniden çalışıyor)
+
+- Devralma: `DURAKLAT` yok, son commit `071d4c158`'dir ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlindedir, bunlara dokunulmamıştır. 3123 ve 3124 boştur.
+- Makine prizdedir (`BatteryStatus` 2) ve şarj %57'den %78'e çıkmıştır. Boş bellek 555 MB olup derleme eşiğinin altında kalmaktadır,
+  ancak bekleyen bir ajan görevi bulunmadığından bu durum oturumu etkilememiştir.
+- Önceki kayıttan asıl fark hasattadır. Bakanlığın tam metin servisi yeniden açılmış olup motor 16:50:25'teki yoklamada kuyruğun başına
+  dönen iki kararı (Yargıtay 8. Hukuk Dairesi, E. 2025/1493 ve E. 2025/3328) indirmiş, ardından olağan taramaya geçmiştir.
+  `npm run yargi:hasat-durum` (17:01) motoru pid 9468 ile çalışır, devreyi kapalı göstermektedir. Arşiv 131.274'e çıkmış, kuyruk 801'e
+  inmiş, kalıcı hata 161'de kalmıştır. Son bir saatte 59 karar indirilmiş olup hız dakikada 7'dir (hedef ve tavan 7), 429 ve ağ hatası
+  yoktur. Hız ayarına dokunulmamıştır, tarama 2025 yılının 82/383. penceresindedir.
+- Soru 29 ve 30 yanıtlanmadığı için yordam aynen uygulanmıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiş, kapı da
+  koşulmamıştır. Hasadın yeniden başlaması, soru 30'da önerilen boşta kalma kuralında da kayıt gerektiren bir değişiklik sayılmaktadır.
