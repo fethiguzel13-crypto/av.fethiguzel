@@ -1218,3 +1218,20 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   yoktur. Hız ayarına dokunulmamıştır, tarama 2025 yılının 82/383. penceresindedir.
 - Soru 29 ve 30 yanıtlanmadığı için yordam aynen uygulanmıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiş, kapı da
   koşulmamıştır. Hasadın yeniden başlaması, soru 30'da önerilen boşta kalma kuralında da kayıt gerektiren bir değişiklik sayılmaktadır.
+
+## 2026-10-19 21:51 — izleme (başsız oturum, açık ajan görevi yok, 17:20-21:50 arası bekleme kesintisi)
+
+- Devralma: `DURAKLAT` yok, son commit `e8b1fef2e`'dir ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlindedir, bunlara dokunulmamıştır. 3123 ve 3124 boştur.
+- 18:00, 19:00, 20:00 ve 21:00 oturumları başlamamış olup `calis.log`'da bu saatlere ait satır yoktur. Kesintinin nedeni Sistem
+  günlüğündeki Kernel-Power kayıtlarından okunmuştur: Makine 17:20:01'de kapak kapanınca modern beklemeye girmiş (olay 506), 21:50:56'da
+  kapak açılınca uyanmıştır (olay 507). Zamanlanmış görev uyanışta bu oturumu başlatmış olup sıradaki saatlik tetik 22:00'dedir.
+- Makine prizdedir (`BatteryStatus` 2), şarj %100 ve boş bellek 835 MB'tır. Günün tam kapısı 06:44'te G25 kapsamında geçmiş, o saatten
+  beri kod değişmediği için kapı yeniden koşulmamıştır.
+- Hasat (`npm run yargi:hasat-durum`, 21:53): Motor pid 9468 ile çalışmakta, devre kapalı görünmektedir. Bekleme öncesinde 17:19:09'da
+  bir captcha gelmiş, motorun kendi denetleyicisi 411 sn mola vermiş ve hızı dakikada 7'den 3,5'e indirip iki saatlik tavan koymuştur.
+  Bir dakika sonra makine beklemeye girdiği için motor 21:50:59'a kadar çalışmamış, uyanışta taramaya kendiliğinden dönmüştür. Arşiv
+  131.382'ye çıkmış, kuyruk 802 ve kalıcı hata 161 olup 429 ve ağ hatası yoktur. Hız dakikada 3,5'tir (hedef 3,5, tavan 6), tarama 2024
+  yılının 89/390. penceresindedir. Hız ayarına dokunulmamıştır.
+- Soru 29 ve 30 yanıtlanmadığı için yordam aynen uygulanmıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Beceri
+  gözlem günlüğünün gözden geçirmesi (son tarih 2 Ekim) gözlem 202'deki gerekçeyle yine ertelenmiştir.
