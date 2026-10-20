@@ -1340,3 +1340,16 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   16-23.03.2023 penceresine ilerlemiş olup seçilen pencere sayısı 169/449'dur. Hız ayarına dokunulmamıştır.
 - Soru 29 ve 30 yanıtlanmadığı için yordam aynen uygulanmış olup seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiş, kapı
   07:00 oturumunda koşulduğu için yinelenmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir.
+
+## 2026-10-20 14:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `0e6262aef`'dir ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. Makine pildedir (`BatteryStatus` 1), şarj %68 ve boş bellek 744 MB olup
+  12:41'deki Kernel-Power 105 olayından sonra yeni güç olayı görülmemiştir. Boş bellek derleme eşiğinin altında kaldığından uzun iş
+  başlatılmamıştır.
+- Hasat (`npm run yargi:hasat-durum`, 14:01): Motor pid 28308 ile 7,8 saattir çalışmakta, devre kapalı görünmektedir. Arşiv 132.775'e
+  çıkmış, kuyruk 796 ve kalıcı hata 161 olup son bir saatte 210 karar inmiş, 429 ve ağ hatası görülmemiştir. Hız mesai saati sınırı olan
+  dakikada 4,3'te kalmış, 24 dakika önceki son hata ise sistemde bulunamayan tek bir belgeye ilişkin `doc-error` kaydıdır. Tarama 2023
+  yılından 2022 yılının 20-23.12.2022 penceresine geçmiş olup seçilen pencere sayısı 182/460'tır. Hız ayarına dokunulmamıştır.
+- Soru 29 ve 30 yanıtlanmadığı için yordam aynen uygulanmış olup seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiş, kapı
+  07:00 oturumunda koşulduğu için yinelenmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir.
