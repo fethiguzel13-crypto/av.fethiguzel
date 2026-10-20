@@ -1279,3 +1279,14 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   captcha sonrası tavanla dakikada 3'te kalmış, tarama 2024 yılının 118/412. penceresine ilerlemiştir. Hız ayarına dokunulmamıştır.
 - Soru 29 ve 30 yanıtlanmadığı için yordam aynen uygulanmış olup seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiş, kapı
   07:00 oturumunda koşulduğu için yinelenmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir.
+
+## 2026-10-20 09:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `63dfd38b8`'dir ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. Makine pildedir (`BatteryStatus` 1), şarj %95 ve boş bellek 763 MB'tır.
+  08:10 ve 08:58'deki iki Kernel-Power 105 olayı güç kaynağı değişimini gösterdiğinden makine bu arada prizde şarj olmuş, uykuya geçmemiştir.
+- Hasat (`npm run yargi:hasat-durum`, 09:03): Motor pid 28308 ile çalışmakta, devre kapalı görünmektedir. Arşiv 131.967'ye çıkmış, kuyruk
+  810 ve kalıcı hata 161 olup son bir saatte 147 karar inmiş, 429 ve ağ hatası görülmemiştir. Captcha sonrası iki saatlik tavan kalktığı
+  için hız dakikada 3,5'e dönmüş, tarama 2024 yılının 127/418. penceresine ilerlemiştir. Hız ayarına dokunulmamıştır.
+- Soru 29 ve 30 yanıtlanmadığı için yordam aynen uygulanmış olup seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiş, kapı
+  07:00 oturumunda koşulduğu için yinelenmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir.
