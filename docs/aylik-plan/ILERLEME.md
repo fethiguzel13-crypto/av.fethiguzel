@@ -1394,3 +1394,17 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   pencere sayısı 215/487'dir. Hız ayarına ve motora dokunulmamıştır.
 - Soru 29 ve 30 yanıtlanmadığı için yordam aynen uygulanmış olup seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiş, kapı
   07:00 oturumunda koşulduğu için yinelenmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir.
+
+## 2026-10-20 19:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `f2ae2583b`'dir ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. Makine 17:46:51'de kapak kapanınca modern beklemeye girmiş (Kernel-Power
+  506, `neden: Lid`), 19:02:41'de kapak açılınca çıkmıştır (507). 18:00 oturumu bu yüzden çalışmamış olup kayıt eksikliği bir hata
+  değildir. Makine prizdedir (`BatteryStatus` 2), şarj %100 ve boş bellek 858 MB olup bellek derleme eşiğinin altında kaldığından
+  uzun iş başlatılmamıştır.
+- Hasat (`npm run yargi:hasat-durum`, 19:03): Motor pid 28308 ile 12,9 saattir çalışmakta olup beklemeden sonra kalp atışı yeniden
+  gelmiştir. Devre kapalıdır ve hız captcha tavanı olan dakikada 2,2'de kalmıştır. Son bir saatte bekleme nedeniyle yalnız 4 karar
+  inmiş, 429 ve ağ hatası görülmemiştir. Arşiv 133.308'e çıkmış, kuyruk 799 ve kalıcı hata 163'tür. Tarama 2022 yılının
+  01.05-31.05.2022 penceresine ilerlemiş olup seçilen pencere sayısı 221/490'dır. Hız ayarına ve motora dokunulmamıştır.
+- Soru 29 ve 30 yanıtlanmadığı için yordam aynen uygulanmış olup seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiş, kapı
+  07:00 oturumunda koşulduğu için yinelenmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir.
