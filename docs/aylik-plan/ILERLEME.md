@@ -1353,3 +1353,19 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   yılından 2022 yılının 20-23.12.2022 penceresine geçmiş olup seçilen pencere sayısı 182/460'tır. Hız ayarına dokunulmamıştır.
 - Soru 29 ve 30 yanıtlanmadığı için yordam aynen uygulanmış olup seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiş, kapı
   07:00 oturumunda koşulduğu için yinelenmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir.
+
+## 2026-10-20 15:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `5171de43b`'dir ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. Makine 14:31'deki Kernel-Power 105 olayıyla prize girmiştir
+  (`BatteryStatus` 2). Şarj %89 ve boş bellek 811 MB olup uyku olayı görülmemiştir. Boş bellek derleme eşiğinin altında kaldığından
+  uzun iş başlatılmamıştır.
+- Hasat (`npm run yargi:hasat-durum`, 15:01): Motor pid 28308 ile 8,8 saattir çalışmakta olup ağ hatası nedeniyle moladadır. Son bir
+  saatte yedi ağ hatası (kod 23) birikmiş, devre açılmış ve seviye 4 bekleme başlamıştır. En son hata 15:01'den beş dakika önce
+  Yargıtay 12. Hukuk Dairesinin bir belgesinde görülmüştür. Aynı dakikada `karararama.yargitay.gov.tr` adresine yapılan tek `HEAD`
+  isteği 2,4 saniyede 200 döndürdüğünden kesinti kalıcı görünmemekte, devrenin motor tarafından kapatılması beklenmektedir. Arşiv 132.918'e çıkmış,
+  kuyruk 799 ve kalıcı hata 161 olup son bir saatte 143 karar inmiş, 429 görülmemiştir. Tarama 2022 yılının 01-07.11.2022 penceresine
+  ilerlemiş olup seçilen pencere sayısı 192/467'dir. Hız ayarına ve motora dokunulmamış olup devrenin kapanıp kapanmadığı 16:00
+  oturumunda denetlenmelidir.
+- Soru 29 ve 30 yanıtlanmadığı için yordam aynen uygulanmış olup seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiş, kapı
+  07:00 oturumunda koşulduğu için yinelenmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir.
