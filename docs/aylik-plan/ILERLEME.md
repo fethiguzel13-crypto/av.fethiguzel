@@ -1369,3 +1369,16 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   oturumunda denetlenmelidir.
 - Soru 29 ve 30 yanıtlanmadığı için yordam aynen uygulanmış olup seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiş, kapı
   07:00 oturumunda koşulduğu için yinelenmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir.
+
+## 2026-10-20 16:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `f48b76cc5`'tir ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. Makine prizdedir (`BatteryStatus` 2), şarj %100 ve boş bellek 845 MB olup
+  son 70 dakikada Kernel-Power olayı görülmemiştir. Boş bellek derleme eşiğinin altında kaldığından uzun iş başlatılmamıştır.
+- Hasat (`npm run yargi:hasat-durum`, 16:01): Motor pid 28308 ile 9,8 saattir çalışmakta olup 15:00 oturumunda açık bulunan devre motor
+  tarafından kapatılmıştır. Son bir saatte 161 karar inmiş, 429 ve ağ hatası görülmemiştir. Hız mesai saati sınırı olan dakikada 4,3'te
+  kalmıştır. Arşiv 133.079'a çıkmış, kuyruk 799 ve kalıcı hata 162 olup bir kalemlik artış 17 dakika önce sistemde bulunamayan bir
+  Yargıtay 4. Hukuk Dairesi belgesinin `doc-error` kaydından doğmuştur. Tarama 2022 yılının 23-26.09.2022 penceresine ilerlemiş olup
+  seçilen pencere sayısı 203/478'dir. Hız ayarına ve motora dokunulmamıştır.
+- Soru 29 ve 30 yanıtlanmadığı için yordam aynen uygulanmış olup seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiş, kapı
+  07:00 oturumunda koşulduğu için yinelenmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir.
