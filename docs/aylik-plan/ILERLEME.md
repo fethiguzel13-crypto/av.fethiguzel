@@ -1247,3 +1247,24 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   yılının 90/392. penceresine ilerlemiştir. Hız ayarına dokunulmamıştır.
 - Soru 29 ve 30 yanıtlanmadığı için yordam aynen uygulanmış olup seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiş, kapı da
   koşulmamıştır. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir.
+
+## 2026-10-20 07:00 — izleme ve günün tam kapısı (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `85fa3b96d`'dir ve araya giren commit olmamıştır. Başka oturumun dosyaları (`.gitignore`,
+  `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) 17 Ekim 00:13'teki hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124
+  boştur.
+- 23:00-06:00 oturumları başlamamış olup `calis.log`'da 22:02'deki bitişten sonraki ilk satır bu oturumun 07:00:03'teki başlangıcıdır.
+  Makine 22:24:05'te uykuya geçmiş (Kernel-Power 42, neden «Application API»), 06:11:38'de uyanmıştır (olay 506/507).
+- Hasat: Eski motor (pid 9468) son satırını uykudan hemen önce, 22:23:51'de yazmıştır. Hasat servisi uyanışta motoru 06:11:55'te ve
+  06:13:15'te iki kez başlatmış, ilk süreç (pid 19960) motor günlüğüne satır yazmadan kapanmış, ikincisi (pid 28308) günlükteki 106 olayı
+  yeniden oynatıp taramaya dönmüştür. 06:52:51'de gelen captcha üzerine motorun denetleyicisi 352 sn mola vermiş ve hızı dakikada 3'e
+  indirip iki saatlik tavan koymuştur. `npm run yargi:hasat-durum` (07:27) arşivi 131.734, kuyruğu 812 ve kalıcı hatayı 161 olarak
+  göstermekte olup son bir saatte 429 ve ağ hatası yoktur. Tarama 2024 yılının 113/407. penceresindedir, hız ayarına dokunulmamıştır.
+- Günün ilk oturumu olduğundan PLAN'daki "günde en az bir kez tam kapı" kuralı uygulanmıştır. Makine pildeydi (`BatteryStatus` 1), şarj
+  %85 ve boş bellek 958 MB olduğundan uzun iş eşiği engel oluşturmamıştır. `npm run kalite` 07:03:54-07:26:26 arasında 6 işçiyle koşmuş
+  ve 1018 testte geçmiştir (`logs/izleme-tam-0703.log`), derleme 807 sn, e2e 215 sn sürmüştür. Test sayısı G25 kapısındaki 1015'ten,
+  G26'nın `test:quality` takımına eklediği üç testle 1018'e çıkmıştır. Kapı süresince şarj %85'ten %74'e inmiştir. Derlemenin yeniden
+  ürettiği beş zaman damgası dosyası (`public/*sitemap*.xml`, `publishable.json`, `site-search-index.json`) geri alınmıştır.
+- Soru 29 ve 30 yanıtlanmadığı için yordam aynen uygulanmış olup seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Gözlem
+  günlüğünün gözden geçirmesi (son tarih 2 Ekim, 86 açık gözlem) gözlem 202'deki gerekçeyle ertelenmiştir. Bugünkü sonraki oturumlar
+  izleme yapar, kod değişmedikçe kapı yeniden koşulmaz.
