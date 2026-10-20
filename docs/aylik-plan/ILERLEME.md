@@ -1422,3 +1422,22 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamış olup soru dosyası 19 Ekim 11:02'den beri değişmemiştir. Yordam aynen uygulanmış, seçilebilir `[ ]` görev
   bulunmadığından kod değiştirilmemiş, kapı 07:00 oturumunda koşulduğu için yinelenmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem
   202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-20 21:44 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `6c419fb5c`'dir ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. Makine 20:29:10'da bir uygulamanın `SetSuspendState` çağrısıyla uykuya
+  girmiş (Kernel-Power 187 ve 42, neden «Application API»), 21:38:45'te hazırda bekletmeden çıkmıştır (507). Power-Troubleshooter
+  kaydı da aynı iki anı göstermektedir. 21:00 oturumu bu yüzden çalışmamış olup kayıt eksikliği bir hata değildir. Uyanışla birlikte
+  makine prizden çıkmıştır (Kernel-Power 105, `AcOnline=false`). Şu an pildedir (`BatteryStatus` 1), şarj %95 ve boş bellek 921 MB
+  olup bellek derleme eşiğinin altında kaldığından uzun iş başlatılmamıştır.
+- Hasat: Motor pid 28308, uykudan 10 saniye önce 20:29:00'da `SIGHUP` alıp işteki istekleri bitirerek durmuştur. Zamanlanmış görev
+  motoru uyanıştan sonra 21:38:58'de pid 9744 ile başlatmış, bu kopya `harvester.log`'a satır yazmadan sonlanmıştır. 21:44:54'te
+  başlatılan pid 13720 günlükten 75 olayı yeniden oynatmış ve öğrenilmiş 3,7/dk tavanını geri yüklemiştir. Çalışan tek hasat
+  kopyası budur, kilit dosyası da aynı pid'i göstermektedir. `npm run yargi:hasat-durum` (21:46) çıktısına göre devre kapalı, hız
+  dakikada 3,7 olup son bir saatte uyku nedeniyle yalnız 3 karar inmiş, 429 ve ağ hatası görülmemiştir. Arşiv 133.514'e çıkmış,
+  kuyruk 803 ve kalıcı hata 163'tür. Tarama 2022 yılının 01.03-15.03.2022 penceresine ilerlemiş olup seçilen pencere sayısı
+  236/503'tür. Hız ayarına ve motora dokunulmamıştır.
+- Soru 29 ve 30 yanıtlanmamış olup soru dosyası 19 Ekim 11:02'den beri değişmemiştir. Yordam aynen uygulanmış, seçilebilir `[ ]` görev
+  bulunmadığından kod değiştirilmemiş, kapı 07:00 oturumunda koşulduğu için yinelenmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem
+  202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
