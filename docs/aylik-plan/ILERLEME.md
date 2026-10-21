@@ -1680,3 +1680,29 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   hızla pil 05:00 dolayında kritik düzeye inerek makineyi uykuya geçirebilir, bu durumda hasat da o saatte durur.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi
   gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-22 00:00 — izleme ve günün tam kapısı (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `89e9b851f`'dir ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. 23:00 oturumu 23:05:28'de 0 koduyla bitmiş, bu oturum da 00:00:03'te
+  zamanında başlamıştır. Son dört saatte tek güç olayı 20:10:04'teki güç kaynağı değişikliğidir (Kernel-Power 105), bekleme ya da uyku
+  kaydı görülmemiştir.
+- Hasat (`npm run yargi:hasat-durum`, 00:02): Motor pid 13720 ile 26,3 saattir çalışmakta olup devre kapalıdır. 21 Ekim'in on birinci
+  captcha'sı 23:34:31'de Yargıtay 1. Ceza Dairesinin E. 2021/3674 sayılı kararı istenirken gelmiş, yönetici 454 sn mola vermiş ve hızı
+  dakikada 2'de tutmuştur (`_state/harvester.log`, günlükteki UTC saat 20:34:31). 22:55'ten sonraki aralık 39 dakika olup 30 dakikalık
+  tırmandırma penceresinin üstünde kalmıştır. Soru 31'deki döküm bu captcha'yla güncellenmiş, varsayım değişmemiştir. Son bir saatte
+  84 karar inmiş, 429 ve ağ hatası görülmemiştir. Arşiv 134.928'e çıkmış, kuyruk 806 ve kalıcı hata 163'tür. Tarama 2020 yılının
+  01.11-03.11.2020 penceresinde olup seçilen pencere sayısı 341/592'dir. Yararlı karar sayısı 51.763'e ulaşmıştır. Hız ayarına ve motora
+  dokunulmamıştır.
+- Tam kapı: Günün ilk oturumu olduğundan ve makine pilde %57 şarjla yordamın %50 sınırının üstünde bulunduğundan `npm run kalite`
+  00:02:37'de başlatılmıştır. Boş bellek 239 MB olup yordam gereği tek başına erteleme gerekçesi sayılmamış, kapı da derleme işçisini
+  2'ye indirmiştir. Kapı 00:32:37'de 1018 testte geçmiştir (`logs/izleme-tam-0000.log`). Derleme 1191 sn, e2e 233 sn sürmüş olup 21 Ekim
+  16:03'teki 5 işçili kapıda bu süreler 507 ve 186 sn'dir. Derlemenin yeniden ürettiği beş zaman damgası dosyası geri alınmış, kapıdan
+  sonra 3123 ve 3124'te dinleyen süreç kalmamıştır.
+- Pil: Şarj kapı süresince 30 dakikada %57'den %46'ya inmiş olup bu, kapısız saatlerdeki saatte 10 puanlık hızın iki katıdır. %50 sınırı
+  kapı sürerken aşıldığından sonraki oturumlar makine prize takılana kadar uzun iş başlatmaz. Kritik düzey %2'dir ve bu düzeyde makine
+  hazırda bekletmeye geçer (`powercfg`, `BATLEVELCRIT` ve `BATACTIONCRIT`). Saatte 10 puanlık hız sürerse bu eşik 05:00 dolayında
+  aşılır ve hasat o saatte durur. Kapının pil tüketimi `OTONOM.md`'deki %25-30 tahmininin altında kaldığından ölçülen değer oraya
+  eklenmiştir.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi
+  gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.

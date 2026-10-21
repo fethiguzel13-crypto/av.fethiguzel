@@ -79,7 +79,8 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
   işçi; 06:50 kapısı 904 sn'de geçmiştir). Elle `next build` çağrılırken aynı değişken verilir: `DERLEME_ISCI=4 npm run build`.
   Yordam boş bellek için ayrı bir durdurma eşiği koymamaktadır, zira bu işi işçi sınırı görmektedir. Pil kuralını geçen makinede tam
   kapı yalnız bellek gerekçesiyle ertelenmez ve ölçülen değer kayda yazılır (2026-10-21 16:03: 891 MB boş bellekte derleme 5 işçiyle
-  507 sn sürmüş, kapı 1018 testte geçmiştir).
+  507 sn sürmüş, kapı 1018 testte geçmiştir). Bellek 250 MB dolayına inince işçi sayısı 2'ye düşer ve kapı iki katı sürer (2026-10-22
+  00:02: 239 MB'ta derleme 1191 sn, kapının tamamı 30 dk sürmüş ve 1018 testte geçmiştir).
 - **Sahte KIRIK kalite günlüğü** (2026-10-05 16:46: arka planda başlatılan `npm run kalite`, oturum sınırıyla süreç ağacı
   öldürülünce tip adımından sonraki her adımı "KIRIK 0 sn" ve "toplam 0 test" diye yazdı). Devralmada her adım 0 sn ise
   kırmızı test aranmaz, kapı yeniden çalıştırılır. Tam kapıyı oturumun sonuna bırakma; ~15 dk sürer. 21:33'te aynısı
@@ -99,7 +100,8 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
   girer, bu geçiş Kernel-Power 506 (giriş) ve 507 (çıkış, `neden: Lid`) olaylarıyla okunur (2026-10-19: 17:20-21:50 arasında 18:00-21:00
   oturumları ve hasat bu yüzden çalışmamıştır). Kaçan oturum aranırken yalnız 42'ye bakılmaz. Uzun işten (tam mobil derleme, tam kapı) önce
   `Win32_Battery` denetlenir: `BatteryStatus` 2 prizde demektir. Makine pildeyse ve `EstimatedChargeRemaining` %50'nin altındaysa
-  uzun iş başlatılmaz, kısa işe geçilir. Tam kapı pilde yaklaşık %25-30 tüketir (2026-10-18: iki kapı %81'den %47'ye indirmiştir), bu
+  uzun iş başlatılmaz, kısa işe geçilir. Tam kapı pilde yaklaşık %25-30 tüketir (2026-10-18: iki kapı %81'den %47'ye, 2026-10-22: 2 işçili tek kapı 30 dakikada %57'den
+  %46'ya indirmiştir), bu
   yüzden kapıdan sonra ölçüm gibi ikinci bir uzun iş planlanıyorsa başlangıçta pilin %80'in üstünde olması gerekir.
   Pildeki hızlı kapının süresi değişkendir: 2026-10-15'te uykudan hemen sonraki kapı 15 dk, sonraki iki kapı 6-7 dk sürmüş,
   pil 40 dk içinde %38'den %15'e inmiştir. Kapı beklenirken sıradaki katmanın taslağı depo dışında (`%TEMP%/g23-taslak/`) yazılır ve
