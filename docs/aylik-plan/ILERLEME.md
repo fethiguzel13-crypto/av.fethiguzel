@@ -1460,3 +1460,20 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamış olup soru dosyası 19 Ekim 11:02'den beri değişmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
   değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi (son tarih 2 Ekim, 89 açık gözlem) gözlem 202'deki gerekçeyle ertelenmiştir.
   Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-21 12:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `73a28c2cc`'dir ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. 11:01:32'deki uyanıştan (Kernel-Power 507) sonra güç olayı görülmemiş,
+  11:03 oturumu da 11:07:49'da 0 koduyla bitmiştir.
+- Hasat (`npm run yargi:hasat-durum`, 12:03): Motor pid 13720 ile 14,3 saattir çalışmakta olup devre kapalı ve hız dakikada 3,7'dir.
+  Son bir saatte 169 karar inmiş, 429 ve ağ hatası görülmemiştir. Arşiv 133.695'e çıkmış, kuyruk 803 ve kalıcı hata 163'tür. Tarama
+  2021 yılının 16.12-23.12.2021 penceresine geçmiş olup seçilen pencere sayısı 250/515'tir. 2022 yılı «tarama» durumunda kalmıştır.
+  Durum çıktısı etkin olmayan tarama yıllarını süzdüğünden (`hasat.mjs` 100. satır) 2022 «Yıllar» satırında görünmemektedir. Hız
+  ayarına ve motora dokunulmamıştır.
+- Tam kapı bu oturumda da koşulmamıştır. Makine pildedir (`BatteryStatus` 1, şarj %63), boş bellek ise iki ölçümde 845 ve 981 MB olup
+  1 GB'lık eşiğin altında kalmıştır. Belleğin en büyük payını Opera süreçleri tutmakta olup ilk altı süreç yaklaşık 2,3 GB'tır. Son
+  yeşil kapıdan (20 Ekim 07:03, 1018 test) bu yana yalnız `ILERLEME.md` değişmiştir.
+- Soru 29 ve 30 yanıtlanmamış olup soru dosyası 19 Ekim 11:02'den beri değişmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
+  değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri
+  yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
