@@ -1724,3 +1724,22 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   28 dakikada 5 puan azalmış olup saatte yaklaşık 10 puanlık hız sürerse %2'lik kritik düzey 05:00 dolayında aşılır. Boş bellek 502 MB'tır.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi
   gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-22 02:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `a6c7aeb85`'tir ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. 01:00 oturumu 01:05:24'te 0 koduyla bitmiş, bu oturum da 02:00:02'de
+  zamanında başlamıştır. Son iki saatte Kernel-Power kaydı görülmemiştir.
+- Hasat (`npm run yargi:hasat-durum`, 02:01): Motor pid 13720 ile 28,3 saattir çalışmakta olup devre kapalıdır. 22 Ekim'in üçüncü
+  captcha'sı 01:27:57'de Yargıtay 19. Ceza Dairesinin E. 2020/3593 sayılı kararı istenirken gelmiş, yönetici 526 sn mola vermiş ve hızı
+  dakikada 2'de tutmuştur (`_state/harvester.log`, günlükteki UTC saat 22:27:57). 00:46'dan sonraki aralık 41 dakika olup 30 dakikalık
+  tırmandırma penceresinin üstünde kalmıştır. Soru 31'deki döküm bu captcha'yla güncellenmiş, varsayım değişmemiştir. Son bir saatte
+  78 karar inmiş, 429 ve ağ hatası görülmemiştir. Arşiv 135.073'e çıkmış, kuyruk 798 ve kalıcı hata 163'tür. Tarama 2020 yılının
+  01.09-30.09.2020 penceresinde olup seçilen pencere sayısı 351/600'dür. Yararlı karar sayısı 51.853'e ulaşmıştır. Hız ayarına ve motora
+  dokunulmamıştır.
+- Tam kapı koşulmamıştır. Günün kapısı 00:32'de 1018 testte geçmiş olup o zamandan bu yana yalnız plan belgeleri değişmiştir. Makine
+  pildedir (`BatteryStatus` 1, şarj %31) ve şarj yordamın %50 sınırının altında kaldığından uzun iş başlatılamaz. Şarj 01:01'den bu yana
+  bir saatte 10 puan azalmış olup bu hız sürerse %2'lik kritik düzey 05:00 dolayında aşılır. Windows'un anlık kalan süre tahmini 87 dk
+  olup ölçülen eğilimden kısadır. Boş bellek 479 MB'tır.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi
+  gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
