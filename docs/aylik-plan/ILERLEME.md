@@ -1524,3 +1524,24 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamış olup soru dosyası 19 Ekim 11:02'den beri değişmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
   değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri
   yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-21 16:00 — izleme ve günün tam kapısı (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `f4c3e5d03`'tür ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. 15:00 oturumu 15:04:12'de 0 koduyla bitmiştir. Makine 15:35:45'te
+  yaklaşık %30 şarjla prize takılmış (Kernel-Power 105, `AcOnline` true) olup sonrasında güç olayı görülmemiştir.
+- Hasat (`npm run yargi:hasat-durum`, 16:02): Motor pid 13720 ile 18,3 saattir çalışmakta olup devre kapalı ve hız dakikada 3,7'dir.
+  Son bir saatte 173 karar inmiş, 429 ve ağ hatası görülmemiştir. Arşiv 134.341'e çıkmış, kuyruk 797 ve kalıcı hata 163'tür. Tarama
+  2021 yılının 10.04-11.04.2021 penceresinde olup seçilen pencere sayısı 298/556'dır. Yararlı karar sayısı 51.437'ye ulaşmıştır. Hız
+  ayarına ve motora dokunulmamıştır.
+- Günün tam kapısı bu oturumda koşulmuştur. Makine prizdeydi (`BatteryStatus` 2, şarj %57), boş bellek ise 891 MB'tı. 11:03 kaydındaki
+  "1 GB'ı aşan ilk oturum kapıyı koşar" notu yordamda yer almayan bir eşik olup 20 Ekim kapısı 958 MB'ta, 6 Ekim derlemesi 777 MB'ta
+  geçmiştir. `npm run kalite` derleme işçisini belleğe göre kendisi sınırladığından kapı başlatılmıştır. Kapı 16:03:05-16:19:40 arasında
+  koşmuş ve 1018 testte geçmiştir (`logs/izleme-tam-1603.log`). Derleme 5 işçiyle 507 sn, e2e 186 sn sürmüş olup şarj aynı sürede %57'den
+  %64'e çıkmıştır. Derlemenin yeniden ürettiği beş zaman damgası dosyası geri alınmıştır.
+- Kapının yalnız bellek gerekçesiyle ertelenmesinin önüne geçmek için `OTONOM.md`'nin bellek notuna, bu gerekçeyle kapının
+  ertelenmeyeceğini ve ölçülen değerin kayda yazılacağını belirten cümle eklenmiştir. Gözlem günlüğüne bu konuda gözlem 213 yazılmış
+  olup gözden geçirme gözlem 202'deki gerekçeyle yine ertelenmiştir.
+- Soru 29 ve 30 yanıtlanmamış olup soru dosyası 19 Ekim 11:02'den beri değişmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
+  değiştirilmemiştir. Bugünkü sonraki oturumlar izleme yapar, kod değişmedikçe kapı yeniden koşulmaz. Sıradaki adım, sorulardan biri
+  yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.

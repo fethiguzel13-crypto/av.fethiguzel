@@ -77,6 +77,9 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
   sunucu kapatılınca dosya bozuk kalmış ve hızlı kapının tip adımı `TS1005` ile kırılmıştır. Sunucu kapatıldıktan sonra bu dosya silinir,
   sonra kapı koşulur. 2026-10-14'ten beri `npm run kalite` derleme işçisini boş belleğe göre sınırlar (`DERLEME_ISCI`, ~1 GB'ta 4
   işçi; 06:50 kapısı 904 sn'de geçmiştir). Elle `next build` çağrılırken aynı değişken verilir: `DERLEME_ISCI=4 npm run build`.
+  Yordam boş bellek için ayrı bir durdurma eşiği koymamaktadır, zira bu işi işçi sınırı görmektedir. Pil kuralını geçen makinede tam
+  kapı yalnız bellek gerekçesiyle ertelenmez ve ölçülen değer kayda yazılır (2026-10-21 16:03: 891 MB boş bellekte derleme 5 işçiyle
+  507 sn sürmüş, kapı 1018 testte geçmiştir).
 - **Sahte KIRIK kalite günlüğü** (2026-10-05 16:46: arka planda başlatılan `npm run kalite`, oturum sınırıyla süreç ağacı
   öldürülünce tip adımından sonraki her adımı "KIRIK 0 sn" ve "toplam 0 test" diye yazdı). Devralmada her adım 0 sn ise
   kırmızı test aranmaz, kapı yeniden çalıştırılır. Tam kapıyı oturumun sonuna bırakma; ~15 dk sürer. 21:33'te aynısı
