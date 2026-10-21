@@ -1706,3 +1706,21 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   eklenmiştir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi
   gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-22 01:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `58f4e953f`'dir ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. 00:00 oturumu 00:35:21'de 0 koduyla bitmiş, bu oturum da 01:00:03'te
+  zamanında başlamıştır. Son iki saatte güç olayı kaydı görülmemiştir.
+- Hasat (`npm run yargi:hasat-durum`, 01:02): Motor pid 13720 ile 27,3 saattir çalışmakta olup devre kapalıdır. 22 Ekim'in ilk iki
+  captcha'sı 00:10:06'da Yargıtay 19. Ceza Dairesinin E. 2019/9278 sayılı, 00:46:43'te de 5. Hukuk Dairesinin E. 2020/7446 sayılı kararı
+  istenirken gelmiş, yönetici 340 ve 589 sn mola vermiş ve hızı dakikada 2'de tutmuştur (`_state/harvester.log`, günlükteki UTC saatler
+  21:10:06 ve 21:46:43). 23:34'ten sonraki aralıklar 36 ve 37 dakika olup 30 dakikalık tırmandırma penceresinin üstünde kalmıştır. Soru
+  31'deki döküm bu iki captcha'yla güncellenmiş, varsayım değişmemiştir. Son bir saatte 70 karar inmiş, 429 ve ağ hatası görülmemiştir.
+  Arşiv 134.996'ya çıkmış, kuyruk 796 ve kalıcı hata 163'tür. Tarama 2020 yılının 14.10-15.10.2020 penceresinde olup seçilen pencere
+  sayısı 345/598'dir. Yararlı karar sayısı 51.806'ya ulaşmıştır. Hız ayarına ve motora dokunulmamıştır.
+- Tam kapı koşulmamıştır. Günün kapısı 00:32'de 1018 testte geçmiş olup o zamandan bu yana yalnız plan belgeleri değişmiştir. Makine
+  pildedir (`BatteryStatus` 1, şarj %41) ve şarj yordamın %50 sınırının altında kaldığından uzun iş başlatılamaz. Şarj 00:32'den bu yana
+  28 dakikada 5 puan azalmış olup saatte yaklaşık 10 puanlık hız sürerse %2'lik kritik düzey 05:00 dolayında aşılır. Boş bellek 502 MB'tır.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi
+  gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
