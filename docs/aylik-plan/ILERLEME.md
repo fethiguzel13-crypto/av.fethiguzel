@@ -1637,3 +1637,26 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   değişmedikçe kapı yeniden koşulmaz. Makine pildedir (`BatteryStatus` 1, şarj %88) ve boş bellek 811 MB'tır.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi
   gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-21 22:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `a3551adca`'dır ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. 21:00 oturumu 21:03:47'de 0 koduyla bitmiş, bu oturum da 22:00:05'te
+  zamanında başlamıştır. 20:10:04'teki güç kaynağı değişikliğinden (Kernel-Power 105) sonra güç olayı görülmemiş olup makine pilde
+  çalışmayı sürdürmektedir.
+- Hasat (`npm run yargi:hasat-durum`, 22:02): Motor pid 13720 ile 24,3 saattir çalışmakta olup devre kapalıdır. Günün yedinci ve sekizinci
+  captcha'sı 21:09:14'te Yargıtay 11. Ceza Dairesinin E. 2018/6201 sayılı, 21:44:22'de de 1. Hukuk Dairesinin E. 2021/782 sayılı kararı
+  istenirken gelmiş, yönetici 329 ve 390 sn mola vermiş ve hızı dakikada 2'de tutmuştur (`_state/harvester.log`). Aralıklar 34 ve 35
+  dakika olup 30 dakikalık tırmandırma penceresine yaklaşmakla birlikte üstünde kalmıştır. Soru 31'deki döküm bu iki captcha'yla
+  güncellenmiş, varsayım değişmemiştir. Son bir saatte 77 karar inmiş, 429 ve ağ hatası görülmemiştir. Arşiv 134.768'e çıkmış, kuyruk 808
+  ve kalıcı hata 163'tür. 2021'in son penceresi (01.01-15.01.2021) 21:27'de, 2020'nin ilk penceresi (24.12-31.12.2020) 21:38'de seçilmiş
+  olup tarama şu an 01.12-15.12.2020 penceresindedir ve seçilen pencere sayısı 330/582'dir. 2021'in `Yıllar` satırında görünmemesi arıza
+  değildir, zira yılın kapanışı (`harvester/daemon.mjs`, `yearFillCheck`) kuyruktaki 2021 kararları bitince doldurma turuyla yapılmakta,
+  durum ekranı (`hasat.mjs`) da etkin olmayan `tarama` evresindeki yılı listelememektedir. Yararlı karar sayısı 51.660'a ulaşmıştır. Hız
+  ayarına ve motora dokunulmamıştır.
+- Tam kapı koşulmamıştır. Günün kapısı 16:03'te 1018 testte geçmiş olup o zamandan bu yana yalnız plan belgeleri değişmiştir, kod
+  değişmedikçe kapı yeniden koşulmaz. Makine pildedir (`BatteryStatus` 1, şarj %77) ve boş bellek 484 MB'tır. Pil 21:01'den bu yana
+  saatte yaklaşık 11 puan azalmış olup bu hızla makine 04:00-05:00 arasında kritik düzeye inerek uykuya geçebilir ve hasat o saatte durur.
+  Pil 00:30 dolayında %50'nin altına iner, o andan sonraki oturumlar uzun iş başlatmaz.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi
+  gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
