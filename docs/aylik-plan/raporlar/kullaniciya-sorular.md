@@ -178,3 +178,15 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     *Varsayım:* yordam değiştirilmemiş olup kayıt ve commit sürmektedir, bloklar kısa tutulur. İsterseniz `OTONOM.md`'ye boşta kalma kuralı
     eklenir: Durum (son commit, çalışma ağacı, hasat sayaçları) önceki kayıtla aynıysa kayıt ve commit atlanır, yalnız bir değişiklik
     (hasat servisinin açılması, yeni commit, bir sorunun yanıtlanması) olduğunda blok yazılır.
+
+## 2026-10-21
+
+31. **Hasat yöneticisinin captcha ayarı değiştirilsin mi? (G08).** Yönetici captcha gelince 5-10 dakika mola verip hızı yarıya
+    indirmekte, 30 dakika içinde ikinci captcha gelirse 30-45 dakikalık uzun mola vermektedir (`scripts/yargi-kararlari/harvester/governor.mjs`,
+    `captcha` ve `blockedPauseMs`). Hız dakikada 2 olan tabanın altına inmez (`minPerMin`). 21 Ekim'de captcha 16:30, 17:59, 18:38, 19:20
+    ve 19:57'de olmak üzere beş kez gelmiş olup 17:59'dan sonraki aralıklar 39, 42 ve 37 dakikadır. Aralıklar 30 dakikalık pencerenin hemen
+    üstünde kaldığından uzun mola hiç devreye girmemiş, motor her kısa moladan sonra tabandaki hızla sürmüştür. Günlük sayı 11-19 Ekim
+    arasında 1 ile 2 arasında kalmıştır. Devre kapalıdır, 429 ve ağ hatası görülmemiştir.
+    *Varsayım:* başsız oturumlar yönetici ayarına ve motora dokunmaz, konu 26 Ekim pazartesi günkü G08 bakımında ele alınır. İki seçenek
+    vardır: tabanı dakikada 1'e indirmek ya da `captcha.windowMs`'i 60 dakikaya çıkarıp uzun molayı devreye sokmak. İkisi de ayar
+    değişikliği ve `hasat-servis.ps1` ile motorun yeniden başlatılmasını gerektirir.

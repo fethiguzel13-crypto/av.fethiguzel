@@ -1601,3 +1601,21 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamış olup soru dosyası 19 Ekim 11:02'den beri değişmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
   değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri
   yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-21 20:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `f3e17bf68`'dir ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. 19:00 oturumu 19:04:25'te 0 koduyla bitmiş, bu oturum da 20:00:03'te
+  zamanında başlamıştır. 17:29:24'teki beklemeden çıkıştan (507) bu yana güç olayı görülmemiştir.
+- Hasat (`npm run yargi:hasat-durum`, 20:01): Motor pid 13720 ile 22,3 saattir çalışmakta olup devre kapalıdır. Günün dördüncü ve beşinci
+  captcha'sı 19:20:30'da Yargıtay 5. Hukuk Dairesinin E. 2021/12858 sayılı, 19:57:33'te de 3. Hukuk Dairesinin E. 2021/6582 sayılı
+  kararı istenirken gelmiş, yönetici 425 ve 507 sn mola vermiştir (`_state/harvester.log`). 17:59'dan sonraki aralıklar 39, 42 ve 37
+  dakika olup her biri 30 dakikalık tırmandırma penceresinin hemen üstünde kaldığından uzun mola devreye girmemiştir. Eğilim soru 31
+  olarak `raporlar/kullaniciya-sorular.md`'ye yazılmış, varsayım olarak ayar ve motor 26 Ekim'deki G08 bakımına bırakılmıştır. Son bir
+  saatte 77 karar inmiş, 429 ve ağ hatası görülmemiştir. Arşiv 134.610'a çıkmış, kuyruk 800 ve kalıcı hata 163'tür. Tarama 2021 yılının
+  08.02-10.02.2021 penceresinde olup seçilen pencere sayısı 318/573'tür. Yararlı karar sayısı 51.557'ye ulaşmıştır. Hız ayarına ve
+  motora dokunulmamıştır.
+- Tam kapı koşulmamıştır. Günün kapısı 16:03'te 1018 testte geçmiş olup o zamandan bu yana yalnız plan belgeleri değişmiştir, kod
+  değişmedikçe kapı yeniden koşulmaz. Makine prizdedir (`BatteryStatus` 2, şarj %100) ve boş bellek 955 MB'tır.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi
+  gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
