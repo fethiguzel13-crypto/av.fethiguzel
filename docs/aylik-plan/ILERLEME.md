@@ -1508,3 +1508,19 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamış olup soru dosyası 19 Ekim 11:02'den beri değişmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
   değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri
   yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-21 15:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `0676ff56b`'dir ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. 14:00 oturumu 14:02:40'ta 0 koduyla bitmiştir. Makine 14:15:03'te kapak
+  kapanınca modern beklemeye girmiş (Kernel-Power 506, neden 15), 14:15:39'da %20 şarjla prize takılmış (105) ve 14:25:10'da kapak
+  açılınca beklemeden çıkmıştır (507). Priz 14:41:12'de %53 şarjla çekilmiştir.
+- Hasat (`npm run yargi:hasat-durum`, 15:02): Motor pid 13720 ile 17,3 saattir çalışmakta olup bekleme boyunca kapanmamış, devre kapalı
+  ve hız dakikada 3,7'dir. Son bir saatte 151 karar inmiş olup tek ağ hatası (`ENOTFOUND`, 14:15 dolayı) beklemeye giriş anına denk
+  gelmektedir. Arşiv 134.169'a çıkmış, kuyruk 797 ve kalıcı hata 163'tür. Tarama 2021 yılının 01.06-03.06.2021 penceresinde olup
+  seçilen pencere sayısı 287/545'tir. Hız ayarına ve motora dokunulmamıştır.
+- Tam kapı koşulmamıştır. Makine yeniden pildedir (`BatteryStatus` 1), şarj %44 olup yordamın %50 sınırının altındadır, boş bellek de
+  640 MB'tır. Son yeşil kapıdan (20 Ekim 07:03, 1018 test) bu yana yalnız `ILERLEME.md` değişmiştir.
+- Soru 29 ve 30 yanıtlanmamış olup soru dosyası 19 Ekim 11:02'den beri değişmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
+  değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri
+  yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
