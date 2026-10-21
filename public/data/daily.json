@@ -1,9 +1,178 @@
 {
-  "generatedAt": "2026-10-20T11:05:01.918Z",
-  "dateLabel": "20 Ekim 2026",
-  "highlights": [],
+  "generatedAt": "2026-10-21T11:22:10.049Z",
+  "dateLabel": "21 Ekim 2026",
+  "highlights": [
+    {
+      "id": "rg-20261021-20261021-4-pdf",
+      "source": "RG",
+      "sourceLabel": "Resmî Gazete",
+      "category": "Yönetmelik",
+      "icon": "scroll-text",
+      "title": "––  Türkiye Emisyon Ticaret Sistemi Piyasasının İşletilmesine İlişkin Yönetmelik",
+      "konu": "––  Türkiye Emisyon Ticaret Sistemi Piyasasının İşletilmesine İlişkin Yönetmelik",
+      "publicSummary": "",
+      "date": "2026-10-21",
+      "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261021-4.pdf"
+    }
+  ],
   "items": {
     "resmigazete": [
+      {
+        "id": "rg-20261021-20261021-1",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Yönetmelik",
+        "icon": "scroll-text",
+        "title": "––  Gençlik ve Spor Bakanlığı Yurtlarında Bulunan Yemekhane, Kantin ve Diğer İşletmeler Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+        "konu": "––  Gençlik ve Spor Bakanlığı Yurtlarında Bulunan Yemekhane, Kantin ve Diğer İşletmeler Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+        "publicSummary": "",
+        "date": "2026-10-21",
+        "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261021-1.htm"
+      },
+      {
+        "id": "rg-20261021-20261021-2",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Yönetmelik",
+        "icon": "scroll-text",
+        "title": "a - Yargı İlânları",
+        "konu": "a - Yargı İlânları",
+        "publicSummary": "",
+        "date": "2026-10-21",
+        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261021.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261021-2.htm"
+      },
+      {
+        "id": "rg-20261021-20261021-3",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Yönetmelik",
+        "icon": "scroll-text",
+        "title": "b - Artırma, Eksiltme ve İhale İlânları",
+        "konu": "b - Artırma, Eksiltme ve İhale İlânları",
+        "publicSummary": "",
+        "date": "2026-10-21",
+        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261021.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261021-3.htm"
+      },
+      {
+        "id": "rg-20261021-20261021-4-pdf",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Yönetmelik",
+        "icon": "scroll-text",
+        "title": "––  Türkiye Emisyon Ticaret Sistemi Piyasasının İşletilmesine İlişkin Yönetmelik",
+        "konu": "––  Türkiye Emisyon Ticaret Sistemi Piyasasının İşletilmesine İlişkin Yönetmelik",
+        "publicSummary": "",
+        "date": "2026-10-21",
+        "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261021-4.pdf"
+      },
+      {
+        "id": "rg-20261021-20261021-5",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Yönetmelik",
+        "icon": "scroll-text",
+        "title": "– T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
+        "konu": "– T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
+        "publicSummary": "",
+        "date": "2026-10-21",
+        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261021.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261021-5.htm"
+      },
+      {
+        "id": "rg-20261021-20261021-6",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Yönetmelik",
+        "icon": "scroll-text",
+        "title": "––  Türkiye Anne, Çocuk ve Ergen Sağlığı Enstitüsünün Yapılanması ve Faaliyetlerine Dair Yönetmelikte Değişiklik Yapılmasına İlişkin Yönetmelik",
+        "konu": "––  Türkiye Anne, Çocuk ve Ergen Sağlığı Enstitüsünün Yapılanması ve Faaliyetlerine Dair Yönetmelikte Değişiklik Yapılmasına İlişkin Yönetmelik",
+        "publicSummary": "",
+        "date": "2026-10-21",
+        "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261021-6.htm"
+      },
+      {
+        "id": "rg-20261021-20261021-7",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Yönetmelik",
+        "icon": "scroll-text",
+        "title": "––  Türkiye Kanser Enstitüsü Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+        "konu": "––  Türkiye Kanser Enstitüsü Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+        "publicSummary": "",
+        "date": "2026-10-21",
+        "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261021-7.htm"
+      },
+      {
+        "id": "rg-20261021-20261021-8-pdf",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Yönetmelik",
+        "icon": "scroll-text",
+        "title": "––  Enerji Piyasası Düzenleme Kurulunun 15/10/2026 Tarihli ve 14954 Sayılı Kararı",
+        "konu": "––  Enerji Piyasası Düzenleme Kurulunun 15/10/2026 Tarihli ve 14954 Sayılı Kararı",
+        "publicSummary": "",
+        "date": "2026-10-21",
+        "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261021-8.pdf"
+      },
+      {
+        "id": "rg-20261021-20261021-9-pdf",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Yönetmelik",
+        "icon": "scroll-text",
+        "title": "––  Nükleer Düzenleme Kurulunun 15/10/2026 Tarihli ve 2026-44/1 Sayılı Kararı",
+        "konu": "––  Nükleer Düzenleme Kurulunun 15/10/2026 Tarihli ve 2026-44/1 Sayılı Kararı",
+        "publicSummary": "",
+        "date": "2026-10-21",
+        "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261021-9.pdf"
+      },
+      {
+        "id": "rg-20261021-20261021-2",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Yönetmelik",
+        "icon": "scroll-text",
+        "title": "a - Yargı İlânları",
+        "konu": "a - Yargı İlânları",
+        "publicSummary": "",
+        "date": "2026-10-21",
+        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261021.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261021-2.htm"
+      },
+      {
+        "id": "rg-20261021-20261021-3",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Yönetmelik",
+        "icon": "scroll-text",
+        "title": "b - Artırma, Eksiltme ve İhale İlânları",
+        "konu": "b - Artırma, Eksiltme ve İhale İlânları",
+        "publicSummary": "",
+        "date": "2026-10-21",
+        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261021.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261021-3.htm"
+      },
+      {
+        "id": "rg-20261021-20261021-4",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Yönetmelik",
+        "icon": "scroll-text",
+        "title": "c - Çeşitli İlânlar",
+        "konu": "c - Çeşitli İlânlar",
+        "publicSummary": "",
+        "date": "2026-10-21",
+        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261021.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261021-4.htm"
+      },
+      {
+        "id": "rg-20261021-20261021-5",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Yönetmelik",
+        "icon": "scroll-text",
+        "title": "– T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
+        "konu": "– T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
+        "publicSummary": "",
+        "date": "2026-10-21",
+        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261021.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261021-5.htm"
+      },
       {
         "id": "rg-20261020-20261020-1-pdf",
         "source": "RG",
@@ -231,162 +400,6 @@
         "publicSummary": "",
         "date": "2026-10-20",
         "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261020.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261020-5.htm"
-      },
-      {
-        "id": "rg-20261019-20261019-1",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "––  Elektrik Piyasası Bağlantı ve Sistem Kullanım Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-        "konu": "––  Elektrik Piyasası Bağlantı ve Sistem Kullanım Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-        "publicSummary": "",
-        "date": "2026-10-19",
-        "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-1.htm"
-      },
-      {
-        "id": "rg-20261019-20261019-2-pdf",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "––  Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-        "konu": "––  Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-        "publicSummary": "",
-        "date": "2026-10-19",
-        "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-2.pdf"
-      },
-      {
-        "id": "rg-20261019-20261019-3",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "b - Artırma, Eksiltme ve İhale İlânları",
-        "konu": "b - Artırma, Eksiltme ve İhale İlânları",
-        "publicSummary": "",
-        "date": "2026-10-19",
-        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261019.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261019-3.htm"
-      },
-      {
-        "id": "rg-20261019-20261019-4",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "c - Çeşitli İlânlar",
-        "konu": "c - Çeşitli İlânlar",
-        "publicSummary": "",
-        "date": "2026-10-19",
-        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261019.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261019-4.htm"
-      },
-      {
-        "id": "rg-20261019-20261019-5",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "– T.C. Merkez Bankasınca Belirlenen Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
-        "konu": "– T.C. Merkez Bankasınca Belirlenen Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
-        "publicSummary": "",
-        "date": "2026-10-19",
-        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261019.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261019-5.htm"
-      },
-      {
-        "id": "rg-20261019-20261019-6",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "––  Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-        "konu": "––  Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-        "publicSummary": "",
-        "date": "2026-10-19",
-        "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-6.htm"
-      },
-      {
-        "id": "rg-20261019-20261019-7",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "––  Organize Sanayi Bölgelerinin ve Endüstri Bölgelerinin Elektrik Piyasası Faaliyetlerine İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
-        "konu": "––  Organize Sanayi Bölgelerinin ve Endüstri Bölgelerinin Elektrik Piyasası Faaliyetlerine İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
-        "publicSummary": "",
-        "date": "2026-10-19",
-        "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-7.htm"
-      },
-      {
-        "id": "rg-20261019-20261019-8-pdf",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "––  Yenilenebilir Enerji Kaynaklarının Belgelendirilmesi ve Desteklenmesine İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
-        "konu": "––  Yenilenebilir Enerji Kaynaklarının Belgelendirilmesi ve Desteklenmesine İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
-        "publicSummary": "",
-        "date": "2026-10-19",
-        "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-8.pdf"
-      },
-      {
-        "id": "rg-20261019-20261019-9-pdf",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "––  Enerji Piyasası Düzenleme Kurulunun 24/09/2026 Tarihli ve 14907, 14908, 14909, 14910, 14911, 14912 ve 14913 Sayılı Kararları",
-        "konu": "––  Enerji Piyasası Düzenleme Kurulunun 24/09/2026 Tarihli ve 14907, 14908, 14909, 14910, 14911, 14912 ve 14913 Sayılı Kararları",
-        "publicSummary": "",
-        "date": "2026-10-19",
-        "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261019-9.pdf"
-      },
-      {
-        "id": "rg-20261019-20261019-2",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "a - Yargı İlânları",
-        "konu": "a - Yargı İlânları",
-        "publicSummary": "",
-        "date": "2026-10-19",
-        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261019.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261019-2.htm"
-      },
-      {
-        "id": "rg-20261019-20261019-3",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "b - Artırma, Eksiltme ve İhale İlânları",
-        "konu": "b - Artırma, Eksiltme ve İhale İlânları",
-        "publicSummary": "",
-        "date": "2026-10-19",
-        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261019.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261019-3.htm"
-      },
-      {
-        "id": "rg-20261019-20261019-4",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "c - Çeşitli İlânlar",
-        "konu": "c - Çeşitli İlânlar",
-        "publicSummary": "",
-        "date": "2026-10-19",
-        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261019.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261019-4.htm"
-      },
-      {
-        "id": "rg-20261019-20261019-5",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "– T.C. Merkez Bankasınca Belirlenen Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
-        "konu": "– T.C. Merkez Bankasınca Belirlenen Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
-        "publicSummary": "",
-        "date": "2026-10-19",
-        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261019.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261019-5.htm"
       }
     ],
     "yargitay": [],
@@ -408,8 +421,8 @@
     {
       "source": "hudoc",
       "message": {
-        "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://hudoc.echr.coe.int/eng#{%22respondent%22:[%22TUR%22],%22documentcollectionid2%22:[%22JUDGMENTS%22,%22DECISIONS%22],%22kpdate%22:[%222026-09-20T00:00:00.0Z%22,%222026-10-20T23:59:59.0Z%22],%22sort%22:[%22kpdate%20Descending%22]}\", waiting until \"networkidle\"\n",
-        "stack": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://hudoc.echr.coe.int/eng#{%22respondent%22:[%22TUR%22],%22documentcollectionid2%22:[%22JUDGMENTS%22,%22DECISIONS%22],%22kpdate%22:[%222026-09-20T00:00:00.0Z%22,%222026-10-20T23:59:59.0Z%22],%22sort%22:[%22kpdate%20Descending%22]}\", waiting until \"networkidle\"\n\n    at scrape (/home/runner/work/av.fethiguzel/av.fethiguzel/scraper/scrape-hudoc.js:79:16)"
+        "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://hudoc.echr.coe.int/eng#{%22respondent%22:[%22TUR%22],%22documentcollectionid2%22:[%22JUDGMENTS%22,%22DECISIONS%22],%22kpdate%22:[%222026-09-21T00:00:00.0Z%22,%222026-10-21T23:59:59.0Z%22],%22sort%22:[%22kpdate%20Descending%22]}\", waiting until \"networkidle\"\n",
+        "stack": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://hudoc.echr.coe.int/eng#{%22respondent%22:[%22TUR%22],%22documentcollectionid2%22:[%22JUDGMENTS%22,%22DECISIONS%22],%22kpdate%22:[%222026-09-21T00:00:00.0Z%22,%222026-10-21T23:59:59.0Z%22],%22sort%22:[%22kpdate%20Descending%22]}\", waiting until \"networkidle\"\n\n    at scrape (/home/runner/work/av.fethiguzel/av.fethiguzel/scraper/scrape-hudoc.js:79:16)"
       }
     },
     {
