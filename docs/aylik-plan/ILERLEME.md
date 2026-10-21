@@ -1580,3 +1580,24 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamış olup soru dosyası 19 Ekim 11:02'den beri değişmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
   değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri
   yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-21 19:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `2cc6c5ee4`'tür ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. 18:00 oturumu 18:02:45'te 0 koduyla bitmiş, bu oturum da 19:00:04'te
+  zamanında başlamıştır. 17:29:24'teki beklemeden çıkıştan (507) bu yana güç olayı görülmemiştir.
+- Hasat (`npm run yargi:hasat-durum`, 19:01): Motor pid 13720 ile 21,3 saattir çalışmakta olup devre kapalıdır. 18:38:44'te Yargıtay
+  12. Hukuk Dairesinin E. 2021/7047 sayılı kararının tam metni istenirken günün üçüncü captcha'sı gelmiş, yönetici de 576 sn mola
+  vermiş ve dakikada 2 olan hızı iki saatlik tavanla korumuştur (`_state/harvester.log`). Üçüncü captcha ikinciden 39 dakika sonra
+  geldiği için yöneticinin 30 dakikalık tırmandırma penceresine girmemiş, uzun mola da verilmemiştir (`harvester/governor.mjs`,
+  `captcha.windowMs`). Hız zaten yöneticinin taban değeri olan dakikada 2'dedir (`minPerMin`). Günlük captcha sayısı 11-19 Ekim
+  arasında 1 ile 2 arasında kalmışken 20 ve 21 Ekim'de 3'e çıkmıştır. Taban hızı düşürmek yönetici ayarını değiştirip motoru yeniden
+  başlatmayı gerektirdiğinden başsız oturumda yapılmamış, konu pazartesi günkü haftalık bakıma (G08) bırakılmıştır. Son bir saatte
+  68 karar inmiş, 429 ve ağ hatası görülmemiştir. Arşiv 134.533'e çıkmış, kuyruk 805 ve kalıcı hata 163'tür. Tarama 2021 yılının
+  22.02-24.02.2021 penceresinde olup seçilen pencere sayısı 313/569'dur. Yararlı karar sayısı 51.510'a ulaşmıştır. Hız ayarına ve
+  motora dokunulmamıştır.
+- Tam kapı koşulmamıştır. Günün kapısı 16:03'te 1018 testte geçmiş olup o zamandan bu yana yalnız `ILERLEME.md` ve `OTONOM.md`
+  değişmiştir, kod değişmedikçe kapı yeniden koşulmaz. Makine prizdedir (`BatteryStatus` 2, şarj %100) ve boş bellek 774 MB'tır.
+- Soru 29 ve 30 yanıtlanmamış olup soru dosyası 19 Ekim 11:02'den beri değişmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
+  değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri
+  yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
