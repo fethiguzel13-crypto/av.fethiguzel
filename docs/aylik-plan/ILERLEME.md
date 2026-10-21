@@ -1492,3 +1492,19 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamış olup soru dosyası 19 Ekim 11:02'den beri değişmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
   değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri
   yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-21 14:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `832b90992`'dir ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. 13:00 oturumu 13:03:55'te 0 koduyla bitmiş, son bir buçuk saatte
+  Kernel-Power olayı görülmemiştir.
+- Hasat (`npm run yargi:hasat-durum`, 14:01): Motor pid 13720 ile 16,3 saattir çalışmakta olup devre kapalı ve hız dakikada 3,7'dir.
+  Son bir saatte 167 karar inmiş, 429 ve ağ hatası görülmemiştir. Arşiv 134.014'e çıkmış, kuyruk 802 ve kalıcı hata 163'tür. Tarama
+  2021 yılının 01.07-03.07.2021 penceresinde olup seçilen pencere sayısı 276/535'tir. Hız ayarına ve motora dokunulmamıştır.
+- Tam kapı koşulmamıştır. Makine pildedir (`BatteryStatus` 1), şarj %24'e inmiş olup boş bellek 786 MB'tır. Şarj bir saatte %41'den
+  %24'e düştüğünden makine prize takılmazsa yaklaşık bir saat içinde kritik düzeye inmesi ve uykuya geçmesi beklenmektedir. Bu durumda
+  oturumlar ve hasat durmakta, motor uyanışta servis görevince yeniden başlatılmaktadır. Son yeşil kapıdan (20 Ekim 07:03, 1018 test)
+  bu yana yalnız `ILERLEME.md` değişmiştir.
+- Soru 29 ve 30 yanıtlanmamış olup soru dosyası 19 Ekim 11:02'den beri değişmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
+  değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri
+  yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
