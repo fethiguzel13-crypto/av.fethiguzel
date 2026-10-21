@@ -1545,3 +1545,21 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamış olup soru dosyası 19 Ekim 11:02'den beri değişmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
   değiştirilmemiştir. Bugünkü sonraki oturumlar izleme yapar, kod değişmedikçe kapı yeniden koşulmaz. Sıradaki adım, sorulardan biri
   yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-21 17:29 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `9dbb22720`'dir ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. 16:00 oturumu 16:22:35'te 0 koduyla bitmiştir. Makine 16:34:16'da kapak
+  kapanınca modern beklemeye girmiş (Kernel-Power 506, neden Lid) ve 17:29:24'te kapak açılınca beklemeden çıkmıştır (507). 17:00
+  oturumu bu yüzden çalışmamış olup bu oturum uyanıştan sonra 17:29:40'ta başlamıştır.
+- Hasat (`npm run yargi:hasat-durum`, 17:31): Motor pid 13720 ile 19,8 saattir çalışmakta olup bekleme boyunca kapanmamış ve devre
+  kapalıdır. 16:30:18'de Yargıtay 7. Hukuk Dairesinin bir kararının tam metni istenirken captcha gelmiş, yönetici de hızı 3,7'den
+  dakikada 2'ye indirip iki saatlik tavan koymuş ve 431 sn mola vermiştir (`_state/harvester.log`). Öğrenilmiş tavan aynı anda 24 saat
+  süreyle captcha hızının %85'ine çekilmektedir (`harvester/governor.mjs`). Son bir saatte bekleme nedeniyle yalnız 4 karar inmiş, 429
+  ve ağ hatası görülmemiştir. Arşiv 134.422'ye çıkmış, kuyruk 807 ve kalıcı hata 163'tür. Tarama 2021 yılının 16.03-19.03.2021
+  penceresinde olup seçilen pencere sayısı 306/562'dir. Hız ayarına ve motora dokunulmamıştır.
+- Tam kapı koşulmamıştır. Günün kapısı 16:03'te 1018 testte geçmiş olup o zamandan bu yana yalnız `ILERLEME.md` ve `OTONOM.md`
+  değişmiştir, kod değişmedikçe kapı yeniden koşulmaz. Makine prizdedir (`BatteryStatus` 2, şarj %100) ve boş bellek 660 MB'tır.
+- Soru 29 ve 30 yanıtlanmamış olup soru dosyası 19 Ekim 11:02'den beri değişmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
+  değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri
+  yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
