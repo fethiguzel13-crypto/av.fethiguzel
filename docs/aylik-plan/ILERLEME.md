@@ -1660,3 +1660,23 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   Pil 00:30 dolayında %50'nin altına iner, o andan sonraki oturumlar uzun iş başlatmaz.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi
   gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-21 23:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `261318634`'tür ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. 22:00 oturumu 22:06:15'te 0 koduyla bitmiş, bu oturum da 23:00:03'te
+  zamanında başlamıştır. Son üç saatte tek güç olayı 20:10:04'teki güç kaynağı değişikliğidir (Kernel-Power 105), bekleme ya da uyku
+  kaydı görülmemiştir.
+- Hasat (`npm run yargi:hasat-durum`, 23:02): Motor pid 13720 ile 25,3 saattir çalışmakta olup devre kapalıdır. Günün dokuzuncu ve onuncu
+  captcha'sı 22:20:56'da Yargıtay 12. Ceza Dairesinin E. 2020/381 sayılı, 22:55:35'te de 3. Hukuk Dairesinin E. 2021/961 sayılı kararı
+  istenirken gelmiş, yönetici 378 ve 551 sn mola vermiş ve hızı dakikada 2'de tutmuştur (`_state/harvester.log`). 21:44'ten sonraki
+  aralıklar 37 ve 35 dakika olup 30 dakikalık tırmandırma penceresinin üstünde kalmıştır. Soru 31'deki döküm bu iki captcha'yla
+  güncellenmiş, varsayım değişmemiştir. Son bir saatte 75 karar inmiş, 429 ve ağ hatası görülmemiştir. Arşiv 134.844'e çıkmış, kuyruk 803
+  ve kalıcı hata 163'tür. Tarama 2020 yılının 23.11-24.11.2020 penceresinde olup seçilen pencere sayısı 335/588'dir. Yararlı karar sayısı
+  51.708'e ulaşmıştır. Hız ayarına ve motora dokunulmamıştır.
+- Tam kapı koşulmamıştır. Günün kapısı 16:03'te 1018 testte geçmiş olup o zamandan bu yana yalnız plan belgeleri değişmiştir, kod
+  değişmedikçe kapı yeniden koşulmaz. Makine pildedir (`BatteryStatus` 1, şarj %67) ve boş bellek 221 MB'tır. Pil 22:02'den bu yana
+  saatte yaklaşık 10 puan azalmış olup bu hızla 00:45 dolayında %50'nin altına iner ve o andan sonraki oturumlar uzun iş başlatmaz. Aynı
+  hızla pil 05:00 dolayında kritik düzeye inerek makineyi uykuya geçirebilir, bu durumda hasat da o saatte durur.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi
+  gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
