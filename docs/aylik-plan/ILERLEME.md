@@ -1441,3 +1441,22 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamış olup soru dosyası 19 Ekim 11:02'den beri değişmemiştir. Yordam aynen uygulanmış, seçilebilir `[ ]` görev
   bulunmadığından kod değiştirilmemiş, kapı 07:00 oturumunda koşulduğu için yinelenmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem
   202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-21 11:03 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `c9a5e3248`'dir ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur.
+- 22:00-10:00 oturumları başlamamış olup `calis.log`'da 21:48'deki bitişten sonraki ilk satır bu oturumun 11:03:11'deki başlangıcıdır.
+  Makine 21:49:16'da kapak kapanınca modern beklemeye girmiş (Kernel-Power 506, neden 15, `LidOpenState=false`), 23:48:43'te beklemeden
+  çıkıp aynı saniyede yeniden girmiş (507/506, neden 55) ve 11:01:32'de kapak açılınca beklemeden çıkmıştır (507, neden 15).
+- Hasat (`npm run yargi:hasat-durum`, 11:05): Motor pid 13720 ile 13,3 saattir çalışmakta olup bekleme boyunca kapanmamış, devre
+  kapalı ve hız dakikada 3,7'dir. Uyanıştan hemen sonra bir `ENOTFOUND` ağ hatası görülmüş, 429 görülmemiştir. Arşiv 133.535'e çıkmış,
+  kuyruk 797 ve kalıcı hata 163'tür. Tarama 2022 yılının 08.03-11.03.2022 penceresinde olup seçilen pencere sayısı 237/505'tir. Hız
+  ayarına ve motora dokunulmamıştır.
+- Günün ilk oturumu olmasına karşın tam kapı koşulmamıştır. Makine pildedir (`BatteryStatus` 1, şarj %86), boş bellek ise iki ölçümde
+  605 ve 839 MB olup yaklaşık 1 GB'lık derleme eşiğinin altında kalmıştır. Dünkü 07:03 kapısından (1018 test, yeşil) bu yana yalnız
+  `ILERLEME.md` değiştiğinden kapının sınayacağı kod o kapıdaki kodla aynıdır. Bugünkü oturumlardan boş belleği 1 GB'ı aşan ilki kapıyı
+  koşar.
+- Soru 29 ve 30 yanıtlanmamış olup soru dosyası 19 Ekim 11:02'den beri değişmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
+  değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi (son tarih 2 Ekim, 89 açık gözlem) gözlem 202'deki gerekçeyle ertelenmiştir.
+  Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
