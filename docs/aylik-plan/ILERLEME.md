@@ -1563,3 +1563,20 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamış olup soru dosyası 19 Ekim 11:02'den beri değişmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
   değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri
   yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-21 18:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `e3c0ccedf`'dir ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. 17:29 oturumu 17:34:05'te 0 koduyla bitmiş, bu oturum da 18:00:03'te
+  zamanında başlamıştır. 17:29:24'teki beklemeden çıkıştan (507) bu yana güç olayı görülmemiştir.
+- Hasat (`npm run yargi:hasat-durum`, 18:01): Motor pid 13720 ile 20,3 saattir çalışmakta olup devre kapalıdır. 17:59:31'de Yargıtay
+  1. Hukuk Dairesinin E. 2021/8685 sayılı kararının tam metni istenirken günün ikinci captcha'sı gelmiş, yönetici de 543 sn mola vermiş
+  ve dakikada 2 olan hızı iki saatlik tavanla korumuştur (`_state/harvester.log`, mola 18:08:34'e kadar). İkinci captcha ilkinden 89
+  dakika sonra ve indirilmiş hızda gelmiştir. Son bir saatte 47 karar inmiş, 429 ve ağ hatası görülmemiştir. Arşiv 134.465'e çıkmış,
+  kuyruk 800 ve kalıcı hata 163'tür. Tarama 2021 yılının 08.03-09.03.2021 penceresinde olup seçilen pencere sayısı 309/565'tir. Yararlı
+  karar sayısı 51.473'e ulaşmıştır. Hız ayarına ve motora dokunulmamıştır.
+- Tam kapı koşulmamıştır. Günün kapısı 16:03'te 1018 testte geçmiş olup o zamandan bu yana yalnız `ILERLEME.md` ve `OTONOM.md`
+  değişmiştir, kod değişmedikçe kapı yeniden koşulmaz. Makine prizdedir (`BatteryStatus` 2, şarj %100) ve boş bellek 242 MB'tır.
+- Soru 29 ve 30 yanıtlanmamış olup soru dosyası 19 Ekim 11:02'den beri değişmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
+  değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri
+  yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
