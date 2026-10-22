@@ -1743,3 +1743,23 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   olup ölçülen eğilimden kısadır. Boş bellek 479 MB'tır.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi
   gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-22 03:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `59d22202a`'dır ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. 02:00 oturumu 02:03:59'da 0 koduyla bitmiş, bu oturum da 03:00:04'te
+  zamanında başlamıştır. Son iki saatte Kernel-Power kaydı görülmemiştir. Bugün perşembe olduğundan G08 bakımı sırası gelmemiştir.
+- Hasat (`npm run yargi:hasat-durum`, 03:02): Motor pid 13720 ile 29,3 saattir çalışmakta olup devre kapalıdır. 22 Ekim'in dördüncü
+  captcha'sı 02:07:26'da Yargıtay 19. Ceza Dairesinin E. 2020/2763 sayılı, beşincisi de 02:43:03'te 23. Hukuk Dairesinin E. 2018/2648
+  sayılı kararı istenirken gelmiş, yönetici 337 ve 430 sn mola vermiş ve hızı dakikada 2'de tutmuştur (`_state/harvester.log`, günlükteki
+  UTC saatler 23:07:26 ve 23:43:03). 01:28'den sonraki aralıklar 39 ve 36 dakika olup 30 dakikalık tırmandırma penceresinin üstünde
+  kalmıştır. Soru 31'deki döküm bu iki captcha'yla güncellenmiş, varsayım değişmemiştir. Son bir saatte 71 karar inmiş, 429 ve ağ hatası
+  görülmemiştir. Arşiv 135.144'e çıkmış, kuyruk 797 ve kalıcı hata 163'tür. Tarama 2020 yılının 12.09-15.09.2020 penceresinde olup seçilen
+  pencere sayısı 357/608'dir. Yararlı karar sayısı 51.905'e ulaşmıştır. Hız ayarına ve motora dokunulmamıştır.
+- Tam kapı koşulmamıştır. Günün kapısı 00:32'de 1018 testte geçmiş olup o zamandan bu yana yalnız plan belgeleri değişmiştir. Makine
+  pildedir (`BatteryStatus` 1, şarj %21) ve şarj yordamın %50 sınırının altında kaldığından uzun iş başlatılamaz. Şarj 02:01'den bu yana
+  bir saatte yine 10 puan azalmış olup bu hız sürerse %2'lik kritik düzey 04:55 dolayında aşılır ve makine uykuya geçebilir. Windows'un
+  anlık kalan süre tahmini 60 dk'dır. Uyku hâlinde oturumlar ve hasat duracağından devralmada hasat günlüğünün son satır saati kesinti
+  anını doğrulamak için okunur. Boş bellek 392 MB'tır.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi
+  gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
