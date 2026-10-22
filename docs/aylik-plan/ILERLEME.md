@@ -1828,3 +1828,22 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamıştır. Bugün perşembe olduğundan G08 sırası gelmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
   değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri
   yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-22 14:00 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `069f8cc4c`'tür ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. 13:24 oturumu 13:32:53'te 0 koduyla bitmiş, bu oturum 14:00:05'te
+  başlamıştır. 13:24:25'ten sonra Kernel-Power olayı bulunmadığından makine uyumamış olup istemdeki saat gerçek saatle örtüşmektedir.
+- Hasat (`npm run yargi:hasat-durum`, 14:02): Motor devre kapalı olarak sürmektedir. 22 Ekim'in dokuzuncu captcha'sı 13:54:18'de
+  Yargıtay 12. Hukuk Dairesinin E. 2021/3660 sayılı kararı istenirken gelmiş, yönetici 321 sn mola vermiş ve hızı dakikada 2'de
+  tutmuştur (`_state/harvester.log`, günlükteki UTC saat 10:54:18). 04:31'deki captcha'dan bu yana uyanık geçen süre, molayı da
+  içerecek biçimde yaklaşık 87 dakikadır. Soru 31'deki döküm bu captcha'yla güncellenmiş, varsayım değişmemiştir. Son bir saatte 50
+  karar inmiş, 429 ve ağ hatası görülmemiştir. Arşiv 135.384'e çıkmış, kuyruk 798 ve kalıcı hata 163'tür. Tarama 2020 yılının
+  02.06-03.06.2020 penceresinde olup seçilen pencere sayısı 378/625'tir. Yararlı karar sayısı 51.958'e ulaşmıştır. Hız ayarına ve
+  motora dokunulmamıştır.
+- Tam kapı koşulmamıştır. Günün kapısı 00:32'de 1018 testte geçmiş olup o zamandan bu yana yalnız plan belgeleri değişmiştir. Makine
+  pildedir (`BatteryStatus` 1) ve şarj 13:27'deki %88'den 14:03'te %73'e inmiştir. Bu hızla pil 15:00 dolayında yordamın %50 sınırının
+  altına iner. Boş bellek 320-357 MB arasındadır. Seçilebilir görev ve değişen kod bulunmadığından uzun iş başlatılmamıştır.
+- Soru 29 ve 30 yanıtlanmamıştır. Bugün perşembe olduğundan G08 sırası gelmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
+  değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri
+  yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
