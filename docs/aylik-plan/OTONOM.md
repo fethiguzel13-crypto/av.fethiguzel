@@ -98,7 +98,10 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
   Boşta uyku zaman aşımı kapalıdır (AC ve pil 0). 12–13 Ekim'deki üç uykunun nedeni «Battery» ve «Application API»dir (Sistem
   günlüğü Kernel-Power 42). Bu yüzden uyku kilidi kesintiyi önlemez. Kapak kapanınca makine 42 kaydı bırakmadan modern beklemeye
   girer, bu geçiş Kernel-Power 506 (giriş) ve 507 (çıkış, `neden: Lid`) olaylarıyla okunur (2026-10-19: 17:20-21:50 arasında 18:00-21:00
-  oturumları ve hasat bu yüzden çalışmamıştır). Kaçan oturum aranırken yalnız 42'ye bakılmaz. Kritik pil uykusu oturumu öldürmeden
+  oturumları ve hasat bu yüzden çalışmamıştır). Kaçan oturum aranırken yalnız 42'ye bakılmaz. Makine beklemedeyken kısa süreliğine
+  uyanabilir (kapak bir an açılınca ya da `neden: Austerity Battery Drain Budget Exceeded` ile aynı saniyede 507 ve 506). Bu uyanışta ağ
+  hazır olmadığından hasat günlüğüne `network ENOTFOUND` düşer ve karar kuyruğun başına döner, bu satır ağ arızası sayılmaz (2026-10-22
+  15:35 ve 22:07'deki iki hata, 23:13'teki uyanıştan sonra aynı iki kararın inmesiyle kapanmıştır). Kritik pil uykusu oturumu öldürmeden
   dondurur (2026-10-22: 05:00:03'te başlayan oturum 05:00:48'de «Battery» nedeniyle hazırda beklemeye geçmiş, makine 12:01'de prize
   takılınca kaldığı yerden sürmüş, hasat motoru da kendiliğinden devam etmiştir). Bu yüzden istemdeki saat gerçek saat sayılmaz,
   devralmada `Get-Date` okunur ve kayıt gerçek saatle yazılır. Uzun işten (tam mobil derleme, tam kapı) önce

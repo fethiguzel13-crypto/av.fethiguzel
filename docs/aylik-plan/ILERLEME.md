@@ -1847,3 +1847,25 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamıştır. Bugün perşembe olduğundan G08 sırası gelmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
   değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri
   yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-22 23:15 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `6c53c359a`'dır ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. 14:00 oturumu 14:04:19'da 0 koduyla bitmiştir. Kapak 14:15:32'de kapanmış
+  ve makine modern beklemeye girmiştir (Kernel-Power 506, neden «Lid»). Bekleme 14:25:04-14:25:17 ve 22:07:34-22:07:46 arasındaki iki
+  kısa kapak açılışıyla, 15:35:05'te de «Austerity Battery Drain Budget Exceeded» nedenli 507 ve 506 çiftiyle bölünmüş, 23:13:32'de kapak
+  açılınca sona ermiştir. 15:00-22:00 oturumları bu nedenle çalışmamıştır. Zamanlanmış görev uyanış anında kaçan tetiği yakalamış,
+  çalıştırıcı bu oturumu 23:15:35'te başlatmıştır. İstemdeki saat gerçek saatle örtüşmektedir.
+- Hasat (`npm run yargi:hasat-durum`, 23:21): Motor pid 13720 ile 49,6 saattir çalışmakta olup devre kapalıdır. Günlükte 11:25:08Z
+  (14:25:08) ile 20:13:34Z (23:13:34) arasında yalnız iki `network ENOTFOUND` satırı bulunmaktadır (15:35:11 ve 22:07:36). İkisi de bekleme
+  sırasındaki kısa uyanışlarda, ağ hazır değilken gelmiş olup ilgili iki karar 23:13'teki uyanıştan sonra inmiştir. Bu durum `OTONOM.md`'nin
+  tuzak listesine eklenmiştir. 13:54'teki captcha'dan sonra yeni captcha gelmemiştir. Uyanık geçen süre molayla birlikte yaklaşık 28
+  dakika olup 35-41 dakikalık aralıkların altında kaldığından bir şey göstermemekte, soru 31'e yalnız ağ hatalarının açıklaması
+  eklenmiştir. Arşiv 135.416'ya çıkmış, kuyruk 802 ve kalıcı hata 163'tür. Tarama 2020 yılının 01.03-31.03.2020 penceresinde olup seçilen
+  pencere sayısı 382/625'tir. Yararlı karar sayısı 51.963'e ulaşmıştır. Hız ayarına ve motora dokunulmamıştır.
+- Tam kapı koşulmamıştır. Günün kapısı 00:32'de 1018 testte geçmiş olup o zamandan bu yana yalnız plan belgeleri değişmiştir. Makine
+  pildedir (`BatteryStatus` 1) ve şarj, bekleme süren dokuz saatte 14:03'teki %73'ten 23:18'de %61'e inmiştir. Boş bellek 852 MB'tır.
+  Seçilebilir görev ve değişen kod bulunmadığından uzun iş başlatılmamıştır.
+- Soru 29 ve 30 yanıtlanmamıştır. Bugün perşembe olduğundan G08 sırası gelmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
+  değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri
+  yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
