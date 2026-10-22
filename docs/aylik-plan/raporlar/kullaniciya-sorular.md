@@ -185,7 +185,7 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     indirmekte, 30 dakika içinde ikinci captcha gelirse 30-45 dakikalık uzun mola vermektedir (`scripts/yargi-kararlari/harvester/governor.mjs`,
     `captcha` ve `blockedPauseMs`). Hız dakikada 2 olan tabanın altına inmez (`minPerMin`). 21 Ekim'de captcha 16:30, 17:59, 18:38, 19:20,
     19:57, 20:35, 21:09, 21:44, 22:20, 22:55 ve 23:34'te olmak üzere on bir kez gelmiş olup 17:59'dan sonraki aralıklar 39, 42, 37, 37, 34, 35, 37, 35 ve 39 dakikadır. Seri 22 Ekim'de
-    00:10, 00:46, 01:28, 02:07 ve 02:43'teki beş captcha'yla 36, 37, 41, 39 ve 36 dakikalık aralıklarla sürmüştür. Aralıklar 30 dakikalık
+    00:10, 00:46, 01:28, 02:07, 02:43, 03:19 ve 03:56'daki yedi captcha'yla 36, 37, 41, 39, 36, 37 ve 37 dakikalık aralıklarla sürmüştür. Aralıklar 30 dakikalık
     pencereye yaklaşmakla birlikte hep üstünde kaldığından uzun mola hiç devreye girmemiş, motor her kısa moladan sonra tabandaki hızla sürmüştür. Günlük sayı 11-19 Ekim
     arasında 1 ile 2 arasında kalmıştır. Devre kapalıdır, 429 ve ağ hatası görülmemiştir.
     *Varsayım:* başsız oturumlar yönetici ayarına ve motora dokunmaz, konu 26 Ekim pazartesi günkü G08 bakımında ele alınır. İki seçenek
