@@ -1783,3 +1783,27 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   yapılmıştır. Boş bellek 279 MB'tır.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi
   gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-22 05:00 (gerçek saat 12:05) — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `0209755a3`'tür ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. 04:00 oturumu 04:04:52'de 0 koduyla bitmiş, bu oturum 05:00:03'te
+  başlamıştır. Pil 05:00:46'da kritik düzeye inmiş, makine 05:00:48'de «Battery» nedeniyle hazırda beklemeye geçmiştir (Kernel-Power
+  524 ve 42). Makine 12:01:22'de prize takılınca uyanmış (507 «Resume from Hibernate», 105 güç kaynağı değişikliği) ve oturum kaldığı
+  yerden sürmüştür. Bu nedenle 06:00-12:00 oturumları çalışmamış, kayıt gerçek saatle yazılmıştır. 04:00 kaydında 05:05 dolayı için
+  öngörülen kritik düzey 05:00:46'da gelmiştir.
+- Hasat (`npm run yargi:hasat-durum`, 12:06): Motor pid 13720 hazırda beklemeden sağ çıkmış olup devre kapalıdır. Günlükte 02:00:45Z
+  (05:00:45) ile 09:01:29Z (12:01:29) arasında satır bulunmamakta, motor uyanınca anlık görüntü yazıp kendiliğinden sürmektedir.
+  22 Ekim'in sekizinci captcha'sı 04:31:45'te Yargıtay 3. Ceza Dairesinin E. 2021/3344 sayılı kararı istenirken gelmiş, yönetici 500 sn
+  mola vermiş ve hızı dakikada 2'de tutmuştur (`_state/harvester.log`, günlükteki UTC saat 01:31:45). 03:56'dan sonraki aralık 35 dakika
+  olup 30 dakikalık tırmandırma penceresinin üstünde kalmıştır. Soru 31'deki döküm bu captcha'yla güncellenmiş, varsayım değişmemiştir.
+  Uyku nedeniyle son bir saatte yalnız 7 karar inmiş, 429 ve ağ hatası görülmemiştir. Arşiv 135.295'e çıkmış, kuyruk 797 ve kalıcı
+  hata 163'tür. Tarama 2020 yılının 19.06-22.06.2020 penceresinde olup seçilen pencere sayısı 371/619'dur. Yararlı karar sayısı
+  51.946'ya ulaşmıştır. Hız ayarına ve motora dokunulmamıştır.
+- Tam kapı koşulmamıştır. Günün kapısı 00:32'de 1018 testte geçmiş olup o zamandan bu yana yalnız plan belgeleri değişmiştir. Makine
+  prizdedir (`BatteryStatus` 2) ve şarj 12:05'te %3, 12:09'da %7'dir. Boş bellek 389-615 MB arasındadır. Pil kuralı prizde uzun işe
+  izin vermekle birlikte seçilebilir görev ve değişen kod bulunmadığından uzun iş başlatılmamıştır.
+- OTONOM'un uyku maddesine, kritik pil uykusunun oturumu öldürmeden dondurduğu ve istemdeki saatin gerçek saat sayılmayacağı
+  eklenmiştir.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi
+  gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
