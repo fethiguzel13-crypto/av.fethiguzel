@@ -1869,3 +1869,26 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamıştır. Bugün perşembe olduğundan G08 sırası gelmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
   değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri
   yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-23 00:00 — izleme, günün tam kapısı pil nedeniyle ertelendi (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `1dd2a15fc`'dir ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. 23:15 oturumu 23:22:47'de 0 koduyla bitmiş, bu oturum da 00:00:07'de
+  zamanında başlamıştır. 23:13:32'deki uyanıştan sonra Kernel-Power olayı bulunmadığından makine uyumamış olup istemdeki saat gerçek
+  saatle örtüşmektedir.
+- Hasat (`npm run yargi:hasat-durum`, 00:02): Motor pid 13720 ile 50,3 saattir çalışmakta olup devre kapalıdır. 22 Ekim'in onuncu
+  captcha'sı 23:42:51'de 08.03-11.03.2020 penceresinin sayımı istenirken gelmiş, yönetici 506 sn mola vermiş ve hızı dakikada 2'de
+  tutmuştur (`_state/harvester.log`, günlükteki UTC saat 20:42:51). 13:54'teki captcha'dan bu yana uyanık geçen süre, molayı da içerecek
+  biçimde yaklaşık 51 dakikadır. Soru 31'deki döküm bu captcha'yla güncellenmiş, varsayım değişmemiştir. Son bir saatte 60 karar inmiş,
+  429 ve ağ hatası görülmemiştir. Arşiv 135.468'e çıkmış, kuyruk 795 ve kalıcı hata 163'tür. Tarama 2020 yılının 04.03-07.03.2020
+  penceresinde olup seçilen pencere sayısı 385/629'dur. Yararlı karar sayısı 51.970'e ulaşmıştır. Hız ayarına ve motora dokunulmamıştır.
+- Tam kapı: Günün ilk oturumu olmasına karşın `npm run kalite` başlatılmamıştır. Makine pildedir (`BatteryStatus` 1) ve şarj 00:00:55'te
+  %50, 00:02'de %49, 00:03'te %48 okunmuş olup yordamın %50 sınırının altına inmiştir. Şarj 23:18'deki %61'den 45 dakikada 13 puan
+  düşmüştür. Saatte yaklaşık 17 puanlık bu hız sürerse kritik düzey (%2) 02:45 dolayında aşılır ve makine hazırda beklemeye geçer. 22
+  Ekim'de 2 işçili kapı pili 30 dakikada 11 puan, yani kapısız hızın 6 puan üstünde düşürmüş olup aynı kapı bugün bu anı ve hasatın
+  duruşunu yaklaşık 20 dakika öne çekerdi. Boş bellek 152-579 MB arasında okunmuştur. Son kapı 22 Ekim 00:32'de 1018 testte geçmiş, o zamandan bu yana yalnız plan
+  belgeleri değişmiştir. Bu yüzden ertelemenin kod açısından bir sakıncası görülmemiş, günün kapısı makine prize takıldıktan sonraki
+  ilk oturuma bırakılmıştır.
+- Soru 29 ve 30 yanıtlanmamıştır. Bugün cuma olduğundan G08 sırası gelmemiştir (26 Ekim pazartesi). Seçilebilir `[ ]` görev
+  bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım,
+  makine prize takılınca günün tam kapısını koşmak ve sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
