@@ -1807,3 +1807,24 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   eklenmiştir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi
   gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-22 13:24 — izleme (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `c49ca1d14`'tür ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124 boştur. 05:00 oturumu 12:10:22'de 0 koduyla bitmiştir. Kapak 12:29:40'ta kapanmış,
+  12:31:54-12:32:05 arasında kısa bir süre açılmış ve makine 13:24:25'te kapak açılınca modern beklemeden çıkmıştır (Kernel-Power 506 ve
+  507, neden «Lid»). Bu nedenle 13:00 oturumu çalışmamış, çalıştırıcı bu oturumu uyanıştan 28 sn sonra 13:24:53'te başlatmıştır. İstemdeki
+  saat gerçek saatle örtüşmektedir.
+- Hasat (`npm run yargi:hasat-durum`, 13:28): Motor pid 13720 ile 39,7 saattir çalışmakta olup devre kapalıdır. Günlükte 09:31:54Z
+  (12:31:54) ile 10:24:28Z (13:24:28) arasında satır bulunmamakta, motor kapak kapalıyken durmuş ve uyanınca kendiliğinden sürmüştür.
+  04:31'deki captcha'dan sonra yeni captcha gelmemiş olup motor bu arada uyanık geçen ve molayı da içeren yaklaşık 65 dakika çalışmıştır.
+  Bu süre 22 Ekim'deki 35-41 dakikalık aralıkların üstünde kaldığından soru 31'e bir cümle eklenmiş, varsayım değişmemiştir. Uyku
+  nedeniyle son bir saatte yalnız 8 karar inmiş, 429 ve ağ hatası görülmemiştir. Arşiv 135.340'a çıkmış, kuyruk 801 ve kalıcı hata
+  163'tür. Tarama 2020 yılının 08.06-11.06.2020 penceresinde olup seçilen pencere sayısı 375/622'dir. Yararlı karar sayısı 51.951'e
+  ulaşmıştır. Hız ayarına ve motora dokunulmamıştır.
+- Tam kapı koşulmamıştır. Günün kapısı 00:32'de 1018 testte geçmiş olup o zamandan bu yana yalnız plan belgeleri değişmiştir. Makine
+  pildedir (`BatteryStatus` 1) ve şarj 12:09'daki %7'den 13:27'de %88'e çıkmıştır. Boş bellek 1046 MB'tır. Pil kuralı uzun işe izin
+  vermekle birlikte seçilebilir görev ve değişen kod bulunmadığından uzun iş başlatılmamıştır.
+- Soru 29 ve 30 yanıtlanmamıştır. Bugün perşembe olduğundan G08 sırası gelmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
+  değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri
+  yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
