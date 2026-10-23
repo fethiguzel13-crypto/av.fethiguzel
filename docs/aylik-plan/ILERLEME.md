@@ -1892,3 +1892,35 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamıştır. Bugün cuma olduğundan G08 sırası gelmemiştir (26 Ekim pazartesi). Seçilebilir `[ ]` görev
   bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım,
   makine prize takılınca günün tam kapısını koşmak ve sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-23 12:00 — izleme, makine prize takılı (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `2623f64ca`. Araya giren başka oturum commit'i yok. 17 Ekim 00:13'teki dosyalar (scripts/karar-arama/) dokunulmamış. Bugün cuma saat 12:00; makine AC'dedir (pil önceki saatlerde %50'nin altında kalmış).
+- Değişiklikler: `.gitignore`, `package.json` (+3 komut), `scripts/kalite.mjs` (test) — karar-arama integrasyon değişiklikleri. Kaynağı bilinmiyor (diğer oturumların "seçilebilir görev yok" günlükleriyle çelişiyor). İntegrasyonu geçerli kabul edip kalite kontrol koşmuş.
+- Düzeltme (13:00 oturumunca eklendi): Bu kayıt yarım kalmıştır. Oturum 12:00:28'de başlamış, 12:02-12:14 arasında kapak kapalı
+  kalmış ve 12:15:52'de commit atmadan bitmiştir. Arka planda başlattığı `kalite:hizli` oturumla birlikte ölmüş olup çıktı dosyası
+  boştur, yani "kalite kontrol koşmuş" ifadesi doğru değildir. Adı geçen `.gitignore`, `package.json` ve `scripts/kalite.mjs`
+  değişiklikleri `scripts/karar-arama/` ile aynı anda, 17 Ekim 00:13'te yazılmış olup önceki bütün kayıtlarda başka oturumun dosyaları
+  sayılmıştır. Commit'leri soru 29'la kullanıcıya bırakılmıştır, bu yüzden başsız oturumca eklenmez.
+
+## 2026-10-23 13:00 — günün tam kapısı prizde geçti (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `2623f64ca`'dır ve araya giren commit olmamıştır. Başka oturumun dosyaları 17 Ekim 00:13'teki
+  hâlinde olup bunlara dokunulmamıştır. 12:00 oturumunun yarım kaydı yukarıda düzeltilmiştir. 3123 ve 3124 boştur,
+  `.next/dev/types/validator.ts` yoktur. Bu oturum 13:00:35'te zamanında başlamıştır.
+- Güç olayları: 00:00 oturumundan sonra makine 00:55:17'de «Application API» nedeniyle uykuya geçmiş (Kernel-Power 42 ve 187), hasat
+  motoru da 00:55:10'da SIGHUP ile düzenli biçimde durmuştur. Makine 11:42:06'da hazırda bekletmeden dönmüş ve `hasat-servis` motoru
+  11:42:30'da pid 54468 ile yeniden başlatmıştır. Bu yüzden 01:00-11:00 oturumları çalışmamıştır. Kapak 12:02-12:14 arasında kapalı
+  kalmış, 12:30:18'de güç kaynağı değişmiştir (Kernel-Power 105). Makine bu oturumda prizdedir (`BatteryStatus` 2, şarj 13:00'te %50,
+  13:14'te %58).
+- Tam kapı (`npm run kalite`, 13:02-13:18): 1018 testte geçmiştir. Boş bellek 801 MB olduğundan derleme 4 işçiyle 533 sn sürmüş, e2e
+  adımı 189 sn'de 44/44 geçmiştir. Derlemenin yeniden ürettiği site haritaları, `publishable.json` ve `site-search-index.json` geri
+  alınmıştır. 00:00 oturumunun pil nedeniyle ertelediği günün kapısı böylece koşulmuştur.
+- Hasat (`npm run yargi:hasat-durum`, 13:18): Motor pid 54468 ile 1,6 saattir çalışmakta olup devre kapalıdır. 23 Ekim'in ilk captcha'sı
+  00:20'de (571 sn mola), ikincisi 12:45'te (372 sn mola) gelmiştir. 12:14:52'deki `network ENOTFOUND` kapağın açıldığı saniyede
+  gelmiş ve aynı karar 42 sn sonra inmiştir. Soru 31'deki döküm bu olaylarla güncellenmiş, varsayım değişmemiştir. Son bir saatte 87
+  karar inmiş, 429 görülmemiştir. Arşiv 135.657'ye çıkmış, kuyruk 798 ve kalıcı hata 163'tür. Tarama 2020 yılının 16.01-31.01.2020
+  penceresinde olup seçilen pencere sayısı 399/641'dir. Yararlı karar sayısı 52.033'e ulaşmıştır. Hız ayarına ve motora dokunulmamıştır.
+- Soru 29 ve 30 yanıtlanmamıştır. Bugün cuma olduğundan G08 sırası gelmemiştir (26 Ekim pazartesi). Seçilebilir `[ ]` görev
+  bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiş, 12:00 oturumunun
+  yanlış sınıflandırması gözlem 225 olarak yazılmıştır. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
