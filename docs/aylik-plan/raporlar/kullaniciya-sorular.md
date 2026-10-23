@@ -195,7 +195,8 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     11:42'deki yeniden başlamasından sonra kapağın kapalı kaldığı 12:02-12:14 aralığı düşülünce uyanık geçen yaklaşık 51 dakikadan sonra
     gelmiş, yönetici 372 sn mola vermiştir. 12:14'teki `ENOTFOUND` kapağın açıldığı saniyede gelmiş olup karar 42 sn sonra inmiştir.
     Makine 13:15'ten sonra uyumamış, seri üçüncü, dördüncü ve beşinci captcha'yla 13:22'de (349 sn mola), 13:58'de (401 sn mola) ve
-    14:32'de (525 sn mola) 37, 36 ve 34 dakikalık aralıklarla sürmüştür. Uyanık geçen her aralık yine 30 dakikanın üstünde kaldığından uzun mola devreye girmemiştir.
+    14:32'de (525 sn mola) 37, 36 ve 34 dakikalık aralıklarla sürmüştür. Altıncı, yedinci ve sekizinci captcha 15:12'de (410 sn mola),
+    15:47'de (537 sn mola) ve 16:26'da (483 sn mola) 40, 35 ve 39 dakikalık aralıklarla gelmiştir. Uyanık geçen her aralık yine 30 dakikanın üstünde kaldığından uzun mola devreye girmemiştir.
     *Varsayım:* başsız oturumlar yönetici ayarına ve motora dokunmaz, konu 26 Ekim pazartesi günkü G08 bakımında ele alınır. İki seçenek
     vardır: tabanı dakikada 1'e indirmek ya da `captcha.windowMs`'i 60 dakikaya çıkarıp uzun molayı devreye sokmak. İkisi de ayar
     değişikliği ve `hasat-servis.ps1` ile motorun yeniden başlatılmasını gerektirir.
