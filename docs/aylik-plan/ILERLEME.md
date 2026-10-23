@@ -1942,3 +1942,23 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamış, sorular dosyası 13:02'den beri kullanıcı tarafından değiştirilmemiştir. Bugün cuma olduğundan G08 sırası
   gelmemiştir (26 Ekim pazartesi). Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi
   gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
+
+## 2026-10-23 15:00 — izleme, makine prizde (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `c79cc02ef` olup araya giren commit yoktur. Başka oturumun dosyaları (`.gitignore`,
+  `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) 17 Ekim 00:13'teki hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124
+  boştur, `.next/dev/types/validator.ts` yoktur. Oturum 15:00:35'te zamanında başlamıştır.
+- Güç: 13:15'ten bu yana Kernel-Power olayı yoktur, yani makine uyumamış ve kapak kapanmamıştır. Makine prizdedir (`BatteryStatus` 2,
+  şarj 15:01'de %100), boş bellek 647 MB'tır.
+- Kapı: Günün tam kapısı 13:00 oturumunda 1018 testte geçmiş, o zamandan bu yana yalnız plan belgeleri değişmiştir. Bu yüzden yeni
+  kapı koşulmamıştır.
+- Hasat (`npm run yargi:hasat-durum`, 15:02): Motor 11:42'den beri pid 54468 ile çalışmakta olup devre kapalıdır. 23 Ekim'in beşinci
+  captcha'sı 14:32'de 34 dakikalık aralıkla gelmiş, yönetici 525 sn mola vermiştir. Soru 31'deki döküm bu olayla güncellenmiş, varsayım
+  değişmemiştir. Son bir saatte 76 karar inmiş olup 429 ve ağ hatası görülmemiştir. Arşiv 135.783'e çıkmış, kuyruk 810 ve kalıcı hata
+  163'tür. 2020 yılının ilk geçişindeki pencereler 14:59'da bitmiş ve tarama 2019 yılının 16.12-19.12.2019 penceresine geçmiştir. Seçilen
+  pencere sayısı 409/650'dir. 2020 planda hâlâ `tarama` aşamasında olup durum satırı etkin olmayan tarama yıllarını göstermediğinden
+  «Yıllar» satırında yer almamaktadır, bu bir arıza sayılmamıştır. Yararlı karar sayısı 52.108'e ulaşmıştır. Hız ayarına ve motora
+  dokunulmamıştır.
+- Soru 29 ve 30 yanıtlanmamış, sorular dosyası 14:02'deki başsız güncellemeden beri değişmemiştir. Bugün cuma olduğundan G08 sırası
+  gelmemiştir (26 Ekim pazartesi). Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Gözlem günlüğünün gözden geçirmesi
+  gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı payına eşlik etmektir.
