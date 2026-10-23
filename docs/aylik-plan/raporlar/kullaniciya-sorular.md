@@ -199,7 +199,8 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     15:47'de (537 sn mola) ve 16:26'da (483 sn mola) 40, 35 ve 39 dakikalık aralıklarla gelmiştir. Dokuzuncu ve onuncu captcha 17:03'te (371 sn mola) ve
     17:40'ta (527 sn mola) 37'şer dakikalık aralıkla gelmiştir. On birinci ve on ikinci captcha 18:19'da (453 sn mola) ve 18:57'de
     (355 sn mola) 39 ve 38 dakikalık aralıklarla gelmiştir. On üçüncü captcha 19:33'te 36 dakikalık aralıkla gelmiş, yönetici 591 sn
-    mola vermiştir. 19:49'daki tek `network` hatası makine uyanıkken bir arama isteğinde görülmüş, aynı sayfa 45 sn sonra inmiştir. Uyanık geçen her aralık yine 30 dakikanın üstünde kaldığından uzun mola devreye girmemiştir.
+    mola vermiştir. 19:49'daki tek `network` hatası makine uyanıkken bir arama isteğinde görülmüş, aynı sayfa 45 sn sonra inmiştir. On dördüncü ve on beşinci captcha 20:13'te (440 sn mola) ve 20:49'da
+    (341 sn mola) 40 ve 37 dakikalık aralıklarla gelmiştir. Uyanık geçen her aralık yine 30 dakikanın üstünde kaldığından uzun mola devreye girmemiştir.
     *Varsayım:* başsız oturumlar yönetici ayarına ve motora dokunmaz, konu 26 Ekim pazartesi günkü G08 bakımında ele alınır. İki seçenek
     vardır: tabanı dakikada 1'e indirmek ya da `captcha.windowMs`'i 60 dakikaya çıkarıp uzun molayı devreye sokmak. İkisi de ayar
     değişikliği ve `hasat-servis.ps1` ile motorun yeniden başlatılmasını gerektirir.
