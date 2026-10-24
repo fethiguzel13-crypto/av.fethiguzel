@@ -2117,3 +2117,20 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamış olup bugün cumartesi olduğundan G08 sırası gelmemiştir (26 Ekim pazartesi). Seçilebilir `[ ]` görev
   bulunmadığından kod değiştirilmemiştir. Sıradaki oturumlar tam metin servisinin açılıp açılmadığını izler. Servis 25 Ekim akşamına
   kadar kapalı kalırsa durum `raporlar/hasat-haftalik.md`'ye tek satırla yazılır.
+
+## 2026-10-24 09:00 — izleme, makine pilde (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `accdbe6db` olup araya giren commit yoktur. Başka oturumun dosyaları (`.gitignore`,
+  `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) 17 Ekim 00:13'teki hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124
+  boştur, `.next/dev/types/validator.ts` yoktur. Oturum 09:00:57'de zamanında başlamıştır.
+- Güç: Makine 07:57'deki uyanıştan bu yana uyumamış, 08:57'de prizden çekilmiştir (Kernel-Power 105). Oturum başında makine pildedir
+  (`BatteryStatus` 1, şarj %94), boş bellek 998 MB'tır.
+- Kapı: Günün tam kapısı 08:00 oturumunda 1018 testte geçmiş, o zamandan bu yana yalnız plan belgeleri değişmiştir. Bu yüzden yeni kapı
+  koşulmamıştır.
+- Hasat (`npm run yargi:hasat-durum`, 09:01): Motor pid 42072 ile çalışmakta olup tam metin servisi kapalı olduğu için hâlâ moladadır.
+  Son bir saatte karar inmemiş, son `endpoint-down` kaydı 08:40'tadır. Uyanıştan bu yana captcha gelmediğinden soru 31 değişmemiştir.
+  Devre kapalı olup 429 ve ağ hatası görülmemiştir. Arşiv 136.447, kuyruk 802 ve kalıcı hata 163'te sabittir. Tarama 2019 yılının
+  28.05-29.05.2019 penceresinde olup seçilen pencere sayısı 459/695'tir. Hız ayarına ve motora dokunulmamıştır.
+- Soru 29 ve 30 yanıtlanmamış, sorular dosyası 08:07'deki başsız güncellemeden beri kullanıcı tarafından değiştirilmemiştir. Bugün
+  cumartesi olduğundan G08 sırası gelmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Sıradaki oturumlar tam
+  metin servisini izlemeyi sürdürür, servis 25 Ekim akşamına kadar açılmazsa durum `raporlar/hasat-haftalik.md`'ye yazılır.
