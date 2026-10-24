@@ -2134,3 +2134,22 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamış, sorular dosyası 08:07'deki başsız güncellemeden beri kullanıcı tarafından değiştirilmemiştir. Bugün
   cumartesi olduğundan G08 sırası gelmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Sıradaki oturumlar tam
   metin servisini izlemeyi sürdürür, servis 25 Ekim akşamına kadar açılmazsa durum `raporlar/hasat-haftalik.md`'ye yazılır.
+
+## 2026-10-24 10:00 — izleme, tam metin servisi açılmış (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `b5fabbdc6` olup araya giren commit yoktur. Başka oturumun dosyaları (`.gitignore`,
+  `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) 17 Ekim 00:13'teki hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124
+  boştur, `.next/dev/types/validator.ts` yoktur. Oturum 10:00:34'te zamanında başlamıştır.
+- Güç: Makine pilde kalmış, 09:34:35-09:36:01 arasında kapak kapandığı için kısa bir modern beklemeye girmiştir (Kernel-Power 506 ve
+  507, `neden: Lid`). Oturum başında makine pildedir (`BatteryStatus` 1, şarj %79), boş bellek 1170 MB'tır.
+- Kapı: Günün tam kapısı 08:00 oturumunda 1018 testte geçmiş, o zamandan bu yana yalnız plan belgeleri değişmiştir. Bu yüzden yeni kapı
+  koşulmamıştır.
+- Hasat (`npm run yargi:hasat-durum`, 10:01): Tam metin servisi 09:04:37'de açılmış ve motor kendiliğinden sürmüştür, yani 05:40 UTC'deki
+  son `endpoint-down` kaydından sonra ilk inen karar, 08:00'den beri kuyruğun başında bekleyen 12. Hukuk Dairesi E. 2019/6204 kararıdır.
+  Son bir saatte 86 karar inmiş olup kısa beklemedeki ağ kesintisi hasat günlüğüne hata düşürmemiştir. Uyanıştan bu yana captcha
+  gelmediğinden soru 31 değişmemiştir. Devre kapalı olup 429 ve ağ hatası görülmemiştir. Arşiv 136.533, kuyruk 805 ve kalıcı hata
+  163'tür. Tarama 2019 yılının 08.05-11.05.2019 penceresinde olup seçilen pencere sayısı 466/700, yararlı karar sayısı 52.368'dir. Hız
+  ayarına ve motora dokunulmamıştır.
+- Soru 29 ve 30 yanıtlanmamış, sorular dosyası 08:07'deki başsız güncellemeden beri kullanıcı tarafından değiştirilmemiştir. Bugün
+  cumartesi olduğundan G08 sırası gelmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Servis açıldığı için
+  `raporlar/hasat-haftalik.md`'ye yazılacak kesinti satırına gerek kalmamış, kesinti 26 Ekim'deki G08 bakımında haftalık özete girer.
