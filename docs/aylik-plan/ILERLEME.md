@@ -2098,3 +2098,22 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   olduğundan G08 sırası gelmemiştir (26 Ekim pazartesi). Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Gözlem
   günlüğünün gözden geçirmesi gözlem 202'deki gerekçeyle ertelenmiştir. Sıradaki adım, sorulardan biri yanıtlanınca G26'nın kullanıcı
   payına eşlik etmektir.
+
+## 2026-10-24 08:00 — günün ilk oturumu, tam kapı yeşil (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `e67ba800a` olup araya giren commit yoktur. Başka oturumun dosyaları (`.gitignore`,
+  `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) 17 Ekim 00:13'teki hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124
+  boştur, `.next/dev/types/validator.ts` yoktur. Oturum 08:03'te başlamıştır.
+- Güç: Makine 23 Ekim 23:58'de «Application API» nedeniyle uykuya geçmiş (Kernel-Power 187 ve 42), 24 Ekim 07:57'de uyanmıştır. Bu
+  yüzden 00:00-07:00 oturumları çalışmamıştır. Oturum başında makine prizdedir (`BatteryStatus` 2, şarj %95), boş bellek 898 MB'tır.
+- Kapı: Günün ilk oturumu olduğundan `npm run kalite` koşulmuş ve 1018 testte geçmiştir. Derleme 5 işçiyle 743 sn, e2e 200 sn, kapının
+  tamamı yaklaşık 24 dk sürmüştür. Derlemenin yeniden ürettiği site haritası ve dizin dosyaları geri alınmıştır.
+- Hasat (`npm run yargi:hasat-durum`, 08:29): Servis motoru 07:57'de pid 42072 ile yeniden başlatmıştır. 23 Ekim'in on dokuzuncu ve
+  yirminci captcha'sı 23:17'de (327 sn mola) ve 23:52'de (497 sn mola) 38 ve 35 dakikalık aralıklarla gelmiş, soru 31'deki döküm bu iki
+  olayla güncellenmiş ve varsayım değişmemiştir. Uyanıştan bu yana `getDokuman` bakanlık sayfası döndüğü için motor moladadır (180, 360
+  ve 720 sn'lik basamaklı molalar), yani 08:00'den beri tam metin inmemiştir. 19 Ekim sabahındaki kesintide olduğu gibi servis açılınca
+  motor kendiliğinden sürer. Devre kapalı olup 429 ve ağ hatası görülmemiştir. Arşiv 136.447, kuyruk 802 ve kalıcı hata 163'tür. Tarama
+  2019 yılının 30.05-31.05.2019 penceresindedir, yararlı karar sayısı 52.361'dir. Hız ayarına ve motora dokunulmamıştır.
+- Soru 29 ve 30 yanıtlanmamış olup bugün cumartesi olduğundan G08 sırası gelmemiştir (26 Ekim pazartesi). Seçilebilir `[ ]` görev
+  bulunmadığından kod değiştirilmemiştir. Sıradaki oturumlar tam metin servisinin açılıp açılmadığını izler. Servis 25 Ekim akşamına
+  kadar kapalı kalırsa durum `raporlar/hasat-haftalik.md`'ye tek satırla yazılır.
