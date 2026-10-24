@@ -2153,3 +2153,23 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamış, sorular dosyası 08:07'deki başsız güncellemeden beri kullanıcı tarafından değiştirilmemiştir. Bugün
   cumartesi olduğundan G08 sırası gelmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Servis açıldığı için
   `raporlar/hasat-haftalik.md`'ye yazılacak kesinti satırına gerek kalmamış, kesinti 26 Ekim'deki G08 bakımında haftalık özete girer.
+
+## 2026-10-24 13:00 — izleme, 11:00 ve 12:00 oturumları kullanım sınırına takılmış (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `79efdf252` olup araya giren commit yoktur. 11:00 ve 12:00 oturumları başladıktan 13 ve 24 sn
+  sonra çıkış kodu 1 ile bitmiş, `logs/otonom/20261024-1100.log` ve `-1200.log` dosyalarında yalnız *You've hit your session limit ·
+  resets 1pm* iletisi bulunmaktadır. Bu iki oturum kayıt ve commit bırakmamış olup sınır 13:00'te yenilenmiştir. Başka oturumun dosyaları
+  (`.gitignore`, `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) 17 Ekim 00:13'teki hâlinde olup bunlara dokunulmamıştır.
+  3123 ve 3124 boştur, `.next/dev/types/validator.ts` yoktur. Oturum 13:00:33'te başlamıştır.
+- Güç: 10:00'dan bu yana Kernel-Power olayı görülmemiş olup makine uyumamıştır. Oturum başında makine pildedir (`BatteryStatus` 1, şarj
+  %42), boş bellek 875 MB'tır. Pil %50'nin altında olduğundan uzun iş başlatılmamıştır.
+- Kapı: Günün tam kapısı 08:00 oturumunda 1018 testte geçmiş, o zamandan bu yana yalnız plan belgeleri değişmiştir. Bu yüzden yeni kapı
+  koşulmamıştır.
+- Hasat (`npm run yargi:hasat-durum`, 13:01): Motor kendiliğinden sürmekte olup son bir saatte 71 karar inmiştir. Tam metin servisi
+  açıldıktan sonra beş captcha gelmiştir: 10:05 (590 sn), 10:45 (592 sn), 11:25 (536 sn), 12:03 (476 sn) ve 12:42 (312 sn). Aralıklar
+  40, 40, 38 ve 39 dakika olduğundan uzun mola devreye girmemiş, bu beş olay soru 31'e eklenmiştir. Devre kapalı olup 429 ve ağ hatası
+  görülmemiştir. Arşiv 136.745, kuyruk 799 ve kalıcı hata 163'tür. Tarama 2019 yılının 24.03-25.03.2019 penceresinde olup seçilen pencere
+  sayısı 482/715, yararlı karar sayısı 52.460'tır. Hız ayarına ve motora dokunulmamıştır.
+- Soru 29 ve 30 yanıtlanmamış, sorular dosyası 08:07'deki başsız güncellemeden beri kullanıcı tarafından değiştirilmemiştir. Bugün
+  cumartesi olduğundan G08 sırası gelmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Sıradaki oturumlar hasadı
+  izlemeyi sürdürür, captcha ayarı 26 Ekim pazartesi günkü G08 bakımında ele alınır.
