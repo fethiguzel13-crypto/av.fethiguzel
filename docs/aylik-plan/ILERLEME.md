@@ -2190,3 +2190,20 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   dokunulmamıştır.
 - Soru 29 ve 30 yanıtlanmamıştır. Bugün cumartesi olduğundan G08 sırası gelmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
   değiştirilmemiştir. Sıradaki oturumlar hasadı izlemeyi sürdürür, captcha ayarı 26 Ekim pazartesi günkü G08 bakımında ele alınır.
+
+## 2026-10-24 15:00 — izleme, makine prizde ve tam şarjlı (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `c32f80b3d` olup araya giren commit yoktur. Başka oturumun dosyaları (`.gitignore`,
+  `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) 17 Ekim 00:13'teki hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124
+  boştur, `.next/dev/types/validator.ts` yoktur. Oturum 15:00:49'da zamanında başlamıştır.
+- Güç: Son bir saatte Kernel-Power olayı görülmemiş olup makine uyumamıştır. Oturum başında makine prizdedir (`BatteryStatus` 2, şarj
+  %100), boş bellek 783 MB'tır.
+- Kapı: Günün tam kapısı 08:00 oturumunda 1018 testte geçmiş, o zamandan bu yana yalnız plan belgeleri değişmiştir. Bu yüzden yeni kapı
+  koşulmamıştır.
+- Hasat (`npm run yargi:hasat-durum`, 15:01): Motor kendiliğinden sürmekte olup son bir saatte 76 karar inmiştir. Sekizinci captcha
+  14:30'da (588 sn mola) 34 dakikalık aralıkla gelmiş, uzun mola devreye girmemiş ve bu olay soru 31'e eklenmiştir. Devre kapalı olup 429
+  ve ağ hatası görülmemiştir. Arşiv 136.890, kuyruk 801 ve kalıcı hata 163'tür. Tarama 2019 yılının 25.02-26.02.2019 penceresinde olup
+  seçilen pencere sayısı 494/727, yararlı karar sayısı 52.572'dir. Hız ayarına ve motora dokunulmamıştır.
+- Soru 29 ve 30 yanıtlanmamıştır. Bugün cumartesi olduğundan G08 sırası gelmemiştir. Seçilebilir `[ ]` görev bulunmadığından (G00 ve G26
+  kullanıcı eylemi bekler) kod değiştirilmemiştir. Sıradaki oturumlar hasadı izlemeyi sürdürür, captcha ayarı 26 Ekim pazartesi günkü G08
+  bakımında ele alınır.
