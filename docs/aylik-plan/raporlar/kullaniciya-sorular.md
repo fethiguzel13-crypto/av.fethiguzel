@@ -206,7 +206,8 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     gelmiş, makine 23:58'de «Application API» nedeniyle uykuya geçip 24 Ekim 07:57'de uyanmıştır. Uyanık geçen her aralık yine 30 dakikanın üstünde kaldığından uzun mola devreye girmemiştir.
     Tam metin servisi 09:04'te açıldıktan sonra 24 Ekim'in ilk beş captcha'sı 10:05'te (590 sn mola), 10:45'te (592 sn mola), 11:25'te
     (536 sn mola), 12:03'te (476 sn mola) ve 12:42'de (312 sn mola) 40, 40, 38 ve 39 dakikalık aralıklarla gelmiş olup uzun mola yine
-    devreye girmemiştir.
+    devreye girmemiştir. Altıncı ve yedinci captcha 13:17'de (399 sn mola) ve 13:56'da (316 sn mola) 35 ve 39 dakikalık aralıklarla
+    gelmiş, uzun mola bu kez de devreye girmemiştir.
     *Varsayım:* başsız oturumlar yönetici ayarına ve motora dokunmaz, konu 26 Ekim pazartesi günkü G08 bakımında ele alınır. İki seçenek
     vardır: tabanı dakikada 1'e indirmek ya da `captcha.windowMs`'i 60 dakikaya çıkarıp uzun molayı devreye sokmak. İkisi de ayar
     değişikliği ve `hasat-servis.ps1` ile motorun yeniden başlatılmasını gerektirir.

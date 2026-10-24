@@ -2173,3 +2173,20 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamış, sorular dosyası 08:07'deki başsız güncellemeden beri kullanıcı tarafından değiştirilmemiştir. Bugün
   cumartesi olduğundan G08 sırası gelmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod değiştirilmemiştir. Sıradaki oturumlar hasadı
   izlemeyi sürdürür, captcha ayarı 26 Ekim pazartesi günkü G08 bakımında ele alınır.
+
+## 2026-10-24 14:00 — izleme, makine prize takılmış (başsız oturum, açık ajan görevi yok)
+
+- Devralma: `DURAKLAT` yok, son commit `9723ccada` olup araya giren commit yoktur. Başka oturumun dosyaları (`.gitignore`,
+  `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) 17 Ekim 00:13'teki hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124
+  boştur, `.next/dev/types/validator.ts` yoktur. Oturum 14:00:31'de zamanında başlamıştır.
+- Güç: Makine 13:10:22'de prize takılmış olup (Kernel-Power 105) uyku olayı görülmemiştir. Oturum başında makine prizdedir
+  (`BatteryStatus` 2, şarj %88), boş bellek 411 MB'tır.
+- Kapı: Günün tam kapısı 08:00 oturumunda 1018 testte geçmiş, o zamandan bu yana yalnız plan belgeleri değişmiştir. Bu yüzden yeni kapı
+  koşulmamıştır.
+- Hasat (`npm run yargi:hasat-durum`, 14:01): Motor kendiliğinden sürmekte olup son bir saatte 70 karar inmiştir. İki yeni captcha
+  13:17'de (399 sn mola) ve 13:56'da (316 sn mola) 35 ve 39 dakikalık aralıklarla gelmiş, uzun mola devreye girmemiş ve bu iki olay soru
+  31'e eklenmiştir. Devre kapalı olup 429 ve ağ hatası görülmemiştir. Arşiv 136.814, kuyruk 809 ve kalıcı hata 163'tür. Tarama 2019
+  yılının 01.03-07.03.2019 penceresinde olup seçilen pencere sayısı 488/719, yararlı karar sayısı 52.523'tür. Hız ayarına ve motora
+  dokunulmamıştır.
+- Soru 29 ve 30 yanıtlanmamıştır. Bugün cumartesi olduğundan G08 sırası gelmemiştir. Seçilebilir `[ ]` görev bulunmadığından kod
+  değiştirilmemiştir. Sıradaki oturumlar hasadı izlemeyi sürdürür, captcha ayarı 26 Ekim pazartesi günkü G08 bakımında ele alınır.
