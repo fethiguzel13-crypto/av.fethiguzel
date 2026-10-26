@@ -63,6 +63,14 @@ function Yenilenme-Zamani([string]$metin) {
   return $null
 }
 
+# Sınır iletisi 2026-10-17'den beri "You've hit your weekly limit" / "session limit" biçimindedir; eski desen
+# ("hit your limit") bunları kaçırdığından yenileme görevi hiç kurulmamıştır. Sınırla biten oturum 1 koduyla çıkar,
+# 0 kodlu oturumun son yanıtı iletiyi yalnız aktarıyor olabilir.
+function Limit-Mesaji([string]$metin, [int]$kod) {
+  if ($kod -eq 0 -or -not $metin) { return $false }
+  return [bool]($metin -match '(?i)usage limit|limit reached|hit your (?:\w+ )?limit|limit will reset')
+}
+
 if ($Kaldir) {
   Unregister-ScheduledTask -TaskName $TaskName -Confirm:$false -ErrorAction SilentlyContinue
   Unregister-ScheduledTask -TaskName $YenilemeGorevi -Confirm:$false -ErrorAction SilentlyContinue
@@ -132,9 +140,10 @@ try {
     "--disallowedTools", "Bash(git push:*)", "Bash(vercel:*)", "Bash(npx vercel:*)", "Bash(npm publish:*)")
   L "oturum başladı → $out"
   & $Claude @cargs 2>&1 | ForEach-Object { "$_" } | Out-File -FilePath $out -Encoding utf8
-  L ("oturum bitti, çıkış kodu {0}" -f $LASTEXITCODE)
+  $kod = $LASTEXITCODE
+  L ("oturum bitti, çıkış kodu {0}" -f $kod)
   $metin = Get-Content $out -Raw -ErrorAction SilentlyContinue
-  if ($metin -and $metin -match '(?i)usage limit|limit reached|hit your limit|limit will reset') {
+  if (Limit-Mesaji $metin $kod) {
     $yen = Yenilenme-Zamani $metin
     # Yalnız gelecekteki an: geçmiş tarihli tek seferlik görev StartWhenAvailable ile hemen tetiklenir ve
     # limit doluyken kendini yeniden kuran bir döngüye girerdi.

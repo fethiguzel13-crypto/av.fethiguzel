@@ -52,9 +52,12 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
   "Gxx DEVAM EDİYOR (başladı HH:MM)" ekle. İşaretsiz izlenmeyen dosya bulunursa son oturumun dökümünün sonu
   (`~/.claude/projects/<proje>/*.jsonl`, `"error":"rate_limit"`) ile kesintiyi doğrula.
 - **Çıkış kodu 1 her zaman kullanım sınırı değildir** (2026-10-24 16:00 – 2026-10-26 10:00: on bir oturum saniyeler içinde 1 koduyla
-  bitmiş, her birinin `logs/otonom/YYYYMMDD-HHMM.log` dosyasında `Failed to authenticate: OAuth session expired` yazmıştır). Özet
-  günlük (`calis.log`) iki durumu ayırmadığından devralmada kayıtsız geçen oturumların tek tek günlük dosyası okunur. Kimlik doğrulama
-  hatası kullanıcı girişi gerektirdiğinden ilk çalışan oturum bunu `ILERLEME.md`'ye yazar.
+  bitmiş, her birinin `logs/otonom/YYYYMMDD-HHMM.log` dosyasında `Failed to authenticate: OAuth session expired` yazmıştır). Devralmada
+  kayıtsız geçen oturumların tek tek günlük dosyası okunur. Kimlik doğrulama hatası kullanıcı girişi gerektirdiğinden ilk çalışan oturum
+  bunu `ILERLEME.md`'ye yazar. Sınır iletisi 17 Ekim'den beri `You've hit your session limit` ya da `weekly limit` biçiminde olup
+  çalıştırıcının eski deseni bunu tanımadığından 26 Ekim'e kadar yenileme görevi hiç kurulmamış, özet günlüğe (`calis.log`) `kullanım
+  limiti doldu` satırı da düşmemiştir. Desen 2026-10-26'da düzeltilmiştir (`scripts/lib/__tests__/otonom-calis.test.js`). Bundan sonra
+  sınırla biten oturumun ardından bu satır görülmüyorsa yeni bir ileti biçimi gelmiş demektir, örnek test dosyasına eklenir.
 - **Satır sonları karışık:** depodaki dosyaların çoğu CRLF, bir kısmı LF. Betikle değiştirirken `\n` içeren desen
   CRLF dosyada sıfır eşleşir; deseni `\r?\n` yap, satır sonunu dosyadan oku. Git Bash'in `od`, `cat -A`, `grep`
   araçları CR'yi göstermez; sayımı `node` ile yap. `sed -i` dosyayı LF'ye çevirir.
