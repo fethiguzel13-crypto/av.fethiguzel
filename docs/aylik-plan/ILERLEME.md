@@ -2284,3 +2284,26 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler). Sıradaki sınırla biten
   oturumdan sonra `calis.log`'da `kullanım limiti doldu; yenilenme … → tek seferlik oturum …` satırının düştüğü ve tek seferlik
   oturumun açıldığı doğrulanır.
+
+## 2026-10-26 20:43 — Yenileme oturumu doğrulandı, hasat izlemesi (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `eda087567` olup araya giren commit yoktur. Başka oturumun dosyalarına (`.gitignore`,
+  `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) dokunulmamıştır. 3123 ve 3124 boştur, `.next/dev/types/validator.ts`
+  yoktur. 17:00, 18:00, 19:00 ve 20:24 oturumları saniyeler içinde 1 koduyla bitmiş olup dördünün günlüğünde de
+  `You've hit your session limit · resets 8:40pm` iletisi yazılıdır. Makine 19:33-20:22 arasında kapak kapalı beklemede kaldığından
+  20:00 tetiği kaçmış, görev uyanıştan sonra 20:24'te çalışmıştır (Kernel-Power 506 ve 507).
+- Çalıştırıcı: 16:00'da düzeltilen desen ilk sınırda çalışmış olup `calis.log`'a 17:00, 18:00, 19:00 ve 20:24 oturumlarından sonra
+  `kullanım limiti doldu; yenilenme 2026-10-26T20:40:00 → tek seferlik oturum 2026-10-26T20:43:00` satırı düşmüştür. Her sınırlı oturum
+  görevi aynı saatle yeniden kurduğundan tek bir yenileme oturumu doğmuş, bu oturum `FethiGuzel-OtonomYenileme` göreviyle 20:43:05'te
+  açılmıştır. Böylece 16:00 kaydındaki sıradaki adım tamamlanmıştır. `OTONOM.md`'deki not bu doğrulamayla kapatılmış, soru dosyasının
+  iki yerde klasöre göre yazılan yolu depo kökünden yazılmıştır.
+- Güç: Makine 17:28'den beri pildedir (`BatteryStatus` 1, şarj %55), boş bellek 594 MB'tır.
+- Kapı: Yalnız plan belgeleri değiştiğinden kapı koşulmamıştır. Günün tam kapısı 11:07-11:35, hızlı kapısı 16:06-16:10 arasında
+  geçmiştir.
+- Hasat (`npm run yargi:hasat-durum`, 20:45): Captcha 16:48, 17:23 ve 19:02'de gelmiş olup 35 dakikalık aralıkla gelen 17:23'teki
+  captcha 2603 sn uzun molayı açmıştır. Seyir soru 31'in altına yazılmıştır. Makine 20:22'ye kadar beklemede kaldığından son bir saatte
+  32 karar inmiştir. Devre kapalı olup 429 ve ağ hatası görülmemiştir. Arşiv 137.958, kuyruk 797, kalıcı hata 163, yararlı karar
+  53.044'tür. Tarama 2018 yılında olup seçilen pencere sayısı 578/801'dir. Hız ayarına ve motora dokunulmamıştır.
+- Gözlem günlüğüne 236 eklenmiş, gözden geçirme gözlem 202'deki gerekçeyle ertelenmiştir.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından (G00 ve G26 kullanıcı eylemi bekler) kod değiştirilmemiştir.
+  Sıradaki oturum hasat seyrini izler ve makine prize takılmışsa pil durumunu kayda geçirir.

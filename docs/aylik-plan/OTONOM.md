@@ -2,7 +2,7 @@
 
 Bu dosya, `scripts/otonom/calis.ps1` tarafından saatte bir (ve kullanım limiti yenilenince) başlatılan başsız (`claude -p`) oturumun
 talimatıdır. Kullanıcı bu dönemde "ben demeden çalışmaya başla ve devam ettir" dedi; soru sorulmaz,
-karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorular.md`'ye yazılır.
+karar gerekiyorsa en güvenli seçenek uygulanır ve `docs/aylik-plan/raporlar/kullaniciya-sorular.md`'ye yazılır.
 
 ## Kesin yasaklar
 
@@ -56,7 +56,8 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
   kayıtsız geçen oturumların tek tek günlük dosyası okunur. Kimlik doğrulama hatası kullanıcı girişi gerektirdiğinden ilk çalışan oturum
   bunu `ILERLEME.md`'ye yazar. Sınır iletisi 17 Ekim'den beri `You've hit your session limit` ya da `weekly limit` biçiminde olup
   çalıştırıcının eski deseni bunu tanımadığından 26 Ekim'e kadar yenileme görevi hiç kurulmamış, özet günlüğe (`calis.log`) `kullanım
-  limiti doldu` satırı da düşmemiştir. Desen 2026-10-26'da düzeltilmiştir (`scripts/lib/__tests__/otonom-calis.test.js`). Bundan sonra
+  limiti doldu` satırı da düşmemiştir. Desen 2026-10-26'da düzeltilmiştir (`scripts/lib/__tests__/otonom-calis.test.js`). Aynı gün sınırla
+  biten 17:00 oturumundan sonra satır düşmüş, yenileme görevi 20:43'te oturum açmıştır. Bundan sonra
   sınırla biten oturumun ardından bu satır görülmüyorsa yeni bir ileti biçimi gelmiş demektir, örnek test dosyasına eklenir.
 - **Satır sonları karışık:** depodaki dosyaların çoğu CRLF, bir kısmı LF. Betikle değiştirirken `\n` içeren desen
   CRLF dosyada sıfır eşleşir; deseni `\r?\n` yap, satır sonunu dosyadan oku. Git Bash'in `od`, `cat -A`, `grep`
@@ -129,4 +130,4 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
 
 - Her görev bittiğinde kullanıcıya gösterilebilir durumda olmalı: test yeşil, derleme geçer, rapor yazılı.
 - Görsel işlerde önce/sonra ekran görüntüsü `raporlar/gorsel/` altına.
-- Emin olunamayan hukuki içerik yayına hazır işaretlenmez; `raporlar/kullaniciya-sorular.md`'ye yazılır.
+- Emin olunamayan hukuki içerik yayına hazır işaretlenmez; `docs/aylik-plan/raporlar/kullaniciya-sorular.md`'ye yazılır.
