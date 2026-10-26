@@ -221,3 +221,6 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     indirmek isterseniz aynı dosyada `minPerMin` değiştirilir.
     *Doğrulama (2026-10-26 12:00):* Ayardan sonraki ilk captcha 11:03'te, ikincisi 39 dakikalık aralıkla 11:42'de gelmiş ve yönetici
     günlüğün başladığı 26 Eylül'den bu yana ilk kez 2582 sn (yaklaşık 43 dk) uzun mola vermiştir. 30 dakikalık pencereyle bu captcha yalnız 5-10 dakikalık kısa molaya yol açardı.
+    *İzleme (2026-10-26 16:00):* Uzun moladan sonra captcha 12:54'te (583 sn kısa mola), 13:34'te (2357 sn uzun mola), 15:08'de (330 sn
+    kısa mola) ve 15:43'te (2107 sn uzun mola) gelmiştir. Seri artık her ikinci captcha'da uzun molaya geçmekte olup motor her moladan sonra
+    tabandaki hızla (2/dk) sürmüş, devre kapalı kalmış ve 429 görülmemiştir. Son bir saatte 47 karar inmiştir (12:00'de 49).

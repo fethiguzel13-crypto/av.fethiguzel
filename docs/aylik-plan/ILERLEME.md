@@ -2254,3 +2254,33 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   sayısı 547/774'tür. Hız ayarına ve motora dokunulmamıştır.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından (G00 ve G26 kullanıcı eylemi bekler) kod değiştirilmemiştir.
   Sıradaki oturum motorun uzun moladan sonra tabandaki hızla (2/dk) sürdüğünü doğrular.
+
+## 2026-10-26 16:00 — Çalıştırıcının yenileme görevi düzeltildi (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `cbeb49b86` olup araya giren commit yoktur. Başka oturumun dosyalarına (`.gitignore`,
+  `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) dokunulmamıştır. 3123 ve 3124 boştur, `.next/dev/types/validator.ts`
+  yoktur. 13:00, 14:00 ve 15:00 oturumları saniyeler içinde 1 koduyla bitmiş olup üçünün günlüğünde de
+  `You've hit your session limit · resets 3:40pm` iletisi yazılıdır. Oturum 16:00:02'de başlamış olup kimlik doğrulama çalışmaktadır.
+- Güç: Makine prizdedir (`BatteryStatus` 2, şarj %91), boş bellek 486 MB'tır.
+- Çalıştırıcı hatası: Sınır 15:40'ta yenilendiği hâlde 15:43'te tek seferlik oturum açılmamıştır. `calis.ps1` sınır iletisini
+  `hit your limit` deseniyle aradığından 17 Ekim'den beri gelen `hit your session limit` ve `hit your weekly limit` biçimlerini tanımamış,
+  bu yüzden `FethiGuzel-OtonomYenileme` görevi hiç kurulmamış ve `calis.log`'a bir kez bile `kullanım limiti doldu` satırı düşmemiştir.
+  İş her kesintide en geç bir sonraki saatlik tetikle sürdüğünden kayıp saat başına bir saatle sınırlı kalmıştır. Denetim `Limit-Mesaji`
+  işlevine taşınmış, desen `hit your (?:\w+ )?limit` biçimine genişletilmiş ve çıkış kodu 0 olan oturumun son yanıtı iletiyi aktarsa bile
+  yenileme kurulmaması için kod koşulu eklenmiştir. Önce yazılan `scripts/lib/__tests__/otonom-calis.test.js`, işlevleri betiği
+  çalıştırmadan AST'den yükleyerek günlüklerdeki dört ileti biçimini, kimlik doğrulama hatasını ve iletiyi aktaran başarılı oturumu
+  sınamaktadır. Test önce işlev bulunmadığı için, sonra eski desenle iki iletide `false` döndüğü için kırmızı kalmış, düzeltmeden sonra
+  yeşile dönmüştür. Betiğin BOM'u ve CRLF satır sonları korunmuş olup `ParseFile` hata vermemiştir. `OTONOM.md` teknik tuzaklarındaki
+  not güncellenmiştir. Süren 16:00 çalıştırıcısı betiğin eski metnini bellekte tuttuğundan düzeltme 17:00 oturumundan itibaren geçerlidir.
+- Kapı: `npm run kalite:hizli` 16:06-16:10 arasında 977 testte geçmiştir (`test:scripts` 49'dan 51'e çıkmıştır). Günün tam kapısı
+  11:07-11:35 arasında geçtiğinden ve değişiklik derlemeye girmediğinden tam kapı koşulmamıştır. Kapının dokunduğu
+  `public/priority-sitemap.xml` içerik farkı taşımadığından geri alınmıştır. Commit `5555c23f0`'dır.
+- Hasat (`npm run yargi:hasat-durum`, 16:05): Uzun moladan sonra captcha 12:54, 13:34, 15:08 ve 15:43'te gelmiş olup her ikinci captcha
+  uzun molayı açmıştır (2357 ve 2107 sn). Motor 15:43'ten beri uzun moladadır ve 16:18 dolayında tabandaki hızla (2/dk) sürer. Son bir
+  saatte 47 karar inmiştir. Devre kapalı olup 429 ve ağ hatası görülmemiştir. Arşiv 137.776, kuyruk 802, kalıcı hata 163, yararlı karar
+  53.018'dir. Tarama 2018 yılında olup seçilen pencere sayısı 563/787'dir. Seyir soru 31'in altına yazılmış, hız ayarına ve motora
+  dokunulmamıştır.
+- Gözlem günlüğüne 235 eklenmiş, gözden geçirme gözlem 202'deki gerekçeyle ertelenmiştir.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler). Sıradaki sınırla biten
+  oturumdan sonra `calis.log`'da `kullanım limiti doldu; yenilenme … → tek seferlik oturum …` satırının düştüğü ve tek seferlik
+  oturumun açıldığı doğrulanır.
