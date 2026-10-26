@@ -2237,3 +2237,20 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamıştır. Bu haftanın G08'i tamamlanmış olup seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı
   eylemi bekler). Sıradaki oturumlar 60 dakika içinde gelen ikinci captcha'da günlükte `captcha tekrarladı — uzun mola` satırının
   görüldüğünü doğrular. Pil %50'nin altında olduğundan makine prize takılmadıkça uzun iş başlatılmaz.
+
+## 2026-10-26 12:00 — İzleme, captcha penceresi doğrulandı (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `c68aa06c1` olup araya giren commit yoktur. Başka oturumun dosyalarına (`.gitignore`,
+  `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) dokunulmamıştır. 3123 ve 3124 boştur, `.next/dev/types/validator.ts`
+  yoktur. Oturum 12:00:03'te zamanında başlamış olup kimlik doğrulama çalışmaktadır.
+- Güç: Makine pildedir (`BatteryStatus` 1, şarj %40), boş bellek 398 MB'tır. Pil %50'nin altında olduğundan uzun iş başlatılmamıştır.
+- Kapı: Günün tam kapısı 11:07-11:35 arasında 1019 testte geçmiş, o zamandan bu yana yalnız plan belgeleri değişmiştir. Bu yüzden yeni
+  kapı koşulmamıştır.
+- Hasat (`npm run yargi:hasat-durum`, 12:01): Ayardan sonraki ilk captcha 11:03'te, ikincisi 39 dakikalık aralıkla 11:42:32'de gelmiş ve
+  motor günlüğüne `[vali] mola 2582 sn — captcha tekrarladı — uzun mola, 3 saat düşük tavan` satırı düşmüştür. Uzun mola, günlüğün
+  başladığı 26 Eylül'den bu yana ilk kez devreye girmiş olup 12:25 dolayında biter. Böylece G08 alt planındaki son kabul ölçütü
+  karşılanmış, doğrulama `gorevler/G08.md`'ye ve soru 31'in altına yazılmıştır. Son bir saatte 49 karar inmiştir. Devre kapalı olup 429 ve
+  ağ hatası görülmemiştir. Arşiv 137.577, kuyruk 795, kalıcı hata 163, yararlı karar 52.982'dir. Tarama 2018 yılında olup seçilen pencere
+  sayısı 547/774'tür. Hız ayarına ve motora dokunulmamıştır.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından (G00 ve G26 kullanıcı eylemi bekler) kod değiştirilmemiştir.
+  Sıradaki oturum motorun uzun moladan sonra tabandaki hızla (2/dk) sürdüğünü doğrular.

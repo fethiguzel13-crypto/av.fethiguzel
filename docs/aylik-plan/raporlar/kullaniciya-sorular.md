@@ -219,3 +219,5 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     zira motor `harvester.json`'un `rate` bölümünü 5 dakikada bir yeniden okumakta olup ayarı 11:06:34'te yüklemiştir. Davranış
     `harvester.test.js`'teki yeni testle sabitlenmiştir. Geri almak için `captcha` satırının silinmesi yeterlidir. Tabanı dakikada 1'e
     indirmek isterseniz aynı dosyada `minPerMin` değiştirilir.
+    *Doğrulama (2026-10-26 12:00):* Ayardan sonraki ilk captcha 11:03'te, ikincisi 39 dakikalık aralıkla 11:42'de gelmiş ve yönetici
+    günlüğün başladığı 26 Eylül'den bu yana ilk kez 2582 sn (yaklaşık 43 dk) uzun mola vermiştir. 30 dakikalık pencereyle bu captcha yalnız 5-10 dakikalık kısa molaya yol açardı.
