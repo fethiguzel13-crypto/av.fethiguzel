@@ -2207,3 +2207,33 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamıştır. Bugün cumartesi olduğundan G08 sırası gelmemiştir. Seçilebilir `[ ]` görev bulunmadığından (G00 ve G26
   kullanıcı eylemi bekler) kod değiştirilmemiştir. Sıradaki oturumlar hasadı izlemeyi sürdürür, captcha ayarı 26 Ekim pazartesi günkü G08
   bakımında ele alınır.
+
+## 2026-10-26 11:00 — G08 hasat bakımı (pazartesi), soru 31 kararı uygulandı (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `f2ef4b9ba` olup araya giren commit yoktur. Başka oturumun dosyaları (`.gitignore`,
+  `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) 17 Ekim 00:13'teki hâlinde olup bunlara dokunulmamıştır. 3123 ve 3124
+  boştur, `.next/dev/types/validator.ts` yoktur. Oturum 11:00:03'te zamanında başlamıştır.
+- Kayıt boşluğu: 24 Ekim 16:00 ile 26 Ekim 10:00 arasında başlayan on bir oturum `Failed to authenticate: OAuth session expired`
+  iletisiyle saniyeler içinde 1 koduyla bitmiş, bu yüzden 24 Ekim 15:00 kaydından sonra kayıt ve commit yoktur. 09:31 oturumunun günlüğü
+  boş kalmış olup bitiş satırı yazılmamıştır. Kimlik doğrulama bu oturumda çalışmaktadır. Özet günlük bu hatayı kullanım sınırından
+  ayırmadığından `OTONOM.md` teknik tuzaklarına not eklenmiştir. Aynı aralıkta makine kapak kapalıyken ve pil bütçesi aşılınca
+  uzun süre modern beklemede kalmıştır (son uyanış 10:31:25, `neden: Lid`).
+- Güç: Oturum başında makine pildedir (`BatteryStatus` 1, şarj %65), boş bellek 685 MB'tır. Tam kapı süresince pil %65'ten %47'ye
+  inmiştir.
+- **G08** (`npm run yargi:hasat-durum`, 11:01): Motor pid 42072 ile 24 Ekim 07:57'den beri çalışmakta olup devre kapalıdır. Arşiv 137.531
+  (haftada 6.316), kuyruk 798, kalıcı hata 163'tür. Yararlı karar 52.951'e çıkmış (geçen hafta 49.366), disk C'de 39 GB boş alan
+  vardır. Captcha 19-25 Ekim arasında 63 kez gelmiş, tam metin servisi 18-19 Ekim'de ve 24 Ekim sabahı iki kez kapanmış, motor iki
+  kesintide de kendiliğinden sürmüştür. Tarama 2018 yılında olup seçilen pencere sayısı 544/771'dir. Haftalık satır
+  `raporlar/hasat-haftalik.md`'ye yazılmıştır.
+- **Soru 31 kararı:** Hız tabandayken captcha 32-40 dakika arayla geldiğinden 30 dakikalık pencere uzun molayı hiç açmamıştır.
+  `harvester.json`'a `rate.captcha.windowMs: 3600000` eklenmiş olup ayar yalnız yavaşlatır, hız tabanı (2/dk) ve tavanı değişmez. Sorudaki
+  yeniden başlatma varsayımı yanlış çıkmıştır, zira motor `rate` bölümünü 5 dakikada bir okumakta olup ayarı 11:06:34'te yüklemiştir.
+  Önce `harvester.test.js`'e 37 dakika arayla gelen iki captcha'da uzun mola bekleyen test yazılmış, test kırmızı kalmış, ayardan sonra
+  yeşile dönmüştür (`yargi:test` 60/60). Gerekçe ve geri alma yolu soru 31'in altına, alt plan `gorevler/G08.md`'ye yazılmıştır.
+  11:03'teki captcha'dan sonra 11:34'e kadar yeni captcha gelmemiştir.
+- Kapı: Günün tam kapısı 11:07-11:35 arasında 1019 testte geçmiştir (`logs/g08-tam-1110.log`). Derleme boş bellek 530-690 MB iken 3
+  işçiyle 1122 sn sürmüştür. Derlemenin değiştirdiği site haritaları ve iki veri dosyası geri alınmıştır. Commit `df2d40a1e`'dir.
+- Gözlem günlüğüne 231 ve 232 eklenmiş, gözden geçirme gözlem 202'deki gerekçeyle ertelenmiştir.
+- Soru 29 ve 30 yanıtlanmamıştır. Bu haftanın G08'i tamamlanmış olup seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı
+  eylemi bekler). Sıradaki oturumlar 60 dakika içinde gelen ikinci captcha'da günlükte `captcha tekrarladı — uzun mola` satırının
+  görüldüğünü doğrular. Pil %50'nin altında olduğundan makine prize takılmadıkça uzun iş başlatılmaz.
