@@ -102,7 +102,8 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `docs/aylik-plan/raporlar/k
   `next start` ise (komut satırı `Get-CimInstance Win32_Process`) durdur. Oturum bitmeden kendi sunucunu kapat: arka plan
   işini durdurmak yalnız `npx` sarmalayıcısını öldürür, portu tutan `node … next start` alt süreci ayrıca durdurulur.
 - Makine kapanınca ya da uykuya geçince oturum uyarısız kesilir (2026-10-03 06:48 → 2026-10-05 10:23 arası ne oturum
-  ne hasat çalıştı); devralmada hasat günlüğünün son satır saati kesinti anını doğrulamaya yarar.
+  ne hasat çalıştı); devralmada hasat günlüğünün son satır saati kesinti anını doğrulamaya yarar. Günlük
+  `data/yargi-kararlari/_state/harvester.log` dosyası olup saatleri UTC'dir (İstanbul'dan 3 saat geri).
   Boşta uyku zaman aşımı kapalıdır (AC ve pil 0). 12–13 Ekim'deki üç uykunun nedeni «Battery» ve «Application API»dir (Sistem
   günlüğü Kernel-Power 42). Bu yüzden uyku kilidi kesintiyi önlemez. Kapak kapanınca makine 42 kaydı bırakmadan modern beklemeye
   girer, bu geçiş Kernel-Power 506 (giriş) ve 507 (çıkış, `neden: Lid`) olaylarıyla okunur (2026-10-19: 17:20-21:50 arasında 18:00-21:00

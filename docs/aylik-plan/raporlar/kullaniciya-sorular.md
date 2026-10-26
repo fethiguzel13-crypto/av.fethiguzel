@@ -228,3 +228,7 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     uzun molaya (2603 sn) yol açmıştır. 19:02'deki captcha 99 dakikalık aralıkla geldiğinden yalnız kısa mola (346 sn) verilmiştir. Kısa
     ve uzun molanın sırayla gelmesi 60 dakikalık pencerenin beklenen sonucudur. Makine 19:05-20:22 arasında büyük ölçüde beklemede
     kaldığından 19:02'den sonraki aralık ölçülememiştir. Son bir saatte 32 karar inmiş olup devre kapalıdır ve 429 görülmemiştir.
+    *İzleme (2026-10-26 21:00):* Sonraki captcha 20:51'de, 19:02'den 109 dakika sonra gelmiştir. Bu sürenin yaklaşık 49 dakikası
+    19:33-20:22 arasındaki kapak beklemesinde geçmiş olup aralık 60 dakikalık pencerenin dışında kaldığından yönetici yalnız kısa mola
+    (460 sn) vermiştir. Motor 20:59'da tabandaki hızla (2/dk) sürmeye başlamıştır. Son bir saatte 48 karar inmiş olup devre kapalıdır ve
+    429 ile ağ hatası görülmemiştir.

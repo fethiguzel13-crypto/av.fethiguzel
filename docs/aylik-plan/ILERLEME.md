@@ -2307,3 +2307,24 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Gözlem günlüğüne 236 eklenmiş, gözden geçirme gözlem 202'deki gerekçeyle ertelenmiştir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından (G00 ve G26 kullanıcı eylemi bekler) kod değiştirilmemiştir.
   Sıradaki oturum hasat seyrini izler ve makine prize takılmışsa pil durumunu kayda geçirir.
+
+## 2026-10-26 21:00 — Hasat izlemesi (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `77d7e1679` olup araya giren commit yoktur. 20:43 yenileme oturumu 20:50'de 0 koduyla bitmiş,
+  bu oturum saatlik tetikle 21:00:05'te açılmıştır. Başka oturumun dosyalarına (`.gitignore`, `package.json`, `scripts/kalite.mjs`,
+  `scripts/karar-arama/`) dokunulmamıştır. 3123 ve 3124 boştur, `.next/dev/types/validator.ts` yoktur. Makine 20:22'deki uyanıştan beri
+  uyanıktır (Kernel-Power 507'den sonra 42 ya da 506 kaydı yoktur).
+- Güç: Makine pildedir (`BatteryStatus` 1, şarj %48), boş bellek 142 MB'tır. Pil %50'nin altında olduğundan uzun iş başlatılmamıştır.
+- Kapı: Yalnız plan belgeleri değiştiğinden kapı koşulmamıştır. Günün tam kapısı 11:07-11:35, hızlı kapısı 16:06-16:10 arasında
+  geçmiştir.
+- Hasat (`npm run yargi:hasat-durum`, 21:01): 19:02'den sonraki captcha 20:51'de, 109 dakikalık aralıkla gelmiştir. Aralığın yaklaşık
+  49 dakikası kapak beklemesinde geçmiş olup 60 dakikalık pencerenin dışında kaldığından yalnız kısa mola (460 sn) verilmiş, motor
+  20:59'da tabandaki hızla sürmeye başlamıştır. Seyir soru 31'in altına yazılmıştır. Son bir saatte 48 karar inmiştir. Devre kapalı
+  olup 429 ve ağ hatası görülmemiştir. Arşiv 137.974, kuyruk 795, kalıcı hata 163, yararlı karar 53.047'dir. Tarama 2018 yılında olup
+  seçilen pencere sayısı 579/802'dir. Hız ayarına ve motora dokunulmamıştır.
+- `OTONOM.md`: Hasat günlüğünün yolu kayıtlarda `_state/harvester.log` diye kısaltıldığından bu oturum dosyayı önce depo kökündeki
+  `data/_state/` altında aramıştır. Teknik tuzaklardaki uyku notuna tam yol (`data/yargi-kararlari/_state/harvester.log`) ve saatlerin
+  UTC olduğu eklenmiştir.
+- Gözlem günlüğüne 237 eklenmiş, gözden geçirme gözlem 202'deki gerekçeyle ertelenmiştir.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından (G00 ve G26 kullanıcı eylemi bekler) kod değiştirilmemiştir.
+  Sıradaki oturum hasat seyrini izler ve makine prize takılmışsa pil durumunu kayda geçirir.
