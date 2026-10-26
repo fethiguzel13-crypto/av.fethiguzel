@@ -212,3 +212,10 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     *Varsayım:* başsız oturumlar yönetici ayarına ve motora dokunmaz, konu 26 Ekim pazartesi günkü G08 bakımında ele alınır. İki seçenek
     vardır: tabanı dakikada 1'e indirmek ya da `captcha.windowMs`'i 60 dakikaya çıkarıp uzun molayı devreye sokmak. İkisi de ayar
     değişikliği ve `hasat-servis.ps1` ile motorun yeniden başlatılmasını gerektirir.
+    *Uygulanan karar (2026-10-26 11:05, G08):* Seri 24 Ekim 15:09-17:53 arasında 36-53, 25 Ekim'de 36-39 dakikalık aralıklarla sürmüş,
+    26 Ekim'de de 10:02 ve 11:03'te gelmiştir. 19-25 Ekim arasındaki toplam 63'tür. İki seçenek de yavaşlatmakla birlikte verimi daha az
+    düşüren pencere ayarı seçilmiş olup `scripts/yargi-kararlari/harvester.json`'a `rate.captcha.windowMs: 3600000` eklenmiştir. Böylece 60 dakika içinde gelen
+    ikinci captcha 30-45 dakikalık uzun molayı açar, hız tabanı (2/dk) ve tavan değişmez. Varsayımdaki yeniden başlatma gerekmemiştir,
+    zira motor `harvester.json`'un `rate` bölümünü 5 dakikada bir yeniden okumakta olup ayarı 11:06:34'te yüklemiştir. Davranış
+    `harvester.test.js`'teki yeni testle sabitlenmiştir. Geri almak için `captcha` satırının silinmesi yeterlidir. Tabanı dakikada 1'e
+    indirmek isterseniz aynı dosyada `minPerMin` değiştirilir.

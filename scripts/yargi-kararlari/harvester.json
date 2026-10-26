@@ -18,7 +18,8 @@
   "cookieJar": true,
   "requestTimeoutMs": 45000,
   "rate": {
-    "not": "2026-09-26 22:33 TR: hız 8/dk'ya çıkıp yanıtlar 10 sn'ye uzayınca site 3 istekte captcha (DisplayCaptcha) istedi. Tavan bu yüzden 8, mesaide 7. Captcha gelirse motor hızı yarıya indirip 5-10 dk bekler; 30 dk içinde tekrarlarsa 30-45 dk durur.",
+    "not": "2026-09-26 22:33 TR: hız 8/dk'ya çıkıp yanıtlar 10 sn'ye uzayınca site 3 istekte captcha (DisplayCaptcha) istedi. Tavan bu yüzden 8, mesaide 7. Captcha gelirse motor hızı yarıya indirip 5-10 dk bekler; 60 dk içinde tekrarlarsa 30-45 dk durur. 2026-10-26 (G08, soru 31): hız tabanda (2/dk) iken captcha 32-40 dk arayla geldiğinden 30 dk pencere uzun molayı hiç açmamıştı; pencere 60 dk'ya çıkarıldı (yalnız yavaşlatır).",
+    "captcha": { "windowMs": 3600000 },
     "startPerMin": 6.5,
     "minPerMin": 2,
     "maxPerMin": 8,

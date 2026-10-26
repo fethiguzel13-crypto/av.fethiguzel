@@ -51,6 +51,10 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `raporlar/kullaniciya-sorul
   commit'siz, ILERLEME kaydı olmadan kaldı). Alt planı yazar yazmaz `ILERLEME.md`'ye tek satır
   "Gxx DEVAM EDİYOR (başladı HH:MM)" ekle. İşaretsiz izlenmeyen dosya bulunursa son oturumun dökümünün sonu
   (`~/.claude/projects/<proje>/*.jsonl`, `"error":"rate_limit"`) ile kesintiyi doğrula.
+- **Çıkış kodu 1 her zaman kullanım sınırı değildir** (2026-10-24 16:00 – 2026-10-26 10:00: on bir oturum saniyeler içinde 1 koduyla
+  bitmiş, her birinin `logs/otonom/YYYYMMDD-HHMM.log` dosyasında `Failed to authenticate: OAuth session expired` yazmıştır). Özet
+  günlük (`calis.log`) iki durumu ayırmadığından devralmada kayıtsız geçen oturumların tek tek günlük dosyası okunur. Kimlik doğrulama
+  hatası kullanıcı girişi gerektirdiğinden ilk çalışan oturum bunu `ILERLEME.md`'ye yazar.
 - **Satır sonları karışık:** depodaki dosyaların çoğu CRLF, bir kısmı LF. Betikle değiştirirken `\n` içeren desen
   CRLF dosyada sıfır eşleşir; deseni `\r?\n` yap, satır sonunu dosyadan oku. Git Bash'in `od`, `cat -A`, `grep`
   araçları CR'yi göstermez; sayımı `node` ile yap. `sed -i` dosyayı LF'ye çevirir.

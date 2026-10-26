@@ -161,6 +161,22 @@ describe("Governor", () => {
     assert.equal(g2.ceiling(), 8, "24 saat sonra mandal kalkar");
   });
 
+  it("harvester.json: 37 dk arayla gelen captcha uzun mola verir, 60 dk'dan seyreği kısa molada kalır (G08, 26.10.2026)", () => {
+    // 21-26.10.2026: hız tabanda (2/dk) iken captcha 32-40 dk arayla geldi; 30 dk pencere uzun molayı hiç açmadı (soru 31).
+    const { rate } = JSON.parse(readFileSync(new URL("../harvester.json", import.meta.url), "utf8"));
+    const { g, clock } = gov(rate);
+    g.report("captcha");
+    assert.ok(g.pausedUntil - clock.now() <= 10 * 60_000, "ilk captcha kısa mola");
+    clock.advance(37 * 60_000);
+    g.report("captcha");
+    assert.ok(g.pausedUntil - clock.now() >= 30 * 60_000, "ikinci captcha 37 dk sonra → uzun mola");
+    assert.match(g.pauseReason, /captcha tekrarladı/);
+    clock.advance(70 * 60_000);
+    g.report("captcha");
+    assert.ok(g.pausedUntil - clock.now() <= 10 * 60_000, "uzun moladan sonra sayaç sıfırlanır");
+    assert.equal(g.ceiling(), 2, "hız tabanı ve öğrenilmiş tavan değişmez");
+  });
+
   it("belgeye özgü hata motoru yavaşlatmaz", () => {
     const { g } = gov({ startPerMin: 6 });
     g.report("doc-error");
