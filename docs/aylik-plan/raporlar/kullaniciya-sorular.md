@@ -238,3 +238,6 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     captcha motor moladan sonra yaklaşık 29 dakika çalıştığında gelmiştir. Makine 23:35'te «Application API» nedeniyle uykuya geçip 27 Ekim
     13:13'te uyanmış, servis motoru 13:13:49'da yeniden başlatmıştır. Uyanıştan sonraki 29 dakikada captcha gelmemiş, son bir saatte 43
     karar inmiştir. Devre kapalı olup 429 ile ağ hatası görülmemiştir.
+    *İzleme (2026-10-27 14:01):* Uyanıştan sonraki ilk captcha 13:43'te, 23:05'tekinden yaklaşık 14,5 saat sonra gelmiştir. Aralık 60
+    dakikalık pencerenin dışında kaldığından yönetici kısa mola (374 sn) vermiş, motor 13:49'da tabandaki hızla (2/dk) sürmeye başlamıştır.
+    Son bir saatte 62 karar inmiş olup devre kapalıdır ve 429 ile ağ hatası görülmemiştir.

@@ -2352,3 +2352,19 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Gözlem eklenmemiş, gözden geçirme gözlem 202'deki gerekçeyle ertelenmiştir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından (G00 ve G26 kullanıcı eylemi bekler) kod değiştirilmemiştir.
   Sıradaki oturum hasat seyrini izler. Günün tam kapısı geçtiğinden sonraki oturumlar kod değişmedikçe kapı koşmaz.
+
+## 2026-10-27 14:00 — Hasat izlemesi (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `fb916efe4` olup araya giren commit yoktur. 13:19 yenileme oturumu 13:44'te 0 koduyla bittiğinden
+  14:00 tetiği kilide takılmamış ve bu oturumu açmıştır, yani önceki kayıttaki atlanma öngörüsü gerçekleşmemiştir. Kayıtsız kalan oturum
+  yoktur. Başka oturumun dosyalarına (`.gitignore`, `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) dokunulmamış olup
+  farkları 13:19'daki gibi yedi satırdır. 3123 ve 3124 boştur, `.next/dev/types/validator.ts` yoktur.
+- Güç: Makine prizdedir (`BatteryStatus` 2, şarj %100), boş bellek 745 MB'tır.
+- Kapı: Yalnız plan belgeleri değiştiğinden kapı koşulmamıştır. Günün tam kapısı 13:25-13:41 arasında 1021 testte geçmiştir.
+- Hasat (`npm run yargi:hasat-durum`, 14:01): Uyanıştan sonraki ilk captcha 13:43'te, 23:05'tekinden yaklaşık 14,5 saat sonra geldiğinden
+  yönetici kısa mola (374 sn) vermiş, motor 13:49'da tabandaki hızla sürmeye başlamıştır. Seyir soru 31'in altına yazılmıştır. Son bir
+  saatte 62 karar inmiştir. Devre kapalı olup 429 ve ağ hatası görülmemiştir. Arşiv 138.144, kuyruk 798, kalıcı hata 163, yararlı karar
+  53.131'dir. Tarama 2018 yılında olup seçilen pencere sayısı 594/815'tir. Hız ayarına ve motora dokunulmamıştır.
+- Gözlem eklenmemiş, gözden geçirme gözlem 202'deki gerekçeyle ertelenmiştir.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından (G00 ve G26 kullanıcı eylemi bekler) kod değiştirilmemiştir.
+  Sıradaki oturum hasat seyrini izler.
