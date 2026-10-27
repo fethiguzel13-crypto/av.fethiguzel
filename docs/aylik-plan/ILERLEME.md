@@ -2437,6 +2437,7 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   138.475, kuyruk 792, kalıcı hata 163, yararlı karar 53.305'tir. Tarama 2017 Aralık pencerelerinde olup seçilen pencere sayısı 618/837'dir.
   Seyir soru 31'in altına yazılmış, hız ayarına ve motora dokunulmamıştır.
 - Kapı: Değişiklik yalnız belge olup derlemeye ve teste girmediğinden kapı koşulmamıştır. Günün tam kapısı 13:25-13:41 arasında geçmiştir.
-- Gözlem günlüğüne yeni gözlem eklenmemiş, gözden geçirme gözlem 202'deki gerekçeyle ertelenmiştir.
+- Gözlem günlüğüne 241 eklenmiştir (dış olay beklenmeden önce kayıt ve commit yazılır), gözden geçirme gözlem 202'deki gerekçeyle
+  ertelenmiştir. Kayıt commit'i `ca899e210`'dur.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Sıradaki oturum hasat seyrini izler ve uyanışta iki tetik birlikte başlarsa ikinci satırın `atlandı` olduğunu doğrular.
