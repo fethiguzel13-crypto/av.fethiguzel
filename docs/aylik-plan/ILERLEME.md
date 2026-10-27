@@ -2368,3 +2368,19 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Gözlem eklenmemiş, gözden geçirme gözlem 202'deki gerekçeyle ertelenmiştir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından (G00 ve G26 kullanıcı eylemi bekler) kod değiştirilmemiştir.
   Sıradaki oturum hasat seyrini izler.
+
+## 2026-10-27 15:00 — Hasat izlemesi (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `e443c7562` olup araya giren commit yoktur. 14:00 oturumu 14:02'de 0 koduyla bitmiş olup
+  kayıtsız kalan oturum yoktur. Başka oturumun dosyalarına (`.gitignore`, `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`)
+  dokunulmamış olup farkları yine yedi satırdır. 3123 ve 3124 boştur, `.next/dev/types/validator.ts` yoktur.
+- Güç: Makine prizdedir (`BatteryStatus` 2, şarj %100), boş bellek 679 MB'tır.
+- Kapı: Yalnız plan belgeleri değiştiğinden kapı koşulmamıştır. Günün tam kapısı 13:25-13:41 arasında 1021 testte geçmiştir.
+- Hasat (`npm run yargi:hasat-durum`, 15:01): Captcha 14:21'de, 13:43'ten 38 dakika sonra gelip 60 dakikalık pencerenin içinde kaldığından
+  yönetici uzun mola (2366 sn) vermiş, motor 15:00'te tabandaki hızla sürmeye başlamıştır. Seyir soru 31'in altına yazılmıştır. Mola son
+  saatin yaklaşık 39 dakikasını kapladığından bu sürede 31 karar inmiştir. Devre kapalı olup 429 ve ağ hatası görülmemiştir. Arşiv
+  138.174, kuyruk 796, kalıcı hata 163, yararlı karar 53.146'dır. Tarama 2018 yılında olup seçilen pencere sayısı 596/817'dir. Hız
+  ayarına ve motora dokunulmamıştır.
+- Gözlem eklenmemiş, gözden geçirme gözlem 202'deki gerekçeyle ertelenmiştir.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından (G00 ve G26 kullanıcı eylemi bekler) kod değiştirilmemiştir.
+  Sıradaki oturum hasat seyrini izler.

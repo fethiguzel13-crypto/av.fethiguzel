@@ -241,3 +241,6 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     *İzleme (2026-10-27 14:01):* Uyanıştan sonraki ilk captcha 13:43'te, 23:05'tekinden yaklaşık 14,5 saat sonra gelmiştir. Aralık 60
     dakikalık pencerenin dışında kaldığından yönetici kısa mola (374 sn) vermiş, motor 13:49'da tabandaki hızla (2/dk) sürmeye başlamıştır.
     Son bir saatte 62 karar inmiş olup devre kapalıdır ve 429 ile ağ hatası görülmemiştir.
+    *İzleme (2026-10-27 15:01):* Sonraki captcha 14:21'de, 13:43'ten 38 dakika sonra gelmiştir. Aralık 60 dakikalık pencerenin içinde
+    kaldığından yönetici uzun mola (2366 sn) vermiş, motor 15:00'te tabandaki hızla (2/dk) sürmeye başlamıştır. Mola son saatin yaklaşık
+    39 dakikasını kapladığından bu sürede 31 karar inmiştir. Devre kapalı olup 429 ile ağ hatası görülmemiştir.
