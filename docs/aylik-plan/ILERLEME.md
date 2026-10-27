@@ -2418,3 +2418,25 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler). Sıradaki oturum, uyanışta
   iki tetik yine birlikte başlarsa `calis.log`'da ikinci satırın `önceki oturum sürüyor (pid …) — atlandı` olduğunu doğrular ve hasat
   seyrini izler.
+
+## 2026-10-27 23:23 — Devralma ve hasat izlemesi (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `da0865747` olup araya giren commit yoktur. Kapak 18:49-21:39 arasında kapalı kaldığından 19:00-21:00
+  tetikleri kaçmış, uyanışta tek bir oturum (21:39) açılmıştır. Bu oturum devralmayı yapıp soru 31'in altına 21:45 izlemesini yazmış, sonra
+  22:00 tetiğinin davranışını görmek için beklerken 21:55'te `You've hit your session limit · resets 11:20pm` ile kesilmiş, kaydı ve commit'i
+  kalmıştır. Dökümün (`acc98391…jsonl`) sonundaki `"error":"rate_limit"` kesintiyi doğrulamaktadır. 22:00 ve 23:00 oturumları aynı iletiyle
+  saniyeler içinde bitmiş, üç sınır satırının her biri 23:23 için yenileme görevi kurmuş, 23:23:04'te yalnız bir `oturum başladı` satırı
+  düşmüştür. Başsız süreç tektir (claude pid 50632, çalıştırıcı 47608). Başka oturumun dosyalarına (`.gitignore`, `package.json`,
+  `scripts/kalite.mjs`, `scripts/karar-arama/`) dokunulmamış olup farkları yine yedi satırdır. 3123 ve 3124 boştur,
+  `.next/dev/types/validator.ts` yoktur.
+- Güç: Makine 18:48'den beri pildedir (`BatteryStatus` 1, %81), boş bellek 1159 MB'tır. Kapak 22:08-22:55 arasında yine kapanmış, makine
+  22:23:13'te «Austerity Battery Drain Budget Exceeded» nedeniyle aynı saniyede uyanıp beklemeye dönmüştür (Kernel-Power 507 ve 506).
+- Hasat (`npm run yargi:hasat-durum`, 23:26): Captcha 23:24'te gelmiş, 17:31'den bu yana duvar saatiyle 353 dakika geçtiğinden yönetici
+  kısa mola (301 sn) vermiştir. 22:23 ve 22:55 uyanışlarında birer `network ENOTFOUND` düşmüş, kuyruğun başına dönen 13. Ceza Dairesi kararı
+  22:56'da indiğinden bunlar ağ arızası sayılmamıştır. Son bir saatte 42 karar inmiş olup devre kapalıdır ve 429 görülmemiştir. Arşiv
+  138.475, kuyruk 792, kalıcı hata 163, yararlı karar 53.305'tir. Tarama 2017 Aralık pencerelerinde olup seçilen pencere sayısı 618/837'dir.
+  Seyir soru 31'in altına yazılmış, hız ayarına ve motora dokunulmamıştır.
+- Kapı: Değişiklik yalnız belge olup derlemeye ve teste girmediğinden kapı koşulmamıştır. Günün tam kapısı 13:25-13:41 arasında geçmiştir.
+- Gözlem günlüğüne yeni gözlem eklenmemiş, gözden geçirme gözlem 202'deki gerekçeyle ertelenmiştir.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
+  Sıradaki oturum hasat seyrini izler ve uyanışta iki tetik birlikte başlarsa ikinci satırın `atlandı` olduğunu doğrular.

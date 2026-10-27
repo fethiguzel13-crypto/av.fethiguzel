@@ -249,3 +249,11 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     tabandaki hızla sürmüştür. 17:31'deki captcha 86 dakikalık aralıkla pencerenin dışında kaldığından mola yine kısa (352 sn) olmuştur.
     Kapak 17:49-18:29 arasında kapalı kaldığından makine modern beklemeye geçmiş, bu sürede karar inmemiş ve motor uyanışta kendiliğinden
     sürmüştür. Devre kapalı olup 429 ile ağ hatası görülmemiştir.
+    *İzleme (2026-10-27 21:45):* Makine 18:48'de prizden çıkarılmış, kapak 18:49-21:39 arasında kapalı kaldığından motor 18:49:07'deki
+    karardan sonra 21:39:13'e kadar karar indirmemiştir. 17:31'den sonra captcha gelmemiş olup motorun bu aralıkta etkin çalıştığı süre
+    (17:37-17:49, 18:29-18:49 ve 21:39-21:45) yaklaşık 38 dakikadır. Uyanışta ağ hatası düşmemiş, devre kapalı kalmış ve 429 görülmemiştir.
+    *İzleme (2026-10-27 23:30):* Kapak 22:08-22:55 arasında yine kapalı kalmış, makine 22:23:13'te «Austerity Battery Drain Budget Exceeded»
+    nedeniyle aynı saniyede uyanıp beklemeye dönmüştür. Bu uyanışta düşen `network ENOTFOUND` ile 22:55'teki uyanışta kuyruğun başına
+    dönen 13. Ceza Dairesi kararı 22:56'da inmiş olup ağ arızası sayılmamıştır. Sonraki captcha 23:24'te gelmiştir. Motor 17:31'den bu yana
+    yaklaşık 90 dakika etkin çalışmış, duvar saatiyle aralık 353 dakika olduğundan yönetici kısa mola (301 sn) vermiştir. Son bir saatte 42 karar
+    inmiş, devre kapalı kalmış ve 429 görülmemiştir. Tarama 2017 Aralık pencerelerine geçmiş olup durum ekranı 2018'i henüz «tamam» saymamaktadır.
