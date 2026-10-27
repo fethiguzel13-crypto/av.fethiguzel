@@ -121,6 +121,13 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `docs/aylik-plan/raporlar/k
   Pildeki hızlı kapının süresi değişkendir: 2026-10-15'te uykudan hemen sonraki kapı 15 dk, sonraki iki kapı 6-7 dk sürmüş,
   pil 40 dk içinde %38'den %15'e inmiştir. Kapı beklenirken sıradaki katmanın taslağı depo dışında (`%TEMP%/g23-taslak/`) yazılır ve
   dayanakları `maddeMetni` ile sınanır. Böylece taslak, kapı biter bitmez kırmızı testle depoya alınabilir.
+- **Uyanışta iki tetik aynı saniyede başlayabilir** (2026-10-27 18:29:42: kapak 17:49-18:29 arasında kapalı kaldığından kaçan 18:00
+  saatlik tetiği ile 18:23 yenileme görevi birlikte başlamış, iki çalıştırıcı da kilidi yokken görüp `calis.log`'a `oturum başladı`
+  yazmıştır). O gün yalnız bir başsız süreç ve bir döküm oluşmuştur, ikinci çalıştırıcı olasılıkla aynı dakikanın günlük dosyasını
+  açamamıştır. Kilit o günden beri `Kilit-Al` ile geçici dosyanın kilit adına taşınmasıyla atomik alınmakta olup
+  `scripts/lib/__tests__/otonom-calis.test.js` dört eşzamanlı süreçle sınamaktadır. Aynı durumda ikinci satır artık
+  `önceki oturum sürüyor (pid …) — atlandı` olur. Devralmada aynı saniyede iki `oturum başladı` satırı görülürse süreçler
+  (`Win32_Process`, `-p` ve `OTONOM.md`) ve dökümler sayılır.
 - **Etkileşimli oturum aynı ağaçta commit atabilir** (2026-10-15 10:14: başsız kapı sürerken `80f2774d2` atılmıştır). `git add` yalnız
   bu oturumun yollarıyla yapılır, `git commit -a` ve `git add -A` kullanılmaz. Commit'ten önce `git log -3` ile araya giren commit aranır
   ve kayda yazılır.

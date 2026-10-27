@@ -71,6 +71,24 @@ function Limit-Mesaji([string]$metin, [int]$kod) {
   return [bool]($metin -match '(?i)usage limit|limit reached|hit your (?:\w+ )?limit|limit will reset')
 }
 
+# Kilit önce geçici dosyaya yazılıp kilit adına taşınır. Hedef varsa taşıma başarısız olduğundan aynı anda gelen
+# çalıştırıcılardan yalnız biri kilidi alır (2026-10-27 18:29:42: kapak açılınca kaçan saatlik tetik ile yenileme görevi
+# aynı saniyede başlamış, ikisi de kilidi yokken görüp "oturum başladı" yazmıştır). Sahibi ölmüş ya da içeriği bozuk kilit
+# silinip bir kez daha denenir.
+function Kilit-Al([string]$yol, [string]$sahip) {
+  $gecici = "$yol.$sahip"
+  for ($i = 0; $i -lt 2; $i++) {
+    Set-Content -Path $gecici -Value $sahip -Encoding ascii
+    try { [System.IO.File]::Move($gecici, $yol); return $true } catch { }
+    Remove-Item $gecici -Force -ErrorAction SilentlyContinue
+    $eski = 0
+    $metin = "$(Get-Content $yol -ErrorAction SilentlyContinue | Select-Object -First 1)".Trim()
+    if ([int]::TryParse($metin, [ref]$eski) -and (Get-Process -Id $eski -ErrorAction SilentlyContinue)) { return $false }
+    Remove-Item $yol -Force -ErrorAction SilentlyContinue
+  }
+  return $false
+}
+
 if ($Kaldir) {
   Unregister-ScheduledTask -TaskName $TaskName -Confirm:$false -ErrorAction SilentlyContinue
   Unregister-ScheduledTask -TaskName $YenilemeGorevi -Confirm:$false -ErrorAction SilentlyContinue
@@ -104,16 +122,20 @@ if (Test-Path $Duraklat) {
     exit 0
   }
 }
-if (Test-Path $Lock) {
+if (-not (Kilit-Al $Lock ([string]$PID))) {
   $old = Get-Content $Lock -ErrorAction SilentlyContinue | Select-Object -First 1
-  if ($old -and (Get-Process -Id $old -ErrorAction SilentlyContinue)) { L "önceki oturum sürüyor (pid $old) — atlandı"; exit 0 }
+  L "önceki oturum sürüyor (pid $old) — atlandı"
+  exit 0
 }
 # Kilit çalıştırıcının PID'ini tutar. 2026-10-14 07:17-08:04 bekleme konumunda 06:17 çalıştırıcısı öldü, claude alt süreci
 # yaşadı; 08:04 oturumu kilidi boş sayıp aynı ağaçta ikinci oturum açtı. Yetim başsız oturum varsa da atlanır.
 $yetim = Get-CimInstance Win32_Process -Filter "Name='claude.exe'" -ErrorAction SilentlyContinue |
   Where-Object { $_.CommandLine -match '\s-p\s' -and $_.CommandLine -match 'OTONOM\.md' } | Select-Object -First 1
-if ($yetim) { L "başsız oturum sürüyor (claude pid $($yetim.ProcessId)) — atlandı"; exit 0 }
-$PID | Set-Content $Lock -Encoding ascii
+if ($yetim) {
+  Remove-Item $Lock -Force -ErrorAction SilentlyContinue
+  L "başsız oturum sürüyor (claude pid $($yetim.ProcessId)) — atlandı"
+  exit 0
+}
 
 try {
   Set-Location $Portal
