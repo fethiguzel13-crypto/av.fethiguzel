@@ -2328,3 +2328,27 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Gözlem günlüğüne 237 eklenmiş, gözden geçirme gözlem 202'deki gerekçeyle ertelenmiştir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından (G00 ve G26 kullanıcı eylemi bekler) kod değiştirilmemiştir.
   Sıradaki oturum hasat seyrini izler ve makine prize takılmışsa pil durumunu kayda geçirir.
+
+## 2026-10-27 13:19 — Günün tam kapısı ve hasat izlemesi (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `84298f81f` olup araya giren commit yoktur. 22:00 ve 23:00 oturumları saniyeler içinde 1 koduyla
+  bitmiş, iki günlükte de `You've hit your session limit · resets 1:40am` yazılıdır. Çalıştırıcı her ikisinden sonra `calis.log`'a
+  `kullanım limiti doldu; yenilenme 2026-10-27T01:40:00 → tek seferlik oturum 2026-10-27T01:43:00` satırını yazmıştır. Makine 23:35'te
+  «Application API» nedeniyle uykuya geçip (Kernel-Power 187, 42) 27 Ekim 13:13'te hazırda bekletmeden çıktığından (507 «Resume from
+  Hibernate», Power-Troubleshooter) 01:43 oturumu kaçmıştır. `StartWhenAvailable` ayarlı `FethiGuzel-OtonomYenileme` görevi uyanıştan
+  sonra 13:19:32'de bu oturumu açmış, saatlik görevin kaçan 13:00 tetiği ise çalışmamıştır (son çalışma 26 Ekim 23:00). 14:00 tetiği
+  kilit nedeniyle atlanır. Kayıtsız kalan oturum yoktur. Başka oturumun dosyalarına (`.gitignore`, `package.json`, `scripts/kalite.mjs`,
+  `scripts/karar-arama/`) dokunulmamıştır. 3123 ve 3124 boştur, `.next/dev/types/validator.ts` yoktur.
+- Güç: Makine prizdedir (`BatteryStatus` 2, şarj %100), 23:07'de güç kaynağı değişmiştir (Kernel-Power 105). Boş bellek başlangıçta
+  707 MB, kapıdan sonra 1621 MB'tır.
+- Kapı: Günün ilk oturumu olduğundan `npm run kalite` 13:25-13:41 arasında koşulmuş ve 1021 testte geçmiştir. Derleme 5 işçiyle
+  459 sn, uçtan uca testler 176 sn sürmüştür. Derlemenin yeniden ürettiği site haritası ve dizin dosyaları geri alınmıştır.
+- Hasat (`npm run yargi:hasat-durum`, 13:42): Captcha 21:29'da (1926 sn uzun mola), 22:30'da (314 sn kısa mola) ve 23:05'te (2134 sn
+  uzun mola) gelmiştir. 22:30'daki captcha 61 dakikalık aralıkla 60 dakikalık pencerenin dışında kalmış olup seyir soru 31'in altına
+  yazılmıştır. Eski motor (pid 42072) uyanışta çalışmadığından servis görevi motoru `hasat-servis.log`'a göre 13:13:49'da pid 46724
+  ile yeniden başlatmıştır. Uyanıştan sonra captcha gelmemiş, son bir saatte 43 karar inmiştir. Devre kapalı olup 429 ve ağ hatası
+  görülmemiştir. Arşiv 138.125, kuyruk 804, kalıcı hata 163, yararlı karar 53.123'tür. Tarama 2018 yılında olup seçilen pencere sayısı
+  593/814'tür. Hız ayarına ve motora dokunulmamıştır.
+- Gözlem eklenmemiş, gözden geçirme gözlem 202'deki gerekçeyle ertelenmiştir.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından (G00 ve G26 kullanıcı eylemi bekler) kod değiştirilmemiştir.
+  Sıradaki oturum hasat seyrini izler. Günün tam kapısı geçtiğinden sonraki oturumlar kod değişmedikçe kapı koşmaz.
