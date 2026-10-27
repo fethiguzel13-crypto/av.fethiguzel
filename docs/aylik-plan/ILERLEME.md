@@ -2384,3 +2384,37 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Gözlem eklenmemiş, gözden geçirme gözlem 202'deki gerekçeyle ertelenmiştir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmadığından (G00 ve G26 kullanıcı eylemi bekler) kod değiştirilmemiştir.
   Sıradaki oturum hasat seyrini izler.
+
+## 2026-10-27 18:29 — Çalıştırıcının kilit yarışı giderildi (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `19da9bdbf` olup araya giren commit yoktur. 16:00 ve 17:03 oturumları saniyeler içinde 1 koduyla
+  bitmiş olup ikisinin günlüğünde de `You've hit your session limit · resets 6:20pm` yazılıdır. Çalıştırıcı iki seferinde de
+  `kullanım limiti doldu` satırını yazıp 18:23 için yenileme görevi kurmuştur, yani 26 Ekim'deki düzeltme çalışmaktadır. Kapak 17:49:21'de
+  kapanmış, makine 18:29:42'de modern beklemeden çıkmıştır (Kernel-Power 506 ve 507, `neden: Lid`). Başka oturumun dosyalarına
+  (`.gitignore`, `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) dokunulmamış olup farkları yine yedi satırdır. 3123 ve 3124
+  boştur, `.next/dev/types/validator.ts` yoktur. Antigravity eklentisinin 16:59'da açtığı iki etkileşimli süreç sürmektedir.
+- Güç: Makine prizdedir (`BatteryStatus` 2, şarj %100), boş bellek 915 MB'tır.
+- Çalıştırıcı hatası: Kaçan 18:00 saatlik tetiği ile 18:23 yenileme görevi uyanışta aynı saniyede (18:29:42) başlamış, `calis.log`'a 18:29:51
+  ve 18:29:52'de iki `oturum başladı` satırı düşmüştür. Kilit `Test-Path` ile denetlenip sonra yazıldığından iki çalıştırıcı da kilidi
+  yokken görmüştür. Yalnız bir başsız süreç (claude pid 23832, çalıştırıcı 47656) ve bir döküm oluşmuş olup yenileme görevi 0 koduyla
+  bitmiştir. İkinci çalıştırıcı olasılıkla aynı dakikanın günlük dosyasını açamamıştır, dakika sınırına denk gelen bir uyanışta iki oturum
+  aynı ağaçta çalışabilirdi. Kilit `Kilit-Al` işlevine taşınmış olup geçici dosya kilit adına `[System.IO.File]::Move` ile taşınmakta,
+  hedef varsa taşıma başarısız olduğundan yalnız bir çalıştırıcı kilidi almaktadır. Sahibi ölmüş ya da içeriği bozuk kilit silinip bir kez
+  daha denenmekte, yetim oturum yüzünden atlanan çalıştırıcı aldığı kilidi bırakmaktadır. `otonom-calis.test.js`'e iki test eklenmiştir.
+  İlki boş, sahibi yaşayan, sahibi ölmüş ve bozuk kilidi, ikincisi hazır dosyası ve başla işaretiyle aynı anda bırakılan dört PowerShell
+  sürecini sınar. Test önce işlev bulunmadığı için kırmızı kalmıştır. Eski mantığın kopyasıyla on denemenin sekizinde "kilidi 4 çalıştırıcı
+  aldı" diye kırılmış, atomik sürümle sekiz denemenin sekizinde geçmiştir. Test girişi, betikle aynı olsun diye işlevleri
+  `$ErrorActionPreference = 'Continue'` altında çalıştırır. Betiğin kopyası `%TEMP%` altında iki atlama yolundan geçirilmiş, canlı kilide
+  dokunmadan ve geride geçici dosya bırakmadan 0 koduyla çıkmıştır. BOM ve CRLF korunmuş olup `ParseFile` hata vermemiştir. `OTONOM.md`
+  teknik tuzaklarına not eklenmiştir. Süren 18:29 çalıştırıcısı eski metni bellekte tuttuğundan düzeltme 19:00 oturumundan itibaren geçerlidir.
+- Kapı: `npm run kalite:hizli` 18:40-18:45 arasında 979 testte geçmiştir (`test:scripts` 51'den 53'e çıkmıştır). Günün tam kapısı 13:25-13:41
+  arasında geçtiğinden ve değişiklik derlemeye girmediğinden tam kapı koşulmamıştır. Kapının dokunduğu `public/priority-sitemap.xml`
+  yalnız satır sonu farkı taşıdığından geri alınmıştır. Commit `9274477e5`'tir.
+- Hasat (`npm run yargi:hasat-durum`, 18:45): Captcha 15:30, 16:05 ve 17:31'de gelmiş olup yalnız 35 dakika arayla gelen 16:05'teki uzun
+  molayı (2221 sn) açmıştır. Kapak kapalıyken karar inmemiş, motor uyanışta kendiliğinden sürmüştür. Son bir saatte 30 karar inmiştir. Devre
+  kapalı olup 429 ve ağ hatası görülmemiştir. Arşiv 138.383, kuyruk 797, kalıcı hata 163, yararlı karar 53.253'tür. Tarama 2018 yılında olup
+  seçilen pencere sayısı 611/830'dur. Seyir soru 31'in altına yazılmış, hız ayarına ve motora dokunulmamıştır.
+- Gözlem günlüğüne 239 eklenmiş, gözden geçirme gözlem 202'deki gerekçeyle ertelenmiştir.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler). Sıradaki oturum, uyanışta
+  iki tetik yine birlikte başlarsa `calis.log`'da ikinci satırın `önceki oturum sürüyor (pid …) — atlandı` olduğunu doğrular ve hasat
+  seyrini izler.
