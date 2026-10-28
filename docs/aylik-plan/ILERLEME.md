@@ -2562,6 +2562,6 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   138.934, kuyruk 801, kalıcı hata 163, yararlı karar 53.543'tür. Seçilen pencere sayısı 654/867'dir. Seyir soru 31'in altına yazılmış, hız
   ayarına ve motora dokunulmamıştır.
 - Kapı: Değişiklik yalnız belge olup derlemeye ve teste girmediğinden kapı koşulmamıştır. Günün tam kapısı 09:02-09:17 arasında
-  1023 testte geçmiştir.
+  1023 testte geçmiştir. Kayıt commit'i `cb4642a75`'tir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Sıradaki oturum hasat seyrini ve düşük tavanın 20:09 dolayındaki bitişini izler.
