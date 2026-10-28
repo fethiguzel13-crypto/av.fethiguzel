@@ -2617,7 +2617,7 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   yedi ağ hatasının tamamı 20:20, 20:47 ve 20:57'deki üç kesintiden doğmuştur. Arşiv 139.072, kuyruk 802, kalıcı hata 163, yararlı karar
   53.553'tür. Seçilen pencere sayısı 666/878'dir. Seyir soru 31'in altına yazılmış, hız ayarına ve motora dokunulmamıştır.
 - Kapı: Değişiklik yalnız belge olup derlemeye ve teste girmediğinden kapı koşulmamıştır. Günün tam kapısı 09:02-09:17 arasında
-  1023 testte geçmiştir. Kayıt commit'i aşağıdaki ek commit'te yazılıdır.
+  1023 testte geçmiştir. Kayıt commit'i `72b2b9165`'tir.
 - Gözlem günlüğünün gözden geçirmesi 2026-10-02'den beri yapılmamış olup 120 açık gözlem vardır. Gözden geçirme beceri dosyalarını
   değiştirdiğinden başsız oturumda başlatılmamış, kullanıcının teklif kuralına uyularak ertelenmiştir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
