@@ -257,3 +257,9 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     dönen 13. Ceza Dairesi kararı 22:56'da inmiş olup ağ arızası sayılmamıştır. Sonraki captcha 23:24'te gelmiştir. Motor 17:31'den bu yana
     yaklaşık 90 dakika etkin çalışmış, duvar saatiyle aralık 353 dakika olduğundan yönetici kısa mola (301 sn) vermiştir. Son bir saatte 42 karar
     inmiş, devre kapalı kalmış ve 429 görülmemiştir. Tarama 2017 Aralık pencerelerine geçmiş olup durum ekranı 2018'i henüz «tamam» saymamaktadır.
+    *İzleme (2026-10-28 09:10):* Kapak 27 Ekim 23:31'de kapanmış, motor 23:31:33'teki karardan sonra 28 Ekim 08:36'ya kadar karar
+    indirmemiştir. 00:25'teki kısa uyanışta ve 08:35'te kapak açıldığında birer `network ENOTFOUND` düşmüş, kuyruğun başına dönen 4. Ceza
+    Dairesi kararı 08:36'da indiğinden bunlar ağ arızası sayılmamıştır. Makine 08:38'de yeniden başlatılmış, motor `YargiHasatMotoru`
+    görevinin oturum açılış tetiğiyle 08:43'te kendiliğinden yeniden başlamıştır (pid 6852). 23:24'ten sonra captcha gelmemiştir. Son bir
+    saatte 28 karar inmiş, devre kapalı kalmış ve 429 görülmemiştir. Arşiv 138.511, kuyruk 797, kalıcı hata 163, yararlı karar 53.329'dur.
+    Tarama 2017 Aralık pencerelerinde olup seçilen pencere sayısı 621/838'dir.

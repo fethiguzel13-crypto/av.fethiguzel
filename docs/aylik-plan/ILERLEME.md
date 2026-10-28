@@ -2441,3 +2441,24 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   ertelenmiştir. Kayıt commit'i `ca899e210`'dur.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Sıradaki oturum hasat seyrini izler ve uyanışta iki tetik birlikte başlarsa ikinci satırın `atlandı` olduğunu doğrular.
+
+## 2026-10-28 09:00 — Devralma, yeniden başlatma sonrası denetim ve günün tam kapısı (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `32ebcfa78` olup araya giren commit yoktur. Kapak 27 Ekim 23:31'de kapanmış (Kernel-Power 506,
+  `neden: Lid`), makine 00:25'te «Austerity Battery Drain Budget Exceeded» nedeniyle aynı saniyede uyanıp beklemeye dönmüş, 08:35'te kapak
+  açılıp prize takılınca uyanmıştır. Uyanışta 08:36:15'te tek bir `oturum başladı` satırı düşmüştür. Makine 08:38:12'de yeniden başlatıldığından
+  (Kernel-Power 109, `Power Action Reboot`) bu oturumun dökümü (`0be4fd2b…jsonl`) 08:38:01'de hasat günlüğü okunurken kesilmiş, `oturum bitti`
+  satırı, kaydı ve commit'i kalmamıştır. Günlük dosyası (`20261028-0836.log`) boştur. 09:00 çalıştırıcısı (pid 14056) ölü sahipli kilidi
+  devralmış olup kilitte kendi numarası yazılıdır. Başsız süreç tektir. Atomik kilidin ölü sahip yolu böylece canlı ortamda da çalışmıştır.
+  Başka oturumun dosyalarına (`.gitignore`, `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) dokunulmamış olup farkları yine yedi
+  satırdır. 3123 ve 3124 boştur, `.next/dev/types/validator.ts` yoktur.
+- Güç: Makine prizdedir (`BatteryStatus` 2, %93), boş bellek 1815 MB'tır.
+- Hasat (`npm run yargi:hasat-durum`, 09:02): Motor 08:38'deki yeniden başlatmayla durmuş, `YargiHasatMotoru` görevinin oturum açılış tetiğiyle
+  08:43'te kendiliğinden yeniden başlamıştır (pid 6852). 00:25 ve 08:35 uyanışlarında birer `network ENOTFOUND` düşmüş, kuyruğun başına dönen
+  4. Ceza Dairesi kararı 08:36'da indiğinden bunlar ağ arızası sayılmamıştır. 23:24'ten sonra captcha gelmemiştir. Son bir saatte 28 karar
+  inmiş olup devre kapalıdır ve 429 görülmemiştir. Arşiv 138.511, kuyruk 797, kalıcı hata 163, yararlı karar 53.329'dur. Tarama 2017 Aralık
+  pencerelerinde olup seçilen pencere sayısı 621/838'dir. Seyir soru 31'in altına yazılmış, hız ayarına ve motora dokunulmamıştır.
+- Kapı: Günün ilk oturumu olduğundan ve `9274477e5` dünkü tam kapıdan sonra geldiğinden `npm run kalite` 09:05'te başlatılmıştır
+  (`logs/kalite-tam-20261028-0905.log`). Kayıt kapının bitişi beklenmeden yazılmış olup sonuç kapı bitince bu maddeye eklenir.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
+  Sıradaki oturum hasat seyrini izler.
