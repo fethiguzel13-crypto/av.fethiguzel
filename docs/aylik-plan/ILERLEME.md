@@ -2528,3 +2528,21 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   1023 testte geçmiştir. Kayıt commit'i `440929b67`'dir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Sıradaki oturum ağın sürekliliğini ve hasat seyrini izler.
+
+## 2026-10-28 15:00 — Devralma ve hasat izleme (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `af6881911` olup araya giren commit yoktur. 14:16 oturumu 14:20'de 0 koduyla bitmiş, 15:00 tetiği
+  15:00:03'te tek `oturum başladı` satırıyla başlamıştır. Başsız süreç tektir (claude pid 5220). Sistem günlüğünde 14:15'ten sonra yalnız
+  14:16:10'daki uyanış olayı (507) bulunup 42, 506, 109, 6005, 6006 ve 12 yoktur, yani kapak o andan beri açık kalmıştır. Başka oturumun
+  dosyalarına (`.gitignore`, `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) dokunulmamış olup farkları yine yedi satırdır.
+  3123 ve 3124 boştur, `.next/dev/types/validator.ts` yoktur.
+- Güç: Makine prizdedir (`BatteryStatus` 2, %100), boş bellek 818 MB'tır.
+- Hasat (`npm run yargi:hasat-durum`, 15:01): Motor 08:43'teki başlangıçtan beri aynı süreçle çalışmaktadır (pid 6852). Captcha 14:46'da,
+  13:31'den 75 dakika sonra gelmiş ve yönetici 577 saniyelik mola ile 2 saatlik tavan vermiştir. Tek ağ hatası 15:00:31'deki
+  `UND_ERR_CONNECT_TIMEOUT` olup sonraki karar 12 saniye sonra indiğinden geçicidir. Son bir saatte 53 karar inmiş, 429 görülmemiştir.
+  Arşiv 138.734, kuyruk 796, kalıcı hata 163, yararlı karar 53.455'tir. Seçilen pencere sayısı 639/855'tir. Seyir soru 31'in altına
+  yazılmış, hız ayarına ve motora dokunulmamıştır.
+- Kapı: Değişiklik yalnız belge olup derlemeye ve teste girmediğinden kapı koşulmamıştır. Günün tam kapısı 09:02-09:17 arasında
+  1023 testte geçmiştir.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
+  Sıradaki oturum hasat seyrini ve 2 saatlik tavanın 16:46 dolayındaki bitişini izler.
