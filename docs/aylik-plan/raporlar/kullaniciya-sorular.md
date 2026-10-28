@@ -297,3 +297,10 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     21:51 dolayında sürmektedir. Son bir saatte 48 karar inmiş olup sayının düşüklüğü 19:30'a kadar süren uzun moladan doğmaktadır. Devre
     kapalı kalmış, 429 ve ağ hatası görülmemiştir. Arşiv 139.007, kuyruk 798, kalıcı hata 163, yararlı karar 53.548'dir. Seçilen pencere
     sayısı 660/871'dir.
+    *İzleme (2026-10-28 21:22):* 19:58'den sonra captcha gelmemiş olup 18:51'de verilen 3 saatlik düşük tavan 21:51, 19:58'de verilen 2
+    saatlik tavan 21:58 dolayında biter. Kablosuz bağlantı 20:20-20:29 arasında kesilmiş, motor bu sürede «yerel internet bağlantısı yok»
+    molası vermiş ve devre 20:29'da kapanmıştır. WLAN AutoConfig 20:47:59'da sınırlı bağlantı algılayıp kablosuz sürücüyü yeniden başlatmış,
+    devre 20:50'de yeniden kapanmıştır. 20:57'deki tek `UND_ERR_CONNECT_TIMEOUT` bir dakika içinde aşılmıştır. Kapak 20:59-21:16 arasında
+    kapalı kaldığından motor bu sürede karar indirmemiş, uyanışta kendiliğinden sürmüştür. Son bir saatte 47 karar inmiş, 429 görülmemiş, yedi
+    ağ hatasının tamamı bu üç kesintiden doğmuştur. Arşiv 139.072, kuyruk 802, kalıcı hata 163, yararlı karar 53.553'tür. Tarama 2017 Haziran
+    ortası pencerelerine geçmiş olup seçilen pencere sayısı 666/878'dir.

@@ -2600,3 +2600,25 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   1023 testte geçmiştir. Kayıt commit'i `0b3f53048`'dir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Sıradaki oturum hasat seyrini ve düşük tavanın 21:51 dolayındaki bitişini izler.
+
+## 2026-10-28 21:17 — Devralma ve hasat izleme (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `453f49ec7` olup araya giren commit yoktur. 20:00 oturumu 20:02'de 0 koduyla bitmiştir. Kapak
+  20:59:41-21:16:26 arasında kapalı kaldığından (Kernel-Power 506 ve 507, `neden: Lid`) 21:00 saatlik tetiği kaçmış ve uyanışta 21:17:07'de
+  tek `oturum başladı` satırıyla başlamıştır. Başsız süreç tektir (claude pid 10544). 42, 109, 6005, 6006 ve 12 olayı yoktur, son açılış
+  08:38'dir. Başka oturumun dosyalarına (`.gitignore`, `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) dokunulmamış olup
+  farkları yine yedi satırdır. 3123 ve 3124 boştur, `.next/dev/types/validator.ts` yoktur.
+- Güç: Makine 20:28:26'da prizden çekilmiş (Kernel-Power 105) olup 21:18'de pildedir (`BatteryStatus` 1, %88). Boş bellek 251 MB'tır.
+  Uzun iş planlanmadığından pil kuralı bir işi engellememiştir.
+- Ağ: Kablosuz bağlantı 20:20-20:29 arasında kesilmiş, WLAN AutoConfig 20:47:59'da sınırlı bağlantı algılayıp sürücüyü yeniden başlatmıştır
+  (Netwtw14 8000 ve 7029). İki kesintide de motor «yerel internet bağlantısı yok» molası vermiş, devre 20:29'da ve 20:50'de kapanmıştır.
+- Hasat (`npm run yargi:hasat-durum`, 21:19): Motor 08:43'teki başlangıçtan beri aynı süreçle çalışmaktadır (pid 6852). 19:58'den sonra
+  captcha gelmemiş olup 3 saatlik düşük tavan 21:51, 2 saatlik tavan 21:58 dolayında biter. Son bir saatte 47 karar inmiş, 429 görülmemiş,
+  yedi ağ hatasının tamamı 20:20, 20:47 ve 20:57'deki üç kesintiden doğmuştur. Arşiv 139.072, kuyruk 802, kalıcı hata 163, yararlı karar
+  53.553'tür. Seçilen pencere sayısı 666/878'dir. Seyir soru 31'in altına yazılmış, hız ayarına ve motora dokunulmamıştır.
+- Kapı: Değişiklik yalnız belge olup derlemeye ve teste girmediğinden kapı koşulmamıştır. Günün tam kapısı 09:02-09:17 arasında
+  1023 testte geçmiştir. Kayıt commit'i aşağıdaki ek commit'te yazılıdır.
+- Gözlem günlüğünün gözden geçirmesi 2026-10-02'den beri yapılmamış olup 120 açık gözlem vardır. Gözden geçirme beceri dosyalarını
+  değiştirdiğinden başsız oturumda başlatılmamış, kullanıcının teklif kuralına uyularak ertelenmiştir.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
+  Sıradaki oturum düşük tavanın 21:51 ve 21:58 dolayındaki bitişinden sonraki hasat hızını izler.
