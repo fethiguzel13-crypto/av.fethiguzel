@@ -2525,6 +2525,6 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   motora dokunulmamıştır.
 - Belge: `OTONOM.md`'deki iki tetik tuzağına atlanma satırının ilk kez görüldüğü an eklenmiştir.
 - Kapı: Değişiklik yalnız belge olup derlemeye ve teste girmediğinden kapı koşulmamıştır. Günün tam kapısı 09:02-09:17 arasında
-  1023 testte geçmiştir.
+  1023 testte geçmiştir. Kayıt commit'i `440929b67`'dir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Sıradaki oturum ağın sürekliliğini ve hasat seyrini izler.
