@@ -2480,6 +2480,6 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   hatası görülmemiştir. Arşiv 138.569, kuyruk 797, kalıcı hata 163, yararlı karar 53.373'tür. Tarama 2017 Kasım pencerelerine geçmiş olup
   seçilen pencere sayısı 627/843'tür. Seyir soru 31'in altına yazılmış, hız ayarına ve motora dokunulmamıştır.
 - Kapı: Değişiklik yalnız belge olup derlemeye ve teste girmediğinden kapı koşulmamıştır. Günün tam kapısı 09:02-09:17 arasında
-  1023 testte geçmiştir.
+  1023 testte geçmiştir. Kayıt commit'i `b3ddfc9fa`'dır.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Sıradaki oturum uzun molanın bitişini ve hasat seyrini izler.
