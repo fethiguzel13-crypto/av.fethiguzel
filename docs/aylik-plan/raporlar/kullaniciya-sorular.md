@@ -268,3 +268,7 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     düşük tavan uygulamıştır. Mola 10:26 dolayında biter. Son bir saatte 59 karar inmiş, devre kapalı kalmış, 429 ve ağ hatası görülmemiştir.
     Arşiv 138.569, kuyruk 797, kalıcı hata 163, yararlı karar 53.373'tür. Tarama 2017 Kasım pencerelerine geçmiş olup seçilen pencere sayısı
     627/843'tür.
+    *İzleme (2026-10-28 11:05):* Uzun mola 10:25:57'de bitmiş, ne var ki motorun ilk isteği yerel ağ kesintisi nedeniyle `network ENOTFOUND`
+    almıştır. Vali 10:28-10:50 arasında «yerel internet bağlantısı yok» molası vermiş, kablosuz bağlantı 10:51'de yeniden kurulunca devre
+    kapanmıştır. 09:47'den sonra captcha gelmemiş olup 3 saatlik düşük tavan 12:47 dolayında biter. Son bir saatte 15 karar inmiş, 429
+    görülmemiştir. Arşiv 138.584, kuyruk 798, kalıcı hata 163, yararlı karar 53.382'dir. Seçilen pencere sayısı 628/845'tir.
