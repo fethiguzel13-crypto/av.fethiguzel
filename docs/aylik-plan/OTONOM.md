@@ -126,8 +126,10 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `docs/aylik-plan/raporlar/k
   yazmıştır). O gün yalnız bir başsız süreç ve bir döküm oluşmuştur, ikinci çalıştırıcı olasılıkla aynı dakikanın günlük dosyasını
   açamamıştır. Kilit o günden beri `Kilit-Al` ile geçici dosyanın kilit adına taşınmasıyla atomik alınmakta olup
   `scripts/lib/__tests__/otonom-calis.test.js` dört eşzamanlı süreçle sınamaktadır. Aynı durumda ikinci satır artık
-  `önceki oturum sürüyor (pid …) — atlandı` olur. Devralmada aynı saniyede iki `oturum başladı` satırı görülürse süreçler
-  (`Win32_Process`, `-p` ve `OTONOM.md`) ve dökümler sayılır.
+  `önceki oturum sürüyor (pid …) — atlandı` olur. Bu satır ilk kez 2026-10-28 14:16:37'de görülmüştür: Kapak 13:32-14:16 arasında
+  kapalı kaldığından 13:33 yenileme görevi ile 14:00 saatlik tetiği uyanışta birlikte başlamış, biri kilidi alıp tek başsız süreci açmış,
+  öteki atlanmıştır. Devralmada aynı saniyede iki `oturum başladı` satırı görülürse süreçler (`Win32_Process`, `-p` ve `OTONOM.md`)
+  ve dökümler sayılır.
 - **Yeniden başlatma da oturumu iletisiz keser** (2026-10-28: 08:36'da uyanışta açılan oturum 08:38'de `Power Action Reboot` ile
   kesilmiş, günlük dosyası boş, `oturum bitti` satırı yok kalmıştır). `oturum bitti` satırı olmayan oturum için Sistem günlüğünde 42, 506
   ve 507 ile birlikte 109, 6006, 6005 ve 12 olayları da aranır. Ölü sahipli kilidi sonraki çalıştırıcı devralır. Hasat motoru

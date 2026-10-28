@@ -2504,3 +2504,27 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   1023 testte geçmiştir. Kayıt commit'i `4ca9923a5`'tir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Sıradaki oturum ağın sürekliliğini ve düşük tavanın 12:47 dolayındaki bitişini izler.
+
+## 2026-10-28 14:16 — Devralma ve hasat izleme (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `6f1173c02` olup araya giren commit yoktur. 11:00 oturumu 11:04'te 0 koduyla bitmiştir. 12:00
+  tetiği ağ 5 dakikada gelmediğinden 12:05'te atlanmıştır. 13:02 oturumu 34 saniyede 1 koduyla bitmiş, günlüğünde `You've hit your session
+  limit · resets 1:30pm` yazmakta olup çalıştırıcı yenileme görevini 13:33'e kurmuştur. Kapak 13:32:36'da kapandığından bu görev ile 14:00
+  tetiği kaçmış, ikisi 14:16:10'daki uyanıştan sonra 14:16:37'de birlikte başlamıştır. Biri kilidi almış, öteki `önceki oturum sürüyor (pid
+  10408) — atlandı` satırıyla çekilmiştir. Başsız süreç tektir (claude pid 27356, çalıştırıcı 10408), yani 27 Ekim'deki atomik kilit ilk gerçek
+  çakışmada doğru çalışmıştır. Sistem günlüğünde kapak olayları (506 ve 507: 12:08-12:34, 12:40-13:01, 13:32-14:16) dışında 42, 109, 6005,
+  6006 ve 12 yoktur. Başka oturumun dosyalarına (`.gitignore`, `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) dokunulmamış
+  olup farkları yine yedi satırdır. 3123 ve 3124 boştur, `.next/dev/types/validator.ts` yoktur.
+- Güç: Makine prizdedir (`BatteryStatus` 2, %100), boş bellek 653 MB'tır.
+- Ağ kesintisi: WLAN günlüğüne göre bağlantı 11:37:47'de sürücü tarafından kesilmiş, 11:37:52'deki yeniden bağlanma «erişim noktası görünür
+  değil» gerekçesiyle başarısız olmuş ve bağlantı 12:35:40'ta dönmüştür. Erişim noktasının görünmemesi kesintinin makineden değil modemden
+  kaynaklandığını düşündürmektedir. Motor bu arada dakikada bir «yerel internet bağlantısı yok» molası yazmış, devre 12:36'da kapanmıştır.
+- Hasat (`npm run yargi:hasat-durum`, 14:18): Motor 08:43'teki başlangıçtan beri aynı süreçle çalışmaktadır (pid 6852). Captcha 13:31'de
+  gelmiş, 09:47'den uzak olduğundan yönetici kısa mola (421 sn) vermiştir. Son bir saatte 23 karar inmiş, 429 görülmemiştir. Arşiv 138.684,
+  kuyruk 791, kalıcı hata 163, yararlı karar 53.431'dir. Seçilen pencere sayısı 635/852'dir. Seyir soru 31'in altına yazılmış, hız ayarına ve
+  motora dokunulmamıştır.
+- Belge: `OTONOM.md`'deki iki tetik tuzağına atlanma satırının ilk kez görüldüğü an eklenmiştir.
+- Kapı: Değişiklik yalnız belge olup derlemeye ve teste girmediğinden kapı koşulmamıştır. Günün tam kapısı 09:02-09:17 arasında
+  1023 testte geçmiştir.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
+  Sıradaki oturum ağın sürekliliğini ve hasat seyrini izler.

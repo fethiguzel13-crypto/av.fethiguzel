@@ -272,3 +272,9 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     almıştır. Vali 10:28-10:50 arasında «yerel internet bağlantısı yok» molası vermiş, kablosuz bağlantı 10:51'de yeniden kurulunca devre
     kapanmıştır. 09:47'den sonra captcha gelmemiş olup 3 saatlik düşük tavan 12:47 dolayında biter. Son bir saatte 15 karar inmiş, 429
     görülmemiştir. Arşiv 138.584, kuyruk 798, kalıcı hata 163, yararlı karar 53.382'dir. Seçilen pencere sayısı 628/845'tir.
+    *İzleme (2026-10-28 14:20):* Kablosuz bağlantı 11:37:47'de sürücü tarafından kesilmiş, erişim noktası görünmediğinden yeniden bağlanma
+    kurulamamış ve bağlantı ancak 12:35:40'ta dönmüştür. Motor 11:38-12:36 arasında «yerel internet bağlantısı yok» molası vermiş, devre
+    12:36'da kapanmıştır. Kapak bu arada 12:08-12:34 arasında kapalı kalmıştır. Sonraki captcha 13:31'de, 09:47'den yaklaşık 224 dakika sonra
+    geldiğinden yönetici kısa mola (421 sn) vermiştir. Kapak 13:32-14:16 arasında yeniden kapandığından motor bu sürede karar indirmemiş,
+    uyanışta kendiliğinden sürmüştür. Son bir saatte 23 karar inmiş, 429 görülmemiştir. Arşiv 138.684, kuyruk 791, kalıcı hata 163, yararlı
+    karar 53.431'dir. Tarama 2017 Ekim sonu pencerelerine geçmiş olup seçilen pencere sayısı 635/852'dir.
