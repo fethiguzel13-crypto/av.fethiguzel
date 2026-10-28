@@ -263,3 +263,8 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     görevinin oturum açılış tetiğiyle 08:43'te kendiliğinden yeniden başlamıştır (pid 6852). 23:24'ten sonra captcha gelmemiştir. Son bir
     saatte 28 karar inmiş, devre kapalı kalmış ve 429 görülmemiştir. Arşiv 138.511, kuyruk 797, kalıcı hata 163, yararlı karar 53.329'dur.
     Tarama 2017 Aralık pencerelerinde olup seçilen pencere sayısı 621/838'dir.
+    *İzleme (2026-10-28 10:05):* Captcha 09:12'de gelmiş, 23:24'ten bu yana aralık uzun olduğundan yönetici kısa mola (310 sn) vermiştir.
+    09:47'deki ikinci captcha 35 dakika sonra, yani 60 dakikalık pencerenin içinde geldiğinden yönetici uzun mola (2317 sn) ve 3 saatlik
+    düşük tavan uygulamıştır. Mola 10:26 dolayında biter. Son bir saatte 59 karar inmiş, devre kapalı kalmış, 429 ve ağ hatası görülmemiştir.
+    Arşiv 138.569, kuyruk 797, kalıcı hata 163, yararlı karar 53.373'tür. Tarama 2017 Kasım pencerelerine geçmiş olup seçilen pencere sayısı
+    627/843'tür.

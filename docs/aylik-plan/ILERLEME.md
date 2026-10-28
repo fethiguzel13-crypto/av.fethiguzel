@@ -2466,3 +2466,20 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   Gözden geçirme gözlem 202'deki gerekçeyle ertelenmiştir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Sıradaki oturum hasat seyrini izler.
+
+## 2026-10-28 10:00 — Devralma ve hasat izleme (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `8920a0fb7` olup araya giren commit yoktur. 09:00 oturumu 09:18'de 0 koduyla bitmiş, 10:00'da
+  tek bir `oturum başladı` satırı düşmüştür. Başsız süreç tektir (claude pid 20396, çalıştırıcı 20892). Son 70 dakikada Sistem günlüğünde
+  42, 506, 507, 109, 6005, 6006 ve 12 olayı yoktur. Başka oturumun dosyalarına (`.gitignore`, `package.json`, `scripts/kalite.mjs`,
+  `scripts/karar-arama/`) dokunulmamış olup farkları yine yedi satırdır. 3123 ve 3124 boştur, `.next/dev/types/validator.ts` yoktur.
+- Güç: Makine prizdedir (`BatteryStatus` 2, %100), boş bellek 1830 MB'tır.
+- Hasat (`npm run yargi:hasat-durum`, 10:01): Motor 08:43'teki başlangıçtan beri aynı süreçle çalışmaktadır (pid 6852). Captcha 09:12'de
+  gelmiş ve yönetici kısa mola (310 sn) vermiştir. 09:47'deki ikinci captcha 60 dakikalık pencerenin içinde geldiğinden yönetici uzun mola
+  (2317 sn) ve 3 saatlik düşük tavan uygulamış olup mola 10:26 dolayında biter. Son bir saatte 59 karar inmiş, devre kapalı kalmış, 429 ve ağ
+  hatası görülmemiştir. Arşiv 138.569, kuyruk 797, kalıcı hata 163, yararlı karar 53.373'tür. Tarama 2017 Kasım pencerelerine geçmiş olup
+  seçilen pencere sayısı 627/843'tür. Seyir soru 31'in altına yazılmış, hız ayarına ve motora dokunulmamıştır.
+- Kapı: Değişiklik yalnız belge olup derlemeye ve teste girmediğinden kapı koşulmamıştır. Günün tam kapısı 09:02-09:17 arasında
+  1023 testte geçmiştir.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
+  Sıradaki oturum uzun molanın bitişini ve hasat seyrini izler.
