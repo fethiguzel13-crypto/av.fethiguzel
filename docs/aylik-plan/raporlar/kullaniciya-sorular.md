@@ -282,3 +282,9 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     vermiştir. Kapak 14:16'dan beri açık kalmış olup motor bu arada kesintisiz çalışmıştır. Tek ağ hatası 15:00:31'deki arama isteğinde
     görülen `UND_ERR_CONNECT_TIMEOUT` olup sonraki karar 12 saniye sonra indiğinden geçici sayılmıştır. Son bir saatte 53 karar inmiş, 429
     görülmemiştir. Arşiv 138.734, kuyruk 796, kalıcı hata 163, yararlı karar 53.455'tir. Seçilen pencere sayısı 639/855'tir.
+    *İzleme (2026-10-28 18:36):* 14:46'dan sonra dört captcha daha gelmiştir. 15:27'deki captcha 41 dakika sonra, yani 60 dakikalık pencerenin
+    içinde geldiğinden yönetici uzun mola (2007 sn) ve 3 saatlik düşük tavan vermiştir. 16:31'deki captcha kısa mola (550 sn) ile
+    geçiştirilmiş, 17:09'daki captcha 38 dakika sonra geldiğinden ikinci uzun mola (2201 sn) ve yeni 3 saatlik tavan uygulanmıştır. 18:16'daki
+    captcha yine kısa mola (341 sn) almıştır. Dört saatte beş captcha, 27-28 Ekim gecesindeki 35-41 dakikalık seyirle örtüşmekte olup düşük
+    tavan 20:09 dolayında biter. Son bir saatte 69 karar inmiş, devre kapalı kalmış, 429 ve ağ hatası görülmemiştir. Arşiv 138.934, kuyruk
+    801, kalıcı hata 163, yararlı karar 53.543'tür. Tarama 2017 Eylül başı pencerelerine geçmiş olup seçilen pencere sayısı 654/867'dir.

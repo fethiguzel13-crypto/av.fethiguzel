@@ -2546,3 +2546,22 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   1023 testte geçmiştir. Kayıt commit'i `0c69d0942`'dir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Sıradaki oturum hasat seyrini ve 2 saatlik tavanın 16:46 dolayındaki bitişini izler.
+
+## 2026-10-28 18:33 — Devralma ve hasat izleme (başsız oturum, sınır yenilemesi)
+
+- Devralma: `DURAKLAT` yok, son commit `f45dd5a4f` olup araya giren commit yoktur. 15:00 oturumu 15:02'de 0 koduyla bitmiştir. 16:00, 17:00
+  ve 18:00 oturumları 15-16 saniyede 1 koduyla bitmiş, üç günlük dosyasında da `You've hit your session limit · resets 6:30pm` yazmaktadır.
+  Çalıştırıcı her seferinde `kullanım limiti doldu` satırını yazıp yenileme görevini 18:33'e kurmuş, üç kurulumdan tek oturum doğmuştur
+  (18:33:01, claude pid 28928). Sistem günlüğünde 15:00'ten sonra 42, 506, 507, 109, 6005, 6006 ve 12 yoktur, yani kapak açık kalmış ve
+  makine uyumamıştır. Başka oturumun dosyalarına (`.gitignore`, `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) dokunulmamış
+  olup farkları yine yedi satırdır. 3123 ve 3124 boştur, `.next/dev/types/validator.ts` yoktur.
+- Güç: Makine prizdedir (`BatteryStatus` 2, %100), boş bellek 191 MB'tır.
+- Hasat (`npm run yargi:hasat-durum`, 18:34): Motor 08:43'teki başlangıçtan beri aynı süreçle çalışmaktadır (pid 6852). Captcha 15:27 ve
+  17:09'da 60 dakikalık pencerenin içinde tekrarladığından yönetici iki kez uzun mola ve 3 saatlik düşük tavan vermiş, 16:31 ve 18:16'daki
+  captcha'lar kısa mola almıştır. Düşük tavan 20:09 dolayında biter. Son bir saatte 69 karar inmiş, 429 ve ağ hatası görülmemiştir. Arşiv
+  138.934, kuyruk 801, kalıcı hata 163, yararlı karar 53.543'tür. Seçilen pencere sayısı 654/867'dir. Seyir soru 31'in altına yazılmış, hız
+  ayarına ve motora dokunulmamıştır.
+- Kapı: Değişiklik yalnız belge olup derlemeye ve teste girmediğinden kapı koşulmamıştır. Günün tam kapısı 09:02-09:17 arasında
+  1023 testte geçmiştir.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
+  Sıradaki oturum hasat seyrini ve düşük tavanın 20:09 dolayındaki bitişini izler.
