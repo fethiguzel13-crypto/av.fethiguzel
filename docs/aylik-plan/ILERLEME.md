@@ -2579,6 +2579,6 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   dolayında biter. Son bir saatte 68 karar inmiş, 429 ve ağ hatası görülmemiştir. Arşiv 138.959, kuyruk 802, kalıcı hata 163, yararlı karar
   53.545'tir. Seçilen pencere sayısı 657/868'dir. Seyir soru 31'in altına yazılmış, hız ayarına ve motora dokunulmamıştır.
 - Kapı: Değişiklik yalnız belge olup derlemeye ve teste girmediğinden kapı koşulmamıştır. Günün tam kapısı 09:02-09:17 arasında
-  1023 testte geçmiştir. Kayıt commit'i aşağıdaki ek commit'te yazılıdır.
+  1023 testte geçmiştir. Kayıt commit'i `ea0e212cf`'dir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Sıradaki oturum hasat seyrini ve düşük tavanın 21:51 dolayındaki bitişini izler.
