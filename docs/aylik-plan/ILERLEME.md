@@ -2565,3 +2565,20 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   1023 testte geçmiştir. Kayıt commit'i `cb4642a75`'tir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Sıradaki oturum hasat seyrini ve düşük tavanın 20:09 dolayındaki bitişini izler.
+
+## 2026-10-28 19:00 — Devralma ve hasat izleme (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `20c977caa` olup araya giren commit yoktur. 18:33 oturumu 18:35'te 0 koduyla bitmiş, 19:00 tetiği
+  19:00:03'te tek `oturum başladı` satırıyla başlamıştır. Başsız süreç tektir (claude pid 26044). Sistem günlüğünde 18:30'dan sonra 42, 506,
+  507, 109, 6005, 6006 ve 12 bulunmadığından kapak açık kalmış ve makine uyumamıştır. Başka oturumun dosyalarına (`.gitignore`,
+  `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) dokunulmamış olup farkları yine yedi satırdır. 3123 ve 3124 boştur,
+  `.next/dev/types/validator.ts` yoktur.
+- Güç: Makine prizdedir (`BatteryStatus` 2, %100), boş bellek 128 MB'tır.
+- Hasat (`npm run yargi:hasat-durum`, 19:01): Motor 08:43'teki başlangıçtan beri aynı süreçle çalışmaktadır (pid 6852). 18:51'deki captcha
+  18:16'dakinden 35 dakika sonra geldiğinden yönetici üçüncü uzun molayı (2293 sn) ve yeni 3 saatlik düşük tavanı vermiş olup tavan 21:51
+  dolayında biter. Son bir saatte 68 karar inmiş, 429 ve ağ hatası görülmemiştir. Arşiv 138.959, kuyruk 802, kalıcı hata 163, yararlı karar
+  53.545'tir. Seçilen pencere sayısı 657/868'dir. Seyir soru 31'in altına yazılmış, hız ayarına ve motora dokunulmamıştır.
+- Kapı: Değişiklik yalnız belge olup derlemeye ve teste girmediğinden kapı koşulmamıştır. Günün tam kapısı 09:02-09:17 arasında
+  1023 testte geçmiştir. Kayıt commit'i aşağıdaki ek commit'te yazılıdır.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
+  Sıradaki oturum hasat seyrini ve düşük tavanın 21:51 dolayındaki bitişini izler.

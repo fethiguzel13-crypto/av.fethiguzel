@@ -288,3 +288,7 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     captcha yine kısa mola (341 sn) almıştır. Dört saatte beş captcha, 27-28 Ekim gecesindeki 35-41 dakikalık seyirle örtüşmekte olup düşük
     tavan 20:09 dolayında biter. Son bir saatte 69 karar inmiş, devre kapalı kalmış, 429 ve ağ hatası görülmemiştir. Arşiv 138.934, kuyruk
     801, kalıcı hata 163, yararlı karar 53.543'tür. Tarama 2017 Eylül başı pencerelerine geçmiş olup seçilen pencere sayısı 654/867'dir.
+    *İzleme (2026-10-28 19:02):* 18:51'deki captcha 18:16'dakinden 35 dakika sonra, yani 60 dakikalık pencerenin içinde geldiğinden yönetici
+    üçüncü uzun molayı (2293 sn) ve yeni 3 saatlik düşük tavanı vermiştir. Mola 19:30 dolayında, tavan 21:51 dolayında biter. Son bir saatte
+    68 karar inmiş, devre kapalı kalmış, 429 ve ağ hatası görülmemiştir. Arşiv 138.959, kuyruk 802, kalıcı hata 163, yararlı karar
+    53.545'tir. Tarama 2017 Temmuz başı pencerelerine geçmiş olup seçilen pencere sayısı 657/868'dir.
