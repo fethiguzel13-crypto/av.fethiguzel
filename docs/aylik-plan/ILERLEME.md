@@ -2458,7 +2458,11 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   4. Ceza Dairesi kararı 08:36'da indiğinden bunlar ağ arızası sayılmamıştır. 23:24'ten sonra captcha gelmemiştir. Son bir saatte 28 karar
   inmiş olup devre kapalıdır ve 429 görülmemiştir. Arşiv 138.511, kuyruk 797, kalıcı hata 163, yararlı karar 53.329'dur. Tarama 2017 Aralık
   pencerelerinde olup seçilen pencere sayısı 621/838'dir. Seyir soru 31'in altına yazılmış, hız ayarına ve motora dokunulmamıştır.
-- Kapı: Günün ilk oturumu olduğundan ve `9274477e5` dünkü tam kapıdan sonra geldiğinden `npm run kalite` 09:05'te başlatılmıştır
-  (`logs/kalite-tam-20261028-0905.log`). Kayıt kapının bitişi beklenmeden yazılmış olup sonuç kapı bitince bu maddeye eklenir.
+- Kapı: Günün ilk oturumu olduğundan ve `9274477e5` dünkü tam kapıdan sonra geldiğinden `npm run kalite` 09:02-09:17 arasında koşulmuş
+  ve 1023 testte geçmiştir (`logs/kalite-tam-20261028-0905.log`). Derleme 1815 MB boş bellekte 7 işçiyle 427 sn, uçtan uca adım 172 sn
+  sürmüştür. Kayıt kapının bitişi beklenmeden `12d613fcf` ile commit'lenmiş, sonuç sonradan eklenmiştir. Derlemenin yeniden ürettiği beş
+  zaman damgası dosyası geri alınmıştır. Pil kapı sonunda prizde %100'dür.
+- `OTONOM.md` teknik tuzaklarına yeniden başlatmanın oturumu iletisiz kestiğine ilişkin not eklenmiş, gözlem günlüğüne 242 yazılmıştır.
+  Gözden geçirme gözlem 202'deki gerekçeyle ertelenmiştir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Sıradaki oturum hasat seyrini izler.

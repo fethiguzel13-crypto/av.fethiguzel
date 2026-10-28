@@ -128,6 +128,10 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `docs/aylik-plan/raporlar/k
   `scripts/lib/__tests__/otonom-calis.test.js` dört eşzamanlı süreçle sınamaktadır. Aynı durumda ikinci satır artık
   `önceki oturum sürüyor (pid …) — atlandı` olur. Devralmada aynı saniyede iki `oturum başladı` satırı görülürse süreçler
   (`Win32_Process`, `-p` ve `OTONOM.md`) ve dökümler sayılır.
+- **Yeniden başlatma da oturumu iletisiz keser** (2026-10-28: 08:36'da uyanışta açılan oturum 08:38'de `Power Action Reboot` ile
+  kesilmiş, günlük dosyası boş, `oturum bitti` satırı yok kalmıştır). `oturum bitti` satırı olmayan oturum için Sistem günlüğünde 42, 506
+  ve 507 ile birlikte 109, 6006, 6005 ve 12 olayları da aranır. Ölü sahipli kilidi sonraki çalıştırıcı devralır. Hasat motoru
+  `YargiHasatMotoru` görevinin oturum açılış tetiğiyle kendiliğinden yeniden başlar; durum ekranındaki başlangıç süresi ve yeni pid ile doğrulanır.
 - **Etkileşimli oturum aynı ağaçta commit atabilir** (2026-10-15 10:14: başsız kapı sürerken `80f2774d2` atılmıştır). `git add` yalnız
   bu oturumun yollarıyla yapılır, `git commit -a` ve `git add -A` kullanılmaz. Commit'ten önce `git log -3` ile araya giren commit aranır
   ve kayda yazılır.
