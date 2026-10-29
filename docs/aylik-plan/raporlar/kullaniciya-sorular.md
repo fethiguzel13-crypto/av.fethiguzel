@@ -329,3 +329,14 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     kararın tamamı hedefli kanaldan gelmiş olup 110'u yararlı etiketi almıştır. 429 ve ağ hatası görülmemiştir. Tarama 2017 Mart'ın ikinci
     yarısına inmiş, 17:05'teki yenileme 16-31 Mayıs 2026 penceresinde karar sayısını 4.840'tan 5.682'ye çıkarmıştır. Arşiv 139.432, kuyruk 798,
     kalıcı hata 163, yararlı karar 53.670'tir. Seçilen pencere sayısı 694/903'tür.
+    *İzleme (2026-10-29 22:05):* 17:10'dan sonra altı captcha gelmiş olup yönetici bunları yine çiftler hâlinde karşılamıştır. 17:33'teki
+    captcha 162 dakika sonra geldiğinden kısa mola (449 sn) ve 2 saatlik tavan, 18:10'daki captcha 37 dakika sonra geldiğinden uzun mola
+    (2154 sn) ve 3 saatlik düşük tavan almıştır. 19:16 (66 dakika sonra, 324 sn) ile 20:59'daki (67 dakika sonra, 538 sn) captchalar kısa
+    mola, 19:52 (36 dakika sonra, 2183 sn) ile 21:40'taki (41 dakika sonra, 2023 sn) captchalar uzun mola almıştır. Son uzun mola 22:14'te,
+    son düşük tavan 00:40 dolayında biter. Durum ekranı hızı, hedefi ve tavanı 2/dk olarak gösterdiğinden 18:10'da verilen düşük tavan
+    sürerken gelen üç captcha, düşük tavanın bu tabanda captcha aralığını uzatmadığına işaret etmektedir. Kapak 17:03'ten bu yana kapanmamış
+    (Kernel-Power 506 kaydı yoktur), motor aynı süreçle (pid 29152) çalışmıştır. 17:06-21:40 arasında inen 233 kararın tamamı hedefli kanaldan
+    gelmiş olup 91'i yararlı etiketi almıştır. 429 ve ağ hatası görülmemiştir. 17:06-17:21 arasındaki yenileme turunda 2026'nın dokuz
+    penceresi büyümüş, en büyük artış 8-15 Mayıs 2026 penceresinde 6.524'ten 7.724'e olmuştur. 20:38-21:12 arasında yoklanan Aralık ve Kasım
+    2025 pencereleri değişmemiştir. Tarama 2017 Şubat başına inmiştir. Arşiv 139.665, kuyruk 796, kalıcı hata 163, yararlı karar 53.761'dir.
+    Seçilen pencere sayısı 716/922'dir.

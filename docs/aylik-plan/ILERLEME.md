@@ -2676,3 +2676,26 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Yayın günü 2026-10-30'dur, birleştirme, push ve canlı doğrulama `PUSH-KONTROL-LISTESI.md` uyarınca kullanıcıyla yapılır. Sıradaki
   oturum 17:51'de biten düşük tavandan sonraki hasat hızını izler.
+
+## 2026-10-29 22:00 — Devralma ve hasat izleme (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `e034c9301` olup araya giren commit yoktur. 17:04 oturumu 17:27:11'de 0 koduyla bitmiştir. 18:00,
+  19:00, 20:00 ve 21:00 oturumları saniyeler içinde 1 koduyla bitmiş, dördünün günlük dosyasında da `You've hit your session limit · resets
+  10pm (Europe/Istanbul)` yazmaktadır. Çalıştırıcı her birinden sonra `kullanım limiti doldu` satırını yazıp 22:03 yenileme görevini kurmuş
+  olup desen bu biçimi tanımaktadır. Bu oturum saatlik tetikle 22:00:02'de açılmış, 22:03 yenileme görevi 22:03:02'de kilidi dolu görüp
+  `önceki oturum sürüyor (pid 18636) — atlandı` satırını yazmıştır. Tek başsız süreç vardır (pid 9404). Kapak 17:03:40'tan beri
+  kapanmamıştır (Sistem günlüğünde 17:00'den sonra 42, 506, 109, 6005, 6006 ve 12 kaydı yoktur). Başka oturumun dosyalarına (`.gitignore`,
+  `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) dokunulmamış olup ilk üçünün değişiklik tarihi 2026-10-17 00:13'tür.
+  3123 ve 3124 boştur, `.next/dev/types/validator.ts` yoktur.
+- Güç: Makine prizdedir (`BatteryStatus` 2, %100), boş bellek 822 MB'tır.
+- Hasat (`npm run yargi:hasat-durum`, 22:01): Motor 11:57:58'deki başlangıçtan beri aynı süreçle çalışmaktadır (pid 29152). 17:10'dan
+  sonra altı captcha gelmiş, yönetici 18:10, 19:52 ve 21:40'taki captchalarda uzun mola ile 3 saatlik düşük tavan vermiştir. Sonuncusu
+  00:40 dolayında biter, son uzun mola 22:14'te sona ermektedir. 18:10'daki düşük tavan sürerken üç captcha daha geldiğinden düşük tavanın
+  2/dk'lık tabanda captcha aralığını uzatmadığı soru 31'e yazılmıştır. 17:06-21:40 arasında inen 233 kararın tamamı hedefli kanaldan gelmiş
+  olup 91'i yararlı etiketi almıştır. 429 ve ağ hatası görülmemiştir. Arşiv 139.665, kuyruk 796, kalıcı hata 163, yararlı karar 53.761'dir.
+  Seçilen pencere sayısı 716/922 olup seyir soru 31'in altına yazılmış, hız ayarına ve motora dokunulmamıştır.
+- Kapı: Günün tam kapısı 17:06-17:26 arasında 1023 testte geçmiştir. Bu oturumun değişikliği yalnız belge olup derlemeye ve teste
+  girmediğinden kapı koşulmamıştır.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
+  Yayın günü 2026-10-30'dur, birleştirme, push ve canlı doğrulama `PUSH-KONTROL-LISTESI.md` uyarınca kullanıcıyla yapılır. Sıradaki
+  oturum 00:40'ta biten düşük tavandan sonraki hasat hızını izler.
