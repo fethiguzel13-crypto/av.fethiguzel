@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-10-28T12:18:41.657Z",
-  "dateLabel": "28 Ekim 2026",
+  "generatedAt": "2026-10-29T12:28:55.664Z",
+  "dateLabel": "29 Ekim 2026",
   "highlights": [],
   "items": {
     "resmigazete": [
+      {
+        "id": "rg-20261029-20110101-1",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Diğer",
+        "icon": "scroll-text",
+        "title": "Resmî Gazete yayımlanmamaktadır.",
+        "konu": "Resmî Gazete yayımlanmamaktadır.",
+        "publicSummary": "",
+        "date": "2026-10-29",
+        "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20110101-1.htm"
+      },
+      {
+        "id": "rg-20261029-20110101-1",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Diğer",
+        "icon": "scroll-text",
+        "title": "Resmî Gazete yayımlanmamaktadır.",
+        "konu": "Resmî Gazete yayımlanmamaktadır.",
+        "publicSummary": "",
+        "date": "2026-10-29",
+        "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20110101-1.htm"
+      },
+      {
+        "id": "rg-20261029-20110101-1",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Diğer",
+        "icon": "scroll-text",
+        "title": "Resmî Gazete yayımlanmamaktadır.",
+        "konu": "Resmî Gazete yayımlanmamaktadır.",
+        "publicSummary": "",
+        "date": "2026-10-29",
+        "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20110101-1.htm"
+      },
       {
         "id": "rg-20261028-20261028-1",
         "source": "RG",
@@ -75,138 +111,6 @@
         "publicSummary": "",
         "date": "2026-10-28",
         "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261028.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261028-5.htm"
-      },
-      {
-        "id": "rg-20261027-20261027-0",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Diğer",
-        "icon": "scroll-text",
-        "title": "7596 Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun",
-        "konu": "7596 Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun",
-        "publicSummary": "",
-        "date": "2026-10-27",
-        "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-0.htm"
-      },
-      {
-        "id": "rg-20261027-20261027-1",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "––  Jandarma ve Sahil Güvenlik Akademisi Güvenlik Bilimleri Enstitüsü Kuruluş, Görev ve Çalışma Esasları ile Lisansüstü Eğitim Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-        "konu": "––  Jandarma ve Sahil Güvenlik Akademisi Güvenlik Bilimleri Enstitüsü Kuruluş, Görev ve Çalışma Esasları ile Lisansüstü Eğitim Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-        "publicSummary": "",
-        "date": "2026-10-27",
-        "url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-1.htm"
-      },
-      {
-        "id": "rg-20261027-20261027-2",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "a - Yargı İlânları",
-        "konu": "a - Yargı İlânları",
-        "publicSummary": "",
-        "date": "2026-10-27",
-        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261027.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261027-2.htm"
-      },
-      {
-        "id": "rg-20261027-20261027-3",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "b - Artırma, Eksiltme ve İhale İlânları",
-        "konu": "b - Artırma, Eksiltme ve İhale İlânları",
-        "publicSummary": "",
-        "date": "2026-10-27",
-        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261027.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261027-3.htm"
-      },
-      {
-        "id": "rg-20261027-20261027-4",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "c - Çeşitli İlânlar",
-        "konu": "c - Çeşitli İlânlar",
-        "publicSummary": "",
-        "date": "2026-10-27",
-        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261027.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261027-4.htm"
-      },
-      {
-        "id": "rg-20261027-20261027-5",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "– T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
-        "konu": "– T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
-        "publicSummary": "",
-        "date": "2026-10-27",
-        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261027.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261027-5.htm"
-      },
-      {
-        "id": "rg-20261027-20261027-2",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "a - Yargı İlânları",
-        "konu": "a - Yargı İlânları",
-        "publicSummary": "",
-        "date": "2026-10-27",
-        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261027.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261027-2.htm"
-      },
-      {
-        "id": "rg-20261027-20261027-3",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "b - Artırma, Eksiltme ve İhale İlânları",
-        "konu": "b - Artırma, Eksiltme ve İhale İlânları",
-        "publicSummary": "",
-        "date": "2026-10-27",
-        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261027.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261027-3.htm"
-      },
-      {
-        "id": "rg-20261027-20261027-4",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "c - Çeşitli İlânlar",
-        "konu": "c - Çeşitli İlânlar",
-        "publicSummary": "",
-        "date": "2026-10-27",
-        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261027.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261027-4.htm"
-      },
-      {
-        "id": "rg-20261027-20261027-5",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "– T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
-        "konu": "– T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
-        "publicSummary": "",
-        "date": "2026-10-27",
-        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261027.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/10/20261027-5.htm"
-      },
-      {
-        "id": "rg-20261027-20261027m1",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Yönetmelik",
-        "icon": "scroll-text",
-        "title": "27/10/2026 tarihli ve 33413 mükerrer sayılı Resmî Gazete’de, 2027 Yılı Cumhurbaşkanlığı Yıllık Programı yayımlanmıştır.",
-        "konu": "27/10/2026 tarihli ve 33413 mükerrer sayılı Resmî Gazete’de, 2027 Yılı Cumhurbaşkanlığı Yıllık Programı yayımlanmıştır.",
-        "publicSummary": "",
-        "date": "2026-10-27",
-        "url": "http://www.resmigazete.gov.tr/eskiler/2026/10/20261027M1.htm"
       }
     ],
     "yargitay": [],
@@ -215,9 +119,9 @@
     "mevzuat": []
   },
   "stats": {
-    "totalItems": 17,
+    "totalItems": 9,
     "perSource": {
-      "resmigazete": 17,
+      "resmigazete": 9,
       "yargitay": 0,
       "aym": 0,
       "hudoc": 0,
@@ -225,6 +129,13 @@
     }
   },
   "errors": [
+    {
+      "source": "hudoc",
+      "message": {
+        "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://hudoc.echr.coe.int/eng#{%22respondent%22:[%22TUR%22],%22documentcollectionid2%22:[%22JUDGMENTS%22,%22DECISIONS%22],%22kpdate%22:[%222026-09-29T00:00:00.0Z%22,%222026-10-29T23:59:59.0Z%22],%22sort%22:[%22kpdate%20Descending%22]}\", waiting until \"networkidle\"\n",
+        "stack": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://hudoc.echr.coe.int/eng#{%22respondent%22:[%22TUR%22],%22documentcollectionid2%22:[%22JUDGMENTS%22,%22DECISIONS%22],%22kpdate%22:[%222026-09-29T00:00:00.0Z%22,%222026-10-29T23:59:59.0Z%22],%22sort%22:[%22kpdate%20Descending%22]}\", waiting until \"networkidle\"\n\n    at scrape (/home/runner/work/av.fethiguzel/av.fethiguzel/scraper/scrape-hudoc.js:79:16)"
+      }
+    },
     {
       "source": "yargitay",
       "message": {
