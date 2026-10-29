@@ -113,7 +113,10 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `docs/aylik-plan/raporlar/k
   15:35 ve 22:07'deki iki hata, 23:13'teki uyanıştan sonra aynı iki kararın inmesiyle kapanmıştır). Kritik pil uykusu oturumu öldürmeden
   dondurur (2026-10-22: 05:00:03'te başlayan oturum 05:00:48'de «Battery» nedeniyle hazırda beklemeye geçmiş, makine 12:01'de prize
   takılınca kaldığı yerden sürmüş, hasat motoru da kendiliğinden devam etmiştir). Bu yüzden istemdeki saat gerçek saat sayılmaz,
-  devralmada `Get-Date` okunur ve kayıt gerçek saatle yazılır. Uzun uyku ise dondurulan oturumu geri getirmeyebilir (2026-10-28: 23:33'te
+  devralmada `Get-Date` okunur ve kayıt gerçek saatle yazılır. Kapak beklemesi de oturumu öldürmeden dondurur (2026-10-29: kaçan 16:00
+  tetiği 16:14:50'de uyanışta oturum açmış, kapak 16:15:07'de yeniden kapanınca oturum 17:03:40'a kadar donmuş, sınır 17:00'de
+  yenilendiğinden uyanışta işe başlamıştır). 17:03 yenileme görevi aynı uyanışta kilidi dolu görüp `önceki oturum sürüyor` satırıyla
+  atlanmış olup bu satır o durumda hata sayılmaz. Uzun uyku ise dondurulan oturumu geri getirmeyebilir (2026-10-28: 23:33'te
   başlayan oturum 23:38:21'de «Application API» uykusuyla kesilmiş, makine 11:57:40'ta hazırda beklemeden dönünce ne başsız süreç ne de
   eski motor süreci kalmıştır). Yenileme görevinin son sonucu 0x40010004 olup çalıştırıcı `oturum bitti` satırını yazmamıştır. Görevlerin
   2 saat 45 dakikalık süre sınırı duvar saatiyle işlediğinden oturumun uyanışta sonlandırılmış olması olasıdır, ne var ki Görev

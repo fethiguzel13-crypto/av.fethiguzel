@@ -2648,3 +2648,26 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   geçmiştir. Prize takılan ilk oturum tam kapıyı koşar. Kayıt commit'i `8b3e7151c`'dir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Sıradaki oturum pil ve güç durumunu, 2017 kurul ve hedefli kanal kararlarının verimini izler.
+
+## 2026-10-29 17:04 — Devralma, sınırla kesilen 13:02 kapısı ve hasat izleme (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `adbba98f3` olup araya giren commit yoktur. Makine 12:26'da prize takılmış (Kernel-Power 105),
+  13:00 oturumu günün tam kapısını 13:02'de başlatmıştır. Derleme 583 sn'de geçmiş, oturum 13:18:04'te `You've hit your session limit ·
+  resets 5pm` iletisiyle 1 koduyla bitmiştir. Süreç ağacı kapanınca kapı `test:e2e` adımına "KIRIK 0 sn" yazmış olup
+  `logs/kalite-test-e2e-kirik.log` bir baytlık boş dosyadır. Bu adım sahte kırık sayılmış, öteki on iki adım 979 testte geçmiştir. 13:00
+  oturumu kayıt yazmadan kesildiğinden durumu bu kayda alınmıştır. Çalıştırıcı 17:03 yenileme görevini kurmuş, 14:00 ve 15:00 oturumları
+  aynı iletiyle saniyeler içinde bitmiştir. Kapak 15:55:07-16:14:38 arasında kapalı kalmış, kaçan 16:00 tetiği bu oturumu uyanışta
+  16:14:50'de açmıştır. Kapak 16:15:07'de yeniden kapanınca oturum 17:03:40'a kadar donmuş ve işe 17:04'te başlamıştır. 17:03 yenileme
+  görevi 17:04:13'te kilidi dolu görüp `önceki oturum sürüyor (pid 19780) — atlandı` satırını yazmıştır. Tuzak `OTONOM.md`'ye eklenmiştir.
+  Başka oturumun dosyalarına (`.gitignore`, `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) dokunulmamıştır. 13:02
+  derlemesinin yeniden ürettiği site haritası ve dizin dosyaları kapıdan sonra geri alınır. 3123 ve 3124 boştur,
+  `.next/dev/types/validator.ts` yoktur.
+- Güç: Makine prizdedir (`BatteryStatus` 2, %100), boş bellek 773 MB'tır.
+- Hasat (`npm run yargi:hasat-durum`, 17:06): Motor 11:57:58'deki başlangıçtan beri aynı süreçle çalışmaktadır (pid 29152). 12:16'dan
+  sonra dört captcha gelmiş, yönetici 13:04 ve 14:51'deki captchalarda uzun mola ile 3 saatlik düşük tavan vermiştir. Sonuncusu 17:51
+  dolayında biter. 12:16'dan bu yana inen 197 kararın tamamı hedefli kanaldan gelmiş olup 110'u yararlı etiketi almıştır. 429 ve ağ hatası
+  görülmemiştir. Arşiv 139.432, kuyruk 798, kalıcı hata 163, yararlı karar 53.670'tir. Seçilen pencere sayısı 694/903 olup seyir soru
+  31'in altına yazılmış, hız ayarına ve motora dokunulmamıştır.
+- Kapı: Günün tam kapısı 17:06'da yeniden başlatılmıştır (`logs/kalite-tam-20261029-1706.log`). Kapı beklenirken sınır gelirse kaydın
+  kaybolmaması için bu blok kapı bitmeden commit edilmiş olup sonuç ayrı satırla eklenir.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).

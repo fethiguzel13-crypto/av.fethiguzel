@@ -321,3 +321,11 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     hedefli kanal kararıdır. 23:38'deki "verim düşüşü geçicidir" değerlendirmesi böylece doğrulanmıştır. Uyanıştan sonra captcha, 429 ve ağ hatası
     görülmemiştir. Arşiv 139.236, kuyruk 807, kalıcı hata 163, yararlı karar 53.561'dir. Seçilen pencere sayısı 679/888 olup tarama 2017
     Mayıs başındadır.
+    *İzleme (2026-10-29 17:10):* 12:16'dan sonra dört captcha gelmiştir. 12:29'daki captcha arama adımında gelmiş olup yönetici kısa mola
+    (328 sn) ve 2 saatlik tavan vermiştir. 13:04'teki captcha 35 dakika sonra, yani 60 dakikalık pencere içinde geldiğinden uzun mola
+    (2417 sn) ve 3 saatlik düşük tavan verilmiştir. 14:14'teki captcha 70 dakika sonra geldiğinden kısa mola (490 sn), 14:51'deki captcha ise
+    37 dakika sonra geldiğinden uzun mola (2547 sn) ve 17:51 dolayında biten 3 saatlik düşük tavan almıştır. Kapak 15:55-16:14 ve 16:15-17:03
+    arasında kapalı kaldığından motor bu sürelerde karar indirmemiş, uyanışta aynı süreçle (pid 29152) sürmüştür. 12:16'dan bu yana inen 197
+    kararın tamamı hedefli kanaldan gelmiş olup 110'u yararlı etiketi almıştır. 429 ve ağ hatası görülmemiştir. Tarama 2017 Mart'ın ikinci
+    yarısına inmiş, 17:05'teki yenileme 16-31 Mayıs 2026 penceresinde karar sayısını 4.840'tan 5.682'ye çıkarmıştır. Arşiv 139.432, kuyruk 798,
+    kalıcı hata 163, yararlı karar 53.670'tir. Seçilen pencere sayısı 694/903'tür.
