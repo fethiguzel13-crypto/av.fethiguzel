@@ -304,3 +304,20 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     kapalı kaldığından motor bu sürede karar indirmemiş, uyanışta kendiliğinden sürmüştür. Son bir saatte 47 karar inmiş, 429 görülmemiş, yedi
     ağ hatasının tamamı bu üç kesintiden doğmuştur. Arşiv 139.072, kuyruk 802, kalıcı hata 163, yararlı karar 53.553'tür. Tarama 2017 Haziran
     ortası pencerelerine geçmiş olup seçilen pencere sayısı 666/878'dir.
+    *İzleme (2026-10-28 23:38):* 21:17'den sonra üç captcha gelmiştir. 21:48'deki captcha 19:58'dekinden 110 dakika sonra geldiğinden
+    yönetici kısa mola (364 sn) ve 2 saatlik tavan vermiştir. 22:24'teki captcha 36 dakika sonra, yani 60 dakikalık pencere içinde geldiğinden
+    uzun mola (2025 sn) ve 01:24 dolayında biten 3 saatlik düşük tavan verilmiştir. 23:28'deki captcha 64 dakika sonra geldiğinden
+    yönetici yeniden kısa mola (396 sn) ve 01:28 dolayına kadar 2 saatlik tavan vermiştir. 21:17'den bu yana 138 karar inmiş, 429 ve ağ hatası
+    görülmemiştir. Bu kararların 106'sı zayıf, yalnız 4'ü yararlı etiketi almıştır, zira 17:52'den beri inen kararların tamamı örnek
+    kanalındandır. Kuyruk önce karar yılına, sonra kanal önceliğine göre sıralandığından (`harvester/daemon.mjs:315`) 2018 pencerelerinden
+    kalan örnekler 2017'nin emsal işaretli kararlarından önce inmektedir. 23:36'daki `queue.jsonl` kaydında başta 20 adet 2018 örneği kalmış
+    olup ardından 2 kurul, 554 emsal işaretli ve 234 örnek 2017 kararı gelmektedir. Verim düşüşü bu yüzden geçici sayılmış, sıralamaya
+    dokunulmamıştır. Arşiv 139.207, kuyruk 799, kalıcı hata 163, yararlı karar 53.557'dir. Seçilen pencere sayısı 676/887 olup tarama 2017
+    Mayıs ortasındadır.
+    *İzleme (2026-10-29 12:16):* Makine 23:38:21'de uykuya geçip 11:57:40'ta uyanmış olup motor bu sürede karar indirmemiştir. Eski
+    süreç uyanışta bulunmadığından servis görevi 11:57:58'de yeni süreç başlatmış (pid 29152), yönetici öğrenilmiş 2/dk tavanını geri
+    yüklemiştir. 12:10'da `2018 tamamlandı` satırı düşmüş, ardından iki Ceza Daireleri Başkanlar Kurulu kararı ile hedefli kanaldan 2017
+    kararları gelmeye başlamıştır. Uyanıştan 12:16'ya kadar inen 25 kararın 4'ü yararlı olup dördü de bu satırdan sonra inen iki kurul ve iki
+    hedefli kanal kararıdır. 23:38'deki "verim düşüşü geçicidir" değerlendirmesi böylece doğrulanmıştır. Uyanıştan sonra captcha, 429 ve ağ hatası
+    görülmemiştir. Arşiv 139.236, kuyruk 807, kalıcı hata 163, yararlı karar 53.561'dir. Seçilen pencere sayısı 679/888 olup tarama 2017
+    Mayıs başındadır.

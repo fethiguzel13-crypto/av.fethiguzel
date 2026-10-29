@@ -113,7 +113,12 @@ karar gerekiyorsa en güvenli seçenek uygulanır ve `docs/aylik-plan/raporlar/k
   15:35 ve 22:07'deki iki hata, 23:13'teki uyanıştan sonra aynı iki kararın inmesiyle kapanmıştır). Kritik pil uykusu oturumu öldürmeden
   dondurur (2026-10-22: 05:00:03'te başlayan oturum 05:00:48'de «Battery» nedeniyle hazırda beklemeye geçmiş, makine 12:01'de prize
   takılınca kaldığı yerden sürmüş, hasat motoru da kendiliğinden devam etmiştir). Bu yüzden istemdeki saat gerçek saat sayılmaz,
-  devralmada `Get-Date` okunur ve kayıt gerçek saatle yazılır. Uzun işten (tam mobil derleme, tam kapı) önce
+  devralmada `Get-Date` okunur ve kayıt gerçek saatle yazılır. Uzun uyku ise dondurulan oturumu geri getirmeyebilir (2026-10-28: 23:33'te
+  başlayan oturum 23:38:21'de «Application API» uykusuyla kesilmiş, makine 11:57:40'ta hazırda beklemeden dönünce ne başsız süreç ne de
+  eski motor süreci kalmıştır). Yenileme görevinin son sonucu 0x40010004 olup çalıştırıcı `oturum bitti` satırını yazmamıştır. Görevlerin
+  2 saat 45 dakikalık süre sınırı duvar saatiyle işlediğinden oturumun uyanışta sonlandırılmış olması olasıdır, ne var ki Görev
+  Zamanlayıcı işlem günlüğü kapalı olduğundan bu doğrulanamamıştır. Böyle kesilen oturumun commit etmeden yazdığı kayıt sonraki oturumca
+  okunup kendi işi gibi commit edilir. Uzun işten (tam mobil derleme, tam kapı) önce
   `Win32_Battery` denetlenir: `BatteryStatus` 2 prizde demektir. Makine pildeyse ve `EstimatedChargeRemaining` %50'nin altındaysa
   uzun iş başlatılmaz, kısa işe geçilir. Tam kapı pilde yaklaşık %25-30 tüketir (2026-10-18: iki kapı %81'den %47'ye, 2026-10-22: 2 işçili tek kapı 30 dakikada %57'den
   %46'ya indirmiştir), bu
