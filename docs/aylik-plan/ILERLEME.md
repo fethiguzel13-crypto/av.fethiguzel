@@ -2669,5 +2669,10 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   görülmemiştir. Arşiv 139.432, kuyruk 798, kalıcı hata 163, yararlı karar 53.670'tir. Seçilen pencere sayısı 694/903 olup seyir soru
   31'in altına yazılmış, hız ayarına ve motora dokunulmamıştır.
 - Kapı: Günün tam kapısı 17:06'da yeniden başlatılmıştır (`logs/kalite-tam-20261029-1706.log`). Kapı beklenirken sınır gelirse kaydın
-  kaybolmaması için bu blok kapı bitmeden commit edilmiş olup sonuç ayrı satırla eklenir.
+  kaybolmaması için bu blok kapı bitmeden commit edilmiş olup sonuç ayrı satırla eklenir. Kayıt commit'i `83e7629d3`'tür.
+- Kapı sonucu: Kapı 17:06-17:26 arasında 1023 testte geçmiştir (`CIKIS=0`). Boş bellek derleme sırasında 360 MB'a indiğinden derleme
+  3 işçiyle 736 sn sürmüş, `test:e2e` 191 sn'de 44/44 geçmiştir. Derlemenin yeniden ürettiği beş zaman damgası dosyası geri alınmış,
+  3123 ve 3124 boş kalmış, `.next/dev/types/validator.ts` oluşmamıştır.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
+  Yayın günü 2026-10-30'dur, birleştirme, push ve canlı doğrulama `PUSH-KONTROL-LISTESI.md` uyarınca kullanıcıyla yapılır. Sıradaki
+  oturum 17:51'de biten düşük tavandan sonraki hasat hızını izler.
