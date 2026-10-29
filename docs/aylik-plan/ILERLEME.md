@@ -2645,6 +2645,6 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   olup seyir soru 31'in altına yazılmış, hız ayarına ve motora dokunulmamıştır.
 - Kapı: Günün ilk oturumu olmasına karşın makine %35 pilde olduğundan tam kapı pil kuralı gereği başlatılmamıştır. Değişiklik yalnız
   belge olup derlemeye ve teste girmediğinden hızlı kapı da koşulmamıştır. Son tam kapı 2026-10-28 09:02-09:17 arasında 1023 testte
-  geçmiştir. Prize takılan ilk oturum tam kapıyı koşar.
+  geçmiştir. Prize takılan ilk oturum tam kapıyı koşar. Kayıt commit'i `8b3e7151c`'dir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Sıradaki oturum pil ve güç durumunu, 2017 kurul ve hedefli kanal kararlarının verimini izler.
