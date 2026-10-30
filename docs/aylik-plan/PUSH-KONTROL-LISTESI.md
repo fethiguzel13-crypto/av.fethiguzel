@@ -37,6 +37,11 @@ içtihat commit'leri). Uzak commit'ler yine yalnız `public/data/daily.json` ile
 değiştirmekte olup yerel dal birleştirme tabanından bu yana bu dosyalara dokunmamıştır. `git merge-tree` tek ağaç kimliği vermiş, çakışma
 çıkmamıştır. İş akışı 30 Ekim commit'ini öğle saatlerinde attığından birleştirmeden hemen önce `git fetch origin` yinelenir.
 
+30 Ekim commit'i (`ebd55cfb4`) 15:20'de uzak dala düşmüş, 16:01'deki `git fetch origin` bunu indirmiştir. Bu durumda yerel dal 163
+commit, uzak dal 15 commit öndedir. Uzak commit'ler yalnız `public/data/daily.json` ile on beş `public/data/archive/<tarih>.json`
+dosyasını değiştirmekte olup yerel dal bu dosyalara dokunmamıştır. Yinelenen `git merge-tree` ön denemesi 0 koduyla tek ağaç kimliği
+vermiş, çakışma çıkmamıştır.
+
 Sıra:
 
 1. `git status` temiz olmalıdır (A bölümündeki karar arama aracı kararı uygulanmış).

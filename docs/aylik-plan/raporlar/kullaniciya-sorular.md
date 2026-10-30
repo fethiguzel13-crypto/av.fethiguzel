@@ -371,3 +371,10 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     düşük tavan 17:28 dolayında sona ermektedir. 14:01-14:28 arasında inen 42 kararın tamamı hedefli kanaldan gelmiş olup 24'ü yararlı
     etiketi almıştır. Devre kapalı kalmış, 429 ve ağ hatası görülmemiştir. Arşiv 139.935, kuyruk 803, kalıcı hata 163, yararlı karar
     53.891'dir. Seçilen pencere sayısı 740/945'tir.
+    *İzleme (2026-10-30 16:03):* Yedinci captcha 15:37:23'te, 14:28:34'teki uzun moladan 69 dakika sonra gelmiştir. Uzun molayı açan dal
+    yakın captcha listesini boşalttığından yönetici bunu ilk captcha saymış, 556 sn'lik kısa mola ile 2 saatlik tavan vermiştir. Kısa
+    mola dalı `capUntil` değerinin üzerine yazdığından (`governor.mjs`) yeni tavan, 14:28'de verilen 3 saatlik düşük tavanın yerini almış
+    olup 17:37 dolayında sona ermektedir. Motor 14:28'deki moladan sonra ilk kararı 15:07:00'de, kısa moladan sonra ise 15:46:40'ta
+    indirmiştir. 15:07-16:01 arasında inen 70 kararın tamamı hedefli kanaldan gelmiş olup 31'i yararlı etiketi almıştır. Devre kapalı
+    kalmış, 429 ve ağ hatası görülmemiştir. Arşiv 16:00'da 140.000'i aşmış olup 140.005, kuyruk 799, kalıcı hata 163, yararlı karar
+    53.922'dir. Seçilen pencere sayısı 745/949'dur.
