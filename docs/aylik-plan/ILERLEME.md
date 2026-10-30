@@ -2872,3 +2872,28 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   girmediğinden kapı koşulmamıştır. Kayıt commit'i `ae11d916b`'dir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Saatlik tetik bugün 23:59'da sona ermektedir. Birleştirme, push ve canlı doğrulama `PUSH-KONTROL-LISTESI.md` uyarınca kullanıcıyla yapılır.
+
+## 2026-10-30 20:00 — Devralma ve hasat izlemesi (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `d254f6416` olup araya giren commit yoktur. 19:00 oturumu 19:03:25'te 0 koduyla bitmiştir. Bu
+  oturum 20:00:03'te saatlik tetikle açılmış, `calis.log`'a tek `oturum başladı` satırı düşmüştür ve tek başsız süreç vardır (pid 24792).
+  19:00'dan beri Sistem günlüğünde 42, 506, 507, 109, 6005, 6006 ve 12 olaylarından hiçbiri görülmemiş olup kayıtsız geçen oturum yoktur.
+  Başka oturumun dosyalarına (`.gitignore`, `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) dokunulmamıştır. 3123 ve 3124
+  boştur, `.next/dev/types/validator.ts` yoktur.
+- Güç: Makine 19:00'dan sonra prizden çıkarılmış olup pildedir (`BatteryStatus` 1, %97), boş bellek 960 MB'tır. Bu oturumda uzun iş
+  planlanmadığından pil kuralı bir kısıt doğurmamıştır. Oturum açılışındaki bellek eklentisi iletisine göre haftalık Claude kullanımı
+  %98'e ulaşmıştır.
+- Hasat (`npm run yargi:hasat-durum`, 20:02): Motor 10:00:20'deki başlangıçtan beri aynı süreçle çalışmaktadır (pid 24808). Onuncu
+  captcha 19:11:57'de, dokuzuncudan 35 dakika sonra gelmiştir. Dokuzuncu captcha `harvester.json`'daki 60 dakikalık pencerede kaldığından
+  yönetici bunu tekrar saymış, 2.154 sn'lik uzun mola ile 3 saatlik düşük tavan vermiştir. Uzun mola dalı da `capUntil` değerinin üzerine
+  yazdığından 20:36'da bitecek tavanın yerini 22:12 dolayında sona eren tavan almıştır. Motor 19:47:51'de indirmeye dönmüştür. 19:03-20:03
+  arasında inen 38 kararın tamamı hedefli kanaldan gelmiş olup 16'sı yararlı etiketi almıştır. 429 ve ağ hatası görülmemiştir. Arşiv
+  140.139, kuyruk 805, kalıcı hata 163, yararlı karar 53.990'dır. Seçilen pencere sayısı 756/960 olup seyir soru 31'in altına yazılmış,
+  hız ayarına ve motora dokunulmamıştır.
+- Uzak dal: `git fetch origin` 20:01'de yeni commit indirmemiştir (`origin/main` `ebd55cfb4`). Yerel dal 169 commit, uzak dal 15 commit
+  öndedir. 16:01'deki çakışmasız `git merge-tree` ön denemesi bu yüzden geçerliliğini korumaktadır.
+- Kapı: Günün tam kapısı 11:03-11:19 arasında 1023 testte geçmiştir. Bu oturumun değişikliği yalnız belge olup derlemeye ve teste
+  girmediğinden kapı koşulmamıştır. Beceri gözlem günlüğünün gözden geçirmesi (son tarih 2 Ekim, 125 açık gözlem) gözlem 202'deki
+  gerekçeyle yine ertelenmiştir.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
+  Saatlik tetik bugün 23:59'da sona ermektedir. Birleştirme, push ve canlı doğrulama `PUSH-KONTROL-LISTESI.md` uyarınca kullanıcıyla yapılır.

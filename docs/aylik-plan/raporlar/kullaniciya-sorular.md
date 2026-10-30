@@ -392,3 +392,10 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     biter bitmez, 18:41:51'de indirmeye dönmüştür. 18:09-19:03 arasında inen 71 kararın tamamı hedefli kanaldan gelmiş olup 44'ü yararlı
     etiketi almıştır (captcha'dan önce 41 kararda 26, sonra 30 kararda 18). Devre kapalı kalmış, 429 ve ağ hatası görülmemiştir. Arşiv
     140.103, kuyruk 799, kalıcı hata 163, yararlı karar 53.976'dır. Seçilen pencere sayısı 753/956'dır.
+    *İzleme (2026-10-30 20:03):* Onuncu captcha 19:11:57'de, dokuzuncudan 35 dakika sonra gelmiştir. Dokuzuncu captcha 60 dakikalık
+    pencerede kaldığından yönetici bunu tekrar saymış, 2.154 sn'lik uzun mola ile 3 saatlik düşük tavan vermiştir. Uzun mola dalı da
+    `capUntil` değerinin üzerine yazdığından (`governor.mjs` 212. satır) 20:36'da bitecek tavanın yerini 22:12 dolayında sona eren tavan
+    almış olup kısa ve uzun molanın sırayla gelmesi sürmektedir. Motor mola biter bitmez, 19:47:51'de indirmeye dönmüştür. 19:03-20:03
+    arasında inen 38 kararın tamamı hedefli kanaldan gelmiş olup 16'sı yararlı etiketi almıştır (captcha'dan önce 14 kararda 9, sonra 24
+    kararda 7). Devre kapalı kalmış, 429 ve ağ hatası görülmemiştir. Arşiv 140.139, kuyruk 805, kalıcı hata 163, yararlı karar 53.990'dır.
+    Seçilen pencere sayısı 756/960'tır.
