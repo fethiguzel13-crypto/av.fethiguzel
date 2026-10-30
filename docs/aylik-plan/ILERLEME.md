@@ -2828,3 +2828,24 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   girmediğinden kapı koşulmamıştır. Kayıt commit'i `ba4a4c053`'tür.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Saatlik tetik bugün 23:59'da sona ermektedir. Birleştirme, push ve canlı doğrulama `PUSH-KONTROL-LISTESI.md` uyarınca kullanıcıyla yapılır.
+
+## 2026-10-30 18:06 — Devralma, kapak beklemesi ve hasat izlemesi (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `5403ffdd5` olup araya giren commit yoktur. 16:00 oturumu 16:04:19'da 0 koduyla bitmiştir. Kapak
+  16:26:00'da kapanmış, makine 18:06:50'ye kadar modern beklemede kalmıştır (Sistem günlüğü Kernel-Power 506 ve 507, `neden: Lid`). 17:00
+  ve 18:00 saatlik tetikleri bu yüzden çalışmamış olup kayıtsız geçen oturum yoktur. Bu oturum uyanışta 18:06:58'de açılmış, `calis.log`'a
+  tek `oturum başladı` satırı düşmüştür ve tek başsız süreç vardır (pid 5104). Başka oturumun dosyalarına (`.gitignore`, `package.json`,
+  `scripts/kalite.mjs`, `scripts/karar-arama/`) dokunulmamıştır. 3123 ve 3124 boştur, `.next/dev/types/validator.ts` yoktur.
+- Güç: Makine prizdedir (`BatteryStatus` 2, %100), boş bellek 398 MB'tır.
+- Hasat (`npm run yargi:hasat-durum`, 18:09): Motor 10:00:20'deki başlangıçtan beri aynı süreçle çalışmaktadır (pid 24808). Sekizinci
+  captcha 16:17:09'da, 15:37'deki kısa moladan 40 dakika sonra gelmiş, yönetici 2.556 sn'lik uzun mola ile 19:17 dolayına kadar sürecek 3
+  saatlik düşük tavan vermiştir. 16:01-16:17 arasında inen 24 kararın tamamı hedefli kanaldan gelmiş olup 9'u yararlı etiketi almıştır.
+  Mola beklemede dolduğundan motor uyanıştan iki saniye sonra karar indirmeye başlamış, bu kez ağ hatası düşmemiştir. 429 görülmemiştir.
+  Arşiv 140.032, kuyruk 798, kalıcı hata 163, yararlı karar 53.932'dir. Seçilen pencere sayısı 747/951 olup seyir soru 31'in altına
+  yazılmış, hız ayarına ve motora dokunulmamıştır.
+- Uzak dal: `git fetch origin` 18:09'da yeni commit indirmemiştir (`origin/main` `ebd55cfb4`). Yerel dal 165 commit, uzak dal 15 commit
+  öndedir. 16:01'deki çakışmasız `git merge-tree` ön denemesi bu yüzden geçerliliğini korumaktadır.
+- Kapı: Günün tam kapısı 11:03-11:19 arasında 1023 testte geçmiştir. Bu oturumun değişikliği yalnız belge olup derlemeye ve teste
+  girmediğinden kapı koşulmamıştır.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
+  Saatlik tetik bugün 23:59'da sona ermektedir. Birleştirme, push ve canlı doğrulama `PUSH-KONTROL-LISTESI.md` uyarınca kullanıcıyla yapılır.

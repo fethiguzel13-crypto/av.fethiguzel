@@ -378,3 +378,10 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     indirmiştir. 15:07-16:01 arasında inen 70 kararın tamamı hedefli kanaldan gelmiş olup 31'i yararlı etiketi almıştır. Devre kapalı
     kalmış, 429 ve ağ hatası görülmemiştir. Arşiv 16:00'da 140.000'i aşmış olup 140.005, kuyruk 799, kalıcı hata 163, yararlı karar
     53.922'dir. Seçilen pencere sayısı 745/949'dur.
+    *İzleme (2026-10-30 18:10):* Sekizinci captcha 16:17:09'da, 15:37:23'teki kısa moladan 40 dakika sonra gelmiştir. Yönetici bunu tekrar
+    saymış, 2.556 sn'lik uzun mola ile 3 saatlik düşük tavan vermiş olup tavan 19:17 dolayında sona ermektedir. Kısa ve uzun molanın sırayla
+    gelmesi böylece sürmüştür. 16:01-16:17 arasında inen 24 kararın tamamı hedefli kanaldan gelmiş olup 9'u yararlı etiketi almıştır. Kapak
+    16:26:00'da kapanmış, makine 18:06:50'ye kadar modern beklemede kalmıştır (Kernel-Power 506 ve 507, `neden: Lid`). Mola beklemede
+    dolduğundan motor uyanıştan iki saniye sonra, 18:06:52'de karar indirmeye başlamış ve 18:10'a kadar 4 karar daha almıştır. Bu uyanışta
+    ağ hatası düşmemiştir. Devre kapalı kalmış, 429 görülmemiştir. Arşiv 140.032, kuyruk 798, kalıcı hata 163, yararlı karar 53.932'dir.
+    Seçilen pencere sayısı 747/951'dir.
