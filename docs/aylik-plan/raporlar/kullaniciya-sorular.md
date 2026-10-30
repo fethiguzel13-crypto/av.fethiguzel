@@ -346,3 +346,8 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     yenileme 23-30 Nisan 2026 penceresinde karar sayısını 7.051'den 7.703'e çıkarmıştır. Uyanıştan 11:04'e kadar inen 82 kararın tamamı
     hedefli kanaldan gelmiş olup 22'si yararlı etiketi almıştır. Devre kapalı kalmış, 429 ve ağ hatası görülmemiştir. Tarama 2017 Ocak'ın
     ikinci yarısına inmiştir. Arşiv 139.751, kuyruk 800, kalıcı hata 163, yararlı karar 53.784'tür. Seçilen pencere sayısı 724/930'dur.
+    *İzleme (2026-10-30 12:03):* İkinci captcha 11:06:23'te, 10:30'daki kısa moladan 36 dakika sonra ve 2 saatlik tavan sürerken gelmiş
+    olup yönetici bunu tekrar sayarak 2.337 sn'lik uzun mola ile 3 saatlik düşük tavan vermiştir. Mola 11:45'te bitmiş, düşük tavan 14:06
+    dolayında sona ermektedir. 11:04-12:02 arasında inen 27 kararın tamamı hedefli kanaldan gelmiş olup 13'ü yararlı etiketi almıştır. Devre
+    kapalı kalmış, 429 ve ağ hatası görülmemiştir. Arşiv 139.779, kuyruk 803, kalıcı hata 163, yararlı karar 53.799'dur. Seçilen pencere
+    sayısı 727/934'tür.
