@@ -2720,7 +2720,10 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   `git merge-tree --write-tree --name-only main origin/main` tek ağaç kimliği vermiş, çakışma çıkmamıştır. Sonuç `PUSH-KONTROL-LISTESI.md`
   B bölümüne eklenmiştir. Etiket konmamış, birleştirme ve push yapılmamıştır.
 - Kapı: Günün tam kapısı 11:03:54'te başlamıştır (`logs/kalite-tam-20261030-1105.log`). Sınır gelirse kaydın kaybolmaması için bu blok kapı
-  bitmeden commit edilmiş olup sonuç ayrı satırla eklenir.
+  bitmeden commit edilmiş olup sonuç ayrı satırla eklenir. Kayıt commit'i `9ed374bc9`'dur.
+- Kapı sonucu: Kapı 11:03-11:19 arasında 1023 testte geçmiştir (`CIKIS=0`). Boş bellek derleme başlarken 1.244 MB olduğundan derleme 5 işçiyle
+  465 sn sürmüş, `test:e2e` 193 sn'de 44/44 geçmiştir. Derlemenin yeniden ürettiği beş zaman damgası dosyası geri alınmış, 3123 ve 3124 boş
+  kalmış, `.next/dev/types/validator.ts` oluşmamıştır.
 - Yayın günü: `pre-push` kilidi bugünden itibaren açıktır, zira hook yalnız `2026-10-30`'dan önceki tarihlerde push'u engellemektedir. OTONOM
   yasağı uyarınca başsız oturum push yapmaz. Saatlik `FethiGuzel-OtonomCalisma` görevinin tetiği 2026-10-30 23:59'da sona ermektedir. Soru 29
   ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır). Birleştirme,
