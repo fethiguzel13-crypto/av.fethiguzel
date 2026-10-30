@@ -351,3 +351,9 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     dolayında sona ermektedir. 11:04-12:02 arasında inen 27 kararın tamamı hedefli kanaldan gelmiş olup 13'ü yararlı etiketi almıştır. Devre
     kapalı kalmış, 429 ve ağ hatası görülmemiştir. Arşiv 139.779, kuyruk 803, kalıcı hata 163, yararlı karar 53.799'dur. Seçilen pencere
     sayısı 727/934'tür.
+    *İzleme (2026-10-30 13:05):* Üçüncü captcha 12:14:48'de, 11:06'dakinden 68 dakika sonra geldiğinden 60 dakikalık tekrar penceresinin
+    dışında kalmış ve yönetici kısa mola (333 sn) ile 2 saatlik tavan vermiştir. Dördüncü captcha 12:50:34'te, öncekinden 36 dakika sonra
+    geldiğinden tekrar sayılmış, yönetici 1.840 sn'lik uzun mola ile 3 saatlik düşük tavan vermiştir. Mola 13:21 dolayında bitmekte, düşük
+    tavan 15:50 dolayında sona ermektedir. Böylece uyanıştan bu yana captcha sayısı dörde çıkmıştır. 12:02-12:49 arasında inen 62 kararın
+    tamamı hedefli kanaldan gelmiş olup 32'si yararlı etiketi almıştır. Devre kapalı kalmış, 429 ve ağ hatası görülmemiştir. Arşiv 139.842,
+    kuyruk 810, kalıcı hata 163, yararlı karar 53.831'dir. Seçilen pencere sayısı 733/939'dur.
