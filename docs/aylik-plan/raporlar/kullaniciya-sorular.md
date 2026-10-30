@@ -357,3 +357,11 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     tavan 15:50 dolayında sona ermektedir. Böylece uyanıştan bu yana captcha sayısı dörde çıkmıştır. 12:02-12:49 arasında inen 62 kararın
     tamamı hedefli kanaldan gelmiş olup 32'si yararlı etiketi almıştır. Devre kapalı kalmış, 429 ve ağ hatası görülmemiştir. Arşiv 139.842,
     kuyruk 810, kalıcı hata 163, yararlı karar 53.831'dir. Seçilen pencere sayısı 733/939'dur.
+    *İzleme (2026-10-30 14:03):* Beşinci captcha 13:49:48'de, 12:50'deki uzun moladan 59 dakika sonra ve 60 dakikalık tekrar penceresinin
+    içinde gelmiş olmasına karşın yönetici kısa mola (489 sn) ile 2 saatlik tavan vermiştir. Bunun nedeni, `governor.mjs` içinde uzun molayı
+    açan dalın `recentCaptcha` listesini boşaltması olup uzun moladan sonraki ilk captcha, aralığı ne olursa olsun kısa mola almaktadır. 13:05
+    kaydında 12:14'teki kısa mola için gösterilen 68 dakikalık aralık gerekçesi bu yüzden eksik kalmış, o captcha da 11:06'daki sıfırlama
+    nedeniyle kısa mola almıştır. Yeni tavan 12:50'de verilen düşük tavanın yerini almış olup 15:49 dolayında sona ermektedir. Mola 13:57'de
+    bitmiş, motor ilk kararı 13:57:58'de indirmiştir. 13:01-14:01 arasında inen 51 kararın tamamı hedefli kanaldan gelmiş olup 36'sı yararlı
+    etiketi almıştır. Devre kapalı kalmış, 429 ve ağ hatası görülmemiştir. Tarama 2016 Aralık sonuna inmiştir. Arşiv 139.893, kuyruk 795,
+    kalıcı hata 163, yararlı karar 53.867'dir. Seçilen pencere sayısı 736/943'tür.
