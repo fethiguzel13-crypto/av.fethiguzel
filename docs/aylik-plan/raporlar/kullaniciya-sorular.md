@@ -385,3 +385,10 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     dolduğundan motor uyanıştan iki saniye sonra, 18:06:52'de karar indirmeye başlamış ve 18:10'a kadar 4 karar daha almıştır. Bu uyanışta
     ağ hatası düşmemiştir. Devre kapalı kalmış, 429 görülmemiştir. Arşiv 140.032, kuyruk 798, kalıcı hata 163, yararlı karar 53.932'dir.
     Seçilen pencere sayısı 747/951'dir.
+    *İzleme (2026-10-30 19:03):* Dokuzuncu captcha 18:36:07'de, motorun kapak beklemesinden dönüp 18:06:52'de karar indirmeye başlamasından
+    29 dakika sonra gelmiştir. 16:17'deki uzun molayı açan dal yakın captcha listesini boşalttığından yönetici bunu yine ilk captcha saymış,
+    344 sn'lik kısa mola ile 2 saatlik tavan vermiştir. Kısa mola dalı `capUntil` değerinin üzerine yazdığından 19:17'de bitecek 3 saatlik
+    düşük tavanın yerini 20:36 dolayında sona eren yeni tavan almış olup kısa ve uzun molanın sırayla gelmesi sürmektedir. Motor mola
+    biter bitmez, 18:41:51'de indirmeye dönmüştür. 18:09-19:03 arasında inen 71 kararın tamamı hedefli kanaldan gelmiş olup 44'ü yararlı
+    etiketi almıştır (captcha'dan önce 41 kararda 26, sonra 30 kararda 18). Devre kapalı kalmış, 429 ve ağ hatası görülmemiştir. Arşiv
+    140.103, kuyruk 799, kalıcı hata 163, yararlı karar 53.976'dır. Seçilen pencere sayısı 753/956'dır.

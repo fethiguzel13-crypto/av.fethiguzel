@@ -2849,3 +2849,26 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   girmediğinden kapı koşulmamıştır. Kayıt commit'i `a2bbbfc0c`'dir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Saatlik tetik bugün 23:59'da sona ermektedir. Birleştirme, push ve canlı doğrulama `PUSH-KONTROL-LISTESI.md` uyarınca kullanıcıyla yapılır.
+
+## 2026-10-30 19:00 — Devralma ve hasat izlemesi (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `afc04dac8` olup araya giren commit yoktur. 18:06 oturumu 18:11:05'te 0 koduyla bitmiştir. Bu
+  oturum 19:00:02'de saatlik tetikle açılmış, `calis.log`'a tek `oturum başladı` satırı düşmüştür ve tek başsız süreç vardır (pid 26712).
+  Son saatte Sistem günlüğünde yalnız 18:06:50'deki uyanış (Kernel-Power 507) görülmüş olup kayıtsız geçen oturum yoktur. Başka oturumun
+  dosyalarına (`.gitignore`, `package.json`, `scripts/kalite.mjs`, `scripts/karar-arama/`) dokunulmamıştır. 3123 ve 3124 boştur,
+  `.next/dev/types/validator.ts` yoktur.
+- Güç: Makine prizdedir (`BatteryStatus` 2, %100), boş bellek 709 MB'tır. Oturum açılışındaki bellek eklentisi iletisine göre haftalık
+  Claude kullanımı %97'ye ulaşmış olup kalan saatlik oturumların sınırla kesilme olasılığı daha da artmıştır.
+- Hasat (`npm run yargi:hasat-durum`, 19:01): Motor 10:00:20'deki başlangıçtan beri aynı süreçle çalışmaktadır (pid 24808). Dokuzuncu
+  captcha 18:36:07'de, motorun uyanıştan sonra indirmeye dönmesinden 29 dakika sonra gelmiştir. 16:17'deki uzun mola dalı yakın captcha
+  listesini boşalttığından yönetici kısa mola (344 sn) ile 2 saatlik tavan vermiş, kısa mola dalı `capUntil` değerinin üzerine yazdığından
+  19:17'de bitecek düşük tavanın yerini 20:36 dolayında sona eren tavan almıştır. Motor 18:41:51'de indirmeye dönmüştür. 18:09-19:03
+  arasında inen 71 kararın tamamı hedefli kanaldan gelmiş olup 44'ü yararlı etiketi almıştır. 429 ve ağ hatası görülmemiştir. Arşiv
+  140.103, kuyruk 799, kalıcı hata 163, yararlı karar 53.976'dır. Seçilen pencere sayısı 753/956 olup seyir soru 31'in altına yazılmış,
+  hız ayarına ve motora dokunulmamıştır.
+- Uzak dal: `git fetch origin` 19:01'de yeni commit indirmemiştir (`origin/main` `ebd55cfb4`). Yerel dal 167 commit, uzak dal 15 commit
+  öndedir. 16:01'deki çakışmasız `git merge-tree` ön denemesi bu yüzden geçerliliğini korumaktadır.
+- Kapı: Günün tam kapısı 11:03-11:19 arasında 1023 testte geçmiştir. Bu oturumun değişikliği yalnız belge olup derlemeye ve teste
+  girmediğinden kapı koşulmamıştır.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
+  Saatlik tetik bugün 23:59'da sona ermektedir. Birleştirme, push ve canlı doğrulama `PUSH-KONTROL-LISTESI.md` uyarınca kullanıcıyla yapılır.
