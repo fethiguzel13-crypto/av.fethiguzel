@@ -399,3 +399,11 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     arasında inen 38 kararın tamamı hedefli kanaldan gelmiş olup 16'sı yararlı etiketi almıştır (captcha'dan önce 14 kararda 9, sonra 24
     kararda 7). Devre kapalı kalmış, 429 ve ağ hatası görülmemiştir. Arşiv 140.139, kuyruk 805, kalıcı hata 163, yararlı karar 53.990'dır.
     Seçilen pencere sayısı 756/960'tır.
+    *İzleme (2026-10-30 21:09):* On birinci captcha 20:17:19'da, onuncudan 65 dakika sonra gelmiştir. Onuncu captcha 60 dakikalık
+    pencerenin dışında kaldığından yönetici kısa mola (548 sn) ile 2 saatlik tavan vermiş, motor 20:26:28'de indirmeye dönmüştür. On ikinci
+    captcha 20:58:21'de, on birinciden 41 dakika sonra gelmiş olup pencerede kaldığından 2.202 sn'lik uzun mola ile 3 saatlik düşük tavan
+    almıştır. Böylece tavanın bitişi önce 22:17'ye, sonra 23:58 dolayına kaymış, kısa ve uzun molanın sırayla gelmesi bu akşam da
+    sürmüştür. Motor 21:09'da moladadır ve mola 21:35 dolayında sona erer. 20:03-21:09 arasında inen 70 kararın tamamı hedefli kanaldan
+    gelmiş olup 29'u yararlı etiketi almıştır (on birinci captcha'dan önce 22 kararda 12, iki captcha arasında 48 kararda 17). Devre kapalı
+    kalmış, 429 ve ağ hatası görülmemiştir. Arşiv 140.213, kuyruk 799, kalıcı hata 163, yararlı karar 54.021'dir. Seçilen pencere sayısı
+    761/964'tür.
