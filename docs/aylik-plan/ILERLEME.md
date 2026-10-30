@@ -2825,6 +2825,6 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   değiştirmekte olup yerel dal bu dosyalara dokunmamıştır. Yinelenen `git merge-tree` ön denemesi 0 koduyla tek ağaç kimliği vermiş, çakışma
   çıkmamıştır. Sonuç `PUSH-KONTROL-LISTESI.md` B bölümüne eklenmiştir.
 - Kapı: Günün tam kapısı 11:03-11:19 arasında 1023 testte geçmiştir. Bu oturumun değişikliği yalnız belge olup derlemeye ve teste
-  girmediğinden kapı koşulmamıştır. Kayıt commit'i `KAYIT_HASH`'tir.
+  girmediğinden kapı koşulmamıştır. Kayıt commit'i `ba4a4c053`'tür.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Saatlik tetik bugün 23:59'da sona ermektedir. Birleştirme, push ve canlı doğrulama `PUSH-KONTROL-LISTESI.md` uyarınca kullanıcıyla yapılır.
