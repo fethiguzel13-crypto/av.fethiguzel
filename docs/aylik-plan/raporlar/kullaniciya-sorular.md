@@ -365,3 +365,9 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     bitmiş, motor ilk kararı 13:57:58'de indirmiştir. 13:01-14:01 arasında inen 51 kararın tamamı hedefli kanaldan gelmiş olup 36'sı yararlı
     etiketi almıştır. Devre kapalı kalmış, 429 ve ağ hatası görülmemiştir. Tarama 2016 Aralık sonuna inmiştir. Arşiv 139.893, kuyruk 795,
     kalıcı hata 163, yararlı karar 53.867'dir. Seçilen pencere sayısı 736/943'tür.
+    *İzleme (2026-10-30 15:03):* Altıncı captcha 14:28:34'te, 13:49:48'deki kısa moladan 39 dakika sonra gelmiştir. Kısa molayı açan dal
+    13:49'u yakın captcha listesine yazdığından yönetici bunu tekrar saymış, 2.305 sn'lik uzun mola ile 3 saatlik düşük tavan vermiştir. Bu
+    sonuç 14:03 kaydındaki açıklamayla örtüşmekte olup uyanıştan bu yana kısa ve uzun mola sırayla gelmektedir. Mola 15:07 dolayında bitmekte,
+    düşük tavan 17:28 dolayında sona ermektedir. 14:01-14:28 arasında inen 42 kararın tamamı hedefli kanaldan gelmiş olup 24'ü yararlı
+    etiketi almıştır. Devre kapalı kalmış, 429 ve ağ hatası görülmemiştir. Arşiv 139.935, kuyruk 803, kalıcı hata 163, yararlı karar
+    53.891'dir. Seçilen pencere sayısı 740/945'tir.

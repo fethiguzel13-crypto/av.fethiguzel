@@ -2785,3 +2785,23 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
   girmediğinden kapı koşulmamıştır. Kayıt commit'i `8aca9607e`'dir.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Saatlik tetik bugün 23:59'da sona ermektedir. Birleştirme, push ve canlı doğrulama `PUSH-KONTROL-LISTESI.md` uyarınca kullanıcıyla yapılır.
+
+## 2026-10-30 15:00 — Devralma ve hasat izlemesi (başsız oturum)
+
+- Devralma: `DURAKLAT` yok, son commit `4ee91c85e` olup araya giren commit yoktur. 14:00 oturumu 14:03:42'de 0 koduyla bitmiştir. Bu oturum
+  15:00:03'te saatlik tetikle açılmış olup tek başsız süreç vardır (pid 27676). Başka oturumun dosyalarına (`.gitignore`, `package.json`,
+  `scripts/kalite.mjs`, `scripts/karar-arama/`) dokunulmamıştır. 3123 ve 3124 boştur, `.next/dev/types/validator.ts` yoktur.
+- Güç: Makine prizdedir (`BatteryStatus` 2, %100), boş bellek 848 MB'tır. Oturum açılışındaki bellek eklentisi iletisine göre haftalık
+  Claude kullanımı %94'e ulaşmış olup haftalık sınır yaklaştığından kalan saatlik oturumlar sınırla kesilebilir.
+- Hasat (`npm run yargi:hasat-durum`, 15:01): Motor 10:00:20'deki başlangıçtan beri aynı süreçle çalışmaktadır (pid 24808). Altıncı captcha
+  14:28:34'te, 13:49'daki kısa moladan 39 dakika sonra geldiğinden yönetici bunu tekrar saymış, 2.305 sn'lik uzun mola ile 3 saatlik düşük
+  tavan vermiştir. Uyanıştan bu yana kısa ve uzun mola sırayla gelmektedir. Mola 15:07 dolayında bitmekte, düşük tavan 17:28 dolayında sona
+  ermektedir. 14:01-14:28 arasında inen 42 kararın tamamı hedefli kanaldan gelmiş olup 24'ü yararlı etiketi almıştır. 429 ve ağ hatası
+  görülmemiştir. Arşiv 139.935, kuyruk 803, kalıcı hata 163, yararlı karar 53.891'dir. Seçilen pencere sayısı 740/945 olup seyir soru 31'in
+  altına yazılmış, hız ayarına ve motora dokunulmamıştır.
+- Uzak dal: `git fetch origin` 15:01'de yeni commit indirmemiştir (`origin/main` `1af3692d1`). Yerel dal 161 commit, uzak dal 14 commit
+  öndedir. 11:06'daki çakışmasız ön deneme bu yüzden geçerliliğini korumaktadır.
+- Kapı: Günün tam kapısı 11:03-11:19 arasında 1023 testte geçmiştir. Bu oturumun değişikliği yalnız belge olup derlemeye ve teste
+  girmediğinden kapı koşulmamıştır. Kayıt commit'i aşağıdaki ek commit'te yazılıdır.
+- Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
+  Saatlik tetik bugün 23:59'da sona ermektedir. Birleştirme, push ve canlı doğrulama `PUSH-KONTROL-LISTESI.md` uyarınca kullanıcıyla yapılır.
