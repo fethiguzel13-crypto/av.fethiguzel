@@ -2802,6 +2802,6 @@ Not: Derleme sırasında makine uykuya geçti (derleme adımı 23.332 sn görün
 - Uzak dal: `git fetch origin` 15:01'de yeni commit indirmemiştir (`origin/main` `1af3692d1`). Yerel dal 161 commit, uzak dal 14 commit
   öndedir. 11:06'daki çakışmasız ön deneme bu yüzden geçerliliğini korumaktadır.
 - Kapı: Günün tam kapısı 11:03-11:19 arasında 1023 testte geçmiştir. Bu oturumun değişikliği yalnız belge olup derlemeye ve teste
-  girmediğinden kapı koşulmamıştır. Kayıt commit'i aşağıdaki ek commit'te yazılıdır.
+  girmediğinden kapı koşulmamıştır. Kayıt commit'i `5558dea4a`'dır.
 - Soru 29 ve 30 yanıtlanmamıştır. Seçilebilir `[ ]` görev bulunmamaktadır (G00 ve G26 kullanıcı eylemi bekler, G08 pazartesi yapılır).
   Saatlik tetik bugün 23:59'da sona ermektedir. Birleştirme, push ve canlı doğrulama `PUSH-KONTROL-LISTESI.md` uyarınca kullanıcıyla yapılır.
