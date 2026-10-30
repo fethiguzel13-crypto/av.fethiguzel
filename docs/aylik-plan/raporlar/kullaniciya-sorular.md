@@ -340,3 +340,9 @@ merkezi kurulmuştur (m.12/A). Bu dört soru yanıtlanmadan push yapılmamalıd�
     penceresi büyümüş, en büyük artış 8-15 Mayıs 2026 penceresinde 6.524'ten 7.724'e olmuştur. 20:38-21:12 arasında yoklanan Aralık ve Kasım
     2025 pencereleri değişmemiştir. Tarama 2017 Şubat başına inmiştir. Arşiv 139.665, kuyruk 796, kalıcı hata 163, yararlı karar 53.761'dir.
     Seçilen pencere sayısı 716/922'dir.
+    *İzleme (2026-10-30 11:05):* 22:05'ten sonra captcha gelmemiş, makine 22:19:27'de uykuya geçip 10:00:03'te uyanmıştır. Motor bu sürede
+    karar indirmemiş, eski süreç uyanışta bulunmadığından servis görevi 10:00:20'de yeni süreç başlatmıştır (pid 24808). Uyanıştan sonraki
+    ilk captcha 10:30'da, 21:40'takinden yaklaşık 13 saat sonra geldiğinden yönetici kısa mola (346 sn) ve 2 saatlik tavan vermiştir. 10:00'daki
+    yenileme 23-30 Nisan 2026 penceresinde karar sayısını 7.051'den 7.703'e çıkarmıştır. Uyanıştan 11:04'e kadar inen 82 kararın tamamı
+    hedefli kanaldan gelmiş olup 22'si yararlı etiketi almıştır. Devre kapalı kalmış, 429 ve ağ hatası görülmemiştir. Tarama 2017 Ocak'ın
+    ikinci yarısına inmiştir. Arşiv 139.751, kuyruk 800, kalıcı hata 163, yararlı karar 53.784'tür. Seçilen pencere sayısı 724/930'dur.

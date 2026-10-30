@@ -32,6 +32,11 @@ Uzak `main`'e günlük içtihat iş akışı (`.github/workflows/daily-icthat.ym
 `public/data/archive/<tarih>.json`'u değiştirir, yerel dal birleştirme tabanından (`aa6e15c00`) bu yana bu dosyalara dokunmamıştır.
 `git merge-tree` ön denemesi çakışmasız çıkmıştır.
 
+2026-10-30 11:07'de yinelenen ön denemede yerel dal 153 commit, uzak dal 14 commit öndedir (`8caaeeb5e` … `1af3692d1`, 16-29 Ekim günlük
+içtihat commit'leri). Uzak commit'ler yine yalnız `public/data/daily.json` ile on dört `public/data/archive/<tarih>.json` dosyasını
+değiştirmekte olup yerel dal birleştirme tabanından bu yana bu dosyalara dokunmamıştır. `git merge-tree` tek ağaç kimliği vermiş, çakışma
+çıkmamıştır. İş akışı 30 Ekim commit'ini öğle saatlerinde attığından birleştirmeden hemen önce `git fetch origin` yinelenir.
+
 Sıra:
 
 1. `git status` temiz olmalıdır (A bölümündeki karar arama aracı kararı uygulanmış).
