@@ -1,9 +1,93 @@
 {
-  "generatedAt": "2026-11-04T13:57:25.554Z",
-  "dateLabel": "4 Kasım 2026",
+  "generatedAt": "2026-11-05T14:12:54.529Z",
+  "dateLabel": "5 Kasım 2026",
   "highlights": [],
   "items": {
     "resmigazete": [
+      {
+        "id": "rg-20261105-20261105-1",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Yönetmelik",
+        "icon": "scroll-text",
+        "title": "––  Haberleşme, Seyrüsefer ve Gözetim Sistemleri Mânia Kriterleri Hakkında Yönetmelik (SHY-CNS/MÂNİA)",
+        "konu": "––  Haberleşme, Seyrüsefer ve Gözetim Sistemleri Mânia Kriterleri Hakkında Yönetmelik (SHY-CNS/MÂNİA)",
+        "publicSummary": "",
+        "date": "2026-11-05",
+        "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261105-1.htm"
+      },
+      {
+        "id": "rg-20261105-20261105-2",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Yönetmelik",
+        "icon": "scroll-text",
+        "title": "a - Yargı İlânları",
+        "konu": "a - Yargı İlânları",
+        "publicSummary": "",
+        "date": "2026-11-05",
+        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261105.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261105-2.htm"
+      },
+      {
+        "id": "rg-20261105-20261105-3-pdf",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Yönetmelik",
+        "icon": "scroll-text",
+        "title": "––  Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurulunun 30/10/2026 Tarihli ve 75935942-050.01.04-[01/47239] Sayılı Kararı",
+        "konu": "––  Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurulunun 30/10/2026 Tarihli ve 75935942-050.01.04-[01/47239] Sayılı Kararı",
+        "publicSummary": "",
+        "date": "2026-11-05",
+        "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261105-3.pdf"
+      },
+      {
+        "id": "rg-20261105-20261105-2",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Yönetmelik",
+        "icon": "scroll-text",
+        "title": "a - Yargı İlânları",
+        "konu": "a - Yargı İlânları",
+        "publicSummary": "",
+        "date": "2026-11-05",
+        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261105.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261105-2.htm"
+      },
+      {
+        "id": "rg-20261105-20261105-3",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Yönetmelik",
+        "icon": "scroll-text",
+        "title": "b - Artırma, Eksiltme ve İhale İlânları",
+        "konu": "b - Artırma, Eksiltme ve İhale İlânları",
+        "publicSummary": "",
+        "date": "2026-11-05",
+        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261105.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261105-3.htm"
+      },
+      {
+        "id": "rg-20261105-20261105-4",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Yönetmelik",
+        "icon": "scroll-text",
+        "title": "c - Çeşitli İlânlar",
+        "konu": "c - Çeşitli İlânlar",
+        "publicSummary": "",
+        "date": "2026-11-05",
+        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261105.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261105-4.htm"
+      },
+      {
+        "id": "rg-20261105-20261105-5",
+        "source": "RG",
+        "sourceLabel": "Resmî Gazete",
+        "category": "Yönetmelik",
+        "icon": "scroll-text",
+        "title": "– T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
+        "konu": "– T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
+        "publicSummary": "",
+        "date": "2026-11-05",
+        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261105.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261105-5.htm"
+      },
       {
         "id": "rg-20261104-20261104-1",
         "source": "RG",
@@ -147,198 +231,6 @@
         "publicSummary": "",
         "date": "2026-11-04",
         "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261104.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261104-5.htm"
-      },
-      {
-        "id": "rg-20261103-20261103-1",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Diğer",
-        "icon": "scroll-text",
-        "title": "––  Ormancılık Faaliyetlerinde Vahidi Fiyatla Çalışan Orman Köylülerine Yapılacak Ayni veya Nakdi Dağıtımın Uygulamasına Dair Yönetmelik",
-        "konu": "––  Ormancılık Faaliyetlerinde Vahidi Fiyatla Çalışan Orman Köylülerine Yapılacak Ayni veya Nakdi Dağıtımın Uygulamasına Dair Yönetmelik",
-        "publicSummary": "",
-        "date": "2026-11-03",
-        "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-1.htm"
-      },
-      {
-        "id": "rg-20261103-20261103-2-pdf",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Tebliğ",
-        "icon": "scroll-text",
-        "title": "––  Özelleştirme İdaresi Başkanlığının 30/10/2026 Tarihli ve 2026/ÖİB-K-46 Sayılı Kararı",
-        "konu": "––  Özelleştirme İdaresi Başkanlığının 30/10/2026 Tarihli ve 2026/ÖİB-K-46 Sayılı Kararı",
-        "publicSummary": "",
-        "date": "2026-11-03",
-        "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-2.pdf"
-      },
-      {
-        "id": "rg-20261103-20261103-3",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Tebliğ",
-        "icon": "scroll-text",
-        "title": "b - Artırma, Eksiltme ve İhale İlânları",
-        "konu": "b - Artırma, Eksiltme ve İhale İlânları",
-        "publicSummary": "",
-        "date": "2026-11-03",
-        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261103.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261103-3.htm"
-      },
-      {
-        "id": "rg-20261103-20261103-4-pdf",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Tebliğ",
-        "icon": "scroll-text",
-        "title": "––  Mevcut Teknik Altyapı Tesislerinin Bakımına, Onarımına, İyileştirilmesine ve İzin Süresi Uzatımlarına İlişkin İlke Kararı (No: 151)",
-        "konu": "––  Mevcut Teknik Altyapı Tesislerinin Bakımına, Onarımına, İyileştirilmesine ve İzin Süresi Uzatımlarına İlişkin İlke Kararı (No: 151)",
-        "publicSummary": "",
-        "date": "2026-11-03",
-        "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-4.pdf"
-      },
-      {
-        "id": "rg-20261103-20261103-5-pdf",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Tebliğ",
-        "icon": "scroll-text",
-        "title": "––  Doğal Sit Tescili Öncesi Mera Vasfı Bulunan Alanların Kullanımına İlişkin İlke Kararı (No: 152)",
-        "konu": "––  Doğal Sit Tescili Öncesi Mera Vasfı Bulunan Alanların Kullanımına İlişkin İlke Kararı (No: 152)",
-        "publicSummary": "",
-        "date": "2026-11-03",
-        "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-5.pdf"
-      },
-      {
-        "id": "rg-20261103-20261103-6-pdf",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Tebliğ",
-        "icon": "scroll-text",
-        "title": "––  Tarımsal Amaçlı Ağaç Dikim Çukuru Açılmasına İlişkin İlke Kararı (No: 153)",
-        "konu": "––  Tarımsal Amaçlı Ağaç Dikim Çukuru Açılmasına İlişkin İlke Kararı (No: 153)",
-        "publicSummary": "",
-        "date": "2026-11-03",
-        "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-6.pdf"
-      },
-      {
-        "id": "rg-20261103-20261103-7-pdf",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Tebliğ",
-        "icon": "scroll-text",
-        "title": "––  Sportif Amaçlı Parkur İlanları ve Faaliyetlerine İlişkin İlke Kararı (No: 154)",
-        "konu": "––  Sportif Amaçlı Parkur İlanları ve Faaliyetlerine İlişkin İlke Kararı (No: 154)",
-        "publicSummary": "",
-        "date": "2026-11-03",
-        "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-7.pdf"
-      },
-      {
-        "id": "rg-20261103-20261103-8-pdf",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Tebliğ",
-        "icon": "scroll-text",
-        "title": "––  Ulaşım Amaçlı Havai Hatlara İlişkin İlke Kararı (No: 155)",
-        "konu": "––  Ulaşım Amaçlı Havai Hatlara İlişkin İlke Kararı (No: 155)",
-        "publicSummary": "",
-        "date": "2026-11-03",
-        "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-8.pdf"
-      },
-      {
-        "id": "rg-20261103-20261103-9-pdf",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Tebliğ",
-        "icon": "scroll-text",
-        "title": "––  Nitelikli Doğal Koruma Alanlarında Şehitlik veya Mezarlık Alanlarına Yönelik İlke Kararı (No: 156)",
-        "konu": "––  Nitelikli Doğal Koruma Alanlarında Şehitlik veya Mezarlık Alanlarına Yönelik İlke Kararı (No: 156)",
-        "publicSummary": "",
-        "date": "2026-11-03",
-        "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-9.pdf"
-      },
-      {
-        "id": "rg-20261103-20261103-10-pdf",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Tebliğ",
-        "icon": "scroll-text",
-        "title": "––  Nitelikli Doğal Koruma Alanlarında Rüzgar Enerji Santrali (RES) Projelerinin Gerçekleştirilmesine Yönelik İlke Kararı (No: 157)",
-        "konu": "––  Nitelikli Doğal Koruma Alanlarında Rüzgar Enerji Santrali (RES) Projelerinin Gerçekleştirilmesine Yönelik İlke Kararı (No: 157)",
-        "publicSummary": "",
-        "date": "2026-11-03",
-        "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-10.pdf"
-      },
-      {
-        "id": "rg-20261103-20261103-11-pdf",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Tebliğ",
-        "icon": "scroll-text",
-        "title": "––  Nitelikli Doğal Koruma Alanlarında Hidroelektrik Santrali (HES) Projelerinin Gerçekleştirilmesine Yönelik İlke Kararı (No: 158)",
-        "konu": "––  Nitelikli Doğal Koruma Alanlarında Hidroelektrik Santrali (HES) Projelerinin Gerçekleştirilmesine Yönelik İlke Kararı (No: 158)",
-        "publicSummary": "",
-        "date": "2026-11-03",
-        "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-11.pdf"
-      },
-      {
-        "id": "rg-20261103-20261103-12-pdf",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Tebliğ",
-        "icon": "scroll-text",
-        "title": "––  Sürdürülebilir Koruma ve Kontrollü Kullanım Alanlarında Hidroelektrik Santrali (HES) Projelerinin Gerçekleştirilmesine Yönelik İlke Kararı (No: 159)",
-        "konu": "––  Sürdürülebilir Koruma ve Kontrollü Kullanım Alanlarında Hidroelektrik Santrali (HES) Projelerinin Gerçekleştirilmesine Yönelik İlke Kararı (No: 159)",
-        "publicSummary": "",
-        "date": "2026-11-03",
-        "url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261103-12.pdf"
-      },
-      {
-        "id": "rg-20261103-20261103-2",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Tebliğ",
-        "icon": "scroll-text",
-        "title": "a - Yargı İlânları",
-        "konu": "a - Yargı İlânları",
-        "publicSummary": "",
-        "date": "2026-11-03",
-        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261103.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261103-2.htm"
-      },
-      {
-        "id": "rg-20261103-20261103-3",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Tebliğ",
-        "icon": "scroll-text",
-        "title": "b - Artırma, Eksiltme ve İhale İlânları",
-        "konu": "b - Artırma, Eksiltme ve İhale İlânları",
-        "publicSummary": "",
-        "date": "2026-11-03",
-        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261103.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261103-3.htm"
-      },
-      {
-        "id": "rg-20261103-20261103-4",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Tebliğ",
-        "icon": "scroll-text",
-        "title": "c - Çeşitli İlânlar",
-        "konu": "c - Çeşitli İlânlar",
-        "publicSummary": "",
-        "date": "2026-11-03",
-        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261103.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261103-4.htm"
-      },
-      {
-        "id": "rg-20261103-20261103-5",
-        "source": "RG",
-        "sourceLabel": "Resmî Gazete",
-        "category": "Tebliğ",
-        "icon": "scroll-text",
-        "title": "– T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
-        "konu": "– T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
-        "publicSummary": "",
-        "date": "2026-11-03",
-        "url": "http://www.resmigazete.gov.tr/main.aspx?home=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261103.htm&main=http://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261103-5.htm"
       }
     ],
     "yargitay": [],
@@ -347,9 +239,9 @@
     "mevzuat": []
   },
   "stats": {
-    "totalItems": 28,
+    "totalItems": 19,
     "perSource": {
-      "resmigazete": 28,
+      "resmigazete": 19,
       "yargitay": 0,
       "aym": 0,
       "hudoc": 0,
@@ -360,8 +252,8 @@
     {
       "source": "hudoc",
       "message": {
-        "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://hudoc.echr.coe.int/eng#{%22respondent%22:[%22TUR%22],%22documentcollectionid2%22:[%22JUDGMENTS%22,%22DECISIONS%22],%22kpdate%22:[%222026-10-05T00:00:00.0Z%22,%222026-11-04T23:59:59.0Z%22],%22sort%22:[%22kpdate%20Descending%22]}\", waiting until \"networkidle\"\n",
-        "stack": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://hudoc.echr.coe.int/eng#{%22respondent%22:[%22TUR%22],%22documentcollectionid2%22:[%22JUDGMENTS%22,%22DECISIONS%22],%22kpdate%22:[%222026-10-05T00:00:00.0Z%22,%222026-11-04T23:59:59.0Z%22],%22sort%22:[%22kpdate%20Descending%22]}\", waiting until \"networkidle\"\n\n    at scrape (/home/runner/work/av.fethiguzel/av.fethiguzel/scraper/scrape-hudoc.js:79:16)"
+        "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://hudoc.echr.coe.int/eng#{%22respondent%22:[%22TUR%22],%22documentcollectionid2%22:[%22JUDGMENTS%22,%22DECISIONS%22],%22kpdate%22:[%222026-10-06T00:00:00.0Z%22,%222026-11-05T23:59:59.0Z%22],%22sort%22:[%22kpdate%20Descending%22]}\", waiting until \"networkidle\"\n",
+        "stack": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://hudoc.echr.coe.int/eng#{%22respondent%22:[%22TUR%22],%22documentcollectionid2%22:[%22JUDGMENTS%22,%22DECISIONS%22],%22kpdate%22:[%222026-10-06T00:00:00.0Z%22,%222026-11-05T23:59:59.0Z%22],%22sort%22:[%22kpdate%20Descending%22]}\", waiting until \"networkidle\"\n\n    at scrape (/home/runner/work/av.fethiguzel/av.fethiguzel/scraper/scrape-hudoc.js:79:16)"
       }
     },
     {
