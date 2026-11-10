@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-11-09T15:31:20.111Z",
+  "dateLabel": "9 Kasım 2026",
+  "highlights": [],
+  "items": {
+    "resmigazete": [],
+    "yargitay": [],
+    "aym": [],
+    "hudoc": [],
+    "mevzuat": []
+  },
+  "stats": {
+    "totalItems": 0,
+    "perSource": {
+      "resmigazete": 0,
+      "yargitay": 0,
+      "aym": 0,
+      "hudoc": 0,
+      "mevzuat": 0
+    }
+  },
+  "errors": [
+    {
+      "source": "hudoc",
+      "message": {
+        "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://hudoc.echr.coe.int/eng#{%22respondent%22:[%22TUR%22],%22documentcollectionid2%22:[%22JUDGMENTS%22,%22DECISIONS%22],%22kpdate%22:[%222026-10-10T00:00:00.0Z%22,%222026-11-09T23:59:59.0Z%22],%22sort%22:[%22kpdate%20Descending%22]}\", waiting until \"networkidle\"\n",
+        "stack": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://hudoc.echr.coe.int/eng#{%22respondent%22:[%22TUR%22],%22documentcollectionid2%22:[%22JUDGMENTS%22,%22DECISIONS%22],%22kpdate%22:[%222026-10-10T00:00:00.0Z%22,%222026-11-09T23:59:59.0Z%22],%22sort%22:[%22kpdate%20Descending%22]}\", waiting until \"networkidle\"\n\n    at scrape (/home/runner/work/av.fethiguzel/av.fethiguzel/scraper/scrape-hudoc.js:79:16)"
+      }
+    },
+    {
+      "source": "yargitay",
+      "message": {
+        "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://karararama.yargitay.gov.tr/\", waiting until \"domcontentloaded\"\n",
+        "stack": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://karararama.yargitay.gov.tr/\", waiting until \"domcontentloaded\"\n\n    at scrape (/home/runner/work/av.fethiguzel/av.fethiguzel/scraper/scrape-yargitay.js:161:16)"
+      }
+    }
+  ]
+}
