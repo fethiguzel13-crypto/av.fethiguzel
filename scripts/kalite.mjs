@@ -25,6 +25,7 @@ export const ADIMLAR = [
   { ad: "test:uyelik", komut: "npm run -s test:uyelik" },
   { ad: "test:galaxy", komut: "npm run -s test:galaxy" },
   { ad: "test:yargi", komut: "npm run -s yargi:test" },
+  { ad: "test:karar-arama", komut: "npm run -s test:karar-arama" },
   { ad: "test:mobil", komut: "npm test --prefix mobile --silent" },
   { ad: "derleme", komut: "npm run -s build", tam: true },
   // Örneklemli SEO taramasının göremediği sınıflar: tüm derlenmiş sayfalarda çift marka eki ve JSON-LD alanları (G10), paylaşım etiketleri ve kırık paylaşım görseli (G20).

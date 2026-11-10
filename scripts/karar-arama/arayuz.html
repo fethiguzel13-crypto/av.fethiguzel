@@ -1,0 +1,359 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Karar Arama</title>
+<style>
+  :root {
+    --zemin: #f6f3ec; --yuzey: #fffdf8; --cizgi: #e3ddd0; --metin: #1f1c17; --soluk: #6a6358;
+    --vurgu: #7a4a1e; --vurgu-zemin: #f1e6d6; --isaret: #fbe08a; --isaret-etkin: #f5a524; --odak: #2457a6;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --zemin: #16140f; --yuzey: #1f1c16; --cizgi: #38332a; --metin: #ece6da; --soluk: #a59d8f;
+      --vurgu: #e2b071; --vurgu-zemin: #33291c; --isaret: #6b5310; --isaret-etkin: #a8741a; --odak: #8ab4ff;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--zemin); color: var(--metin); font: 16px/1.55 "Segoe UI", system-ui, sans-serif; }
+  main { max-width: 980px; margin: 0 auto; padding: 24px 16px 64px; }
+  h1 { font: 700 1.6rem/1.2 Georgia, "Times New Roman", serif; margin: 0; }
+  .ust { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px 16px; margin-bottom: 16px; }
+  .durum { color: var(--soluk); font-size: .9rem; }
+  .kur { margin: 0 0 16px; padding: 10px 14px; border: 1px solid var(--cizgi); border-radius: 10px; background: var(--yuzey); font-size: .92rem; }
+  .kur progress { width: 100%; height: 8px; margin-top: 6px; }
+  form { background: var(--yuzey); border: 1px solid var(--cizgi); border-radius: 12px; padding: 14px; }
+  .satir { display: flex; gap: 8px; }
+  input, select, button { font: inherit; color: inherit; }
+  input[type=search] { flex: 1; min-width: 0; padding: 11px 13px; border: 1px solid var(--cizgi); border-radius: 9px; background: var(--zemin); font-size: 1.05rem; }
+  button { cursor: pointer; border: 1px solid var(--cizgi); border-radius: 9px; background: var(--yuzey); padding: 8px 14px; }
+  button.ana { background: var(--vurgu); border-color: var(--vurgu); color: var(--yuzey); font-weight: 600; padding: 10px 20px; }
+  button:disabled { opacity: .45; cursor: default; }
+  :focus-visible { outline: 3px solid var(--odak); outline-offset: 2px; }
+  .suzgec { display: flex; flex-wrap: wrap; gap: 10px 14px; margin-top: 12px; font-size: .9rem; }
+  .suzgec label { display: flex; flex-direction: column; gap: 3px; color: var(--soluk); }
+  .suzgec select, .suzgec input { padding: 6px 8px; border: 1px solid var(--cizgi); border-radius: 7px; background: var(--zemin); color: var(--metin); }
+  .suzgec input { width: 84px; }
+  details { margin-top: 10px; font-size: .88rem; color: var(--soluk); }
+  details code { background: var(--vurgu-zemin); padding: 1px 5px; border-radius: 4px; color: var(--metin); }
+  details ul { margin: 6px 0 0; padding-left: 20px; }
+  .ozet { margin: 18px 2px 8px; color: var(--soluk); font-size: .92rem; min-height: 1.4em; }
+  ol.sonuclar { list-style: none; margin: 0; padding: 0; }
+  ol.sonuclar li { background: var(--yuzey); border: 1px solid var(--cizgi); border-radius: 12px; padding: 13px 15px; margin-bottom: 10px; }
+  .kunye { display: block; width: 100%; text-align: left; border: 0; padding: 0; background: none; color: var(--vurgu); font-weight: 650; font-size: 1rem; }
+  .kunye:hover { text-decoration: underline; }
+  .rozet { display: inline-block; font-size: .72rem; font-weight: 600; letter-spacing: .02em; padding: 1px 7px; border-radius: 99px; background: var(--vurgu-zemin); color: var(--vurgu); margin-right: 6px; vertical-align: 1px; }
+  .kesit { margin: 6px 0 0; font-size: .93rem; white-space: pre-line; overflow-wrap: anywhere; }
+  mark { background: var(--isaret); color: inherit; border-radius: 3px; padding: 0 1px; }
+  mark.etkin { background: var(--isaret-etkin); }
+  .sayfalar { display: flex; align-items: center; justify-content: center; gap: 12px; margin-top: 14px; color: var(--soluk); }
+  .bos { padding: 28px; text-align: center; color: var(--soluk); }
+  #karar { display: none; }
+  .karar-arac { position: sticky; top: 0; z-index: 2; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; padding: 10px 0; background: var(--zemin); }
+  .karar-arac .esles { margin-left: auto; color: var(--soluk); font-size: .9rem; display: flex; gap: 6px; align-items: center; }
+  #karar h2 { font: 700 1.2rem/1.35 Georgia, serif; margin: 10px 0 14px; }
+  .tam { background: var(--yuzey); border: 1px solid var(--cizgi); border-radius: 12px; padding: 20px 22px; white-space: pre-wrap; overflow-wrap: anywhere; font: 1rem/1.7 Georgia, "Times New Roman", serif; }
+  .kopyalandi { color: var(--soluk); font-size: .85rem; }
+  @media (max-width: 560px) { .satir { flex-direction: column; } button.ana { width: 100%; } .tam { padding: 14px; } }
+  @media print {
+    body { background: #fff; color: #000; }
+    #arama, .karar-arac, .ust .durum, .kur { display: none !important; }
+    .tam { border: 0; padding: 0; }
+    mark { background: none; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <div class="ust">
+    <h1>Karar Arama</h1>
+    <span class="durum" id="durum">Yerel arşiv</span>
+  </div>
+  <div class="kur" id="kur" hidden></div>
+
+  <section id="arama">
+    <form id="form" role="search">
+      <div class="satir">
+        <label for="q" class="gizli" style="position:absolute;left:-9999px">Arama</label>
+        <input type="search" id="q" autocomplete="off" autofocus
+          placeholder='Esas no (2024/1234), "tırnaklı ifade" ya da kelimeler'>
+        <button class="ana" type="submit">Ara</button>
+      </div>
+      <div class="suzgec">
+        <label>Tür
+          <select id="tur">
+            <option value="">Tümü</option>
+            <option value="ibk">İçtihadı birleştirme</option>
+            <option value="hgk">Hukuk Genel Kurulu</option>
+            <option value="cgk">Ceza Genel Kurulu</option>
+            <option value="hukuk">Hukuk daireleri</option>
+            <option value="ceza">Ceza daireleri</option>
+          </select>
+        </label>
+        <label>Daire
+          <select id="daire"><option value="">Tümü</option></select>
+        </label>
+        <label>Yıl (en erken)<input id="yil1" inputmode="numeric" maxlength="4" placeholder="2010"></label>
+        <label>Yıl (en geç)<input id="yil2" inputmode="numeric" maxlength="4" placeholder="2026"></label>
+        <label>Sıralama
+          <select id="sirala">
+            <option value="yeni">En yeni karar</option>
+            <option value="ilgili">En ilgili</option>
+          </select>
+        </label>
+      </div>
+      <details>
+        <summary>Nasıl aranır?</summary>
+        <ul>
+          <li><code>2024/1234</code> esas ya da karar numarasını bulur; <code>E. 2024/1234</code> yalnız esası, <code>K. 2024/1234</code> yalnız kararı arar. Numara başka kararların metninde geçiyorsa onlar da altta listelenir.</li>
+          <li><code>"kira bedelinin tespiti"</code> tırnak içindeki ifadeyi kelimesi kelimesine arar.</li>
+          <li><code>işçilik alacağı fazla mesai</code> kelimelerin hepsinin geçtiği kararları bulur. Kelimenin ekli halleri de bulunur (işçi → işçinin).</li>
+          <li>Büyük-küçük harf ve Türkçe karakter fark etmez: <code>kidem tazminati</code> = <code>kıdem tazminatı</code>.</li>
+          <li>Kısayol: <code>/</code> arama kutusuna gider.</li>
+        </ul>
+      </details>
+    </form>
+    <div class="ozet" id="ozet" role="status" aria-live="polite"></div>
+    <ol class="sonuclar" id="sonuclar"></ol>
+    <nav class="sayfalar" id="sayfalar" aria-label="Sayfalar" hidden>
+      <button type="button" id="onceki">← Önceki</button>
+      <span id="sayfaBilgi"></span>
+      <button type="button" id="sonraki">Sonraki →</button>
+    </nav>
+  </section>
+
+  <article id="karar" aria-labelledby="kararBaslik">
+    <div class="karar-arac">
+      <button type="button" id="geri">← Sonuçlara dön</button>
+      <button type="button" id="kopyala">Künyeyi kopyala</button>
+      <button type="button" id="yazdir">Yazdır / PDF</button>
+      <span class="kopyalandi" id="kopyalandi" aria-live="polite"></span>
+      <span class="esles" id="esles" hidden>
+        <span id="eslesBilgi"></span>
+        <button type="button" id="eslesOnce" aria-label="Önceki eşleşme">↑</button>
+        <button type="button" id="eslesSonra" aria-label="Sonraki eşleşme">↓</button>
+      </span>
+    </div>
+    <h2 id="kararBaslik" tabindex="-1"></h2>
+    <div class="tam" id="tam"></div>
+  </article>
+</main>
+<script>
+"use strict";
+const $ = (id) => document.getElementById(id);
+const sayi = (n) => Number(n).toLocaleString("tr-TR");
+const TUR_AD = { ibk: "İBK", hgk: "HGK", cgk: "CGK" };
+const SUZGEC = ["tur", "daire", "yil1", "yil2", "sirala"];
+let son = null;           // son arama yanıtı
+let acikKarar = null;
+let eslesmeler = [];
+let eslesSira = -1;
+
+// Parçalar düz metindir; DOM'a textContent ile girer (karar metnindeki "<" ve "&" işaret olarak kalır).
+function parcaYaz(kap, parcalar) {
+  kap.textContent = "";
+  for (const p of parcalar) {
+    if (p.v) {
+      const m = document.createElement("mark");
+      m.textContent = p.t;
+      kap.append(m);
+    } else kap.append(p.t);
+  }
+}
+
+function durumOku() {
+  const h = new URLSearchParams(location.hash.slice(1));
+  return Object.fromEntries(h.entries());
+}
+
+function durumYaz(d, degistir) {
+  const h = new URLSearchParams();
+  for (const [k, v] of Object.entries(d)) if (v !== undefined && v !== "" && !(k === "sayfa" && String(v) === "1") && !(k === "sirala" && v === "yeni")) h.set(k, v);
+  const yeni = "#" + h.toString();
+  if (yeni === location.hash || (yeni === "#" && !location.hash)) return goster();
+  if (degistir) history.replaceState(null, "", yeni); else location.hash = yeni;
+  if (degistir) goster();
+}
+
+function formDurumu() {
+  const d = { q: $("q").value.trim() };
+  for (const k of SUZGEC) d[k] = $(k).value.trim();
+  return d;
+}
+
+$("form").addEventListener("submit", (e) => {
+  e.preventDefault();
+  durumYaz({ ...formDurumu(), sayfa: 1 });
+});
+for (const k of ["tur", "daire", "sirala"]) $(k).addEventListener("change", () => durumYaz({ ...formDurumu(), sayfa: 1 }));
+$("onceki").addEventListener("click", () => durumYaz({ ...durumOku(), sayfa: (son?.sayfa || 1) - 1 }));
+$("sonraki").addEventListener("click", () => durumYaz({ ...durumOku(), sayfa: (son?.sayfa || 1) + 1 }));
+$("geri").addEventListener("click", () => {
+  const d = durumOku();
+  delete d.karar;
+  durumYaz(d);
+});
+$("yazdir").addEventListener("click", () => window.print());
+$("kopyala").addEventListener("click", async () => {
+  if (!acikKarar) return;
+  try {
+    await navigator.clipboard.writeText(acikKarar.kunye);
+    $("kopyalandi").textContent = "Kopyalandı";
+  } catch {
+    $("kopyalandi").textContent = "Kopyalanamadı";
+  }
+  setTimeout(() => ($("kopyalandi").textContent = ""), 2000);
+});
+$("eslesOnce").addEventListener("click", () => eslesmeyeGit(eslesSira - 1));
+$("eslesSonra").addEventListener("click", () => eslesmeyeGit(eslesSira + 1));
+document.addEventListener("keydown", (e) => {
+  if (e.key === "/" && document.activeElement !== $("q")) {
+    e.preventDefault();
+    if ($("karar").style.display === "block") $("geri").click();
+    $("q").focus();
+    $("q").select();
+  }
+});
+window.addEventListener("hashchange", goster);
+
+async function getirJson(yol) {
+  const y = await fetch(yol);
+  if (!y.ok) throw new Error((await y.json().catch(() => ({}))).hata || `HTTP ${y.status}`);
+  return y.json();
+}
+
+async function goster() {
+  const d = durumOku();
+  $("q").value = d.q || "";
+  for (const k of SUZGEC) $(k).value = d[k] || (k === "sirala" ? "yeni" : "");
+  if (d.karar) return kararGoster(d.karar, d.q || "");
+  $("karar").style.display = "none";
+  $("arama").hidden = false;
+  document.title = d.q ? `${d.q} — Karar Arama` : "Karar Arama";
+  const p = new URLSearchParams({ q: d.q || "", sayfa: d.sayfa || 1 });
+  for (const k of SUZGEC) if (d[k]) p.set(k, d[k]);
+  $("ozet").textContent = "Aranıyor…";
+  try {
+    son = await getirJson(`/api/ara?${p}`);
+  } catch (e) {
+    $("ozet").textContent = `Arama yapılamadı: ${e.message}`;
+    return;
+  }
+  sonuclariYaz(son, d);
+}
+
+function sonuclariYaz(s, d) {
+  const ol = $("sonuclar");
+  ol.textContent = "";
+  const sayfaSay = Math.max(1, Math.ceil(s.toplam / s.boyut));
+  const aranan = d.q || SUZGEC.some((k) => d[k] && k !== "sirala");
+  $("ozet").textContent = s.toplam
+    ? `${sayi(s.toplam)} karar${aranan ? " bulundu" : ""} · ${s.sure} ms`
+    : aranan ? "Sonuç yok. Daha az kelimeyle ya da tırnaksız deneyin." : "";
+  for (const r of s.sonuclar) {
+    const li = document.createElement("li");
+    const b = document.createElement("button");
+    b.type = "button";
+    b.className = "kunye";
+    if (r.eslesme === "numara" && d.q) {
+      const rz = document.createElement("span");
+      rz.className = "rozet";
+      rz.textContent = "Numara";
+      b.append(rz);
+    } else if (TUR_AD[r.tur]) {
+      const rz = document.createElement("span");
+      rz.className = "rozet";
+      rz.textContent = TUR_AD[r.tur];
+      b.append(rz);
+    }
+    b.append(r.kunye || `Karar ${r.id}`);
+    b.addEventListener("click", () => durumYaz({ ...durumOku(), karar: r.id }));
+    const p = document.createElement("p");
+    p.className = "kesit";
+    parcaYaz(p, r.parca);
+    li.append(b, p);
+    ol.append(li);
+  }
+  $("sayfalar").hidden = s.toplam <= s.boyut;
+  $("sayfaBilgi").textContent = `Sayfa ${sayi(s.sayfa)} / ${sayi(sayfaSay)}`;
+  $("onceki").disabled = s.sayfa <= 1;
+  $("sonraki").disabled = s.sayfa >= sayfaSay;
+}
+
+async function kararGoster(id, q) {
+  $("arama").hidden = true;
+  $("karar").style.display = "block";
+  $("kararBaslik").textContent = "Yükleniyor…";
+  $("tam").textContent = "";
+  try {
+    acikKarar = await getirJson(`/api/karar?${new URLSearchParams({ id, q })}`);
+  } catch (e) {
+    $("kararBaslik").textContent = `Karar açılamadı: ${e.message}`;
+    return;
+  }
+  document.title = `${acikKarar.kunye} — Karar Arama`;
+  $("kararBaslik").textContent = acikKarar.kunye || `Karar ${id}`;
+  parcaYaz($("tam"), acikKarar.parca || [{ t: acikKarar.metin, v: false }]);
+  eslesmeler = [...$("tam").querySelectorAll("mark")];
+  $("esles").hidden = !eslesmeler.length;
+  eslesSira = -1;
+  window.scrollTo(0, 0);
+  $("kararBaslik").focus();
+  if (eslesmeler.length) eslesmeyeGit(0);
+}
+
+function eslesmeyeGit(i) {
+  if (!eslesmeler.length) return;
+  eslesSira = (i + eslesmeler.length) % eslesmeler.length;
+  eslesmeler.forEach((m, j) => m.classList.toggle("etkin", j === eslesSira));
+  eslesmeler[eslesSira].scrollIntoView({ block: "center" });
+  $("eslesBilgi").textContent = `Eşleşme ${eslesSira + 1} / ${eslesmeler.length}`;
+}
+
+async function durumGuncelle() {
+  try {
+    const d = await getirJson("/api/durum");
+    const g = d.guncelleme ? new Date(d.guncelleme).toLocaleString("tr-TR", { dateStyle: "medium", timeStyle: "short" }) : "—";
+    $("durum").textContent = `Yerel arşiv · ${sayi(d.karar)} karar · son güncelleme ${g}`;
+    const k = d.kur;
+    if (k?.calisiyor && k.toplam > 0) {
+      $("kur").hidden = false;
+      $("kur").textContent = `Yeni kararlar dizine ekleniyor: ${sayi(k.islenen)} / ${sayi(k.toplam)}`;
+      const pr = document.createElement("progress");
+      pr.max = k.toplam;
+      pr.value = k.islenen;
+      $("kur").append(pr);
+      setTimeout(durumGuncelle, 3000);
+    } else {
+      $("kur").hidden = true;
+      setTimeout(durumGuncelle, 60000);
+    }
+  } catch {
+    $("durum").textContent = "Sunucuya ulaşılamıyor";
+    setTimeout(durumGuncelle, 10000);
+  }
+}
+
+async function daireleriYukle() {
+  try {
+    const liste = await getirJson("/api/daireler");
+    const sec = $("daire");
+    const secili = durumOku().daire || "";
+    for (const x of liste) {
+      const o = document.createElement("option");
+      o.value = x.daire;
+      o.textContent = `${x.daire} (${sayi(x.sayi)})`;
+      sec.append(o);
+    }
+    sec.value = secili;
+  } catch {
+    /* süzgeç boş kalır, arama çalışır */
+  }
+}
+
+daireleriYukle().then(goster);
+durumGuncelle();
+</script>
+</body>
+</html>
