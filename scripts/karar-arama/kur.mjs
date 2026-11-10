@@ -12,7 +12,7 @@
 import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import { DB, VERI, durumYaz, kilitAl, kilitBirak } from "./ayar.mjs";
-import { ac, bilgiYaz, durum, ekle, varOlanlar } from "./veritabani.mjs";
+import { ac, bilgiYaz, bosalt, durum, ekle, varOlanlar } from "./veritabani.mjs";
 
 const yeniden = process.argv.includes("--yeniden");
 const sessiz = process.argv.includes("--sessiz");
@@ -46,7 +46,7 @@ function calis() {
   try {
     if (yeniden) {
       yaz("Dizin baştan kuruluyor…");
-      db.exec("DELETE FROM ara; DELETE FROM kararlar;");
+      bosalt(db);
     }
     const liste = listeOku();
     const var_ = varOlanlar(db);

@@ -126,3 +126,23 @@ describe("yardımcılar", () => {
     assert.equal(getir(db, "yok"), null);
   });
 });
+
+describe("şema geçişi", () => {
+  it("metni kararlar tablosunda tutan ilk sürüm dosyası boşaltılıp yeni düzenle kurulur", async () => {
+    const { mkdtempSync, rmSync } = await import("node:fs");
+    const { tmpdir } = await import("node:os");
+    const { join } = await import("node:path");
+    const { DatabaseSync } = await import("node:sqlite");
+    const dizin = mkdtempSync(join(tmpdir(), "karar-arama-"));
+    const yol = join(dizin, "eski.db");
+    const eski = new DatabaseSync(yol);
+    eski.exec("CREATE TABLE kararlar (rid INTEGER PRIMARY KEY, id TEXT, metin TEXT); INSERT INTO kararlar VALUES (1, 'x', 'eski');");
+    eski.close();
+    const d = ac(yol);
+    assert.equal(durum(d).karar, 0);
+    ekle(d, ornekler[0]);
+    assert.deepEqual(kimlikler(ara(d, "kira")), ["1"]);
+    d.close();
+    rmSync(dizin, { recursive: true, force: true });
+  });
+});
