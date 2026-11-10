@@ -94,7 +94,9 @@ export function ekle(db, k) {
   }
   const e = numaraAyir(esas);
   const kr = numaraAyir(karar);
-  const iso = isoTarih(tarih);
+  // Yargıtay kaydında yazım hatalı tarih olabiliyor ("06.02.3013"): gelecek yıl sıralamada en üste çıkmasın.
+  const ham = isoTarih(tarih);
+  const iso = ham && Number(ham.slice(0, 4)) <= new Date().getFullYear() + 1 ? ham : "";
   const yil = iso ? Number(iso.slice(0, 4)) : (kr?.yil ?? null);
 
   const eski = hazir(db, "SELECT rid FROM kararlar WHERE id = ?").get(String(k.id));

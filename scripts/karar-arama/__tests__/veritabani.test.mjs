@@ -146,3 +146,13 @@ describe("şema geçişi", () => {
     rmSync(dizin, { recursive: true, force: true });
   });
 });
+
+describe("hatalı tarih", () => {
+  it("gelecek yıllı tarih sıralamaya girmez, yıl süzgeci karar yılını kullanır", () => {
+    const d = ac(":memory:");
+    ekle(d, ornekler[0]);
+    ekle(d, { ...ornekler[1], id: "9", tarih: "06.02.3013", kunye: "Yargıtay 9. Hukuk Dairesi, E. 2023/10, K. 2024/1234, T. 06.02.3013" });
+    assert.deepEqual(kimlikler(ara(d, "")), ["1", "9"]);
+    assert.deepEqual(kimlikler(ara(d, "", { yil1: 2024, yil2: 2024 })), ["9"]);
+  });
+});
