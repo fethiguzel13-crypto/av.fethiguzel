@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { paylasimMeta } from '@/lib/paylasim';
 import path from 'path';
 import mammoth from 'mammoth';
 import Link from "@/components/SiteLink";
@@ -21,12 +22,14 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ slug: string[] }> }): Promise<Metadata> {
   const parcalar = (await params).slug.map((s) => decodeURIComponent(s));
   const baslik = makaleBasligi(parcalar[parcalar.length - 1]);
+  const aciklama = `${baslik}: Av. Fethi Güzel'in özel hukuk alanındaki makalesinin tam metni.`;
+  const adres = `https://www.avfethiguzel.com/makale-oku/${parcalar.map(encodeURIComponent).join('/')}`;
   return {
     title: baslik,
-    description: `${baslik}: Av. Fethi Güzel'in özel hukuk alanındaki makalesinin tam metni.`,
-    alternates: {
-      canonical: `https://www.avfethiguzel.com/makale-oku/${parcalar.map(encodeURIComponent).join('/')}`,
-    },
+    description: aciklama,
+    alternates: { canonical: adres },
+    // Sabit üretilince paylaşım taraması og:url eksikliğini yakaladı; yazarın akademik kartı kullanılır.
+    ...paylasimMeta({ baslik, aciklama, adres, tur: 'yazar', anahtar: 'akademik-profil', ogTuru: 'article' }),
   };
 }
 
