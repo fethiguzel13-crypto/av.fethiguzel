@@ -1,11 +1,10 @@
 import Link from "@/components/SiteLink";
-import { BookOpen, FileText, Gavel, MapPin, Newspaper, Scale } from 'lucide-react';
+import { BookOpen, FileText, MapPin, Newspaper, Scale } from 'lucide-react';
 
 /** Külliyat sayıları — lib/site-stats.ts tarafından üretilir. */
 export type Sayilar = {
   kanun: string;
   madde: string;
-  karar: string;
   rehber: string;
 };
 
@@ -29,12 +28,6 @@ export default function TrustBar({ sayilar }: { sayilar: Sayilar }) {
           value: sayilar.kanun,
           label: 'Kanun',
           href: '/mevzuat',
-      },
-      {
-          icon: Gavel,
-          value: sayilar.karar,
-          label: 'Yargıtay kararı arşivi',
-          href: '/yargi-kararlari',
       },
       {
           icon: FileText,

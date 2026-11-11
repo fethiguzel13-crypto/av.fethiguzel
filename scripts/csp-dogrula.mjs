@@ -19,15 +19,12 @@ export const SAYFALAR = [
   "/mevzuat/tbk",
   "/hesaplama",
   "/bilgi",
-  "/ders-notlari",
   "/icthat",
-  "/yargi-kararlari",
   "/makaleler",
   "/eserlerim",
   "/akademik-profil",
   "/avukat-fethi-guzel",
   "/ercis-avukat",
-  "/uyelik",
   "/ara?q=kira",
 ];
 

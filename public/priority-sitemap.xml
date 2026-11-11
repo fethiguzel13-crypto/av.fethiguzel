@@ -36,11 +36,6 @@
     <priority>0.95</priority>
   </url>
   <url>
-    <loc>https://www.avfethiguzel.com/ders-notlari</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
-  </url>
-  <url>
     <loc>https://www.avfethiguzel.com/bolge-yazi</loc>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>

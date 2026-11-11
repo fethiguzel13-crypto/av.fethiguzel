@@ -57,19 +57,24 @@ const nextConfig: NextConfig = {
       },
       // Yerleşim URL’leri (`/ercis-avukat` vb.) artık bölgesel bilgilendirme sayfasıdır.
       // 308 ile deneme yazısına göndermek Google’da isim–yerleşim eşlemesini koparıyordu.
+      // 2026-11: Vercel Hobby kullanım sınırı için ders notları, karar arşivi ve ücretli üyelik siteden kaldırıldı.
+      // Yönlendirme CDN'de yapılır, sunucu fonksiyonu çalışmaz. Karar araması yerelde: scripts/karar-arama.
+      ...["/ders-notlari", "/ders-notlari/:path*", "/uyelik", "/uyelik/:path*"].map((source) => ({
+        source,
+        destination: "/",
+        permanent: true,
+      })),
+      ...["/yargi-kararlari", "/yargi-kararlari/:path*"].map((source) => ({
+        source,
+        destination: "/icthat",
+        permanent: true,
+      })),
     ];
   },
   async rewrites() {
     // Madde sayfaları: Node route (app/mevzuat/[kanunId]/[id]/route.ts) — tam şerh.
     // Eski beforeFiles → /seo-madde/*.html kesik özet veriyordu ("portal arşivinde…"); kaldırıldı.
-    return {
-      beforeFiles: [
-        // Ücretli indeks G14'ten beri public/ dışında (data/yayin/); eski adres üyelik API'sine yönlenir.
-        { source: '/data/yargi-index.json.gz', destination: '/api/yargi/index' },
-      ],
-      afterFiles: [],
-      fallback: [],
-    };
+    return { beforeFiles: [], afterFiles: [], fallback: [] };
   },
   outputFileTracingIncludes: {
     "*": [
@@ -80,15 +85,6 @@ const nextConfig: NextConfig = {
       "./node_modules/next/dist/server/dev/browser-logs/**/*",
       "./node_modules/next/dist/server/node-environment-extensions/**/*",
     ],
-    "/api/yargi/[...path]": ["./data/yayin/yargi-index.json.gz"],
-    "/api/yargi/index": ["./data/yayin/yargi-index.json.gz"],
-    "/api/yargi/karar/[id]": ["./data/yayin/yargi-index.json.gz"],
-    // G14 adım 4: karar sayfası künye ve kararın başını sunucuda indeksten basar (ISR, kimlik başına bir kez).
-    "/yargi-kararlari/[id]": ["./data/yayin/yargi-index.json.gz"],
-    // Ders notları — SSG dışında runtime fallback için dosya erişimi
-    "/ders-notlari/[uni]/[ders]": ["./lib/ders-notlari/generated/notes/**/*"],
-    "/ders-notlari/[uni]/[ders]/pdf": ["./lib/ders-notlari/generated/notes/**/*"],
-    "/ders-notlari/[uni]": ["./lib/ders-notlari/generated/**/*"],
   },
   async headers() {
     return [
@@ -140,14 +136,15 @@ const nextConfig: NextConfig = {
     // izlenen 1 GB'lık not klasörü bu fonksiyona girmesin.
     "/og/**": ["./lib/ders-notlari/generated/**/*"],
     "*": [
+      // Ders notları 2026-11'de siteden kaldırıldı; 1 GB'lık not klasörü hiçbir fonksiyona girmez.
+      "./lib/ders-notlari/generated/**/*",
+      "./data/yayin/**/*",
       "./content/**/*",
       "./content-packs/**/*",
       "./public/content-packs/**/*",
       "./public/packs/**/*",
       "./public/seo-madde/**/*",
       "./public/data/**/*",
-      // notes: NOT excluded here — route-scoped includes below ship them only to
-      // /ders-notlari/* lambdas. Auto-trace is blocked via turbopackIgnore in getNote.
       "./data/yargi-kararlari/**/*",
       "./data/uyelik/**/*",
       "./scraper/**/*",

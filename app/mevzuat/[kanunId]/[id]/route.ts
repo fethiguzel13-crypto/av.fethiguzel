@@ -1,15 +1,19 @@
 /**
  * Madde SEO HTML — Node runtime (not Edge).
  *
- * Why Node: full packs are ~25MB uncompressed (TBK); Edge OOMs on gunzip+parse → 500.
- * Node lambdas have enough memory; packs are fetched once from CDN and cached in-process.
+ * 2026-11: Bütün maddeler derlemede sabit HTML olarak üretilir (generateStaticParams), CDN'den fonksiyonsuz sunulur.
+ * Önceden her madde ilk istekte fonksiyon çalıştırıyor ve 3 MB'lık kanun paketini HTTP ile indirip ayrıştırıyordu
+ * (Vercel veri önbelleği 2 MB üstünü saklamaz); bot taraması Hobby işlemci sınırını birkaç saatte dolduruyordu.
+ * Derlemede paket diskten okunur. Kanonik olmayan adresler (308) ve listede olmayanlar çalışma anında üretilir.
  * file-logger Vercel crash is patched in prebuild (patch-next-file-logger.mjs --strict).
  */
 export const runtime = 'nodejs';
-export const dynamic = 'force-dynamic';
+export const dynamic = 'force-static';
 export const dynamicParams = true;
 export const maxDuration = 30;
 
+import { existsSync, readdirSync, readFileSync } from 'node:fs';
+import { join } from 'node:path';
 import { gunzipSync } from 'node:zlib';
 import { auditCommentary } from '@/lib/content-quality.mjs';
 import { baslikDuzeyleriniDuzle } from '@/lib/erisilebilirlik.mjs';
@@ -81,9 +85,43 @@ function mdLite(md: string) {
   return `<div class="prose">${t.startsWith('<h') ? t : `<p>${t}</p>`}</div>`;
 }
 
+const PAKET_DIZINI = join(/* turbopackIgnore: true */ process.cwd(), 'public', 'content-packs');
+
+function paketCoz(ab: Buffer): Pack {
+  const jsonText = ab[0] === 0x1f && ab[1] === 0x8b ? gunzipSync(ab).toString('utf8') : ab.toString('utf8');
+  return JSON.parse(jsonText) as Pack;
+}
+
+/** Derlemede paket diskten okunur; çalışma anında dosya fonksiyonda yoktur (outputFileTracingExcludes), ağdan gelir. */
+function diskPaketi(kanunId: string): Pack | null {
+  const yol = join(PAKET_DIZINI, `${kanunId}.json.gz`);
+  if (!/^[a-z0-9-]+$/.test(kanunId) || !existsSync(yol)) return null;
+  return paketCoz(readFileSync(yol));
+}
+
+export async function generateStaticParams({ params }: { params?: { kanunId?: string } } = {}) {
+  if (!existsSync(PAKET_DIZINI)) return [];
+  const kanunlar = readdirSync(PAKET_DIZINI)
+    .filter((f) => f.endsWith('.json.gz'))
+    .map((f) => f.slice(0, -'.json.gz'.length))
+    .filter((k) => !params?.kanunId || k === params.kanunId);
+  return kanunlar.flatMap((kanunId) => {
+    const pack = diskPaketi(kanunId);
+    if (!pack) return [];
+    g.__mevzuatPacks!.set(kanunId, pack);
+    // Yalnız kanonik anahtarlar: diğerleri 308 döner ve sabit üretilmez.
+    return Object.keys(pack).filter((id) => normalizeMaddeId(id) === id).map((id) => ({ kanunId, id }));
+  });
+}
+
 async function loadPack(kanunId: string, origin: string): Promise<Pack> {
   const cached = g.__mevzuatPacks!.get(kanunId);
   if (cached) return cached;
+  const disk = diskPaketi(kanunId);
+  if (disk) {
+    g.__mevzuatPacks!.set(kanunId, disk);
+    return disk;
+  }
 
   const kid = encodeURIComponent(kanunId);
   const urls = [
@@ -107,13 +145,7 @@ async function loadPack(kanunId: string, origin: string): Promise<Pack> {
         last = `${url} empty`;
         continue;
       }
-      let jsonText: string;
-      if (ab[0] === 0x1f && ab[1] === 0x8b) {
-        jsonText = gunzipSync(ab).toString('utf8');
-      } else {
-        jsonText = ab.toString('utf8');
-      }
-      const pack = JSON.parse(jsonText) as Pack;
+      const pack = paketCoz(ab);
       g.__mevzuatPacks!.set(kanunId, pack);
       return pack;
     } catch (e) {
@@ -381,7 +413,7 @@ export async function GET(req: Request, ctx: Ctx) {
       status: 200,
       headers: {
         'Content-Type': 'text/html; charset=utf-8',
-        'Cache-Control': 'public, s-maxage=86400, stale-while-revalidate=604800',
+        'Cache-Control': 'public, s-maxage=604800, stale-while-revalidate=2592000',
         // Şerhi kalıp olan sayfa indekse verilmez. Başlık etiketiyle birlikte
         // iki katmanlı: Googlebot HTML'i ayrıştırmadan da başlığı görür.
         'X-Robots-Tag': indexable

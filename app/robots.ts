@@ -1,75 +1,29 @@
 import type { MetadataRoute } from 'next';
 
 /**
- * Crawl policy optimized for Google + AI answer engines (GEO).
- * Allow major LLM bots to read public legal library content; block API only.
+ * Tarama politikası: yalnız arama motorları ve paylaşım önizleme botları.
+ *
+ * 2026-11: Vercel Hobby kullanım sınırı, site kullanılmadığı halde birkaç saatte doluyordu. Önceki politika
+ * GPTBot, ClaudeBot, Bytespider, CCBot gibi yapay zekâ tarayıcılarını bütün siteye davet ediyordu; binlerce
+ * madde sayfasının her biri ilk ziyarette sunucu fonksiyonu çalıştırdığı için bu tarama kullanım süresini
+ * tüketiyordu. Arama motorları dışındaki herkes kapalıdır (robots.txt'e uymayan botlar için Vercel
+ * panelindeki güvenlik duvarı "AI Bots" kuralı ayrıca açılmalıdır).
  */
+const ARAMA_MOTORLARI = ['Googlebot', 'Googlebot-Image', 'Bingbot', 'YandexBot', 'DuckDuckBot', 'Applebot'];
+// Paylaşılan bağlantının önizleme kartını çeker; yalnız biri bağlantı paylaşınca gelir.
+const ONIZLEME = ['facebookexternalhit', 'Twitterbot', 'LinkedInBot', 'WhatsApp', 'TelegramBot', 'Slackbot'];
+
 export default function robots(): MetadataRoute.Robots {
-    // Production redirects bare domain → www; keep host + sitemap on www.
     const base = 'https://www.avfethiguzel.com';
     return {
         rules: [
-            {
-                userAgent: '*',
-                allow: '/',
-                disallow: ['/api/', '/_next/', '/uyelik/yonetim', '/uyelik/odeme'],
-            },
-            {
-                userAgent: 'Googlebot',
-                allow: '/',
-                disallow: ['/api/'],
-            },
-            // Generative Engine Optimization — surface library in AI answers
-            {
-                userAgent: 'GPTBot',
-                allow: '/',
-                disallow: ['/api/'],
-            },
-            {
-                userAgent: 'ChatGPT-User',
-                allow: '/',
-                disallow: ['/api/'],
-            },
-            {
-                userAgent: 'Google-Extended',
-                allow: '/',
-                disallow: ['/api/'],
-            },
-            {
-                userAgent: 'anthropic-ai',
-                allow: '/',
-                disallow: ['/api/'],
-            },
-            {
-                userAgent: 'ClaudeBot',
-                allow: '/',
-                disallow: ['/api/'],
-            },
-            {
-                userAgent: 'PerplexityBot',
-                allow: '/',
-                disallow: ['/api/'],
-            },
-            {
-                userAgent: 'Applebot-Extended',
-                allow: '/',
-                disallow: ['/api/'],
-            },
-            {
-                userAgent: 'Bytespider',
-                allow: '/',
-                disallow: ['/api/'],
-            },
-            {
-                userAgent: 'CCBot',
-                allow: '/',
-                disallow: ['/api/'],
-            },
+            { userAgent: ARAMA_MOTORLARI, allow: '/', disallow: ['/api/', '/_next/', '/og/'] },
+            { userAgent: ONIZLEME, allow: '/' },
+            { userAgent: '*', disallow: '/' },
         ],
         sitemap: [
             `${base}/priority-sitemap.xml`,
             `${base}/bilgi-sitemap.xml`,
-            `${base}/ders-notlari-sitemap.xml`,
             `${base}/sitemap.xml`,
             `${base}/images-sitemap.xml`,
         ],

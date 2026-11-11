@@ -9,12 +9,6 @@ import { categories } from '@/lib/categories';
 import { HESAPLAMA_ARACLAR } from '@/lib/hesaplama-meta';
 import { KAVRAMLAR } from '@/lib/kavramlar';
 import { PUBLISHED_ARTICLES } from '@/lib/vatandas-rehberi/published';
-import { getActiveUniversities } from '@/lib/ders-notlari/universiteler';
-import { hubDizinde } from '@/lib/ders-notlari/dizin.mjs';
-import kanonik from '@/lib/ders-notlari/dizin-kanonik.json';
-
-/** Yalnız dizine açık fakülte sayfaları (G11: temsilci not barındıran); diğerleri noindex. */
-const DIZINDEKI_FAKULTELER = getActiveUniversities().filter((u) => hubDizinde(u.slug, kanonik));
 
 export const metadata: Metadata = {
     title: 'Site Haritası',
@@ -29,9 +23,6 @@ const CORE = [
     { href: '/', ad: 'Ana sayfa' },
     { href: '/ara', ad: 'Mevzuat ara' },
     { href: '/mevzuat', ad: 'Mevzuat arşivi' },
-    { href: '/yargi-kararlari', ad: 'Yargıtay arşivi (üyelik)' },
-    { href: '/uyelik', ad: 'Arşiv üyeliği' },
-    { href: '/uyelik/sozlesme', ad: 'Mesafeli satış sözleşmesi' },
     { href: '/icthat', ad: 'Günlük içtihat' },
     { href: '/icthat/haftalik', ad: 'Haftalık içtihat özeti' },
     { href: '/hesaplama', ad: 'Hesaplama araçları' },
@@ -39,7 +30,6 @@ const CORE = [
     { href: '/on-form', ad: 'Ön değerlendirme formu' },
     { href: '/kavram', ad: 'Hukuki kavramlar' },
     { href: '/bilgi', ad: 'Vatandaş bilgi rehberi' },
-    { href: '/ders-notlari', ad: 'Hukuk fakültesi ders notları' },
     { href: '/bolge-yazi', ad: 'Bölgesel hukuki makaleler' },
     { href: '/makaleler', ad: 'Makaleler' },
     { href: '/eserlerim', ad: 'Eserler / kitap' },
@@ -146,26 +136,6 @@ export default function SiteHaritasiPage() {
                             <li key={b.slug}>
                                 <Link href={`/${b.slug}`} className="text-sm text-charcoal/70 hover:text-accent">
                                     {b.ilce} — bilgilendirme
-                                </Link>
-                            </li>
-                        ))}
-                    </ul>
-                </section>
-
-                <section className="mb-12">
-                    <h2 className="text-lg font-heading font-bold text-charcoal mb-4">
-                        Ders notları hub
-                    </h2>
-                    <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2">
-                        <li>
-                            <Link href="/ders-notlari" className="text-sm text-charcoal/70 hover:text-accent">
-                                Tüm hukuk fakülteleri
-                            </Link>
-                        </li>
-                        {DIZINDEKI_FAKULTELER.map((u) => (
-                            <li key={u.slug}>
-                                <Link href={`/ders-notlari/${u.slug}`} className="text-sm text-charcoal/70 hover:text-accent">
-                                    {u.name}
                                 </Link>
                             </li>
                         ))}

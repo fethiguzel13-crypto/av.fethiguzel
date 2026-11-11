@@ -64,15 +64,6 @@ if (r3.status !== 0) {
     console.warn('[prebuild-safe] bilgi-sitemap failed (non-fatal)');
 }
 
-const r4 = spawnSync(process.execPath, [join(root, 'scripts', 'build-ders-notlari-sitemap.mjs')], {
-    cwd: root,
-    stdio: 'inherit',
-    env: process.env,
-});
-if (r4.status !== 0) {
-    console.warn('[prebuild-safe] ders-notlari-sitemap failed (non-fatal)');
-}
-
 const r5 = spawnSync(process.execPath, [join(root, 'scripts', 'build-site-search-only.mjs')], {
     cwd: root,
     stdio: 'inherit',

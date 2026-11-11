@@ -35,6 +35,19 @@ export function makaleDosyaYolu(parcalar: string[]): string | null {
   }
 }
 
+/** Derlemede üretilecek makale adresleri: klasördeki her .docx ve .pdf, klasör parçalarıyla birlikte. */
+export function makaleParcalari(kok: string = KOK): string[][] {
+  const sonuc: string[][] = [];
+  const gez = (dizin: string, onek: string[]) => {
+    for (const g of fs.readdirSync(dizin, { withFileTypes: true })) {
+      if (g.isDirectory()) gez(path.join(dizin, g.name), [...onek, g.name]);
+      else if (BICIM[path.extname(g.name).toLowerCase()]) sonuc.push([...onek, g.name]);
+    }
+  };
+  if (fs.existsSync(kok)) gez(kok, []);
+  return sonuc.sort((a, b) => a.join('/').localeCompare(b.join('/'), 'tr'));
+}
+
 export function makaleOkuJsonLd(parcalar: string[]) {
   const kodlu = parcalar.map(encodeURIComponent).join('/');
   const url = `${SITE_URL}/makale-oku/${kodlu}`;

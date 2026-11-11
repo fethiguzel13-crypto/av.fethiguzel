@@ -5,17 +5,7 @@ import Link from "@/components/SiteLink";
 import { usePathname, useRouter } from 'next/navigation';
 import { Menu, X, ChevronDown, Search, Lock } from 'lucide-react';
 import BrandMark from '@/components/BrandMark';
-import { useTarayiciDegeri } from '@/lib/tarayici';
 import LanguageSwitcher from '@/components/LanguageSwitcher';
-
-/** Arşiv üyeliği arayüz çerezi (yalnız görünüm ipucu; yetki sunucuda denetlenir). */
-function uyelikCereziOku(): string | null {
-  const raw = document.cookie
-    .split(';')
-    .map((c) => c.trim())
-    .find((c) => c.startsWith('fg_arsiv_ui='));
-  return raw ? raw.slice('fg_arsiv_ui='.length) : null;
-}
 
 const MEVZUAT_GRUPLARI = [
   {
@@ -111,7 +101,6 @@ export default function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [megaOpen, setMegaOpen] = useState(false);
   const [navQ, setNavQ] = useState('');
-  const uyelikUi = useTarayiciDegeri(uyelikCereziOku, null);
   const megaRef = useRef<HTMLDivElement>(null);
   const burgerRef = useRef<HTMLButtonElement>(null);
   // Fare düğmeye gelince menüyü açar; aynı ziyaretteki tıklama menüyü kapatmaz, açık tutar (G24).
@@ -168,9 +157,6 @@ export default function Navbar() {
     return () => document.removeEventListener('keydown', handler);
   }, [mobileOpen, megaOpen]);
 
-  const uyelikHref = uyelikUi === '1' ? '/yargi-kararlari' : uyelikUi === '0' ? '/uyelik/odeme' : '/uyelik';
-  const uyelikLabel = uyelikUi === '1' ? 'Hesabım' : uyelikUi === '0' ? 'Üyelik' : 'Üye ol';
-
   /*
     Üst menü sekiz öge taşır, dokuz değil.
 
@@ -183,7 +169,6 @@ export default function Navbar() {
   */
   const simpleLinks: { name: string; href: string; lock?: boolean }[] = [
     { name: 'Ara', href: '/ara' },
-    { name: 'Yargı', href: '/yargi-kararlari', lock: true },
     { name: 'Rehber', href: '/bilgi' },
     { name: 'Güncel', href: '/icthat' },
     { name: 'Hesaplama', href: '/hesaplama' },
@@ -221,12 +206,6 @@ export default function Navbar() {
               {item.lock ? <Lock size={11} aria-hidden /> : null}
             </Link>
           ))}
-          <Link
-            href={uyelikHref}
-            className={`px-3 py-2 rounded-full transition-colors whitespace-nowrap ${linkCls}`}
-          >
-            {uyelikLabel}
-          </Link>
 
           {/* Mevzuat mega trigger. Panel düğmeye değil çubuğa (`nav`) göre ortalanır; düğme çubuğun sağında olduğundan
               düğmeye göre ortalanan 860 px'lik panel 1280 px'te sağ kenardan taşıyordu (G24). */}
@@ -374,13 +353,6 @@ export default function Navbar() {
               {item.lock ? <Lock size={14} aria-hidden /> : null}
             </Link>
           ))}
-          <Link
-            href={uyelikHref}
-            onClick={() => setMobileOpen(false)}
-            className="text-accent-ink font-heading font-bold uppercase text-base py-2.5 border-b border-charcoal/[0.06]"
-          >
-            {uyelikLabel}
-          </Link>
           <form onSubmit={submitNavSearch} className="mt-2 mb-3 flex gap-2" role="search">
             <input
               type="search"

@@ -196,8 +196,6 @@ export default function Footer() {
             <div className="flex flex-col gap-2 text-sm text-cream/70">
               <Link href="/ara" className="hover:text-accent-light transition-colors">Mevzuat Ara</Link>
               <Link href="/mevzuat" className="hover:text-accent-light transition-colors">Tüm Kanunlar</Link>
-              <Link href="/yargi-kararlari" className="hover:text-accent-light transition-colors">Yargıtay Arşivi</Link>
-              <Link href="/uyelik" className="hover:text-accent-light transition-colors">Arşiv üyeliği</Link>
               <Link href="/icthat" className="hover:text-accent-light transition-colors">Günlük İçtihat</Link>
               <Link href="/hesaplama" className="hover:text-accent-light transition-colors">Hesaplama Araçları</Link>
             </div>
@@ -208,7 +206,6 @@ export default function Footer() {
               <Link href="/makaleler" className="hover:text-accent-light transition-colors">Makaleler</Link>
               <Link href="/rehber" className="hover:text-accent-light transition-colors">Rehberler</Link>
               <Link href="/bilgi" className="hover:text-accent-light transition-colors">Vatandaş Bilgi</Link>
-              <Link href="/ders-notlari" className="hover:text-accent-light transition-colors">Hukuk Ders Notları</Link>
               <Link href="/kavram" className="hover:text-accent-light transition-colors">Kavramlar</Link>
               <Link href="/eserlerim" className="hover:text-accent-light transition-colors">Kitap / Eserler</Link>
               <Link href="/e-durusma" className="hover:text-accent-light transition-colors">e-Duruşma</Link>
@@ -228,7 +225,6 @@ export default function Footer() {
               <Link href="/bilgi" className="hover:text-accent-light transition-colors">Vatandaş Rehberi</Link>
               <Link href="/bolge-yazi" className="hover:text-accent-light transition-colors">Bölge Yazıları</Link>
               <Link href="/hizmetler" className="hover:text-accent-light transition-colors">Hizmet Alanları</Link>
-              <Link href="/ders-notlari" className="hover:text-accent-light transition-colors">Ders Notları</Link>
               <Link href="/mevzuat" className="hover:text-accent-light transition-colors">Mevzuat</Link>
               <Link href="/avukat-fethi-guzel" className="hover:text-accent-light transition-colors">Av. Fethi Güzel</Link>
             </div>
@@ -236,7 +232,7 @@ export default function Footer() {
           <div>
             <p className="text-cream/55 text-[10px] uppercase tracking-widest font-bold mb-3">Profil</p>
             <p className="text-cream/55 text-xs leading-relaxed">
-              Özel hukuk doktora çalışmaları · e-duruşma monografisi · iyi düzeyde İngilizce · kanun metni, şerh ve Yargıtay arşivi
+              Özel hukuk doktora çalışmaları · e-duruşma monografisi · iyi düzeyde İngilizce · kanun metni, şerh ve içtihat
             </p>
           </div>
         </div>
@@ -279,7 +275,6 @@ export default function Footer() {
               <XIcon size={13} /> X
             </a>
             <Link href="/avukat-fethi-guzel" className="hover:text-accent-light transition-colors">Avukat Profili</Link>
-            <Link href="/uyelik/sozlesme" className="hover:text-accent-light transition-colors">Mesafeli Satış</Link>
             <Link href="/gizlilik" className="hover:text-accent-light transition-colors">Gizlilik / KVKK</Link>
             <Link href="/yasal-uyari" className="hover:text-accent-light transition-colors">Yasal Uyarı</Link>
             <Link href="/#sss" className="hover:text-accent-light transition-colors">SSS</Link>

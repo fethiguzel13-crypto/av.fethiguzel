@@ -89,7 +89,6 @@ test('mobil menü klavyeyle açılır, Escape ile kapanır ve odak açma düğme
 });
 
 const ODAK_SAYFALARI = [
-  { ad: 'ders notu', yol: '/ders-notlari/ankara/aile-hukuku-yillik' },
   { ad: 'madde', yol: '/mevzuat/tbk/madde-1' },
   { ad: 'hesaplama', yol: '/hesaplama/kidem' },
 ];
@@ -273,34 +272,6 @@ test('kıdem: ayrılış girişten önceyse hata iletisi durum bölgesinde duyur
     await sayfa.getByLabel('İşten Ayrılış Tarihi', { exact: true }).fill('2016-07-03');
     const ileti = sayfa.getByRole('status').filter({ hasText: 'İşten ayrılış tarihi işe giriş tarihinden sonra olmalıdır' });
     await ileti.waitFor({ state: 'visible', timeout: 10_000 });
-    assert.deepEqual(await ciddiIhlaller(sayfa), []);
-    assert.deepEqual(hatalar, []);
-  } finally {
-    await sayfa.close();
-  }
-});
-
-test('kısa test: seçili şık aria-pressed taşır, kontrolden sonra doğru ve yanlış cevap metinle belirtilir; axe ciddi ve kritik ihlal yoktur', async () => {
-  const { sayfa, yanit, hatalar } = await ac('/ders-notlari/ankara/aile-hukuku-yillik');
-  try {
-    assert.equal(yanit.status(), 200);
-    const blok = sayfa.locator('section', { has: sayfa.getByRole('heading', { name: 'Kısa test', level: 2 }) });
-    const ilkSoru = blok.locator('ol > li').first();
-    const siklar = ilkSoru.locator('button');
-    await siklar.first().scrollIntoViewIfNeeded();
-    await hidrasyonBekle(sayfa, 'section ol > li button');
-    const n = await siklar.count();
-    assert.ok(n >= 2, `ilk soruda şık yok (${n})`);
-    await siklar.nth(0).click();
-    const basili = await siklar.evaluateAll((d) => d.map((b) => b.getAttribute('aria-pressed')));
-    assert.deepEqual(basili, ['true', ...Array(n - 1).fill('false')]);
-    assert.deepEqual(await ciddiIhlaller(sayfa), []);
-
-    await blok.getByRole('button', { name: 'Kontrol et' }).click();
-    await blok.getByRole('status').filter({ hasText: /Sonuç: \d+ \/ \d+/ }).waitFor({ timeout: 5_000 });
-    const metinler = await siklar.allInnerTexts();
-    assert.equal(metinler.filter((m) => m.includes('Doğru cevap')).length, 1, `doğru cevap metinle belirtilmiyor: ${metinler.join(' | ')}`);
-    assert.ok(metinler[0].includes('Doğru cevap') || metinler[0].includes('Yanlış seçim'), `seçilen şıkkın sonucu metinle belirtilmiyor: ${metinler[0]}`);
     assert.deepEqual(await ciddiIhlaller(sayfa), []);
     assert.deepEqual(hatalar, []);
   } finally {

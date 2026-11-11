@@ -5,7 +5,6 @@ import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
 import TrustBar from '@/components/TrustBar';
 import ToolsPreview from '@/components/ToolsPreview';
-import YargiPreview from '@/components/YargiPreview';
 import About from '@/components/About';
 import DailyNews from '@/components/DailyNews';
 import Articles from '@/components/Articles';
@@ -19,14 +18,14 @@ const N = siteSayilari();
 
 export const metadata: Metadata = {
   title: {
-    absolute: 'Av. Fethi Güzel | Kanun, Şerh, Yargıtay Arşivi',
+    absolute: 'Av. Fethi Güzel | Kanun, Şerh, İçtihat',
   },
   description:
-    `Türk hukuku araştırma kütüphanesi: ${tr(N.kanun)} kanun, ${yaklasik(N.madde, 100)} madde metni, ${yaklasik(N.karar, 100)} Yargıtay kararı, akademik şerh, günlük içtihat ve vatandaş rehberi. Av. Fethi Güzel.`,
+    `Türk hukuku araştırma kütüphanesi: ${tr(N.kanun)} kanun, ${yaklasik(N.madde, 100)} madde metni, akademik şerh, günlük içtihat ve vatandaş rehberi. Av. Fethi Güzel.`,
   alternates: { canonical: 'https://www.avfethiguzel.com' },
   ...paylasimMeta({
-    baslik: 'Av. Fethi Güzel | Kanun, Şerh ve Yargıtay Arşivi',
-    aciklama: 'Kanun maddesi, akademik şerh, Yargıtay arşivi (üyelik) ve günlük içtihat.',
+    baslik: 'Av. Fethi Güzel | Kanun, Şerh ve İçtihat',
+    aciklama: 'Kanun maddesi, akademik şerh, günlük içtihat ve vatandaş rehberi.',
     adres: 'https://www.avfethiguzel.com',
     tur: 'site',
   }),
@@ -45,7 +44,6 @@ export default function Home() {
   const sayilar = {
     kanun: tr(n.kanun),
     madde: yaklasik(n.madde, 100),
-    karar: yaklasik(n.karar, 100),
     rehber: yaklasik(n.rehber, 10),
   };
 
@@ -56,7 +54,6 @@ export default function Home() {
       <main id="main-content">
       <Hero sayilar={sayilar} />
       <TrustBar sayilar={sayilar} />
-      <YargiPreview />
       {/* Google + kullanıcı: taranabilir sık aranan madde linkleri (JS yok) */}
       <section className="py-8 sm:py-10 px-5 sm:px-6 border-b border-charcoal/5 bg-white/40">
         <div className="max-w-7xl mx-auto">
@@ -78,7 +75,6 @@ export default function Home() {
               ['HMK 119', '/mevzuat/hmk/madde-119'],
               ['İİK 62', '/mevzuat/iik/madde-62'],
               ['Tüm TBK maddeleri', '/mevzuat/tbk'],
-              ['Yargıtay arşivi', '/yargi-kararlari'],
               ['Vatandaş rehberi', '/bilgi'],
               ['Kıdem rehberi', '/bilgi/kidem-tazminati-nasil-alinir'],
             ].map(([label, href]) => (

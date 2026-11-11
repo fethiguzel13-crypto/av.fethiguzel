@@ -5,9 +5,17 @@ import Link from "@/components/SiteLink";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import YazarKutusu from '@/components/YazarKutusu';
+import Kirinti from '@/components/Kirinti';
 import { jsonLdHtml } from '@/lib/json-ld';
-import { makaleBasligi, makaleDosyaYolu, makaleOkuJsonLd } from '@/lib/makale-oku';
+import { makaleBasligi, makaleDosyaYolu, makaleOkuJsonLd, makaleParcalari } from '@/lib/makale-oku';
 import { ArrowLeft, Download, FileText, Book } from 'lucide-react';
+
+// 2026-11: Makaleler derlemede bir kez HTML'e çevrilir ve CDN'den sunulur. Önceden her ziyarette .docx dosyası
+// sunucuda dönüştürülüyordu (Vercel Hobby işlemci süresi). Listede olmayan adres çalışma anında denetlenir.
+export const dynamic = 'force-static';
+export function generateStaticParams() {
+  return makaleParcalari().map((slug) => ({ slug }));
+}
 
 // Önceden metadata yoktu: sayfa kökün başlığını ve ana sayfa canonical'ını taşıyordu (G06b).
 export async function generateMetadata({ params }: { params: Promise<{ slug: string[] }> }): Promise<Metadata> {
@@ -64,6 +72,14 @@ export default async function MakaleOku({ params }: { params: Promise<{ slug: st
       <Navbar />
 
       <main id="main-content" className="pt-40 pb-20 px-6 max-w-4xl mx-auto">
+        {/* Kırıntı şeması JSON-LD grafiğinde (makaleOkuJsonLd); burada yalnız görünür kırıntı çizilir. */}
+        <Kirinti
+          ld={false}
+          ogeler={[
+            { ad: 'Makaleler', yol: '/makaleler' },
+            { ad: makaleBasligi(fileName), yol: `/makale-oku/${filePathParams.map(encodeURIComponent).join('/')}` },
+          ]}
+        />
         <div className="mb-12 flex justify-between items-center">
           <Link 
             href="/makaleler" 

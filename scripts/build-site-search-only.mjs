@@ -43,7 +43,6 @@ const pages = [
     { type: 'sayfa', title: 'Yasal uyarı', href: '/yasal-uyari', keywords: 'yasal uyarı bilgilendirme' },
     { type: 'sayfa', title: 'Mevzuat yer imi aracı', href: '/bookmarklet', keywords: 'bookmarklet arama eklenti' },
     { type: 'sayfa', title: 'Vatandaş bilgi rehberi', href: '/bilgi', keywords: 'vatandaş rehber emlak kıdem icra boşanma' },
-    { type: 'sayfa', title: 'Hukuk fakültesi ders notları', href: '/ders-notlari', keywords: 'hukuk ders notu ücretsiz pdf fakülte' },
     { type: 'sayfa', title: 'Bölgesel hukuki makaleler', href: '/bolge-yazi', keywords: 'van bitlis ağrı tatvan ahlat miras tapu nüfus makale' },
 ];
 
@@ -140,30 +139,6 @@ try {
   }
 } catch (e) {
   console.warn('vatandas index skip', e.message);
-}
-
-// Ders notları — index.json hafif
-try {
-  const idx = JSON.parse(readFileSync(join(root, 'lib/ders-notlari/generated/index.json'), 'utf8'));
-  for (const u of idx.universities || []) {
-    pages.push({
-      type: 'ders-hub',
-      title: `${u.shortName} hukuk ders notları`,
-      href: `/ders-notlari/${u.slug}`,
-      keywords: `${u.name} ${u.city} hukuk fakültesi ders notu ücretsiz`,
-    });
-  }
-  // Öncelikli not örnekleri (tüm 3360'ı arama indexine basma)
-  for (const n of (idx.notes || []).slice(0, 400)) {
-    pages.push({
-      type: 'ders-not',
-      title: n.title,
-      href: n.href,
-      keywords: `${n.uniSlug} ${n.courseCode} hukuk ders notu`,
-    });
-  }
-} catch (e) {
-  console.warn('ders-notlari index skip', e.message);
 }
 
 mkdirSync(outDir, { recursive: true });

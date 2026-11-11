@@ -64,7 +64,6 @@ function add(path, prio = '0.9', freq = 'weekly') {
   '/hesaplama',
   '/icthat',
   '/avukat-fethi-guzel',
-  '/ders-notlari',
   '/bolge-yazi',
   '/bolge-yazi/van-golu-havzasi-tasinmaz-ve-miras-hukuku',
   '/bolge-yazi/ahlat-vakif-miras-ve-tarihi-tasinmazlar',

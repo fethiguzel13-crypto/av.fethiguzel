@@ -8,7 +8,7 @@
 import { chromium } from "playwright";
 
 const TABAN = (process.argv.find((a) => a.startsWith("--taban=")) || "").slice(8) || "http://localhost:3123";
-const SAYFALAR = ["/mevzuat/tbk", "/mevzuat", "/", "/ara?q=kira", "/hesaplama", "/bilgi", "/kavram", "/ders-notlari"];
+const SAYFALAR = ["/mevzuat/tbk", "/mevzuat", "/", "/ara?q=kira", "/hesaplama", "/bilgi", "/kavram"];
 
 const b = await chromium.launch();
 let kotu = 0;
